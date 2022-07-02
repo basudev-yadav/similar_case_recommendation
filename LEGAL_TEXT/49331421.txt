@@ -1,0 +1,1136 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Kodiak Networks (India) Private ... vs Assessee on 7 March, 2012
+
+    
+    
+    Page 1 of 36                                   1                      ITA No.970/Bang/2011
+    
+    
+                           INCOME TAX APPELLATE TRIBUNAL
+                               BANGALORE BENCHES 'B'
+    
+               BEFORE SHRI N K SAINI, ACCOUNANT MEMBER AND
+                  SHRI GEORGE GEORGE K, JUDICIAL MEMBER
+    
+                                     ITA No.970/Bang/2011
+                                      (Asst. Year 2007-08)
+    
+                   M/s Kodiak Networks (India)                 The Asst. Commissioner
+                   Private Ltd., 401, 4th Floor,               of Income Tax, Circle-
+                   'Prestige Sigma', 3, Vittal Mallya   vs     11(5), Bangalore
+                   Road, Bangalore-1.
+                   PA No.AACCK0978J
+                        (Appellant)                                (Respondent)
+    
+    
+                       Date of Hearing                  :    07.03.2012
+                       Date of Pronouncement            :    16.03.2012
+    
+    
+                       Appellant by  : Shri R Vijayaraghavan, C.A.
+                       Respondent by : Shri Etwa Munda, CIT-III
+    
+    
+                                            ORDER
+    
+
+PER GEORGE GEORGE K :
+
+This appeal of the assessee company is directed against the assessment
+completed under section 143(3) rws 144C of the I T Act. The relevant
+assessment year is 2007-08. The assessee is aggrieved by the order of the
+Dispute Resolution Panel (DRP) dated 16th August, 2011. The DRP has issued
+directions under section 144C(5) rws 144C(8). The DRP has approved the Draft
+Order of Assessment making transfer pricing adjustment as suggested by the
+Transfer Pricing Officer (TPO) under section 92CA of the Act.
+
+Page 2 of 36 2 ITA No.970/Bang/2011
+
+2\. The assessee has raised the following grounds:-
+
+> 1) The order of the learned Assessing Officer and directions of the Hon'ble
+> DRP are based on incorrect interpretation of law and therefore are bad in
+> law.
+
+> 2) On the facts and in the circumstances of the case and in law and based on
+> the directions of DRP, the learned Assessing Officer erred in assessing the
+> total income at Rs.3,25,93,235/- as against returned income of
+> Rs.13,60,601/- computed by the appellant.
+
+> 3) On the facts and in the circumstances of the case and in law and based on
+> the directions of Hon'ble DRP, the learned AO erred in disallowing the
+> software expenses amounting to Rs. 22,94,928 incurred by the Appellant
+> towards annual software license fees which was charged off as software
+> expenses to the Profit and Loss account as it does not result in any
+> enduring benefit to the company.
+
+> 4) On the facts and in the circumstances of the case and in law and based on
+> the directions of Hon'ble DRP, the learned AO erred in disallowing the
+> foreign exchange loss amounting to Rs.63,30,156 incurred by the Appellant on
+> restatement of export proceeds, import payables, travelling expenses, etc.,
+> which is revenue in nature and which has arisen in the normal course of
+> business.
+
+5) On the facts and in the circumstances of the case and in law and based on
+the directions of Hon'ble DRP, the learned AO erred in holding that the
+telecommunication expenses amounting to Rs.8,69,205 is attributable to the
+delivery of computer software outside India should be reduced from export
+turnover while computing the deduction under Section 1OA of the Act and
+
+6) On the facts and in the circumstances of the case and in law and based on
+the directions of Hon'ble DRP, the learned AO erred in holding that travel
+expenses amount to Page 3 of 36 3 ITA No.970/Bang/2011 Rs. 1,24,78,9 19
+incurred in foreign currency is for providing technical services and hence
+should be reduced from export turnover while computing the deduction u/s 1OA
+of the Act.
+
+7) On the facts and in the circumstances of the case and in law and based on
+the directions of Hon'ble DRP, the learned AO erred in law by not considering
+the alternative plea of the Appellant that, if the telecommunication expenses
+attributable to the delivery of computer software outside India and travel
+expenses incurred in foreign currency are reduced from export turnover, an
+equal amount should also be reduced from total turnover for computing the
+deduction u/s 1OA of the Act.
+
+Transfer Pricing Adjustment On the facts and in the circumstances of the case
+and in law:
+
+8) The learned AO / Transfer Pricing Officer ("TPO") erred in making an
+addition of Rs. 25,423,419 and Rs. 3,962,020, to the total income of the
+Appellant on account of adjustment in the arm's length price of the software
+development and related services and customer support services transactions
+entered by the Appellant with its associated enterprise.
+
+9) The learned AO/TPO erred in disregarding the economic analysis undertaken
+by the Appellant without proper justification and conducting a fresh economic
+analysis for the determination of the arm's length price in connection with
+the impugned international transactions and holding that the Appellant's
+international transactions are not at arm's length.
+
+10) The learned AO / TPO have erred in ignoring the fact that since that
+Appellant is availing tax holiday u/s 1OA of the Act, there is no intention to
+shift the profit base out of India, which is one of the basic intentions of
+the introduction of transfer pricing provisions.
+
+Page 4 of 36 4 ITA No.970/Bang/2011
+
+11) The learned AO / TPO erred in determining the arm's length margin/price
+using only financial year 2006-07 data, which was not available to the
+Appellant at the time of complying with the transfer pricing documentation
+requirements.
+
+12) The learned Assessing Officer/TPO erred in rejecting certain comparables
+considered by the Appellant in the comparability analysis by applying
+different quantitative and qualitative filters:
+
+a. the learned AO / TPO erred in rejecting certain comparable companies
+identified by the Appellant using turnover < Rs. 1 Crore as a comparability
+criterion; and b. the learned Assessing Officer/TPO erred in rejecting certain
+comparable companies identified by the Appellant as having economic
+performance contrary to the industry behavior (e.g. companies which showed a
+diminishing revenue trend); and
+
+13) The learned TPO erred in obtaining information which was not available in
+public domain by exercising powers u/s 133(6) of the Act and relying on the
+information for comparability analysis.
+
+14) The learned AO / TPO erred in not considering the foreign exchange
+fluctuation gain (loss) as part of the operating income while computing the
+operating margin.
+
+15) The learned AO / TPO erred in not making suitable adjustments on account
+of differences in the risk profile of the Appellant vis-a-vis the comparables,
+while conducting comparability analysis.
+
+16) The learned AO/TPO erred in computing the arm's length price without
+giving benefit of +/- 5 percent under the proviso to section 92C of the Act.
+
+Page 5 of 36 5 ITA No.970/Bang/2011
+
+17) The learned TPO has erred by performing a fresh search using both Prowess
+and Capitaline databases. Transaction specific grounds of appeal relating to
+transfer pricing - Software development and related services transaction
+
+18) The learned AO / TPO erred by accepting! rejecting certain companies based
+on unreasonable comparability criteria.
+
+19) The learned AO / TPO erred in rejecting certain comparables identified by
+the Appellant using 'onsite revenues greater than 75% of the export revenues'
+as a comparability criterion.
+
+20) The learned AO / TPO erred in wrongly computing the operating margins of
+some of the comparable companies. Transaction specific grounds of appeal
+relating to transfer pricing-Customer support services transaction
+
+21) The learned AO / TPO erred by accepting/rejecting certain companies based
+on unreasonable comparability criteria.
+
+Common grounds of appeal relating to corporate tax and transfer pricing
+matters
+
+22) The learned AO erred in levying interest of Rs.56,08,016 and Rs. 15,662/-
+u/s 234B and 234D of the Act respectively.
+
+23) The learned AO erred, in law and in facts, in initiating penalty
+proceedings u/s 271(1)(c) of the Act.
+
+3\. Ground nos. 1, 2 and 8 are general in nature and no specific adjudication
+is called for. Hence, these grounds are dismissed.
+
+Page 6 of 36 6 ITA No.970/Bang/2011 3.1. Ground Nos.22 and 23 is consequential
+and hence, these grounds are also rejected.
+
+3.2. Ground nos.3 to 7 mentioned above relates to the corporate tax matters.
+Ground Nos.9 to 21 relates to transfer pricing adjustment. We shall consider
+the grounds chronologically. Corporate Tax Matters
+
+4\. Ground No.3 : Software Expenses Debited to P&L Account During the previous
+year relevant to the concerned asst. year, the assessee company had debited to
+the P&L account an amount of Rs.22,94,928/- as software expenses. The details
+of the same are as follows:-
+
+i) Annual Software licence fee Rs. 19,29,480
+
+ii) Software Purchase Rs. 3,65,511 The assessee submitted that the software
+expenses charged to the P&L account largely represent expenses incurred
+towards annual software licence fee which are in the nature of annual
+maintenance charges (AMC) and purchase of other application software. It was
+submitted before the Assessing Officer that by incurring these expenses, there
+was no enduring benefit to the assessee and the same is allowable expenditure
+under section 37 of the Act. The Assessing Officer however disallowed the
+software expenses of Rs.22,94,928/- paid towards the purchase of application
+software and annual licence fee, considering the same to be capital in nature.
+The Assessing Officer held that since the assessee has used the words Page 7
+of 36 7 ITA No.970/Bang/2011 "software worth Rs.3,65,511/- has been
+purchased", it has been definitely brought in enduring benefit in perpetuity
+and hence, the same is to be capitalized. Further, the Assessing Officer held
+that the remaining part of the software expenditure amounting to
+Rs.19,29,418/- was expended to obtain continuous uninterrupted usage of the
+software and hence, it is nothing but an enduring benefit obtained by the
+assessee. 4.1 Aggrieved, the assessee is in appeal before us. 4.2 It was
+submitted that the said expenditure is an allowable expenditure under section
+37 of the Act on account of the following reasons:-
+
+> • These expenses were incurred for acquiring licensed software in the nature
+> of application software purchased/licensed from various vendors which grants
+> permission to use software only for a period of one year. Since, the
+> expenses were incurred for renewing the license of the software for a period
+> of only one year (and do not have an indefinite period of life), these were
+> treated as revenue expenditure and charged to profit and loss account.
+
+> • The software technology is undergoing rapid changes, and new and improved
+> software is launched in the market every day, rendering software obsolete
+> within a short time-frame. Given that the original software purchased
+> becomes redundant very quickly; this necessitates recurring expenditure to
+> be incurred by Kodiak India on constant up gradation of the same.
+
+> • Wherever the software purchased by Kodiak India results in enduring
+> benefit, such software have been capitalized by Kodiak India and only the
+> depreciation is being claimed on a year on year basis.
+
+The assessee also relied on the following judgements of various High Courts
+and the orders of various Tribunals:-
+
+Page 8 of 36 8 ITA No.970/Bang/2011 • Amway India Enterprises v DCIT (301 ITR
+(AT) 1) (Del.); • CIT v M/s Raychem RPG Limited (Bom.);
+
+• Bank of Punjab Ltd. v JCIT (2002) 122 Taxman Mag 235) (Chandigarh ITAT);
+
+• Mohd Ishaque,Mohd Gulam (1994) (210 ITR 817) (MP); • JCIT v Citicorp
+Overseas Softwares Ltd. (2004) 85 TTJ 87 (Mum. ITAT);
+
+• Lubi Electricals Pvt. Ltd. v DCIT (Ahm.) (ITA No.163 /Ahd/1992); • Business
+Information Processing Limited v ACIT (Ahm.) (ITA No.163/Ahd/1992);
+
+• Media Video Ltd. v JCIT (2002) 122 Taxman (Mag.) 28 (Del. ITAT); • ACIT v
+Jasper Investments Ltd. 109 TTJ 530 (Mum.); • GE Capital Services India v DCIT
+106 TTJ 65 (Del.); • CIT(A) v Southern Roadways Limited (2009) 183 Taxman 234
+(Chennai); & • IBM India Ltd. v CIT (2006) 290 ITR 183 (Bang.) 4.3 The learned
+DR supported the assessment order. 4.4 We have heard the rival submissions and
+perused the materials on record. The Hon'ble jurisdictional High Court in the
+case of CIT v M/s Toyota Kriloskar Motors Pvt. Ltd. (ITA No.174/2009 dated
+23rd March, 2011) has considered whether the expenditure in respect of
+purchase of software is capital or revenue. The Hon'ble High Court at para 3
+of its judgement held as follows :-
+
+> "As rightly pointed out by the authorities, when the life of a computer or
+> software is less than two years and as such, the right to use it is for a
+> limited period, the fee paid for acquisition of the said right is allowable
+> as revenue expenditure and these software if they are licenced for a
+> particular period, for utilising the same for the subsequent years fresh
+> licence fee is to be paid.
+
+Therefore, without renewing the licence or without paying the fee on such
+renewal, it is not possible to use those software. In those circumstances, the
+findings recorded by the authorities that the fee paid for Page 9 of 36 9 ITA
+No.970/Bang/2011 obtaining the software and the licence and for renewing the
+same is to be construed as only revenue expenditure do not call for
+interference by this Court.
+
+4.5 The Special Bench in the case of Amway India Enterprises v DCIT (301 ITR
+(AT) 1) had laid down various tests to determine whether the expenditure
+incurred for purchase of computer software is capital or revenue. In the
+instant case, the Assessing Officer did have the benefit of the judgement of
+Hon'ble jurisdictional High Court in the case of CIT v M/s Toyota Kriloskar
+Motors Pvt. Ltd. (supra) when she passed the impugned assessment order. The
+Assessing Officer has also not referred to the order of the Special Bench of
+the Tribunal in the case of Amway India Enterprises (Supra). The Special Bench
+had laid various principles to determine whether the expenditure incurred for
+the purchase of a software licence is capital or revenue. The judgement of
+Hon'ble jurisdictional High Court and the order of the Special Bench cited
+supra are directly applicable to the facts of the instant case. Since the
+impugned order of the Assessing Officer did not consider the judgement of the
+Hon'ble High Court and the order of the Special Bench, we deem it fit and
+proper to restore the matter to the Assessing Officer for an elaborate
+discussion on the same. The assessee shall produce the details with reference
+to the expenditure incurred and shall cooperate with the Assessing Officer for
+expeditious disposal of the matter. It is ordered accordingly. Therefore,
+ground nos.3 is allowed for statistical purposes.
+
+Page 10 of 36 10 ITA No.970/Bang/2011
+
+5\. Ground No.4 : Foreign Exchange loss debited to P&L Account During the
+assessment year 2007-08, the assessee company had debited the P&L account with
+the net foreign exchange loss of Rs.58,40,841/-. The break-up of the same is
+as follows:-
+
+Sl. No. Particulars Amount (in Rs.)
+
+1\. Restatement of export sale proceeds, 62,04,206 debtors & bank balances
+
+2\. Travel & other expenses 1,25,950
+
+3\. Trade Imports payable for assets (4,89,314) purchased TOTAL 58,40,841 It
+was claimed before the Assessing Officer that the loss debited to the P&L
+account is in accordance with Accounting Standard 11 as prescribed by the
+Institute of Chartered Accountants of India. It was further submitted that
+these were losses arises in the normal course of doing business and therefore,
+should be considered as revenue in nature. The Assessing Officer however
+disallowed the foreign exchange loss amounting to Rs.63,30,156/- considering
+the same to be contingent in nature. 5.1 Aggrieved, the assessee is in appeal
+before us. 5.2 It was submitted that the foreign exchange loss was on account
+of restatement of export sale proceeds, debtors and bank balances and towards
+travelling expenses, which have arisen in the normal course of business and
+therefore should be considered as revenue in nature. Further it was submitted
+that the loss on account of exchange rate fluctuation has been expensed in the
+books of accounts during the assessment year 2007-08 as :
+
+    
+    
+     Page 11 of 36                             11                 ITA No.970/Bang/2011
+    
+    
+                          i)       Such loss/gain has arisen on trading account,
+    
+
+during the course of business operations and is incidental to the same.
+
+ii) Since Kodiak India is following mercantile system of accounting, exchange
+loss incurred by Kodiak India cannot be considered as contingent in nature.
+The assessee also placed reliance on the judgement of the Hon'ble Apex Court
+in the case of CIT v Woodward Governor India Private Limited (312 ITR 254),
+Sutlej Cotton Mills Ltd. v CIT (116 ITR 1), Oil and Natural Gas Corporation
+Limited v DCIT (261 ITR 1) (Del.) and Sujata Grover (74 TTJ
+
+347) (Del.).
+
+    
+    
+    5.3             The learned DR present was duly heard.
+    
+    5.4             We have heard the rival submissions and perused the materials
+    
+    
+
+on record. In the case of CIT v Woodward Governor India Private Limited (312
+ITR 254), the Hon'ble Supreme Court analysed various issues relating to
+treatment of exchange gain/loss arising on account of the increase or decrease
+in the value of the foreign currency held on revenue account and upheld the
+contentions of assessee that market loss was allowable in the year in which it
+was recognized and debited to Profit and Loss Account, in terms of the
+mercantile method of accounting followed as per the mandatory Accountant
+Standard. In the instant case, the judgement of the Hon'ble Apex Court has not
+been considered by the Assessing Officer. Therefore, this issue needs to be
+restored to the Assessing Officer for a proper deliberation. Hence, this
+matter is restored to the file of the Assessing Officer. She shall decide the
+matter in accordance with the provisions of law and as per dictum laid down by
+the Hon'ble Apex Court in Page 12 of 36 12 ITA No.970/Bang/2011 the case of
+CIT v Woodward Governor India Private Limited (supra). The assessee shall be
+afforded a reasonable opportunity of being heard before any decision is
+rendered on the matter. It is ordered accordingly. Hence, ground no.4 is
+allowed for statistical purposes.
+
+6\. Ground Nos.5,6 & 7 : Re-computation of deduction under section 10A The
+assessee in its return of income had claimed deduction under section 10A of
+the Act to the tune of Rs.3,42,45,811/-. The Assessing Officer re-computed the
+deduction under section 10A of the Act by reducing from the export turnover a
+sum of Rs.8,69,205/- being telecommunication expenses and a sum of
+Rs.1,24,78,919/- being traveling expenses incurred in foreign currency. The
+Assessing Officer however did not reduce the above said expenses from the
+total turnover while computing deduction under section 10A of the Act.
+
+6.1 Aggrieved by the re-computation of deduction under section 10A of the Act,
+the assessee is in appeal before us. 6.2 It was submitted that the
+telecommunication expenses and the expenses incurred in foreign exchange for
+travel ought not to be excluded from the export turnover. Alternatively, it
+was contended that if the expenses are reduced from the export turnover, the
+same ought to be reduced also from the total turnover in the process of
+deduction under section 10A of the Act. It was submitted that the assessee's
+turnover is exclusively from the exports and hence, the assessee is only
+pressing for the alternative ground, namely, ground no.7. It was submitted
+that the Page 13 of 36 13 ITA No.970/Bang/2011 alternative submission, namely,
+when the expenses are reduced from the export turnover, the same should also
+be reduced from the total turnover is covered by the judgement of the Hon'ble
+jurisdictional High Court in the case of CIT v M/s Tata Elxsi Ltd. & Others
+(ITA No. 70 of 2009 dated 30/8/2011), Hon'ble Mumbai High Court in the case of
+CIT v Gem Plus Jewellery India Ltd. 330 ITR 175 and the order of the Special
+Bench in the case of ITO v M/s Sak Soft Ltd. 313 ITR (AT) 353, in which it has
+been held the following :-
+
+> "that the expenses should be reduced not only from export turnover but also
+> from the total turnover while computing deduction under section 10A of the
+> Act".
+
+6.3 The learned DR unable to controvert the submissions made by the learned
+AR.
+
+6.4 We have heard the rival submission and perused the material on record. The
+Hon'ble Karnataka High Court in the case of CIT v M/s Tata Elxsi Ltd. & Others
+had held that while computing the exemption u/s 10A, if the export turnover in
+the numerator is to be arrived at after excluding certain expenses, the same
+should also be excluded from the total turnover in the denominator. The
+relevant finding of the Hon'ble jurisdictional High Court reads as follows:-
+
+> "...........Section 10A is enacted as an incentive to exporters to enable
+> their products to be competitive in the global market and consequently earn
+> precious foreign exchange for the country. This aspect has to be borne in
+> mind.
+
+While computing the consideration received from such Page 14 of 36 14 ITA
+No.970/Bang/2011 export turnover, the expenses incurred towards freight,
+telecommunication charges, or insurance attributable to the delivery of the
+articles or things or computer software outside India, or expenses if any
+incurred in foreign exchange, in providing the technical services outside
+India should not be included. However, the word total turnover is not defined
+for the purpose of this section. It is because of this omission to define
+'total turnover', the word 'total turnover' falls for interpretation by this
+Court;
+
+........In section 10A, not only the word 'total turnover' is not defined,
+there is no clue regarding what is to be excluded while arriving at the total
+turnover. However, while interpreting the provisions of section 80HHC, the
+courts have laid down various principles, which are independent of the
+statutory provisions. There should be uniformity in the ingredients of both
+the numerator and the denominator of the formula, since otherwise it would
+produce anomalies or absurd results. Section 10A is a beneficial section which
+intends to provide incentives to promote exports. In the case of combined
+business of an assessee, having export business and domestic business, the
+legislature intended to have a formula to ascertain the profits from export
+business by apportioning the total profits of the business on the basis of
+turnovers. Apportionment of profits on the basis of turnover was accepted as a
+method of arriving at export profits. In the case of section 80HHC, the export
+profit is to be derived from the total business income of the assxcessee,
+whereas in section 10-A, the export profit is to be derived from the total
+business of the undertaking. Even in the case of business of an undertaking,
+it may include export business and domestic business, in other words, export
+turnover and domestic turnover. To the extent of export turnover, there would
+be a commonality between the numerator and the denominator of the formula. If
+the export turnover in the numerator is to Page 15 of 36 15 ITA
+No.970/Bang/2011 be arrived at after excluding certain expenses, the same
+should also be excluded in computing the export turnover as a component of
+total turnover in the denominator. The reason being the total turnover
+includes export turnover. The components of the export turnover in the
+numerator and the denominator cannot be different. Therefore, though there is
+no definition of the term 'total turnover' in section 10A, there is nothing in
+the said section to mandate that, what is excluded from the numerator that is
+export turnover would nevertheless form part of the denominator. When the
+statute prescribed a formula and in the said formula, 'export turnover' is
+defined, and when the 'total turnover' includes export turnover, the very same
+meaning given to the export turnover by the legislature is to be adopted while
+understanding the meaning of the total turnover, when the total turnover
+includes export turnover. If what is excluded in computing the export turnover
+is included while arriving at the total turnover, when the export turnover is
+as a component of total turnover, such an interpretation would run counter to
+the legislative intent and impermissible. Thus, there is no error committed by
+the Tribunal in following the judgements rendered in the context of section
+80HHC in interpreting section 10A when the principle underlying both these
+provisions is one and the same".
+
+6.5 The Hon'ble Mumbai High Court in the case of Gem Plus Jewellery India Ltd.
+(supra), in identical circumstances, held that since the export turnover forms
+part of the total turnover, if an item is excluded from the export turnover,
+the same should also be reduced from the total turnover to maintain parity
+between numerator and denominator while calculating deduction u/s 10A of the
+Act. The relevant finding of the Hon'ble Mumbai High Court reads as follows:-
+
+Page 16 of 36 16 ITA No.970/Bang/2011 "The total turnover of the business
+carried on by the undertaking would consist of the turnover from export and
+the turnover from local sales. The export turnover constitutes the numerator
+in the formula prescribed by sub-section (4). Export turnover also forms a
+constituent element of the denominator in as much as the export turnover is a
+part of the total turnover. The export turnover, in the numerator must have
+the same meaning as the export turnover which is constituent element of the
+total turnover in the denominator. The legislature has provided a definition
+of the expression "export turnover" in Expln.2 to s.10A which the expression
+is defined to mean the consideration in respect of export by the undertaking
+of articles, things or computer software received in or brought into India by
+the assessee in convertible foreign exchange but so as not to include inter
+alia freight, telecommunication charges or insurance attributable to the
+delivery of the articles, things or software outside India. Therefore in
+computing the export turnover the legislature has made a specific exclusion of
+freight and insurance charges. The submission which has been urged on behalf
+of the revenue is that while freight and insurance charges are liable to be
+excluded in computing export turnover, a similar exclusion has not been
+provided in regard to total turnover. The submission of the revenue, however,
+misses the point that the expression "total turnover" has not been defined at
+all by Parliament for the purposes of s.10A. However, the expression "export
+turnover" has been defined. The definition of "export turnover" excludes
+freight and insurance. Since export turnover has been defined by Parliament
+and there is a specific exclusion of freight and insurance, the expression
+"export turnover" cannot have a different meaning when it forms a constituent
+part of the total turnover for the purposes of the application of the formula.
+Undoubtedly, it was open to Parliament to make a provision which has been
+enunciated earlier must prevail as a matter of correct statutory
+interpretation. Any other interpretation would lead to an absurdity. If the
+contention Page 17 of 36 17 ITA No.970/Bang/2011 of the Revenue were to be
+accepted, the same expression viz. 'export turnover' would have a different
+connotation in the application of the same formula. The submission of the
+Revenue would lead to a situation where freight and insurance, though these
+have been specifically excluded from 'export turnover' for the purposes of the
+numerator would be brought in as part of the 'export turnover' when it forms
+an element of the total turnover as a denominator in the formula. A
+construction of a statutory provision which would lead to an absurdity must be
+avoided. Moreover, a receipt such as freight and insurance which does not have
+any element of profit cannot be included in the total turnover. Freight and
+insurance charges do not have any element of turnover. For this reason in
+addition, these two items would have to be excluded from the total turnover
+particularly in the absence of a legislative prescription to the contrary -
+CIT v Sudarshan Chemicals Industries Ltd. (2000) 163 CTR (Bom) 596: (2000) 245
+ITR 769 (Bom) applied; CIT v Lakshmi Machine Works (2007) 210 CTR (SC) 1:
+(2007) 290 ITR 667 (SC) and CIT v Catapharma (India) (P) Ltd. (2007) 211 CTR
+(SC) 83: (2007) 292 ITR 641 (SC) relied on"
+
+6.6. In the case of Sak Soft Ltd. (supra), the assessee was engaged in the
+business of exporting computer software and claimed deduction u/s 10B of the
+Act. In completing the assessment u/s 143(3) of the Act, the AO reduced the
+expenditure incurred in foreign exchange in providing the technical services
+outside India, from the export turnover without corresponding reduction from
+total turnover, thereby reducing the deduction claimed by the assessment u/s
+10B of the Act. 6.7. In light of the above facts, the Special Bench held as
+under:-
+
+Page 18 of 36 18 ITA No.970/Bang/2011 "For the above reasons, we hold that for
+the purpose of applying the formula under sub-section (4) of section 10B, the
+freight, telecom charges or insurance attributable to the delivery of articles
+or things or computer software outside India or the expenses, if any, incurred
+in foreign exchange in providing the technical services outside India are to
+be excluded both from the export turnover and from the total turnover, which
+are the numerator and the denominator respectively in the formula. The appeals
+filed by the department are thus dismissed".
+
+6.8 In the light of the above judgements and the order of the Special Bench
+(Supra), we direct the AO to exclude the above mentioned expenses both from
+the export turnover as well as from the total turnover while calculating
+deduction u/s 10A of the Act. It is ordered accordingly. Hence, the ground No.
+7 is allowed. Since the alternative plea of the assessee is allowed, the
+ground nos. 5 & 6 raised by the assessee is not adjudicated.
+
+7\. Ground Nos. 9 to 21 : Transfer Pricing Adjustment Briefly stated the facts
+in relation to transfer pricing adjustment are as follows:-
+
+According to the assessee, it is a captive service provider engaged in
+providing software development and related services (software services), sales
+and marketing support and customer support services (CSS or ITES) to its
+Associated Enterprises (AE). For the assessment year 2007-08, the impugned
+international transactions of the assessee company with its Associated
+Enterprises was as under:-
+
+Page 19 of 36 19 ITA No.970/Bang/2011 Nature of International Transactions
+Amount in Rs.
+
+    
+    
+               Software Services                             28,57,55,540
+               Sales & Marketing Support and Customer         2,57,18,896
+               Support Services (CSS/ITES)
+    
+    
+    
+
+For the purpose of establishing the Arm's Length Price (ALP) of its
+international transactions with its AEs, the assessee had undertaken a
+Transfer Pricing (TP) study, carried out by an independent external
+consultant. Based on the TP study, the independent external consultant
+concluded that the price received by the assessee in respect of its
+transactions with AEs is at arm's length. The key features of the TP study
+undertaken by the assessee for software services and ITES are summarized
+below:-
+
+> i) As per the functional analysis, the assessee was selected as the tested
+> party;
+
+> ii) Transactional Net Margin Method (TNMM) was determined as the most
+> appropriate method to determine the ALP;
+
+> iii) The search was conducted on Prowess database for obtaining publicly
+> available financial information of companies in India engaged in similar
+> business activity as that of the assessee to select comparable companies.
+
+> iv) Given the nature of the international transactions under review,
+> economic conditions, differences in business or product life cycles and
+> other relevant factors, financial data for FY 2004-05, FY 2005-06 and FY
+> 2006-07 was considered.
+
+> v) The searches on the databases yielded a set of 28 comparables and 4
+> comparables for software services and ITES respectively, with weighted
+> average operating profit/operating cost of 10.62% and 13.30% for software
+> services and ITES, respectively.
+
+vi) No adjustment was made to the margins of the comparable companies to take
+into consideration the Page 20 of 36 20 ITA No.970/Bang/2011 difference in
+risks assumed by the comparable companies vis-à-vis the assessee.
+
+7.1 The Transfer Pricing Officer re-determined the ALP for the provision of
+software services and ITES transactions. The details of study undertaken by
+the TPO reads as follows:-
+
+> The TPO did not accept the economic analysis undertaken by the assessee
+> company and identified new comparables at the time of assessment
+> proceedings.
+
+> The TPO used single year data (FY 2006-07) for economic analysis, instead of
+> data for FY 2004-05 to 2006-07 used by the assessee company;
+
+> The TPO has re-determined the operating margins of comparable companies by
+> considering foreign exchange gain/losses as non-operating in nature;
+
+> The TPO was of the view that some of the comparable companies identified by
+> the assessee company and the approach adopted for undertaking the economic
+> analysis were not appropriate. The TPO applied certain filters for the
+> selection of comparable companies. In arriving at the ALP, the TPO rejected
+> certain comparables identified by the assessee company on the following
+> filters:-
+
+> o Companies having turnover less than 1 crore were rejected for software
+> services and ITES;
+
+> o Companies having economic performance contrary to the industry behavior
+> (e.g. companies which showed a diminishing revenue trend);
+
+> Page 21 of 36 21 ITA No.970/Bang/2011 o Companies having onsite revenues
+> greater than 75% of the export revenues' were rejected for software
+> services.
+
+> • The TPO obtained information by exercising his power vested under section
+> 133(6) of the Act and used the same for judging comparability with the
+> assessee company;
+
+> • The TPO provided an adjustment towards capital of 2.23% and 2.89% for
+> software services and ITES respectively. The adjusted net margins of
+> comparable companies after providing the working capital adjustment was
+> determined at 22.91% and 27.66% on operating cost for software services and
+> ITES respectively.
+
+> 7.2 The details of the comparable companies as per TPO in software
+> development and related services and the customer support services are as
+> follows:-
+
+> Software development and related services Sl. Name of the Company As per
+> Order of TPO No.
+    
+    
+                                                               Sales in         Operating
+                                                               Rs. Crore        Margin
+            1       Accel Transmatics Limited (Seg.)                 9.68        21.11%
+            2       Avani Cimcon Technologies Limited                3.55        52.59%
+            3       Celestial Labs Limited                          14.13        58.35%
+            4       Datamatics Limited                              54.51           1.38%
+            5       E-zest Solutions Limited                         6.26         36.12%
+            6       Flextronics Software Systems Limited         848.66           25.31%
+            7       Geometric Limited (Seg.)                     158.38           10.71%
+            8       Helios & Matheson Information Technology     178.63           36.63%
+                    Limited
+            9       iGate Global Solutions Limited (Seg.)        747.27            7.49%
+            10      Infosys Technologies Limited               13,149.00          40.30%
+     Page 22 of 36                                   22                      ITA No.970/Bang/2011
+    
+              11     Ishir Infotech Limited                          7.42          30.12%
+              12     KALS Infosystems Limited                        2.00          30.55%
+              13     Lanco Global Systems Limited                  45.39           15.75%
+              14     Lucid Software Limited                         1.70           19.37%
+              15     Mediasoft Solutions (P) Limited                1.85            3.66%
+              16     Megasoft Limited                             139.33           60.23%
+              17     Mindtree Consulting Limited                  590.35           16.90%
+              18     Persistent Systems Limited                   293.75           24.52%
+              19     Quintegra Solutions Limited                   62.72           12.56%
+              20     R S Software (India) Limited                 101.04           13.47%
+              21     R Systems International Limited (Seg.)       112.01           15.07%
+              22     S I P Technologies and Exports Limited         3.80           13.90%
+              23     Sasken Communication Technologies Ltd.      343.57            22.16%
+              24     Tata Elxsi Limited (Seg.)                   262.58            26.51%
+              25     Thirdware Solutions Limited                   36.08           25.12%
+              26     Wipro Limited                              9,616.09           33.65%
+    
+              ARITHMETIC    MEAN   BEFORE           WORKING                        25.14%
+              CAPITAL RISK ADJUSTMENT
+    
+              Less   Working Capital Adjustment                                    2.23%
+    
+              ARITHMETIC MEAN AFTER WORKING CAPITAL                               22.91%
+              ADJUSTMENT
+    
+         Margin earned by Kodiak India as per TP order                 12.84%
+    
+    
+                                       Customer Support services
+    
+    
+          Sl.              Name of the Company                       As per Order of TPO
+          No.
+                                                                     Sales in     Operating
+                                                                     Rs. Crore    Margin
+          1        Accentia Technologist Limited (Seg.)                   16.57    30.61%
+          2        Aditya Birla Mincas Worldwide Limited (formerly      197.06     11.98%
+                   known as Transworks Inform)
+          3        Allsec Technologies Limited                         113.28      27.31%
+          4        Apex Knowledge Solutions Pvt. Ltd.                    6.64      12.83%
+          5        Appollo Healthstreet Limited                         47.84      13.55%
+          6        Asit C Mehta Financial Services Limited              6.09       24.21%
+          7        Bodthtree Consulting Limited (Seg.)                  2.94       29.58%
+          8        Caliber Point Business Solutions Limited            39.30       21.26%
+          9        Cosmic Global Limited                                 4.28      12.40%
+          10       Datanmatics Finbancial Services Limited (Seg.)       2.92        5.07%
+          11       Ecerx Services Limited                              86.12       89.33%
+          12       Flextronics Software Systems Limited (Seg.)         12.93        8.62%
+          13       Gensys International Corporation Limited            19.17       13.35%
+          14       HCL Comnet Systems & Services Limited (Seg)        260.18       44.99%
+          15       ICRA Techno Analytics Limited (Seg)                  7.23       12.24%
+     Page 23 of 36                                23                    ITA No.970/Bang/2011
+    
+          16   Informed Technologies India Limited                   4.08     35.56%
+          17   Infosys BPO Limited                                 649.56     28.78%
+          18   Iservices India Private Limited                      16.29     49.27%
+          19   Maple Esolutions Limited                             12.21     34.05%
+          20   Mold Tek Technologies Limited (Seg)                  11.40    113.49%
+          21   R Systems International Limited (seg)                17.34     20.18%
+          22   Spanco Limited (seg)                                 17.34     25.81%
+          23   Triton Corp Limited                                  35.00     34.93%
+          24   Vishal Information Technologies Limited              30.60     51.19%
+          25   Wipro Limited (seg)                                 939.78     29.70%
+          26   Nittany Outsourcing Services Pvt. Ltd.               23.23     11.50%
+          27   Accurate Data Converters                              4.33     50.68%
+          28   Apex Advanced Technology Pvt. Limited                 7.93     39.89%
+    
+          ARITHMETIC MEAN BEFORE WORKING CAPITAL                             30.55%
+          AND RISK ADJUSTMENT
+          Less : Working capital adjustment                                   2.89%
+    
+          ARITHMETIC MEAN        AFTER    WORKING        CAPITAL             27.66%
+          ADJUSTMENT
+    
+    
+           Margin earned by Kodiak India as per TP order                     10.62%
+    
+    
+    7.3             The Assessing Officer issued Draft Assessment Order dated
+    
+    
+
+> 18th November, 2010 proposing an addition of Rs.2,93,85,439/- on account of
+> TP adjustment. The assessee company objected against the draft assessment
+> order issued by the Assessing Officer under section 143(3) rws 144C(1) of
+> the Act before the DRP. The DRP agreed with the views of the Assessing
+> Officer/TPO and rejected the contentions raised by the assessee company.
+
+> 7.4 The assessee company being aggrieved is in appeal before us.
+
+7.5 The learned AR submitted that the TPO has erred in identifying new
+comparables at the time of assessment proceedings. It was submitted that the
+TPO failed to appreciate that such data was not available in public domain at
+the time of complying with the mandatory TP Page 24 of 36 24 ITA
+No.970/Bang/2011 documentation required by the prescribed due date. It was
+stated that the TPO has erred in using only single year data for his economic
+analysis. The assessee, it was submitted, had used the data for the FY 2004-05
+and FY 2005-06, apart from the data available for the FY 2006-07 in the case
+of all the companies identified as comparables to the software services and
+ITES transactions. It was argued that the TPO applied certain filters and did
+not undertake an objective comparative analysis for selection of comparable
+companies. It was further submitted that the TPO had obtained information,
+which was not available in public domain from some other companies by
+exercising his powers vested under section 133(6) of the Act and using the
+same for judging the comparability with the assessee company. 7.5.1 It was
+contended that the TPO did not make suitable adjustments to account for
+differences in the risk profile of the assessee vis-à-vis the comparable
+companies. The learned AR contended that the TPO based on additional analysis
+and information obtained under section 133(6), identified 3 new companies as
+comparable to Assessee Company which did not feature in the show cause notice
+for the ITES transaction and the assessee was not provided an opportunity to
+evaluate these companies for comparability purpose. It was stated that the TPO
+did not consider that the adjustment to the ALP, if any, should be limited to
+the lower end of the 5% range as the assessee has the right to exercise this
+option under the proviso to section 92C(2) of the Act.
+
+7.5.2. The Ld. A R finally stated that most of the above issues raised in the
+present appeal under consideration have since been covered in the Page 25 of
+36 25 ITA No.970/Bang/2011 assessee's own case in ITA No.1413/Bang/2010 dated
+27.1.2012 for the AY 2006-07, such of the issues, namely:
+
+(i) the comparable having the turnover of more than Rs.1 crore, but, less than
+Rs.200 crores;
+
+(ii) all the information relating to comparables which were sought to be used
+against the appellant to be furnished to the appellant;
+
+(iii) the appellant has to be extended an opportunity to cross-examine the
+parties whose replies sought to be used against the appellant;
+
+(iv) to give the benefit of +/- 5 per cent under the proviso to s.92C(2) of
+the Act;
+
+(v) with regard to deduction u/s 10A of the Act, etc., 7.5.3. The Ld. A. R.,
+however, again put stress on the following three issues, namely:
+
+> (1) The AO/TPO erred in not considering the foreign exchange fluctuation
+> gain (loss) as part of the operating income while computing the operational
+> margin.
+
+In this connection, it was argued that the appellant had used TNMM as the most
+appropriate method which provides that in applying the method, the net margin
+was to be computed in relation to costs incurred or sales effected or assets
+employed by the enterprise. However, it was argued that the TPO had excluded
+the foreign exchange fluctuation (income/expenses) stating that these were
+non-operating in nature. It was, however, argued by the Ld. A R that the
+foreign exchange fluctuation gain (loss) were closed linked to the business
+operation and did not constitute abnormal-extra-
+
+Page 26 of 36 26 ITA No.970/Bang/2011 ordinary items. Those differences arise
+on account of number of factors, some of which, were explained as under:
+
+(i) Realized foreign exchange gain/loss:
+
+> (a) Export proceeds at a rate higher/lower than the rate at which they were
+> booked;
+
+> (b) Import payables at a rate lower/higher than the rate at which they were
+> booked;
+
+(c) Adjustment of customer advances (received in foreign currency) against
+export invoices Relies on case laws:
+
+> Sujata Grover 74 TTJ (Del);
+
+> Renaissance Jewellery (P) Ltd v. ITO (2006) 101 ITD 830 (Mum) SAP Labs India
+> Pvt. Ltd 44 SOT 156 (Bang);
+
+> CIT v. Gem Plus Jewellery India Ltd (2011) 330 ITR 175(Bom); & M/s. Four
+> Soft Ltd [ITA No;1495/Hyd/2010 - ITAT, Hyderabad.
+
+(ii) Unrealized foreign exchange gains/loss on account of restatement (in the
+financial statements) of the following as on the last day of the year Export
+receivables/import payables; & Advances received from customers in foreign
+currency Deutsche Bank A.G v. DCIT 86 ITD 431;
+
+Bestobell (India) Ltd v. CIT 117 ITR 789 (Cal); Ongc Ltd v. DCIT (2003) 261
+ITR 1 (Delhi ITAT);
+
+CIT v. Woodward Governor India (P) Ltd (2007) 162 Taxman 60 Page 27 of 36 27
+ITA No.970/Bang/2011 Thus, it was submitted that the exchange gains/losses in
+connection with the income/expenses earned/incurred in foreign currency
+retains the same character of the income/expense in connection with which it
+has been earned/incurred. These items of income and expenditure would
+generally be in the nature of export proceeds, import payables, traveling
+expenses etc., it was, further, submitted that those items have direct nexus
+with the operating profit/loss of the enterprises. Without appreciating the
+above, it was submitted that the TPO had erred in not considering the
+realized/unrealized foreign exchange gain/loss as operating in nature. In
+conclusion, it was submitted that as the same was normal expenditure incurred
+in the ordinary course of business and, therefore, should not have been
+excluded by treating them as non-recurring item of expenditure while computing
+the operating margin.
+
+(2) With regard to difference in the risk profile, it was the submission of
+the Ld. A R that the authorities below have erred by not making suitable
+adjustments to account for differences in the risk profile of the assessee
+vis-à-vis the comparables; that the assessee undertakes functions under a
+limited risk environment vis-à-vis comparable companies who bear
+entrepreneurial risk being independent service providers and, accordingly, an
+adjustment for risk level differences was warranted. It was, further,
+contended that the assessee had used the TNMM in determining the ALP for the
+international transaction entered into during the FY 2006- 07; that the
+provisions of rule 10B of the Rules prescribes the methods to be used and
+manner in which it was to be used in determining the ALP relating to any
+international transaction.
+
+Page 28 of 36 28 ITA No.970/Bang/2011 Extensively quoting the provisions of
+rule 10B (1)(e) of I.T. Rules, it was argued that:
+
+> One of the principal elements for TP purposes is the analysis of risks
+> assumed by the respective parties. In the open market theory, the assumption
+> of increased risk is normally compensated by an increase in the expected
+> return. Accordingly, controlled and uncontrolled transactions are comparable
+> only when adjustments with respect to significant differences between them
+> in the risks assumed is made.
+
+> A risk analysis begins with the identification of specific and realistic
+> risks borne by each related party. It is also important to note that
+> economically significant risks count for transfer pricing purposes. Non-
+> economically significant risks are of minor importance due to their small or
+> negligible impact on the profits. Also, it is the significance of risks that
+> positively correlates to the amount of expected return.
+
+> As evident from the transfer pricing report, the appellant functions under a
+> limited risk environment vis-à-vis entrepreneurial risk borne by comparable
+> companies who are independent service providers. Accordingly, it is
+> operating under economic circumstances that warrant adjustments to the
+> margins earned by the comparable companies, so as to make the comparison
+> between the margins earned by the comparable companies and the appellant
+> appropriate.
+
+The comparables selected for the analysis include companies which have fairly
+diversified areas of specialization, perform additional functions viz.,
+marketing, etc, and bear more risks akin to any third party independent
+service provider vis-à-vis the appellant. The risks such as legal risk,
+marketing risk, business risk, etc., are normally associated with every
+independent company whereas the appellant is generally insulated from these
+risks. Further, the appellant Page 29 of 36 29 ITA No.970/Bang/2011 bears
+lesser business risk than independent comparable enterprises due to the nature
+of its revenue model. It is guaranteed profits by way of a mark-up on costs
+incurred, regardless of its success or failure. As a consequence, the margins
+earned by the appellant would be comparatively lower to reflect the lower
+level of business risk. In addition, it may be noted that among other risks,
+the appellant does not bear any credit risk.
+
+Where a related party sets prices for inter-company transactions so that the
+appellant receives a specified level of operating profitability, the pricing
+policy can have the effect of removing virtually all business risk from the
+controlled entity. When analyzing controlled entities that bear such a low
+level of risk by reference to a set of broadly comparable independent firms -
+as is the case under TNMM - it is a challenge to identify independent firms
+that are sufficiently comparable to the controlled entities in terms of risks
+assumed. In circumstances where the appellant has been effectively guaranteed
+a fixed return, functional similarity does not adequately address this risk
+differential. In such cases, an adjustment to the comparables for this risk
+differential seems warranted under the rules and would provide a more precise
+pricing of the true risk borne by the appellant.
+
+To buttress its claim, the assessee placed reliance on the following case
+laws:
+
+> (a) Westreco Inc. 64 CCH TCM 849;
+
+> (b) Mentor Graphics (Delhi ITAT);
+
+(c) Philips Software Centre Pvt. Ltd. (ITA, Bng)
+
+(d) E-gain Communication Pvt. Ltd (ITAT, Pune) In respect of single customer
+risk, it was submitted that -
+
+Though, the assessee (a captive service provider) did not transact with any
+other independent party and provided all the services only Page 30 of 36 30
+ITA No.970/Bang/2011 to its AE and that the single customer risk was
+insignificant based on the following:
+
+> o The appellant has been providing software development and related services
+> and ITES to its AE (i.e., single customer) for a long time. The appellant
+> since the commencement of its operations in India has been making profits
+> irrespective of the performance of the IT/ITES industry in India. The
+> appellant does not bear any risk of incurring losses due to under
+> utilization of capacity or insufficient business from its AE as it is
+> compensated on cost plus basis i.e., all the cost incurred by the appellant
+> are borne by the AE and reimbursed along with a mark-up;
+
+> o Given the continued operations of the appellant for the subsequent years
+> (i.e., FY 2007-08 to 2009-10), it is quite unlikely that the appellant would
+> be winding off its business/operations in India o As mentioned in the
+> documentation report, the AE does not avail similar services from any other
+> third party in India and is, in a way, somewhat dependent on the appellant
+> for deliverables/execution. While the appellant does not undertake any
+> marking activity and is dependent on its parent/group for business, the AE
+> is also somewhat dependent on the Indian entity for its
+> operations/deliverables. Given the above and keeping in mind the fact that
+> the AE has not attempted to engage another Indian person to perform software
+> development support services in the subsequent years, it is quite unlikely
+> that the AE would disassociate itself from this arrangement with the
+> appellant.
+
+Exhaustively deliberating market risk, political/country risk and also taking
+cue from the findings of the earlier Bench in the case of Philips Software
+Centre Private Limited v. ACIT and based on the methodology outlined in the
+Page 31 of 36 31 ITA No.970/Bang/2011 said findings, the assessee had computed
+the risk adjustments to be made to the margins of the comparable companies and
+the summary computation is as under:
+
+    
+    
+    
+    
+    Average prime lending rate during FY 2006-07 (A)                  11.88 percent
+    Average bank rate during FY 2006-07 (B)                           06.00 percent
+    Difference between the prime lending rate and bank rate           05.88 percent
+    Risk adjustment (C)                                               05.88 percent
+    
+    
+
+In conclusion, it was pleaded that in the light of the principles embodied in
+the above findings, the benefit of a risk adjustment be extended to the
+assesseee.
+
+(3) Another grievance of the assessee was that Celestial Lab Limited
+(Celestial Labs) ought not to have been selected as a comparable. In this
+connection, the Ld. AR had submitted that Celestial Labs was a diversified
+company operating in varied fields such as rendering IT Services encompassing
+application development and maintenance production support, EERP, data ware-
+housing SAP implementation. Celestial Labs was also is into manufacturing and
+trading of products such as ERP package for manufacturing and had a product
+'Sanjivani' which was a portal for live ayurvedic consultation. The company
+was also engaged in the distribution of herbal ayurvedic products.
+
+Further illustrating, it was explained that - SAP Services: Celestial delivers
+SAP consulting, SAP implementation and post-SAP implementation services for
+its customers. Celestial was engaged in implementing SAP for customers from
+initial planning, design and Page 32 of 36 32 ITA No.970/Bang/2011
+implementation to maintenance and on going optimization. Celestial helps the
+company align IT Solutions with business strategies. Cel Sanjivani products:
+Cel Sanjivani was a part of Celestial Labs Ltd, an ISO 9001-2000 company
+working in this space of Bio-informatics and Gio- technology. The goal was to
+become a primary market place for the herbal products providing quality
+products to the customers and industrial community. This is an ayurvedic
+portal dedicated to B28 & C market with online live consulting with out
+ayurvedic consultants. It provides excellent platform for trading of herbal
+products with identification raw herbs, scientific data, market and trade
+data, monographs, policy, laws, good manufacturing practices, DNA finger
+printing etc. It facilitates contacts with suppliers, manufacturers and
+dealers of herbal Pharma industry.
+
+In conclusion, the essence of the Ld. A.R's submission was that the activities
+undertaken Celestial Labs were in the nature of providing multitude of IT
+related services and some trading activity which was not comparable with the
+assessee and, thus, it was not comparable to the functional profile of the
+assessee and, accordingly, ought not to have been considered as comparable.
+
+7.6 On the other hand, the Ld. D R fairly submitted that most of the issues
+raised by the assessee have since been dealt with in the assessee's own case
+in the immediately preceding assessment year wherein the earlier Bench had
+remitted back the issues to the TPO for fresh consideration. As such, the Ld.
+D R was in agreement with the plea of the Page 33 of 36 33 ITA
+No.970/Bang/2011 Ld. A R to the effect that it would be appropriate to remit
+back the present issues too to the TPO for fresh consideration as in the case
+of the preceding assessment year.
+
+7.7 We have carefully considered the rival submissions and also diligently
+perused the relevant records as well as the case laws on which the Ld. A R had
+placed reliance. It is a fact, as conceded by both the counsels, that most of
+the issues raised under the heads 'transfer pricing adjustments' have also
+cropped up in the assessee's own case for the AY 2006-07 wherein the earlier
+Bench had, after due consideration of the facts and for the reasons recorded
+therein, remitted back the issues to the TPO for fresh consideration. In
+consonance with the findings of the earlier Bench, we are of the firm view
+that the issues listed out by the appellant require fresh consideration at the
+level of the TPO. Accordingly, we remit back the entire issues to the file of
+the TPO for needful. It is needless to reiterate that the directions of the
+earlier Bench contained its findings in the assessee's own case for the AY
+2006-07 hold-good for this assessment year under consideration also. The
+specific directions in assessee's case for assessment year 2006-07, for ready
+reference reproduced below :-
+
+> (i) the operating revenue and the operating cost of the transactions
+> relating to associated enterprises only shall be considered;
+
+> (ii) the comparables having the turnover of more than Rs.1 crore, but, less
+> than Rs.200 crores only shall be taken into consideration;
+    
+    
+     Page 34 of 36                           34                 ITA No.970/Bang/2011
+    
+    
+                    (iii)    all the information relating to comparables which were
+    
+
+> sought to be used against the appellant shall be furnished to the appellant;
+
+> (iv) the appellant shall also be extended an opportunity to cross-examine
+> the parties whose replies were sought to be used against the appellant;
+
+> (v) to consider the objections of the appellant that relate to additional
+> comparables sought to be adopted by the TPO and to pass a detailed order;
+> and
+
+> (vi) to give the standard deduction of 5% under the proviso to s.92C(2) of
+> the Act.
+
+The TPO shall also keep in view the findings handed down in the case of M/s.
+Genisys Integrating Systems (India) Ltd v. DCIT [ITA NO;1231(Bang)/2010 dated
+5.8.2011] while considering the appellant's case afresh. 7.7.1. With regard to
+the submissions of the Ld. A R in respect of (1) foreign exchange fluctuation
+gain (loss) and (2) risk profile, we are of the considered view that there is
+considerable force in the arguments put forth by the Ld. A R. the contentions
+of the appellant have not been given due weight-age at the time of finalizing
+the issues by the TPO as alleged by the assessee in its submissions (supra).
+In the interests of principles of natural justice and fair-play and since many
+of the issues have already been reverted back to the file of the TPO for fresh
+consideration, we are of the considered view that these issues require to be
+looked into afresh by the TPO in view of the assessee's assertions cited
+supra, both of these issues are also required to be remitted back to the file
+of the TPO for fresh consideration. It is ordered accordingly.
+
+Page 35 of 36 35 ITA No.970/Bang/2011 7.7.2. In respect of the appellant's
+other contention i.e., Celestial Labs Limited as a comparable, we would like
+to recall the findings of the Hon'ble Mumbai Bench 'E' in the case of M/s.
+Tevapharm Private Limited v. Addl. CIT - 10(3) in ITA No.6623/Mum/2011 (AY
+2007-08) dated: 23.12.2011. The issue, in brief, before the Hon'ble Bench was
+that the assessee had in one of its grounds objected to in picking up
+Celestial Labs Limited as a comparable for the reason was that "5......The
+activities undertaken Celestial Labs are in the nature of providing host of IT
+related services and some trading activity which is not comparable to the
+assessee. Hence, it is clear that it is not comparable to the functional
+profile of the company and, accordingly, ought not to be considered a
+comparable."
+
+After considering the rival submissions, the Hon'ble Bench had observed thus:
+
+> "5.............According to the learned D.R Celestial Labs is also in the
+> filed of research in pharmaceutical products and should be considered as
+> comparable. As rightly submitted by the learned counsel for the assessee,
+> the discovery is in relation to a software for discovery of new drugs.
+
+Moreover, the company also is owner of the IPR. There is, however, a reference
+to development of a molecule to treat cancer using bio-informatics tools for
+which patenting process was also being pursued. As explained earlier it is a
+diversified company and, therefore, cannot be considered as comparable
+functionally with that of the assessee. There has been no attempt made to
+identify and eliminate and make adjustment of the profit margins so that the
+difference in functional comparability can be eliminated. By not resorting to
+such a process of making adjustment, the Page 36 of 36 36 ITA No.970/Bang/2011
+TPO has rendered this company as not qualifying for comparability. We,
+therefore, accept the plea of the assessee in this regard."
+
+Concurring with the findings of the Hon'ble Mumbai Bench (supra) and also the
+appellant's vehement objection in choosing Celestial Labs Limited as
+comparable, we are of the considered view that this issue also requires a
+fresh look at the TPO's level. To facilitate the TPO to comply with the
+directions of this Bench (supra), we remit back this issue also to the file of
+the TPO.
+
+8\. In the result, the appeal filed by the assessee is partly allowed as
+indicated above.
+
+Order pronounced in the open court on 16th day of March, 2012.
+
+    
+    
+                 Sd/-                                          Sd/-
+               (N K SAINI)                                (GEORGE GEORGE K)
+           ACCOUNTANT MEMBER                               JUDICIAL MEMBER
+    
+           Copy to:-
+    
+    
+
+1\. The Revenue 2. The Assessee 3. The CIT concerned
+
+4\. The CIT(A) concerned 5. The DR 6. GF MSP/- By Order Asst. Registrar, ITAT,
+Bangalore.
+

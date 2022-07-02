@@ -1,0 +1,2269 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+M/S. The Himalaya Drug Company, ... vs Asst. Commissioner Of Income Tax, ...
+on 2 November, 2020
+
+    
+    
+                                                   IT(TP)A No.2248/Bang/2016
+                                   M/.s. The Himalaya Drug Company, Bengaluru
+    
+    
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                         "B'' BENCH: BANGALORE
+    
+         BEFORE SHRI B. R. BASKARAN, ACCOUNTANT MEMBER
+                               AND
+               SMT. BEENA PILLAI, JUDICIAL MEMBER
+    
+                         IT(TP)A No.2248/Bang/2016
+                         Assessment Year: 2012 - 13
+    
+    M/s. The Himalaya Drug Company
+    Makali, Tumkur Road
+    Bengaluru-562162                          Vs. ACIT Central Circle-1(1)
+                                                        Bengaluru
+    PAN NO : AADFT3025B
+               APPELLANT                                   RESPONDENT
+    
+      Appellant by        :   Shri Padam Chand Khincha, A.R.
+      Respondent by       :   Shri Muzaffar Hussain, D.R.
+    
+               Date of Hearing       :              01.10.2020
+               Date of Pronouncement :              02.11.2020
+    
+                                  ORDER
+    
+
+PER B.R. BASKARAN, ACCOUNTANT MEMBER:
+
+The assessee has filed this appeal challenging the assessment order dated
+20-10-2016 passed by the Assessing Officer for assessment year 2012-13 u/s
+143(3) r.w.s.144C of the Income-tax Act,1961 ['the Act' for short] in
+pursuance of directions given by the ld. Dispute Resolution Panel (DRP).
+
+2\. The assessee has filed concise grounds of appeal running into 8 pages and
+they give rise to the following issues:
+
+> a. Assessment order is bad in law, since the AO has issued demand notice
+> along with the draft assessment order.
+
+(Ground No.3) IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 2 of 71 b. Transfer Pricing adjustment relating to sale of
+goods to associated enterprises. (Ground Nos. 4 to 8) c. Transfer Pricing
+adjustment relating to advertisement and market promotion expenses. (Ground
+No. 9) d. Transfer Pricing adjustment relating to royalty. (Ground No.10)
+Other issues urged by the assessee are either general in nature or
+consequential.
+
+3\. The facts relating to the case have been narrated as under by the Tribunal
+in its order passed for AY 2013-14 in ITA No.:1385/Bang/2017:-
+
+> "3. The facts relating to the case are stated in brief. The assessee is a
+> partnership firm engaged in the business of manufacture and sale of
+> Ayurvedic medicament and preparations, consumer/personal care products and
+> animal health care products. The partners of the assessee firm are
+
+> (a) M/s Himalaya Global Holdings Pvt Ltd., a foreign company registered in
+> Cayman Islands and
+
+> (b) M/s Himalaya Drug Co. Pvt. Ltd.
+
+> These two partners respectively hold 88% and 12% share in the profits of the
+> assessee firm. The TPO has also discussed ownership details of the above
+> said two partner companies. Mr. Meeraj Alim Manal, is holding 100% shares in
+> M/s Himalaya Global Holdings Pvt. Ltd. He also holds IT(TP)A
+> No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 3 of 71
+> entire shares except one share in M/s Himalaya Drug Co. Pvt. Ltd."
+
+4\. The legal ground urged by the assessee on the validity of assessment order
+reads as under:-
+
+> "3. The action of Learned Assessing Officer in issuing demand notice under
+> section 156 of IT Act while passing the draft assessment order dated
+> 29-02-2016, is in contravention to the scheme of section 144C(1) of IT Act
+> and said draft assessment order having the effect of final assessment order
+> is bad in law as held in the case of Jazzy Creations Pvt. Ltd vs. ITO
+> (TS-52- ITAT-2016 (Mum))."
+
+4.1 The facts relating to the above said legal issue are stated in brief. The
+assessee is a partnership firm engaged in manufacture and sale of Ayurvedic
+medicaments and preparations, consumer/personal care products and animal
+health care products. It filed its return of income for the year under
+consideration declaring total income of Rs.50.19 crores. The case was selected
+for scrutiny. The AO noticed that the assessee has entered into international
+transactions and accordingly the AO referred the same to the Transfer Pricing
+Officer (TPO) after obtaining approval of Principal CIT for determining arms
+length price of the international transactions. The TPO proposed adjustment to
+the tune of Rs.169.05 crores in respect of international transactions entered
+by the assessee. The assessing officer accordingly passed a "draft assessment
+order" on 19-02-2016 making addition of transfer pricing adjustment of
+Rs.169.05 crores proposed by the TPO to the total income returned by the
+assessee. The said draft assessment order was served upon the assessee on
+08-03-2016 along with a "notice of demand dated 19-02-2016 u/s 156 of the
+Act".
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 4
+of 71 4.2 The assessee filed its objections before Ld DRP on 06-04-2016. The
+Ld DRP issued directions to the AO on 11.09.2016 and the assessing officer
+passed final assessment order on 20-10-2016 and served the same upon the
+assessee on 21-10-2016 along with a "notice of demand dated 20-10-2016 u/s 156
+of the Act".
+
+4.3 Since the assessing officer has issued the Notice of Demand u/s 156 of the
+Act along with the "Draft assessment order", the assessee has raised the above
+said legal issue. It is the contention of the assessee that the assessing
+officer cannot issue demand notice at the stage of passing of draft assessment
+order and since, he has issued the same to the assessee at that stage, it has
+to be construed that the AO has passed final assessment order. In the case,
+the AO has failed to follow the mandatory procedure prescribed under sec. 144C
+of the Act and the same would vitiate the assessment proceedings. Accordingly
+he contended that the impugned assessment order is liable to be quashed.
+
+4.4 We notice that the AO has stated that the draft assessment order and the
+final assessment order have been passed u/s 143(3) r.w.s. 144C of the Act.
+Section 144C of the Act reads as under:-
+
+> "Section 144C. (1) The Assessing Officer shall, notwithstanding anything to
+> the contrary contained in this Act, in the first instance, forward a draft
+> of the proposed order of assessment (hereafter in this section referred to
+> as the draft order) to the eligible assessee if he proposes to make, on or
+> after the 1st day of October, 2009, any variation in the income or loss
+> returned which is prejudicial to the interest of such assessee.
+
+> (2) On receipt of the draft order, the eligible assessee shall, within
+> thirty days of the receipt by him of the draft order,-
+
+> (a) file his acceptance of the variations to the Assessing Officer; or
+> IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 5
+> of 71
+
+> (b) file his objections, if any, to such variation with,-
+
+> (i) the Dispute Resolution Panel; and
+
+> (ii) the Assessing Officer.
+
+(3) The Assessing Officer shall complete the assessment on the basis of the
+draft order, if-
+
+> (a) the assessee intimates to the Assessing Officer the acceptance of the
+> variation; or
+
+> (b) no objections are received within the period specified in sub- section
+> (2).
+
+(4) The Assessing Officer shall, notwithstanding anything contained in section
+153 or section 153B, pass the assessment order under sub- section (3) within
+one month from the end of the month in which,-
+
+(a) the acceptance is received; or
+
+(b) the period of filing of objections under sub-section (2) expires.
+
+(5) The Dispute Resolution Panel shall, in a case where any objection is
+received under sub-section (2), issue such directions, as it thinks fit, for
+the guidance of the Assessing Officer to enable him to complete the
+assessment.
+
+(6) The Dispute Resolution Panel shall issue the directions referred to in
+sub-section (5), after considering the following, namely:-
+
+> (a) draft order;
+
+> (b) objections filed by the assessee;
+
+> (c) evidence furnished by the assessee;
+
+> (d) report, if any, of the Assessing Officer, Valuation Officer or Transfer
+> Pricing Officer or any other authority;
+
+> (e) records relating to the draft order;
+
+> IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 6
+> of 71
+
+> (f) evidence collected by, or caused to be collected by, it; and
+
+> (g) result of any enquiry made by, or caused to be made by, it.
+
+> (7) The Dispute Resolution Panel may, before issuing any directions referred
+> to in sub-section (5),-
+
+> (a) make such further enquiry, as it thinks fit; or
+
+> (b) cause any further enquiry to be made by any income-tax authority and
+> report the result of the same to it.
+
+> (8) The Dispute Resolution Panel may confirm, reduce or enhance the
+> variations proposed in the draft order so, however, that it shall not set
+> aside any proposed variation or issue any direction under sub-section (5)
+> for further enquiry and passing of the assessment order.
+
+> Explanation.-For the removal of doubts, it is hereby declared that the power
+> of the Dispute Resolution Panel to enhance the variation shall include and
+> shall be deemed always to have included the power to consider any matter
+> arising out of the assessment proceedings relating to the draft order,
+> notwithstanding that such matter was raised or not by the eligible assessee.
+
+> 9 to 15 ......"
+
+The AO has to complete the assessment by passing a final assessment order in
+conformity with the directions issued by Ld Dispute Resolution Panel (DRP). It
+can be noticed that the provisions of sec.144C of the Act prescribe procedures
+for completion of assessment of an "eligible assessee". There is no dispute
+that the assessee herein is an eligible assessee. Hence as per the provisions
+of sec.144C, the AO has to issue a draft assessment order to the assessee and
+the assessee is entitled to either accept it or to file its objections before
+Ld DRP & AO. There should not be any dispute that no enforceable demand can
+arise at the stage of passing of draft assessment order and the tax demand
+shall arise only after passing of final assessment order.
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 7
+of 71 4.5 The Ld D.R submitted that the assessing officer has duly passed the
+draft assessment order in the instant case and the assessee, after receipt of
+the same, has filed its objections before Ld DRP within the stipulated time.
+The Ld Dispute Resolution Panel has issued directions to the AO after
+considering objections filed by the assessee and accordingly, the assessing
+officer has passed the final assessment order in conformity with the
+directions issued by Ld DRP. Accordingly, Ld D.R submitted that the impugned
+final assessment order has been passed by duly complying with the procedures
+prescribed under sec.144C of the Act. He submitted that though the assessing
+officer has also issued Notice of Demand along with draft assessment order,
+yet no tax demand would arise at the stage of passing of draft assessment
+order and hence the notice of demand issued at that stage is a nullity in the
+eyes of law. He submitted that neither the assessing officer nor the assessee
+has understood or meant the "draft assessment order" as final assessment
+order. Hence the action of the AO in issuing a notice of demand, which is not
+enforceable in law, should be ignored. Accordingly he submitted that the plea
+of the assessee should be rejected.
+
+4.6 The only question that needs to be examined is whether the action of the
+AO in issuing Notice of Demand along with the draft assessment order would
+vitiate the assessment proceedings in the facts and circumstances of the case.
+There is no dispute that, but for the notice of demand, referred above, there
+is no flaw in the procedure followed by the AO for completion of assessment.
+
+4.7 The Ld A.R placed his reliance on various case laws in support of his
+proposition that the AO has not followed the procedure prescribed in sec.144C
+of the Act and hence the assessment order should be declared as illegal and be
+quashed. We shall examine the case laws relied upon the Ld A.R. The first case
+law relied upon by IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 8 of 71 the Ld A.R is the decision rendered by Hon'ble Delhi
+High Court in the case of Control Risks India P Ltd vs. DCIT (W.P.(C)
+5722/2017 & C.M.No.23860/2017 dated 27-07-2017). The facts discussed in the
+above said case is that the assessment was originally completed by making
+transfer pricing adjustment. When the matter reached ITAT, the Tribunal
+remitted the matter back to the TPO to consider the additional details filed
+by the petitioner before the ITAT. Accordingly the TPO passed a fresh order.
+Thereafter, the assessing officer passed a final assessment order, instead of
+passing draft assessment order. The Hon'ble High Court held the same as
+contrary to the procedure prescribed in sec.144C of the Act and accordingly
+set aside the said assessment order. It can be noticed that the Hon'ble Delhi
+High Court has rendered its decision on different set of facts and hence the
+same cannot be taken support of by the assessee.
+
+4.8 The Ld A.R took support of decision rendered by Hon'ble Madras High Court
+in the case of ACIT vs. Vijay Television (P) Ltd (2018)(95 taxmann.com 101).
+The facts relating to the above said case are stated in brief. The AO referred
+the matter relating to international transactions to the TPO. After receipt of
+TPO order, the AO passed an assessment order on 26.3.2013, wherein he appears
+to have mentioned the section under which the said order was passed as
+sec.143(3). The AO also issued Notice of demand and penalty notice.
+Subsequently, noting the mistake that the correct section has not been
+mentioned, the AO issued a corrigendum on 15.04.2013 stating therein that the
+assessment order passed on 26.3.2013 has to be read and treated as a draft
+assessment order as per section 144C r.w.s. 92CA r.w.s 143(3) of the Act. The
+contention of the assessee before Hon'ble Madras High Court was that the
+assessment order passed on 26.3.2013 was final assessment order and it cannot
+be treated as draft assessment order. It was also contended that the IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 9 of 71
+corrigendum dated 15.4.2013 cannot alter the above said position. The Hon'ble
+Madras High Court held as under:-
+
+> "25. While Section 292B of the Act makes it clear that no return of income,
+> assessment, notice, summons or other proceeding furnished or made or issued
+> or taken or purported to have been furnished or made or issued or taken in
+> pursuance of any of the provisions of this Act shall be invalid or shall be
+> deemed to be invalid merely by reason of any mistake, defect or omission in
+> such return of income, assessment, notice, summons or other proceedings if
+> such return of income, assessment, notice summons or other proceeding is in
+> substance and effect in conformity with or according to the intent and
+> purpose of this Act, Section 144-C mandates the AO, in the first instance,
+> to forward a draft of the proposed order of assessment to the eligible
+> assessee in relation to any variation in the income or loss returned, which
+> is prejudicial to the interest of such assessee, who on receipt of the said
+> draft order, within the time prescribed, shall either file his acceptance of
+> the variations to the AO or file his objections to the variation with the
+> DRP and the AO. It is further mandated that on the objections being received
+> by the DRP under sub-section (2), the DRP shall issue such directions to the
+> AO for the purpose of enabling him to complete the assessment. While issuing
+> directions, the DRP shall consider the documents as mandated under sub-
+> section (6).
+
+> 26\. From the above, it is clear that a right is vested with the assessee to
+> challenge the draft of the proposed order of assessment, issued by the AO
+> with the DRP and the DRP is supposed to guide the AO in completing the
+> assessment.
+
+> 27\. It is the submission of the assessee that no draft assessment order was
+> issued to the assessee by the AO, but the assessment order issued is a final
+> one, which is evident from the corrigendum itself. Further, it is the
+> submission of the assessee that the corrigendum has been issued beyond the
+> limitation period and that the corrigendum cannot rectify the order dated
+> 26.3.2013.
+
+28\. A perusal of the records reveal that the original order has been passed
+on 26.3.2013 and under Column No.13, the Section under which the assessment
+was passed has been noted as Section IT(TP)A No.2248/Bang/2016 M/.s. The
+Himalaya Drug Company, Bengaluru  Page 10 of 71 143 (3). It is not in dispute
+that assessment passed under Section 143 (3) is a final assessment, after duly
+hearing the assessee and perusing the records.
+
+29\. However, curiously, the error that had crept in by mentioning of the
+incorrect Section in the proceeding was found out by the Revenue and,
+therefore, a corrigendum dated 15.4.2013 has been issued in and by which
+Column No.13 was to read as 144-C rws 92CA (4) rws 143 (3).
+
+30\. It is the contention of the learned senior counsel for the
+respondent/assessee that the issue as to whether the corrigendum issued by the
+Asst. Comm of Income Tax is really sustainable and whether it would have the
+effect of curing the deficiencies crept in the order dated 26.3.13 has been
+extensively dealt with by the learned single Judge and finally after
+elaborating the reasons it has been held that the corrigendum would not have
+the effect of curing the original order and the reasons stated are as under :-
+
+> Under Section 144 (C) of the Act, the AO is required pass only a draft
+> assessment order. DAO on the basis of the recommendations made by the TPO
+> after giving an opportunity to the assessee to file their objections and
+> only thereafter he could pass a final order. In other words, instead of
+> passing a preliminary order, passing a final order straight away would
+> deprive the assessee to file their objections.
+
+The following circumstances are pointed out to show that the order dated
+26.3.13 is a final order and not a pre-assessment order:-
+
+> a) The order dated 26.3.13 has raised a demand as well as has imposed
+> penalty; Needless to point out that demand would be made after assessment
+> and not prior to the assessment. When it is clear that taxable amount has
+> been determined it would amount to a final order.
+
+> b) Following the order dated 26.3.13 a notice of demand u/s 156 of the Act
+> has been issued pursuant to the order dated 26.3.13.
+
+> IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page
+> 11 of 71
+
+> c) In the corrigendum issued, it is only stated that the order u/s 143 (3)
+> has to be read and treated as DAO in terms of Section 1434(C) r/w Section 92
+> (CA) (4) r/w Section 143 (3) of the Act.
+
+> d) Even though 30 days time was granted to file objections when the assessee
+> approached the DRP, DRP itself declared that it is a final order.(Emphasis
+> supplied) ........
+
+44\. The materials available on record reveal that initially, vide proceedings
+dated 26.3.13, order of assessment u/s 143 (3) was passed by the Assessing
+Officer. The last date for the four year block period ended on 31.3.2013.
+Therefore, the initial order of assessment was passed u/s 143 (3) within the
+said block period. However, the order passed u/s 143 (3) of the Act is a final
+assessment order and the Revenue, realising the mistake committed by it, had,
+thereafter, issued the corrigendum, amending the Section to read as Section
+144-C r/w 92 CA r/w 143 (3). Curiously, demand u/s 156 of the Act has been
+issued and penalty has also been imposed. For all practical purposes, the
+order of assessment should be deemed to be one under Section 143 (3) of the
+Act, though the draft assessment order ought to have been passed u/s 144-C. On
+objections being raised before the DRP, the DRP has also opined that the order
+passed is a final order and, therefore, it has no jurisdiction to entertain
+the objections.
+
+45\. Further, it is to be pointed out that even though the corrigendum has
+been issued indicating to read the Section 143(3) as Section 144-C r/w 92 (CA)
+r/w 143 (3) it does not indicate that the demand and penalty made in the
+Assessment Order has been withdrawn. Hence, the submission of the Revenue that
+the Assessment Order passed under section 143(3) read with the corrigendum
+issued shall be treated as Draft Assessment Order cannot be countenanced. It
+is not the case of the Revenue that the Assessing Officer has consciously
+passed the Draft Assessment Order under Section 144-C, however, indicated the
+Section wrongly.
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 12
+of 71
+
+46\. The Revenue, with a view to squirm around from under wrongful act of
+passing the assessment order, which is prohibited by law and an unlawful one,
+had issued a corrigendum, amending the Section under which the order has been
+passed, forgetting that the content of the order that matters and not the mere
+quoting of the Section alone. In other words, the window dressing which has
+been attempted by the Revenue would not give life to an order passed without
+jurisdiction. It is to be pointed out that the order of assessment, once
+issued under Section 143 (3), becomes final and reopening the same is
+impermissible. The mistake committed by the Revenue in not following the
+mandatory requirement of Section 144-C by passing an order under Section 143
+(3) cannot be cured by the issuance of a corrigendum. In other words, the
+proceedings issued in the name of corrigendum trying to correct its mistakes
+only by introducing a Section without realising the consequences of not
+following the mandatory requirement u/s 144-C will not do justice to either of
+the parties."
+
+The Hon'ble Madras High Court also held that the provisions of sec.292B cannot
+be taken support of by the Revenue with the following observations:-
+
+> "48. Though it is the submission of the Revenue that it is a procedural
+> irregularity, which can be corrected through issuance of a corrigendum and
+> no prejudice would be caused to the assessee, however, it is to be pointed
+> out that the act committed by the Revenue is an incurable illegality, which
+> cannot stand protected by Section 292B of the Act. If the contention of the
+> Revenue is accepted, then it would literally render all the provisions of
+> the Income Tax Act subservient to Section 292B. In effect, any error or
+> omission or mistake committed by the Revenue at any stage of a proceeding
+> cannot be sought to be cured by taking umbrage under Section 292B. Allowing
+> such a IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru
+> Page 13 of 71 contention would be misreading the intention of the Parliament
+> in enacting Section 292B and Section 144-C."
+
+The facts prevailing in the above said case is totally different from the
+facts available in the case before us. In the instant case, there is no
+dispute that the assessing officer has consciously passed the draft assessment
+order by correctly mentioning that the same is passed u/s 143(3) r.w.s 144C of
+the Act. The assessee has also understood the same as draft assessment order
+and accordingly filed its objections before Ld DRP. The Ld DRP has also passed
+its directions in pursuance of objections filed by the assessee. In our view,
+the question of applicability of sec.292B of the Act does not require
+consideration in the instant case. Hence, we are of the view that the decision
+in the case of Vijay Television P Ltd has been rendered on different set of
+facts.
+
+4.9 The Ld A.R next placed his reliance on the decision rendered by the co-
+ordinate bench in the case of M/s Inatech India P Ltd (IT(TP)A
+No.214/Bang/2018 dated 30-04-2019). In the above said case, the assessing
+officer, after receipt of order from TPO, passed the assessment order u/s
+143(3) r.w.s 92CA of the Act on 24.3.2016. He also issued demand notice and
+also initiated penalty proceedings u/s 271(1)(c) of the Act. The Tribunal
+noticed that the assessing officer has also entered the demand raised under
+the above said order in "Demand and Collection Register" maintained by the
+department and further the demand was also uploaded on the website of the
+department. However, the above assessment order was titled as "Draft
+assessment order". The assessee filed its reply before the AO against the
+penalty notice issued u/s 271(1)(c) of the Act and also filed a petition for
+stay of recovery of tax. Subsequently, the assessee filed an appeal before Ld
+CIT(A), wherein it contended that the impugned assessment order is invalid as
+the same has been passed IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug
+Company, Bengaluru  Page 14 of 71 in violation of the procedure set out in
+section 144C of the Act. Subsequently the AO passed another order of
+assessment on 24.05.2010, wherein it was stated that since the assessee had
+not filed its objections before the DRP against the draft assessment order
+dated 24.03.2016, the final assessment order dated 24.05.2016 has now been
+passed. Under these set of facts, the co-ordinate bench held that the
+assessment order dated 24.3.2016 has not been passed in compliance of
+provisions of sec.144C of the Act and hence the same is to be held as a legal
+nullity. It can be noticed that the assessee has understood the assessment
+order dated 24.3.2016 as final assessment order, since the notice of demand
+and penalty notice were issued along with the assessment order. The AO has
+also understood it as final assessment order, since the demand has been noted
+by him in the Demand and Collection Register/website. The AO did not respond
+to the reply filed by the assessee against the penalty notice and also did not
+respond to the stay petition filed by the assessee. Hence we are of the view
+that the decision has been rendered in the above said case by the co-ordinate
+bench on the basis of facts prevailing therein, which is different from the
+one prevailing in the instant case.
+
+4.10 The Ld A.R also placed his reliance on the decision rendered by Hon'ble
+Bombay High Court in the case of PCIT vs. Lionbridge Technologies P Ltd
+(2018)(100 taxmann.com 413)(Bom). In the above said case, the Tribunal
+restored the assessment order to the assessing officer on the ground that the
+Ld Dispute Resolution Panel has not addressed the objections raised by the
+assessee. Consequent thereto, the AO passed an assessment order on 12.3.2014.
+Subsequently, the AO issued a corrigendum on 16.4.2014 stating that the above
+said order should be treated as "draft assessment order" and not final order.
+The Tribunal noticed that the draft assessment order should have been passed
+before 31.3.2014 in IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 15 of 71 terms of sec.153A(2A) and hence corrigendum has been
+issued after the expiry of time limit for passing assessment order.
+Accordingly it quashed the assessment order. The Hon'ble Bombay High Court did
+not admit the appeal holding that no substantial question of law arises
+therein. While holding so, the High Court also observed that "mere consent of
+parties does not bestow jurisdiction, if the order is beyond jurisdiction".
+The Ld A.R drew support from the above said observation and submitted that
+merely because the assessee has filed objections before Ld DRP, the same will
+not bestow jurisdiction to the assessee. In this regard, the Ld A.R also
+placed his reliance on the decision rendered by the Mumbai bench of Tribunal
+in the case of Jazzy Creations (P) Ltd (2017) (83 taxmann.com 244).
+
+4.11 There should not be any quarrel to the proposition observed by Hon'ble
+Bombay High Court that "mere consent of parties does not bestow jurisdiction,
+if the order is beyond jurisdiction". However, we have observed earlier that
+the assessing officer, in the instant case, has passed the draft assessment
+order u/s 143(3) r.w.s. 144C of the Act. The assessee has also, in terms of
+sec.144C of the Act, filed its objections before the Ld DRP. After the receipt
+of the directions from Ld. DRP, the assessing officer has passed the final
+assessment order. Except for attaching a notice of demand along with the draft
+assessment order, everything has been done in accordance with the law.
+
+4.12 The question that boils down is whether the notice of demand attached
+with the draft assessment order would make the said draft assessment order as
+final order and consequently, the whole assessment proceedings is liable to be
+quashed as illegal. In our view, the answer should be negative. As rightly
+pointed by Ld D.R, the notice of demand issued along with the draft assessment
+order is a legal nullity and does not exist in the eyes of law, since no valid
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 16
+of 71 demand could be raised under the draft assessment order. In our
+considered view, a document, which is held to be a legal nullity, cannot
+vitiate the assessment proceeding and the assessment order. Accordingly, we do
+not find any merit in the above said legal issue urged by the assessee.
+Accordingly we reject the above said legal ground of the assessee.
+
+5\. The next issue relates to the Transfer Pricing adjustment made in respect
+of goods sold to Associated Enterprises (AEs). During this year, the assessee
+reported following international transactions:-
+
+> 1\. Export of Ayurvedic Medicaments and Preparations -Rs.84,74,31.755
+
+> 2\. Web designing and Support service -Rs. 22,12,029
+
+> 3\. Reimbursement of Expenses -Rs. 73,06,306 The TPO has made adjustment in
+> respect of export of ayurvedic medicines and preparations.
+
+5.1 The assessee submitted that it has followed pricing policy of cost plus
+15% in respect of exports made to AEs. The assessee has selected Transactional
+Net Margin Method (TNMM) as most appropriate method and OP/OR as Profit Level
+Indicator. The assessee has compared profit margin earned on exports made to
+AEs with the profit margin earned by it in respect of Personal care products.
+
+5.2 The TPO, however, held that TNMM is not appropriate method. He took the
+view that Cost Plus Method is the most appropriate method. The TPO also held
+that the Gross profit earned by the assessee in Personal care products
+division (consumer product division) is the profit that should have been added
+with the Cost of products. Accordingly, the TPO made transfer pricing
+adjustment of Rs.97,83,44,697/-. The Ld DRP also confirmed the same.
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 17
+of 71 5.3 The Ld A.R submitted that identical issue has been considered by the
+co-ordinate benches in AY 2010-11, 2011-12 and 2013-14 in favour of the
+assessee.
+
+5.4 We have heard Ld D.R and perused the record. We notice that an identical
+issue has been considered by the Tribunal in AY 2013-14 in ITA No.: IT(TP) A
+No.1385/Bang/2017 and it was decided as under:-
+
+> "20. In the grounds urged by the assessee on this issue, the assessee has
+> raised two preliminary issues, viz.,
+
+> (a) It has questioned the validity of reference made to TPO u/s 92CA and
+
+> (b) It has also questioned the action of TPO in treating the foreign
+> companies as Associated Enterprises of the assessee. These issues have been
+> urged in ground nos. 7.1 to 7.6. Both the parties agreed that the issue
+> relating to validity of reference made to TPO has been decided against the
+> assessee by the co-ordinate bench in assessee's own case in IT(TP)A
+> No.807/Bang./2016 dated 04-07-2018 relating to AY 2011-12. The issue
+> relating to AE relationship was declined to be examined by the co-ordinate
+> bench in the above said year and it appears that the assessee has not
+> objected to the same. Following the decision rendered by the co-ordinate
+> bench referred above, we reject these grounds.
+
+21\. The ground numbers 7.7 to 8.4 relates to the adoption of "Cost Plus
+Method" as most appropriate method by the IT(TP)A No.2248/Bang/2016 M/.s. The
+Himalaya Drug Company, Bengaluru  Page 18 of 71 TPO and consequent transfer
+pricing adjustment made by him, which were confirmed by Ld DRP. Identical
+issues were considered by the co-ordinate bench in assessee's own case in
+IT(TP)A No.807/Bang./2016 dated 04-07-2018 relating to AY 2011-12 reported in
+(2018)(96 taxmann.com 335). We extract below the relevant discussions made by
+the co- ordinate bench:-
+
+"8.1 Ground VIII (supra) is raised in respect of the rejection of the
+assessee's TP Study/documentation done adopting TNMM as the Most Appropriate
+Method (MAM) and the TPO's adoption of CPM as the MAM in place of TNMM. Ground
+IX (supra) is in respect of the alleged flaws in determination of ALP based on
+CPM, without admitting CPM as the MAM. In Ground No.X, the assessee is
+aggrieved with the TPO/DRP action is not allowing adjustments as per Rule
+10B(1)(c)(iii) of the IT Rules, 1962 ('the Rules'), without prejudice to the
+assessee's objection on adoption of CPM as MAM. As these grounds (supra) are
+inter-related and deal with the merits of the case, we deem it appropriate to
+consider these grounds together.
+
+8.2 Briefly stated, the facts relevant for adjudication of these grounds are
+as under:-
+
+8.2.1 The assessee firm is engaged in the business of manufacture and sale of
+(a) herbal pharmaceutical products (ayurvedic medicaments and preparations);
+(b) consumer/personal care products and (c) animal health care products. The
+manufactured products are sold in India (domestic sales) and are also exported
+to AEs/related entities outside India. The exports to related entities are
+from all these ranges of products, i.e. pharmaceutical products,
+consumer/personal care products and animal health care products. The assessee
+also sells these products to unrelated parties in CIS countries. In India,
+pharmaceutical products are driven by the prescription of Doctors. In CIS
+countries, Ayurveda is widely recognized and therefore largely the practice is
+akin to India. However, in the other countries, the international business for
+these products is largely, driven by marketing and IT(TP)A No.2248/Bang/2016
+M/.s. The Himalaya Drug Company, Bengaluru  Page 19 of 71 advertisement and
+not by prescription; as is the case with the personal care range of products
+in India. The personal care division in the domestic market undertakes full
+fledged marketing activities; including advertisement, sales promotion, etc.
+However, in respect of exports to AEs/related parties outside India, the
+entire marketing activities is done by the AEs as the assessee only
+manufactures the goods as per requirement of the AEs and dispatches the same
+to them.
+
+8.2.2 In the year under consideration, the assessee exported products
+amounting to Rs. 74,26,02,810 to AEs. In its TP Study, the assessee selected
+TNMM as the MAM for determination of the ALP of the international transactions
+with its AEs. As per its TP Study, the net margin earned by the assessee in
+respect of personal care division in the domestic segment at 11.30% was
+compared to the net margin of 15.80% from exports to its AEs. This was stated
+to be done as the pharmaceutical range of products are on par with the
+personal care range of products exported outside India and further the margin
+of domestic pharma division was not comparable as the parameters of marketing,
+manufacturing, competition, exposure and acceptance of ayurvedic products by
+customers, government control, etc are entirely different in India for pharma
+division. 8.2.3 On the other hand, the personal care division products are
+sold through distributors and the same is market driven and therefore the
+ranges of personal care division in India was considered with export to AEs.
+Since the net margin from exports to AEs was higher than the net margin from
+domestic sales to unrelated parties, the assessee concluded that its exports
+to AEs were at arm's length.
+
+8.2.4 The TPO after examining the assessee's TP Study issued show cause notice
+to the assessee proposing to substitute CPM as the MAM in place of TNMM
+adopted by the assessee. In this regard, the TPO compared the gross margin
+earned on exports at 23.32% as against gross profit of 50.65% earned by the
+domestic consumer product division and proposed Transfer Pricing Adjustment.
+The assessee filed its objections thereto challenging the adoption of CPM as
+the MAM, inter alia, that the GP ratio differed mainly in respect of the
+marketing, distribution, selling and other similar expenses incurred by the
+assessee in the IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 20 of 71 domestic market, whereas no such expenditure was
+incurred by it in respect of exports to AEs, as such expenses were incurred by
+the AEs in their respective territories and not by the assessee. It was also
+submitted that there were inherent difficulties in applying CPM and contended
+that, without admitting that CPM is the MAM, the TPO ought to reduce the gross
+profit margin earned in the domestic market on account of various difference
+between domestic sales such as marketing and selling costs, discounts,
+administrative costs, etc. whereas export sales to AEs are at a price ex-
+factory. Therefore, since the gross profits would be different in both these
+segments, they cannot be compared by applying CPM. It was also contended that
+since the net margin in both segments are less effected by transactional
+differences at net profit level, therefore TNMM is the MAM.
+
+8.2.5 The TPO, however, rejected the assessee's contention and passed order
+under Section 92CA of the Act wherein he considered CPM as the MAM and
+considered the Gross Profit margin earned in the consumer product division for
+bench marking. The TPO also held that the assessee acted as a contract
+manufacturer in respect of products manufactured and exported to AEs as it did
+not undertake distribution, advertisement, marketing and selling expenditure
+and alleged that the goods are sold at a mark up of 15% on cost. The TPO
+computed the Gross Profit margin on cost of goods sold in the domestic
+consumer product division at 102.63% and the cost of goods sold to AEs
+amounting to Rs. 56,94,29,812 was accordingly increased by the above rate to
+Rs. 115,38,35,749. From this, the exports to AEs amounting to Rs. 74,26,02,810
+was reduced and the Transfer Pricing Adjustment in respect of exports to AEs
+was determined at Rs. 41,12,32,939. The DRP upheld these views/actions of the
+TPO. 8.3.1 Before us, the learned Authorised Representative of the assessee
+sought to explain the transactional and functional differences between the
+domestic sales to unrelated parties and export sales to AEs to justify the GP
+margin under the segments. The learned Authorised Representative, referring to
+the TPO's order under Section 92CA of the Act, argued that the TPO accepted
+that various expenditure like distribution, marketing, advertisement, selling,
+administrative costs, etc were incurred in the domestic market segment and
+that the same was not incurred in connection with exports to AEs. It was
+submitted that in the IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug
+Company, Bengaluru  Page 21 of 71 domestic market, since the assessee had to
+incur huge expenditure on distribution, marketing, advertisement, selling,
+etc. in the domestic market, the selling price and gross profit of products
+for sale in domestic market was fixed at a high price. On the other hand, as
+the AEs themselves incur similar expenses in the foreign markets, the selling
+price of products exported to AEs does not factor in similar expenditure and
+hence the selling price and gross profit of these products are lower when
+compared to that of products sold in the domestic market.
+
+8.3.2 The learned Authorised Representative referred to and placed reliance on
+OECD Guidelines for transfer pricing, illustration given thereunder and
+various judicial pronouncements in order to explain why TNMM and not CPM be
+regarded as the MAM. It was submitted that CPM cannot be considered as MAM due
+to transactional and functional differences between domestic and export sales
+and that TNMM be taken as the MAM as it was less affected by the transactional
+and functional differences as comparison is made at the net profit level. The
+learned Authorised Representative submitted that, without prejudice to the
+assessee's above contentions, if CPM is to be considered as the MAM, there
+being various differences between domestic sales and exports sales,
+adjustments should be allowed for all these differences. Arguments were also
+put forth that the assessee was a full fledged manufacturer and not a contract
+manufacturer as held by the TPO for the purpose of applying CPM.
+
+8.4 Per contra, the learned Departmental Representative for Revenue argued
+justifying the action of the TPO in adopting CPM as the MAM due to the
+difference in G P Margin in domestic and export sales. The learned
+Departmental Representative filed a chart showing the percentage of GP to cost
+of goods sold, in both consumer products in domestic market and exports to AEs
+for Assessment Years 2009-10 to 2013-14 and submitted that due to huge
+difference in G P rate in both the above segments, the Transfer Pricing
+Adjustment made by the TPO is fully justified. The learned Departmental
+Representative contended that TNMM cannot be considered as the MAM since
+distribution, marketing, selling expense are incurred only in the domestic
+market and not in connection with the products exported to AEs. The learned
+Departmental Representative relied on various judicial IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 22 of 71
+pronouncements to contend that CPM was the MAM to be adopted in the case on
+hand.
+
+8.5.1 We have heard the rival contentions, perused and carefully considered
+the material on record; including the judicial pronouncements cited. The first
+issue for consideration is that of what would be the MAM in the facts and
+circumstances in the case on hand.
+
+As per Sec. 92C(1) of the Act, the ALP in relation to an international
+transaction hall be determined by any of the following methods, being the MAM,
+having regard to the nature of transaction or class of transaction OR class of
+associated persons OR functions performed by such persons OR such other
+relevant factors as the Board may prescribe, viz.,
+
+(a) Comparable Uncontrolled Price Method;
+
+(b) Resale Price Method;
+
+(c) Cost Plus Method;
+
+(d) Profit Split Method;
+
+(e) Transactional Net Margin Method;
+
+(f) Such other method as may be prescribed by the Board. Sub-section 2 of
+Section 92C of the Act provides that the MAM referred to in sub-section (1)
+shall be applied, for determination of the ALP, in the manner as may be
+prescribed.
+
+Rule 10B of the IT Rules, 1962 provides for the determination of ALP under
+Section 92C of the Act. The TPO in the case on hand has applied CPM as the
+MAM. Rule 10B(1)(c) deals with the determination of ALP as per CPM and the
+same is extracted hereunder :--
+
+"(c) cost plus method, by which,--
+
+(i) the direct and indirect costs of production incurred by the enterprise in
+respect of property transferred or services provided to an associated
+enterprise, are determined;
+
+(ii) the amount of a normal gross profit mark-up to such costs (computed
+according to the same accounting norms) arising IT(TP)A No.2248/Bang/2016
+M/.s. The Himalaya Drug Company, Bengaluru  Page 23 of 71 from the transfer or
+provision of the same or similar property or services by the enterprise, or by
+an unrelated enterprise, in a comparable uncontrolled transaction, or a number
+of such transactions, is determined;
+
+(iii) the normal gross profit mark-up referred to in sub-clause (ii) is
+adjusted to take into account the functional and other differences, if any,
+between the international transaction 55b[or the specified domestic
+transaction] and the comparable uncontrolled transactions, or between the
+enterprises entering into such transactions, which could materially affect
+such profit mark-up in the open market;
+
+(iv) the costs referred to in sub-clause (i) are increased by the adjusted
+profit mark-up arrived at under sub-clause (iii);
+
+(v) the sum so arrived at is taken to be an arm's length price in relation to
+the supply of the property or provision of services by the enterprise;"
+
+8.5.2 As per CPM, the direct and indirect costs of production incurred by the
+enterprise in respect of property transferred to an AE is increased by the
+'adjusted profit mark up' to determine the ALP. The 'adjusted profit mark up'
+is determined by making adjustments to 'normal gross profit mark up' to take
+into account the functional and other differences, if any, between the
+international transaction and the comparable uncontrolled transactions OR
+between the enterprises entering into such transactions, which could
+materially affect such profit mark up in the open market. The 'normal gross
+profit mark up' means the gross profit mark up on direct and indirect costs of
+production arising from the transfer of the same OR similar property by the
+enterprise or by an unrelated enterprise, in a comparable uncontrolled
+transaction OR a number of such transactions. 8.5.4** In the case on hand, the
+assessee compared the net profit margin from domestic consumer product
+division with the net profit margin for exports to AEs. At page 46 of his
+order, the TPO has held that the exports to AEs is comparable in terms of
+nature of goods to the domestic consumer product division and therefore this
+section is considered as comparable to exports to AEs. Thus, there is no
+dispute on the domestic consumer product division being compared with exports
+to AEs. The TPO, however, IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug
+Company, Bengaluru  Page 24 of 71 compared the gross margin of domestic
+consumer product division with the gross margin of exports to the AEs. In
+doing so, we find the TPO disregarded the mandate of Rule 10B(1)(c) of the
+Rules which require determination of 'adjusted profit mark up' by making
+adjustments to the 'normal gross profit mark up' by taking into account the
+functional and other differences between the international transactions and
+the comparable uncontrolled transactions. (** Mistake in numbering) 8.5.5 It
+is an undisputed fact on record that, in respect of finished goods exported to
+AEs, the entire marketing, adjustment, distribution and sales activities are
+performed by the AEs and not by the assessee. The TPO has
+acknowledged/accepted this fact at various places in his order under Section
+92CA of the Act; viz. at the 1st para on page 3 and 6, last para of page 4,
+2nd para on page 5, etc. The TPO, however, rejected TNMM as the MAM and
+adopted CPM for determination of ALP of sale of finished goods to the assessee
+for the reason that, even though the products sold in the domestic consumer
+product division are comparable to the products sold to AEs, the functions
+performed, assets employed and risks undertaken in both the segments are not
+the same. The selling price and gross profit of products sold in the domestic
+consumer division is higher than that of the products exported to AEs for the
+reason that the assessee in the domestic consumer product division undertakes
+all function and incurs expenditure on distribution, marketing, advertisement,
+transportation, sales promotion, commission, travel, salary, travelling,
+administrative costs and also undertakes risks such as market risk, debt risk,
+etc. Therefore the selling price and gross profit of products sold in the
+domestic consumer products are fixed at a higher level than in the case of
+export of finished goods to AEs where the selling price is the ex-factory
+price; the freight at actual is collected by the assessee and also as all
+other expenditure mentioned above like distribution, marketing, advertisement,
+transportation, sales promotion, etc. are entirely incurred by the AEs and not
+by the assessee. Therefore, since the assessee does not undertake the above
+functions and risks, the selling price of products sold to Assessing Officer
+are fixed considering a net margin of 15% on the estimated costs.
+
+8.5.6 In our considered view, the TPO has completely disregarded the above
+important differences in functions performed, assets IT(TP)A No.2248/Bang/2016
+M/.s. The Himalaya Drug Company, Bengaluru  Page 25 of 71 employed and risks
+undertaken by the domestic consumer product division and export to AEs; the
+pricing policy followed by the assessee due to these differences in both
+segments. In this view of the matter, we are of the considered opinion that
+the TPO's approach, in applying the gross profit margin of the domestic
+consumer product division to the cost of goods sold in exports to AEs to
+determine the ALP, is factually erroneous and contrary to the mandate of Rule
+10B(1)(c) of the Rules.
+
+8.5.7 As per Rule 10B(2), the comparability of an international transaction
+with an uncontrolled transaction shall be judged with reference to the
+following namely :--
+
+"(a) the specific characteristics of the property transferred or services
+provided in either transaction;
+
+(b) the functions performed, taking into account assets employed or to be
+employed and the risks assumed, by the respective parties to the transactions;
+
+(c) the contractual terms (whether or not such terms are formal or in writing)
+of the transactions which lay down explicitly or implicitly how the
+responsibilities, risks and benefits are to be divided between the respective
+parties to the transactions;
+
+(d) conditions prevailing in the markets in which the respective parties to
+the transactions operate, including the geographical location and size of the
+markets, the laws and Government orders in force, costs of labour and capital
+in the markets, overall economic development and level of competition and
+whether the markets are wholesale or retail."
+
+As per Rule 10B(3), an uncontrolled transaction shall be comparable to an
+international transaction if :--
+
+"E (3) An uncontrolled transaction shall be comparable to an international
+transaction if--
+
+(i) none of the differences, if any, between the transactions being compared,
+or between the enterprises entering into such transactions are likely to
+materially affect the price or cost charged or paid in, or the profit arising
+from, such transactions in the open market; or IT(TP)A No.2248/Bang/2016 M/.s.
+The Himalaya Drug Company, Bengaluru  Page 26 of 71
+
+(ii) reasonably accurate adjustments can be made to eliminate the material
+effects of such differences."
+
+The effect of Rule 10B(2) and (3) is to compare an international transaction
+with an uncontrolled transaction with reference to the parameters as explained
+at (a) to (d) above and to make reasonably accurate adjustments to eliminate
+the material effects of differences between the international transactions and
+uncontrolled transactions.
+
+8.5.8 In the case on hand, as discussed above, the assessee mentions a higher
+gross margin in the domestic market because it incurs significant
+administration, selling and distribution expenses, etc. In case of group
+concerns (AEs) since the administration, selling, distribution and other
+expenses are incurred by the group concerns themselves, necessitating the
+levying of higher margins for the group concerns/AEs and consequently, keeping
+correspondingly lower margin for the assessee. Before the TPO, the assessee
+put forth the above discussed explanations in respect of functional
+differences between exports to AEs and the domestic consumer product division
+(extracted at pages 16 to 21, pages 31 to 33 of TPO's order). Several other
+differences like public awareness of ayurvedic products in India and outside
+India, popularity of Brand 'Himalaya' in India and abroad, support of doctors
+and Govt. of India and abroad, etc. were explained before the TPO. The
+assessee also submitted that if CPM is considered as the MAM, then the gross
+profit margin earned in the domestic market should be reduced on account of
+the many/various differences like, freight to move goods to the sales depots
+and subsequently to the stockists, commission to C&F Agents through whom the
+sales are achieved, filed staff salaries, sales commission to employees,
+travelling cost to promote and achieve sales all over India, communication
+charges, brand premium, allowances for negative publicity in the international
+market, etc. 8.5.9 Rule 10B(1)(c) r.w. Rule 10B(3) provides for making
+reasonably accurate adjustments to eliminate the material effects of
+differences between transactions being compared. In the case on hand, from the
+details on record, the differences between domestic sales and export sales are
+large in number and some being qualitative, unless reasonably accurate
+adjustments are made to normal gross profit mark up to eliminate the material
+effects of the IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 27 of 71 many differences between domestic sales and export
+sales, the two margins cannot be compared. In our view, to give a mathematical
+number to all these differences would mean indulging in the exercise within a
+realm of subjectivity which is to be avoided. We are conscious of the
+principle that CPM can be applied in the case of a manufacturer selling goods
+to both AEs and non-AEs. However, in our considered view, in the peculiar
+factual matrix of the case on hand, as discussed and laid out above, we are of
+the view that CPM cannot be considered as the MAM. In coming to this view, we
+are fortified by the decision of the Pune Bench of the ITAT in the case of
+Drilbits International (P.) Ltd. v. Dy. CIT [2011] 142 TTJ 86, wherein on
+similar facts and circumstances, it was held that gross profit mark up on
+domestic sales cannot be compared with gross profit on export sales to AE,
+reasonably accurate adjustments cannot be made to eliminate the differences
+between the domestic sale; export sales and consequently CPM cannot be
+considered as the MAM; and in this regard at para 50 thereof held as under :--
+"50. Considering the above submissions, vis-à-vis the method i.e. CPM (cost
+plus method) adopted by the learned TPO to determine the ALP, which has been
+relied upon by the learned Departmental Representative, we find that the
+learned TPO while adopting CPM has failed to appreciate several material
+aspects of the issue as discussed above. In our view, the learned TPO was not
+justified in comparing the gross margin in export segment vis-a-vis gross
+margins in domestic segment. There are various differences in the functions
+performed and the risk assumed in these two segments and therefore, the same
+cannot be considered as comparable cases for determining the ALP. There is no
+marketing risk in the export segment, no risk of bad debts, no product
+liability risk in export segments whereas the assessee has to bear all these
+risks in the domestic segment. The contractual statements also defer in the
+domestic segment vis-a-vis export segments. There are different
+characteristics and contractual terms in the two segments and further
+geographical and marked differences are also present. Thus, we are of the view
+that it is very difficult to make suitable adjustments for these differences,
+hence the CMA method is not appropriate method for determining the ALP. The
+learned TPO, in our view, has thus erred in adopting the CPM method as
+appropriate method." 8.5.10 Similarly, the ITAT, Pune Bench in the case of
+Alfa Lavel (I) Ltd. v. Dy. CIT [2014] 46 taxmann.com 394/149 ITD 285 (Pune -
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 28
+of 71 Trib.), rejected CPM as the MAM. In its decision in that case, where the
+assessee was engaged in the business of manufacture and sale of various
+industrial products such as decanters, separators, etc. to its AE located
+abroad as well as in the domestic sector, in view of the fact that there were
+various differences in export segment and domestic segment, such as market
+fluctuations, geographic differences, volume difference, credit risk, RPT,
+etc., the Bench held that the TPO was not justified in adopting CPM as the MAM
+as suitable adjustments are not possible.
+
+8.5.11 The learned Departmental Representative for Revenue placed reliance on
+the decision of the Delhi Bench of ITAT in the case of Wrigley India (P.) Ltd.
+v. Addl. CIT [2011] 14 taxmann.com 91/48 SOT 53 (URO) (Delhi) to put forward
+the proposition that CPM should be considered as the MAM for manufacture and
+sale of finished goods in the domestic markets and exports to AEs. In fact, in
+this decision (supra), the Tribunal held that 'since the marketing and
+advertisement expenditure has to be also incurred by the AEs to market the
+product in their respective territories, therefore this aspect for making
+adjustments as provided in Rule 10B(1)(c)(iii) has to be considered. It is
+thus seen that the above decision relied on by the learned Departmental
+Representative also recognizes that adjustments have to be made as per Rule
+10B(1)(c)(iii) under CPM also. No doubt, as a proposition, the above principle
+holds good, however, as we have held that, in the case on hand reasonably
+accurate adjustments cannot be made to determine the adjusted profit mark up
+as per Rule 10B(1)(c), CPM cannot be considered as the MAM.
+
+8.5.12 The learned Departmental Representative also placed reliance on the
+decision in the case of Diamond Dye Chem Ltd. v. Dy. CIT in ITA
+No.3073/Mum/2006 dt.14.5.2010, wherein the Tribunal accepted CPM as MAM for
+the following reasons as held at para 35 thereof, which is extracted hereunder
+:-- "35. We find the assessee is manufacturing Optical Brightening Agents
+(OBAs) which are being used in textile and paper industries and which are
+exported by the assessee to the AEs as well as Non- AEs. Therefore, we do not
+find any merit in the contention of the assessee that there is product
+dissimilarity between goods exported to AEs and unrelated parties and,
+therefore, the Cost Plus Method is not applicable. Further the learned counsel
+for the assessee also IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug
+Company, Bengaluru  Page 29 of 71 could not satisfactorily explain as to what
+are the substantial differences in the functional and risk profiles of the
+activities undertaking by the assessee in respect of the exports made to the
+AEs and Non-AEs. Therefore, we do not find merit in the submission of the
+learned counsel for the assessee that in cases where the differences in
+functional profile are so material that the same cannot be reasonably adjusted
+while carrying out a gross profit analysis, it may be appropriate to consider
+a net level analysis using operating margin in view of Rule 10B(1)(c)(iii).
+Therefore, the submission of the learned counsel for the assessee that if at
+all an internal comparison has to be carried out in the instant case then it
+should be carried out at the operating level i.e., using the net/operating
+margin. Further we find force in the submission of the learned DR that since
+the cost data for the manufacture of products are available as per cost audit
+report, the reliability there of is assured and therefore Cost Plus Method is
+the most appropriate method. In this view of the matter and in view of the
+detailed discussion by the learned CIT (A), we hold that the Cost Plus Method
+(CPM) is the most suitable method for the international transactions with AEs
+in the instant case."
+
+In this decision (supra), the Tribunal accepted CPM as the MAM considering the
+fact that the assessee was not able to satisfactorily explain the substantial
+difference in the FAR analysis in respect to exports to AEs and non-AEs and
+therefore did not accept that comparison should be made at the operating level
+using the net operating margin. In the case on hand, however, the assessee has
+brought on record many functional, quantitative and qualitative differences
+between the domestic consumer product division and the exports to AEs. As
+discussed earlier, reasonably accurate adjustments cannot be made in the case
+on hand to determine the adjusted profit mark up as per Rule 10B(1)(c) and
+therefore CPM cannot be considered as the MAM. Consequently, the aforesaid
+decision relied on by the learned Departmental Representative is not
+applicable to the facts of the case on hand.
+
+8.5.13 The OECD, TP Guidelines, 2010 relied on by the assessee provides that
+CPM may become less reliable when there are differences between the controlled
+and uncontrolled transactions and those differences have a material effect on
+the attribute being used to measure arm's length conditions. It further states
+that when there are material differences that affect the gross margins earned
+in IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page
+30 of 71 controlled and uncontrolled transactions, adjustments should be made
+to account for such differences. The extent and reliability of those
+adjustments will affect the relative reliability of the analysis. 8.5.14 On
+the other hand, the OECD, TP Guidelines, 2010, provides that TNMM is less
+affected by the transactional and functional differences as seen form Part
+III, B.2 at 2.68 thereof :-- "2.68 One strength of the transactional net
+margin method is that net profit indicators (e.g. return on assets, operating
+income to sales, and possibly other measures of net profit) are less affected
+by transactional differences than is the case with price, as used in the CUP
+method. Net profit indicators also may be more tolerant to some functional
+differences between the controlled and uncontrolled transactions than gross
+profit margins. Differences in the functions performed between enterprises are
+often reflected in variations in operating expenses. Consequently, this may
+lead to a wide range of gross profit margins but still broadly similar levels
+of net operating profit indicators. In addition, in some countries the lack of
+clarity in the public data with respect to the classification of expenses in
+the gross or operating profits may make it difficult to evaluate the
+comparability of gross margins, while the use of net profit indicators may
+avoid the problem."
+
+8.5.15 Rule 10B(1)(c) deals with the determination of ALP a per TNMM. As per
+this Rule, the net profit margin from a comparable uncontrolled transaction is
+adjusted to take into account the differences between the international
+transactions and comparable uncontrolled transactions, which could materially
+affect the amount of net profit margin in the open market. This is compared
+with the net profit margin from the international transactions entered into
+with an AE. TNMM requires establishing comparability at a broad functional
+level, requiring comparison between net margins derived from the operation of
+the uncontrolled transactions and net margin derived in similar international
+transactions. Thus, TNMM removes the limitations of other methods and since
+the comparison is made at the net profit level, it is the only method where
+comparison is possible when there are differences in the transactions and
+further making reasonable adjustments to the comparable transaction is
+impossible. The Hon'ble Delhi High Court in the case of Sony Ericsson Mobile
+Communications India (P.) Ltd. v. CIT [2015] 55 taxmann.com 240/231 Taxman
+113/374 ITR 118 held that the IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya
+Drug Company, Bengaluru  Page 31 of 71 TNMM is a preferred TP Method for
+determination of ALP of international transactions for its proficiency,
+convenience and reliability and in TNMM preference should be given to internal
+or in-house comparables; as held in paras 89 and 90 thereof :-- "89. The TNM
+Method has seen a transition from a disfavoured comparable method, to possibly
+the most appropriate Transfer Pricing method due to ease and flexibility of
+applying the compatibility criteria and enhanced availability of comparables.
+Net profit record/data is assessable and within reach. It is readily and
+easily available, entity-wise in the form of audited accounts. The TNM Method
+is a preferred transfer pricing arm's length principle for its proficiency,
+convenience and reliability. Ideally, in TNM Method preference should be given
+to internal or in-house comparables. In absence of internal comparables, the
+taxpayer can and would need to rely upon external comparables, i.e. comparable
+transactions by independent enterprises. For several reasons, database
+providers, it is apparent, have the requisite information and data of external
+comparables to enable comparability analysis of the controlled and
+uncontrolled transactions with necessary adjustment to obtain reliable results
+under TNM Method. This method also works to the benefit and advantage of the
+tax authorities in view of convenience and easier availability of data not
+only from third party providers, but on their own level, i.e. assessment
+records of other parties.
+
+90\. The strength of the TNM Method is that net profit indicators are less
+affected by transactional differences in comparison with some other methods.
+This method is more tolerant to functional differences between controlled and
+uncontrolled transactions in comparison with resort to gross profit
+margins......." 8.5.16 In the case on hand, the net margin earned by the
+assessee in respect of personal care division in the domestic segment at
+11.30% was compared to the net margin from exports to AEs at 15.80%. Since the
+net margin from exports to AEs was higher than the net margin from domestic
+sales to unrelated parties, the assessee concluded that its exports to AEs
+were at arm's length. The TPO has taken AE sales comprising of both pharma and
+personal care products and compared the same with the personal care products
+of the domestic segment. Since the products compared are different,
+consequently the gross profits are also different. Further, the number IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 32 of 71 of
+differences and adjustments to be carried out for comparison purposes as
+detailed from page 19 of the TPO's order are large in number and therefore
+where differences are many, CPM cannot be considered as MAM. Consequently, in
+our considered view, TNMM is the MAM in the peculiar facts and circumstances
+of the case on hand."
+
+22\. As regards the view of the TPO that the assessee is a contract
+manufacturer, the co-ordinate bench in the assessee's own case for assessment
+year 2011-12 (supra) has held as under:-
+
+"9.1 The TPO held that the assessee acted as a contract manufacturer in
+respect of products exported to AEs since the products are sold to AEs at cost
+plus 15% and the assessee does not undertake any other functions. The OECD, TP
+Guidelines, 2010 explain the meaning of contract manufacturing with an example
+wherein a 100% subsidiary company assembles products (a) at the expense/risk
+of the holding company; (b) based on all necessary component, know how
+provided by the holding company (c) based on guarantee provided by the holding
+company for purchase of products. The OECD, TP Guidelines further states that
+in contract manufacturing, the producer may get extensive instructions about
+what to produce, in what quantity and of what quality and therefore in such
+circumstances, the producing company bears low risk. The Guidelines also
+provide that a contract manufacturer under control of principal, manufactures
+the product on behalf of the principal, using technology that belongs to the
+principal, where purchase of the products manufactured and remuneration are
+guaranteed by the principal, irrespective of whether and if so at what price
+the principle is able to re-sell the product.
+
+9.2 In the case on hand, the products involved are standard goods manufactured
+by the assessee and selling them in the ordinary course of its business, both
+in the domestic and overseas markets. The assessee does not depend on the
+technology of the AEs for manufacture of products; whose specifications
+whether technical or otherwise are decided by the assessee itself. At para 1.2
+on page 3 of his order under Section 92CA of the Act, the TPO has accepted
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 33
+of 71 that the assessee has its own range of products and the AEs only choose
+from the standard products which are manufactured by the assessee for the
+Indian Market. In our view, the TPO's understanding of a contract manufacturer
+will make every manufacturer of goods in India who would not only make
+domestic sales but also effect sales to an overseas distributor as a contract
+manufacturer. A co- ordinate bench of this Tribunal in the case of Essilor
+Mfg. India (P.) Ltd. v. Dy. CIT [2016] 67 taxmann.com 377 held that an
+assessee carrying out its independent activity of manufacturing cannot be
+treated as a contract manufacturer. It was held that in such circumstances CPM
+cannot be applied and TNMM will be the MAM. In view of the overall
+consideration of the peculiar facts and circumstances of the case, as
+discussed above, we hold that CPM adopted by the TPO is incorrect and contrary
+to the facts of the instant case and that the assessee is justified in
+adopting TNMM for determining the ALP in respect of finished goods exported to
+AEs. In this view of the matter, the Transfer Pricing Adjustment of Rs.
+41,12,32,939 made by the TPO by adopting CPM is accordingly deleted.
+Consequently, ground No. VIII & IX raised by the assessee are allowed."
+
+23\. We notice that the co-ordinate bench has held in AY 2011-12 that the
+assessee is justified in adopting TNMM as most appropriate method for
+determining the Arm's Length Price of the international transactions of export
+of finished goods to its Associated Enterprises. It has also held that the
+assessee cannot be considered to be a contract manufacturer. Accordingly, the
+co-ordinate bench has deleted the Transfer pricing adjustment made on this
+point in AY 2011-12. The Ld A.R submitted that the decision rendered in AY
+2011-12 was also followed in the assessee's own case in AY 2010-11 in IT(TP)A
+No.187/Bang/2015 dated 30-04-2019. He invited our attention to the following
+observations made by the Tribunal in AY 2010-11 with regard to the ALP of
+exports made to AEs:-
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 34
+of 71 "6.6 For the year under consideration also, the TPO has accepted the
+fact that in respect of sale of products in India, the assessee has undertaken
+marketing, selling and administrative functions and the assessee has not
+performed any such functions in respect of sales to AEs. The number of
+differences and adjustments to be carried out for comparability purposes as
+laid out at page 17 of the TPO's order are many in number and therefore, where
+differences are many, CPM cannot be considered as the MAM. In this view of the
+matter and following the decision of the Co-ordinate Bench of this Tribunal in
+the assessee's own case for Assessment Year 2011-12 (supra), we hold that TNMM
+is the MAM. Under the said method, the assessee has earned net margin of
+13.39% from exports to its AEs whereas the net loss suffered by the assessee
+in respect of the personal care division in the domestic segment is (-)
+10.16%. As the net margins from the assessee's exports to its AEs is higher
+when compared to the result of its margins in respect of transactions in the
+personal care division in the domestic segment, the price of the sale of
+finished goods are at arms length. In this factual view of the matter, the TP
+Adjustment of Rs.38,84,32,314/- made by the TPO by adopting CPM as the MAM is
+accordingly deleted. Consequently, grounds 5 to 7 are disposed off as above."
+
+24\. In assessment year 2010-11, the co-ordinate bench has also examined the
+Arms length price of export to AEs under TNM method. It has compared Net
+margin rate declared by the assessee in respect of "Domestic - Personal Care
+Division" with the net margin rate declared in Exports to AE. After
+comparison, the co-ordinate bench has held that the IT(TP)A No.2248/Bang/2016
+M/.s. The Himalaya Drug Company, Bengaluru  Page 35 of 71 net margin rate from
+assessee's exports to AE is higher when compared to the result of its margins
+in respect of transactions in the personal care division in the domestic
+segment and accordingly held that the price of sale of finished goods to its
+AE is at arm's length. Accordingly, the co-ordinate bench has deleted the T P
+adjustment made in respect of Exports made to AEs. Before us, the Ld A.R
+submitted that the Net profit margin declared during the year under
+consideration was 12.60% in Export to AE and the net profit margin declared in
+the domestic personal care division was 1.19%. Accordingly, he submitted that
+the international transaction of Export to AEs is at arms length and hence the
+impugned T P adjustment should be deleted.
+
+25\. We heard the parties on this issue and perused the record. We have
+noticed that the CPM method adopted by the TPO for bench marking the
+international transaction of Export to AEs has been rejected by the Co-
+ordinate bench in AY 2010-11 and 2011-12 in the assessee's own case.
+Accordingly, consistent with the view taken by the co- ordinate bench in the
+assessee's own case in the above said years and for the detailed reasons
+discussed in the order of the Tribunal, we also hold that the assessee was
+justified in adopting TNMM as most appropriate method for determining the
+Arm's Length Price of the international transactions of export of finished
+goods to its Associated Enterprises.
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 36
+of 71
+
+26\. While bench marking the international transaction of Export to AEs under
+Cost Plus method, the TPO has taken "Domestic Personal Care division" as
+'uncontrolled internal comparable'. The reasoning given by TPO is available at
+pages 14 & 15 of his order. The co-ordinate bench has also taken "Domestic -
+Personal Care Division" as uncontrolled comparable in AY 2010-11. Accordingly,
+we are of the view that "Domestic Personal Care division" can be taken as
+uncontrolled comparable under TNM method in this year also."
+
+5.5 We notice that the co-ordinate benches are consistently holding that the
+TNM method is the most appropriate method for determining the ALP of the
+exports of ayurvedic medicaments and preparations. Consistent with the view so
+taken, we reject the decision to TPO to adopt Cost Plus Method in this year
+and hold that the TNM method is the most appropriate method. Both the assessee
+and the TPO have taken "Domestic Personal care division" as uncontrollable
+comparable.
+
+5.6 The co-ordinate bench has also rejected the view of the TPO to adopt Gross
+profit ratio as Profit level Indicator, while rejecting the Cost Plus Method
+as Most appropriate method. The Tribunal held that the net profit ratio should
+be adopted as Profit Level Indicator. The observations made by the Tribunal in
+AY 2013-14 in this regard are extracted below:-
+
+> 27\. We notice that the TPO has adopted "Gross Profit Margin rate" as PLI
+> under Cost Plus Method, while the contention of the assessee is that "net
+> profit margin rate"
+
+> IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page
+> 37 of 71 should be taken as PLI. In this regard, the Ld A.R submitted that
+> the "Net Profit Margin rate" shall be the appropriate PLI in the facts and
+> circumstances of the case. He submitted that the co-ordinate bench has taken
+> the net profit margin rate as PLI under TNM method in AY 2010-11. He further
+> submitted that the TPO himself has accepted that
+
+> (a) AEs perform marketing function and the assets required to perform the
+> function of marketing are owned by the AEs.
+
+(b) In AY 2012-13, the TPO has expressed the view that the Corporate expenses
+should not be debited to "Exports to AE section".
+
+(c) The TPO has also observed in AY 2012-13 that the administrative and
+selling expenses are not incurred on export to AEs.
+
+The Ld A.R submitted that the division wise profit and loss account prepared
+by the assessee for the year under consideration adheres to the view taken by
+the TPO. He submitted that the TPO has, in principle, has accepted the
+division wise profit and loss account except with regard to discounts, i.e.,
+The assessee had deducted discounts and discounts for damaged goods from Sales
+figure, while the TPO has taken it as a Profit and Loss item. He submitted
+that this adjustment made by TPO will not have any impact when the net profit
+margin rate is taken as PLI. He submitted that the assessee had to incur
+Corporate expenses, Administrative expenses and Marketing expenses for
+"domestic personal care division", while these expenses are not required to be
+incurred/allocated for "Exports to AE segment". The Marketing expenses is, in
+fact, huge IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 38 of 71 expenditure incurred by the assessee. Since the
+assessee has to factor in huge marketing expenses and other expenses that are
+required to be incurred for domestic segment in the selling price, the G.P
+margin rate is bound to be higher in respect of "Domestic - Personal care
+division". Hence comparison of G.P margin rate of both divisions would give
+distorted picture, as Sales pricing methodology is totally different between
+both segments. Accordingly, he submitted that the comparison of net profit
+margin rate is ideal one in the facts and circumstances of the case, as "net
+margin rate" is more tolerant to some functional differences between the
+controlled and uncontrolled transactions than gross profit margin rate. We
+find merit in the said contentions.
+
+28\. During the year under consideration, the assessee has declared net profit
+margin rate @ 1.19% for "Domestic - Personal care division" and @ 12.60% for
+"Exports to AE division". Admittedly, the net profit margin rate of "Exports
+to AEs division" is more than the uncontrolled comparable selected by the
+assessee/TPO. Hence price charged for export of finished goods to AEs is at
+arms length. In AY 2010-11 also, the co-ordinate bench has given a finding
+that the price charged for export of finished goods to AEs is at arms length,
+since the net profit margin rate was higher in that division vis-à-vis the
+Domestic - Personal care division. Accordingly, the co-ordinate bench held
+that the TP adjustment made in this regard is liable to be deleted. The facts
+available in this year also are identical and accordingly IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 39 of 71 we
+hold that the T.P adjustment made by the AO in respect of international
+transaction of Export to AEs is liable to be deleted. Accordingly we direct
+the AO to delete the same."
+
+5.7 During the year under consideration, i.e., in AY 2012-13, the assessee has
+submitted that it has earned net profit margin of 10.70% in "Domestic-
+Personal care division", while the margin earned by the assessee in respect of
+"Export Sales to AEs" was 12.01%. Accordingly, it was submitted that its
+export made to associated enterprises was at arms length. However, the TPO has
+re- cast the profit and loss account at pages 12 and 13 of his order.
+Accordingly, he has worked out the net profit margin @ 19.43% in "Domestic-
+Personal care division" and at 13.08% in "Exports to AEs" division. Since the
+TPO proceeded to compare gross profit margin, he did not give any significance
+to the net profit margin. We have earlier rejected the methodology adopted by
+the TPO and we have upheld the assessee's stand on TNMM and Net profit margin.
+
+5.8 The assessee has furnished explanations in this regard. It has submitted
+that the TPO has omitted to deduct following expenses while working out the
+net profit for "Domestic - Personal care division":-
+
+Payments to and Provision for employees - Rs.17,63,83,224 Freight and
+forwarding charges - Rs.11,70,49,511 The assessee submitted that the net
+profit worked out by the assessee in "Domestic-Personal care division" was
+Rs.28.68 crores. The TPO has worked out the net profit at Rs.58.02 crores. The
+difference represents the aggregate amount of above said two expenses, i.e.,
+Rs.29.34 crores. The Ld A.R submitted that the TPO has excluded both the above
+said expenses without assigning any reason. The Ld A.R submitted that the
+assessee has adopted IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug
+Company, Bengaluru  Page 40 of 71 consistently very same methodology to work
+out net profit in the past and future years. Accordingly, the Ld A.R submitted
+that the working made by TPO should be rejected.
+
+5.9 We find merit in the submissions made by Ld A.R. There should not be any
+dispute that the methodology consistently followed to work out net profit year
+after year should be followed in this year also. It should not be tinkered
+with, unless proper reasons are given. The TPO has not given any reason as to
+why he did not consider above said two expenses while working out net profit
+margin of "Domestic - Personal care division". Hence the workings made by TPO
+is liable to rejected. We have noticed that the net profit margin worked out
+by the assessee in "Domestic - Personal care division" was 10.70%. The net
+profit margin worked out for "Exports to AEs" was 12.01%. Hence the net profit
+margin earned in the exports to AEs division is higher than its comparable
+"Domestic - Personal care division". Hence it has to be held that the
+international transactions of making exports to AEs are at arms length and
+hence no T.P adjustment is called for. Accordingly, we direct deletion of
+Transfer pricing adjustment made in respect of Exports to AEs.
+
+6\. The next issue relates to the Transfer pricing adjustment made in respect
+of Advertisement and Marketing expenses. The TPO took the view that the
+assessee is incurring huge amount towards Selling and Marketing Expenditure.
+He took the view that these expenses go to increase the brand name owned by
+the Parent company. Accordingly, the TPO proceeded to find out average selling
+expenses incurred by comparable companies. He noticed that the average selling
+and marketing expenses incurred by the comparable companies work out to
+15.50%. Accordingly, the TPO took the view that the selling and marketing
+expenses incurred over and above IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya
+Drug Company, Bengaluru  Page 41 of 71 15.50% of the sales value is towards
+increasing brand name held by Parent company. Accordingly, he made transfer
+pricing adjustment of Rs.65,44,65,790/- in respect of the selling and
+marketing expenses incurred over and above 15.50% of sale value.
+
+6.1 We heard the parties and perused the record. The AO/TPO has made identical
+transfer pricing adjustments in AY 2013-14 and 2011-12 also. Accordingly,
+identical issue was considered by the co- ordinate bench in AY 2013-14 and the
+same was decided in favour of the assessee by following the decision rendered
+by the co-ordinate bench in AY 2011-12. The discussions made by the Tribunal
+in AY 2013-14 are extracted below:-
+
+> "33. We notice that an identical issue was examined by the co-ordinate bench
+> in the assessee's own case in AY 2011-12. The relevant discussions made by
+> the co-ordinate bench in assessment year 2011-12 are extracted below:-
+
+> "11. Ground No.XI - Advertisement, Marketing & Sales Promotion (AMP)
+> Expenses - Transfer Pricing Adjustment : Rs. 31,69,02,034.
+
+11.1 In the course of proceedings, the TPO noted that the assessee had
+incurred huge advertisement and selling expenditure in marketing its products.
+Taking into account the fact that the brand name and logo 'Himalaya' is owned
+by M/s. Himalaya Global Holding Ltd; Cayman Islands, the TPO held that the
+legal owner, namely, M/s. Himalaya Global Holding Ltd., Cayman Islands (viz.
+holding 88% share in the assessee firm) should meet the expenditure on
+promotion of the brand name OR it should compensate the assessee for
+performing the function of developing the brand name and logo in India. The
+TPO was of the view that the AMP expenditure incurred by the assessee is in
+excess of the gross profit itself, it cannot be said that the entire AMP
+expenditure is incurred for the purpose of the assessee's IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 42 of 71
+business. In this view of the matter, the TPO applied the 'Bright Line Test'
+to identify the expenditure on AMP which is routine in nature and which an
+entity working at arm's length is expected to incur and held the balance
+expenditure to be non-routine and for the purpose of development of the brand
+and logo. The TPO worked out the non-routine AMP identifying the percentage of
+AMP expenditure (i.e. selling and marketing expenditure/sales) incurred by
+uncontrolled companies and in this context selected five companies as
+comparables and determined the average percentage of selling and marketing
+expenditure to sales @ 24.05%. The TPO applied this rate to sales of Rs.
+197,25,42,327 and the routine expenses were determined at Rs. 47,43,96,429.
+Reducing this amount from the actual selling and marketing expenditure of Rs.
+77,62,07,890, the non-routine expenditure was computed at Rs. 30,18,11,461 and
+after adding a mark up of 5% on this, the TPO determined the adjustment at Rs.
+31,69,02,034. The DRP upheld and confirmed the above views/contentions of the
+TPO.
+
+11.2.1 Before us, the learned Authorised Representative for the; assessee
+placed reliance on the decisions of the co-ordinate bench of this Tribunal in
+the case of Essilor India (P.) Ltd. v. Dy. CIT [2016] 68 taxmann.com 311
+(Bang. - Trib.); Dy. CIT v. Nike India (P.) Ltd. in IT (TP) Appeal
+No.232/Bang/2014 and other judicial pronouncements to contend that in the
+absence of any agreement OR arrangement with M/s. Himalaya Global Holdings
+Ltd., Cayman Islands to incur AMP expenses on its behalf to promote the brand
+value of the products, the AMP expenses cannot be treated as an international
+transaction. 11.2.2 Reliance was placed by the learned Authorised
+Representative on the Affidavit of Sri Meeraj Alim Manal dt.27.8.2012 (pages
+452 to 454 of Paper Book 2), the major shareholder of M/s. Himalaya Global
+Holdings Ltd., Cayman Islands ('HGH'), to contend that it is the assessee firm
+which has developed all its assets including the trademarks of the products in
+India and the assessee is exclusively and beneficially entitled to explore and
+use the same in India. It was submitted that as per the above Affidavit, the
+legal ownership of the brand with 'HGH' was necessitated by the fact that the
+assessee, being a firm was not recognized as a legal entity outside India and
+therefore 'HGH', being a partner and a legal entity was recognized as the
+owner of IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru
+Page 43 of 71 the brand. It was contended that Sec. 92 of the Act is a
+machinery provision and not a charging section and therefore notional income
+cannot be charged to tax. According to the learned Authorised Representative,
+the advertisements aired OR printed do not carry the name of 'HGH' and in this
+regard, relying on the certificate issued by M/s. Starcom Worldwide (page 471
+of Paper Book - 2) submitted that the advertisement expenses are for the
+Indian Market only as these advertisements are not aired in the international
+market. The learned Authorised Representative further contended that the
+'Bright Line Test' adopted by the TPO for making the Transfer Pricing
+Adjustment has no legal sanctity and hence entire Transfer Pricing Adjustment
+should be deleted. 11.2.3 Without prejudice, it was contended by the learned
+Authorised Representative that selling expenses do not form part of AMP and
+consequently if the correct amount of advertisement expenses is considered, it
+would be seen that it is well within the routine AMP limit determined by the
+TPO. In this context, the learned Authorised Representative prayed for the
+deletion of the Transfer Pricing Adjustment on AMP expenditure. 11.3 Per
+contra, the learned Departmental Representative placed strong reliance on the
+order of the TPO. It was contended that as the assessee is not the legal owner
+of the brand 'Himalaya', any AMP expenses incurred by the assessee will
+directly or indirectly result in promotion of the brand 'Himalaya' owned by
+'HGH' Cayman Islands. It was therefore argued that the TPO rightly made the
+Transfer Pricing Adjustment on AMP.
+
+11.4.1 We have heard the rival contentions, perused and carefully considered
+the material on record; including the judicial pronouncements cited. The
+question of whether incurring AMP expenditure result in an international
+transaction was considered at length by a co-ordinate bench of this Tribunal
+in the case of Essilor India (P.) Ltd. (supra) which decision was followed by
+another co-ordinate bench of this Tribunal in the case of Nike India (P.) Ltd.
+(supra). In the case of Nike India (P.) Ltd. (supra), after considering
+various judicial pronouncements on the subject, the co-ordinate bench held
+that in the absence of any arrangement between the assessee and the foreign AE
+for incurring AMP expenditure, no Transfer Pricing Adjustment can be made in
+respect of AMP expenditure. In this regard, we find that at paras IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 44 of 71 19
+to 22 of its order in the case of Essilor India (P.) Ltd. (supra), it was held
+as under :--
+
+'19. In the present case, the assessee-company imports the lens from its
+foreign AE and after some processing, sells the products on its own. However,
+the amount of value addition on account of processing in terms of total
+revenue is not clear from the material on record. That apart, the assessee-
+company has been throughout contesting before all the authorities the very
+existence of international transaction on account of incurring AMP expenditure
+between assessee-company and its AE and therefore, the contentions that the
+law laid down by the Hon'ble Delhi High Court in Sony Ericsson Mobile
+Communication India (P.) Ltd. (supra) should be applied to the case on hand,
+is not correct. Therefore, the submission of the learned Departmental
+Representative that the matter be remanded to the file of TPO for fresh
+decision in the light of law laid down by the Hon'ble Delhi High Court in the
+case of Sony Ericsson Mobile Communication India (P.) Ltd. (supra), cannot be
+acceded to.
+
+20\. Subsequent to the decision in the case of Sony Ericsson Mobile
+Communication India (P.) Ltd. (supra), the Hon'ble Delhi High Court had
+rendered five decisions on the same issue. Those decisions are:
+
+(i) Maruti Suzuki India Ltd. v. CIT (282 CTR 1),
+
+(ii) CIT v. Whirlpool of India Ltd. (129 DTR (169),
+
+(iii) Bausch & Lomb Eyecare (India) (P.) Ltd. v. Addl. CIT (129 DTR 201) and
+
+(iv) Yum Restaurants (India) Pvt. Ltd. v. ITO (ITA No.349/2015 dated
+13/01/2016) and
+
+(v) Honda Seil Products In the above-mentioned decisions, the issue of the
+very existence of international transaction on incurring AMP expenditure and
+the method of determination of ALP was the subject matter of appeal before the
+Hon'ble Delhi High Court. The Hon'ble Delhi High Court had categorically held
+that in the absence of agreement between Indian entity and foreign AE whereby
+the Indian entity IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 45 of 71 was obliged to incur AMP expenditure of a certain
+level for foreign entity for the purpose of promoting the brand value of the
+products of the foreign entity, no international transaction can be presumed.
+It was further held that the fact that there was an incidental benefit to the
+foreign AE, it cannot be said that AMP expenditure incurred by an Indian
+entity was for promoting brand of foreign AE. One more aspect highlighted by
+the Hon'ble High Court is that in the absence of machinery provisions,
+bringing an imagined transaction to tax was not possible. While coming to this
+conclusion, the Hon'ble High Court had placed reliance on the decisions of the
+Hon'ble Apex Court in the cases of CIT v. B.C. Srinivasa Setty (128 ITR 294)
+and PNB Finance Ltd. v. CIT (307 ITR 75). The Hon'ble Delhi High Court after
+referring to its earlier decision in the case of Maruti Suzuki India Ltd.
+(supra) and Whirlpool of India (P.) Ltd. (supra) had considered the question
+of existence of the international transaction and computation of ALP thereon
+in the case of Bausch & Lomb Eyecare (India) (P.) Ltd. (supra) vide para 51 to
+65 as under:
+
+> "51. The central issue concerning the existence of an international
+> transaction regarding AMP expenses requires the interpretation of provisions
+> of Chapter X of the Act, and to determine whether the Revenue has been able
+> to show prima facie the existence of international transaction involving AMP
+> between the Assessee and its AE.
+
+> 52\. At the outset, it must be pointed out that these cases were heard
+> together with another batch of cases, two of which have already been decided
+> by this Court. The two decisions are the judgement dated 11th December 2015
+> in ITA No. 110/2014 (Maruti Suzuki India Ltd. v. Commissioner of Income Tax)
+> and the judgment dated 22nd December 2015 in ITA No. 610 of 2014 (The
+> Commissioner of Income Tax-LTU v. Whirlpool of India Ltd.) and many of the
+> points urged by the counsel in these appeals have been considered in these
+> two judgments.
+
+53\. A reading of the heading of Chapter X ["Computation of income from
+international transactions having regard to arm's length price"] and Section
+92 (1) which states that any income arising from an international transaction
+shall be computed having regard to the ALP and Section 92C (1) IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 46 of 71
+which sets out the different methods of determining the ALP, makes it clear
+that the transfer pricing adjustment +is made by substituting the ALP for the
+price of the transaction. To begin with there has to be an international
+transaction with a certain disclosed price. The transfer pricing adjustment
+envisages the substitution of the price of such international transaction with
+the ALP.
+
+54\. Under Sections 92B to 92F, the pre-requisite for commencing the TP
+exercise is to show the existence of an international transaction. The next
+step is to determine the price of such transaction. The third step would be to
+determine the ALP by applying one of the five price discovery methods
+specified in Section 92C. The fourth step would be to compare the price of the
+transaction that is shown to exist with that of the ALP and make the TP
+adjustment by substituting the ALP for the contract price.
+
+55\. Section 92B defines 'international transaction' as under: "Meaning of
+international transaction. 92B.(1) For the purposes of this section and
+sections 92, 92C, 92D and 92E, "international transaction" means a transaction
+between two or more associated enterprises, either or both of whom are non-
+residents, in the nature of purchase, sale or lease of tangible or intangible
+property, or provision of services, or lending or borrowing money, or any
+other transaction having a bearing on the profits, income, losses or assets of
+such enterprises, and shall include a mutual agreement or arrangement between
+two or more associated enterprises for the allocation or apportionment of, or
+any contribution to, any cost or expense incurred or to be incurred in
+connection with a benefit, service or facility provided or to be provided to
+any one or more of such enterprises. (2) A transaction entered into by an
+enterprise with a person other than an associated enterprise shall, for the
+purposes of sub- section (1), be deemed to be a transaction entered into
+between two associated enterprises, if there exists a prior agreement in
+relation to the relevant transaction between such other person and the
+associated enterprise, or the terms of the relevant transaction are determined
+in substance between such other person and the associated enterprise."
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 47
+of 71
+
+56\. Thus, under Section 92B(1) an 'international transaction' means- (a) a
+transaction between two or more AEs, either or both of whom are non-resident
+(b) the transaction is in the nature of purchase, sale or lease of tangible or
+intangible property or provision of service or lending or borrowing money or
+any other transaction having a bearing on the profits, incomes or losses of
+such enterprises, and (c) shall include a mutual agreement or arrangement
+between two or more AEs for allocation or apportionment or contribution to the
+any cost or expenses incurred or to be incurred in connection with the
+benefit, service or facility provided or to be provided to one or more of such
+enterprises.
+
+57\. Clauses (b) and (c) above cannot be read disjunctively. Even if resort is
+had to the residuary part of clause (b) to contend that the AMP spend of BLI
+is "any other transaction having a bearing" on its "profits, incomes or
+losses", for a 'transaction' there has to be two parties. Therefore for the
+purposes of the 'means' part of clause (b) and the 'includes' part of clause
+(c), the Revenue has to show that there exists an 'agreement' or 'arrangement'
+or 'understanding' between BLI and B&L, USA whereby BLI is obliged to spend
+excessively on AMP in order to promote the brand of B&L, USA. As far as the
+legislative intent is concerned, it is seen that certain transactions listed
+in the Explanation under clauses (i) (a) to (e) to Section 92B are described
+as an 'international transaction'. This might be only an illustrative list,
+but significantly it does not list AMP spending as one such transaction.
+
+58\. In Maruti Suzuki India Ltd. (supra) one of the submissions of the Revenue
+was: "The mere fact that the service or benefit has been provided by one party
+to the other would by itself constitute a transaction irrespective of whether
+the consideration for the same has been paid or remains payable or there is a
+mutual agreement to not charge any compensation for the service or benefit."
+This was negatived by the Court by pointing out: "Even if the word
+'transaction' is given its widest connotation, and need not involve any
+transfer of money or a written agreement as suggested by the Revenue, and even
+if resort is had to Section 92F (v) which defines 'transaction' to include
+'arrangement', 'understanding' IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya
+Drug Company, Bengaluru  Page 48 of 71 or 'action in concert', 'whether formal
+or in writing', it is still incumbent on the Revenue to show the existence of
+an 'understanding' or an 'arrangement' or 'action in concert' between MSIL and
+SMC as regards AMP spend for brand promotion. In other words, for both the
+'means' part and the 'includes' part of Section 92B (1) what has to be
+definitely shown is the existence of transaction whereby MSIL has been obliged
+to incur AMP of a certain level for SMC for the purposes of promoting the
+brand of SMC."
+
+59\. In Whirlpool of India Ltd. (supra), the Court interpreted the expression
+"acted in concert" and in that context referred to the decision of the Supreme
+Court in Daiichi Sankyo Company Ltd. v. Jayaram Chigurupati 2010(6)
+MANU/SC/0454/2010, which arose in the context of acquisition of shares of
+Zenotech Laboratory Ltd. by the Ranbaxy Group. The question that was examined
+was whether at the relevant time the Appellant, i.e., Daiichi Sankyo Company
+and Ranbaxy were "acting in concert" within the meaning of Regulation 20(4)
+(b) of the Securities and Exchange Board of India (Substantial Acquisition of
+Shares and Takeovers) Regulations, 1997. In para 44, it was observed as under:
+
+"The other limb of the concept requires two or more persons joining together
+with the shared common objective and purpose of substantial acquisition of
+shares etc. of a certain target company. There can be no "persons acting in
+concert" unless there is a shared common objective or purpose between two or
+more persons of substantial acquisition of shares etc. of the target company.
+For, de hors the element of the shared common objective or purpose the idea of
+"person acting in concert" is as meaningless as criminal conspiracy without
+any agreement to commit a criminal offence. The idea of "persons acting in
+concert" is not about a fortuitous relationship coming into existence by
+accident or chance. The relationship can come into being only by design, by
+meeting of minds between two or more persons leading to the shared common
+objective or purpose of acquisition of substantial acquisition of shares etc.
+of the target company. It is another matter that the common objective or
+purpose may IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 49 of 71 be in pursuance of an agreement or an understanding,
+formal or informal; the acquisition of shares etc. may be direct or indirect
+or the persons acting in concert may cooperate in actual acquisition of shares
+etc. or they may agree to cooperate in such acquisition. Nonetheless, the
+element of the shared common objective or purpose is the sine qua non for the
+relationship of "persons acting in concert" to come into being."
+
+60\. The transfer pricing adjustment is not expected to be made by deducing
+from the difference between the 'excessive' AMP expenditure incurred by the
+Assessee and the AMP expenditure of a comparable entity that an international
+transaction exists and then proceeding to make the adjustment of the
+difference in order to determine the value of such AMP expenditure incurred
+for the AE. In any event, after the decision in Sony Ericsson (supra), the
+question of applying the BLT to determine the existence of an international
+transaction involving AMP expenditure does not arise.
+
+61\. There is merit in the contention of the Assessee that a distinction is
+required to be drawn between a 'function' and a 'transaction' and that every
+expenditure forming part of the function cannot be construed as a
+'transaction'. Further, the Revenue's attempt at re-characterising the AMP
+expenditure incurred as a transaction by itself when it has neither been
+identified as such by the Assessee or legislatively recognised in the
+Explanation to Section 92B runs counter to legal position explained in CIT v.
+EKL Appliances Ltd. (supra) which required a TPO "to examine the
+'international transaction' as he actually finds the same."
+
+62\. In the present case, the mere fact that B&L, USA through B&L, South Asia,
+Inc holds 99.9% of the share of the Assessee will not ipso facto lead to the
+conclusion that the mere increasing of AMP expenditure by the Assessee
+involves an international transaction in that regard, with B&L, USA. A similar
+contention by the Revenue, namely, that even if there is no explicit
+arrangement, the fact that the benefit of such AMP expenses would also enure
+to the AE is itself sufficient to infer the existence of an international
+transaction has been IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug
+Company, Bengaluru  Page 50 of 71 negatived by the Court in Maruti Suzuki
+India Ltd. (supra) as under:
+
+"68. The above submissions proceed purely on surmises and conjectures and if
+accepted as such will lead to sending the tax authorities themselves on a
+wild-goose chase of what can at best be described as a 'mirage'. First of all,
+there has to be a clear statutory mandate for such an exercise. The Court is
+unable to find one. To the question whether there is any 'machinery' provision
+for determining the existence of an international transaction involving AMP
+expenses, Mr. Srivastava only referred to Section 92F (ii) which defines ALP
+to mean a price "which is applied or proposed to be applied in a transaction
+between persons other than AEs in uncontrolled conditions". Since the
+reference is to 'price' and to 'uncontrolled conditions' it implicitly brings
+into play the BLT. In other words, it emphasises that where the price is
+something other than what would be paid or charged by one entity from another
+in uncontrolled situations then that would be the ALP. The Court does not see
+this as a machinery provision particularly in light of the fact that the BLT
+has been expressly negatived by the Court in Sony Ericsson. Therefore, the
+existence of an international transaction will have to be established de hors
+the BLT.
+
+** ** **
+
+70\. What is clear is that it is the 'price' of an international transaction
+which is required to be adjusted. The very existence of an international
+transaction cannot be presumed by assigning some price to it and then deducing
+that since it is not an ALP, an 'adjustment' has to be made. The burden is on
+the Revenue to first show the existence of an international transaction. Next,
+to ascertain the disclosed 'price' of such transaction and thereafter ask
+whether it is an ALP. If the answer to that is in the negative the TP
+adjustment should follow. The objective of Chapter X is to make adjustments to
+the price of an international transaction which the AEs involved may seek to
+shift from one jurisdiction to another. An 'assumed' price cannot form the
+reason for making an ALP adjustment."
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 51
+of 71
+
+71\. Since a quantitative adjustment is not permissible for the purposes of a
+TP adjustment under Chapter X, equally it cannot be permitted in respect of
+AMP expenses either. As already noticed hereinbefore, what the Revenue has
+sought to do in the present case is to resort to a quantitative adjustment by
+first determining whether the AMP spend of the Assessee on application of the
+BLT, is excessive, thereby evidencing the existence of an international
+transaction involving the AE. The quantitative determination forms the very
+basis for the entire TP exercise in the present case.
+
+** ** **
+
+74\. The problem with the Revenue's approach is that it wants every instance
+of an AMP spend by an Indian entity which happens to use the brand of a
+foreign AE to be presumed to involve an international transaction. And this,
+notwithstanding that this is not one of the deemed international transactions
+listed under the Explanation to Section 92B of the Act. The problem does not
+stop here. Even if a transaction involving an AMP spend for a foreign AE is
+able to be located in some agreement, written (for e.g., the sample agreements
+produced before the Court by the Revenue) or otherwise, how should a TPO
+proceed to benchmark the portion of such AMP spend that the Indian entity
+should be compensated for?
+
+63\. Further, in Maruti Suzuki India Ltd. (supra) the Court further explained
+the absence of a 'machinery provision qua AMP expenses by the following
+analogy:
+
+"75. As an analogy, and for no other purpose, in the context of a domestic
+transaction involving two or more related parties, reference may be made to
+Section 40 A (2) (a) under which certain types of expenditure incurred by way
+of payment to related parties is not deductible where the AO "is of the
+opinion that such expenditure is excessive or unreasonable having regard to
+the fair market value of the goods." In such event, "so much of the
+expenditure as is so considered by him to be excessive or unreasonable shall
+not be allowed as a deduction." The AO in such an instance IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 52 of 71
+deploys the 'best judgment' assessment as a device to disallow what he
+considers to be an excessive expenditure. There is no corresponding
+'machinery' provision in Chapter X which enables an AO to determine what
+should be the fair 'compensation' an Indian entity would be entitled to if it
+is found that there is an international transaction in that regard. In
+practical terms, absent a clear statutory guidance, this may encounter further
+difficulties. The strength of a brand, which could be product specific, may be
+impacted by numerous other imponderables not limited to the nature of the
+industry, the geographical peculiarities, economic trends both international
+and domestic, the consumption patterns, market behaviour and so on. A
+simplistic approach using one of the modes similar to the ones contemplated by
+Section 92C may not only be legally impermissible but will lend itself to
+arbitrariness. What is then needed is a clear statutory scheme encapsulating
+the legislative policy and mandate which provides the necessary checks against
+arbitrariness while at the same time addressing the apprehension of tax
+avoidance."
+
+64\. In the absence of any machinery provision, bringing an imagined
+transaction to tax is not possible. The decisions in CIT v. B.C. Srinivasa
+Setty (1981) 128 ITR 294 (SC) and PNB Finance Ltd. v. CIT (2008) 307 ITR 75
+(SC) make this position explicit. Therefore, where the existence of an
+international transaction involving AMP expense with an ascertainable price is
+unable to be shown to exist, even if such price is nil, Chapter X provisions
+cannot be invoked to undertake a TP adjustment exercise.
+
+65\. As already mentioned, merely because there is an incidental benefit to
+the foreign AE, it cannot be said that the AMP expenses incurred by the Indian
+entity was for promoting the brand of the foreign AE. As mentioned in Sassoon
+J David (supra) "the fact that somebody other than the Assessee is also
+benefitted by the expenditure should not come in the way of an expenditure
+being allowed by way of a deduction under Section 10 (2) (xv) of the Act
+(Indian Income Tax Act, 1922) if it satisfies otherwise the tests laid down by
+the law".
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 53
+of 71
+
+21\. Respectfully following the ratio of the decision of the Hon'ble Delhi
+High Court in the above cases, we hold that no TP adjustment can be made by
+deducing from the difference between AMP expenditure incurred by assessee-
+company and AMP expenditure of comparable entity, if there is no explicit
+arrangement between the assessee-company and its foreign AE for incurring such
+expenditure. The fact that the benefit of such AMP expenditure would also
+enure to its foreign AE is not sufficient to infer existence of international
+transaction. The onus lies on the revenue to prove the existence of
+international transaction involving AMP expenditure between the assessee-
+company and its foreign AE. We also hold that that in the absence of machinery
+provisions to ascertain the price incurred by the assessee-company to promote
+the brand values of the products of the foreign entity, no TP adjustment can
+be made by invoking the provisions of Chapter X of the Act.
+
+22\. Applying the above legal position to the facts of the present case, it is
+not a case of revenue that there existed an arrangement and agreement between
+the assessee-company and its foreign AE to incur AMP expenditure to promote
+brand value of its products on behalf of the foreign AE, merely because the
+assessee- company incurred more expenditure on AMP compared to the expenditure
+incurred by comparable companies, it cannot be inferred that there existed
+international transaction between assessee-company and its foreign AE.
+Therefore, the question of determination of ALP on such transaction does not
+arise. However, the transaction of expenditure on AMP should be treated as a
+part of aggregate of bundle of transactions on which TNMM should be applied in
+order to determine the ALP of its transactions with its AE. In other words,
+the transaction of expenditure on AMP cannot be treated as a separate
+transaction. In the present case, we find from the TP study that the operating
+profit cost to the total operating cost was adopted as Profit Level Indicator
+which means that the AMP expenditure was not considered as a part of the
+operating cost. This goes to show that the AMP expenditure was not subsumed in
+the operating profitability of the assessee-company. Therefore, in order to
+determine the ALP of international transaction with its AE, it is sine qua non
+that the AMP expenditure should be considered as a part of the operating cost.
+Therefore, we restore the issue of IT(TP)A No.2248/Bang/2016 M/.s. The
+Himalaya Drug Company, Bengaluru  Page 54 of 71 determination of ALP, on the
+above lines, to the file of the AO/TPO. The grounds of appeal raised by the
+assessee-company on this issue are partly allowed.' 11.4.2 In the case on
+hand, the TPO has made the Transfer Pricing Adjustment in respect of AMP
+expenses on the ground that the said expenditure has resulted in promotion of
+the brand 'Himalaya' owned by M/s. Himalaya Global Holdings Ltd., Cayman
+Islands and has applied the 'Bright Line Test' for this purpose. However,
+neither the TPO nor the Assessing Officer has brought on record any material
+evidence to substantiate the existence of any agreement or arrangement, either
+express or implied between the assessee and 'HGH', Cayman Islands for
+promotion of its brand. The Hon'ble High Court of Delhi in a series of
+decisions, inter alia, including the case of Maruti Suzuki India Ltd. v. CIT
+[2015] 64 taxmann.com 150/[2016] 237 Taxman 256/381 ITR 117 (Delhi) emphasized
+the importance of Revenue having to first discharge the initial burden upon it
+with regard to showing the existence of an international transaction between
+the assessee and the AE. In the case of Maruti Suzuki India Ltd. (supra), at
+para 64 it was held as under :--
+
+"64. The transfer pricing adjustment is not expected to be made by deducing
+from the difference between the 'excessive' AMP expenditure incurred by the
+Assessee and the AMP expenditure of a comparable entity that an international
+transaction exists and then proceed to make the adjustment of the difference
+in order to determine the value of such AMP expenditure incurred for the AE.
+And, yet, that is what appears to have been done by the Revenue in the present
+case. It first arrived at the 'bright line' by comparing the AMP expenses
+incurred by MSIL with the average percentage of the AMP expenses incurred by
+the comparable entities. Since on applying the BLT, the AMP spend of MSIL was
+found 'excessive' the Revenue deduced the existence of an international
+transaction. It then added back the excess expenditure as the transfer pricing
+'adjustment'. This runs counter to legal position explained in CIT v. EKL
+Appliances Ltd. (2012) 345 ITR 241 (Del), which required a TPO "to examine the
+'international transaction' as he actually finds the same." In other words the
+very existence of an international transaction cannot be a matter for
+inference or surmise."
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 55
+of 71 At para 76 of its order, the Hon'ble High Court has held as under :-
+"76. As explained by the Supreme Court in CIT v. B.C. Srinivasa Setty [1981]
+128 ITR 294 (SC) and PNB Finance Ltd. v. CIT (2008) 307 ITR 75 (SC) in the
+absence of any machinery provision, bringing an imagined international
+transaction to tax is fraught with the danger of invalidation. In the present
+case, in the absence of there being an international transaction involving AMP
+spend with an ascertainable price, neither the substantive nor the machinery
+provision of Chapter X are applicable to the transfer pricing adjustment
+exercise." 11.4.3 In our considered view, the requirement of there being an
+international transaction has not been satisfied in the case on hand. In fact,
+it is not the case of the TPO that there exists an arrangement between the
+assessee and 'HGH' to promote the brand by incurring AMP expenses. The case of
+the TPO is that the AMP expenditure incurred by the assessee has resulted in a
+benefit to the legal owner of the brand and the logo, i.e. M/s. Himalaya
+Global Holdings, Cayman Islands. The contentions of the TPO that the foreign
+AE has benefitted on account of the AMP expenditure incurred and therefore the
+AMP expenditure cannot be said to have been incurred by the assessee for its
+own business, etc. have been rejected by the Hon'ble Delhi High Court. In the
+case of Sony Ericsson Mobile Communications India (P.) Ltd. (supra), the
+Hon'ble Delhi High Court at para 121 of its order observed that there is
+nothing in the Act on Rules to hold that it is obligatory that AMP expenses
+must be necessarily be subjected to the 'Bright Line Test' as this would
+amount to adding words in the statute and Rules and introducing a new concept
+which has not been recognized and accepted as per the general principles of
+international taxation accepted and applied universally. In the case of Maruti
+Suzuki India Ltd. (supra), the Hon'ble Delhi High Court at paras 84 to 86
+thereof have held as under :--
+
+"84. The Court next deals with the submission of the Revenue that the benefit
+to SMC as a result of the MSIL selling its products with the co-brand 'Maruti-
+Suzuki' is not merely incidental. The decision in Sony Ericsson acknowledges
+that an expenditure cannot be disallowed wholly or partly because its
+incidentally benefits the third party. This was in context on Section 57(1) of
+the Act. Reference was made to the decision in Sassoon J David IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 56 of 71 &
+Co (P.) Ltd. v. CIT [1979] 118 ITR 261 (SC). The Supreme Court in the said
+decision emphasised that the expression 'wholly and exclusively' used in
+Section 10 (2) (xv) of the Act did not mean 'necessarily'. It said: "The fact
+that somebody other than the Assessee is also benefitted by the expenditure
+should not come in the way of an expenditure being allowed by way of a
+deduction under Section 10 (2) (xv) of the Act if it satisfies otherwise the
+tests laid down by the law."
+
+85\. The OECD Transfer Pricing Guidelines, para 7.13 emphasises that there
+should not be any automatic inference about an AE receiving an entity group
+service only because it gets an incidental benefit for being part of a larger
+concern and not to any specific activity performed. Even paras 133 and 134 of
+the Sony Ericsson judgment makes it clear that AMP adjustment cannot be made
+in respect of a full-risk manufacturer.
+
+MSIL's higher operating margins
+
+86\. In Sony Ericsson it was held that if an Indian entity has satisfied the
+TNMM i.e. the operating margins of the Indian enterprise are much higher than
+the operating margins of the comparable companies, no further separate
+adjustment for AMP expenditure was warranted. This is also in consonance with
+Rule 10B which mandates only arriving at the net profit by comparing the
+profit and loss account of the tested party with the comparable. As far as
+MSIL is concerned, its operating profit margin is 11.19% which is higher than
+that of the comparable companies whose profit margin is 4.04%. Therefore,
+applying the TNMM method it must be stated that there is no question of TP
+adjustment on account of AMP expenditure.' 11.4.4 In the case on hand, the net
+margin from exports to AEs at 15.80% is more than the net margin earned by the
+assessee in respect of personal care product division in the domestic argument
+at 11.30%. In the factual matrix of the case, as discussed above, the ALP of
+the assessee's international transactions with its AEs were at Arm's Length
+and therefore no separate adjustment for AMP expenditure is called for. We,
+consequently hold that the Transfer Pricing Adjustment of Rs. 31,69,02,034
+made by the TPO in respect of AMP expenditure is to be deleted. Ground No. XI
+is accordingly allowed."
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 57
+of 71
+
+34\. We notice that the co-ordinate bench has, following various decisions,
+held that the revenue has to first show that the AMP expenses would fall under
+the category of "international transactions". For that purpose, the revenue
+has to show that there existed an agreement between the assessee and its AE in
+the matter of incurring of AMP expenses. Admittedly, it is not shown in the
+instant case that there existed any agreement relating to incurring of AMP
+expenses. Thus, we notice that there is no change in facts relating to this
+issue between the current year and the AY 2010-11/2011-12. It was also held
+that when TNMM method is applied to benchmark the entire international
+transactions, then there is no requirement of making separate TP adjustment on
+account of AMP expenditure. In the earlier paragraphs, we have also held that
+TNMM as most appropriate method and has also held that the international
+transaction of Exports to AEs is at arms length. Hence, no separate adjustment
+is required to be made in respect of AMP expenses on this account also.
+
+35\. We notice that, in this case, there is one more reason to state that the
+T.P adjustment for AMP expenses is not required. We noticed earlier that the
+"legal owner" of the "brand and logo" is neither the assessee nor the AEs to
+which the exports were made. The legal ownership rests with M/s Himalaya
+Global Holding Ltd, which is one of the partners of the assessee firm. While
+hearing the appeal of the assessee for AY 2011-12 by the co-ordinate bench,
+the Tribunal took IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 58 of 71 note of an affidavit dated 27.08.2012 filed by Mr.
+Meeraj Alim Manal with regard to the ownership of the brand name. At the cost
+of repetition, we extract below the observations made by the co-ordinate bench
+in AY 2011-12 on the said affidavit:-
+
+"11.2.2 Reliance was placed by the learned Authorised Representative on the
+Affidavit of Sri Meeraj Alim Manal dt.27.8.2012 (pages 452 to 454 of Paper
+Book 2), the major shareholder of M/s. Himalaya Global Holdings Ltd., Cayman
+Islands ('HGH'), to contend that it is the assessee firm which has developed
+all its assets including the trademarks of the products in India and the
+assessee is exclusively and beneficially entitled to explore and use the same
+in India. It was submitted that as per the above Affidavit, the legal
+ownership of the brand with 'HGH' was necessitated by the fact that the
+assessee, being a firm was not recognized as a legal entity outside India and
+therefore 'HGH', being a partner and a legal entity was recognized as the
+owner of the brand."
+
+The submissions of the assessee would show that though M/s Himalaya Global
+Holdings Ltd (HGH) is the legal owner, yet it was admitted that the assessee
+firm only has developed all its assets including trademarks. Hence the brand
+name has actually been developed by the assessee. It is also stated that the
+assessee is exclusively and beneficially entitled to explore and use the same
+in India. Hence, it is admitted that the legal ownership was transferred to
+HGH due to business necessity/compulsion. Hence the transfer of legal
+ownership is an internal arrangement between related IT(TP)A No.2248/Bang/2016
+M/.s. The Himalaya Drug Company, Bengaluru  Page 59 of 71 parties, which was
+made on account of business necessities. However, it is made to clear that the
+right to exploit the brand name, logo, trademarks etc., continue with the
+assessee only. Hence, the assessee is also beneficiary of AMP expenses or the
+promotion of brand. In this view of the matter also, the question of making
+T.P adjustment in respect of AMP expenses on account of "brand promotion" does
+not arise. Hence, on this reasoning also, the impugned TP adjustment on AMP
+expenses is liable to be quashed.
+
+36\. Accordingly, following the decision rendered by the co- ordinate bench in
+the assessee's own case in AY 2011-12 (referred above) and also for the
+reasons discussed in the preceding paragraph, we direct the AO to delete the
+T.P adjustment made in respect of AMP expenditure."
+
+6.2 The facts and circumstances surrounding this issue is identical in this
+year also. Accordingly, following the decision rendered by the Tribunal in AY
+2013-14 and 2011-12, we direct the AO to delete the transfer pricing
+adjustment made in respect of Selling and Marketing expenses.
+
+7\. The last issue relates to the Transfer pricing adjustment made in respect
+of royalty. The TPO noticed that the assessee has got "Research and
+Development" unit. He took the view that the assessee has obtained product
+registration in foreign countries. Accordingly, the TPO took the view as
+under:-
+
+> "3.5 It needs to be appreciated that the product registration is owned by
+> the tax payer. The underlying intellectual property based on which the
+> registration was IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+> Bengaluru  Page 60 of 71 granted (clinical trial data, technical specifies
+> etc.) have been generated in R & D unit of the tax payer. It is amply clear
+> that the bundle of tangible and intangible assets in the product
+> registration belong to tax payer exclusively. These registrations are being
+> harnessed by AEs and surprisingly they do not remunerate the taxpayer for
+> it."
+
+Accordingly, the TPO took the view that the AEs should compensate the assessee
+by paying royalty. He estimated the royalty @ 2% of the net sales of AEs.
+Accordingly he made transfer pricing adjustment of Rs.5,77,74,434/- towards
+royalty.
+
+7.1 The Ld A.R submitted identical adjustment was made by TPO in AY 2013-14
+and it was deleted by the Tribunal.
+
+7.2 We heard Ld D.R and perused the record. We notice that an identical issue
+has been examined by the co-ordinate bench in AY 2013-14 (supra) and it was
+decided as under:-
+
+> "37. The next issue urged by the assessee relates to the Transfer Pricing
+> adjustment relating to "royalty". The facts relating thereto are discussed
+> in brief. The TPO noticed that the assessee is having a "Research &
+> Development" unit in India and accordingly developing all its products. He
+> also noticed that, if any company wants to market any of its food/medical
+> products in any country, then it has to obtain approval from local
+> authorities of that Country. The drug controller in any Country will need
+> valid test data and clinical reports on the efficacy and IT(TP)A
+> No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 61 of 71
+> genuineness of the drug in order to give approval for marketing the
+> products. The TPO noticed that it is the assessee, which has obtained
+> approval for its products in various Countries. However, it did not directly
+> market any of its products in those Countries directly, i.e., it has
+> exported the products to its AEs located in that Country, which in turn has
+> marketed the products.
+
+38\. The TPO called for sample application forms submitted to Drug control
+authorities of various Countries like Nigeria, Romania, Ghana, Latvia etc. He
+noticed that the assessee has furnished Clinical study report, technical
+specifications etc., and applied for registration. He also noticed that one of
+the conditions put by the concerned authorities is that they can visit to
+India in order to audit the manufacturing facilities of the assessee in India.
+The TPO noticed that the assessee possesses 597 products registrations in
+various Countries. The TPO took the view that the "Product
+registrations/license" is an intangible asset. The TPO noticed that the
+assessee did not market its products directly by using the "Product
+registration/license" obtained from various Countries. However, it has
+indirectly marketed the products through its AEs and has also allowed its AEs
+to use the Product registration/license. Accordingly, he took the view that
+the assessee should have collected royalty from its AEs. Accordingly, he took
+the view that the AEs have exploited the benefits of the product licences
+obtained by the assessee without paying royalty or usage charges to the
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 62
+of 71 assessee. Following observations made by the TPO are relevant here:-
+
+> "3.6 It is also observed that an AE which is resident in UAE is marketing
+> products in African Countries using taxpayer's product registration. Had tax
+> payer itself marketed the products in Africa, it would have gained the
+> entire profits. The AE based in UAE/Dubai is getting the profits because it
+> performs the critical functions-assets-risks. But the taxpayer is performing
+> the critical function of providing license to AE to trade in the African
+> Country; the taxpayer is owner of the critical tangible and intangible
+> assets underlying the license; and taxpayer is taking all the risk of
+> research and clinical trials. Hence, the taxpayer has a critical FAR role in
+> the business of UAE-based AE in African Countries."
+
+> Since the TPO took the view that the "Product registration/licenses"
+> constitute an intangible asset, he also took the view that the assessee
+> would have charged royalty from third parties for using such intangibles.
+
+39\. Accordingly, the TPO issued a show cause notice to the assessee asking it
+to show as to why ALP of royalty should not be determined on use of intangible
+assets, referred above. The assessee submitted that the selling price charged
+to its AEs is inclusive of everything. It was also submitted that nowhere in
+the world, a manufacturer would sell the goods for a price and also charge
+separate amount for royalty. The assessee also submitted that the IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 63 of 71
+TPO has made TP adjustments in respect of sale of goods to the AEs and hence
+no further adjustment is required on account of royalty.
+
+40\. The TPO, however, took the view that the royalty payable on usage of a
+license/product registration is an independent transaction, i.e., independent
+of export. Hence it is a separate intangible and the assessee would have
+charged royalty from non-related parties. Accordingly the TPO held that the
+ALP of the royalty should be determined. He noticed that the royalty rates
+reported by Association of University Technology Managers (AUTM) and the
+Licensing Executive Society (LES) range from 0.1% to 25%. The TPO noticed that
+the products manufactured by taxpayer are both pharma and beauty care
+products, whose product registrations vary in complexity. Accordingly, the TPO
+held that the ALP of royalty may be determined at 2% of the export value of
+products exported to the AEs of the assessee. Accordingly he proposed T.P
+adjustment, towards royalty on usage of product registration/licenses, of
+Rs.2,52,10,867/-. The Ld DRP also confirmed the same.
+
+41\. The Ld A.R submitted that the price charged by the assessee on exports
+would include all the costs incurred by it for sale of its products in foreign
+countries. He submitted that the view taken by the TPO is against trade
+practice, i.e., no manufacturer would charge separate amount as royalty over
+and above the selling price. He submitted that the product
+license/registration could be IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya
+Drug Company, Bengaluru  Page 64 of 71 obtained only by the manufacturer of
+the drugs, since the manufacturer alone would hold the details of clinical
+trials, technical details of products etc. He submitted that it is primary
+condition prescribed by any Country to obtain product registration/licences
+before marketing the drugs/beauty products and the same has to be obtained
+only by the manufacturer, before marketing the products in a Country. Hence it
+is only a matter of compliance with concerned Government regulations. He
+submitted that the decision as to direct marketing of products by itself or
+marketing the products through distributors appointed, is a commercial
+decision/business strategy of any business concern. The compliance of
+Government regulations actually help or enable the assessee to market its
+products in those Countries and hence the real beneficiary is the assessee
+only. He submitted that the AEs are marketing the products as mere traders and
+they are not concerned with the registration formalities. In fact, the dealers
+should have obtained necessary license to deal with pharma products at their
+individual level. Accordingly, the Ld A.R submitted that the view taken by the
+tax authorities in this regard is contrary to trade practice. He submitted
+that the TPO did not make similar kinds of adjustments in AY 2011-12 or
+earlier years. Accordingly, he contended that impugned TP adjustment should be
+deleted.
+
+42\. The Ld D.R, however, reiterated the views expressed by TPO. She submitted
+that the "principle of res-judicata" will not apply to income tax proceedings,
+as held by the IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company,
+Bengaluru  Page 65 of 71 co-ordinate bench in the case of Nike India (P) Ltd
+vs. DCIT (2013) (34 taxmann.com 282)(Bang.-Trib.). Hence the fact that no TP
+adjustment was made in AY 2011-12 and earlier years would not debar the AO/TPO
+to make adjustments in this year. She submitted that the product
+registration/license is a separate intangible asset, which has been used by
+the AEs without adequately compensating the assessee. The Ld DR submitted that
+the AEs could not have conducted the business in their respective countries
+without these licenses. The Ld DR submitted that, had the assessee has not
+obtained the product license, the AEs would have obtained it themselves. She
+submitted that the assessee would have collected royalty from third parties
+for use of these licenses. The Ld D.R further submitted that there is no
+requirement of existence of any agreement for payment of royalties for use of
+intangibles.
+
+43\. The Ld D.R placed her reliance on the decision rendered by Delhi bench of
+Tribunal in the case of Dabur India Ltd vs. ACIT (2017)(83 taxmann.com 305),
+which has since been affirmed by Hon'ble Delhi High Court in the same case
+reported in (2018)(89 taxmann.com 78)(Delhi). She submitted that, in the above
+cited case, the Tribunal and High Court has upheld the ALP adjustment made in
+respect of royalty payable by foreign AE of the assessee for using the brand
+name "Dabur" in its products, even though there was no agreement for charging
+royalty.
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 66
+of 71
+
+44\. The Ld A.R, in the rejoinder, submitted that the selling price charged to
+the AE subsumes all expenses including the alleged royalty. He submitted that
+the assessee has also exported to non-AEs and did not charge royalty
+separately. He further submitted that the AEs did not carry on any
+manufacturing activity and assessee has not given any license to the AEs. It
+has simply exported the finished goods for resale only.
+
+45\. He submitted that the decision rendered in the case of Dabur India Ltd
+(supra) is not applicable to the facts of the present case. He submitted that,
+in the case of Dabur India Ltd, the foreign AE was carrying on manufacturing
+activity and the assessee therein gave license to the said AE to use its brand
+name on the products manufactured by the foreign AE. It was also noted that
+the said products were manufactured earlier by another company (unrelated to
+the assessee), from whom the assessee had collected royalty for use of its
+brand name. The said company was acquired by the assessee and hence it became
+its AE. After becoming AE, it stopped collecting royalty contending that there
+is no agreement to pay royalty. Under the above set of facts, it was held that
+the TPO was justified in making T.P adjustment. He submitted that the assessee
+herein is simply exporting the finished goods to its AEs, which in turn, sell
+those products as mere traders. The AEs do not carry on any manufacturing
+activity and there was no necessity to give license to them. The product
+registration/license is only a basic formality to be complied IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 67 of 71
+with in order to market finished products and hence it cannot be said that the
+same has resulted in any intangible asset.
+
+46\. We heard rival contentions on this issue and perused the record. We
+noticed that the assessee has exported finished goods to its AEs located in
+various Countries and the AEs have only marketed the goods. Since the finished
+goods exported by the assessee are drugs and beauty care items, the assessee
+was required to comply with the requirement of local laws of the concerned
+Country with regard to marketing of the said products. There should not be any
+dispute that the technical details; the details of clinical trials etc., are
+available with the assessee only, since it has actually developed the
+products. Hence the assessee could submit those details to the concerned
+Government authorities for getting product registration/license. The TPO has
+expressed the view that the concerned AEs would have obtained the product
+registration/license, if the assessee had not obtained the same. However, it
+is the undisputed fact that, if at all the AEs wanted to obtain product
+registration/license, they have to get relevant details from the assessee
+only.
+
+47\. The assessee has submitted that such kind of approvals are required to
+market pharma products in any country. Hence these licenses enable the
+assessee to market its products. The AEs, in the capacity of distributors,
+should have also obtained separate license for trading in pharma IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 68 of 71
+products. There is also no dispute that the AEs have marketed products as re-
+sellers only. It is also submitted that it is not the commercial practice to
+charge any amount as royalty over and above the selling rate. In our view,
+this submission of the assessee is a reasonable one and also makes sense.
+
+48\. We have gone through the decision rendered in the case of Dabur India
+Ltd. The facts prevailing in the case of M/s Dabur India Ltd are discussed in
+brief. M/s Dabur India Ltd used to provide its expertise and also permit use
+of its name "Dabur" to a UAE based entity named M/s Redrock. There was an
+agreement between both the parties, as per which M/s Redrock has to pay
+royalty @ 1% to M/s Dabur India Ltd. Subsequently M/s Dabur India Ltd acquired
+100% shareholding in M/s Redrock. Consequently M/s Redrock was renamed as M/s
+Dabur International Ltd. It is pertinent to note that M/s Dabur International
+Ltd was manufacturing certain items with the support of M/s Dabur India Ltd
+and it was also manufacturing certain other items without such support.
+However, it used the brand name of "Dabur" for all its products, i.e, whether
+the products were produced with or without the support of M/s Dabur India Ltd.
+However, during the year under consideration, it did not pay the royalty of 1%
+on the products manufactured without the support of M/s Dabur India Ltd. The
+TPO determined ALP of royalty @ 1%, as the same rate was paid by erstwhile M/s
+Redrock. The action of the TPO was upheld by the Tribunal and the Hon'ble
+Delhi High Court.
+
+IT(TP)A No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 69
+of 71
+
+49\. We notice that the facts prevailing in the case of M/s Dabur India Ltd is
+totally different from the facts prevailing in the instant case. We have
+noticed that M/s Dabur International ltd was manufacturing certain goods
+without the support of M/s Dabur India Ltd, but used the Dabur brand name for
+those items also. Hence it was a clear case of exploitation of Brand name
+belonging to M/s Dabur India Ltd. Non-charging of Royalty was sought to be
+defended by submitting that there was no agreement for collecting royalty. The
+said contention was rejected by the Tribunal and High Court. On the contrary,
+in the instant case, the foreign AEs do not manufacture any product, i.e.,
+they only market the finished products exported by the assessee.
+
+50\. The product registration/licensing are requirement of statute, without
+which the said products could not be marketed in those countries. As noticed
+earlier, such kinds of product registration/license could be obtained by the
+manufacturer only, in normal circumstances. The traders should have obtained
+separate license for trading in the drugs/beauty items. Hence, it cannot be
+said that the traders have exploited the registration/license obtained by the
+suppliers under the various statutes. Further, the manufacturers and other
+suppliers of the products sell them at profit and the practice or presumption
+is that the supplier has determined the selling price by taking into account
+all relevant costs. The Ld A.R also submitted that the obtaining product
+registration/license is usually the responsibility of IT(TP)A
+No.2248/Bang/2016 M/.s. The Himalaya Drug Company, Bengaluru  Page 70 of 71
+the manufacturer and it is not the trade practice to levy separate charges as
+royalty over and above the selling price. He also submitted that the assessee
+has not collected any amount over and above the selling price from export made
+to non-AEs. We have noticed that the tax authorities have taken the view that
+the assessee would have collected royalty amount for finished goods exported
+to unrelated parties. However, the Ld A.R pointed out that the assessee has
+not collected any amount over and above the selling price either from domestic
+customers or from non-AEs. Hence, the basic premise of the TPO, which formed
+the basis for determining ALP of alleged royalty fails here. Accordingly, we
+are of the view that, in the facts and circumstances of the case, it cannot be
+taken that the AEs have exploited the product registration/license obtained by
+the assessee from various Governments. Hence the question of payment of
+royalty does not arise. Accordingly, we set aside the order passed by AO/TPO
+on this issue and direct the AO to delete this T.P adjustment."
+
+7.3 The facts and circumstances, being identical in this year also, we direct
+the AO to delete the T.P adjustment made by way of royalty.
+
+8\. In the result, the appeal filed by the assessee is partly allowed. Order
+pronounced in the open court on 2nd Nov, 2020 Sd/- Sd/-
+
+    
+    
+           (Beena Pillai)                             (B.R. Baskaran)
+         Judicial Member                            Accountant Member
+    
+    Bangalore,
+    Dated 2nd Nov, 2020.
+    VG/SPS
+                                             IT(TP)A No.2248/Bang/2016
+                            M/.s. The Himalaya Drug Company, Bengaluru
+    
+    
+                            Page 71 of 71
+    
+    Copy to:
+    
+    1.   The Applicant
+    2.   The Respondent
+    3.   The CIT
+    4.   The CIT(A)
+    5.   The DR, ITAT, Bangalore.
+    6.   Guard file
+                                            By order
+    
+    
+                                       Asst. Registrar,
+                                       ITAT, Bangalore.
+     
+

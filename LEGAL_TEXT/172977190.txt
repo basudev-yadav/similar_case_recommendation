@@ -1,0 +1,1380 @@
+
+
+Income Tax Appellate Tribunal - Pune
+
+Spicer India Ltd.,, Pune vs Assessee on 20 May, 2016
+
+    
+    
+               आयकर अपील�य अ�धकरण पुणे �यायपीठ "ए" पुणे म�
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                         PUNE BENCH "A", PUNE
+    
+     सु�ी सुषमा चावला, �या�यक सद�य एवं �ी �द�प कुमार के�डया, लेखा सद�य के सम�
+      BEFORE MS. SUSHMA CHOWLA, JM AND SHRI PRADIP KUMAR KEDIA, AM
+    
+                          आयकर अपील सं. / ITA No. 1375/PN/2014
+                           �नधा�रण वष� / Assessment Year : 2008-09
+    
+    The Asst. Commissioner of Income Tax,
+    Circle 10, Pune                                       ....      अपीलाथ�/Appellant
+    Vs.
+    Spicer India Ltd.,
+    29, Milestone,
+    Pune Nashik Road,
+    Kuruli, Tal - Khed,
+    Pune - 410501                                         ....     ��यथ� / Respondent
+
+PAN: AAECS1869C ��या�ेप सं./CO No.86/PN/2014 �नधा�रण वष� / Assessment Year :
+2008-09 Spicer India Ltd., 29, Milestone, Pune Nashik Road, Kuruli, Tal -
+Khed, Pune - 410501 ... ��या�ेपक/ Cross objector PAN: AA ECS1869C Vs.
+
+    
+    
+    
+    The Asst. Commissioner of Income Tax,
+    Circle 10, Pune                                       ....     ��यथ� / Respondent
+    
+    
+                 Assessee by          : Shri R.D. Onkar
+                 Department by        : Shri S.K. Rastogi, CIT
+    
+    
+    सुनवाई क� तार�ख /                      घोषणा क� तार�ख /
+    Date of Hearing : 04.05.2016           Date of Pronouncement: 20.05.2016
+                                                    2
+                                                                             ITA No.1375/PN/2014
+                                                                                CO No.86/PN/2014
+                                                                                   Spicer India Ltd.
+    
+    
+    
+    
+                                           आदे श   /   ORDER
+    
+    
+    PER SUSHMA CHOWLA, JM:
+    
+    
+           The     appeal     filed   by     the   Revenue       is   against     the    order    of
+    
+    
+
+CIT(A)-V, Pune, both dated 14.03.2014 relating to assessment year 2008-09
+against order passed under section 143(3) of the Income-tax Act, 1961 (in
+short 'the Act').
+
+The assessee has also filed its Cross Objections against the appeal filed by
+the Revenue.
+
+2\. The appeal filed by the Revenue and Cross Objections filed by the assessee
+were heard together and are being disposed of by this consolidated order for
+the sake of convenience.
+
+3\. The Revenue in ITA No.1 375/PN/2014 has raised the following grounds of
+appeal:-
+
+> 1\. Whether on the facts and in the circumstances of the case and in law,
+> the CIT(A) is justified in accepting the average profit margin @ 20% as
+> against the average margin of profit at 10.6% taken by the A.O. for
+> calculating the deduction u/s 10B of the Act?
+
+> 2\. Whether on the facts and in the circumstances of the case and in law,
+> the CIT(A) is justified in restricting the disallowance u/s 10B, by
+> considering the locational saving in respect of axle plant, without
+> appreciating the fact that the argument regarding locational advantage put
+> forth by the assessee company before the CIT(A) in the course of appellate
+> proceedings and was not placed before the AO during assessment proceedings?
+
+4\. The assessee in CO No.86/PN/2014 has raised the following grounds of
+objections:-
+
+> On the facts and circumstances of the case and in law
+
+> 1\. The learned CIT (A) erred in curtailing the deduction claimed by the
+> cross objector under Section 10B of Income Tax Act 1961 in respect of profit
+> derived from manufacture and exports of light axle components on selective
+> basis by taking for comparison an adhoc benchmark profit mark up of 20% and
+> in doing so confirming the resort of the AO to the provisions of section 10B
+> (7) read with 80lA (l0) and thereby disallowing the deduction of profit
+> claimed to the extent of Rs.4,12,00,000/- allegedly as being profit in
+> excess of expected ordinary profits.
+
+3
+
+> ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+> 2\. The learned CIT (A) in confirming the aforesaid disallowance failed to
+> appreciate that substitution of third party costs to rework profit mark up
+> in the case of light axle components manufactured and sold by the cross
+> objector in its 10B undertaking led to absurd results due to artificial
+> inflation of cost base of the cross objector especially when the export
+> sales price was fixed and unchanged. The learned CIT (A) failed to
+> appreciate that the transactions with Associated Enterprise (AE) of the
+> cross objector viz. export sales from the 10B undertaking had been accepted
+> to be at Arm's length Price (ALP) by the Transfer Pricing Officer (TPO) and
+> therefore the AO was bound by the order of the TPO as mandated by the
+> provisions of Section 92CA(4).
+
+> 3\. The learned CIT(A) further erred in reducing the deduction claimed by
+> the cross objector under section 10B on selective basis in case of exports
+> of light axle components only when the mark up earned by the cross objector
+> in case of manufacture and exports of propeller shaft components exported
+> from the 10B undertakings was accepted by the TPO/AO after duly considering
+> the effect of locatinal savings in the indicative profit mark up given by
+> the outside Transfer Pricing Sonsultant.
+
+5\. The issue raised in the appeal filed by the Revenue and Cross Objections
+filed by the assessee is in respect of claim of deduction under section 10B of
+the Act.
+
+6\. The learned Authorized Representative for the assessee pointed out that
+the Revenue is in appeal against the order of CIT(A) in allowing the said
+relief partially and the assessee has filed the Cross Objections vis-à-vis
+claim of deduction under section 10B of the Act not being allowed by the
+CIT(A) in respect of profits derived from exports of light axle components
+made to associate enterprises. It was further pointed out by him that the
+issue raised in present appeal of the Revenue and Cross Objections is squarely
+covered by the order of Tribunal in assessee's own case relating to assessment
+years 2006-07 and 2007-08. He further pointed out that the assessee had
+claimed deduction under section 10B of the Act against manufacture and export
+of propeller Shafts and light axle components. The Transfer Pricing Officer
+(TPO) had accepted the cost plus margins method and has also accepted the
+exports to associate enterprises at arm's length price. However, the deduction
+claimed under section 10B of the Act was curtailed by invoking the provisions
+of section 10B(7) r.w.s. 80IA(10) of the Act for higher mark up of 28.13% in
+the case of profits shown at Chakan plant, Pune for export of light axle
+components vis-à-vis the  4 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India
+Ltd.
+
+average profit mark up of 10.6% of external overseas comparables. The
+deduction under section 10B of the Act was disallowed only in respect of
+profits from export of light axle components.
+
+7\. The learned Departmental Representative for the Revenue on the other hand,
+placed reliance on the orders of Assessing Officer and CIT(A).
+
+8\. Briefly, in the facts of the case, the assessee was engaged in the
+business of manufacture of drive train components, namely shafts, universal
+joints, axles and components thereof, which constitute heart of the
+transmission system. The assessee was set up as a joint venture company by
+Anand Group of companies and Dana Corporation, USA. The assessee had set up
+the unit to manufacture assembly/components of propeller shafts at Jodalli,
+Karnataka, assembly / components of propeller shafts at Hosur in Karnataka and
+assembly / components of propeller shafts and fully assembled propeller shafts
+at Satara in Maharashtra.
+
+Further, it manufactures axles and assembly of axles at Chakan, Pune. The
+export of assessee company was to Dana group, in addition to local sales of
+fully assembled propeller shafts and axles to OEMs in India. For the year
+under consideration, the assessee had furnished the return of income declaring
+nil income. The total turnover of the assessee was Rs.628 crores, on which
+book profits of Rs.59 crores was shown. Out of total turnover of Rs.628
+crores, export turnover was Rs.206 crores, out of which the export from 10B
+units was Rs.184 crores and the balance exports from domestic units, which
+were non 10B units. The assessee had declared book profits of 10B units at
+Rs.35 crores. The Assessing Officer made a reference under section 92CA(1) of
+the Act to the TPO for computation of arm's length price in relation to
+international transaction undertaken by the assessee. The TPO vide its order
+passed under section 92CA(3) of the Act, dated 13.10.2011 accepted the  5 ITA
+No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+international transaction of the assessee to be at arm's length price and
+proposed no adjustment to the value of international transaction entered into
+by the assessee.
+
+The Assessing Officer while computing the income in the hands of assessee,
+referred to the provisions of section 10B(7) of the Act and show caused the
+assessee to explain as to why it had shown disproportionately higher profit
+margins on 10B units as compared with domestic sales and comparables in TP
+benchmarking report and had further claimed higher deduction from its profits.
+The reply of the assessee is incorporated at pages 10 to 12 of the assessment
+order. The Assessing Officer accepted the first plea of the assessee that the
+profit margins on domestic sales could not be compared with margins of export
+sales since the domestic sales were to OEMs and were of fully assembled
+propelled shafts and fully assembled axles, unlike export to Dana Corporation,
+which was only components propeller shafts and axles.
+
+The next contention of the assessee that there was no close connection between
+the assessee and Dana Corporation was rejected and also the contention of
+assessee was that where the TPO had accepted the transaction with it associate
+enterprises in all the years and no adjustment had been made, then no
+disallowance could be made under section 10B of the Act, was not accepted by
+the Assessing Officer.
+
+Accepting the plea of the assessee that cost plus mark-up basis should be
+applied for comparison, the other plea of the assessee that it had similar
+profit margins as other concerns in market was not accepted as the assessee
+had not compared and shown the profit margins / cost plus mark-up on export
+sales to associate enterprises.
+
+Another argument raised by the assessee before the Assessing Officer was that
+the profit margins of exports had remained in the same range both before 10B
+units were set up and after it. The Assessing Officer observed that the
+assessee had incurred losses in the earlier years and deduction under section
+10B of the Act was claimed only after the set up of said unit and the said
+unit was showing profitability. The Assessing Officer further compared the
+profit margins of assessee with the set of  6 ITA No.1375/PN/2014 CO
+No.86/PN/2014 Spicer India Ltd.
+
+comparable results and pointed out that the profit margins of assessee in case
+of light axle components export by it were high. The Assessing Officer was of
+the view that mark-up of 10.6% in case of Axle was an indicator of normal
+profit. However, the assessee had declared a mark-up of 28.13% and the
+Assessing Officer held that the selling price between closely related
+enterprises was structured to give rise to very high profit to the assessee in
+case of exports of axle components, since the profit of 10B unit was tax
+deductible. The assessee admittedly, was not paying royalty on exports and
+warranty liability borne by Dana Corporation in respect of exports, the
+Assessing Officer re-computed the deduction under section 10B of the Act and
+disallowed sum of Rs.9.30 crores.
+
+9\. The CIT(A) upheld the order of Assessing Officer. However, accepted the
+plea of assessee for the proposition that there was locational advantage in
+case of both manufacturing of axle components and propelled shaft components.
+Where the assessee had accepted the locational advantage in the case of
+propelled shafts, the CIT(A) held that it could not be said that there was no
+locational advantage in the case of axles. Accordingly, the CIT(A) was of the
+view that 20% profit margins would take care of locational advantage as well
+as other issues like warranty claims, etc and accordingly, excess deduction
+under section 10B of the Act was worked out and the addition was scaled down
+to Rs.4.12 cores.
+
+10\. The Revenue is in appeal against the order of CIT(A) and the assessee has
+filed Cross Objections against the same.
+
+11\. The issue arising in the present appeal is the claim of deduction under
+section 10B of the Act in respect of profits of EOU units, wherein the
+assessee had made exports to its associate enterprises and had declared
+margins of 28.13% in its unit of  7 ITA No.1375/PN/2014 CO No.86/PN/2014
+Spicer India Ltd.
+
+manufacture and export of axle components established at Chakan, Pune. The
+Assessing Officer had compared the margins of assessee by adopting cost plus
+method with the margins of comparable external cases as per E and Y transfer
+pricing reports submitted by the assessee at 10.6% being the indicator of
+normal profit. The assessee had claimed deduction under section 10B of the Act
+in respect of unit of axle components at Rs.14.92 crores and the same was
+curtailed by the authorities below. On the other hand, 10B deduction claimed
+by the assessee in respect of manufacture and export of propelled shafts
+components at Jodalli and Hosur, Karnataka at Rs.19.37 crores was accepted by
+the authorities below. The case of the authorities below was that the assessee
+had shown more than ordinary profits in its unit at Chakan, Pune in order to
+claim higher deduction under section 10B of the Act, which was to be curtailed
+based on the provisions of section 10B(7) r.w.s. 80IA(10) of the Act . The
+issue which arises before us is that can 10B deduction claimed by the assessee
+under the Act be curtailed by invoking the provisions of section 10B(7) r.w.s.
+80IA(10) of the Act on the premise that the assessee had earned higher profits
+than normal on exports made to its associate enterprises. At this juncture, it
+may be pointed out that against the reference made by the Assessing Officer
+under section 92CA(1) of the Act, the TPO vide order passed under section
+92CA(3) of the Act had held that the arm's length price of international
+transaction between the assessee and its associate enterprises was nil.
+
+In other words, the international transaction undertaken by the assessee by
+way of exports from its EOU unit was accepted by the TPO and no adjustment was
+made on the aforesaid international transaction. However, the Assessing
+Officer while computing the income in the hands of assessee was of the view
+that on similar profits earned by the assessee in respect of its EOU unit,
+where exports were made by it to its associate enterprises, the assessee had
+earned higher profits than normal on such exports.
+
+8
+
+ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+12\. The Pune Bench of Tribunal in M/s. Honeywell Automation India Ltd. Vs.
+DCIT in ITA No.18/PN/2011, relating to assessment year 2006 -07, order dated
+25.02.2015 while deciding the issue of claim of deduction under section 10A of
+the Act vis -à-vis provisions of section 10A(7) r.w.s. 80IA(10) of the Act had
+deliberated upon the issue at length and had held that the provisions of
+section 10A(7) of the Act were attracted where closely connected parties were
+taxable in India. The Tribunal vide order dated 25.02.2015 (supra) further
+held as under:-
+
+> "22. Before we proceed further, it would be appropriate to examine the scope
+> and intent of the provisions of section 10A(7) r.w.s. 80-IA(10) of the Act.
+> In this context, a reference has been made to the CBDT Circular No.308 dated
+> 29.06.2008 wherein the reasons for introduction of sub-section (7) to
+> section 10A of the Act has been explained. In-particular, reference has been
+> made to the following contents of the Circular :-
+
+> "The provisions of sub-section (8) and sub-section (9) of section 80-I will
+> also apply in relation to the industrial undertaking referred to in the new
+> section 10A as they apply in relation to an industrial undertaking referred
+> to under section 80-I. Under the applied sub-section (8) of section 80-I, it
+> is provided that where an Assessee has several units, some in the free trade
+> zone and some outside, the profits of the unit in the free trade zone will
+> be computed after taking the cost of the goods transferred to or from the
+> unit on the basis of the market value of such goods. The applied sub-section
+> (9) of section 80-I empowers the Income-tax Officer to determine the
+> reasonable profits that could be attributed to the qualifying undertaking in
+> the free trade zone in cases where, owing to the close connection between
+> the Assessee and any other persons or for any other reason, the course of
+> the business is so arranged that the industrial undertaking set up in the
+> free trade zone derives more than ordinary profits which may be expected to
+> arise in that business. This provision has been made with a view to avoiding
+> abuse of the new tax concessions by manipulation of profits between
+> associate concerns or different units of the same concern."
+
+> [underlined for emphasis by us]
+
+> 23\. Quite clearly, the provisions of section 10A(7) of the Act intend to
+> plug abuse of tax concession by manipulation of profits between associated
+> concerns or between different units of the same concern. The objective of
+> the aforesaid Provision is that the tax concessions are not abused by
+> manipulation of profits. In our considered opinion, the aforesaid
+> explanation in the CBDT Circular (supra) signifies the legislative intent
+> and it is also manifested in the language of section 10A(7) r.w.s. 80 -
+> IA(10) of the Act. We say so for the reason that the phraseology of section
+> 80-IA(10) of the Act itself suggests that the profits and gains of an
+> eligible business cannot be tinkered with by the Assessing Officer merely
+> because they are more than the ordinary profits or that they are quite high.
+> The existence of substantial or more than ordinary profits by itself does
+> not sufficiently empower the Assessing Officer to disregard them and
+> determine the profits which he may consider to be reasonably deemed to have
+> been derived therefrom. The presence of the expression "the course of
+> business ............ is so arranged ............. that the business
+> transacted ............... produces to the assessee more than ordinary
+> profits" is significant and its understanding has to be prefaced by the
+> legislative objective of plugging abuse of the tax concessions granted u/s
+> 10A of the Act by manipulation of profits between  9 ITA No.1375/PN/2014 CO
+> No.86/PN/2014 Spicer India Ltd.
+
+> associated parties. In other words, the import of the expression "so
+> arranged" has to be read in conjunction with the legislative intent that
+> there should not be any abuse of tax concession by manipulation of profits.
+> Therefore, section 10A(7) r.w.s. 80 -IA(10) of the Act can be invoked only
+> where it is shown that the course of business is so arranged which reflects
+> an abuse of tax concession whereby the business transacted between two
+> entities is so arranged, which produces to the assessee more than the
+> ordinary profits which might be expected to arise in such eligible business.
+> The emphasis is to eschew those 'more than the ordinary profits' which are
+> as a result of a business between two closely connected concerns having been
+> arranged with the intent of abuse of the tax concession. Ostensibly, in the
+> present case, the Revenue would have to justify that the course of business
+> between assessee and the associated enterprises has been 'so arranged' which
+> produces to the assessee more than the ordinary profits which might be
+> expected to arise in such eligible business with the intention of abusing
+> the tax concession granted in section 10A of the Act. The mere existence of
+> (i) a close connection between the assessee and the other person; and, (ii)
+> more than ordinary profits is not sufficient to justify invoking of section
+> 80-IA(10) of the Act in the absence of there being any material to say that
+> the course of business between them is "so arranged" to abuse the tax
+> concessions granted u/s 10A of the Act by manipulating profits between
+> associated persons. Ostensibly, the same is required to be demonstrated on
+> the basis of a cogent material and evidence. In other words, the presence of
+> the expression "so arranged" has to be understood in the context of the
+> abuse of tax concession which is sought to be plugged by the provisions of
+> section 10A(7) r.w.s. 80 -IA(10) of the Act."
+
+13\. The other aspect noted by the Tribunal was the arrangement between the
+parties for earning more than ordinary profits wherein onus was upon the
+Department to prove that an arrangement existed. The findings of the Tribunal
+are as under :-
+
+> "30. Now, the case of the Assessing Officer is that the profits derived by
+> the assessee from the eligible business are more than the ordinary profits
+> and therefore he is empowered to arrive at what could be a reasonable profit
+> from such eligible business and such profit be taken as reasonably deemed to
+> have been derived from the eligible business for the purposes of computing
+> the deduction u/s 10A of the Act. We find that in the entire assessment
+> order, there is no material or any evidence which has been brought out to
+> say that the course of business between assessee and the associated
+> enterprises has been so arranged that the business transacted has produced
+> to the assessee more than the ordinary profits.
+
+> 31\. No doubt, there is a close connection between assessee and the
+> associated enterprises and to that extent section 10A(7) r.w.s. 80 -IA(10)
+> of the Act has been rightly examined by the income-tax authorities. The
+> second aspect that the course of business was so arranged so as to result in
+> more than ordinary profits is not at all forthcoming from the order of the
+> Assessing Officer. There is no material or evidence referred to in the
+> assessment order to indicate that the course of business has been so
+> arranged so as to inflate profits with the intent to abuse tax concession
+> u/s 10A of the Act. At this point, we may make a reference to the stand of
+> the Assessing Officer that the operating profit margins of the assessee are
+> substantially higher than the average operating margin of the comparables
+> selected by the assessee in its Transfer Pricing Study. This has formed the
+> basis for the Assessing Officer to say that assessee has earned more than
+> ordinary profits which might be expected to arise in such a business. Be
+> that as it may, the aforesaid is not enough to say that the course of
+> business has been so arranged to result in more than ordinary profits.
+> However, from the side of the Revenue, it was pointed out that the Transfer
+> Pricing comparability analysis itself suggests that the profit margins of
+> the assessee are more than the ordinarily accepted margin in this line of
+> business. The moot question is as to whether the same can be considered as a
+> material to indicate that the course of  10 ITA No.1375/PN/2014 CO
+> No.86/PN/2014 Spicer India Ltd.
+
+business between the assessee and the associated enterprises has been so
+arranged, so as to result in 'more than the ordinary profits' within the
+meaning of section 10A(7) r.w.s. 80 -IA(10) of the Act. In this context, we
+may refer to the decision of the Chennai Bench of the Tribunal in the case of
+Visual Graphics Computing Services India (P) Ltd. vs. ACIT, 148 TTJ 621
+(Chennai), wherein following discussion is relevant :-
+
+> "We heard both sides in detail and considered the issue. As far as the
+> present case is concerned, the Transfer Pricing Officer has made a
+> categorical finding that the operating profit reported by the assessee is
+> higher than the profit worked out on the basis of arm's length price. The
+> Transfer Pricing Officer, therefore, concluded that no transfer pricing
+> adjustment is called for in the present case. The Assessing Officer has made
+> the reference to the Transfer Pricing Officer under section 92CA. The
+> reference is made for the purpose of computing income arising from an
+> international transaction with regard to the arm's length price as provided
+> in section 92. Therefore, it is to be seen that the scope and extent of
+> reference made by the Assessing Officer to the Transfer Pricing Officer is
+> confined to the singular purpose stated in section
+
+> 92\. Sections 92A, 92B, 92C, 92CB, 92D, 92E and section 92F are all
+> precisely defining and facilitating provisions ultimately for the purpose of
+> computing the income as stated in section 92. All the above stated sections
+> provided in Chapter X of the Income-tax Act, 1961 belong to a separate code
+> as such, enacted for the purpose of computing income from international
+> transactions having regard to the arm's length price so as to confirm that
+> there is no avoidance of tax by an assessee. Therefore, where in a case, the
+> Transfer Pricing Officer suggests that the operating profit declared by an
+> assessee is compatible to the arm's length price norms and no adjustment is
+> necessary, the operation of all those provisions come to an end. If the,
+> Assessing Officer has to make any other adjustment towards computing
+> deduction available under section 10A, the computation has to be made in the
+> context of section 10A(7) read with section 80-IA(10).
+
+> It is clear that in a case of transfer pricing assessment, it has got two
+> segments. The first segment consists of rules and procedures for computing
+> the income other than the income arising out of international transactions
+> with associate enterprise. The second segment consists of rules and
+> procedures in connection with computation of income from international
+> transactions with associate enterprises on the basis of the arm's length
+> price. The second segment relating to computation of the arm's length price,
+> is a set of rules for the purposes of transfer pricing matters and those
+> procedures and rules can be used only for the purpose serving the object of
+> section 92. When the Transfer Pricing Officer states that there is no need
+> of transfer pricing adjustment, the matter should end there and any other
+> adjustment that the Assessing Officer would like to make with reference to
+> the first segment must be made independent of the order of the Transfer
+> Pricing Office under section 92CA.
+
+> To state in simple terms, the transfer pricing regime is different from
+> regular computation of income. Section 10A belongs to that part of regular
+> computation of income and it should be computed independent of transfer
+> pricing regulations and transfer pricing orders. It is not therefore,
+> permissible for the Assessing Officer to work out section 10A deduction on
+> the basis of arm's length price profit generated out of the order of the
+> Transfer Pricing Officer.
+
+> In fact these issues have already been considered in various orders of the
+> Tribunal. The Income-tax Appellate Tribunal, Chennai "A" Bench in the case
+> of Tweezerman (India) P. Ltd. v. Addl. CIT [2010] 4 ITR (Tri b) 130
+> (Chennai) (133 TTJ 308) has considered the matter in detail and held that
+> the reduction of eligible profits of an assessee as done by the Assessing
+> Officer by invoking the provisions of section 80-IA(10) read with section
+> 10B(7), in the context of  11 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer
+> India Ltd.
+
+> the Transfer Pricing Officer's order is unsustainable. The Tribunal has held
+> that the Assessing Officer was not justified to invoke the provisions of
+> section 80-IA(10) read with section 10B(7) so as to reduce the eligible
+> profits on the basis of the arm's length price computed by the Transfer
+> Pricing Officer without showing how he determined that the assessee had
+> shown more than "ordinary profits".
+
+> As rightly argued by learned senior counsel the arm's length price is
+> determined on the basis of the most appropriate method. The most appropriate
+> method is chosen either on profit basis method or price basis method. In the
+> latter ease, profits are not at all considered. In that method, profit is
+> only a derivative of prices. When profits itself is not worked out, how is
+> it justified to adopt the arm's length price profits to determine what is
+> "ordinary profits" for the purpose of section 10A(7)?
+
+> In the facts and circumstances of the case, we hold that the Assessing
+> Officer has erred in reducing Rs.4,48,50,795 from the eligible profits of
+> the assessee under section 10A. The said adjustment made by the assessing
+> authority in computing the deduction under section 10A is accordingly,
+> deleted."
+
+> 32\. In our considered opinion, the result of the Transfer Pricing
+> assessment can at best be taken as an indicator for the Assessing Officer to
+> investigate as to whether or not there exists any arrangement which has
+> resulted in more than ordinary profits qua the requirements of section
+> 10A(7) r.w.s. 80 -IA(10) of the Act. Even if it is accepted that the
+> difference between the operating margins of the assessee and the comparables
+> show existence of more than the ordinary profits in the hands of the
+> assessee, so however, it was still imperative for the Assessing Officer to
+> establish on the basis of substantive evidence and corroborative material
+> that qua section 10A r.w.s. 80 -IA(10) of the Act, the course of business
+> between the assessee and the associated enterprises is so arranged that the
+> business transacted between them produces to the assessee more than the
+> ordinary profits with the intent of abusing tax concession. Quite clearly,
+> in the entire assessment order, there is no whisper of any material or
+> evidence in this regard. In-fact, the approach of the Assessing Officer is
+> quite misdirected as the following discussion in his order shows :-
+
+> "Accordingly, the section only encumbers the A.O. to examine if the profits
+> derived from the eligible business by the assessee is more than the ordinary
+> profits, then the A.O. has to arrive as to what could be the reasonable
+> profit from the such eligible business and such profit has to be then taken
+> as reasonably deemed to have been derived from the eligible business for the
+> purposes of computing deduction under the section."
+
+> 33\. The aforesaid discussion in the assessment order reveals that as per
+> the Assessing Officer, the existence of close connection and more than
+> ordinary profits is enough to assume an arrangement as contemplated u/s
+> 80-IA(10) of the Act. The aforesaid understanding, in our view, is directly
+> contrary to the judgement of the Hon'ble Karnataka High Court in the case of
+> H.P. Global Soft Ltd. (supra) and our discussion in the earlier part of this
+> order.
+
+> 34\. In view of the aforesaid, we conclude by holding that in the present
+> case, the Assessing Officer has not proved that any arrangement had been
+> arrived between the parties which resulted in higher profits. Consequently,
+> the re-working of the profits by Assessing Officer by invoking section 10A
+> r.w.s. 80 -IA(10) of the Act is not justified. The action of the Assessing
+> Officer to restrict the deduction u/s 10A of the Act to Rs.7,74,60,281/- as
+> against the claim of Rs.36,35,09,382/- is hereby set-aside. Thus, assessee
+> succeeds on this aspect."
+
+14\. The said proposition laid down by the Pune Bench of Tribunal in M/s.
+
+Honeywell Automation India Ltd. Vs. DCIT (supra) was applied by Pune Bench of
+12 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+Tribunal in assessee's own case while deciding the issue of grant of deduction
+under section 10B of the Act, wherein the Commissioner while exercising the
+powers under section 263 of the Act had held that where the assessee had shown
+more than ordinary profits in respect of export of its EOU unit were to be
+curtailed in view of the provisions of section 10B(7) r.w.s. 80IA(10) of the
+Act. The asses see filed an appeal against the order of Commissioner under
+section 263 of the Act and the Tribunal in ITA No.1 112/PN/2012 in assessee's
+own case relating to assessment year 2006-07 vide order dated 08.07.2015 noted
+the factual aspects of the case and applied the ratio laid down by the
+Tribunal in the case of M/s. Honeywell Automation India Ltd.
+
+Vs. DCIT (supra) and held that the provisions of section 10B of the Act are
+parametria to the provisions of section 10A of the Act, the propositions
+proposed by the Commissioner were mis-placed in holding that the provisions of
+section 10B(7) of the Act are applicable and 10B deduction claimed could be
+curtailed. The relevant findings of the Tribunal read as under:-
+
+> "15. We have heard the rival contentions and perused the record. The issue
+> arising in the present appeal filed by the assessee is against the invoking
+> of jurisdiction by the Commissioner under section 263 of the Act in holding
+> that the assessment order passed by the Assessing Officer was without any
+> enquiry and also there was non-application of mind by the Assessing Officer
+> on the issue of grant of deduction under section 10B of the Act. After
+> considering the facts and the issue elaborately the Commissioner directed
+> the Assessing Officer to apply the provisions of section 10B(7)
+> r.w.s.80IA(8) r.w.s. 80IA(10) of the Act with respect to the profit margins
+> shown by the assessee in the Transfer Pricing Study Report and consequently
+> the deduction under section 10B of the Act was to be restricted, if
+> required.
+
+> 16\. The assessee was a 100% Export Oriented Unit engaged in the export of
+> propeller shaft components and light axles components to its AEs and against
+> the profits from the said unit the assessee had claimed the deduction under
+> section 10B of the Act. The assessee was also engaged in the business of
+> manufacture and sale of propeller shafts and light axles for light
+> commercial and sports utility vehicles in the automotive industries. The
+> assessee was exporting the propeller shaft components and light axle
+> components to its AEs i.e. Dana Corporation USA and its
+> subsidiaries/affiliates. On the other hand the assessee was manufacturing
+> and selling fully assembled propeller shafts and light axles in the domestic
+> market. The assessee had commenced export in the assessment year 2001-02,
+> though the assessee was engaged in the activity of manufacture and sale of
+> its product for past many years. During the year under consideration, the
+> assessee had earned mark-up of 38% in propeller shaft components exports and
+> 34% in case of light axle components earned by EOUs as against the average
+> profit mark-up range of 8.4% to 10.77% in case of propeller shaft and 4.2%
+> to 7.4% in case of axle components of external overseas comparables,
+> accepted by the TPO. The transactions of the assessee with its AEs were
+> accepted to be at arm's length price by the Transfer  13 ITA No.1375/PN/2014
+> CO No.86/PN/2014 Spicer India Ltd.
+
+Pricing Officer, without making any adjustment. The TPO had not given any
+finding that the profit mark-up on cost, reported by the assessee, in its
+transaction with its AE was in excess of the profit mark-up of external
+comparables. In the absence of any adjustments having been made by the
+Transfer Pricing Officer, the Assessing Officer had to accept the order of the
+TPO as mandated by the provisions of section 92CA(4) of the Act, wherein the
+TPO had accepted the exports and other international transactions with the AE
+to be at arm's length price without any adjustment. The Assessing Officer in
+consequence determined the income of the assessee inconformity with the order
+of the TPO. The issue arising before us in such circumstances is that where
+the assessee had claimed deduction under section 10B of the Act on such
+exports to its AE, can the same be curtailed by invoking the provisions of
+section 10B(7) r.w.s. 80IA(10) of the Act on the premise that the assessee had
+earned higher profits than normal on exports made to its AEs.
+
+17\. In the facts before the Tribunal in M/s Honeywell Automation India
+Limited vs. DCIT (supra), the dispute arose vis-à-vis the entitlement of the
+assessee for the claim of deduction under section 10A of the Act which was
+curtailed based on the provisions of section 10A(7) r.w.s. 80IA(10) of the
+Act. The TPO in the said case had restricted the profits eligible for the
+claim of deduction under section 10A of the Act, as the profits in relation to
+the 10A units were more than the ordinary profits. The Assessing Officer
+accordingly re-computed the amounts of profit which he considered as
+reasonable to have been derived in terms of section 10A(7) r.w.s. 80IA(10) of
+the Act. The assessee in its Transfer Pricing Study in the said case had
+benchmarked the international transaction by selecting the TNM Method. The TPO
+on a reference by the Assessing Officer passed an order under section 92CA(3)
+of the Act accepting the international transaction with respect to the
+software engineering services segment to be at arm's length. However, the
+Assessing Officer was of the view that the profit margins in respect of the
+10A unit was substantially higher than the profit margin of the comparables
+chosen by the assessee while carrying out the comparability analysis under the
+TNM Method and therefore according to him the profits declared by the assessee
+in the 10A units was not the ordinary profits and had to be restricted under
+section 10A(7) r.w.s. 80IA(10) of the Act.
+
+18\. We find that similar issue for grant of deduction u/s 10A of the Act by
+invoking provisions of section 10A(7) r.w.s. 80 -IA(10) of the Act, arose
+before the Tribunal in assessee's own case relating to assessment year 2006-07
+(supra). The Tribunal had considered the provisions of section 10A(7) of the
+Act and it was observed that the said provisions are attracted where closely
+connected party are taxable in India. In this regard, the relevant portions of
+the order of the Tribunal dated 25.02.2015 (supra) read as under :-
+
+> "7. Before proceeding further, we may briefly touch-upon the relevant
+> provisions of the Act, which have a bearing on the controversy before us.
+> Sub-section (7) of section 10A of the Act reads as under :-
+
+> "(7) The provisions of sub-section (8) and sub-section (10) of section 80-IA
+> shall, so far as may be, apply in relation to the undertaking referred to in
+> this section as they apply for the purposes of the undertaking referred to
+> in section 80-IA."
+
+> 8\. Further, sub-sections (8) and (10) of section 80-IA of the Act referred
+> to in section 10A(7) read as under :-
+
+> "(8) Where any goods [or services] held for the purposes of the eligible
+> business are transferred to any other business carried on by the assessee,
+> or where any goods [or services] held for the purposes of any other business
+> carried on by the assessee are transferred to the eligible business and, in
+> either case, the consideration, if any, for such transfer as recorded in the
+> accounts of the eligible business does not correspond to the market value of
+> such goods [or services] as on the  14 ITA No.1375/PN/2014 CO No.86/PN/2014
+> Spicer India Ltd.
+
+> date of the transfer, then, for the purposes of the deduction under this
+> section, the profits and gains of such eligible business shall be computed
+> as if the transfer, in either case, had been made at the market value of
+> such goods [or services] as on that date : Provided that where, in the
+> opinion of the Assessing Officer, the computation of the profits and gains
+> of the eligible business in the manner hereinbefore specified presents
+> exceptional difficulties, the Assessing Officer may compute such profits and
+> gains on such reasonable basis as he may deem fit.
+
+> [Explanation.--For the purposes of this sub-section, "market value", in
+> relation to any goods or services, means the price that such goods or
+> services would ordinarily fetch in the open market.] (9) xxxxxxxxxx (10)
+> Where it appears to the Assessing Officer that, owing to the close
+> connection between the assessee carrying on the eligible business to which
+> this section applies and any other person, or for any other reason, the
+> course of business between them is so arranged that the business transacted
+> between them produces to the assessee more than the ordinary profits which
+> might be expected to arise in such eligible business, the Assessing Officer
+> shall, in computing the profits and gains of such eligible business for the
+> purposes of the deduction under this section, take the amount of profits as
+> may be reasonably deemed to have been derived therefrom."
+
+9\. Section 10A of the Act is a special provision in respect of newly
+established undertakings in free trade zone, etc.. Section 10A postulates a
+deduction of such profits and gains as are derived by an undertaking from the
+export of articles or things or computer software for a period of ten
+assessment years beginning with the assessment year relevant to the previous
+year in which the undertaking begins to manufacture or produce such articles
+or things or computer software, as the case may be, while computing the total
+income of an assessee. Shorn of other details, for the present it would
+suffice to note that the three units of the assessee, namely, Unit No.I & II
+at Pune and Unit at Chennai are recognized as STPI Units in accordance with
+the Software Technology Park Scheme of the Government of India and they are
+eligible for the benefits of section 10A of the Act.
+
+10\. The bone of contention in the present case between the assessee and the
+Revenue is invoking of section 10A(7) r.w.s. 80 -IA(10) of the Act. Section
+80-IA(10) of the Act, reproduced above, empowers the Assessing Officer to re-
+compute the profits and gains of the eligible business for the purposes of
+deduction u/s 10A of the Act if it appears to him that the profits declared by
+the assessee are more than the ordinary profits which might be expected to
+arise in such an eligible business. So however, the aforesaid power of the
+Assessing Officer is subject to the pre-requisites contained in sub-section
+(10) of section 80-IA of the Act itself. The circumstances in which such a
+course is available to the Assessing Officer is contained in section 80-IA(10)
+itself. A perusal of section 10A(7) r.w.s. 80 -IA(10) of the Act would show
+that the two essential conditions are to be established before the Assessing
+Officer can proceed to disregard the profits declared by the assessee and
+determine the amount of profits which may reasonably deemed to have been
+derived from such business. Notably, such conditions are (i) existence of a
+close connection between the assessee carrying on eligible business and any
+other person; and, (ii) that the course of business is so arranged that the
+business transacted produces to the assessee more than the ordinary profits.
+
+11\. At the outset, it is to be noted that the opening sentence in section 80-
+IA(10) of the Act contains the expression - "where it appears to the Assessing
+Officer that ............". This would show that the onus is on the  15 ITA
+No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+Assessing Officer to justify invoking of section 10A(7) r.w.s. 80 -IA(10) of
+the Act, having regard to the facts circumstances of a given case. Evidently,
+the primary rule of evidence is that "what is apparent is real" unless proved
+otherwise by the person alleging it so. Ostensibly, if the Assessing Officer
+is to invoke the provisions of section 10A(7) r.w.s. 80 -IA(10) of the Act
+then the onus is on him to justify such invocation having regard to the cogent
+material and evidence on record. On this aspect of the matter, there was no
+dispute between the rival counsels inasmuch as the Ld. CIT-DR quite fairly
+agreed that the onus was on the Assessing Officer to justify invoking of
+section 10A(7) r.w.s. 80 -IA(10) of the Act in the facts of a given case.
+Nevertheless, on this aspect, we may also make a reference to the judgement of
+the Hon'ble Karnataka High Court in the case of CIT vs. H.P. Global Soft Ltd.,
+342 ITR 263, which was referred to in the course of hearing before us. In the
+case before the Karnataka High Court, the issue was similar inasmuch as
+therein, the Assessing Officer had invoked the provisions of section 80-I(9)
+r.w.s. 10A(6) of the Act while re-determining the claim of exemption in terms
+of the then prevailing section 10A(4) of the Act, and the assessment years
+were 1995-96 to 1998-99. The provisions of section 10A(6) r.w.s. 80 -I(9) of
+the Act, which were before the Hon'ble Karnataka High Court are quite similar
+to the provisions of section 10A(7) r.w.s. 80 -IA(10) of the Act before us.
+The Hon'ble Karnataka High Court, upheld the stand that the requirements of
+the provisions of section 80-I(9) of the Act are two-fold, namely that there
+should be a close connection between the assessee and the other person, which
+may be a reason for the assessee to earn higher profits but, more importantly
+there should be material to indicate that assessee had indulged in an
+arrangement with the other person so as to produce to the assessee more
+profits than ordinarily what profits the assessee might have expected to arise
+from such business. As per the Hon'ble Karnataka High Court, it was for the
+Assessing Officer to indicate any material or evidence to disclose any such
+arrangement between the assessee and the other person. The aforesaid judgement
+of the Hon'ble Karnataka High Court justifies the assertion of the assessee
+before us that the onus for justifying the invoking of section 80-IA(10)
+r.w.s. 10A(7) of the Act is on the Revenue based on cogent material. At this
+point, we may also make a reference to the judgement of the Hon'ble Bombay
+High Court in the case of CIT vs. M/s Schmetz India Pvt. Ltd. vide Income Tax
+Appeal No.4508 of 2010 dated 04.09.2012, which is also to the similar effect.
+In the case before the Hon'ble Bombay High Court assessee was a wholly owned
+subsidiary of a German Company. It had two divisions - one at Kandla in the
+Kandla Free Trade Zone, engaged in the manufacture and export of industrial
+sewing machine needless; and other at Mumbai, engaged in trading in industrial
+sewing machine needless. The manufacturing division at Kandla exported its
+entire production of industrial machine needless to its holding company in
+Germany. For the assessment year 2004-05 assessee declared an income of
+Rs.20.54 crores from its manufacturing division at Kandla and claimed 100%
+deduction u/s 10A of the Act. During the course of the assessment proceedings,
+Assessing Officer was of the view that abnormal profits had been declared in
+respect of the Kandla division, only in view of the income therefrom being
+exempt u/s 10A of the Act, and that the trading division at Mumbai showed a
+loss of Rs.70.29 lacs. The Assessing Officer invoked the provisions of section
+10A(7) r.w.s. 80 -IA(10) of the Act to hold that profits of Kandla Division
+were abnormal profits. The Tribunal disagreed with the Assessing Officer. The
+Tribunal, inte r-alia, held that the Assessing Officer has not been able to
+prove that any arrangement had been arrived between the parties which resulted
+in extraordinary profits to the respondent- assessee's manufacturing division
+at Kandla. Consequently, the working o f the profits by the Assessing Officer
+was not approved. The aforesaid action of the Tribunal was upheld by the
+Hon'ble Bombay High Court. On this aspect, the Bangalore Bench of the Tribunal
+in the case of Digital Equipment India Ltd. vs. DCIT, 103 TTJ 3 29 (Bang.) has
+also held that the conditions of the  16 ITA No.1375/PN/2014 CO No.86/PN/2014
+Spicer India Ltd.
+
+section have to be objectively satisfied by the Assessing Officer, based on
+cogent reasoning and evidence.
+
+12\. At the time of hearing, the Ld. Representative for the assessee
+vehemently argued that the provisions of section 10A(7) r.w.s. 80 -IA(10) of
+the Act are inapplicable in the present case because there is no material lead
+by the Revenue to say that there was any arrangement between the assessee and
+the associated enterprises which produced to the assessee more than the
+'ordinary profits' within the meaning of section 10A(7) r.w.s. 80 -IA(10) of
+the Act. According to the Ld. Representative, the transactions of the assessee
+by way of rendering software engineering services to its associated
+enterprises abroad are not arranged so to yield any extraordinary profits to
+the assessee. The Ld. Representative pointed out that assessee was charging
+the same rate for services rendered to associated enterprises as well as to
+the non-related parties. The details of rates charged by the assessee to the
+third parties vis- à-vis the related parties have also been placed in the
+Paper Book along with sample copies of invoices raised on the and non-related
+parties. It was also pointed out with reference to the submissions made to the
+Assessing Officer, which have been reproduced in para 2.6 of the assessment
+order, that the assessee has continued to charge similar rates even after the
+tax holiday period of STPI Unit had ended.
+
+13\. At the time of hearing, it was explained that the tax holiday u/s 10A of
+the Act was available for Unit No.I at Pune upto assessment year 2007-08; that
+for Unit No.II at Pune upto assessment year 2011-12; and, that for Chennai
+Unit upto assessment year 2009-10. A statement showing operating margins to
+total cost earned by the assessee from the STPI Units relatable to the
+software engineering services segment was furnished to show that even after
+the expiry of the tax holiday period the profits of the Units is higher than
+the other Units of the assessee.
+
+14\. In this context, a reference has also been made to the commercial reasons
+explained before the Assessing Officer for the high profits earned by the
+assessee's STPI Unit. From the submissions furnished to the Assessing Officer,
+which have been reproduced in para 2.6 of the assessment order, it is revealed
+that reasons were advanced to justify the higher margins of the STPI Units.
+Firstly, it was contended that there was substantial cost savings in terms of
+costs on sales, marketing, sale promotion and advertisement because majority
+of the business in the engineering services segment was with affiliates only.
+Secondly, it was pointed out that assessee is in the business of IT enabled
+services rendering engineering consultancy services in execution of industrial
+automation and building automation and control projects and it does not incur
+much product development costs or investments which are usually incurred by
+other software companies. Thirdly, it was pointed out that the salary levels
+in the case of the assessee are much lower than other software companies
+because assessee was hiring electronics and process engineering
+Graduates/Diploma holders and not software professionals. It is also pointed
+out that assessee has a lower rate of idle staff as it works mostly on in-
+house Honeywell Technology and therefore the productivity of the employees is
+much higher than other software companies. Further, it was also pointed out
+that assessee was reimbursed all the costs, like foreign travel and living
+expenses incurred abroad by its employees in the course of rendering
+engineering/software services. Assessee was also reimbursed incidental
+expenses incurred by it viz. visa costs, work permit costs, etc. and therefore
+the cost of sales was on lower side, as a result of which the percentage of
+Operating profit to total cost shows a higher percentage, although the impact
+on profit remains unaltered. All these points, which were raised before the
+Assessing Officer, have been reiterated before us to show that the higher
+profits are not attributable to any arrangement with associated enterprises
+but due to business reasons.
+
+17
+
+ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+15\. Apart therefrom, it has also been pointed out that assessee is a public
+limited company listed on the stock-exchange wherein the overseas Honeywell
+entities owned 81.24% of shareholding and the public shareholding is to the
+extent of 18.76%. It was pointed out that initially TATA group was also owning
+shares in the assessee company to the extent of 40% and Honeywell entities
+held 41% and the balance 19% was held by the public. This pattern had changed
+from November, 2004 onwards when the TATA group gave up its shareholding in
+the assessee company. On the basis of the aforesaid shareholding pattern, a
+plea setup by the assessee is that if there was any manipulation of profits by
+assessee charging higher rates to its overseas Honeywell group entities
+resulting in shifting of profits from overseas entities to the assessee-
+company, it would not be a prudent exercise by the Honeywell group because it
+does benefit the Honeywell group as a whole. Since there is a significant
+public shareholding in the assessee company, it would mean that the any
+extraordinary benefit passed on by overseas Honeywell group entities to
+assessee would result in a loss for Honeywell group on an overall basis to the
+extent of public shareholding in the assessee company. It was, therefore,
+contended that in such a scenario, it could not be said that there was any
+arrangement between the assessee and the overseas Honeywell entities to
+produce higher profits to the assessee. In support of such proposition,
+reliance has been placed on the decisions of the Mumbai Bench of the Tribunal
+in the case of ITO vs. Zydus Nycomed Healthcare (ITA Nos.4013/Mum/208,
+4206/Mum/2009 and 4343/Mum/2009 dated 31.10.2013).
+
+16\. Apart from the aforesaid, it has been vehemently argued that ordinary
+profits for the purposes of section 10A(7) r.w.s. 80-IA(10) of the Act cannot
+be computed relying upon the Transfer Pricing documents prepared by the
+assessee. The Ld. Representative pointed out that having regard to the
+intention of the Transfer Pricing Provisions, the margins determined under the
+TNM Method are to be taken as indicative of the least profits that must be
+retained in India and it cannot be used to benchmark the 'ordinary profits' as
+referred to in section 10A(7) r.w.s. 80 -IA(10) of the Act. The sum and
+substance of the plea setup by the assessee is that the legislative intent
+behind the Transfer Pricing Provisions is different from the intent behind
+section 10A(7) r.w.s. 80 -IA(10) of the Act.
+
+17\. The Ld. CIT-DR has made detailed submissions in support of the invoking
+of section 10A(7) r.w.s. 80 -IA(10) of the Act in the present case. The Ld.
+CIT-DR submitted that section 80-IA(10) of the Act placed much lighter burden
+of proof on the Assessing Officer because of the presence of the expression
+"it appears" in section 80-IA(10) of the Act. According to the Ld. CIT-DR,
+section 80-IA(10) can be invoked by the Assessing Officer when 'it appears' to
+him, and it is not subject to the Assessing Officer's belief or satisfaction
+as is the case with invoking of section 147/148, etc.. The following portion
+of section 80-IA(10) of the Act was emphasized "...........the Assessing
+Officer shall, in computing the profits and gains of such eligible business
+for the purposes of the deduction under this section, take the amount of
+profits as may be reasonably deemed to have been derived........." to say that
+it does not require the Assessing Officer to precisely determine the eligible
+profits, but only a prima-facie satisfaction about presence of more than the
+ordinary profits would suffice. It is sought to be emphasized that because of
+the presence of the words ".......as may be reasonably deemed to have been
+derived......." in section 80-IA(10) of the Act, a much lighter burden of
+proof is put on the Assessing Officer for computing tax avoidance. As per the
+Ld. CIT-DR, similar to the Transfer Pricing Provisions, the said Provision
+does not require a precise accuracy on the part of the Assessing Officer. At
+this point, the Ld. CIT-DR relied upon the decision of the Hon'ble Kerala High
+Court in the case of Abdul Vahab P. vs. ACIT, (2012) 249 CTR 102 (Kerala)
+wherein the word "appears" has been understood to imply a 'prima-facie'
+satisfaction of the Assessing Officer. Therefore, it is sought to be made out
+18 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+that a prima-facie satisfaction of the Assessing Officer is enough to apply
+the provisions of section 10A(7) r.w.s. 80 -IA(10) of the Act.
+
+18\. It is further submitted that the word "arrangement" used in section 80-
+IA(10) of the Act is to be understood as any agreement with the associated
+enterprise and in support of the same reliance has been placed on the decision
+of the Hon'ble Bombay High Court in the case of Bank of India Ltd. vs.
+Ahmedabad Manufacturing & Calico, (1972) 42 CompCas 211 (BomXDPB-p-42),
+wherein it has been held as under :-
+
+> "The word "arrange" has, as one of its meaning, in the Shorter Oxford
+> Dictionary, edition, "to come to an agreement or understanding", and the
+> word "arrangement" has, as its primary meaning, "the action of arranging".
+> As a matter of plain language it would, therefore, follow that the term
+> "arrangement" means any agreement or understanding between the parties
+> concerned."
+
+19\. As per the Ld. CIT-DR, since there is an agreement between the assessee
+and the associated enterprises for Provision of IT enabled
+engineering/software services, it is to be understood as an "arrangement"
+within the meaning of section 80-IA(10) of the Act. According to him, the
+requirements of section 80-IA(10) of the Act are satisfied if there exists an
+arrangement which leads to production of more than ordinary profits.
+Therefore, according to him, in the present case, the Assessing Officer is
+justified to invoke section 10A(7) r.w.s. 80 -IA(10) of the Act inasmuch as
+the profit margin of the assessee's STPI Units is 80.06% as against 17.06% of
+the comparable selected by the assessee itself in its Transfer Pricing Study.
+As per the Ld. CIT-DR, when the arrangement has led to resulting into more
+than ordinary profits, necessary condition for invoking section 80-IA(10) of
+the Act is satisfied.
+
+20\. Apart from the aforesaid submissions, the Ld. CIT-DR has made other pleas
+also to justify the restriction of deduction u/s 10A of the Act. In this
+context, he has pointed out that even the Safe Harbor Rules issued by the CBDT
+with respect to the Transfer Pricing assessment provide for 20% operating
+profit as an acceptable profit in IT enabled services segment and therefore
+that was a good benchmark as to what constitutes 'ordinary profits' in the
+assessee's impugned line of business. The Ld. CIT-DR also made a submission
+that even if the computation of excess profits done by the Assessing Officer
+based on the margin of the comparable is not found to be a good methodology,
+yet the failure of computation process by the Assessing Officer would not
+vitiate the invoking section 10A(7) r.w.s. 80 -IA(10) of the Act in the
+present case. The excess profits according to him can be computed by an
+appropriate method by remanding the matter back to the file of the Assessing
+Officer. In any case, it has been contended section 80-IA(10) of the Act
+requires computing of 'more than ordinary profits' in the eligible business.
+Comparable companies are in the same line of the business and having similar
+functions performed, assets employed and risks assumed as the assessee,
+therefore, comparable companies are carrying on eligible business, and thus
+the profits margin of comparable reflect ordinary profits.
+
+21\. With regard to the assessee's plea that even after the expiry of section
+10A benefits, assessee was declaring healthy profits, the Ld. CIT-DR pointed
+out that what matters in future years is the actual amount of the taxes paid
+and not merely the profits generated in the Unit. It was also contended that
+the fact that assessee has rendered services to the non-related parties at the
+same rates is also not relevant for the purposes of application of section
+10A(7) r.w.s. 80 -IA(10) of the Act. It was also submitted by him that fact of
+the assessee being reimbursed the travelling costs, etc. cannot be responsible
+for assessee's high profit which are not of an ordinary level. The Ld. CIT-DR
+pointed out that if certain part of the expenditure is being incurred by the
+other parties then the cost of such expenditure would certainly be reduced
+from the  19 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+price charged by the assessee for the services rendered. In any case, it is
+pointed out that reimbursement of expenses is a profit neutral transaction and
+does not impact the profitability of the assessee.
+
+22\. Before we proceed further, it would be appropriate to examine the scope
+and intent of the provisions of section 10A(7) r.w.s. 80 -IA(10) of the Act.
+In this context, a reference has been made to the CBDT Circular No.308 dated
+29.06.2008 wherein the reasons for introduction of sub-section (7) to section
+10A of the Act has been explained. In-particular, reference has been made to
+the following contents of the Circular :-
+
+> "The provisions of sub-section (8) and sub-section (9) of section 80-I will
+> also apply in relation to the industrial undertaking referred to in the new
+> section 10A as they apply in relation to an industrial undertaking referred
+> to under section 80-I. Under the applied sub-section (8) of section 80-I, it
+> is provided that where an Assessee has several units, some in the free trade
+> zone and some outside, the profits of the unit in the free trade zone will
+> be computed after taking the cost of the goods transferred to or from the
+> unit on the basis of the market value of such goods. The applied sub-section
+> (9) of section 80-I empowers the Income-tax Officer to determine the
+> reasonable profits that could be attributed to the qualifying undertaking in
+> the free trade zone in cases where, owing to the close connection between
+> the Assessee and any other persons or for any other reason, the course of
+> the business is so arranged that the industrial undertaking set up in the
+> free trade zone derives more than ordinary profits which may be expected to
+> arise in that business. This provision has been made with a view to avoiding
+> abuse of the new tax concessions by manipulation of profits between
+> associate concerns or different units of the same concern."
+
+> [underlined for emphasis by us]
+
+> 23\. Quite clearly, the provisions of section 10A(7) of the Act intend to
+> plug abuse of tax concession by manipulation of profits between associated
+> concerns or between different units of the same concern. The objective of
+> the aforesaid Provision is that the tax concessions are not abused by
+> manipulation of profits. In our considered opinion, the aforesaid
+> explanation in the CBDT Circular (supra) signifies the legislative intent
+> and it is also manifested in the language of section 10A(7) r.w.s. 80
+> -IA(10) of the Act. We say so for the reason that the phraseology of section
+> 80-IA(10) of the Act itself suggests that the profits and gains of an
+> eligible business cannot be tinkered with by the Assessing Officer merely
+> because they are more than the ordinary profits or that they are quite high.
+> The existence of substantial or more than ordinary profits by itself does
+> not sufficiently empower the Assessing Officer to disregard them and
+> determine the profits which he may consider to be reasonably deemed to have
+> been derived therefrom. The presence of the expression "the course of
+> business ............ is so arranged ............. that the business
+> transacted ............... produces to the assessee more than ordinary
+> profits" is significant and its understanding has to be prefaced by the
+> legislative objective of plugging abuse of the tax concessions granted u/s
+> 10A of the Act by manipulation of profits between associated parties. In
+> other words, the import of the expression "so arranged" has to be read in
+> conjunction with the legislative intent that there should not be any abuse
+> of tax concession by manipulation of profits. Therefore, section 10A(7)
+> r.w.s. 80 -
+
+IA(10) of the Act can be invoked only where it is shown that the course of
+business is so arranged which reflects an abuse of tax concession whereby the
+business transacted between two entities is so arranged, which produces to the
+assessee more than the ordinary profits which might be expected to arise in
+such eligible business. The emphasis is to eschew those 'more than the
+ordinary profits' which are as a result of a business between two closely
+connected concerns having been arranged with the intent of abuse of the tax
+20 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+concession. Ostensibly, in the present case, the Revenue would have to justify
+that the course of business between assessee and the associated enterprises
+has been 'so arranged' which produces to the assessee more than the ordinary
+profits which might be expected to arise in such eligible business with the
+intention of abusing the tax concession granted in section 10A of the Act. The
+mere existence of (i) a close connection between the assessee and the other
+person; and, (ii) more than ordinary profits is not sufficient to justify
+invoking of section 80-IA(10) of the Act in the absence of there being any
+material to say that the course of business between them is "so arranged" to
+abuse the tax concessions granted u/s 10A of the Act by manipulating profits
+between associated persons. Ostensibly, the same is required to be
+demonstrated on the basis of a cogent material and evidence. In other words,
+the presence of the expression "so arranged" has to be understood in the
+context of the abuse of tax concession which is sought to be plugged by the
+provisions of section 10A(7) r.w.s. 80 -IA(10) of the Act.
+
+24\. On this aspect, the Ld. CIT-DR had vehemently argued, based on the
+judgement of the Hon'ble Bombay High Court in the case of Bank of India Ltd.
+(supra) that the meaning of the word "arranged' in section 80-IA(10) of the
+Act has to be understood to mean an agreement or an understanding between the
+parties concerned. The relevant portion of the decision of the Hon'ble Bombay
+High Court has been reproduced in the earlier part of this order, according to
+which, it is said that the term arrangement in plain language means any
+agreement or understanding between the parties concerned. On this basis, the
+Ld. CIT-DR submitted that undeniably there is an agreement between the
+assessee and the associated enterprises whereby the services have been
+provided by the assessee to them and therefore the same is to be understood as
+an "arrangement" within the meaning of section 10A(7) r.w.s. 80-IA(10) of the
+Act. Along with the aforesaid, it has also been emphasized, on the basis of
+the language of section 80-IA(10) of the Act that, the Assessing Officer is
+not required to be prove that there is an arrangement for producing more than
+ordinary profits. Whereas, as per the Ld. CIT-DR, section provides that
+arrangement leading to production of more than ordinary profit will satisfy
+the necessary condition of section 80-IA(10) of the Act. Thus, according to
+the Ld. CIT-DR, in the instant case there is an arrangement and it has lead to
+production of more than the ordinary profits. According to the Ld. CIT-DR, the
+meaning of the words "so arranged" in section 80-IA(10) of the Act only seeks
+to ensure that there was an agreement between the assessee and associated
+enterprise.
+
+25\. We have carefully examined the aforesaid contentions of the Ld. CIT- DR.
+In our considered opinion, the import of the expression "arranged" in section
+80-IA(10) of the Act is not to be understood in its plain language but the
+same has to be understood in the context in which it is placed in the section.
+Notably, section 80-IA(10) of the Act restricts the plain meaning of the term
+"arranged" because it is placed between the words "........the course of
+business between them is so arranged that the business transacted between them
+produces to the assessee more than the ordinary profits which might be
+expected to arise in such eligible business........." . Therefore, it would
+necessarily mean that the 'arrangement' referred to is an arrangement of the
+course of business which produces to the assessee more than the ordinary
+profits with the intent of abusing the tax concession. Thus, the word
+"arranged" in the section does not envisage a simple arrangement, but a
+arrangement of "the course of business transacted" which produces to the
+assessee more than ordinary profits which might be expected to arise in such a
+business with the intent of abusing the tax concessions. Therefore, the
+meaning of the words "so arranged" have to be understood in the context in
+which they are placed in section 80-IA(10) of the Act. A mere agreement
+between the assessee and the associated enterprises for transacting business
+is not enough to invoke section 80-IA(10) of the Act.
+
+21
+
+ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+26\. In-fact, even the Hon'ble Bombay High Court in the case of Bank of India
+Ltd. (supra) has also appreciated the contextual meaning of the expression
+"arrangement". The issue before the Hon'ble Bombay High Court was with regard
+to the scheme of re-construction or arrangement contained in section 391(1) of
+the Companies Act, 1956. In the context of section 391(1) of the Companies
+Act, 1956, the Hon'ble High Court was dealing with the meaning of the word
+"arrangement". After having explained the meaning of the term arrangement in
+plain language, which we have referred earlier, the Hon'ble High Court went on
+to say as under in the context of the word "arrangement" qua section 391(1) of
+the Companies Act, 1956 :-
+
+> "Section 391(1), however, in any opinion somewhat restricts this otherwise
+> unlimited import of the term "arrangement" in so far as the said section
+> applies only to an agreement or understanding between the company and its
+> creditors or any class of them, or between the company and its members or
+> any class of them, or between the company and its members or any class of
+> them, which would necessarily mean that it must be an agreement or
+> understanding which affects their rights"
+
+> [underlined for emphasis by us]
+
+> 27\. The aforesaid clearly points out that the Hon'ble High Court imparted
+> meaning to the word "arrangement" in the context of section 391(1) of the
+> Companies Act, 1956 to mean that it must be an agreement or understanding
+> which affects the rights between the company and its creditors or any class
+> of them and between the company and its members or any class of them. By the
+> same analogy in the present context, we have to understand the meaning of
+> the expression "as arranged" in section 10A(7) r.w.s. 80 -IA(10) of the Act
+> to mean a situation whereby the course of business has been so arranged that
+> the business transacted produces to the assessee more that the ordinary
+> profits with an intent to abuse the tax concessions granted in section 10A
+> of the Act. Moreover, if one is to understand the import of the expression
+> "so arranged" in section 80-IA(10) of the Act as canvassed by the Ld. CIT-
+> DR, it would mean that for the purposes of fulfillment of the conditions
+> prescribed in section 10A(7) r.w.s. 80 -IA(10) of the Act, existence of mere
+> close connection and more than the ordinary profits would suffice. In other
+> words, as per the Revenue, the existence of close connection and high
+> profits would lead to a presumption that there is an "arrangement" within
+> the meaning of section 80-
+
+IA(10) of the Act. The aforesaid plea, in our view, not only belies the
+language of section 80-IA(10) but also the legislative intent which seeks to
+curtail the abuse of tax concession by manipulation of profits between
+associated concerns. Therefore, an arrangement which is referred to in section
+10A(7) r.w.s. 80 -IA(10) of the Act has to be one which is prefaced by an
+intention to abuse the tax concessions, as per the intendment of the
+legislature. Therefore, existence of a mere agreement to do business is not
+enough to fulfill the requirement of section 10A(7) r.w.s. 80 -IA(10) of the
+Act in the context of the words "the course of business between them is so
+arranged".
+
+28\. At this stage, we may also address the argument of the Ld. CIT-DR that
+the burden cast on the Assessing Officer in section 10A(7) r.w.s. 80 - IA(10)
+of the Act is much lighter and even a prima-facie satisfaction of an existence
+of tax avoidance is sufficient. In this context, we may refer to the decision
+of the Bangalore Bench of the Tribunal in the case of Digital Equipment India
+Ltd. (supra), wherein similar argument from the side of the Revenue has been
+addressed. The Bangalore Bench of the Tribunal was dealing with invoking of
+section 10A(6) r.w.s. 80 -I(9) of the Act for assessment year 1995-96, which
+are pari-materia to section 10A(7) r.w.s. 80 -IA(10) of the Act invoked by the
+Revenue before us. The following discussion is relevant :-
+
+> "The requirements under the section are :
+
+22
+
+> ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+> (a) There must be a close connection between the appellant and other person.
+
+> (b) The course of business between them should be so arranged that it
+> produces to the appellant more than the ordinary profits from such business.
+
+> To satisfy the above test the AO has to adduce evidence and reasons cogently
+> and the same is open to verification by the appellate authorities. The
+> primary rule of evidence is that "what is apparent is real" unless proved
+> otherwise by the person alleging it otherwise. The manner of satisfaction
+> outlined in the section should be based on evidence and not on surmise or
+> suspicion. The question is not whether the onus is light or heavy but
+> whether the AO has discussed objectively the conditions mentioned in the
+> section to disturb the results declared by the appellant. In this case, the
+> AO has failed to adduce any evidence or reason to satisfy the invoking of s.
+> 80-1(9). First of all, a mere substantial profit does not give rise to any
+> valid view that there could be any arrangement. It is a case of joint
+> venture listed Indian company, where all arrangements are open for scrutiny
+> and acceptance not only by digital group worldwide but also from joint
+> venture partners and shareholders. Digital group overseas will not pay undue
+> sum, which it cannot recoup entirely to exclusion of others. Hence nothing
+> can be arranged to the exclusive benefit of overseas partner. One cannot
+> presume the existence of close connection or possibility of an arrangement
+> for earning more than ordinary profits. In this case the profits earned is
+> comparable with the profits earned by other companies in the same industry.
+> Hence there is no case for further verification. The AO has compared the
+> profit of software unit with that of hardware unit. Thus the foundation
+> itself is on wrong premise. There cannot be comparison between an orange and
+> an apple. It is known fact that profitability of software units is always
+> higher than hardware unit. The test whether the appellant has earned more
+> than ordinary profits, in this case, the answer is obvious NO, even as found
+> by the AO. When the profits earned are reasonable and not excessive, there
+> is no reason to sustain the addition Further there is no evidence of
+> existence of any arrangement as contemplated under  s. 80-1(9)."
+
+> 29\. Quite clearly, as per the Tribunal the question is not whether the onus
+> is light or heavy but whether the Assessing Officer has discussed
+> objectively the conditions mentioned in the section to disturb the results
+> declared by the appellant."
+
+15\. The Tribunal in assessee's case also referred to the arrangement between
+the parties for earning more than ordinary profits wherein onus was upon the
+Department to prove that an arrangement existed. The findings of Tribunal in
+Honeywell Automation India Ltd. Vs. DCIT (supra) vide paras 30 to 34 were
+referred, which we have reproduced in paras above.
+
+16\. The Tribunal in assessee's case applying the principle laid down in
+Honeywell Automation India Ltd. Vs. DCIT (supra) held as under:-
+
+23
+
+> ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+"20. Now, coming to the facts of the present case, the issue arising is in
+relation to grant of deduction under section 10B of the Act by invoking the
+provisions of section 10B(8) r.w.s. 80IA(8) and 80IA(10) of the Act. At the
+first instance, it may be noted that the provisions of section 10B are pari-
+materia to the provisions of section 10A of the Act. The assessee had shown
+profits from export of propeller shaft components and light axle components
+earned by EOUs at 38% and 34% as against the average profit mark-up range of
+8.4% to 10.77% in case of propeller shaft components and 4.2% to 7.5% in case
+of axle components of external overseas comparables, which was accepted by the
+TPO in his report under section 92CA(4) of the Act. In the above said
+circumstances, where the profit margins declared by the assessee have been
+accepted to be at arm's length by the TPO, no curtailment of deduction under
+section 10B can be made by invoking the provisions of section 10B(7) r.w.s.
+80IA(8) and 80IA(10) of the Act, relying on the ratio laid down by the
+Tribunal in M/s Honeywell Automation India Limited vs. DCIT (supra). The onus
+was upon the Department to prove that an arrangement existed between the
+assessee and its AEs to earn more than ordinary profits and in the absence of
+the said onus having been discharged by the Department and following the same
+parity of reasoning as laid down by the Tribunal in M/s Honeywell Automation
+India Limited vs. DCIT (supra) and also following the similar proposition laid
+down by the Delhi Bench of the Tribunal in M/s A.T. Kearney India Pv t. Ltd.
+(supra), we find no merit in the order of the Commissioner passed under
+section 263 of the Act in this regard. Another aspect of the issue is where
+the assessee had consistently earned higher profit margins right from start of
+its business even before EOUs were set up and where similar trend has shown in
+the hands of the assessee which, in turn, had been accepted by the TPO, while
+determining the arm's length price of the international transactions between
+the assessee and its AEs, then there is no merit in invoking of jurisdiction
+by the Commissioner under section 263 of the Act. Further, it is to be noted
+that there was justification for earning higher profit margins due to
+substantial cost savings i.e. locational advantage, lower infrastructure cost,
+savings in tooling cost, no cost of investment and know-how/IPR being a
+restricted scope supplier of components. Where the assessee is getting the
+designs and the know-how from its AEs and was supplying the components, in
+turn, to its AEs i.e. where the assessee was a limited scope manufacturer,
+then we find no merit in the observations of the Commissioner in this regard
+that the assessee had earned more than ordinary profits, which in any case
+have been justifiably explained. Another aspect of the issue raised by the
+Commissioner was with reference to the royalty of 2.85% not payable on export
+of components supplied to the AE and warranty not borne by the assessee. As
+per the Commissioner, the same reflected the intention of the assessee to show
+higher profits from the 10B units. The Ld. Authorized Representative for the
+assessee pointed out that the Assessing Officer while giving effect to the
+order of the Commissioner passed under section 263 of the Act has given a
+finding that the profit margin earned in case of propeller shaft components
+was lower than the average profit margin of comparable and has reduced the
+deduction under section 10B only in respect of profits from export of axle
+components, which in turn establishes that there was no arrangement as
+alleged. In the fact of the present case, where the assessee was restricted
+scope and limited risk manufacturer of components exported to its AE, where
+the licensed know-how and designs owned by the AE were made available to the
+assessee only for it use itself reflects that in such circumstances question
+of royalty payment to AE does not arise and in the absence of any agreement
+between the parties for payment of royalty, we find no merit in the
+observation of the Commissioner in this regard. Further, where the assessee
+was only exporting components of propeller shaft and axles and the finished
+products were assembled by the AE, there is no scope for providing warranty on
+export of such components. The finding of the Commissioner in this regard that
+the assessee had shown higher profits to claim deduction under 10B units is
+thus misplaced. In view thereof, we find no merit in the order of the
+Commissioner passed under section 263 of the Act and reversing the same we
+hold that the assessee is entitled to claim of deduction under section 10B of
+the Act in entirety. The grounds of appeal raised by the assessee are
+allowed."
+
+24
+
+> ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India Ltd.
+
+17\. Further, in assessment year 2007-08, the claim of the assessee of 10B
+deduction was further curtailed by the CIT(A) by applying the provisions of
+section 10B(7) r.w.s. 80IA(10) of the Act. Both the assessee and the Revenue
+were in appeal before the Tribunal against the finding of CIT(A) in assessment
+year 2007-08.
+
+The Tribunal in ITA No. 1113/PN/2012 and in ITA No.1280 /PN/2012 relating to
+assessment year 2007-08, vide consolidated order along with appeal in
+assessment year 2006-07, vide order dated 08.07.2015 applied the same
+principle and held that there is no merit in curtailment of 10B deduction by
+applying the provisions of section 10B(7) r.w.s. 80IA(10) of the Act.
+
+18\. The issue arising before us is identical to the issue before the Tribunal
+in assessee's own case in earlier years. It may be pointed out here that in
+assessment year 2006-07, the assessee had declared margins from export of
+propelled shaft components and light axle components earned by EOU unit at 38%
+and 34% as against the average profit mark-up range of 8.4% to 10.77% in the
+case of propelled shaft components and 4.2% to 7.5% in the case of axle
+components of external overseas comparables, which was accepted by the TPO in
+his report under section 92CA(4) of the Act. However, 10B deduction was
+curtailed by invoking provisions of section 10B(7) r.w.s. 80IA(10) of the Act.
+In the facts of the present case before us, the margins shown by the assessee
+as noted by the Assessing Officer were 28.13% in the export of axle components
+by EOU unit as against the margins of 10.6% shown by the external overseas
+comparables, which was also accepted by the TPO in the present case. In the
+totality of the above said facts and circumstances and in view of the issue
+being identical to the issue before the Tribunal in the earlier years and
+following the same parity of reasoning, we hold that there is no merit in
+curtailing the deduction claimed under section 10B of the Act by invoking
+provisions of section  25 ITA No.1375/PN/2014 CO No.86/PN/2014 Spicer India
+Ltd.
+
+10B(7) r.w.s. 80IA(10) of the Act in respect of export of axle components. The
+profit margin declared by the assessee in respect of export of propelled shaft
+components was accepted by the Assessing Officer and the deduction claimed
+under section 10B of the Act was allowed. Another point which needs mention
+here is that the Assessing Officer while restricting the deduction under
+section 10B of the Act vide para 14 at page 17 of the assessment order had
+relied on the issue arising in the case of Honeywell Automation (I) Ltd. for
+assessment year 2006-07, wherein the DRP had accepted the view of Assessing
+Officer therein and upheld the disallowance of deduction for assessment year
+2006-07. The Tribunal while deciding the appeal in the case of Honeywell
+Automation (I) Ltd. has reversed the orders of authorities below and in view
+of the Tribunal applying the same parity of reasoning while deciding the issue
+in the case of assessee before us in earlier years i.e. 2006-07 and 2007-08,
+we find no merit in the grounds of appeal raised by the Revenue. Further, we
+also find merit in the Cross Objections raised by the assessee in this regard
+and applying the earlier year ratio, we direct the Assessing Officer to allow
+deduction claimed under section 10B of the Act to the assessee against the
+profits of EOU unit of axle components at Chakan, Pune. The grounds of appeal
+raised by the Revenue are thus, dismissed and the cross objections filed by
+the assessee are allowed.
+
+19\. In the result, appeal of the Revenue is dismissed and the Cross
+Objections filed by the assessee are allowed.
+
+Order pronounced on this 20th day of May, 2016.
+
+    
+    
+                  Sd/-                                       Sd/-
+          (PRADIP KUMAR KEDIA)                         (SUSHMA CHOWLA)
+    लेखा सद�य / ACCOUNTANT MEMBER             �या�यक सद�य / JUDICIAL MEMBER
+    
+    पुणे / Pune; �दनांक   Dated : 20th May, 2016.
+    GCVSR
+                                              26
+                                                                     ITA No.1375/PN/2014
+                                                                        CO No.86/PN/2014
+                                                                           Spicer India Ltd.
+    
+    
+    
+    
+
+आदे श क� ��त�ल�प अ�े�षत/Copy of the Order is forwarded to :
+
+1\. अपीलाथ� / The Appellant;
+
+2\. ��यथ� / The Respondent;
+
+3\. आयकर आयु�त(अपील) / The CIT(A)-V, Pune;
+
+4\. आयकर आयु�त / The CIT-V, Pune;
+
+5\. �वभागीय ��त�न�ध, आयकर अपील�य अ�धकरण, पुणे "ए" / DR 'A', ITAT, Pune;
+
+6\. गाड� फाईल / Guard file.
+
+आदे शानुसार/ BY ORDER, स�या�पत ��त //True Copy // व�र�ठ �नजी स�चव / Sr.
+Private Secretary आयकर अपील�य अ�धकरण ,पुणे / ITAT, Pune
+

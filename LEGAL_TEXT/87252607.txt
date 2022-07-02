@@ -1,0 +1,3089 @@
+
+
+Income Tax Appellate Tribunal - Kolkata
+
+Dcit, Cir-1(1), Kolkata, Kolkata vs M/S Landis + Gyr Ltd., Kolkata on 13
+September, 2017
+
+    
+    
+        IN THE INCOME TAX APPELLATE TRIBUNAL "C" BENCH : KOLKATA
+    
+            [Before Hon'ble Shri Aby. T. Varkey, JM & Shri M.Balaganesh, AM ]
+                                  I.T.A No. 584/Kol/2015
+                                 Assessment Year : 2010-11
+    DCIT, Circle-1(1), Kolkata        -vs-         M/s Landis + Gyr Ltd.
+                                                  [PAN: AAACV 9922 B]
+    (Appellant)                                      (Respondent)
+    
+                                  I.T.A No. 687/Kol/2015
+                                 Assessment Year : 2010-11
+    
+    M/s Landis + Gyr Ltd.             -vs-         DCIT, Circle-1(1), Kolkata
+     [PAN: AAACV 9922 B]
+    (Appellant)                                       (Respondent)
+    
+                                  I.T.A No. 549/Kol/2016
+                                 Assessment Year : 2011-12
+    
+    DCIT, Circle-1(1), Kolkata        -vs-         M/s Landis + Gyr Ltd.
+                                                  [PAN: AAACV 9922 B]
+    (Appellant)                                      (Respondent)
+    
+    
+                                   I.T.A No. 619/Kol/2016
+                                 Assessment Year : 2011-12
+    
+    M/s Landis + Gyr Ltd.             -vs-         DCIT, Circle-1(1), Kolkata
+     [PAN: AAACV 9922 B]
+    (Appellant)                                       (Respondent)
+    
+                      For the Appellant   : Shri G. Mallikarjuna, CIT, DR
+                     For the Respondent : Shri Kamal Sawhney, AR
+    
+    Date of Hearing : 16.08.2017
+    Date of Pronouncement : 13.09.2017
+                                                2
+                                                                ITA Nos.584 & 687/Kol/2015
+                                                                ITA Nos.549 & 619/Kol/2016
+                                                                      M/s Landis + Gyr Ltd.
+                                                                      A.Yr.2010-11 & 11-12
+                                           ORDER
+    
+
+Per M.Balaganesh, AM
+
+1\. These appeals of the assessee as well as the revenue arise out of the
+proceedings for the Asst Years 2010-11 and 2011-12 of the Learned Dispute
+Resolution Panel (DRP) dated 29.12.2014 and 16.12.2015 respectively in which
+directions are given to the Learned AO u/s 144C(5) of the Income Tax Act, 1961
+(hereinafter referred to as the 'Act'). As some of the issues involved in both
+the years are identical in nature, they are taken up together and disposed off
+by this common order for the sake of convenience.
+
+2\. At the outset, we would like to place on record our appreciation for the
+assistance provided by the ld DR in disposal of these appeals. These cases
+were listed for hearing on 14.8.2017 and was kept as part heard and further
+adjourned to 16.8.2017. We are given to understand from the statement of the
+ld DR that he had applied for Earned Leave from 16.8.2017. Since the counsel
+for the assessee had come from New Delhi, the ld DR was gracious enough to be
+present on 16.8.2017 for completion of these appeals after cancellation of his
+sanctioned leave. The enthusiasm with which the ld DR co-operated with us for
+expeditious disposal of these appeals richly deserves to be appreciated.
+
+3\. The Ground No. 1 raised by the assessee for the Asst Year 2010-11 is
+general in nature and does not require any specific adjudication. The Ground
+No. 2 raised by the assessee for the Asst Year 2010-11 against the
+confirmation of adjustment of Rs 1,87,48,901/- to the international
+transactions of the assessee with its Associated Enterprises (AEs) is dealt
+with independently in other grounds adjudicated herein below. Hence this
+ground does not require any specific adjudication.
+
+2 3
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12
+
+4\. Adjustment to Arm's Length Price - ITA No. 584/Kol/2015 (Assessee Appeal)
+- Asst Year 2010-11 The assessee is a closely held company engaged in the
+business of manufacturing and distribution of electric meters and related
+components. It also renders software development services to its group
+companies. In the course of its business operations, the assessee has entered
+into certain international transactions. For the purpose of benchmarking the
+prices of the international transactions, the assessee in its transfer pricing
+report, segregated the above transactions into three broad segments
+'Manufacturing' , 'Trading' and 'Service'. The particulars of the transaction
+and the relevant segment to which it relates has been depicted below:-
+
+Landis + Gyr Manufacturing segment Trading segment-Meters Service segment
+Meters Software development Transaction Domestic Export Business Import of
+Finished Goods Business Transactions Export of services Transactions-
+Transactions-
+
+    
+    
+    Import of raw materials    Sale of Finished Goods
+    & components
+    
+    
+    
+
+4.1. In addition to the above transactions, the assessee has also entered into
+following class of transactions being 'payment of royalty' , 'payment of
+management service fees' and 'reimbursement of expenses'. The said
+transactions being distinct class of  3 4 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 transactions have been benchmarked separately applying
+the most appropriate method (MAM).
+
+4.2. The international transactions entered into by the assessee under each of
+the above depicted segments, have been summarized below:
+
+    
+    
+    
+    International Transactions of the       Segment of the              Amount (Rs.)
+    assessee with its associated            assessee
+    enterprises
+    Import of raw materials &               Manufacturing segment 1,06,57,099
+    components                              -Domestic Sales
+    Export of finished goods                Manufacturing          9,73,74,896
+                                            Segment -Export
+    Purchase of finished goods              Trading segment          36,40,613
+    Payment of management fees              Different class of     7,22,96,951
+    Reimbursement of expenses               transactions -           78,47,460
+    Payment of Royalty                      benchmarked             2,39,63,552
+                                            separately
+    Software development - Export of        Service Segment       16,79,99,092
+    Services
+    
+    
+    
+    
+
+4.3. The ld AO based on the order passed by the ld TPO u/s 92 CA(3) of the Act
+had made additions/disallowances against the international transactions
+undertaken by the assessee as encompassed under the 'Manufacturing Segment -
+Domestic', 'Manufacturing Segment - Export' and 'Trading Segment'. In
+addition, the ld AO made adjustments in relation to the transaction of
+'payment of royalty' and 'payment of management service fees' entered into by
+the assessee with its AEs. All other international transactions of the
+assessee have been determined to be at arm's length.
+
+4.4. The assessee had benchmarked the international transactions of sale of
+finished goods, purchase of raw materials and purchase of finished goods by
+considering the transactional level profitability for each of the relevant
+transaction. However, the ld  4 5 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 TPO ignored the transactional level analysis submitted by
+the assessee and instead considered the entire Meter Segment (as reflected in
+Accounting Standard -17 on 'Segment Reporting' disclosure in the audited
+financial statements) to determine ALP of aforesaid transactions.
+
+4.5. The assessee submitted that the turnover of the Meter Segment was Rs
+194.07 crores as against the value of international transactions of only Rs
+11.17 crores and accordingly it submitted that while benchmarking the
+international transactions accounting for merely 5.76% ( 11.17 / 194.07 crores
+* 100) of the entire Meter Segment, the ld TPO erred in considering the entire
+Meter Segment margin which majorly includes third party business amounting to
+Rs 182.90 crores i.e 94.24% of total meter segment.
+
+4.6. The details of functional segment, tested party, transfer pricing method
+and Profit Level Indicator (PLI) adopted by the assessee with respect to sale
+of finished goods (manufacturing segment - export) ; purchase of raw material
+/ finished goods (manufacturing segment - domestic) and purchase of finished
+goods (trading segment) have been presented below:-
+
+    
+    
+    Nature         of   Relevant          Most            Tested     Party Amounts (Rs.)
+    International       Segment           appropriate     for          the
+    Transactions                          method          transaction
+    Sale of finished    Manufacturing     TNMN            Appellant        9,73,74,896
+    goods               Segment- Export
+    Import of raw       Manufacturing     Cost      Plus Associated         1,06,57,099
+    materials      &    Segment-          Method (CPM)   Enterprise
+    components          Domestic
+    Purchase       of   Trading segment   Resale    Price Appellant           36,40,613
+    finished goods                        Method (RPM)
+    
+    
+    
+    
+
+4.7. The assessee has submitted in its TP study report , the segmentation of
+its business segments into manufacturing segment, trading segment and service
+segment. Furhter,  5 6 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016
+M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 the manufacturing segment was further classified into
+'manufacturing for the domestic market' and 'manufacturing for the export
+market' for transactions of purchase of raw material and sale of finished
+goods respectively. Each of the aforesaid segments of the assessee is based on
+uniqueness of functions performed and risks assumed. It submitted that the
+activities undertaken and the international transactions proposed to be
+benchmarked under the two segments are distinct from one another and hence the
+assessee had benchmarked the activities separately in its TP study report.
+
+5\. Sale of Finished Goods in Manufacturing Segment (Export) For the
+manufacturing segment with two further sub-segments of domestic sales and
+exports, the ld TPO found its bifurcation untenable because despite calling
+two sub- segments as two separate ones, the assessee had merely divided
+various costs on the basis of turnovers, except the Export Incentive and
+Excise Duty which had been done on the actual basis. The cost of raw materials
+and cost of manpower had merely been proportionately allocated. The ld TPO was
+of the view that the combined Profit Level Indicator (PLI) would reflect a
+more appropriate indicator.
+
+5.1. The assessee had justified the Arm's Length nature of the aforesaid
+international transactions selecting itself as the tested party wherein it
+benchmarked the PLI (OP / Sales) using Transaction Net Margin Method (TNMM).
+The benchmarking was done by the assessee by comparing its export segment net
+profitability of 29.15% with uncontrolled comparable companies at 5.17%
+operating in India and since the assessee's margin was more than the margin of
+comparable companies, the transaction was determined to be at ALP.
+
+5.2. The ld TPO accepted the selection of the tested party to be the assessee
+itself. He also accepted the TNMM as the MAM and the PLI of OP / Sales as
+chosen by the assessee. With regard to the benchmarking done by the assessee,
+the ld TPO ignored  6 7 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016
+M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 the relevant 'Manufacturing-Export Segment' (Rs 9.74
+crores) profitability and considered the margin of 'entire meter segment' (Rs
+194.07 crores) which also encompasses profit from third party transactions
+accounting for 95% of the total segment. As a result, the ld TPO identified
+comparable companies of his own to arrive at the arm's length margin of 15.61%
+thereby arriving at adjustment of Rs 1,51,98,611/- . This action of the ld TPO
+was approved by the ld Dispute Resolution Panel (DRP). Aggrieved, the assessee
+is in appeal before us.
+
+6\. Purchase of raw materials ( Manufacturing Segment - Domestic) The assessee
+had justified the Arm's Length nature of the aforesaid international
+transactions selecting the AEs as the tested party wherein it benchmarked the
+PLI [(Gross Profit (GP) / Direct and Indirect Cost of Production (DICOP) ]
+using Cost Plus Method (CPM). The benchmarking was done by the assessee by
+comparing the AEs profitability from sale of materials to assessee with sale
+of materials to similar companies operating in AEs region. As a result, the
+assessee found that the margins earned by the AEs were lower than the
+comparables' margin and accordingly the transaction was determined to be at
+ALP.
+
+6.1. The ld TPO selected the tested party to be the assessee itself. He
+adopted the TNMM as the MAM and the PLI of OP / Sales . With regard to the
+benchmarking done by the assessee, the ld TPO ignored the relevant
+'Manufacturing-Domestic Segment' (Rs 1.07 crores) profitability and considered
+the margin of 'entire meter segment' (Rs 194.07 crores) which also encompasses
+profit from third party transactions accounting for 99.45% of the total
+segment. As a result, the ld TPO identified comparable companies of his own to
+arrive at the arm's length margin of 15.61% thereby arriving at adjustment of
+Rs 16,64,527/- . This action of the ld TPO was approved by the ld Dispute
+Resolution Panel (DRP). Aggrieved, the assessee is in appeal before us.
+
+7 8
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12
+
+7\. Purchase of finished goods (Trading Segment) The assessee had justified
+the Arm's Length nature of the aforesaid international transactions selecting
+itself as the tested party wherein it benchmarked the PLI (Gross
+Profitability) using Resale Price Method (RPM). The benchmarking was done by
+the assessee by comparing its Trading Segment Gross Profitability of 33.48%
+with Gross Profitability of Uncontrolled Comparable Companies at 22.34%
+operating in India and since the assessee's margin was more than the margin of
+comparable companies, the transaction was determined to be at ALP. This
+approach was even adopted by the ld TPO and ld DRP in assessee's own case for
+the Asst Years 2007-08 and 2008-09.
+
+7.1. The ld TPO accepted the selection of the tested party to be the assessee
+itself. He adopted the TNMM as the MAM and the PLI of OP / Sales. With regard
+to the benchmarking done by the assessee, the ld TPO ignored the relevant
+'Trading Segment (Rs 0.36 crores) profitability and considered the margin of
+'entire meter segment' (Rs 194.07 crores) which also encompasses profit from
+third party transactions accounting for 99.81% of the total segment. As a
+result, the ld TPO identified comparable companies of his own to arrive at the
+arm's length margin of 13.45% thereby arriving at adjustment of Rs 4,90,394/-
+. This action of the ld TPO was approved by the ld Dispute Resolution Panel
+(DRP). Aggrieved, the assessee is in appeal before us.
+
+8\. The ld TPO rejected the transactional level analysis and adopted entity
+wide analysis for determination of ALP of international transactions. This
+action of the ld TPO was approved by the ld Dispute Resolution Panel (DRP).
+Aggrieved, the assessee is in appeal before us.
+
+9\. The ld AR argued that in transfer pricing analysis a transaction by
+transaction approach should be undertaken for bench marking analysis to
+determine the arm's length price of the international transactions being
+entered into. The principle of  8 9 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 undertaking transaction by transaction analysis for
+determination of arm's length price has been embedded under the Indian
+Transfer Pricing Regulations, OECD Transfer Pricing Guidelines, 2010 updated
+via Base Erosion and Profit Shifting Action Plan 8-10, 2015 (herein referred
+to as 'OECD TP Guidelines') and UN TP Manual, 2013. He drew our attention to
+Rule 10B(2) of the Income-tax Rules, 1962, which sets out the criteria for
+comparability of the transactions, wherein in sub-rule (a) and (b) sets out as
+under:-
+
+(a) the specific characteristics of the property transferred or services
+provided in either transaction ;
+
+(b) the functions performed, taking into account assets employed or to be
+employed and the risks assumed, by the respective parties to the transactions.
+
+9.1. He submitted that the functions performed and risk assumed by the
+assessee in case of the international transactions covered under the segments
+i.e 'Manufacturing - Domestic Segment', 'Manufacturing - Export Segment' and
+'Trading Segment' are distinct and separate from one another. It was explained
+that with regard to 'Manufacturing-Domestic Segment' , the assessee undertakes
+full-fledged marketing efforts to secure customer contracts. It has to ensure
+appropriate application of licensed technology from the AE for manufacturing
+of products to meet customer requirement and satisfaction. The assessee also
+has to bear product performance risks towards end customers, in addition to
+bearing the credit risk with respect to its domestic operations. Whereas under
+'Manufacturing-Export Segment' the assessee receives product specification
+from its AE and accordingly manufactures and supplies the product. It is not
+liable to end customers for product performance. It is also not undertaking
+any marketing efforts in the export market to secure contracts and does not
+bear any credit risk as it receives payment from its AEs. Further with regard
+to 'Trading Segment', the assessee purchases finished goods from AEs based on
+orders received from the Indian customers. The assessee performs the role of
+limited risk distributor for the said  9 10 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 activity. The assessee bears indirect market risk as it
+is only being remunerated for limited risk distribution activity.
+
+9.2. He argued that these functional and risk differences arising under the
+different segments were completely overlooked by the ld TPO and ld DRP. He
+further argued that with regard to sub-segments of Manufacturing Segment, the
+fact that market dynamics and economic circumstances of the Export and
+Domestic market cannot be compared due to varied factors. Further, the Export
+market is likely to have a different realization from the Domestic market and
+therefore the two sub-segments cannot be compared for analysis purposes.
+
+9.3. He again reiterated that the total value of international transactions
+was only Rs 11.17 crores (i.e sale of finished goods (export) - Rs 9.74 crores
+; purchase of raw materials and components in Manufacturing - Domestic segment
+- Rs 1.07 crores and purchase of finished goods in Trading Segment - Rs 0.36
+crores) , whereas the value of entire Meter Segment sales was Rs 194.07
+crores. He argued that how can the profitability from entire sales value of Rs
+194.07 crores would be a better reflection of Rs 11.17 crores of transaction
+value rather than profitability determined from Rs 11.17 crores transaction
+value itself. He submitted that the segmentation undertaken by the assessee
+was to achieve greater functional comparability and the benchmarking was also
+undertaken keeping in mind the specific characteristics of the international
+transactions captured within the relevant segments as per Rule 10B(2) of the
+Rules.
+
+9.4. In the context of comparability and FAR analysis, he placed reliance on
+the following paras of OECD Transfer Pricing Guidelines, 2010 updated via Base
+Erosion and Profit Shifting Action Plan 8-10, 2015 (herein referred to as
+'OECD TP Guidelines') since the Indian Transfer Pricing law is largely based
+on the principles and technicalities laid down in these guidelines :-
+
+10 11
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 D.1.2. Functional analysis Para 1.51. " In transactions
+> between two independent enterprises, compensation usually will reflect the
+> functions that each enterprise performs (taking into account assets used and
+> risks assumed). Therefore, in delineating the controlled transaction and
+> determining comparability between controlled and uncontrolled transactions
+> or entities, a functional analysis is necessary. This functional analysis
+> seeks to identify the economically significant activities and
+> responsibilities undertaken, assets used or contributed, and risks assumed
+> by the parties to the transactions. ........................... "
+
+9.5. He submitted that the ld TPO had failed to decipher that FAR analysis is
+one of the critical factors in establishing the ALP of the international
+transaction and reiterated the fact that functions undertaken and risks
+assumed for the aforesaid international transactions are completely different
+and hence a collective benchmarking analysis for the same would distort the
+principles of transfer pricing and will render the comparison defective. He
+stated that where the international transaction could be specifically related
+to a particular business segment of the assessee and the segmented result with
+respect to such segments could be obtained, use of segmented profitability
+would provide a better and more scientific method for determining the arm's
+length operations of the company rather than adopting an overall /entity level
+TNMM approach.
+
+9.6. The ld AR also submitted that as per para 2.78 of Chapter II - Transfer
+Pricing Methods of the OECD TP Guidelines under the caption 'Determination of
+Net Profit', it is stated as under:-
+
+> Para B.3.3. - Determination of the net profit " 2.78. Costs and revenues
+> that are not related to the controlled transaction under review should be
+> excluded where they materially affect comparability with  11 12 ITA Nos.584
+> & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 uncontrolled transactions. An appropriate level of
+> segmentation of the taxpayer's financial data is needed when determining or
+> testing the net profit it earns from a controlled transction (or from
+> transactions that are appropriately aggregated according to the guidance at
+> paragraphs 3.9 - 3.12). Therefore, it would be inappropriate to apply the
+> transactional net margin method on a company wide basis if the company
+> engages in a variety of different controlled transactions that cannot be
+> appropriately compared on an aggregate basis with those of an independent
+> enterprise."
+
+9.7. Accordingly the ld AR submitted that the assessee had carried out the
+benchmarking exercise based on the segmental profitability and the segmental
+statement reflects the profitability under relevant segments being
+'Manufacturing- Domestic' , 'Manufacturing- Export' and 'Trading Segment'. The
+assessee had considered the profitability from the relevant segment and
+benchmarked the same with the companies engaged in similar activities. On the
+basis of such analysis, the price of international transactions of purchase of
+materials & components, sale of finished goods and purchase of finished goods
+were determined to be at arm's length. He also submitted that as per Rule
+10B(1) of the Rules comprising of different methods of determination of ALP,
+the price / profit earned from the relevant international transaction should
+be tested. In this regard, he also placed reliance on the OECD TP Guidelines
+in para 3.9 of the document wherein it was stated as under:
+
+> 3.9 Ideally, in order to arrive at the most precise approximation of arm's
+> length conditions, the arm's length principle should be applied on a
+> transaction-by-transaction basis. However, there are often situations where
+> separate transactions are so closely linked or continuous that they cannot
+> be evaluated adequately on a separate basis....
+
+9.8. The ld AR also placed reliance on the United Nations TP Manual vide para
+B.2.3.1.11 of the document which states as under:-
+
+> Evaluation of separate and combined transactions  12 13 ITA Nos.584 &
+> 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 " B.2.3.1.11. The transfer pricing analysis should
+> ideally be made on a transaction-by- transaction basis. However, there are
+> cases where separate transactions are so closely linked that such an
+> approach would not lead to a reliable result. Where transactions are so
+> closely interrelated or continuous that application of the arm's length
+> principle on a transaction-by-transaction basis would become unreliable or
+> cumbersome, transactions are often aggregated for the purposes of the
+> analysis.".
+
+9.9. The ld AR argued that it could be observed from the above readings of
+International Guidelines that both OECD TP Guidelines and UN TP Manual have
+given primary preference to undertake a transaction by transaction analysis.
+It is only under certain exceptional circumstances, where separate transaction
+level analysis could not be undertaken or separate transactions are so closely
+inter-linked , that aggregation of transaction approach has been warranted.
+However, in the instant case, each of the transactions undertaken by the
+assessee on which TP adjustment has been imputed were distinct, independent
+and warrant separate analysis to determine the arm's length price. Like for
+instance, in sale of finished goods, the assessee manufactures and sells the
+goods based on the specification received from the AE wherein it does not
+undertake any marketing efforts nor does it bear any credit risk as it
+receives payment from its AEs. Whereas, with respect to purchase of
+components, the assessee needs to ensure that those are appropriately used in
+its manufacturing process to produce goods with desirable performance quality
+and meet end customers requirement. Thus, the two primary impugned
+transactions i.e sale of finished goods and purchase of raw materials are
+separate and distinct from each other and do require a separate transaction
+level analysis to determine arm's length price. In support of his contention,
+he placed reliance on the Co-ordinate Bench decision of Delhi Tribunal in the
+case of Benetton India (P) Ltd vs ITO reported in (2012) 134 ITD 229 (Delhi
+Trib.) wherein it was held that :-
+
+> 7 ... The first and foremost question in this case is to determine whether
+> the action of TPO in undertaking entity level bench marking by TNM method
+> combining all the international transactions is justifiable or the TP
+> analysis provided by assessee, based on "transaction to transaction" basis
+> in respect of different segments should be adopted.
+
+13 14
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 7.1 From the facts mentioned above, it is clear that
+> assessee's manufacturing export activities: buying/sourcing and commission
+> earning activities are independent of each other. Each activity has
+> different factors in respect of source, identification of vendors,
+> merchandise, designs quality control, handling etc. The FAR analysis in each
+> of the activity will have distinct and separate considerations.
+
+> 7.2 We find merit in the argument of the learned counsel that the TPO should
+> have accepted the method of assessee's benchmarking analysis on the basis of
+> transaction to transaction basis in respect of different segments of
+> assessee's international transactions with associated enterprises. In our
+> view, assessee's functions, risk and assets FAR considerations, which are
+> given in the above table, deserves to be merited. TPO did not appreciate the
+> assessee's transactions correctly and applied entity level bench marking on
+> TNMM method by combining assessee's all international transactions with
+> associated enterprise without justification.
+
+> 7.3 Our view is supported by ITAT judgments - Mumbai Bench in the cases of
+> UCB India (P) Ltd. Vs. ACIT (2009) 30 SOT 95 (Mum.); ACIT v. Star India Ltd.
+> (ITA NO.s 3585 & 3846 (M) of 2006); and Kolkata Bench in the case of
+> Development Consultants (P) Ltd. (2008) 23 SOT 455 (Kol.). All these cases
+> clearly lay down that ALP would be determined based on the nature of service
+> provided by assessee for each class of transaction based on various factors
+> and analysis. In the case of Star India Ltd. (supra), also the TPO treated
+> all the activities of the assessee as one and determined the ALP at entity
+> level without appreciating that one cannot compare the FAR of a principal
+> and agent on same footing.
+
+> 7.4. In our view, in the assessee's case there are different segmental
+> activities, which are independent of each other. They are required to be
+> analyzed on transaction to transaction basis and not by combining all
+> activities. Consequently, we uphold the assessee's method of ALP.
+
+Consideration of transaction by transaction approach for determination of the
+arm's length price has also been upheld in the following mentioned judicial
+precedents:
+
+> • Ankit Diamonds ( 2011) 43 SOT 523( Mumbai Trib.) • Avineon India (P) Ltd,
+> TS-308-ITAT-2013(Hyd)-TP • DCIT -vs- M/s Starlite (133 TTJ 425) (Mumbai
+> Trib.) • Symantec Software Solutions (P) Ltd., (2011) 46 SOT 48 (Mumbai
+> Trib) • Tecnimount ICB (P) Ltd., (2011) 11 taxmann.com 49 (Mumbai Trib.)
+> Accordingly, he argued that the 'transaction by transaction approach'
+> adopted by the assessee should be considered for benchmarking the
+> international transactions undertaken by the assessee.
+
+14 15
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 9.10. The ld AR also submitted that the consideration of
+transaction by transaction approach had been upheld by this tribunal in
+assessee's own case for the Asst Years 2007-08 and 2008-09 in ITA Nos. 37 &
+1623/Kol/2012 respectively dated 3.8.2016.
+
+10\. In response to this, the ld DR stated that the sale of finished goods in
+'Manufacturing Segment- Export' ; purchase of raw materials & components in
+'Manufacturing Segment - Domestic' are all interlinked and closely related
+with each other and for this purpose only, payment of royalty is also made by
+the assessee. The segmental bifurcation made by the assessee between two
+different segments have been duly rejected by the ld TPO as the basis of
+allocation of costs thereon was not properly done by the assessee. Even the
+United Nations TP Manual in para B.2.3.1.11 relied upon by the ld AR supports
+the case of the revenue in the facts of the instant case as the subject
+mentioned international transactions are closely related and hence only entity
+level approach would yield the desirable results for determination of ALP. He
+also stated that the AE profitability cannot be considered for benchmarking
+the profitability of international transactions carried out by the assessee.
+He stated that the provisions of the Act provides for adoption of bundled /
+composite approach for determination of ALP of international transactions. The
+assessee had merely camouflouged the entire gamut of transactions by
+bifurcating into different segments which are not at all required in the
+instant case. In support of his argument that bundled approach is permitted,
+he placed reliance on the OECD Guidelines under the caption 'Evaluation of a
+taxpayer's separate and combined transactions' in para 3.9 and 3.11 thereon
+which are reproduced hereunder:-
+
+> "3.9 Ideally, in order to arrive at the most precise approximation of arm's
+> length conditions, the arm's length principle should be applied on a
+> transaction-by- transaction basis. However, there are often situations where
+> separate transactions are so closely linked or continuous that they cannot
+> be evaluated adequately on a separate basis. Examples may include 1. Some
+> long-term contracts for the supply of commodities or services, 2. Rights to
+> use intangible property, and 3. Pricing a range of closely-
+
+15 16
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 linked products (e.g. in a product line) when it is
+> impractical to determine pricing for each individual product for
+> transaction. Another example would be the licensing of manufacturing know-
+> how and the supply of vital components to an associated manufacturer; it may
+> be more reasonable to assess the arm's length terms for the two items
+> together rather than individually. Such transactions should be evaluated
+> together using the most appropriate arm's length method. A further example
+> would be the routing of a transaction through another associated enterprise;
+> it may be more appropriate to consider the transaction of which the routing
+> is a part in its entirely, rather than consider the individual transactions
+> on a separate basis.
+
+> 3.11 While some separately contracted transactions between associated
+> enterprise may need to be evaluated together in order to determine whether
+> the conditions are arm's length, other transactions contracted between such
+> enterprise as a package may need to be evaluated separately. An MNE may
+> package as a single transaction and establish single price for a number of
+> benefits such as licenses for patents, know-how, and trademarks, the
+> provision of technical and administrative services, and the lease of
+> production facilities. This type of arrangement is often referred to as a
+> package of deal. Such comprehensive packages would be unlikely to include
+> sales of goods, however, although the price charged for sales of goods may
+> cover some accompanying services. In some cases, it may not be feasible to
+> evaluate the package as a whole so that the elements of the package must be
+> segregated. In such cases, after determining separate transfer pricing for
+> the separate elements, the tax administration should nonetheless consider
+> whether in total the transfer pricing for the entire package is arm's
+> length."
+
+In the instant case, the closely linked transactions of each international
+transaction are clearly established . He argued that the assessee had
+segregated the risks in page 187 of the paper book between Manufacturing-
+Domestic and Manufacturing -Export , which is not at all required. The
+assessee would not be floating separate tenders for Domestic or Export
+business. He also placed reliance on the decision of the Hon'ble Delhi High
+Court in the case of Sony Ericsson Mobile Communications India (P) Ltd vs CIT
+reported in (wherein bundled approach was permitted. ) 374 ITR 118 (Del)
+wherein the principle of bundled approach had been accepted by the Hon'ble
+Delhi High Court.
+
+11\. We have heard the rival submissions and perused the materials available
+on record including the paper books filed by the assessee. We find that the
+growing importance of international trade, globalization and rapid rise in the
+number of Multinational  16 17 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 Enterprises (MNEs) has resulted in exhaustive and
+meticulous research and studies in this complex area of determination of
+transfer price and shifting of profits from one country to another country
+pursuant to transactions with AEs. The transfer pricing methods have seen a
+measure of standardization, universal recognition and acceptability. Indian
+transfer pricing regulations have adopted and benefitted, from the
+international framework. The OECD Transfer Pricing guidelines for MNEs and tax
+administration and United Nations' Practical Manual on Transfer Pricing do
+reflect the international understanding on several aspects relating to
+transfer pricing. We have taken note of the saem and had referred to the two
+guidelines as it is found to be conducive and helpful in deciding the issues.
+
+11.1. Sub-section (1) to Section 92 states that any income arising from an
+international transaction shall be computed having regard to arm's length
+price. It includes expense or interest arising from an international
+transaction. Sub-Section (2) is an adjunct and intrinsically connected with
+Sub- Section (1) to Section 92. It stipulates that Sub- Section (1) shall be
+applicable when two or more AEs enter into a mutual agreement or arrangement
+for allocation, apportionment or contribution to any cost, expense incurred or
+to be incurred in connection with benefit, service or facility provided or to
+be provided. An international transaction, therefore, means transaction
+between two or more AEs when either one or both are non-resident; the
+transaction should be in nature of sale, purchase or lease of tangible or
+intangible property or in the nature of provision for services or lending of
+money or any other transaction having bearing on the profits, income, losses
+or assets. A mutual agreement or arrangement for allocation of expenses would
+also be an international transaction. Section 92F defines the term
+"transaction" broadly and is a very wide definition, and we observe, that
+clause (v) thereof stipulates that an arrangement, understanding or action in
+concert would be a transaction whether or not such arrangements, etc. are
+formal or in writing or whether or not such  17 18 ITA Nos.584 & 687/Kol/2015
+ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 arrangements are legally enforceable. From the above, we
+find that the definition of 'transaction' in section 92F(v) of the Act is an
+inclusive definition. We also find that Rule 10A(d) of the Rules defines
+'transaction' as under:-
+
+'Transaction' includes a number of closely linked transactions.
+
+11.2. The determination of ALP vis a vis the assessment of real income under
+the Act had been discussed elaborately in the decision of the Hon'ble Delhi
+High Court in the case of Sony Ericsson Mobile Communications India (P) Ltd vs
+CIT reported in (2015) 374 ITR 118 (Del) wherein it was held :-
+
+> 77\. As a concept and principle Chapter X does not artificially broaden,
+> expand or deviate from the concept of "real income". "Real income", as held
+> by the Supreme Court in Poona Electricity Supply Co. Ltd. v. CIT [1965] 57
+> ITR 521, means profits arrived at on commercial principles, subject to the
+> provisions of the Act. Profits and gains should be true and correct profits
+> and gains, neither under nor over stated. Arm's length price seeks to
+> correct distortion and shifting of profits to tax the actual income earned
+> by a resident/domestic AE. The profit which would have accrued had arm's
+> length conditions prevailed is brought to tax. Misreporting, if any, on
+> account of non- arm's length conditions resulting in lower profits, is
+> corrected.
+
+11.3. The assessee had undertaken the transactional level analysis which has
+been rejected by the ld TPO and ld DRP. We find that while undertaking the
+transactional level analysis, the assessee had submitted the copy of certified
+segmental statement reflecting profitability earned by it under its various
+segments being 'Manufacturing- Domestic', 'Manufacturing-Export' and 'Trading'
+Segment, which is as under:-
+
+18 19
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 However, the ld TPO rejected the segmental statement
+stating that the broad segmentation of manufacturing and trading is not backed
+by any documentary evidence and it is a far-fetched approach. Further, it
+raised various other apprehensions being:-
+
+(i) basis of allocation of expenses is not justifiable as direct cost
+allocation is higher in case of domestic segment as against export segment
+
+(ii) segmental statement is not part of the audited financial accounts.
+
+11.4. The assessee had addressed the aforesaid apprehensions in the following
+manner:-
+
+(i) Basis of allocation of expenses is not justifiable The assessee submitted
+that the segmental analysis has considered all direct costs apportionment on
+actual basis and indirect costs apportioned on sales basis. The direct costs
+incurred with respect to each segment which forms nearly 50% of total costs
+has  19 20 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis +
+Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 been identified on actual basis. It is only the indirect
+overheads wherein one to one mapping of expense could not be ascertained has
+been allocated on the size of the activity in each segment. Hence the ld TPO's
+contention that direct cost allocation has been higher in case of domestic
+segment as against export segment is not warranted as allocation has been on
+actual basis.
+
+(ii) Segmental statement is not part of audited financial accounts The
+assessee submitted that there is no statutory requirement of maintaining a
+separate segmental accounts reflecting profitability earned by the assessee
+from its international transactions. The Accounting Standard (AS) 17 issued by
+the Institute of Chartered Accountants of India (ICAI) requires reporting of
+financial information or result about the different types of products or
+services that the business segment produces and there is no requirement of
+reporting details for transaction with related parties and unrelated parties
+separately. In addition, there is no statutory requirement of the segmental
+accounts of being audited or certified by any independent agency and neither
+these are required to be part of audited financial statements. However, the
+assessee still submitted the copy of segmental accounts certified by an
+independent Chartered Accountant before the ld TPO / ld DRP.
+
+11.5. We find that the reliance has been placed by the ld DR on the decision
+of the Hon'ble Delhi High Court in the case of Sony Ericsson Mobile
+Communications India (P) Ltd vs CIT reported in (2015) 374 ITR 118 (Del) for
+adoption of bundled approach, wherein it was held as under:-
+
+> G. Section 92(3) of the Act and Bundled/Inter-Connected Transactions
+
+> 79\. At this stage and before we examine the TNM Method exhaustively, we
+> deem it necessary to interpret and refer to in some detail sub-section (1)
+> to Section 92C and reference to the term 'transaction' with the vowel 'an',
+> which has been interpreted by the majority judgment of the Tribunal to mean
+> a single independent transaction and not a  20 21 ITA Nos.584 & 687/Kol/2015
+> ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 group or bundle of transactions. We do not think that use
+of vowel 'an' or the word 'transaction' instead of the word 'transactions'
+should be given undue notability and prominence. One of the primary rules of
+statutory construction is that singular includes plural and vice-versa. This
+rule applies unless a contrary intention is manifest and exhibited. Merely
+because a statutory provision is drafted in singularity as opposed to
+plurality, is not enough to exclude application of the general rule that
+singular includes plural. The rule is not to be discarded on the ground that
+the relevant provision is singular or plural and the subsidiary and ancillary
+provision follow the same pattern. Contrary intention to exclude this generic
+rule is not to be lightly inferred. Contrary intention is not assumed or
+formed by confining attention to a specific provision but it would be apposite
+to consider the provision in the setting and placement of the legislation. It
+is a substance and tenure of the statute which would be meaningfully and
+critically determinative. This is the mandate of Section 13(2) of the General
+Clauses Act, 1897 (see Newspapers Ltd. v. State Industrial Tribunal AIR 1957
+SC 532, Narshimha Murthy v.Susheelabai [1996] 4 SCC 644, J. Jayalalitha v.
+Union of India [1999] 5 SCC 138, Blue Metal Industries Ltd. v. RW Dilley
+[1960] 3 All ER 437, Floor v. Davis Inspector of Taxes [1979] 2 All ER 677,
+Sin Pon Amalgamated (H.K.) Ltd. v. Attorny General [1965] 1 All ER 225 (PC)
+
+80\. The use of expression 'class of transaction', 'functions performed by the
+parties' in Section 92C(1) illustrates to the contrary, that the word
+'transaction' can never include and would exclude bundle or group of connected
+transactions. More important would be reference to meaning of the term
+'transaction' in Section 92F, clause (v), which as per the said definition
+includes an arrangement or understanding or action in concert whether or not
+the same is formal or in writing, whether or not it is intended to be
+enforceable by legal proceedings. Rule 10A in clause (d) states that "for the
+purpose of this Rule and Rules 10AB and 10E", the term 'transaction' would
+"include a number of closely linked transactions". This Rule in positive terms
+declares that the legislative intent is not to deviate from the generic rule
+that singular includes plural. The meaning or definition of the expression
+'transaction' in clause (d) to Rule 10A read with sub- section (1) to Section
+92C, therefore, does not bar or prohibit clubbing of closely connected or
+intertwined or continuous transactions. This is discernible also from sub-
+rule (2) to Rule 10B quoted above. The sub-rule refers to 'services provided',
+'functions performed', 'contractual terms (whether or not such terms are
+formal or in writing) of the transactions' which lay down explicitly or
+impliedly the responsibilities, risks and benefits to be divided between the
+respective parties to the transactions. Use of plurality by way of necessity
+and legislative mandate is evident in the said Rule.
+
+81\. Similarly, sub-rule (3) to Rule 10B refers to transactions being compared
+or comparison of the enterprises entering into such transactions likely to
+affect the price or cost charged etc. A reading of Rule 10C reassures and
+affirms that the general principle of plurality is not abandoned or discarded.
+
+82\. There is considerable tax literature and text that CUP Method, i.e.
+Comparable Uncontrolled Price Method, RP Method, i.e. Resale Price Method and
+CP Method, i.e. Cost Plus Method can be applied to a transaction or closely
+linked, or continuous  21 22 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 transactions. Profits Split Method and TNM Method grouped
+as 'transactional profit methods', can be equally effective and reliable when
+applied to closely linked or continuous transactions. Thus, it would be
+inappropriate to proceed with the arm's length computation methods, with a
+pre-conceived suppositions on singularity as a statutory mandate. Clubbing of
+closely linked, which would include continuous transactions, may be
+permissible and not ostracized. Aggregation of closely linked transactions or
+segregation by the assessed should be tested by the Assessing Officer/TPO on
+the benchmark and the exemplar; whether such aggregation/ segregation by the
+assessed should be interfered in terms of the four clauses stipulated in
+Section 92C(3) of the Act, read with the Rules. It would, among other aspects,
+refer to the method adopted and whether reliability and authenticity of the
+arm's length determination is affected or corrupted.
+
+83\. We now proceed to examine the TNM Method, whether there is prohibition in
+applying this method on entity to entity basis, and if not, when is it
+permissible to apply entity to entity comparison. The discussion would also
+answer the question, when is clubbing or bunching or transactions permissible
+in TNM Method.
+
+11.6. Hence it could be seen from the underlined portions of the aforesaid
+judgment, the Hon'ble Court was only trying to concur with the adoption of
+bundled approach as an exception by stating that it is also permissible and
+accepted. But the Hon'ble Court had stated the same with a rider that the said
+approach should be tested on the benchmarking done on the various transactions
+of the assessee in terms of four clauses stipulated in section 92C(3) of the
+Act read with the Rules. Hence it could be safely concluded that the bundled
+approach could be adopted only after passing the test contemplated above and
+it is not automatic application or it is not the mandate of law. The bundled
+approach, in our considered opinion, was only stated as one of the permissible
+methods depending upon the international transactions of the assessee with its
+AEs. In the instant case, the assessee had undertaken the transactional level
+analysis by considering the certified segmental statement profitability earned
+by it under its various segments being 'Manufacturing-Domestic',
+'Manufacturing-Export' and 'Trading' Segment. Infact we find that the
+arguments of the ld DR are duly answered in para 3.9 of the OECD Transfer
+Pricing Guidelines for MNEs and Tax Administrations in Chapter III which are
+reproduced hereinabove. It states that only in the event of assessee not able
+22 23 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr
+Ltd.
+
+A.Yr.2010-11 & 11-12 to benchmark the transactions independently, then bundled
+approach could be adopted. In the instant case, the assessee was able to
+prepare the segmental profitability statement for each of its segments and
+prove the ALP thereon with respect to its comparables. Hence we hold that the
+said approach should be adopted in the place of bundled approach adopted by
+the ld TPO / ld DRP. Accordingly, we hold that the reliance placed by the ld
+DR on the decision of Sony Ericsson supra does not advance the case of the
+revenue. In any case, the aggregation is to be done only for international
+transactions and not for domestic transactions as has been done in the instant
+case by the ld TPO. We find lot of force in the argument of the ld AR that the
+ld TPO had accepted Resale Price Method for purchase of finished goods
+(Trading segment) in Asst Year 2011-12 (which will be dealt separately in this
+order) and hence the same could not have been bundled. The total value of
+international transactions in three segments is only Rs 11.17 crores out of
+total turnover of the entire meter segment of Rs 194.07 crores which works out
+to only 5.75% and the remaining 94.25% represents domestic transactions. Hence
+the comparison based on aggregation of both domestic and international
+transactions would only project distorted figures and would result in
+absurdity. We also place reliance on the decision of the Hon'ble Bombay High
+Court in the case of Tara Jewels Exports Pvt Ltd reported in
+TS-481-HC-2015(BOM)-TP wherein it was held that international transactions
+only are to be considered for purpose of PLI computation. Similar decision was
+rendered by the Hon'ble Bombay High Court in yet another case of Syscom
+Corporation Ltd reported in TS-808-HC-2016(BOM)-TP wherein it was held that TP
+adjustment is to be restricted only to international transaction.
+
+11.7. We also find that in Asst Year 2007-08 in assessee's own case in ITA No.
+37 /Kol/2012 dated 3.8.2016 , this tribunal had held as under:-
+
+> 5.2.13. We find that the ld DRP failed to understand the benchmarking
+> approach as submitted by the assessee. The ld DRP did not recognize the fact
+> that assessee was comparing AEs margin with comparable companies in AEs
+> region rather than  23 24 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+> 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 comparing the latter with assessee's margin earned in
+> India (vide page 316 of the Paper Book). Thus the ld DRP summarily rejected
+> the transaction by transaction approach adopted by the assessee. We find
+> that the revenue had not brought anything concrete on records either
+> factually or legally to negate the assessee's approach of determining the
+> Arm's Length Transaction Price.
+
+11.8. We also find that in Asst Year 2008-09 in assessee's own case in ITA No.
+1623/Kol/2012 dated 3.8.2016, this tribunal had held as under:-
+
+> 6.3.1. .................................
+
+> Since the assessee was able to appropriately segregate its business
+> operations in to its various business / functional segments, the arm's
+> length nature of the international transaction(s), which could be directly
+> related to such segments, should be determined base don th relevant
+> segmented profitability.
+
+> We draw support from the following decisions in support of this
+> proposition:-
+
+> Benetton India P Ltd vs ITO reported in (2012) 134 ITD 229 (Delhi Trib.)
+> Birlasoft (India) Ltd vs DCIT reported in (2011) 44 SOT 664 (Delhi Trib.)
+> General Motors India Pvt Ltd vs DCIT reported in (2013) 146 ITD 559 (Ahd
+> Trib.) Moreover, we find that the ld TPO had accepted the certified
+> segmental profitability as he has considered 'Manufacturing Segment'
+> profitability from the same. However, he did not consider the sub-segment
+> profitability of Manufacturing Segment into Manufacturing (Domestic) segment
+> and Manufacturing (Export) segment based on difference in FAR analysis to
+> determine the profitability from sale of finished goods. The ld AR further
+> stated that the ld TPO in the earlier years has considered prices of
+> international transaction pertaining to export of goods to AEs to be at
+> Arm's Length wherein the assessee followed the same economic analysis to
+> determine the Arm's Length Price.
+
+> In view of the aforesaid findings and in the facts and circumstances of the
+> case and respectfully following the judicial precedents relied upon
+> hereinabove, we direct the ld TPO / ld AO to consider the certified
+> segmental profitability to determine the Arm's Length Price of the relevant
+> international transactions and hereby reject the combined segment approach
+> adopted by the ld TPO.
+
+11.9. The ld AR also pointed out that the revenue had not preferred any
+further appeal to the Hon'ble Calcutta High Court against the order of this
+tribunal for the Asst Years  24 25 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 2007-08 and 2008-09 and hence as such the matter had
+reached finality and revenue had accepted the verdict of this tribunal in
+assessee's own case. Hence we hold that the certified segmental statement
+reflecting separate profitability under different segments are to be
+considered for the purpose of benchmarking the transaction of (i) sale of
+finished goods , (ii) purchase of materials and components and (iii) purchase
+of finished goods. Accordingly, the Ground No. 3 raised by the assessee for
+Asst Year 2010- 11 is allowed.
+
+12\. Sale of Finished Goods - Manufacturing Export Segment During the
+Financial Year 2009-10, the assessee manufactured and sold electric meters and
+components worth Rs. 194.07 crores out of which goods worth Rs. 9.74 crores
+were exported to AE. The details of the same are enclosed in page 1296 of Part
+3 of the Paper Book. For the purpose of determination of Arm's Length Price ,
+the assessee undertook a detailed functional analysis and determined itself to
+be a tested party to the transaction. The assessee undertook segmental level
+profitability analysis to determine the profit earned from export of finished
+goods. The assessee also submitted a certified copy of the segmental
+profitability analysis before the ld TPO and ld DRP. On evaluation of the
+methods prescribed under the TP regulations, the assessee considered TNMM as
+the MAM and OP/Sales as the most appropriate PLI, which has been accepted by
+the ld TPO / ld DRP. Thereafter, the assessee undertook a scientific search
+process to identify uncontrolled comparable companies having a reasonable
+level of revenue from export sales. The details of the same are enclosed in
+page 187 of the Paper Book.
+
+12.1. Twelve comparable companies were identified to be dealing in
+manufacturing of meter business having substantial level of export sales by
+the assessee. The margins for the comparable companies have been erroneously
+computed by the ld TPO and hence the correct margins as computed from the
+audited financial statements have been  25 26 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 considered by the assessee. On comparing the average
+OP/Sales of these comparable companies at 5.17% based on single year data with
+OP/Sales earned by the assessee at 29.15% from sale of finished goods under
+the 'Manufacturing-Export Segment', the transaction value was determined to be
+at arm's length. The details of the same are available in page 195 of Vol. I
+read together with page 1296 of Vol. III of the Paper Book. We also find that
+similar decision was rendered in assessee's own case, on due appreciation of
+similar facts, by this tribunal for the Asst Years 2007-08 and 2008-09 in ITA
+Nos. 37 & 1623/Kol/2012 dated 3.8.2016 for considering the segmental level
+profitability as submitted by the assessee for determining the ALP of this
+international transaction. The ld AR also pointed out that the revenue had not
+preferred any further appeal to the Hon'ble Calcutta High Court against the
+order of this tribunal for the Asst Years 2007-08 and 2008-09 and hence as
+such the matter had reached finality and revenue had accepted the verdict of
+this tribunal in assessee's own case. Hence we hold that the value of export
+sales of finished goods of the assessee under 'Manufacturing Segment - Export'
+is at arm's length and no adjustment is warranted thereon. Accordingly the
+Ground No. 5 raised by the assessee for the Asst Year 2010-11 is allowed.
+
+13\. Purchase of materials / components - 'Manufacturing Segment - Domestic'
+With respect to the above, an adjustment computed as a percentage of
+transaction value to the total costs of the Meter Segment was undertaken by
+the ld TPO. The value of purchase of materials / components from its AE was Rs
+1,06,57,099/- (Rs 1.07 crores) which works out to 0.55% of total turnover of
+meter segment of Rs 194.07 crores. We find that the assessee is trying to
+justify its Arm's length price by following transaction- by-transaction
+approach, encompassed in its 'Manufacturing Domestic' segment, by selecting
+CPM as the MAM and selecting its AEs as the tested party. The PLI adopted by
+the assessee was GP / DICOP. The assessee had benchmarked the margins retained
+by AEs by supplying the materials and components to the assessee with
+companies  26 27 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s
+Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 engaged in similar activities, details of which are
+enclosed in pages 195 to 198 of Part 1 of Paper Book. The assessee has
+submitted the economic analysis for the consideration of the lower authorities
+, wherein AEs were selected as tested party for the analysis and profitability
+retained by them were benchmarked. The assessee provided the ld TPO with the
+details of margins earned by the AEs on supply of materials to the assessee.
+Accordingly, the comparable companies were identified and arithmetic mean was
+computed. The prices of such transfer of materials and components wre
+determined to be at arm's length.
+
+13.1. Detailed benchmarking analysis as submitted before the ld DRP and ld TPO
+has been provided by the assessee in pages 240-251 of Part 1 of Paper Book. A
+summary of the said benchmarking study has been provided herein below:-
+
+    
+    
+    Pricing             Arm's length       Pricing methodology Arm's length Price
+    methodology         Price of the       followed by Landis of the comparable
+    followed   by       comparable         Greece              companies in Greece
+    Landis USA          companies in                           region
+                        US region
+    
+    GP/DICOP       - GP/DICOP        -     GP/DICOP - 4.81%            GP/DICOP - 50.26%
+    5.26%            40.80%
+    
+    
+
+The margin retained by AEs of the assessee were less than the margin earned by
+comparable companies in their region and accordingly the transaction price of
+supply of materials and components to assessee was determined to have been
+undertaken at arm's length by the AE.
+
+13.2. However, the ld TPO rejected the aforesaid benchmarking analysis and in
+the remand report dated 18.12.2014 mentioned the following points fo rejection
+:-
+
+a. stating that information available from the certificates runs contrary to
+the claim of the assessee regarding AEs suffering loss in respect of their
+transaction with AEs .
+
+27 28
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 It was explained that the ld TPO erred in computing
+margin on sales as against margin on cost computed by the assessee.
+
+b. database of foreign companies is not available to ld TPO's office, hence
+veracity of data could not be verified.
+
+It was explained that merely because the access to foreign databases is not
+available with the ld TPO, the same could not be considered as a reasonable
+cause to reject the foreign comparable companies.
+
+13.3. We find from the above that the ld TPO had failed to bring anything
+concrete on records to negate the assessee's approach of determining the ALP
+of purchase of materials and components from its AEs. We also find that the
+aforementioned benchmarking analysis of considering the AEs as tested party
+and benchmarking their margins (earned from sael of materials to assessee)
+with the margins of comparable companies in AEs region, has been upheld by
+this tribunal, on due appreciation of the similar facts, in assessee's own
+case for the Asst Years 2007-08 and 2008-09 vide order dated 3.8.2016 wherein
+it was held :-
+
+> 5.2.12. We find that in the transfer pricing analysis with respect to
+> purchase of materials, the ld TPO had continued to select assessee as the
+> tested party for imports of raw materials of Rs. 2.31 crores which is
+> consumed in the manufacturing segment with a turnover of Rs. 90.45 crores.
+> The margin earned from the entire segment cannot be a representation of
+> 2.55% of the international transaction encompassed therein. Hence the
+> selection of the assessee as the tested party would result in an abnormal
+> outcome in the transfer pricing adjustments. The same could be observed from
+> the fact that post applying TNMM, the ld TPO produced an outcome wherein the
+> value of TP adjustment (as initially arrived of Rs. 8.90 crores) was
+> determined to be more than the value of international transactions of Rs.
+> 4.25 crores which is practically not possible. Therefore, to cover up the
+> fallacy in its approach of transfer pricing analysis, the ld TPO then
+> proportionated the value of adjustment to the value of international
+> transaction encompassed in the manufacturing segment to arrive at an
+> adjustment value  28 29 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+> 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 of Rs. 43,27,604/-. We find that this is modified
+> application of TNMM and not either as per the intention of the Act or OECD
+> Guidelines. Hence with regard to correct application of CPM or TNMM, the
+> Associated Enterprises of the assessee should be selected as tested party to
+> the transaction, as being the least complex entity. Subsequently, an
+> analysis of gross margin or net margin by applying either CPM or TNMM
+> retained by AEs should be undertaken for benchmarking the transaction price
+> pertaining to purchase of materials and components. In this regard, we find
+> that the assessee had submitted the economic analysis for the consideration
+> of ld DRP and ld TPO in the course of proceedings wherein AEs were selected
+> as tested party for the analysis and profitability retained by them were
+> benchmarked. The assessee provided the ld TPO with the group transfer policy
+> wherein it was stated that the supplier of the components would retain a
+> maximum margin of 5% on costs on supply of materials to members of the group
+> (vide page 215 of the paper book). Accordingly, the comparable companies
+> were identified and arithmetic mean was computed. The prices of such
+> transfer of materials and components were determined to be at Arm's Length.
+> The detailed benchmarking analysis as submitted before the ld DRP and ld TPO
+> is enclosed in pages 211 to 227 of the Paper book. However, we find that the
+> ld TPO in his remand report dated 8.8.2011 had rejected the analysis on the
+> following grounds (vide pages 228 to 236 of the Paper Book) :-
+
+> ....................................
+
+> 5.2.13. We find that the ld DRP failed to understand the benchmarking
+> approach as submitted by the assessee. The ld DRP did not recognize the fact
+> that assessee was comparing AEs margin with comparable companies in AEs
+> region rather than comparing the latter with assessee's margin earned in
+> India (vide page 316 of the Paper Book). Thus the ld DRP summarily rejected
+> the transaction by transaction approach adopted by the assessee. We find
+> that the revenue had not brought anything concrete on records either
+> factually or legally to negate the assessee's approach of determining the
+> Arm's Length Transaction Price.
+
+The ld AR also pointed out that the revenue had not preferred any further
+appeal to the Hon'ble Calcutta High Court against the order of this tribunal
+for the Asst Years 2007- 08 and 2008-09 and hence as such the matter had
+reached finality and revenue had accepted the verdict of this tribunal in
+assessee's own case. Accordingly we hold that the transactions of purchase of
+raw materials and components carried out by the assessee was at arm's length.
+Accordingly, the Ground No. 4(a) raised by the assessee for the Asst Year
+2010-11 is allowed.
+
+14\. Purchase of finished goods - Trading Segment  29 30 ITA Nos.584 &
+687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 We find that the assessee had justified the Arm's Length
+nature of the aforesaid international transactions selecting itself as the
+tested party wherein it benchmarked the PLI (Gross Profitability) using Resale
+Price Method (RPM). The benchmarking was done by the assessee by comparing its
+Trading Segment Gross Profitability of 33.48% with Gross Profitability of
+Uncontrolled Comparable Companies at 22.34% operating in India and since the
+assessee's margin was more than the margin of comparable companies, the
+transaction was determined to be at ALP. This approach was even adopted by the
+ld TPO and ld DRP in assessee's own case for the Asst Years 2007-08 and
+2008-09. There is no dispute on the selection of assessee itself as the the
+tested party. The dispute is with regard to the adoption of MAM and PLI by the
+ld TPO . The ld TPO adopted TNMM as the MAM and PLI of OP/Sales. With regard
+to the benchmarking done by the assessee, the ld TPO ignored the relevant
+'Trading Segment (Rs 0.36 crores) profitability and considered the margin of
+'entire meter segment' (Rs 194.07 crores) which also encompasses profit from
+third party transactions accounting for 99.81% of the total segment. The ld
+TPO considered the profitability of comparable companies from database and
+imputed adjustment as the profitability earned by the assessee under the
+trading segment was lower than the average industry margin. We find that this
+tribunal in assessee's own case for the Asst Years 2007-08 and 2008-09 vide
+its order dated 3.8.2016 had directed to consider the profitability of the
+comparable companies from audited financial statements for more authenticity
+of the data and compute the average margin accordingly. If the same is done,
+then the transaction was determined to be at arm's length as the profitability
+earned by the assessee under the trading segment was higher than the average
+industry margin. We also find that the ld TPO had combined the trading segment
+with the manufacturing segment of the assessee to separately benchmark the
+transaction of purchase of finished goods. In doing so, we find that the ld
+TPO had contradicted his own stand from earlier years of considering the
+profitability of relevant segment (i.e for benchmarking the transaction
+encompassed under that segment) and ended up considering the combined
+profitability from both  30 31 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 manufacturing and trading operations for the analysis. We
+find that the average margin of comparable companies chosen by the ld TPO was
+22.34% based on single year data, whereas assessee's margin was 33.48% using
+RPM as the MAM. The average margin of comparable companies chosen by the ld
+TPO using TNMM as the MAM was 6.93%. Hence in any case, we find that the
+assessee's margin of 33.48% was higher than the average industry margin of
+comparable companies. Hence we hold that no adjustment is warranted to the ALP
+determined by the assessee in respect of purchase of finished goods.
+Accordingly, the Ground No. 4(b) raised by the assessee for the Asst Year
+2010-11 is allowed.
+
+15\. The Ground Nos. 6 & 7 raised by the assessee were stated to be not
+pressed during the course of hearing. The same is reckoned as a statement from
+the Bar and accordingly the Ground Nos. 6 & 7 raised by the assessee for the
+Asst Year 2010-11 are dismissed as not pressed.
+
+16\. Disallowance of Depreciation on Intellectual Property Rights The assessee
+is a closely held company engaged in the business of manufacturing and
+distribution of electric meters and related components. The assessee had been
+a manufacturer and supplier of electro-mechanical meters till 2005 while the
+market had migrated from electro-mechanical meters to static meters due to
+availability of anti tampering features and communication facilities in static
+meters. It also did not have any dedicated Research & Development wing to
+support any electronic business. The Central Electricity Authority vide its
+notification no. 502/70/CEA/DP&D dated 17.3.2006 notified the Central
+Electricity Authority (Installation and operation of meters) Regulations, 2006
+which inter alia, provided that all interface meters, consumer meters and
+energy accounting and audit meters shall be of static type. The meters not
+complying with these regulations were to be replaced as per the direction of
+the Central  31 32 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s
+Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 Electricity Authority. Faced with this challenge ,
+assessee wanted to quickly set up its R&D department and acquire some of the
+intellectual property in this field. Accordingly, it acquired a sole
+proprietorship unit named "Technology & Research - STPI (TECRES)" vide
+Business Transfer Agreement dated 12.11.2006. The sole proprietorship concern
+was run by Mr. Guljeet Singh Gandhi ( an unrelated party to the assessee). Mr
+Gandhi through his business unit named TECRES had developed certain metering
+related software and was engaged in the business of sale (both domestic and
+export) of such software along with related services. Research and development
+expenses were incurred in the said business. Mr Gandhi and his personnel
+through their technical intelligence and expertise developed know-how for
+producing metering related softwares. Since TECRES possessed the requisite
+know-how, a key to survival in the market for static meters, the assessee
+entered into Business Transfer Agreement for acquisition of business of
+TECRES. The entire team of the said TECRES along with their developed codes
+and domain repository had joined the assessee pursuant to the Business
+Transfer Agreement. The intellectual property rights acquired by the assessee
+consisted of designs, software, data base, research and development material
+and facility, technical know-how, process know-how , confidential information,
+basic and detailed drawings, operation and maintenance manuals relating to the
+business carried out by TECRES. The ld AO observed that the Income Tax Rules
+recognizes intangible assets such as knowhow, patents, copyrights, trademarks,
+licences, franchises or any other business or commercial rights of similar
+nature and these assets must possess certain certification / authenticity /
+sanctity and or recognition from Government or from competent authority. He
+further observed that the nature of the IP assets acquired by the assessee
+does not fall in any of the category or similar nature as mentioned in IT
+Rules. Therefore, he held that the assets are not intangible assets eligible
+for depreciation and disallowed the claim of Rs. 60,53,906/- on the opening
+written down value of intellectual property assets. This disallowance was
+upheld by the  32 33 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s
+Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 ld DRP on the ground that similar disallowance had been
+made for Asst Years 2007-08 and 2008-09 in assessee's own case. Aggrieved, the
+assessee is in appeal before us.
+
+16.1. The ld AR argued that the ld AO erred in alleging that the intellectual
+property needs to have recognition from government and does not fall in any of
+the category of intangible assets as mentioned in the Income Tax Rules and
+accordingly denied the claim of depreciation. He argued that the TECRES, which
+was taken over from Mr. Gandhi had total assets of Rs 40.17 lakhs and current
+liabilities of Rs. 4.69 lakhs, was evaluated at Rs. 4.92 crores wherein the
+major share of the consideration was attributed towards the intellectual
+property the said business possessed. The entire team together with the domain
+knowledge had been transferred to the assessee pursuant to the agreement. The
+same had been used by the assessee for its very survival in the business of
+static meters to be in line with the regulations of the Central Electricity
+Authority and hence the use of intellectual property for the purpose of
+business had been duly demonstrated by the assessee. He argued that the
+allegation of the ld DRP is without any basis by ignoring the fact that the
+knowhow in the instant case has been actually acquired by paying a
+consideration of Rs.4.92 crores (pursuant to independent valuation by an
+expert) to Mr Gandhi pursuant to business transfer agreement. He argued that
+the provisions of the Act in more than one section had, in its wisdom, had
+defined intangible assets as knowhow, patents, copyrights, trademarks,
+licenses , franchises or any other business or commercial rights of similar
+nature. Hence knowhow is an independent item of intangible asset. Similarly
+patent is an independent item of intangible asset. The ld DRP had erred in
+mixing the term patent with knowhow and observed that since the knowhow
+acquired had not been registered with Indian Government and hence the same
+does not have any recognition from Government and accordingly does not fall in
+the category of intangible assets. He further argued that there is no mandate
+in the law that the knowhow needs to be registered with the Indian  33 34 ITA
+Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 Government to fall under the category of intangible asset
+for claiming depreciation u/s 32 of the Act.
+
+16.2. The Learned DR argued that the IP's acquired by the assessee have not
+been approved by any authority and hence not recognized by the Indian
+Government. Hence the claim of purchase of IP from a private unrelated entity
+is merely a self serving statement and not supported by any evidences. He
+further argued that the unit having assets of just Rs 40.17 lakhs had been
+given a fancy valuation of Rs. 4.92 crores which is very unlikely. Moreover,
+the components of assets predominantly comprised of computers worth Rs 1.93
+lakhs and Software of Rs 1.34 lakhs, Furniture of Rs. 10.84 lakhs , Car of Rs.
+8.56 lakhs, among others.
+
+16.3. We have heard the rival submissions. We find that this issue is already
+settled in favour of the assessee in its own case by the order of this
+tribunal for Asst Years 2007- 08 and 2008-09 in ITA No. 37 & 1623/Kol/2012
+dated 3.8.2016 wherein it was held as under:-
+
+> 3.3. We have heard the rival submissions and perused the materials available
+> on record including the paper book filed by the assessee comprising of
+> relevant extracts of Central Electricity Authority (Installation and
+> operation of meters) Regulations, 2006 (pages 47 to 66 of paper book) with
+> regard to this issue. We find that the assessee had capitalized the
+> following assets under intellectual properties :-
+
+> a. Low cost single phase static meter IP for domestic segment. b. Low cost
+> single phase static meter IP for South Asian market like Vietnam, etc c. RF
+> AMR Radio frequency accelerated meter reading IP d. Salem 3T Metering Module
+> IP e. Salem 1G HVDS IP f. PL Comm Evaluation Modem IP  34 35 ITA Nos.584 &
+> 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 3.3.1. It was argued that the intellectual property
+> rights acquired by the assessee consisted of designs, software, data base,
+> research and development material and facility , technical know how, process
+> know how , confidential information, basic and detailed drawings, operation
+> and maintenance manuals relating to the business carried out by TECRES. The
+> valuation of the same was carried out by an independent expert and valuation
+> report is enclosed in pages 25 to 82 of paper book. We find that the OECD
+> Tranfer Pricing Guidelines for Multinational Enterprises and Tax
+> Administrations issued in July 2010 (enclosed in pages 67 to 73 of Part A of
+> Paper Book) provides that the term 'intangible property' includes rights to
+> use industrial assets such as patents, trademark, trade names, designs or
+> models. It also includes literary and artistic property rights and
+> intellectual property such as knowhow and trade secrets. These intangibles
+> are assets that may have considerable value eventhough they may have no book
+> value in the company's balance sheet. We find in Para 1.155 of the OECD /
+> G20 Base Erosion and Profit Shifting (BEPS) Report on Actions 8-
+
+10 (2015) - Aligning Transfer Pricing Outcomes with Value Creation, issued in
+the year 2015, 'that in some situations, the transfer or secondment of one or
+more employees may, depending on the facts and circumstances, result in the
+transfer of valuable knowhow or other intangibles from one associated
+enterprise to another'. Even though in the instant case, the transaction is
+between two unrelated enterprises, the principles enunciated therein would
+squarely apply. Further para 6.20 of the said action plan, provide that
+'knowhow and trade secrets are proprietory information or knowledge that
+assists or improve a commercial activity, but that are not registered for
+protection in the manner of patent or trademark. Knowhow and trade secrets
+generally consist of undisclosed information of an industrial , commercial or
+scientific nature arising from previous experience, which has practical
+application in the operation of an enterprise. Knowhow and trade secrets may
+relate to manufacturing , marketing, research and development, or any other
+commercial activity. The value of know how and trade secrets is often
+dependent on the ability of the enteprise to preserve the confidentiality of
+the know how or trade secret. In certain industries the disclosure of
+information necessary to obtain patent protection could assist competitors in
+developing alternative solutions. Accordingly, an enterprise may, for sound
+business reasons, choose not to register patentable knowhow, which may
+nonetheless contribute substantially to the success of the enterprise. The
+confidential nature of knowhow and trade secrets may be protected to some
+degree by (i) unfair competition or similar laws , (ii) employment contracts,
+and (iii) economic and technological barriers to competition. Knowhow and
+trade secrets are intangibles.' .
+
+35 36
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 Hence it could be safely concluded that even OECD has
+laid down the principle that intellectual property in the form of knowhow is
+not required to be registered.
+
+3.3.2. We find that the assessee had filed a copy of the Business Transfer
+Agreement (BTA) entered into with Mr Gandhi as an additional evidence. It was
+submitted by the ld AR that the said agreement was never called for by the
+lower authorities and hence there was no occasion for the assessee to file the
+same and it was also submitted that the acquisition of business from Mr Gandhi
+by the assessee was never a subject matter of debate. In these circumstances,
+we deem it fit and appropriate to admit the said additional evidence for
+better appreciation of the facts to resolve the issue under dispute before us.
+
+3.3.3. We find force in the argument advanced by the ld AR that the transfer
+of employees would also result in transfer of knowhow also. We find that the
+Explanation 4 to section 32(1) of the Act defines 'knowhow' as any industrial
+information or technique likely to assist in the manufacture or processing of
+goods or in the working of a mine, oil-well or other sources of mineral
+deposits (including searching for discovery or testing of deposits for the
+winning of access thereto). Section 32(1)(ii) of the act provides for
+depreciation on intangible assets including knowhow, patents, copyrights,
+trade marks, licences, franchises, or any other business or commercial rights
+of similar nature, being intangible assets acquired on or after 1st day of
+April 1998. Hence from the combined reading of OECD, definition of knowhow and
+provisions of section 32 of the Act in respect of intangible assets, it could
+be safely concluded that depreciation is allowed on intellectual property
+being knowhow and such intellectual property is not required to be registered
+with any government authority . Know how is an intangible property, rights in
+respect of which can be bought and sold. As per the Law Lexicon dictionary,
+'knowhow' indicates something essentially different from secret and
+confidential information. It indicates the way in which a skilled man does his
+job with his skill and experience. It was also stated that knowhow is a
+closely held unpatented inventions, formulae, design, drawings, procedures and
+methods together with accumulated skills and experience in the hands of a
+licensor firm's professional personnel.
+
+3.3.4. It is not in dispute that assessee had acquired from TECRES six
+different IPs which were independently valued by the independent expert before
+the company was taken over by the assessee company. Admittedly TECRES was
+engaged in the research and development of metering related to software and
+communication technology which is useable in measurement of electrical and
+management of energy. It is not in dispute that the said company had been
+delivering service in the field of metering software development of static
+meters for major Indian manufacturers in the metering industry namely L & T ,
+Genus,  36 37 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis
++ Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 HPL Socomec etc apart from doing work for other overseas
+clients. We find that the assessee in order to migrate into the new lucrative
+business of manufacturing static meters was looking for partner which could
+help it out in its new venture. Therefore, after a detailed study and informed
+business decision , the assessee decided to buy out the entire unit of TECRES
+along with its specialized research engineers who had enormous experience and
+domain knowledge in respect of static meters which the assessee could leverage
+in developing new marketable products. Therefore, in essence what the assessee
+has acquired is knowhow in developing new type of meters which were digital
+meters with anti-tampering and other communication facilities. We find that
+the reliance placed by the ld AR on the Co-ordinate bench decision of Pune
+Tribunal in the case of Modular Infotech P Ltd vs DCIT reported in 131 TTJ 243
+(Pune) is well founded. In the said case, the assessee company was engaged in
+the business of software development and also licensing of software. It had
+taken over the business of a firm namely M/s Modular Systems and claimed
+depreciation @ 25% on an amount of Rs. 4,27,00,000/- pertaining to the value
+of IPR paid to the firm. The AO disallowed the claim of depreciation on IPR
+against which assessee filed appeal before the ld CITA. During the appellate
+proceedings with the CITA, the appellant pointed out that the amount of Rs.
+4.27 crores included composite consideration in respect of all the intangible
+assets of the firm namely IPRs and the goodwill and submitted a fresh
+valuation of the assets including that of the goodwill at Rs. 79,50,000/-. The
+CITA disallowed depreciation on goodwill of Rs. 79,50,000/- and allowed
+assessee's claim of depreciation in respect of balance IPR payment. On appeal
+filed before the Tribunal, it was held that where assessee company took over
+business of a firm at value assessed by professionals and value so determined
+was made part of agreement, it was wrong to presume that there was a notional
+amount which was transacted between parties, hence disallowance of
+depreciation on intellectual property rights on ground that value was assigned
+to an asset which was non- existent was not justified. We find that the facts
+of the assessee's case are also similar to the facts before the Pune Tribunal
+supra. It is not in dispute that the turnover of the assessee had
+substantially increased from the year under appeal on account of activities of
+the R&D Centre which the assessee had acquired from Mr Gandhi. The element of
+know how is inherent in the static meters manufactured by the assessee
+pursuant to acquisition of TECRES. It is not in dispute that the entire
+Research & Development team of TECRES along with their developed codes and
+domain depository have joined the assessee. Hence it cannot be said that the
+assessee had not acquired any intellectual properties from Mr Gandhi. The
+total consideration paid by the assessee in the sum of Rs. 6,07,89,093/- to
+Mr. Gandhi has not been disputed. Out of this total consideration, the
+assessee had bifurcated the value towards IP rights to the tune of Rs. 4.92
+crores based on an independent valuation from an expert. The main  37 38 ITA
+Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 emphasis for disallowance is only on the point that the
+intellectual properties is not approved by any government or any competent
+authority. Nowhere the income tax act mandates the registration of the
+intellectual properties for the purpose of granting depreciation u/s 32 of the
+Act. Getting the intellectual properties registered is within the domain of
+the assessee and it only offers protection to the assessee from preventing
+other parties to use the same. The revenue cannot thrust the mandate of
+registration of the same and mere non- registration of the same does not make
+the transaction ingenuine or sham. Hence the version of the revenue that IP
+should be certified by the government authority and it does not fall within
+the assets specified in IT Rules is without any basis and not tenable.
+
+3.3.5. In view of the aforesaid findings and respectfully following the
+judicial precedent relied upon hereinabove, we allow the grounds 2(a) to 2(d)
+raised by the assessee for the Asst Year 2007-08 and grounds 12(1) to 12(c )
+raised for the Asst Year 2008-09. The ld AO is also directed to rework the
+opening WDV of this asset in the subsequent year and rework the allowability
+of depreciation on the same pursuant to this order. In view of this decision,
+we are not inclined to entertain the alternative claim of the assessee vide
+ground no. 1(a) that the consideration so paid in the sum of Rs. 4,92,00,000/-
+has to be construed as Goodwill and depreciation has to be granted
+accordingly.
+
+Respectfully following the said decision of this tribunal for the earlier
+years, we allow the Grounds 8(a) to 8(c ) raised by the assessee for the Asst
+Year 2010-11.
+
+17\. Disallowance of Depreciation on Goodwill The assessee recorded an amount
+of Rs 93,41,680/- as Goodwill arising as a result of acquisition of business
+from Mr Guljeet Singh Gandhi during Asst Year 2007-08. No depreciation on such
+goodwill was claimed in the return of income by the assessee. The assessee
+filed additional grounds of appeal before this tribunal for the Asst Years
+2007-08 and 2008-09 claiming depreciation on goodwill in the light of the
+decision of the Hon'ble Supreme Court in the case of CIT vs Smifs Securities
+ltd reported in 348 ITR 302 (SC) and the same was granted to the assessee. The
+assessee similarly filed additional ground of objection before ht eld DRP for
+the Asst Year 2010-11 claiming depreciation amounting to Rs 11,49,465/- on
+written down value of goodwill. The ld  38 39 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 DRP did not allow the same as at that point of time, the
+appeal was pending before this tribunal for the Asst Years 2007-08 and 2008-09
+and pending finality of the same, it felt that no decision would be warranted.
+It is not in dispute that the assesee had paid consideration towards
+acquisition of Goodwill. We find that since this issue is now settled in
+favour of the assessee by the order of this tribunal for the Asst Years
+2007-08 and 2008-09, we hold that assessee should be allowed depreciation on
+goodwill amounting to Rs 11,49,465/- on the written down value of goodwill.
+Accordingly the Ground No. 9 raised by the assessee for the Asst Year 2010-11
+is allowed.
+
+18\. The Ground No. 10 raised by the assessee for the Asst Year 2010-11 is
+with regard to short credit of TDS to the tune of Rs 11,12,472/-. The assessee
+claimed credit of TDS amounting to Rs 11,58,178/- in the return of income and
+additional credit of TDS of Rs 3,10,550/- vide letter dated 7.3.2014 during
+the course of assessment proceedings. The assessee filed all the TDS
+certificates to the ld AO . Credit for TDS of Rs 3,10,550/- was not taken in
+the return of income as the assessee was not in possession of the TDS
+certificates at that point of time and had received the same subsequent to the
+date of filing the return. In the draft assessment order, the ld AO gave
+credit for TDS of Rs 11,58,178/- as claimed in the return of income and denied
+the additional claim of credit of TDS of Rs 3,10,550/- without providing any
+specific reason. The assessee filed an objection before the ld DRP. The ld DRP
+vide its direction dated 29.12.2014 directed the ld AO to verify the TDS
+certificates and allow due credit to the assessee. In case of any short
+allowance, the ld AO was directed to pass a speaking order. The ld AO in the
+final assessment order dated 27.2.2015 , granted credit for TDS to the tune of
+Rs 3,56,256/- only out of Rs 14,68,728/- ( 11,58,178 +3,10,550) without
+providing any reason. Hence the assessee is in appeal before us seeking to
+give direction to grant credit of TDS for the remaining amount to the tune of
+Rs 11,12,472/-.
+
+39 40
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 18.1. We find that the ld AO while framing the final
+assessment order had not carried out the directions of the ld DRP. Once the
+assessee produces the TDS certificates before the ld AO in support of its
+claim for credit of TDS, the duty of the ld AO is to grant the same on getting
+satisfied whether the relatable income thereon has been duly offered to tax by
+the assessee in accordance with the provisions of the Act. Hence we direct the
+ld AO to grant the credit of TDS after verification of the fact whether the
+relatable income thereon is offered to tax. Accordingly the Ground No. 10
+raised by the assessee for the Asst Year 2010-11 is allowed for statistical
+purposes.
+
+19\. In the result, the appeal of the assessee in ITA No. 687/Kol/2015 is
+partly allowed for statistical purposes.
+
+Revenue Appeal - Asst Year 2010-11 - ITA No. 584/Kol/2015
+
+20\. The Ground No.1 raised by the revenue for the Asst Year 2010-11 is
+objecting to the directions of the ld DRP to remove certain comparable
+companies. The adjudication of this ground becomes academic as ultimately the
+ld AR had proved that the international transactions had been carried out at
+arm's length by benchmarking its transactions with the comparables chosen by
+the ld TPO only. Hence the adjudication of this ground becomes academic in
+nature in view of our decision rendered in assessee appeal for the Asst Year
+2010-11 with regard to TP issues. Accordingly, the Ground No. 1 raised by the
+revenue is dismissed.
+
+21\. The next ground to be decided in the appeal of the revenue is as to
+whether the ld DRP was justified in concluding that the services provided by
+the AE under the head of management services are not in the nature of
+stewardship activities, in the facts and circumstances of the case.
+
+40 41
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 21.1. The brief facts of this issue is that the during
+the year, the assessee received varied intra group services from its AE,
+Landis + Gyr AG, Switzerland for which a payment of Rs 7.23 crores was made by
+the assessee to its AE. With respect to the said transaction, the assessee
+submitted that it had received varied nature of management services under a
+Service Agreement entered into with its AE. For the purpose of compliance with
+the transfer pricing documentation requirements, the assessee documented in
+its transfer pricing study report and submitted in the course of assessment,
+the management services framework wherein the description of services
+received, payment terms, details of cost allocation mechanism, evidences of
+benefits received from such services etc were explained. These are enclosed in
+Pages 199-208 read with pages 282 to 1068 of the Paper Book. With respect to
+economic analysis, the assessee considered, payment of management service fee
+to be a different class of transaction, distinct from other international
+transactions. Accordingly, based on functional analysis, AE was determined as
+the least complex party and accordingly determined to be the tested party for
+the purpose of analysis. Further, TNMM was determined to be the most
+appropriate method of the methods prescribed. A search process was also
+undertaken to identify comparable companies rendering similar services and the
+international transaction was determined to at arm's length. Summary of
+benchmarking study has been provided herein below:
+
+Pricing methodology followed by AE while Arm's length Price of the comparable
+rendering services to assessee companies in AE region rendering similar
+services Cost Plus 5% Cost plus 6.98% As the margin retained by AE of the
+appellant was less than the margin earned by comparable companies in its
+region, the transaction price was determined to have been undertaken at arm's
+length.
+
+41 42
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 21.2. The ld TPO however, disregarded the aforesaid
+information along with benchmarking analysis submitted by the assessee and
+treated the ALP of the transaction as NIL stating that the services rendered
+pertain to stewardship services. The Ld. TPO stated that the services rendered
+by the AE of the assessee were mostly in the nature of exercising overall
+control and supervision over the assessee company and hence these were in the
+nature of stewardship services thereby not meriting any charge.
+
+21.3. The ld DRP deleted the adjustment made by the TPO stating that "From the
+nature of services described by the assessee, it can be seen that they were
+mainly for purpose of assessee's own business. While the group as a whole,
+might also have been benefitted from the services, such benefit to the parent
+company was incidental. The primary beneficiary of the services was the
+assessee itself." "Therefore, the services rendered by the AE cannot be
+considered in the nature of stewardship/shareholder activity." "It has been
+informed by the assessee that the payment for the services has been made on
+the cost allocated to it."
+
+21.4. The revenue had filed an appeal against the aforesaid action of ld DRP
+stating that the ld DRP had erred in concluding that the services provided by
+the AE are not in the nature of stewardship activities.
+
+21.5. The ld DR submitted that this issue may be remanded to the file of the
+ld TPO for determination of ALP of the payment of management fees in the light
+of various documentary evidences furnished by the assessee for the benefits
+derived by the assessee out of payment of management service fees for the
+intra group services received from its AE. In response to this, the ld AR
+stated that it had duly furnished sample set of 94 emails, correspondences
+etc, demonstrating the services received by the assessee from AE along with
+the copy of emails, correspondences etc . He stated that the assessee had
+tried to capture to the extent possible the benefits received from  42 43 ITA
+Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 the said category of services in the form of emails,
+communications, reports etc and the illustration of benefits received from
+various categories of services as mentioned in the cost allocation sheet was
+duly submitted before the ld TPO and ld DRP. In fact the ld DRP had called for
+a remand report from the ld TPO in this regard for determination of ALP based
+on the documents available on record. The ld TPO did not give any adverse
+finding about this issue in the remand report and merely stated that these
+were in the nature of shareholder services. Hence the ld DRP had analysed the
+entire services in great detail along with the benefits accruing from the
+services to the assessee as could be seen in Pages 25 to 30 of ld DRP order.
+The ld DRP on perusing and analyzing the same information / documents,
+concluded that the assessee had duly received services which had benefited the
+assessee in its business operations. Accordingly it concluded that the
+services were in the nature for which any third party would be willing ot pay
+and hence not in the nature of stewardship services. The ld DRP also
+appreciated the fact that it would be impractical for assessee to keep
+documentary evidences for each of the services received by it as the services
+are received in the form of directions, recommendations through emails, calls,
+reports etc. However, for the purpose of demonstration and explanation before
+the ld TPO / ld DRP, the assessee had enclosed a sample set of 94 voluminous
+documents evidencing the regular flow of valuable commercial services under
+the agreement with the ld TPO. He stated that the ld TPO was offered
+opportunity to examine all these documents twice i.e. one at the time of
+original TP hearing and another during remand proceedings. But the ld TPO
+chose to ignore the said documents without assigning any reasons. Hence the ld
+DRP had no other option but to examine those documents and concluded that the
+assessee had indeed received lot of commercial benefits pursuant to payment of
+management service charges to its AE as could be evident from the various set
+of emails, correspondences, filed on record. Hence he argued that there is no
+need to remand the issue to the file of the ld TPO in this regard. The ld AR
+also placed reliance on the following decisions  43 44 ITA Nos.584 &
+687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 in support of his contentions that payment of management
+service charges for intra group services are not in the nature of stewardship
+activities :-
+
+a) Co-ordinate bench decision of Delhi Tribunal in the case of AWB India (P)
+Ltd vs Addl CIT reported in TS-67-ITAT-2013(DEL)-TP
+
+b) Decision of Hon'ble Punjab & Haryana High Court in the case of CIT vs Max
+India Limited reported in TS-9480HC-2016(P&H).
+
+c) Decision of Co-ordinate Bench of this Tribunal in the case of Almatis
+Alumina Pvt Ltd in ITA No. 283/Kol/2016 and CO 23/Kol/2016.
+
+21.6. We have heard the rival submissions and perused the materials available
+on record including the paper books of the assessee filed in this regard. We
+find that the assessee had indeed furnished sample set of 94 emails,
+correspondences etc before the ld TPO which were summarily ignored by him
+while passing the order u/s 92CA(3) of the Act. The ld TPO held that the
+payment for intra group services are in the nature of stewardship activities
+and were paid only for the control and supervision over the assessee and
+accordingly determined the ALP of the said transaction at Rs Nil. During the
+proceedings before the ld DRP, the remand report was duly called for from the
+ld TPO, who did not comment anything adverse on the various set of documents
+and evidences for receipt of commercial benefits by the assessee from its AE
+pursuant to payment of management service charges for rendering intra group
+services. We find that the ld DRP had duly examined the various set of
+documents placed on record and had concluded that the assessee had indeed
+derived commercial benefits out of rendering of intra group services by the AE
+and the payment made thereon are in the nature which any third party would be
+willing to pay and held that they are not in the nature of stewardship
+services. We have gone through those papers placed in the paper book before us
+(pages 1354 to 1359 of Paper Book) and we hold that the said services enable
+the assessee to meet the challenges of the business environment on an on-going
+44 45 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr
+Ltd.
+
+A.Yr.2010-11 & 11-12 basis and the same are rendered continuously and the
+assessee had been actually benefited out of those services. In any case, we
+hold that the ld TPO cannot determine the value of management services to be
+Rs Nil without applying any transfer pricing methods.
+
+21.6.1. We find that the Hon'ble Delhi High Court in the case of CIT vs
+Cushman and Wakefield (India) (P) Ltd reported in (2014) 367 ITR 730 (Del) is
+applicable to the facts of the instant case, wherein it was held that :-
+
+> "35. The Transfer Pricing Officer's report is, subsequent to the Finance
+> Act, 2007, binding on the Assessing Officer. Thus, it becomes all the more
+> important to clarify the extent of the Transfer Pricing Officer's authority
+> in this case, which is to determining the arm's length price for
+> international transactions referred to him or her by the Assessing Officer,
+> rather than determining whether [such services exist or benefits have
+> accrued. That exercise of factual verification is retained by the Assessing
+> Officer under Section 37 in this case.] Indeed, this is not to say that the
+> Transfer Pricing Officer cannot after a consideration of the facts state
+> that the arm's length price is 'nil' given that an independent entity in a
+> comparable transaction would not pay any amount. However, this is different
+> from the Transfer Pricing Officer stating that the assessee did not benefit
+> from these services, which amounts to disallowing expenditure. That decision
+> is outside the authority of the Transfer Pricing Officer. ...... .......
+> .... .
+
+36\. In this case, the issue is whether an independent entity would have paid
+for such services. Importantly, in reaching this conclusion, neither the
+Revenue, nor this Court, must question the commercial wisdom of the assessee,
+or replace its own assessment of the commercial viability of the transaction.
+The services rendered by CWS and CWHK in this case concern liaising and client
+interaction with IBM on behalf of the assessee-activities for which, according
+to the assessee's claim-interaction with IBM's regional offices in Singapore
+and the United States was necessary. These services cannot as the Income-tax
+Appellate Tribunal correctly surmised be duplicated in India insofar as they
+require interaction abroad. Whether it is commercially prudent or not to
+employ outsiders to conduct this activity is a matter that lies within the
+assessee's exclusive domain, and cannot be second- guessed by the Revenue."
+[brackets provided by us] 21.6.2. We also find that the co-ordinate bench
+decision of this tribunal in the case of DCIT vs Bata India Ltd reported in
+(2016) 69 taxmann.com 120 (Kolkata Trib) dated 6.4.2016 had considered the
+decisions of Hon'ble Delhi High Court in the case of CIT vs EKL Appliances Ltd
+(2012) 345 ITR 241 (Del) ; CIT vs Cushman & Wakefield  45 46 ITA Nos.584 &
+687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 (India) (P) Ltd (2014) 367 ITR 730 (Del) and co-ordinate
+bench of Mumbai Tribunal in the case of Dresser Rand India (P) Ltd vs Addl CIT
+(2011) 47 SOT 423 (Mum) and applied the principles emanating out of those
+judgments and applied the same to the facts of the case in Bata India Ltd. In
+the said case (i.e Bata India Ltd supra) it was observed as under:-
+
+> 27\. The Hon'ble High Court of Delhi in the case of CIT v. EKL Appliances
+> Ltd.[2012] 345 ITR 241/24 taxmann.com 199/209 Taxman 200 as well as CIT v.
+> Cushman & Wakefield (India) (P.) Ltd.[2014] 367 ITR 730/46 taxmann.com 317
+> (Delhi), rendered similar ruling as was rendered in the case of Dresser-Rand
+> India (P.) Ltd. (supra). In the case of Cushman & Wakefield India (P.) Ltd.
+> (supra), the Hon'ble Delhi High Court observed that whether a third party -
+> in an uncontrolled transaction with the Taxpayer would have charged amounts
+> lower, equal to or greater than the amounts claimed by the AEs, has to
+> perforce be tested under the various methods prescribed under the Indian TP
+> provisions. In the context of cost sharing arrangement, the Hon'ble High
+> Court opined that concept of base erosion is not a logical inference from
+> the fact that the AEs have only asked for reimbursement of cost. This being
+> a transaction between related parties, whether that cost itself is inflated
+> or not only is a matter to be tested under a comprehensive transfer pricing
+> analysis. The basis for the costs incurred, the activities for which they
+> were incurred, and the benefit accruing to the Taxpayer from those
+> activities must all be proved to determine first, whether, and how much, of
+> such expenditure was for the purpose of benefit of the Taxpayer, and
+> secondly, whether that amount meets ALP criterion. In the present case
+> however, the arrangement between the AE and the Assessee is not a cost
+> sharing arrangement but a payment for specific services rendered. To this
+> extent the above observations of the Hon'ble High Court may not be relevant
+> to the present case.
+
+> 28\. The following aspects would require consideration in order to identify
+> intragroup services requiring arm's length remuneration:
+
+> \- Whether services were received from related party.
+
+> \- Nature of services including quantum of services received by the related
+> party.
+
+> \- Services were provided in order to meet specific need of recipient of the
+> services.
+
+> \- The economic and commercial benefits derived by the recipient of
+> intragroup services.
+
+> \- In comparable circumstances an independent enterprise would be willing to
+> pay the price for such services?
+
+> \- An independent third party would be willing and able to provide such
+> services?
+
+46 47
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 Whether payment made to AE meets ALP criterion will be
+> determined, keeping in mind all the above factors, as well.
+
+> 29\. Keeping in mind the principles emanating from the aforesaid decisions,
+> we shall now proceed to examine the material on record to see the nature of
+> services received by the Assessee and as to whether the same were at Arm's
+> Length.
+
+> 47\. In the light of the discussion in paragraphs 30 to 46, We hold that the
+> Assessee has established the nature of services including quantum of
+> services received by the related party, that services were provided in order
+> to meet specific need of the Assessee for such services, the economic and
+> commercial benefits derived by the Assesseee of intragroup services.
+
+21.6.3. We also find that in the recent decision of the Hon'ble Delhi High
+Court in the case of Knorr-Bremse India (P) Ltd vs ACIT reported in (2016) 380
+ITR 307 (Del) wherein it was held as under:-
+
+> 29\. We hasten to add that in the case before us the assessee has, in fact,
+> contended that it has benefited from the international transactions entered
+> into by it with its AEs. However, even assuming that this has not been
+> established, it would make no difference.
+
+> 31\. The TPO, in the case before us, had observed as under:--
+
+> "The OECD guidelines lay down the principle that the basis of indirect
+> charge will have to answer the benefit test. Para 7.24 of the OECD
+> guidelines further states, "To satisfy the arm's length principle, the
+> allocation method chosen must lead to a result that is consistent with what
+> comparable independent enterprises would have been prepared to accept."
+> Therefore, the assessee cannot escape its responsibilities of having to show
+> the actual benefit it has received. The assessee will also have to
+> demonstrate that independent parties would be inclined to make such a
+> payment in similar circumstances."
+
+> The TPO's conclusion in the last but one sentence does not follow from the
+> OECD Guidelines quoted by him. The OECD Guidelines merely state that the
+> result must be consistent with what comparable independent enterprises would
+> have been prepared to accept. We do not see how from this observation it
+> follows that the assessee cannot escape its responsibility of having to show
+> the actual benefits it had received.
+
+> 46\. There is yet another issue of law which, in our view, is important and
+> requires consideration. The TPO referred to the management support services.
+> The same fell within four categories, namely, business development, human
+> resource services, accounting, financial support and controlling services
+> and IT services. With regard to the same, the TPO held that the assessee had
+> sufficient local help to allow it to overcome the legal challenges at the
+> local level. The TPO held that there was no reason to believe that the AEs
+> provided assistance that the assessee could not obtain at the local level in
+> India. Mr. Joshi, the learned counsel appearing on behalf of the  47 48 ITA
+> Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 respondent, submitted that for these and other
+> services, the appellant could always have availed of the services of
+> personnel and enterprises in India.
+
+> 47\. That, however, in our view, cannot be a ground for rejecting a claim
+> for deduction. Nor can that be a ground for assuming that the consideration
+> paid for the same is not the genuine arm's length price. Absent any law, an
+> assessee cannot be compelled to avail the services available in India. It is
+> for the assessee to determine whose services it desires availing of and
+> whose goods it intends purchasing. It is certainly understandable if the
+> assessee prefers to deal with its group entities/AEs. This is for a variety
+> of reasons which are far too obvious to state. So long as there is no bar in
+> law to the assessee availing the services of a particular party, the
+> authorities under the Act must determine whether the consideration paid for
+> the same is at an arm's length price or not.
+
+We find that this judgement had approved the earlier decision of Hon'ble Delhi
+High Court in the case of Cushman and Wakefield (India) (P) Ltd supra and also
+the decision of EKL Appliances supra.
+
+21.6.4. We find that the ld TPO had rejected the benchmarking analysis adopted
+by the assessee. However, it failed to provide its own benchmarking analysis
+to determine the transaction price to be Rs Nil. Moreover, when ld DRP
+remanded back the case to the file of the ld TPO for analysis of the
+benchmarking analysis and providing ground wise observations for arguments
+raised by the assessee before the ld DRP, the ld TPO did not provide any
+comments with respect to economic analysis carried out by the assessee and the
+documents submitted by the assessee for transaction pertaining to payment of
+management service fees. Hence in these circumstances , there is no harm in
+accepting the assessee's method of benchmarking and the payment of management
+service charges for the intra group services received from its AE. There is no
+dispute that the assessee had indeed received services from its AE. There is
+no dispute that the assessee had indeed received commercial benefits out of
+services rendered by the AE. The findings given by the ld DRP in this regard
+are not controverted by the ld DR before us.
+
+48 49
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 21.6.5. We find that the ld AR also stated that the
+allocation keys used to share the burden of the cost are also sound and can be
+taken to be as the arm's length contribution to the costs. For the same, the
+assessee has shared the cost allocation stateemtns wherein appropriate cost
+allocation drivers have been used which have been agreed between the parties
+beforehand. Along with an appropriate benchmarking analysis and evidence of
+receipt of services with consequent benefits, viewed from whichever way, the
+payment for management support services fulfil the arm's length test.
+
+21.6.6. In view of the aforesaid findings and respectfully following the
+judicial precedents relied upon hereinabove, we hold that the determination of
+ALP for Management Support Services at Rs NIL is unwarranted and accordingly
+reject the adjustment made to the income of the assessee by the ld TPO and
+hence addition made in the sum of Rs. 7,22,96,951/- is deleted. Accordingly,
+the Ground Nos 2 raised by the revenue is dismissed.
+
+22\. Payment of Royalty - Rs 2,39,63,552/-
+
+The assessee received technology and technical assistance for manufacture of
+electric and static meters under a Technology License Agreement entered into
+with the AEs for which a payment of Rs 2,39,63,552/- ( Rs 2.40 crores) was
+made by the assessee. The assessee had duly documented the terms of such
+agreement, description of technology, technical assistance etc in the transfer
+pricing study report prepared and submitted for the perusal of the ld TPO vide
+page 209 to 215 of part I of the Paper Book. With regard to economic analysis,
+the assessee considered such transaction to be of different class and distinct
+from other transactions. Accordingly, the assessee evaluated the methods
+prescribed under the Indian TP regulations and determined CUP to be the MAM.
+For the purpose of application of CUP, the assessee identified certain
+agreements, following a detailed search process, which could be considered
+comparable with the instant  49 50 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 transaction. Accordingly the said transaction was
+determined to be at arm's length. The summary of benchmarking study has been
+provided herein below:-
+
+    
+    
+    Rate of Royalty paid by the assessee to its AE           -      1.21%
+    Arm's length rate of royalty as determined from
+    Benchmarking study                                       -      4.34%
+    
+    
+    
+
+Thus it was pleaded that the royalty rate charged by the AE was lower than the
+royalty rate as per the comparable agreements, the transaction was determined
+to have been undertaken at arm's length price.
+
+22.1. The ld TPO without purusing the necessary information submitted on
+records, held that the value of such technology should be Rs Nil. The ld TPO
+stated that the technology provided by the AE was not unique in nature and
+that the assessee was not bale to show that it derived any substantial benefit
+from the technology received from the AE and accordingly imputed an upward
+adjustment of Rs 2,39,63,552/- for the same.
+
+22.2. The ld DRP deleted the adjustment made by the ld TPO by stating as
+under:-
+
+> 3.5.2. Since it had been claimed that the assessee had filed all the details
+> called for before the TPO, vide its submission dated 27/1/2014, which had
+> not been taken into account by the TPO, comments of the TPO were called for
+> by the Panel vide letter dated 10/12/2014. The comments of the TPO have been
+> received. It has been stated by him, that its submission dtd 27/1/2014 , the
+> assessee has provided comparable royalty transaction using foreign data base
+> and comes up with royalty of comparables at 4.33%. The TPO has objected to
+> the choice of database of US company used by the assessee and has stated
+> that the royalty paid by assessee in case of Baddi-Static meter unit at 5%
+> was higher than the benchmark computed by assessee. The assessee has given
+> its counter comments on 23/12/2014. In this it has been stated that the
+> assessee has provided the royalty agreement and has also provided
+> comparables on the basis of the only data base available. The TPO had not
+> pointed out any better basis of  50 51 ITA Nos.584 & 687/Kol/2015 ITA
+> Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 benchmarking. It has also pointed been out that as per
+> the agreement produced, the assessee was paying royalty not on the gross
+> sales but only on the value addition made. Thus the apparent rate of 5%
+> actually amounted to about 1.5% of the total sales which was well below the
+> benchmark.
+
+> 3.5.3. We have considered the facts of the case. The adjustment by the TPO
+> had been made in absence of the details such as agreement and comparables
+> etc. However it is clear that the assessee had provided such details on
+> 28/1/2014. In his comments on the same, the TPO has not pointed out any
+> specific defect in the same. The objections raised by him have in our
+> opinion been satisfactorily replied to by the assessee. The assessee has
+> been all along making payment of royalty to its AE for use of brand name,
+> which has been allowed in the past. Considering all these facts, the
+> proposed adjustment is not considered to be proper and is directed to be
+> deleted.
+
+22.3. We have heard the rival submissions and perused the materials available
+on record. We find that the information / documents evidencing receipt of
+technology / technical assistance and benchmarking analysis determining the
+ALP of the same has been duly submitted both before the ld TPO and ld DRP. The
+ld TPO without perusing and analyzing the said information concluded that the
+technology received by the assessee was not unique and has no avenue for
+future development. We find however, the ld DRP on perusing and analyzing the
+same information / documents, concluded that the technology / technical
+assistance so received was unique in nature and amount of royalty paid was
+reasonably justified as well. The finding given by the ld DRP on the receipt
+of technology / technical assistance by the assessee was not controverted by
+the revenue before us. It was also stated that the apprehensions raised by the
+ld TPO were duly replied by the assessee before him vide reply to show cause
+notice and the same were completely ignored by the ld TPO while passing the
+order. The ld AR on the apprehensions raised by the ld TPO stated as under:-
+
+APPREHENSION 1 - Technology furnished by the AE was not unique in nature and
+has no avenue for the assessee to participate any future development  51 52
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 With regard to the above, the assessee submitted that the
+intangible is complete technology including design, bom, testing process etc
+for making a mechanical meter compliant with Swiss quality and standards.
+Further, the intangible property shall also include the following:
+
+\- Drawings and parts list of the complete products and various CKD products
+
+\- Work instructions for the manufacture, assembly and calibration of the
+meters
+
+\- Information on quantity and quality of materials to be used and parts to be
+purchased
+
+\- Information on necessary tooling activity required for manufacturing of
+meter
+
+\- Operational manuals The assessee submitted that the unique property is the
+design of the meter that is being manufactured. Further, the Swiss technology
+was used to design a meter specifically for Indian market customizing the same
+as per the Central Electricity Authority of India. From perusal of the annual
+report of the assessee, it could be seen that there are no R&D expenses in the
+books of the assessee. This implies that the assessee is not engaged in R&D
+activities with respect to manufacturing and sale of meters in India. The
+assessee is made avaialbel with ready and tested technology to manufacture the
+meter. It stated that without the aid of the said technology, the assessee
+would not have been able to do its manufacturing business. Further, the
+technology received from the AE, allowed the assessee to introduce for the
+first time high quality, tamper-resistant electric meters having longer life
+than its competitor products. Further, continuous improvement, upgradations
+etc. takes place in the technology of meter manufacturing to meet the
+expectations of the customer and to stand out as a unique product in the
+market. Further, Indian electricity market is infected with tampering of meter
+which obstructs measuring of accurate consumption of energy. The most famous
+tampers are known as '35kv' and 'Jammer' , wherein the capability of measuring
+energy is affected significantly. Futher, new method sof meter tampering are
+invented in India. The assessee is expected from its customers and
+stakeholders to manufacture and deliver  52 53 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 tamper-resistant meters. The assessee is dependant on R&D
+team of its AE for developing specific technology to deal with tampering of
+meters in India.
+
+APPREHENSION 2 - Assessee failed to provide justification regarding
+reasonableness of the amount of royalty paid to AE The assessee submitted that
+the royalty is being paid by the assessee only with respect to value additions
+being made by the assessee from its own manufacturing process undertaken with
+aid of technology and technical assistance received from the AE. To establish
+the same, the assessee had submitted the methodology applied in determining
+the value of sales on which royalty is paid by the assessee to its AE. The
+same are enclosed in page 159 of Part I of the Paper Book. The assessee pays
+royalty on value of meters manufactured less the bought out components used in
+the meters. Therefore, it confirms that royalty is not paid by the assessee on
+the bought out components. As already submitted, the assessee is paying
+royalty not on the gross sales but only on the value addition made, which
+effectively works out to only 1.21% of total sales as compared to arm's length
+rate of royalty as determined from benchmarking study at 4.34%.
+
+22.3.1. We find that the ld TPO while passing the order u/s 92CA(3) of the
+Act, ignored the CUP analysis undertaken by the assessee for justifying the
+arm's length nature of the international transaction and instead went ahead
+and determined the arm's length price of the transaction at Rs Nil stating
+that the assessee was not able to justify the reasonableness of the amount of
+royalty. We find that in the following decisions, it has been held that CUP
+method is the MAM to determine the arm's length nature of international
+transaction of payment of royalty:-
+
+a) Castrol India Limited vs DCIT reported in (2014) 40 CCH 764 (Mumbai Trib.)
+
+b) Reebok India Co. reported in TS-160-ITAT-2013(DEL)
+
+c) Benetton India P Ltd vs ITO reported in (2012) 134 ITD 229 (Delhi Trib.)
+
+d) Ciba India Limited reported in TS-242-ITAT-2013(MUM)-TP  53 54 ITA Nos.584
+& 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 We find that the ld TPO erred in not communicating the
+relevant clause of section 92C(3) of the Act under which the CUP analysis
+undertaken by the assessee was found to be defective leading him to reject the
+analysis and adopt TNMM as the MAM.
+
+22.3.2. We find that as per the provisions of section 92C(3) of the Act read
+with section 92CA(3) of the Act, the ld TPO may proceed to determine the ALP
+if he is of the opinion that conditions as provided in section 92C(3) of the
+Act have been satisfied. In this regard, CBDT had issued a Circular No.
+12/2001 dated 23.8.2001 which would be relevant in this regard:-
+
+> CLARIFICATION ON PROVISIONS GOVERNING TRANSFER PRICE IN AN INTERNATIONAL
+> TRANSACTION CIRCULAR : NO. 12/2001, DATED 23-8-2001
+> ................................................ In this background the
+> Board have decided the following :
+    
+    
+        (i)     ..........................
+       (ii)     ..........................
+      (iii)     It should be made clear to the concerned Assessing Officer that where an
+    
+
+> international transaction has been put to a scrutiny, the Assessing Officer
+> can have recourse to sub-section (3) of section 92C only under the
+> circumstances enumerated in clauses (a) to (d) of that sub-section and in
+> the event of material information or documents in his possession on the
+> basis of which an opinion can be formed that any such circumstances exists.
+> In all other cases, the value of the international transaction should be
+> accepted without further scrutiny.
+
+From the reading of the aforesaid circular, it is clear that the intention of
+the section 92C(3) of the Act has always been that scrutiny of international
+transactions of an assessee can only be done if the ld TPO can prove that
+atleast any one of the four conditions laid down in section 92C(3) of the Act
+has been satisfied. This view has been ratified by the co-ordinate bench of
+Bangalore Tribunal in the case of Philips  54 55 ITA Nos.584 & 687/Kol/2015
+ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 Software Centre Private Limited vs ACIT in ITA No. 218
+(Bng)/2008 wherein it was held that :-
+
+> "The TPO or the AO needs to satisfy and communicate to the taxpayer the
+> relevant clause under section 92C(3) which has been triggered by the
+> assessee, which has necessitated the application of provisions of the
+> transfer pricing provisions. In the instant case, since this was not
+> demonstrated to the assessee, the transfer pricing order is void."
+
+We find from the order of the ld TPO that he has nowhere suggested that any of
+the clauses of section 92C(3) of the Act are satisfied.
+
+22.3.3. We also find that considering CUP as the MAM for benchmarking the
+transaction of payment of royalty has been upheld by this tribunal in
+assessee's own case for the Asst Years 2007-08 and 2008-09 vide order dated
+3.8.2016 wherein it was held that :-
+
+> 5.2.15. .........................
+
+> We hold that the study made by the assessee with regard to payment of
+> royalty using CUP method as the MAM and using specific database
+> 'RoyaltyStat' for benchmarking royalty transactions which has been accepted
+> by the revenue in the subsequent years, should be applied for the years
+> under appeal also to put an end to this controversy. Hence in order to meet
+> the ends of justice, we direct the ld TPO/ ld AO accordingly.
+
+22.3.4. We also find that during the course of TP assessment for the Asst Year
+2011-12, the said transaction of payment of royalty has been considered to be
+at arm's length by the ld TPO wherein same economic analysis has been adopted
+by the assessee to determine the ALP of the transaction.
+
+22.3.5. In view of the aforesaid findings and respectfully following the
+judicial precedents relied upon hereinabove, we hold that the determination of
+ALP for payment of royalty at Rs NIL is unwarranted and accordingly reject the
+adjustment made to the  55 56 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 income of the assessee by the ld TPO and hence addition
+made in the sum of Rs. 2,39,63,552/- is deleted. Accordingly, the Ground Nos 3
+raised by the revenue is dismissed.
+
+23\. In the result, the appeal of the revenue in ITA No. 584/Kol/2015 for Asst
+Year 2010-11 is dismissed.
+
+Asst Year 2011-12 - ITA No. 619/Kol/2016 - Assessee Appeal
+
+24\. The Ground No.1 raised by the assessee for the Asst Year 2011-12 is
+general in nature and does not require any specific adjudication. The Ground
+No. 2 raised by the assessee for the Asst Year 2010-11 against the
+confirmation of adjustment of Rs 96,43,641/- to the international transactions
+of the assessee with its Associated Enterprises (AEs) is dealt with
+independently in other grounds adjudicated hereinbelow. Hence this ground does
+not require any specific adjudication.
+
+25\. Adjustment to Arm's Length Price - ITA No. 619/Kol/2016 (Assessee Appeal)
+- Asst Year 2011-12 The Ground Nos. 3 , 4(a), 4(b) & 5 raised by the assessee
+are similar to that raised in Asst Year 2010-11 and the decisions rendered
+thereon would apply with equal force for this Asst Year also, except with
+variance in figures. For the sake of clarity, the relevant figures for Asst
+Year 2011-12 are reproduced below:-
+
+    
+    
+    
+    International Transactions of the       Segment of the            Amount (Rs.)
+    assessee with its associated            assessee
+    enterprises
+    Import of raw materials &               Manufacturing segment         18,60,438
+    components                              -Domestic Sales
+    Export of finished goods                Manufacturing              11,08,62,642
+                                            Segment -Export
+                                                                                               56
+                                                 57
+                                                                 ITA Nos.584 & 687/Kol/2015
+                                                                 ITA Nos.549 & 619/Kol/2016
+                                                                       M/s Landis + Gyr Ltd.
+                                                                       A.Yr.2010-11 & 11-12
+    Purchase of finished goods              Trading segment                5,42,103
+    Payment of management fees              Different class of          2,69,85,790
+    Reimbursement of expenses               transactions -                19,21,994
+    Payment of Royalty                      benchmarked                 2,63,47,893
+                                            separately
+    Software development - Export of        Service Segment           23,75,71,347
+    Services
+    
+    Total meter segment turnover - Rs 192.77 crores
+    
+
+Total value of international transactions - Rs 11.32 crores working out to
+5.87% (11.32 / 192.77 * 100) of the meter segment.
+
+Third party business turnover - Rs 181.45 crores - representing 94.13%.
+
+The facts of Asst Year 2011-12 with regard to international transactions
+carried out by the assessee with its AE are identical with that of Asst Year
+2010-11. Accordingly, the Grounds 3, 4(a) , 4(b) and 5 raised by the assessee
+for the Asst Year 2011-12 are allowed.
+
+26\. The Ground Nos. 6 & 7 raised by the assessee for the Asst Year 2011-12
+are with regard to erroneous computation of arithmetic mean margin of
+comparable companies and rejecting certain comparables chosen by the assessee.
+The adjudication of this ground becomes academic as ultimately the ld AR had
+proved that the international transactions had been carried out at arm's
+length by benchmarking its transactions with the comparables chosen by the ld
+TPO only. Hence the adjudication of this ground becomes academic in nature in
+view of our decision rendered in assessee appeal for the Asst Year 2010-11
+with regard to TP issues. Accordingly, the Ground Nos . 6 & 7 raised by the
+assessee are allowed.
+
+57 58
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12
+
+27\. The Ground No. 8 raised by the assessee for the Asst Year 2011-12 is
+general in nature and does not require any specific adjudication.
+
+28\. The Ground No. 13 raised by the assessee is stated to be not pressed by
+the ld AR at the time of hearing as necessary relief had already been granted
+by the ld DRP. Accordingly the Ground No. 13 raised by the assessee is
+dismissed as not pressed.
+
+29\. The Ground No. 9 raised by the assessee for the Asst Year 2011-12 is with
+regard to the claim of depreciation on intellectual properties. This issue has
+been adjudicated at length for the Asst Year 2010-11 vide paras 16 to 16.3
+above and the decision rendered thereon would apply with equal force for this
+Asst Year also. Accordingly, the Ground No. 9 raised by the assessee for the
+Asst Year 2011-12 is allowed.
+
+30\. The Ground No. 12 raised by the assessee is with regard to the
+allowability of employees' contribution to PF in the sum of Rs 75,580/- which
+was deposited before the due date of filing the return of income u/s 139(1) of
+the Act. The date of deposit of employees contribution to PF before the due
+date of filing the return u/s 139(1) of the Act is not in dispute. This issue
+is settled in favour of the assessee by the decision of the Hon'ble
+Jurisdictional High Court in the case of CIT vs Vijay Shree Ltd reported in 43
+taxmann.com 396 (Cal HC). Respectfully following the same, the Ground No. 12
+raised by the assessee for the Asst Year 2011-12 is allowed.
+
+31\. The Ground No. 17 raised by the assessee for the Asst Year 2011-12 is
+with regard to short credit of TDS to the tune of Rs 2,22,966/-. The assessee
+claimed credit of TDS amounting to Rs 4,63,731/- in the return of income and
+additional credit of TDS of Rs 2,22,966/- vide letter dated 20.2.2015 during
+the course of assessment proceedings based on physical TDS certificates
+received and the said TDS being reflected in Form 26AS. The assessee filed all
+the TDS certificates to the ld AO . Credit for TDS of Rs  58 59 ITA Nos.584 &
+687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 2,22,966/- was not taken in the return of income as the
+assessee was not in possession of the TDS certificates at that point of time
+and had received the same subsequent to the date of filing the return. In the
+draft assessment order, the ld AO did not give any credit for TDS of Rs
+6,86,697/- ( 4,63,731 + 2,22,966) as claimed by the assessee wiithout
+providing any specific reason. The assessee filed an objection before the ld
+DRP. The ld DRP vide its direction dated 16.12.2015 directed the ld AO to
+verify the TDS certificates and Form 26AS and allow due credit to the
+assessee. The ld AO in the final assessment order dated 29.1.2016 , granted
+credit for TDS to the tune of Rs 4,63,731/- only out of Rs 6,86,697/- without
+providing any reason. Hence the assessee is in appeal before us seeking to
+give direction to grant credit of TDS for the remaining amount to the tune of
+Rs 2,22,966/-.
+
+31.1. We find that the ld AO while framing the final assessment order had not
+carried out the directions of the ld DRP. Once the assessee produces the TDS
+certificates before the ld AO in support of its claim for credit of TDS, the
+duty of the ld AO is to grant the same on getting satisfied whether the
+relatable income thereon has been duly offered to tax by the assessee in
+accordance with the provisions of the Act. Hence we direct the ld AO to grant
+the credit of TDS after verification of the fact whether the relatable income
+thereon is offered to tax. Accordingly the Ground No. 17 raised by the
+assessee for the Asst Year 2011-12 is allowed for statistical purposes.
+
+32\. The next issue to be decided in this appeal of the assessee is as to
+whether the ld DRP was justified in upholding the disallowance made in the sum
+of Rs 2,06,67,831/- on account of provision for warranty in the facts and
+circumstances of the case. The interconnected ground is as to whether the same
+would have to be added back while computing book profits u/s 115JB of the Act.
+
+59 60
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 32.1. The ld AO observed that the assessee claimed
+deduction on account of provision for warranty of Rs 2,06,67,831/- in the
+return of income. The assessee was asked to furnish the details and
+explanation in respect of claim of warranty on provision basis. The assessee
+produced / furnished details in respect of provision for warranty. The ld AO
+observed that the Hon'ble Apex Court had clearly emphasized in the case of
+Rotork Controls India (P) Ltd vs CIT reported in 314 ITR 62 (SC) that the
+assessee is entitled to deduciton provided a scientific data is systematically
+maintained on the basis of past events. In the instant case, the estimated
+claims made by the assessee cannot be recognized as a systematic data based on
+widely accepted scientific calculation supported by information of earlier
+years. Accordingly, he disallowed the provision for warranty in the assessment
+under normal provisions of the Act. The ld AO also added the same while
+computing the book profits u/s 115JB of the Act treating the same as provision
+made for unascertained liabilities. This action of the ld AO was upheld by the
+ld DRP. Aggrieved, the assessee is in appeal before us vide Grounds 11 & 16\.
+
+32.2. We have heard the rival submissions. From the perusal of the materials
+available on record, we find that the assessee had made certain supplies to
+West Bengal State Electricity Distribution Company Ltd (WBSEDCL in short) who
+had raised certain issues against the quality of the material supplied by the
+assessee. The issues against supplies being made within the warranty period
+and hence the assessee decdied to provide for the warranty on the material
+delivered which the assessee had to replace. The provision was made for Rs
+1,85,85,000/- on this account. The ld AR stated that these were specific
+bookings and did not require the assistance of a sound method backed by
+historical trends to determine its ascertainability.
+
+32.2.1. We find that the assessee had made general provisions to the tune of
+Rs 12.79 lakhs towards warranty. Apart from this, we find that the assessee
+had actually spent a sum of Rs 8.04 lakhs towards warranty during the year.
+The assessee had made total  60 61 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 provision for warranty during the year to the tune of Rs
+206.68 lacs ( 185.85+12.79+8.04) as under:-
+
+Warranty expenses Year BY10 BY09 BY08 BY07 BY06 BY05 BY04 BY03 BY02 BY01 BY00
+Sales 20,30,537 17,50,156 16,07,925 11,07,766 8,97,067 8,50,525 9,82,350
+9,74,414 13,48,417 18,71,520 12,59,382 Warranty 732 2,901 1,713 1,730 1,166
+944 1,676 804 977 3,780 725 % 0.04% 0.17% 0.11% 0.16% 0.13% 0.11% 0.17% 0.08%
+0.07% 0.20% 0.06% BY10 BY09 BY08 BY^07 BY06 BY05 BY04 BY03 BY02 BY01 BY00
+@0.110% average cost 2,560 2,206 2,027 1,395 1,131 1,072 1,738 1,228 1,700
+2,359 1,588 Additional 20% to reach full warranty cost 3,072 2,648 2,432 1,676
+1,357 1,287 1,485 1,474 2,040 2,831 1,905 Divided by 10 years 307 265 243 168
+136 129 149 147 204 283 191 Remaining Exposure (Years) 10.00 9.00 8 7.0 6.0
+5.0 4.0 3.0 2.0 1.0 -
+
+Total Warranty Exposure at 31.12.2010 3,072 2,383 1,946 1,173 814 643 594 442
+408 283 -
+
+    
+    
+    Total Accrual Needed                            11,759                                Sum of total Exposures for year 2000 to 2010
+    Total Accrual Currently Recorded                10,480
+    Difference to be booked                          1,279
+    WB Specified                                    18,585
+    Increased Provision                             19,864
+    Incurred                                           804
+    Total Charge                                    20,668
+    
+    
+    
+    
+    
+
+32.2.2. We find from the various correspondences addressed by WESEDCL to the
+assessee enclosed in pages 1381 to 1401 of Part 3 of Paper Book filed by the
+assessee informing that abnormal behaviour was noticed in the meters supplied
+by the assessee to them. The correspondences also prove that the
+representative of the assessee had duly visited the spot and agreed to the
+disturbance created by the meters supplied by the assessee to WBSEDCL. We find
+that the compliant from the said party had been received on 14.9.2010
+(enclosed in page 1381 of Part 3 of Paper Book) . The total purchase order is
+for 814000 Nos. of meters valued at Rs 68.04 crores. Out of that deliveries
+made upto the month of receipt of compliant i.e upto sept 2010 was 296000
+meters totally sold to WBSEDCL in Bankura, Burdwan and Midnapore. Out of this
+supply, 31500 units of meters have been identified to be defective pursuant to
+the personal inspection of the assessee's representative and assessee made
+provision for the same by taking the cost of production of 31500 meters and
+arrived at the figure of Rs 1,85,85,000/-. The details of the same are
+enclosed in page 1391 of Part 3 of Paper Book. We find that the assessee had
+made a provision for warranty in this regard on  61 62 ITA Nos.584 &
+687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 coming to know that it had to replace 31500 units of
+meters to WBSEDCL and accordingly considered its cost of production of Rs 590
+per meter and arrived at the figure of Rs 1,85,85,000/- , which liability is
+certain.
+
+32.2.3. We place reliance on the decisions of the Hon'ble Apex Court in Bharat
+Earth Movers vs CIT reported in 245 ITR 428 (SC) and Rotork Controls India (P)
+Ltd vs CIT reported in 314 ITR 62 (SC) to prove that the provision made for
+warranty is clearly an ascertained liability. We find that the liability had
+arisen in a year and once the same is done, it has to be allowed as a
+deduction although the said liability had to be discharged at a later date.
+The term 'provision' is explained as 'a liability which can be measured only
+by using a substantial degree of estimation'. We find from the aforesaid
+decisions of the Hon'ble Apex Court, the provision in order to be recognized
+needs to satisfy three following parameters:-
+
+> a) an enterprise has a present obligation as a result of a past event ;
+
+> b) it is probable that an outflow of resources will be required to settle
+> the obligation; and
+
+> c) a reliable estimate can be made of the amount of the obligation.
+
+If these conditions are not met, then no provision could be recognized. Once
+these parameters are satisfied and the liability for which the provision is
+created is certain to result in outflow of resources of the assessee
+irrespective of the future conduct of the business, then the liability will be
+allowed as a deduction. In the instant case, the assessee as afar as the sum
+of Rs 1,85,85,000/- , it satisfies all the criteria laid down i.e it is a
+definitive sum and is extremely certain to be incurred and is a result of the
+supplies made in the past. Accordingly, following the principles laid down by
+the Hon'ble Supreme Court supra, there is no doubt that the amount is a
+certainty for payment and has been incurred in the current previous year. Thus
+it cannot be termed as an unascertained liability.
+
+62 63
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 32.2.4. When the assessee sells his goods, the warranty
+clause is part of the sale transaction and therefore it is a committed
+liability by the assessee at the very initial stage of sale. But for
+prescription of such a warranty clause, the customer may not even buy the
+product of the assessee. In the instant case, the assessee had given the
+figures of actual warranty liability incurred and paid in the previous years
+which forms the basis of existence of warranty liability in the past. Now it
+would be pertinent to get into Clause 19 of the Purchase Order dated 16.2.2010
+issued by WBSEDCL to the assessee defining the terms and conditions of
+contract. The ld DR vehemently relied on this clause as it only mentioned
+about 'Guarantee' and there was no clause for 'warranty' in the terms and
+conditions. Accordingly the ld DR objected to the allowability of provision
+for warranty in the sum of Rs 1,85,85,000/-. For the sake of convenience, the
+relevant clause 19 under the caption 'Guarantee' is reproduced hereunder:-
+
+> 19\. Guarantee:
+
+> a) The Meters and Pilfer Proof Meter Boxes shall be guaranteed arising out
+> faulty design, materials, bad workmanship for a period of 5-1/2 years from
+> the date of supply. The meters / Pilfer Proof Meter Boxes found defective
+> within the above guarantee period should be replaced by the supplier free of
+> cost within one month on receipt of intimation. If the defective meters /
+> Pilfer Proof Meter Boxes are not replaced within the above specified period,
+> WBSEDCL will recover twice the cost of meters /Pilfer Proof Meter Boxes from
+> the supplier.
+
+> b) Name plate of the meter is to be marked with 'Guarantee of the Meter' :
+> 5- 1/2 years from the date of supply.
+
+We find from the above clause, the warranty clause is inbuilt in the Guarantee
+Clause itself. As it could be seen that the assessee in the event of any
+defective supply within a period of 5-1/2 years had to replace the meters to
+WBSEDCL and in the event of meters not getting replaced, then the assessee has
+to pay twice the cost of meters to WBSEDCL. Hence it could be safely concluded
+that the assessee had agreed for both  63 64 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 warranty (i.e replacement of defective meters) as well as
+guarantee ( of paying twice the cost of meters if meters are not replaced).
+Hence we hold that the reliance placed by the ld DR does not advance the case
+of the revenue and actually it favours the assessee. We also find that the
+Hon'ble Supreme Court in the case of Rotork Controls India (P) Ltd vs CIT
+reported in 314 ITR 62 (SC) had held as under:-
+
+> 11\. Liability is defined as a present obligation arising from past events,
+> the settlement of which is expected to result in an outflow from the
+> enterprise of resources embodying economic benefits.
+
+> 12\. A past event that leads to a present obligation is called as an
+> obligating event. The obligating event is an event that creates an
+> obligation which results in an outflow of resources. It is only those
+> obligations arising from past events existing independently of the future
+> conduct of the business of the enterprise that is recognized as provision.
+> For a liability to qualify for recognition there must be not only present
+> obligation but also the probability of an outflow of resources to settle
+> that obligation. Where there are a number of obligations (e.g., product
+> warranties or similar contracts) the probability that an outflow will be
+> required in settlement, is determined by considering the said obligations as
+> a whole. In this connection, it may be noted that in the case of a
+> manufacture and sale of one single item the provision for warranty could
+> constitute a contingent liability not entitled to deduction under section 37
+> of the said Act. However, when there is manufacture and sale of an army of
+> items running into thousands of units of sophisticated goods, the past event
+> of defects being detected in some of such items leads to a present
+> obligation which results in an enterprise having no alternative to settling
+> that obligation. In the present case, the appellant has been manufacturing
+> and selling Valve Actuators. They are in the business from assessment years
+> 1983-84 onwards. Valve Actuators are sophisticated goods. Over the years
+> appellant has been manufacturing Valve Actuators in large numbers. The
+> statistical data indicates that every year some of these manufactured
+> Actuators are found to be defective. The statistical data over the years
+> also indicates that being sophisticated item no customer is prepared to buy
+> Valve Actuator without a warranty. Therefore, warranty became integral part
+> of the sale price of the Valve Actuator(s). In other words, warranty stood
+> attached to the sale price of the product. These aspects are important. As
+> stated above, obligations arising from past events have to be recognized as
+> provisions. These past events are known as obligating events. In the present
+> case, therefore, warranty provision needs to be recognized because the
+> appellant is an enterprise having a present obligation as a result of past
+> events resulting in an outflow of resources. Lastly, a reliable estimate can
+> be made of the amount of the obligation. In short, all three conditions for
+> recognition of a provision are satisfied in this case.
+
+64 65
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 Hence we hold that the provision for warrant in the sum
+of Rs 1,85,85,000/- is an ascertained liability based on the claims made by
+WBSEDCL during the year under appeal for which the liability to incur the same
+had definitely arisen during the year under appeal and accordingly eligible
+for deduction in the year of arising of liability.
+
+32.2.5. There is no dispute with regard to the actual warranty cost incurred
+by the assessee in the sum of Rs 8,04,000/- and hence the same represents
+crystallized liability during the year which is allowable as deduction.
+
+32.2.6. With regard to the remaining provision for warranty of Rs 12,79,000/-,
+we find from page 1380 of Part 3 of Paper Book, that the assessee had arrived
+at this figure based on scientific method on a very conservative approach by
+taking the average of actual warranty liability incurred in the past 10 years
+. The said workings were very much filed before the lower authorities. Hence
+we hold that the said sum represents ascertained liability during the year
+under appeal, although the actual quantification of the same would arise in
+future. It is well settled that if the assessee is following mercantile system
+of accounting, if the business liability has definitely arisen in accounting
+year, deduction should be allowed although liability may have to be quantified
+and discharged at a future date but what should be definite is incurring of
+liability. It is not in dispute that the assessee is following mercantile
+system of accounting. This principle has been endorsed by the Hon'ble Supreme
+Court in the case of Bharat Earth Movers vs CIT reported in 245 ITR 428 (SC).
+Hence we hold that this liability of Rs 12,79,000/- is an ascertained
+liability in the year under appeal based on the systematic historical data of
+the past wherein warranty liabilities had occurred to the assessee. Reliance
+in this regard is again placed on yet another finding of the Hon'ble Supreme
+Court in the case of Rotork Controls India (P) Ltd vs CIT reported in 314 ITR
+62 (SC) wherein it was held as under:-
+
+65 66
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12
+
+> 17\. At this stage, we once again reiterate that a liability is a present
+> obligation arising from past events, the settlement of which is expected to
+> result in an outflow of resources and in respect of which a reliable
+> estimate is possible of the amount of obligation. As stated above, the case
+> of Indian Molasses Co. (P.) Ltd. (supra) is different from the present case.
+> As stated above, in the present case we are concerned with an army of items
+> of sophisticated (specialised) goods manufactured and sold by the assessee
+> whereas the case of Indian Molasses Co. Ltd. (supra) was restricted to an
+> individual retiree. On the other hand, the case of Metal Box Co. of India
+> Ltd. (supra) pertained to an army of employees who were due to retire in
+> future. In that case the company had estimated its liability under two
+> gratuity schemes and the amount of liability was deducted from the gross
+> receipts in the profit and loss account. The company had worked out its
+> estimated liability on actuarial valuation. It had made provision for such
+> liability spread over to a number of years. In such a case it was held by
+> this Court that the provision made by the assessee-company for meeting the
+> liability incurred by it under the gratuity scheme would be entitled to
+> deduction out of the gross receipts for the accounting year during which the
+> provision is made for the liability. The same principle is laid down in the
+> judgment of this Court in the case of Bharat Earth Movers (supra). In that
+> case the assessee-company had formulated leave encashment scheme. It was
+> held, following the judgment in Metal Box Co. of India Ltd.'s case (supra),
+> that the provision made by the assessee for meeting the liability incurred
+> under leave encashment scheme proportionate with the entitlement earned by
+> the employees, was entitled to deduction out of gross receipts for the
+> accounting year during which the provision is made for that liability. The
+> principle which emerges from these decisions is that if the historical trend
+> indicates that large number of sophisticated goods were being manufactured
+> in the past and in the past if the facts established show that defects
+> existed in some of the items manufactured and sold then the provision made
+> for warranty in respect of the army of such sophisticated goods would be
+> entitled to deduction from the gross receipts under section 37 of the 1961
+> Act. It would all depend on the data systematically maintained by the
+> assessee. It may be noted that in all the impugned judgments before us the
+> assessee(s) has succeeded except in the case of Civil Appeal Nos. 3506-3524
+> of 2009 - Arising out of S.L.P.(C) Nos. 14178-14182 of 2007 - Rotork
+> Controls India (P.) Ltd. v. CIT, in which the Madras High Court has
+> overruled the decision of the Tribunal allowing deduction under section 37
+> of the 1961 Act. However, the High Court has failed to notice the "reversal"
+> which constituted part of the data systematically maintained by the assessee
+> over last decade.
+
+(UNDERLINING IS PROVIDED BY US) 32.2.7. Accordingly we hold that the entire
+provision for warranty in the sum of Rs 206.68 lakhs would be squarely allowed
+as deduction in the year under appeal under the normal provisions of the Act.
+
+66 67
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 32.2.8. The next dispute in this regard is as to whether
+the said provision for warranty would have to be construed as ascertained
+liability or unascertained liability for computing the book profits u/s 115JB
+of the Act. We have already held that all the three categories of provision
+for warranties (i.e 185.85 lakhs , 12.79 lakhs and 8.04 lakhs) are clearly
+ascertained liabilities and hence there is no question of adding back the same
+to the net profits as per profit and loss account for computing the book
+profits u/s 115JB of the Act. We have already held that the liability towards
+provision for warranty has been incurred by the assessee during the year under
+appeal although the actual quantification of the same arises in future date.
+Once it is held that there is a liability which is certain, the same
+automatically falls outside the ambit of unascertained liabilities
+contemplated in the Explanation to section 115JB of the Act and accordingly
+the same would be allowed as deduction while computing the book profits u/s
+115JB of the Act. In our considered opinion, the said clause in provided in
+section 115JB of the Act only to prevent assessees from making some ad hoc
+provisions in the books , which would never crystallize , so as to reduce the
+net profits as per the books with consequential reduction in the tax payable
+u/s 115JB of the Act. That is not the case here and that is not the allegation
+also raised by the revenue in this case. The assessee herein had made
+provision for warranty based on a systematic and scientific working and method
+by taking into account the past history of incurrence product warranties and
+the said workings were also filed before the lower authorities. Hence it could
+be safely concluded that the said provision for warranty is not made based on
+ad hoc provision. Rather it has got a sound basis and judgment on the part of
+the assessee creating an obligating event on the assessee as a result of past
+events. We find that this provision would also not tantamount to provision
+made for diminution in value of assets.
+
+32.2.9. We would like to place reliance on the decision of the Hon'ble Delhi
+High Court in the case of CIT vs Becton Dickinson India (P) Ltd reported in
+(2013) 29 taxmann.com 80 (Delhi) dated 19.11.2012 wherein it was held as
+under:-
+
+67 68
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12
+
+> 6\. In the facts of the present case too this Court is of the opinion that
+> the reasoning adopted by the Tribunal cannot be found fault with. The
+> considerations which weighed with the Supreme Court in Rotork Controls India
+> (P.) Ltd.'s case (supra) in concluding such warranty provisions were not
+> contingent liabilities would apply with greater force to negate the claim by
+> the revenue that such provisions are made for diminution in the value of any
+> asset, so as to be covered by Explanation 1(i) to section 115JB of the Act.
+> In these circumstances, the Court is satisfied that no substantial question
+> of law arises for consideration.
+
+Similar view was also taken by the co-ordinate bench decision of Mumbai
+Tribunal in the case of Anchor Electricals (P) Ltd vs DCIT reported in (2015)
+81 taxmann.com 250 (Mumbai-Trib.) dated 26.4.2017 in the context of
+allowability of provision for warranty vis a vis computation of book profits
+u/s 115JB of the Act. It was held that :-
+
+> 23\. With regard to the adjustment in book profit u/s115JB is concerned, it
+> is noted that this issue is squarely covered in favour of the assessee by
+> the judgment of Hon'ble Delhi High Court in the case of Becton Dickinson
+> India (P) Ltd. (supra), wherein it has been held that the provision for
+> warranty cannot be treated as provision for diminution in value of any
+> assets so as to be covered by Explanation 1(i) to section 115JB (2) and thus
+> no additions to book profit can be made. Further, Hon'ble Supreme Court in
+> the case of Rotork Controls India (P) Ltd. (supra) held that amount of
+> provision made on account of warranty expenses cannot be said to be
+> unascertained liability. Thus, taking into account both these decisions, we
+> find that no addition could have been made u/s 115JB for this amount.
+> Therefore, addition to book profit is directed to be totally deleted.
+
+32.3. In view of the aforesaid findings and respectfully following the
+judicial precedents relied upon hereinabove, we hold that the provision for
+warranty in the sum of Rs 206.68 lakhs would be allowed as deduction under
+normal provisions of the Act as well as while computing book profits u/s 115JB
+of the Act. Accordingly, the Grounds 11 & 16 raised by the assessee for the
+Asst Year 2011-12 are allowed.
+
+68 69
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12
+
+33\. The next issue to be decided in this appeal of the assessee is as to
+whether the ld DRP was justified in upholding the disallowance made in the sum
+of Rs 10,00,472/- on account of provision for obsolescence of inventory in the
+facts and circumstances of the case. The interconnected ground is as to
+whether the same would have to be added back while computing book profits u/s
+115JB of the Act.
+
+33.1. The ld AO observed that the assessee claimed deduction on account of
+provision for obsolescence of raw materials of Rs 10,00,472/- (being the
+provision made for the year under appeal) in the return of income in respect
+of old and dead stocks which has got no realizable value. It was explained
+that assessee had converted into static meters as per the mandate of West
+Bengal Electricity Department. However, it was holding certain old stocks for
+years in view of the fact, that there might be some liability for replacement
+of those old stocks in respect of sales made in the earlier years pursuant to
+warranty clause prevailing in the old agreements. For this purpose, it had to
+maintain sufficient quantity of inventories even though it is old and not
+presently usable in the line of business of assessee. However, the same had
+become obsolete compared to the present line of business of the assessee and
+accordingly thought it fit to make a provision for those inventories on
+account of diminution. The detailed workings in this regard were duly filed
+before the ld AO which has been acknowledged by him in the assessment order
+which are enclosed in pages 1185 to 1189 of Part 3 of Paper Book. The ld AO
+disallowed the same treating the same as an unascertained liability under
+normal provisions of the Act as well as while computing the book profits u/s
+115JB of the Act. This action of the ld AO was upheld by the ld DRP by holding
+as under in page 21 of his order :-
+
+> The details of the date of manufacture of meters, etc with batch numbers and
+> quality control number which had become obsolete were not available on
+> record. Similar other details establishing the rational nexus between the
+> obsolete inventories of Rs 10,00,472/- and the specific manufactured items
+> becoming obsolescent were not  69 70 ITA Nos.584 & 687/Kol/2015 ITA Nos.549
+> & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 maintained by the A' also. The related details which
+> were required to be maintained by the A' to establish its connection with
+> the obsolete inventories were as under:-
+
+> 1) Date of manufacture of such electricity meters, etc with batch and
+> quality control inspection numbers.
+
+> 2) The reasons why such inventories were treated as obsolete.
+
+> 3) The authorities certifying that such inventories had become obsolete.
+
+> 4) The technical qualifications and the competency of such authorities to
+> declare the inventories as obsolete.
+
+> 5) The stock register containing the details and descriptions of the stocks
+> becoming obsolete.
+
+> 6) The proof of physical verification of the inventories part of which was
+> found to be obsolete.
+
+> Since the above details were not maintained by the A' the Panel has no
+> hesitation in inferring that there being no proof of actual verification of
+> the inventories leading to detection of inventories worth Rs 10,00,472/- as
+> obsolete the provision made was unascertained.
+
+33.2. Aggrieved, the assessee is in appeal before us vide Grounds 10 & 15\.
+
+33.3. We have heard the rival submissions. From the perusal of the materials
+available on record, we find that the assessee has created a provision for
+obsolete inventories amounting to Rs 10,00,472/- during the year following the
+mandate provided in Accounting Standard (AS) 2 issued by Institute of
+Chartered Accountants of India (ICAI) on 'Valuation of Inventories' , wherein,
+while creating such provision, i.e the method of valuation of stock should be
+cost or net realizable value whichever is lower. The ld AR stated that the
+items of obsolete stock are identified from the system maintained by the
+assessee . The system captures the slow moving inventories nad thereafter the
+realizable value of the stock is considered vis a vis the cost of those items.
+The items of inventory identified are those items which have lost their
+consumer acceptability over a period of time and hence are considered
+obsolete. The realizable market value considered for comparison is determined
+based upon prevalent prices and is the only practical method for comparison
+and subsequent evaluation whether an item of inventory has become obsolete or
+not. He stated that the method for determining the  70 71 ITA Nos.584 &
+687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 item of obsolete inventory being a scientific and
+commercially acceptable method and the provision created based thereupon
+indicate that the loss has actually incurred in the current period and it is
+only its actual quantification which is not possible and hence the provision
+is recorded in the books. We find from the workings of provision for obsolete
+stocks furnished before the lower authorities by the assessee (enclosed in
+pages 1185 to 1189 of Part 3 of Paper Book) that the assessee had adopted
+different percentage of provision for obsolete stocks depending upon the
+different time periods from the date of sale as under:-
+
+    
+    
+    Upto 180 days                - 0% provision
+    181-360 days                 - 25% provision - Rs 2,83,815.18
+    361-540 days                 - 50% provision - Rs       7,970.69
+    541-720 days                 - 75% provision - Rs 1,75,572.98
+    > 720 days                   - 100% provision -Rs 5,33,113.50
+                           Total Provision             Rs 10,00,472.35
+    
+
+We find from the said workings , the assessee had clearly mentioned the item
+code, description of item available in the inventories, date of last
+transaction, quantity, rate per unit and the value together with the time
+periods from the date of sale to decide the relevant provision percentage.
+Hence it could be safely concluded that the assessee had made a scientific
+calculation for making provisions based on commercially acceptable method. We
+find that the valuation of the stocks in accordance with AS-2 issued by the
+ICAI is one of the standards recognized u/s 145(2) of the Act, wherein the
+closing stock is to be valued at lower of cost or net realizable value.
+
+33.3.1. We find that this issue is directly covered in favour of the assessee
+by the decision of the Hon'ble Delhi High Court in the case of CIT vs Hotline
+Teletube & Components Ltd reported in (2008) 175 Taxman 286 (Delhi) . The
+facts before the Hon'ble Delhi High Court and the decision rendered thereon
+are as under:-
+
+71 72
+
+> ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+> A.Yr.2010-11 & 11-12 3.1 The assessee had filed a return on 20-10-2002
+> declaring a loss of Rs. 51,031. The case of the assessee was picked up for
+> scrutiny and a notice under section 143(2) of the Act was issued. During the
+> course of the assessment, it came to light that the assessee is in the
+> business of manufacture of picture tubes of black and white television sets,
+> as well as, glass shells for black and white picture tubes, electron gun and
+> glass stems. 3.2 During the course of the assessment proceedings, the
+> Assessing Officer sought explanation from the assessee with regard to
+> provision in respect of diminution in value of stock. The Assessing Officer
+> also sought the assessee's explanation as to why the provision be not added
+> back while computing the profit from business under section 115JB of the
+> said Act.
+
+> 3.3 The assessee sought to explain the provision made in respect of
+> diminution in value of stock by submitting that a sum of Rs. 12,02,973
+> debited to the profit and loss account was on account of obsolete and old
+> picture tubes. It was the assessee's say that since the demand for black and
+> white television picture tubes had diminished, the inventory with respect to
+> the same which it had been carrying for more than three years had become
+> obsolete and hence, it was unable to sell the same which, prompted the
+> assessee to write off the same as a loss.
+
+> 5\. In the instant case we find that the principle for valuing stock at cost
+> or realizable market price whichever is lower is applicable. The assessee
+> has demonstrated that the stock being obsolete did not move for over three
+> years and also the fact that it could only be sold if at all as scrap. As a
+> matter of fact, the assessee also established that in the event it is sold
+> as scrap the burden of excise duty would be much more than what it could
+> realize on sale of the said stock as scrap. The Tribunal has returned this
+> as a finding of fact. In view of these findings, it is quite clear that, all
+> that, the assessee has done by making the provision for diminution in value
+> of stock is to anticipate the loss in the value of stock.
+
+> 6\. In the circumstances, we are of the view that no substantial question of
+> law arises for our consideration.
+
+> 7\. Accordingly, the appeal is dismissed.
+
+33.3.2. In view of our aforesaid findings and respectfully following the
+judicial precedent relied upon hereinabove, we hold that the provison made for
+obsolete stocks in the sum of Rs 10,00,472/- is squarely allowable as
+deduction as a business loss under normal provisions of the Act. Accordingly,
+the Ground No. 10 raised by the assessee for the Asst Year 2011-12 is allowed.
+
+72 73
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 33.3.3. With regard to the allowability of the provision
+for obsolete stock while computing the book profits u/s 115JB of the Act, the
+ld AO had disallowed the same on the ground that it is an unascertained
+liability and accordingly to be added back while computing book profits u/s
+115JB of the Act. The ld DR argued that pursuant to the amendment brought in
+by the Finance (No.2) Act , 2009 with retrospective effect from 1.4.2001 , the
+said provision for obsolete stock represents provision made for diminution in
+value of asset and hence the same requires to be added back while computing
+the book profits u/s 115JB of the Act. When this was put to the ld AR, he
+fairly conceded for the addition u/s 115JB of the Act. Moreover, we find that
+the decision of the Hon'ble Delhi High Court supra was rendered on 11.8.2008
+which was prior to the amendment brought in by Finance (No.2) Act, 2009 with
+retrospective effect from 1.4.2001. Accordingly, the Ground No. 15 raised by
+the assessee for the Asst Year 2011-12 is dismissed.
+
+34\. The last issue to be decided in this appeal is as to whether the ld DRP
+was justified in upholding the addition made on account of provision for
+interest on MSMED in the sum of Rs 29,21,911/- in the facts and circumstances
+of the case.
+
+34.1. The ld AO observed that assessee had made provision for interest to the
+tune of Rs 29,21,911/- for making delayed payment to its suppliers who are
+registered under The Micro , Small and Medium Enterprises Development Act,
+2006 . This provision for interest in the sum of Rs 29,21,911/- was
+voluntarily disallowed by the assessee in the return of income under normal
+provisions of the Act but deduction was claimed under computation of book
+profits u/s 115JB of the Act. The ld AO treated the same as an unascertained
+liability and added back the same while computing the book profits u/s 115JB
+of the Act. This action of the ld AO was upheld by the ld DRP. Aggrieved, the
+assessee is in appeal before us vide Ground No. 14.
+
+73 74
+
+ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 34.2. We have heard the rival submissions. We find that
+as per the provisions of The Micro, Small and Medium Enterprises Development
+Act, 2006, any amount due to the supplier as defined in section 2(n) of the
+MSMED Act, should be paid on the date agreed upon between the buyer and the
+seller, which shall be before the appointed date as per section 15 of MSMED
+Act. Section 16 of the said Act provides that in case the buyer (i.e the
+assessee herein) fails to make the payment to the supplier , then the buyer
+shall be responsible to pay interest at monthly intervals on the amount due to
+the supplier from the appointed date at three times the bank rate notified by
+the Reserve Bank of India. Accordingly, the ld AR argued that the liability
+towards interest can in no way be termed as an unascertained liability as it
+gets crystallized pursuant to an independent statute. He stated that the term
+'ascertained' as defined in the Oxford Dictionary means "find out, definite,
+certain". He stated that as per the method prescribed in the MSMED Act, 2006,
+there cannot be an iota of doubt that the interest calculated and due towards
+the suppliers is an ascertained liability. It is calculated as per a set
+formula and based on the number of days of payment overdue and hence it has to
+be construed as a certain liability and not as a contingent one and
+accordingly he prayed for allowance of the same as deduction while computing
+the book profits u/s 115JB of the Act.
+
+34.2.1. As per Section 23 of the said Act, the said provision for interest is
+not allowable as a deduction under the provisions of the Income Tax Act and
+accordingly, the assessee had rightly disallowed the same in the return of
+income under normal provisions of the Act. Now the short point of dispute in
+this regard is whether the said provision for interest would have to be
+disallowed even in the computation of book profits u/s 115JB of the Act. The
+ld DR stated that the provisions of section 115JB of the Act are also part of
+the Income Tax Act, 1961 only and once section 23 of the MSMED Act, 2006
+specifically states that the said interest shall not be allowed as deduction
+under Income Tax Act, it should not be allowed as deduction even in the
+computation of book profits  74 75 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 &
+619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 u/s 115JB of the Act. The ld DR argued that only then the
+real intent of the provisions of section 23 of MSMED Act would get sanctified.
+
+34.2.2. We find that though the provisions of section 115JB of the Act are
+self contained code in itself and starts with a non-obstante clause creating a
+legal fiction regarding the total income of the assessee. The provisions of
+section 115JB of the Act have been introduced in the statute book with effect
+from 1.4.2001. The MSMED Act, 2006 received the assent of the Hon'ble
+President of India on 16.6.2006. The Provisions of Section 23 of MSMED Act ,
+2006 are reproduced hereinbelow for the sake of convenience:-
+
+> 23\. Interest not to be allowed as deduction from income Notwithstanding
+> anything contained in the Income Tax Act, 1961 (43 of 1961), the amount of
+> interest payable or paid by any buyer, under or in accordance with the
+> provisions of this Act, shall not, for the purposes of computation of income
+> under the Income-Tax Act, 1961, be allowed as deduction.
+
+34.2.3. The Provisions of section 23 of MSMED Act, 2006 also starts with non-
+obstante clause by stating 'Notwithstanding anything contained in the Income
+Tax Act, 1961'. In this regard, it was argued by the ld DR that the wisdom of
+the legislators need to be accepted that the Parliament ought to have
+considered the provisions of the earlier Act while legislating the new Act.
+Obviously the MSMED Act was legislated and assent of the Hon'ble President of
+India obtained only on 16.6.2006 which is much after the Income Tax Act, 1961
+and section 115JB of the Act contained therein. Going by the intention behind
+enacting the MSMED Act, i.e to protect the interests of the micro, small and
+medium enterprises that they get their dues in time for the supplies made by
+them and they don't get exploited by the big corporates or bigger players in
+the market,  75 76 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016 M/s
+Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 this payment of interest to those suppliers were provided
+in the MSMED Act. But we would like to state that the issue before us is to be
+decided as per the provisions contained in section 115JB of the Act. It is not
+in dispute that the revenue had sought to add back the provision for interest
+in the sum of Rs 29,21,911/- while computing the book profits u/s 115JB of the
+Act by treating the same only as an unascertained liability falling in clause
+(c ) of Explanation 1 to section 115JB(2) of the Act. For the sake of
+convenience, the said clause (c ) is reproduced below:-
+
+> Explanation 1 - For the purposes of this section, "book profit' means the
+> net profit as shown in the profit and loss account for the relevant previous
+> year prepared under sub-section (2) , as increased by -
+
+> (a) to (b) .........................
+
+(c ) the amount or amounts set aside to provisions made for meeting
+liabilities, other than ascertained liabilities 34.2.4. Now the pertinent
+question would be whether the provision for interest of Rs 29,21,911/- would
+be ascertained or unascertained liability. We find that the said provision had
+been determined with reasonable certainty pursuant to the method of
+calculation provided under the MSMED Act, 2006 (which is an independent
+statute) . Moreover, the payment of this interest to the suppliers registered
+under MSMED Act, 2006 is mandatory in nature and no option is given to the
+assessee in this regard. Hence it could be safely concluded that the said
+provision of interest would be clearly an ascertained liability. Moreover, we
+find that out of total provision of Rs 29,21,911/-, the assessee has paid a
+sum of Rs 10,71,467/- before the end of the previous year and the balance
+outstanding as on 31.3.2011 was only Rs 18,50,444/- which is quite evident
+from the annual report enclosed in the paper book of the assessee. This itself
+proves that the assessee had already discharged partial liability towards
+interest within the end of the previous year and unless the liability had
+crystallized, no assessee would come  76 77 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 forward to make payment of the same. Hence we hold that
+it is only an ascertained liability as on 31.3.2011.
+
+34.2.5. We find that the provisions of section 115JB of the Act stipulates
+that 'Book Profits' shall be deemed to be the total income of the assessee.
+The expression 'Book Profits' is defined in Explanation 1 to section 115JB of
+the Act which states as under:-
+
+> For the purposes of this section, "book profit' means the net profit as
+> shown in the profit and loss account for the relevant previous year prepared
+> under sub- section(2) , as increased by -
+
+> (a) to (k) ...........................
+
+> If any amount referred to in clauses (a) to (i) is debited to the profit and
+> loss account or if any amount referred to in clause (j) is not credited to
+> the profit and loss account, and as reduced by , -
+
+> ............................
+
+Once the expression "Book Profits" is defined in section 115JB of the Act, we
+cannot travel beyond what is defined therein and we cannot impute any other
+words or provisions therein unless otherwise specified by the statute .
+Reliance in this regard is placed on the decision of the Hon'ble Apex Court in
+the case of Apollo Tyres Ltd reported in 255 ITR 273 (SC). Admittedly the
+interest payable to suppliers under MSMED Act, 2006 is not one of the item
+contemplated for addition to net profit for the purpose of computing book
+profits u/s 115JB of the Act. It is well settled that provisions of section
+115JB of the Act creates a deeming fiction and there cannot be deeming fiction
+on an existing deeming fiction by imputing the provisions of section 23 of
+MSMED Act, 2006 into the expression "book profits" as defined in Explanation 1
+to Section 115JB of the Act. We find that there is no other clause provided in
+Explanation (1) to section 115JB(2) of the Act for increasing the book profits
+of the assessee due to this provision for interest under MSMED Act, 2006.
+Moreover, we find that the provisions of section 23 of MSMED Act, 2006
+specifies that interest payable to buyer  77 78 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 shall not for the purposes of computation of income under
+the Income Tax Act, 1961, be allowed as deduction. In this regard, the
+expression ' computation of income' used therein , in our considered opinion,
+refers to the expression 'income' referred to in section 29 or in section 57
+of the Income Tax Act. We find that Section 29 and Section 57 of the IT Act,
+1961 talks about the manner in which the income referred to in section 28 (i.e
+business or professional income) and section 56 (i.e income from other
+sources) subject to grant of certain deductions under the respective heads.
+For the sake of convenience, the provisions of section 29 and section 57 are
+reproduced hereunder:-
+
+> Section 29 \- Income from profits and gains of business or profession, how
+> computed The income referred to in section 28 shall be computed in
+> accordance with the provisions contained in sections 30 to 43D.
+
+> Section 57- The income chargeable under the head 'income from other sources'
+> shall be computed after making the following deductions, namely -
+> ..........................
+
+34.2.6. In our considered opinion, what section 23 of MSMED Act, 2006
+contemplates or refers to was the 'income' mentioned in section 29 and 57 of
+the Act i.e how the interest payable under MSMED Act, 2006 shall be treated
+while computing the income from business or profession u/s 29 or while
+computing the income from other sources u/s 57 of the Act. It cannot be
+stretched to extend to the provisions of section 115JB of the Act which is a
+deeming fiction, wherein the book profits shall be deemed to be the 'total
+income' of the assessee. The expression 'total income' as used in section
+115JB of the Act cannot be equated with 'computation of income' used in
+section 23 of MSMED Act, 2006.. It can be appropriately used only in the
+context of provisions of section 29 and section 57 of the Act. Thus while
+computing the income under normal  78 79 ITA Nos.584 & 687/Kol/2015 ITA
+Nos.549 & 619/Kol/2016 M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12 provisions under various heads alone, the provisions of
+section 23 of MSMED Act, 2006 would assume relevance and significance. Hence
+we hold that the interest payable under MSMED Act, 2006 need not be added back
+to the net profits while computing book profits u/s 115JB of the Act.
+Moreover, the ld AR also placed the scrutiny assessment orders of the assessee
+on record for the Asst Year 2014-15 u/s 143(3) of the Act dated 26.12.2016,
+wherein this aspect has been duly examined by the ld AO in the assessment and
+deduction was duly granted by him in the assessment. In view of these facts
+and findings, we hold that the provision for interest payable to suppliers
+registered under MSMED Act, 2006 in the sum of Rs 29,21,911/- is only an
+ascertained liability and need not be added back to the book profits computed
+u/s 115JB of the Act. Accordingly, the Ground No. 15 raised by the assessee
+for Asst Year 2011-12 is allowed.
+
+Revenue Appeal - Asst Year 2011-12 - ITA No. 549/Kol/2016
+
+35\. The Ground Nos.1 & 2 raised by the revenue with regard to payment of
+management service fees being held as not paid for stewardship services
+rendered by the AE to the assessee and determination of its ALP are already
+discussed at length hereinabove in Revenue's Appeal for Asst Year 2010-11 and
+the decision rendered thereon would apply with equal force to this Asst Year
+also. Accordingly, the Ground Nos. 1 & 2 raised by the revenue for the Asst
+Year 2011-12 are dismissed.
+
+36\. In the result, the appeal of the revenue for Asst Year 2011-12 is
+dismissed.
+
+37\. To sum up,  79 80 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016
+M/s Landis + Gyr Ltd.
+
+    
+    
+                                                                      A.Yr.2010-11 & 11-12
+    Sl.   I.T.A. No.           Assessment    Revenue/      Result
+    No.                        Year          Assessee
+    1     584/Kol/2015         2010-11       Revenue       Dismissed
+    2     687/Kol/2015         2010-11       Assessee      Partly Allowed for statistical
+                                                           purposes
+    3     549/Kol/2016         2011-12       Revenue       Dismissed
+    4     619/Kol/2016         2011-12       Assessee      Partly Allowed for statistical
+                                                           purposes
+    
+    
+           Order pronounced in the Court on             13 .09.2017
+    
+    
+                  Sd/-                                                    Sd/-
+            [A.T. Varkey]                                           [ M.Balaganesh ]
+          Judicial Member                                           Accountant Member
+    
+    
+    Dated : 13.09.2017
+    SB, Sr. PS
+    
+    
+    Copy of the order forwarded to:
+    
+    
+
+1\. DCIT, Circle-1(1), Kolkata, P-7, Chowringhee Square, R. No. 20, 7th Floor,
+Kolkata- 700069
+
+2\. M/s Landis + Gyr Limited, P.O.-Joka, Diamond Harbour Road, 24 Parganas
+(South), Pin-700104.
+
+3..C.I.T.(A)-4, Kolkata 4. C.I.T.- Kolkata.
+
+5\. CIT(DR), Kolkata Benches, Kolkata.
+
+True copy By Order Senior Private Secretary Head of Office/D.D.O., ITAT,
+Kolkata Benches  80 81 ITA Nos.584 & 687/Kol/2015 ITA Nos.549 & 619/Kol/2016
+M/s Landis + Gyr Ltd.
+
+A.Yr.2010-11 & 11-12  81
+

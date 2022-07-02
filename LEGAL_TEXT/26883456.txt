@@ -1,0 +1,1708 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Casio India Co. Pvt. Ltd., New ... vs Dcit, New Delhi on 22 April, 2019
+
+    
+    
+               IN THE INCOME TAX APPELLATE TRIBUNAL
+                    DELHI BENCH "I-2" NEW DELHI
+    
+         BEFORE SHRI AMIT SHUKLA, JUDICIAL MEMBER
+                            AND
+       SHRI PRASHANT MAHARISHI, ACCOUNTANT MEMBER
+    
+                       I.T.A. No.1764/DEL/2015
+                       Assessment Year: 2010-11
+    
+    CASIO India Co. Pvt. Ltd.,     v.   DCIT,
+    210, First Floor,                   Circle-5(2),
+    Okhla Industrial Estate,            New Delhi.
+    Phase-III,
+    New Delhi.
+    TAN/PAN: AAACC 3448H
+    (Appellant)                         (Respondent)
+    
+                       I.T.A. No.2276/DEL/2015
+                       Assessment Year: 2010-11
+    
+    DCIT,                          v.   CASIO India Co. Pvt. Ltd.,
+    Circle-5(2),                        210, First Floor,
+    New Delhi.                          Okhla Industrial Estate,
+                                        Phase-III,
+                                        New Delhi.
+    TAN/PAN: AAACC 3448H
+    (Appellant)                         (Respondent)
+    
+    Appellant by:                Shri Nageshwar Rao & Sandeep
+                                 Karhail, Advocates.
+    Respondent by:               Shri H. K. Choudhary CIT DR &
+                                 Robin Rawal, Sr. D.R.
+    Date of hearing:             08 02 2019
+    Date of pronouncement:       22 04 2019
+    
+    
+                                 ORDER
+    
+
+PER AMIT SHUKLA JM:
+
+The aforesaid cross appeals have been filed by the assessee as well as by the
+Revenue against the directions dated 30.12.2014 given by the Ld. Dispute
+Resolution Panel-I,  I.T.As. No.1764 & 2276/DEL/2015 2 New Delhi (DRP),
+u/s.144C (5) for the Assessment Year 2010-
+
+11\. We will first take up the assessee's appeal wherein the assessee has
+challenged; firstly, transfer pricing adjustment of Rs.9,96,08,173/- on
+account of advertisement, marketing and promotion (AMP expenses); and
+secondly, addition of Rs.3,86,63,023/- on account of bad debts.
+
+2\. The facts in brief are that the assessee, CASIO India Ltd. is a wholly
+owned subsidiary of CASIO Japan and undertakes marketing of CASIO products in
+India manufactured by its parent company and is acting as an independent
+distributor of CASIO products. During the year, assessee has undertaken the
+following international transactions as reported in TP study report: -
+
+    
+    
+    
+    Sl.    Type     of       International Total value    of Method Selected
+    No     Transaction                     Transaction
+                                           (INR)
+    1.     Purchase of finished goods     82,17,04,260/-
+    2.     Purchase of spare parts        29,04,040/-         TNMM       using
+                                                              operating
+    3.     Receipt      of       product 85,01,083
+                                                              Profit/Operating
+           guarantee fee
+                                                              Revenue as a
+    4.     Receipt of Global         SMS 28,54,895/-          PLI.
+           Modification Fee
+    5.     Provision    of      customer 50,65,985/-          TNMM       using
+           support services                                   operating
+                                                              Profit/Operating
+                                                              cost as a PLI
+    6.     Reimbursement of Expenses      31,79,549/-         No
+                                                              Benchmarking
+                                                              required.
+                                       I.T.As. No.1764 & 2276/DEL/2015    3
+    
+    
+    
+
+3\. Ld. TPO noted that the assessee has incurred AMP expenditure of
+Rs.7,49,01,076/- which has not been separately benchmarked. According to him,
+such an AMP expenses has led to building of the brand value "CASIO" which has
+benefitted the parent company who owns the brand. He further noted that in the
+past assessment years, the assessee used to receive 'Special Promotional
+Subsidy' on the basis of agreements with its AE for outsourcing of
+advertisement, whereas in this year no such subsidy to support the promotional
+activities in India has been received. The assessee has given no reason for
+the discontinuance of the said agreements. The TPO issued a detailed show
+cause notice for making transfer pricing adjustment on AMP expenditure of
+Rs.7,49,01,076/-. In the show cause notice, TPO has also incorporated the
+terms of agreement of the earlier year. In response, the assessee relied upon
+the order of the ld. CIT(A) in the case of the assessee for the Assessment
+Year 2007-08, wherein it was held that AMP expenses were found to be at Arm's
+Length and no adjustment has been made on account of AMP. It was further
+submitted that AMP expenses is a purely domestic transaction undertaken with a
+third party and it is not an 'international transaction' within the purview of
+Section 92B. Apart from that, it was also stated that commission on sale could
+not be added in AMP expenses. By incurring AMP expenditure, the actual
+beneficiary is the assessee-company only, because it helps in promoting and
+increasing the sales of the assessee in India and profit from  I.T.As. No.1764
+& 2276/DEL/2015 4 such sales is of assessee only and no economic benefit
+whatsoever has arisen to the AE.
+
+4\. Ld. TPO rejected the assessee's contention and strongly relied upon the
+decision of ITAT Special Bench in the case of LG Electronics India Ltd. vs.
+ACIT, Circle-3, Noida, ITA No.5140/Del/2011 to conclude that AMP expenditure
+is an international transaction which needs to be bench marked separately. He
+also rejected the assessee's contention that commission on sales should be
+excluded from AMP expenses on the ground that commission on sales is an
+expense that is critical for pushing and promoting the brand and there is a
+direct link between the dealer and distributor and the effort to promote a
+certain product. He noted that AMP/sales ratio in the case of assessee is 7.5%
+and hence AMP expenditure needs to be benchmarked separately. He held that
+though appropriate method to benchmark AMP would be CUP, however, the same is
+incapable of determining the ALP, since comparables having similar
+circumstances could not be found. He held that such benchmarking can only be
+done through Bright Line Test (BLT). The relevant observation of the TPO in
+this regard reads as under: -
+
+> "The bright line concept applies regardless of the functional profile of the
+> assessee. The rationale underlying the concept is simply to determine what
+> is the excessive marketing spend over and above the comparable who are not
+> promoting any brand. The excessive marketing spend leads to creation of a
+> marketing intangible for the overseas AE for which the assessee should also
+> be remunerated on an arm's length basis, regardless of its functional
+> profile. This  I.T.As. No.1764 & 2276/DEL/2015 5 requires the reimbursement
+> of the AMP spend with an appropriate mark-up to the assessee since the
+> assessee has created marketing intangible for the overseas AE. Hence,
+> whether the assessee is a low risk distributor or a full risk bearing
+> entity, it does not matter inasmuch as regardless of the same, the assessee
+> needs to be compensated for its marketing efforts.
+
+> The assessee has argued that application of the bright line concept would
+> result in a compensation for non-performance where the sales do not increase
+> but high AMP expenditure is incurred (thereby leading to a high AMP/ sales
+> ratio). Here, I wish to highlight that the assessee has not correctly
+> appreciated the concept of bright line test. For any marketing effort there
+> are two related aspects/ issues to be considered. One is the effort and the
+> other is the outcome. The bright line limit measured as a ratio of AMP to
+> sales merely indicates in relative terms the marketing effort of the
+> assessee and does not seek to measure the outcome of the effort which is a
+> separate matter altogether and may be measured in innumerable other ways
+> (moreover, the impact of marketing effort in the form of increased sales may
+> be spread over a period of time, so even if the sales in the immediate
+> period do not increase, it cannot be said that there has been no impact).
+> While applying the bright line concept, our focus is only on the marketing
+> effort undertaken by the assessee which is compared with the marketing
+> effort of similarly situated uncontrolled comparables. To the extent
+> assessee's marketing effort is greater than the routine effort (as indicated
+> by a comparison with the average AMP expenditure incurred by comparables),
+> it needs to be compensated for the excessive marketing effort."
+
+5\. TPO further rejected the assessee's contention that incurring of such AMP
+expenditure has resulted in increase in sales by bringing more customers into
+the net of the company  I.T.As. No.1764 & 2276/DEL/2015 6 or to retain old
+customers and held that consistently incurring higher AMP though results in
+increase in sales but also directly benefits the overseas AE from whom CASIO
+products are imported for resale in Indian market. He further held that AMP
+expenses are not domestic transactions, because earlier assessee had an
+agreement with AE for support of its AMP activities, and therefore, it falls
+under the ambit of international transaction. The assessee had also tried to
+demonstrate by way of an alternate argument to point out that even in the
+cases of comparables, the average AMP expenditure was around assessee's ratio,
+i.e., 5.75% and the list of such various comparables have been given at pages
+16 to 19 of the TPO's order. TPO also noted that the assessee has filed copies
+of advertisement as had appeared in the print media and also took note of the
+decision heavily relied upon by the assessee in the case of Maruti Suzuki
+India Ltd. vs. CIT, reported in (2015) 381 ITR 117 (Del). He further rejected
+the assessee's contention that AMP is covered by over all TNMM; and since
+assessee has a much higher profit margin as compared to the other comparables,
+therefore, no separate benchmarking is not required as such an higher
+expenditure is subsumed in the higher profit margin. After detailed
+discussion, TPO held that AMP has to be determined in accordance with Bright
+Line Test and after analysing the various comparable companies, he applied
+Bright Line margin of 3.62% based on certain comparables and made following
+adjustment:-
+
+I.T.As. No.1764 & 2276/DEL/2015 7
+
+    
+    
+                         Particulars                            Value (Rs.)
+    
+          Value of gross sales of Casio India                 130,16,28,045
+    
+          Arithmetic mean of AMP/Sales of                          3.62%
+          comparables
+    
+          Amount that represents 'Bright Line'                 4,71,18,935/-
+    
+          Expenditure incurred by Casio India on               7,49,01,076/-
+          AMP
+    
+          Expenditure in excess of 'Bright Line' that          2,77,82,141/-
+          ought to have been received by Casio
+          India as a compensation
+    
+    
+    
+    
+    
+
+6\. Thereafter, he also applied further mark up of 14.88% of 41,33,983/- and
+finally made adjustment of Rs.3,19,16,124/.
+
+7\. The DRP has also taken note of the finding and observation of the TPO that
+there was an agreement between the assessee and M/s. CASIO Computer Ltd.,
+Japan (AE) in the earlier years whereby AE was outsourcing the advertisement
+function to the assessee and for this purpose AE was paying special promotion
+subsidy to the assessee. The DRP further upheld that the decision of Special
+Bench in the case of LG Electronics India (supra) is squarely applicable on
+the facts of the assessee. It further observed that due to AMP expenditure
+there is a development of various intangibles like customer list, concepts,
+designs, creative thinking, music, graphics, TV spots, films, etc. The entire
+intellectual property rights relating to marketing vests with  I.T.As. No.1764
+& 2276/DEL/2015 8 AE, therefore, AMP promotes in creating intangibles for the
+AE. DRP further observed that the assessee has not submitted any agreement
+with the third party through which it has done its publicity and advertisement
+and it has also not furnished copies of advertisement provided in print media.
+The DRP proceeded on the premise that there was an involvement of the AE with
+regard to strategy factors relating to product placement and assessee has not
+submitted any agreement with the AE as was there in the earlier year. The DRP
+has also incorporated the terms of earlier agreement in the impugned order.
+Regarding issue of availability of material on record to hold whether AMP
+expenditure in addition to the expenditure benchmarked for routine
+distribution functions was in the nature of services to the AE or not, DRP had
+made following observations:-
+
+"1. The TPO has brought sufficient material on record to justify that the
+taxpayer had entered into the exercise of development of marketing intangibles
+for its AE- by incurring of expenditure as well as by application of services
+without being suitably compensated.
+
+2\. The taxpayer has been taking the plea before this Panel as well as before
+the TPO the AMP expenditure incurred by it is on its own account and for the
+benefit of the distribution function of the products in India. In order to
+verify the veracity of this contention, this Panel requested the taxpayer to
+furnish the Global Advertisement Policy of the Group. It was also specified to
+the taxpayer that incase the taxpayer contends that there is no Global
+Advertisement Policy, a certificate to that effect should be furnished under
+the seal and signature of the AE. Vide letter dated 29.10.2014, the taxpayer
+has furnished a Memorandum of Understanding between the taxpayer  I.T.As.
+No.1764 & 2276/DEL/2015 9 and the AE dated 01.07.2009. The relevant clauses of
+such Memorandum of Understanding are as under:
+
+"CASIO INDIA CO., PVT. LTD. (Herein after referred as the SECOND PARTY) has
+exclusive rights for the sale of all the products with the trade mark of CASIO
+COMPUTER CO., LTD(Herein after referred as THE PRODUCTS and FIRST PARTY
+respectively) in India (hereinafter referred as TERRITORY). Second party as
+the exclusive sales company in the territory market, shall put the best
+efforts to expand the business of the products in territory market: for the
+first party, and for aforesaid purpose provide the necessary maximum
+information to the first party and contribute to the first party's decision of
+business strategy, and the second party shall put the best efforts to expand
+and strengthen own business set up. (Bold portion - Emphasis Supplied) Second
+party as an Indian company, shall strengthen the autonomous independent
+management system, and shall remain aware about the responsibility of
+contributing to Indian society, and for aforesaid purposes, gain the necessary
+profits and work on to strengthen the marketing and distribution channel set
+ups to gain the necessary profits. The first party to gain the wide
+recognition and increase the value of its products and the registered trade
+mark, shall carry out general PR activities and events at its own cost, with
+respect to the market which the first party recognize the requisite necessity,
+and shall comply with the rules regarding the registered trade mark decided
+separately by the first party with its own appropriate decision, and in these
+cases, the second party shall fully co-operate with the first party by
+providing it with the necessary information and opinion also by measuring the
+effect of the activities carried out in its territory. (Bold portion -
+Emphasis Supplied) The second party shall carry out the necessary advertising
+and promotional activities to expand the business of the products concerned at
+its own cost and own decision within its territory.
+
+I.T.As. No.1764 & 2276/DEL/2015 10
+
+The purchase price for the second party shall be decided successively by the
+discussion between the first and second party;"
+
+From the above Clauses of the MOU, it is observed that the taxpayer is
+agreement - bound to carry out activities for the promotion of products of its
+AE. It has further been stipulated that the taxpayer is bound to furnish
+information to AE in respect of such activities carried out by it. This makes
+it amply clear that-the taxpayer is engaged in activities relating to
+promotion of brand and development of marketing intangibles for its AE. The
+taxpayer has also submitted a clarification from its AE which is reproduced
+hereunder:
+
+"Casio Computer Co., Ltd hereby, certify that the management of Casio India
+Company Private Limited and its marketing team/ department is solely
+responsible for decision making relating to the marketing strategies and
+marketing activities developed by Casio India itself and/ or expected to
+contribute to the product sales for the areas Casio India operates."
+
+However, such clarification is considered by this Panel as self-serving device
+in the light of the MOU dated 01.07.2009 and Outsourcing of Advertisement
+Agreement dated 25.04.2007. The Panel in the light of above agreements holds
+that the conduct of the taxpayer give rise to sufficient evidence for invoking
+Transfer Pricing provisions on account of development of marketing intangibles
+and brand promotion for the AE.
+
+8\. After analyzing certain contents in the TP document and also advertisement
+clipping, DRP noted that for the project development function, there was
+involvement of AE and in the advertisement clipping also there was a clear
+display of CASIO Logo and prominently which leads to enhancement of CASIO
+brand in carrying out AMP expenses.
+
+I.T.As. No.1764 & 2276/DEL/2015 11
+
+9\. The DRP has also rejected the assessee's contention that AMP is covered by
+TNMM and it has higher profit margin on OP/sales which was at 13.11% and same
+was much more than the comparables. The reason for such rejection was that the
+assessee has failed to substantiate that it was compensated on account of
+discharge of AMP services and such compensation is reflected by way of higher
+profit margin of the assessee. The pricing policy also does not include
+compensation to the assessee on account of AMP. After detailed discussion, DRP
+held that neither the Indian transfer pricing law nor the international
+practice supports the simultaneously benchmarking of ALP of different
+transactions.
+
+10\. The DRP also rejected the search process of the comparables conducted
+both by the assessee as well as by the TPO and observed that in absence of any
+details provided by the assessee with regard to the price details on which the
+assessee has sold to the third in India or abroad, internal CUP cannot be
+worked out. The DRP then further carried out its own search process on
+'Prowess' database relating to companies in 'Trade in Electrical Machinery'.
+The comparables selected by the DRP were as under:
+
+    
+    
+    Company      Sales    OR        OC        OP      OP/Sal      NP       NP/sal      GP      GP/sal   AMP    AMP     Intang    RPT
+    Name                                              es                   es                  es              %       %
+    
+    Savex        1161.1   1161.1    1119.6    41.53   3.58        18.83    1.62        101.7   8.76     1.92   0.17    0.00      0.02
+    Computers    4        9         6                                                  6
+    Ltd.
+    
+    Nouveau      133.91   133.76    133.17    0.59    0.44        0.25     0.19        0.83    0.62     0.03   0.02    0.00      0.03
+    Global
+    Ventures
+    Ltd.
+                                                                       I.T.As. No.1764 & 2276/DEL/2015               12
+    
+    Aashee         19.95    19.95    19.82    0.13    .065    0.1     0.50    0.15    0.75    0       0.00   0.00    0.05
+    Infotech
+    Ltd.
+    
+    Beetel         595.8    542.59   542.48   0.11    0.02    49.82   8.36    29.76   4.99    41.76   7.01   0.55    0.05
+    Teletech
+    Ltd.
+    
+    Priya Ltd.     192.18   192.79   187.12   5.67    2.95    -1.16   -0.60   10.24   5.33    0.38    0.20   0.00    0.09
+    
+    Cyber          3.92     4.23     3.97     0.26    6.63    -0.27   -6.89   0.75    19.13   0       0.00   0.00    0.51
+    Media
+    Digital
+    Ltd.(merge
+    d)
+    
+    Redington      6188.9   6599.3   6395.6   203.7   3.29    -       -5.24   432.0   6.98    0.7     0.01   0.01    0.55
+    (India) ltd.   9        8        4        4               324.2           2
+                                                              3
+    
+    Spanco         1182.9   1299.5   1163.7   135.7   11.48   -       -9.11   288.4   24.38   0.81    0.07   0.38    0.73
+    Ltd.           5        1        3        8               107.7           4
+                                                              5
+    
+    Jupiter        189.1    185.53   177.08   8.45    4.47    4.5     2.38    24.41   12.91   6.61    3.50   0.13    0.90
+    Internation
+    al Ltd.
+    
+    Compuage       1087.8   1125.2   1107.5   17.63   1.62    -       -3.03   119.7   11.01   0       0.00   0.00    1.15
+    Infocom                          7                        33.01           2
+    Ltd.
+    
+    GES            100.6    100.56   100.23   0.33    0.33    -0.13   -0.13   119.7   11.01   0       0.00   0.00    1.92
+    TEchnologi                                                                2
+    es Ltd.
+    
+    Salora         524.55   526.66   530.47   -3.81   -0.73   -       -2.22   29.77   5.68    3.45    0.66   0.15    2.01
+    Internation                                               11.65
+    al Ltd.
+    
+    Softcell       107.53   107.04   96.85    10.19   9.48    5.48    5.10    24      22.32   0.32    0.30   0.64    3.90
+    Technologi
+    es Ltd.
+    
+    Spice          1039.8   1137.7   1037.1   100.5   9.67    -       -3.39   356.2   34.26   128.5   12.3   0.17    10.2
+    Mobility       1        2        8        4               35.22           8               9       7              8
+    Ltd.
+    
+    Adit           1.64     1.64     1.8      -0.16   -9.76   -0.1    -6.10   0.15    9.15    0       0.00   4.27    13.4
+    Ecommerc                                                                                                         1
+    e Pvt. ltd.
+    
+    Average                                           2.94            -1.23           11.28           1.62
+    
+    
+    
+    
+    
+
+11\. However, after detailed discussion, the DRP observed that Bright Line
+Test is nothing but CUP method used by the TPO for determination of the ALP on
+AMP services and upheld BLT for benchmarking the AMP expenditure to justify TP
+adjustment.
+
+I.T.As. No.1764 & 2276/DEL/2015 13
+
+12\. Further on the issue of applying of mark up of 14.88%, DRP directed the
+TPO to quantify the amount of AMP service charges receivable by the AE ad
+apply a rate equal to the base rate of SBI to the Financial Year under
+consideration and apply at 150 base point.
+
+13\. Regarding TPO's action in holding sales relating to expenses, namely,
+trade discounts, commission etc as part of AMP expenditure, the DRP has upheld
+the same on the ground that the decision of the ITAT Special Bench in the case
+of LG Electronics Pvt. Ltd. (supra) is pending before the Hon'ble Delhi High
+court.
+
+DECISION
+
+14\. We have heard the rival submissions and also perused the relevant
+findings given in the impugned orders as well as material referred to before
+us. The assessee had carried out various international transactions with the
+AE like purchase of finished goods, purchase of spare parts, receipt of
+product, guarantee fee, receipt of applicable SMC, modification fees and
+provision of customer support services. All these international transactions
+reported in TP study report has been benchmarked by adopting TNMM using PLI of
+operating profit/operating revenue. The assessee's sales has been reported at
+Rs.130,16,28,045/- as against the total purchase of goods for resales,
+processing charges, consumable, computer material and spare parts of Rs.100.81
+crores; and purchases from the AEs of finished goods was at  I.T.As. No.1764 &
+2276/DEL/2015 14 Rs.82,17,04,260/- and spare parts worth Rs.29,04,040/-. The
+service income was shown at Rs.1.91 crore. For trading activities, the
+assessee had shown net operating profit of 13.11%. The AMP expenditure debited
+in the profit and loss account was Rs.5,96,81,200/- and commission on sales
+was debited at Rs.1,52,19,876/-, aggregating to Rs.7,49,01,076/-. Here, in
+this case, both TPO and DRP have heavily relied upon the agreements entered
+into the assessee and its AE, M/s. CASIO Computer Ltd., Japan in the earlier
+year, whereby the assessee was outsourcing the advertisement function to the
+assessee and for this purpose, AE was paying special promotion subsidy to the
+assessee company. The relevant agreement dated 25th April, 2007 reads as
+under:
+
+> "Outsourcing of Advertisement agreement "This agreement was presented as of
+> 25th April 2007 by and between CASIO COMPUTER CO. LTD. duly organized and
+> existing under and by virtue of the laws and regulations of Japan and having
+> its principal office at 6-2 Hon- machi 1 chome Shibuya- Ku, Tokyo 151-8543,
+> Japan (hereinafter referred to as "CASIO"), and CASIO INDIA CO., PVT, LTD.
+> duly organized and existing under the laws and regulations of India and
+> having its principal office at 217- A, Okhla Industrial Estate, Phase- III,
+> New Delhi 110020 (hereinafter called CASIO INDIA).
+
+Article 1: Subject Strictly for the increased sales and enhancement of the
+brand image and reputation of Casio Watch & Clock in India, Casio India Co.
+carries out local promotion on behalf of Casio, CasioIndia shall make advance
+planning for such local promotion activities and furnish Casio with the
+schedule and its relevant estimated  I.T.As. No.1764 & 2276/DEL/2015 15
+quotation before execution for possible comments, suggestions and alternations
+and final approval by Casio.
+
+Article 2: Indemnification In any case, CASIO INDIA will indemnify and hold
+CASIO harmless from any and all damages and expenses occurred to CASIO in
+connection with any claim or suit brought against CASIO alleging infringement
+of third party.
+
+Article 3 Payment and Subsidy Amount Casio shall pay to Casio India the
+expenses only after Casio receives the evidence. However, Casio's payment to
+Casio India shall not exceed JPY 7,000,000 (say Japanese Yen seven million
+only). Casio India shall invoice Casio not later than 30th September, 2007 to
+comply with the fiscal year end accounting purpose of Casio.
+
+Article 4: Period Promotion under this agreement must be carried out strictly
+in the period starting 25 day of April, 2007 and ending by 30the September,
+2007. Casio shall be exempted from payment for promotion executed before
+and/or after this period.
+
+Article 5: Evidence Casio shall be exempted from payment of the agreed amount
+unless such evidence as described below are completely presented to CASIO.
+
+1) Invoice to CASIO duly signed by CASIO INDIA.
+
+2) Copies of corresponding invoices to concerned party (parties) issued by a
+local advertising agencies and/or media.
+
+3) The proofs of advertisement carrying' the date of execution.
+
+I.T.As. No.1764 & 2276/DEL/2015 16
+
+Article 6: Entire Agreement All other conditions not specifically set forth in
+this agreement shall be amicably discussed by the two parties. This agreement
+shall supersede all the verbal or written advertising agreements or
+memorandum, if any, made between the parties prior to the agreement."
+
+15\. The aforesaid agreement first of all was relevant only for the period
+starting from 25th April, 2007 and ended by 30th September, 2007. It was only
+for this brief period the agreement for outsourcing for advertisement was
+entered. Based on this agreement which was relevant for the financial year
+2007-08, i.e., Assessment Year 2008-09, the same agreement has been
+interpreted and presumed to be enforceable in the Assessment Year 2010-11 by
+the authorities below.
+
+16\. Before us, learned counsel, Shri Nageshwar Rao has submitted that, no
+such agreement or type of such agreement was there in the relevant Assessment
+Year and it would be erroneous to presume that such an agreement would be
+there for this Assessment Year also. From the very terms of the agreement it
+can be seen that, it was only for the limited period of six months, i.e., for
+25th April, 2007 to 30th September, 2007. He further submitted that assessee
+is an independent and full-fledged distributor having entire risk of
+distribution and sales of CASIO products. The entire marketing strategy has
+been independently planned and executed by CASIO India and it is the assessee
+alone which  I.T.As. No.1764 & 2276/DEL/2015 17 conducts marketing activities
+like market research, creation of product, brochure, monitoring, market
+demand, formulating market strategy and budgets. The assessee alone was
+responsible for deciding types of marketing activities to be performed and
+determines independently the appropriate advertisement and marketing mixed in
+telephone, newspaper magazines, road shows etc. From nowhere, it can be
+inferred that any AMP expenditure has been incurred either on behest on AE or
+for providing any kind of benefit to the AE. The assessee has been
+independently purchasing the finished goods and spare parts from the AE and
+selling the same in carrying out the sales activity in India entirely at its
+own risk. He further submitted that the DRP has incorrectly observed that TPO
+has brought sufficient material on record to justify that the assessee has
+entered into the exercise of development of marketing independently by its AE
+by incurring AMP expenditure. Such an inference is purely based on surmise
+dehors any material on record. The assessee had furnished all the
+advertisement material before the TPO which has also been acknowledged by him
+and the DRP has wrongly held that no such material was filed before the TPO.
+Even from bare perusal of the MOU dated 01.07.2009 noted by the DRP, nowhere
+it is borne out that the assessee has to carry out AMP functions either at the
+behest of the AE or providing any kind of benefit to the AE. It only
+highlights that the assessee shall put best effort to expand the business of
+the product in the territory market and to co-operate AE by providing  I.T.As.
+No.1764 & 2276/DEL/2015 18 necessary information and opinion of the activities
+carried out in its territory. In fact from the said MOU, it is clearly borne
+out that all the necessary advertisement and promotional activities is done by
+the assessee on its own cost. Thus, it cannot be held that incurring of AMP
+expenses for promotion of sale by the assessee company was to provide any kind
+of benefit to the AE which needs to be reckoned as separate international
+transaction. He further submitted that ultimately both TPO and DRP have upheld
+the application of BLT which now stands rejected by the Hon'ble Delhi High
+Court in series of judgment, viz., Sony Ericson Mobile Communication India
+Ltd. reported in (2015) 374 ITR 118, Maruti Suzuki India Ltd. vs. CIT, (2015)
+381 ITR 117, CIT vs. Whirlpool India Ltd., 280 ITR 154 and Bausch & Lomb
+Eyecare (India) Pvt. Ltd. vs. ACIT, 381 ITR 227. Thus, here in this case,
+there is no independent international transaction which needs to be separately
+benchmarked and the issue involved is squarely covered by the decision of
+Hon'ble High Court wherein the decision of Special Bench of ITAT wherein the
+case of LG Electronics has been reversed.
+
+17\. On the other hand, ld. CIT DR strongly relied upon the order of the DRP;
+and further submitted that, once there was an agreement for reimbursement of
+advertisement expenses it goes to prove the conduct of the AE and assessee
+company, that AMP expenditure has to be expended on the direction and control
+of the AE. He further submitted that the assessee undisputedly is a
+distributor of its AE and brand is owned by  I.T.As. No.1764 & 2276/DEL/2015
+19 the AE and therefore any value addition created by AMP expenses directly
+benefits the AE. The assessee before the DRP has admitted that it has been
+adequately compensated by premium return for excess of AMP spend through sale
+of products in the Indian market and its pricing policy for various
+International transactions. Under these facts, findings of Hon'ble High Court
+of Delhi in the case of Sony Ericson in para 52 & 53 is squarely applicable as
+in present case also the assessee has admitted that it has been compensated
+properly for all function on entity level i.e. distribution and other
+functions. The relevant portion of judgement of Hon'ble Delhi High Court in
+the case of Sony Ericson in ITA No. 16/2014 is reproduced as under:
+
+> "52. The contention that AMP expenses are not international transactions has
+> to be rejected. There seems to be an incongruity in the submission of the
+> assessee on the said aspect for the simple reason that in most cases the
+> assessed have submitted that the international transactions between them and
+> the AE, resident abroad included the cost/value of the AMP expenses, which
+> the assessee had incurred in India. In other words, when the assessed raised
+> the aforesaid argument, they accept that the declared price of the
+> international transaction included the said element or function of AMP
+> expenses, for which they stand duly compensated in their margins or the
+> arm's length price as computed.
+
+> 53\. We also fail to understand the contention or argument that there is no
+> international transaction, for the AMP expenses were incurred by the
+> assessed in India. The question is not whether the assessed had incurred the
+> AMP expenses in India. This is an undisputed position. The arm's length
+> determination pertains to adequate  I.T.As. No.1764 & 2276/DEL/2015 20
+> compensation to the India, AE for incurring and performing the functions by
+> the domestic AE. The dispute pertains to adequacy of compensation for
+> incurring and performing marketing and 'non- routine' AMP expenses in India
+> by the AE. The expenses incurred or the quantum of expenditure paid by the
+> Indian assessee to third parties in India, for incurring the AMP expenses is
+> not in dispute or under challenge. This is not a subject matter or arm's
+> length pricing or determination. "
+
+17\. Considering the above positions of law, it is clear that AMP expense
+incurred by the assessee is an international transaction. The argument that
+Hon'ble High Court in subsequent decision in the case of Maruti Suzuki cited
+supra has held that the revenue has to establish AMP function as international
+transaction is not applicable to the facts of the case, as in the case of
+Maruti Suzuki India Ltd. was a manufacturer and not a distributor. In the case
+of manufacturer there is no import of finished goods from the AE which may
+compensate for AMP functions on behalf of AE. Further in the case of Maruti
+Suzuki Ltd., the assessee company was also owing Maruti Brand as per para 17
+of the said order. The issue was that AE's trademark 'Suzuki' was also
+advertised for increasing brand value. The relevant portion of the order is
+reproduced as under:-
+
+> "In the final order, the TPO came to the conclusion that the trade mark
+> 'Suzuki' owned by the SMC had piggybacked on the trade mark 'Maruti without
+> any compensation being paid by SMC to MSIL. He also came to the conclusion
+> that the trade mark 'Maruti' had acquired the status of a 'super brand'
+> whereas the trade mark 'Suzuki' was a relatively weak brand. He concluded
+> that the  I.T.As. No.1764 & 2276/DEL/2015 21 promotion of the co-branding of
+> 'Maruti-Suzuki' had resulted in (a) promotion of the trade mark of the AE;
+> (b) the use of the trade mark 'Maruti' of the MSIL; (c) reinforcement of the
+> Suzuki trademark which was a weak brand as compared to Maruti in India and;
+> (d) impairment of the value of the Maruti trademark due to co-branding
+> process."
+
+18\. Subsequent decision by Hon'ble High Court in case of Whirlpool India Ltd.
+ITA No. 610/2014 has followed decision of in the case of Maruti Suzuki being
+manufacturer; though in those cases no brand was owned by the assessee. In any
+case the decision of Maruti is not applicable in distributor's case. In past
+year, there has been compensation/subsidy from AE to the assessee for
+performing and enhancing brand building of AE. Overall functions including
+distributions AMP during this year is similar. Therefore, during this year
+also the assessee is performing AMP functions on behalf of AE. Thus, he
+submitted that AMP expense may be held as an International Trisection and
+bench making of AMP has to be done in accordance with the decision of Hon'ble
+Delhi High Court in the case of Sony Ericson after verifying the AMP and
+distribution function of the assessee and comparables.
+
+19\. After considering the entire gamut of facts and contentions raised by the
+parties, we find that both TPO and ld. DRP have ultimately benchmarked the AMP
+expenditure by applying Bright Line Test, willfully relying upon the decision
+of Special Bench in the case of LG Electronics India Pvt. Ltd. vs. ACIT, 140
+ITD 41, wherein this approach was  I.T.As. No.1764 & 2276/DEL/2015 22 upheld.
+However, subsequently the Hon'ble Delhi High Court in the case of Sony Ericson
+Mobile Communication India Pvt. Ltd. (supra) categorically held that BLT was
+not a valid test for determining the ALP transaction as it was not statutorily
+mandated. Later on, the Hon'ble Jurisdictional High Court has expanded this
+jurisprudence in other cases like Maruti Suzuki India Ltd, Whirlpool India
+Ltd.; and Bausch & Lomb Eyecare (India) Pvt. Ltd. (supra). The distinction has
+been sought to be drawn by the ld. CIT-DR that the judgment of Sony Ericson
+was with regard to the batch of appeals dealing with the assessee who were
+distributors and subsequent judgments dealt with manufacturers who were
+operating as risk bearing entities. Here, in this case, the assessee
+undisputedly is an independent distributor whereby it was purchasing finished
+goods and spare parts from its AE and selling the same in India on its own
+risk and the profit derived from such sales has been offered to tax in India.
+The FAR of the assessee company for its trading segment as given in T.P. Study
+Report, which is not in dispute by the department are that:
+
+ Casio India imports finished goods and spares for further distribution in
+the Indian market. These finished goods and components are in the nature of
+office automation products such as handheld calculators, desktop calculators,
+scientific calculators, printing calculators, data banks, digital diaries,
+label printers, PDA, wrist watches, digital clocks, digital cameras,
+electronic cash  I.T.As. No.1764 & 2276/DEL/2015 23 registers, projectors and
+Electronic musical instruments. For this purpose, Casio India places the order
+directly with the AE which undertakes the responsibility of supplying the said
+products.
+
+Marketing  Marketing strategy functions are those activities that- determine
+the positioning of a firm s product in a market and that establish marketing
+techniques that bring the products to the customers' attention.
+
+ Local marketing strategy is independently planned and executed by Casio
+India. Casio India conducts marketing activities such as performing market
+research, creation of product brochures, monitoring market demand, formulating
+marketing strategies and budgets. Casio India is responsible for deciding the
+types of marketing activities to be performed and the timing of these
+activities in India. Casio India determines the appropriate advertising and
+marketing mix in television, newspaper, magazine, cinema, print, road shows
+and technical training seminars. Packaging and Labelling  Packaging and
+labelling activities involve the determination of the manner in which a
+product is packaged and labeled for shipment to a customer and the execution
+of those decisions. Packaging and labelling requirements are often affected by
+the legal and regulatory environment of both the party shipping and party
+receiving the product.
+
+I.T.As. No.1764 & 2276/DEL/2015 24
+
+ Products are dispatched by the manufacturers in the final packed condition
+along with an instruction manual. However, Casio India inserts a warranty
+card. Thus, Casio India incurs negligible packaging costs.
+
+Pricing  Casio India is also responsible for setting the price of products
+sold to customers. The main factors impacting the price of products sold to
+customers in India are:
+
+• Product margins (various pricing structures, rebates, bundled products
+etc.);
+
+• Sales volume;
+
+• Market share • Strategic segmentation, level of competition and channel
+capability.
+
+• Determining the level of rebates provided to customers is also the
+responsibility of Casio India.
+
+Sales  The sales function refers to all activities associated with direct
+customer contact and negotiations to bring at cut purchases by the customer of
+the firm s products.
+
+ Casio India employs a sales force that is responsible for both identifying
+and developing new business opportunities and maintaining the existing
+customer base in India. The sales force is also responsible re-negotiating
+with customers in relation to product purchases and pricing. Casio India sets
+sales forecasts any sales targets  I.T.As. No.1764 & 2276/DEL/2015 25 on an
+annual basis to assist in the product planning and budgeting process.
+
+Distribution Channel  Distribution networks enable the firm to locate
+customers, determine their needs and provide services or products to meet
+those needs.
+
+ Casio India determines the distribution channel for products sold in India.
+Casio India is responsible coordinating the distribution of the products
+through their own distribution channels as well as through is extensive dealer
+network.
+
+Customer Support  Customer support involves provision of product information
+to the client, advising them on the selection, optimal use and maintenance of
+the product, training customers, provision of technical support and product
+servicing.
+
+ The products of Casio India are sold with a warranty. Casio India is
+responsible for determination of terms ar; conditions of warranty for various
+products sold by it and consequently for costs incurred in this connection.
+Additionally, it also maintains an after sales service team which is
+responsible of providing repair and maintenance services to Casio India's
+customers. Casio India also received as product guarantee fee from Casio
+Japan.  The functions performed by Casio India and its AEs, are summarized in
+the table below:
+
+I.T.As. No.1764 & 2276/DEL/2015 26
+
+    
+    
+      Type of Functions                              Casio India          AEs
+    I Strategic Management
+     Corporate Strategy                                  Yes             Limited
+     Budgeting                                           Yes               No
+    
+     Corporate sen ices
+    | Administration                                     Yes               No
+    | Product Development Functions
+      Product Strategy and design                        No               Yes
+    | Procurement Functions
+     Purchasing                                          Yes               No
+     Pricing Mechanism                                   Yes              Yes
+    
+    Move functions
+    Inventory Management                                Yes               No.
+    Logistics                                           Yes               No
+    Sales & Marketing Function
+     Marketing                                          Yes               No
+     Packaging and Labelling                            No                Yes
+     Pricing                                            Yes               No
+     Sales                                              Yes               No
+     Distribution Channel                               Yes               No
+     Customer Support                                   Yes             Limited
+    
+    
+    
+    Business Risk/ Market Risk
+    
+    
+
+ Business risk arises when a firm is subject to adverse sales conditions due
+to either increased competition in the marketplace, adverse demand conditions
+within the market, or the inability to develop markets or position products to
+service targeted customers.
+
+ Casio India bears the market risk since it is also responsible for marketing
+the goods to ensure that the targeted sales volume results in recovery of
+purchase price, related expenses and a reasonable margin. Casio India is
+responsible for any price fluctuation in the market  I.T.As. No.1764 &
+2276/DEL/2015 27 and for any under-recovery of fixed or variable costs.
+Further, Casio India has to bear the impact of any lack of demand in the
+Indian market for any product though due to its trading business it has the
+flexibility to discontinue slow moving models without any significant costs.
+
+ In summary, the market risks potentially faced by Casio India in India
+includes:
+
+• increased rate of technological obsolescence; • high levels of competition
+from other companies in the Indian market; and • increased pricing pressure
+from customers. However, since the AE supplies finished goods and components
+to Casio India, they would also be affected by decline in demand and price
+fluctuation in India. Therefore, the AEs also bear limited business risk.
+
+Inventory Risk  This risk relates to the potential for losses associated with
+carrying product or component inventory. Losses include obsolescence,
+shrinkage, or market collapse such that products are only saleable at prices
+that are inadequate to cover product costs.
+
+ Casio India is responsible for storage of imported finished goods and spares
+and subsequently for sale of these goods. Thus, the inventory risk is borne by
+Casio India. However, for sales made to Casio India, Casio Japan maintains
+certain inventory and thus bears the associated inventory risk.
+
+I.T.As. No.1764 & 2276/DEL/2015 28
+
+Scheduling Risk  Scheduling risk relates to the uncertainty involved in
+scheduling import of finished goods in respond m unpredictable fluctuations in
+demand. Scheduling risk is of particular concern for companies with highly
+volatile demand or demand that is extremely sensitive to timing of product
+delivery.
+
+ Casio India would primarily bear the scheduling risk as it would enter into
+contract with customers. Casio India would place the order on the AE along
+with delivery schedules. While the AE would be responsible to meet TC orders
+provided by Casio India within the stipulated timeframe, it also bears the
+scheduling risk with respect to demands made by Casio India.
+
+Product Liability Risk  Product liability risk refers to the risk associated
+with the possibility of facing legal action from customers due to defects in
+the products provided.
+
+ All products sold by Casio India carry a warranty on labour and parts. Thus,
+Casio India bears the costs, associated with warranty repair services. These
+costs are taken into account during price negotiations between Casio India and
+its suppliers. Casio India also bears the product liability risk as it
+compensates the customer; are any defect in the products. Also since Casio
+Japan provides a product guarantee fee to Casio India, the  I.T.As. No.1764 &
+2276/DEL/2015 29 product liability risk is shared by the transacting entities.
+
+ However in exceptional cases such as an inherent product fault or recall
+which impacts a group of prod which is due to product quality issue, the costs
+(including product recall) involved are borne by the product manufacturer.
+
+Credit and Collection Risk  When an entity supplies products or services to a
+customer in advance of customer payment, the firm runs risk of default of such
+payment.
+
+ Since the AEs export goods to their group entity (i.e. Casio India), they
+bear a limited credit and collection r L In relation to payment due to Casio
+India from the end- customers in the Indian market, Casio India bearing
+related credit and collection risks such as delay in collection of
+receivables, bad debts, etc. Foreign Exchange Risk  Exchange rate risk
+relates to the potential variability of profits that can arise because of
+changes in foreign exchange rates and arises whenever the transacting currency
+of an entity is different from its June:, currency.
+
+ All payments to the AEs are made in USD which is not the functional currency
+of the AE or Casio India. Hence both Casio India and its AE bear the risk of
+foreign exchange rate fluctuation between USD and their functional currency.
+
+I.T.As. No.1764 & 2276/DEL/2015 30
+
+20\. From the above FAR analysis, it can be seen that Casio India is
+independent risk bearing distributor who is entirely responsible for
+marketing, sales, distribution, budgeting, pricing, market and sales strategy,
+etc. and also bears all the major risks as any independent distributor would
+undertake. Hence, it cannot be inferred that AE has any role for sales and
+marketing in India or assessee is carrying out sales or marketing at the
+behest of AE or for its own benefit. Now we have to see that under the facts
+and circumstances of the case and on FAR analysis, is incurring of AMP
+expenditure is an international; transaction within the ambit of the Act.
+
+21\. Section 92B defines the international transaction in the following
+manner: -
+
+> "(1) For the purposes of this section and sections 92, 92C, 92D and 92E,
+> "international transaction" means a transaction between two or more
+> associated enterprises, either or both of whom are non-residents, in the
+> nature of purchase, sale or lease of tangible or intangible property, or
+> provision of services, or lending or borrowing money, or any other
+> transaction having a bearing on the profits, income, losses or assets of
+> such enterprises and shall include a mutual agreement or arrangement between
+> two or more associated enterprises for the allocation or apportionment of,
+> or any contribution to, any cost or expense incurred or to be incurred in
+> connection with a benefit, service or facility provided or to be provided to
+> anyone or more of such enterprises.
+
+I.T.As. No.1764 & 2276/DEL/2015 31
+
+From the plain reading of the aforesaid Section, it is quite clear that:
+
+(i) the transaction has to be between two or more associated enterprises
+either or both of whom are non-resident;
+
+(ii) the transaction is in the nature of purchase, sale or lease of tangible
+or intangible property or provision of services or lending or borrowing money;
+
+(iii) or any other transaction having bearing on the profits, income, loss or
+assets of such enterprises;
+
+(iv) all such nature of transaction described in the section will also include
+mutual agreement and the arrangement between the parties for allocation or
+apportionment or any contribution to any cost or expenses incurred or to be
+incurred in connection with benefit, services and facility provided to any of
+such parties.
+
+Relevant Explanation to Section 92B as inserted by the Finance Act, 2012 reads
+as under: -
+
+> "i. the expression "international transaction" shall include--
+> ..............................
+
+> (b) the purchase, sale, transfer, lease or use of intangible property,
+> including the transfer of ownership or the provision of use of rights
+> regarding land use, copyrights, patents, trademarks, licences, franchises,
+> customer list, marketing channel, brand, commercial secret, know-how,
+> industrial property right, exterior design or practical and new design or
+> any other business or commercial rights of similar nature;
+
+> Clause (ii) of the said explanation reads as follows-
+
+> ii. the expression "intangible property" shall include--
+
+I.T.As. No.1764 & 2276/DEL/2015 32
+
+> (a) marketing related intangible assets, such as, trademarks, trade names,
+> brand names, logos;....................."
+
+Thus, under the expanded definition of the term 'international transaction'
+intangible property has been defined to include marketing related intangible
+assets such as trademark, trade name, brand name and logos, etc. This inter
+alia means that where two AEs engaged in the transaction which involved,
+purchase, sale, transfer, lease or use of intangibles rights then the same
+shall be classified as international transaction. From the above, definition,
+apart from transaction relating to purchase, sale or lease of tangible or
+intangible property, services lending or borrowing money, etc., functions
+having bearing on the profits, income, losses or assets is reckoned as
+international transaction. Besides this, if such a transaction is based on any
+mutual agreement or arrangement between the AEs for allocation or any
+contribution to any cost or expenditure incurred or to be incurred for the
+benefit, service or facility, then also such an agreement or arrangement is
+treated as international transaction. Clause (v) of Section 92F reads as
+under:
+
+> "92F (v). "transaction' includes an arrangement, understanding or action in
+> concert, -
+
+> (A) Whether or not such arrangement, understanding or action is formal or in
+> writing; or (B) Whether or not such arrangement, understanding or action is
+> intended to be enforceable by legal proceedings."
+
+This definition of transaction has to be read in conjunction with the
+definition given in section 92B, which means that the transaction has to be
+first in the nature given in Section 92B (1);
+
+I.T.As. No.1764 & 2276/DEL/2015 33
+
+and then when such transaction includes any kind of arrangement, understanding
+or action in concert amongst the parties, whether in writing or formal, then
+too it is treated as international transaction. Here the conjoint reading of
+both the sections lead to an inference that in order to characterized as
+international transaction, it has to be demonstrated that transaction arose in
+pursuant to an arrangement, understanding or action in concert. Such an
+arrangement has to be between the two parties and not any unilateral action by
+one of the parties without any binding obligation on the other or without any
+mutual understanding or contract. If one of the parties by its own volition is
+incurring any expenditure for its own business purpose, then without there
+being any corresponding binding obligation on the other or any such kind of an
+arrangement actually existing in wring or oral or otherwise, it cannot be
+characterized as international transaction within the scope and definition of
+Section 92B (1).
+
+22\. The Hon'ble Delhi High Court in the case of Maruti Suzuki, Whirlpool and
+Bausch & Lomb have categorically held that for an international transaction to
+exist within a meaning of Section 92B, the onus is on the Revenue to show
+there existed an agreement and understanding or arrangement that Indian entity
+would enter in AMP expenditure for or on behalf of AE which owns the brand. In
+absence of such an 'action and concern', no functional transaction can said to
+exist. In the case of Whirlpool India Ltd., the Hon'ble Jurisdictional High
+Court has laid down the following principle:-
+
+I.T.As. No.1764 & 2276/DEL/2015 34
+
+(a) Sections 92B to 92F contemplate the existence of an international
+transaction as a pre-requisite for commencing the TP exercise. The Court
+observed that "to begin with there has to be an international transaction with
+a certain disclosed price. The TP adjustment envisages the substitution of the
+price of such international transaction with the ALP". (Para 33).
+
+(b) The Court went to hold that, "the TP adjustment is not expected to be made
+by deducing the difference between the excessive AMP expenditure incurred by
+the Assessee and the AMP expenditure of a comparable entity that an
+international transaction exists and then proceed to make the adjustment of
+the difference in order to determine the value of such AMP expenditure
+incurred for the AE. It is for this reason that the Bright line test has been
+rejected as a valid method for either determining the existence of
+international transaction or for the determination of ALP of such transaction.
+Although, under Section 92B read with Section 92F (v), an international
+transaction could include an arrangement, understanding or action in concert,
+this cannot be a matter of inference. There has to be some tangible evidence
+on record to show that the two parties have "acted in concert"". (Paras 34-
+
+35).
+
+(c) The Court cited the Supreme Court decision of Daichi Sankyo v. J.
+Chiguripati (Civil Appeal No. 7148 of 2009) to emphasize that "action in
+concert" would  I.T.As. No.1764 & 2276/DEL/2015 35 necessarily entail a
+"shared common objective or purpose" between two or more persons. In the
+absence of such shared objective or purpose, no presumption of a transaction
+can be made.
+
+(d) As regards the onus to show the application of TP provisions, the Court
+held that "initial onus is on the Revenue to demonstrate through same tangible
+material that the no parties acted in concert and further there was an
+agreement to enter into an international transaction concerning AMP expenses".
+(Para 37).
+
+(e) As regards the presumption for imposing a transfer pricing adjustment in
+relation to AMP, the Court held that "37. The provisions under Chapter X do
+envisage a 'separate entity concept'. In other words, there cannot be a
+presumption that in the present case since WOIL is a subsidiary of Whirlpool
+USA, all the activities of WOIL are in fact dictated by Whirlpool USA. Merely
+because Whirlpool USA has a financial interest, it cannot be presumed that AMP
+expense incurred by the WOIL are at the instance or on behalf of Whirlpool
+USA." (Para 37)
+
+(f) There is no machinery provision in the Act to bring an international
+transaction involving AMP expense under the ambit of transfer pricing
+provision if it cannot be shown that such an international transaction was
+entered into by the assessee. In Court's words, "It is in this context that it
+is submitted and rightly by the Assessee that there must be machinery
+provision in the Act to bring an international  I.T.As. No.1764 &
+2276/DEL/2015 36 transaction involving AMP expense under the tax radar. In the
+absence of clear statutory provision giving guidance as to how the existence
+of an international transaction involving AMP expense, in the absence of an
+express agreement in that behalf', should be ascertained and further how the
+ALP of such a transaction could be ascertained, it cannot be left entirely to
+surmises and conjectures of the IPO." (Para 39).
+
+g) The Court further held that after the invalidation of the Bright line test
+by the Delhi High Court in Sony Ericsson (supra), existence of an
+international transaction of AMP expenditure has to be established de hors the
+Bright line test. There is nothing in the Act which indicates how, in the
+absence of the Bright line test, one can discern the existence of an
+international transaction as far as AMP expenditure is concerned.
+
+23\. Here, in this case, it has been vehemently argued from the side of the
+assessee that assessee-company had incurred expenditure on AMP to cater to the
+needs of the customers in the local market and such an expenditure was neither
+incurred at the instance or behest of overseas AE nor there was any mutual
+understanding or arrangement or allocation or contribution by the AE towards
+reimbursement of any part of AMP expenditure incurred by it for the purpose of
+its business. If no such understanding or arrangement exists, then no
+transaction or international transaction could be said to be involved between
+the AE and the assessee which can be reckoned to be covered within the
+provision of Transfer Pricing Regulation. The incurring of  I.T.As. No.1764 &
+2276/DEL/2015 37 expenditure by the assessee is in fact purely a domestic
+transaction by a domestic enterprise with a third party in India for its own
+business purpose. As stated above, it has been well settled by the Hon'ble
+Jurisdictional High Court in the case of Maruti Suzuki India Pvt. Ltd. (supra)
+that onus is upon the Revenue to demonstrate that there existed an arrangement
+between the assessee and its AE under which assessee was obliged to incur
+excess amount of AMP expenses to promote the brands owned by the AE. The
+relevant observation and the finding of the Hon'ble High Court in paragraph 60
+reads as under:
+
+> "60......Even if the resort is had to the residuary part of clause
+
+> (b) to contend that the AMP spend of MSIL is "any other transaction having a
+> bearing" on its "profits, income or losses" for a 'transaction' there has to
+> be two parties. Therefore, for the purposes of the 'means' part of clause
+> (b) and the 'includes' part of clause (c,) the revenue has to show that
+> there exists an 'agreement' or 'arrangement' or 'understanding' between MSIL
+> and SMC whereby MSIL is obliged to spend excessively on AMP in order to
+> promote the brand SMC......
+
+> 61......Even if the word 'transaction' to include 'arrangement',
+> 'understanding' or 'action in concert', 'whether formal or in writing', it
+> still incumbent on the revenue to show the existence of an 'understanding'
+> or an 'arrangement' or 'action in concert' between MSIL and SMC as regards
+> AMP spend for brand promotion. In other words, for both the 'means' part and
+> the 'includes' part of Section 92B (1) what has to be definitely shown is
+> the existence of transaction whereby MSIL has been  I.T.As. No.1764 &
+> 2276/DEL/2015 38 obliged to incur AMP of a certain level for SMC for the
+> purposes of promoting the brand of SMC."
+
+24\. The Ld. CIT DR has also referred to the decision of Hon'ble Delhi High
+Court in the case of Sony Ericsson Mobile Communication India Pvt. ltd. to
+contend that mere incurrence of AMP expenditure in respect of brand not owned
+by the assessee has to be treated as international transaction. Ultimately the
+case of the department is that, such an international transaction has to be
+benchmarked as per BLT to arrive at ALP. Both the inferences by the department
+is not tenable in view of the Hon'ble Delhi High Court in the judgment in the
+case of Maruti Suzuki India Pvt. Ltd. wherein the ratio of Sony Ericsson
+judgement has been explained in the following manner: -
+
+> "41. Having considered the above submissions, the Court proceeds to analyse
+> the decision in Sony Ericsson Mobile Communications India (P.) Ltd. (supra)
+> to determine if it conclusively answers the issue concerning the existence
+> of an international transaction as a result of incurring of AMP expenditures
+> by an Assessee.
+
+> 42\. As already noticed, the judgment in Sony Ericsson Mobile Communications
+> India (P.) Ltd. (supra) does not seek to cover all the cases which may have
+> been argued before the Division Bench. In particular, as far as the present
+> appeal ITA No. 110 of 2014 is concerned, although it was heard along with
+> the batch of appeals, including those disposed of by the Sony Ericsson
+> Mobile Communications India (P.) Ltd. (supra) judgment, at one stage of the
+> proceedings on 30th October 2014 the appeal was delinked to be heard
+> separately.
+
+I.T.As. No.1764 & 2276/DEL/2015 39
+
+43\. Secondly, the cases which were disposed of by the Sony Ericsson Mobile
+Communications India (P.) Ltd. (supra) judgment, i.e. of the three Assessees
+Canon, Reebok and Sony Ericsson were all of distributors of products
+manufactured by foreign AEs. The said Assessees were themselves not
+manufacturers. In any event, none of them appeared to have questioned the
+existence of an international transaction involving the concerned foreign AE.
+It was also not disputed that the said international transaction of incurring
+of AMP expenses could be made subject matter of transfer pricing adjustment in
+terms of Section 92 of the Act.
+
+44\. However, in the present appeals, the very existence of an international
+transaction is in issue. The specific case of MSIL is that the Revenue has
+failed to show the existence of any agreement, understanding or arrangement
+between MSIL and SMC regarding the AMP spend of MSIL. It is pointed out that
+the BLT has been applied to the AMP spend by MSIL to (a) deduce the existence
+of an international transaction involving SMC and (b) to make a quantitative
+'adjustment' to the ALP to the extent that the expenditure exceeds the
+expenditure by comparable entities. It is submitted that with the decision in
+Sony Ericsson Mobile Communications India (P.) Ltd. (supra) having disapproved
+of BLT as a legitimate means of determining the ALP of an international
+transaction involving AMP expenses, the very basis of the Revenue's case is
+negated."
+
+"68. The above submissions proceed purely on surmises and conjectures and if
+accepted as such will lead to sending the  I.T.As. No.1764 & 2276/DEL/2015 40
+tax authorities themselves on a wild goose chase of what can at best be
+described as a 'mirage'. First of all, there has to be a clear statutory
+mandate for such an exercise. The Court is unable to find one. To the question
+whether there is any 'machinery' provision for determining the existence of an
+international transaction involving AMP expenses, Mr. Srivastava only referred
+to Section 92F (ii) which defines ALP to mean a price "which is applied or
+proposed to be applied in a transaction between persons other than AEs in
+uncontrolled conditions". Since the reference is to 'price' and to
+'uncontrolled conditions' it implicitly brings into play the BLT. In other
+words, it emphasizes that where the price is something other than what would
+be paid or charged by one entity from another in uncontrolled situations then
+that would be the ALP. The Court does not see this as a machinery provision
+particularly in light of the fact that the BLT has been expressly negatived by
+the Court in Sony Ericsson Mobile Communications India (P.) Ltd. (supra).
+Therefore, the existence of an international transaction will have to be
+established de hors the BLT.
+
+69\. There is nothing in the Act which indicates how, in the absence of the
+BLT, one can discern the existence of an international transaction as far as
+AMP expenditure is concerned. The Court finds considerable merit in the
+contention of the Assessee that the only TP adjustment authorised and
+permitted by Chapter X is the substitution of the ALP for the transaction
+price or the contract price. It bears repetition that each of the methods
+specified in S.92C (1) is a price discovery method. S.92C (1) thus is explicit
+that the only  I.T.As. No.1764 & 2276/DEL/2015 41 manner of effecting a TP
+adjustment is to substitute the transaction price with the ALP so determined.
+The second proviso to Section 92C (2) provides a 'gateway' by stipulating that
+if the variation between the ALP and the transaction price does not exceed the
+specified percentage, no TP adjustment can at all be made. Both Section 92CA,
+which provides for making a reference to the TPO for computation of the ALP
+and the manner of the determination of the ALP by the TPO, and Section 92CB
+which provides for the "safe harbour" rules for determination of the ALP, can
+be applied only if the TP adjustment involves substitution of the transaction
+price with the ALP. Rules 10B, 10C and the new Rule 10AB only deal with the
+determination of the ALP. Thus, for the purposes of Chapter X of the Act, what
+is envisaged is not a quantitative adjustment but only a substitution of the
+transaction price with the ALP.
+
+70\. What is clear is that it is the 'price' of an international transaction
+which is required to be adjusted. The very existence of an international
+transaction cannot be presumed by assigning some price to it and then deducing
+that since it is not an ALP, an 'adjustment' has to be made. The burden is on
+the Revenue to first show the existence of an international transaction. Next,
+to ascertain the disclosed 'price' of such transaction and thereafter ask
+whether it is an ALP. If the answer to that is in the negative the TP
+adjustment should follow. The objective of Chapter X is to make adjustments to
+the price of an international transaction which the AEs involved may seek to
+shift from one jurisdiction to another. An  I.T.As. No.1764 & 2276/DEL/2015 42
+'assumed' price cannot form the reason for making an ALP adjustment.
+
+71\. Since a quantitative adjustment is not permissible for the purposes of a
+TP adjustment under Chapter X, equally it cannot be permitted in respect of
+AMP expenses either. As already noticed hereinbefore, what the Revenue has
+sought to do in the present case is to resort to a quantitative adjustment by
+first determining whether the AMP spend of the Assessee on application of the
+BLT, is excessive, thereby evidencing the existence of an international
+transaction involving the AE. The quantitative determination forms the very
+basis for the entire TP exercise in the present case.
+
+72\. As rightly pointed out by the Assessee, while such quantitative
+adjustment involved in respect of AMP expenses may be contemplated in the
+taxing statutes of certain foreign countries like U.S.A., Australia and New
+Zealand, no provision in Chapter X of the Act contemplates such an adjustment.
+An AMP TP adjustment to which none of the substantive or procedural provisions
+of Chapter X of the Act apply, cannot be held to be permitted by Chapter X. In
+other words, with neither the substantive nor the machinery provisions of
+Chapter X of the Act being applicable to an AMP TP adjustment, the inevitable
+conclusion is that Chapter X as a whole, does not permit such an adjustment.
+
+{Emphasis in bold is ours}
+
+25\. Further in the judgment of Sony Ericsson Mobile Communication Pvt. Ltd.
+(supra), the High Court itself has  I.T.As. No.1764 & 2276/DEL/2015 43
+distinguished the cases before it wherein there were cases which already
+themselves had accepted that there exists international transaction and there
+were other set of cases where the assessee has disputed the international
+transaction. This is clear from the following passage of the judgment: -
+
+> "120. Notwithstanding the above position, the argument of the Revenue goes
+> beyond adequate and fair compensation and the ratio of the majority decision
+> mandates that in each case where an Indian subsidiary of a foreign AE incurs
+> AMP expenditure should be subjected to the 'bright line test' on the basis
+> of comparables mentioned in paragraph 17.4. Any excess expenditure beyond
+> the bright line should be regarded as a separate international transaction
+> of brand building.
+
+Such a broadbrush universal approach is unwarranted and would amount to
+judicial legislation. During the course of arguments, it was accepted by the
+Revenue that the TPOs/Assessing Officers have universally applied 'bright line
+test' to decipher and compute value of international transaction and
+thereafter applied 'Cost Plus Method' or 'Cost Method' to compute the arm's
+length price. The said approach is not mandated and stipulated in the Act or
+the Rules. The list of parameters for ascertaining the comparables for
+applying bright line test in paragraph 17.4 and, thereafter, the assertion in
+paragraph 17.6 that comparison can be only made by choosing comparable of
+domestic cases not using any foreign brand, is contrary to the Rules. It
+amounts to writing and prescribing a mandatory procedure or test which is not
+stipulated in the Act or  I.T.As. No.1764 & 2276/DEL/2015 44 the Rules. This
+is beyond what the statute in Chapter X postulates. Rules also do not so
+stipulate. The argument and reasoning in paragraph 17.6 in a way loses focus
+on the main issue and controversy; whether the arm's length price fixed
+between the two AEs is adequate and justified and would have been paid if the
+transaction was between two independent enterprises. The two independent
+enterprises must be two unrelated parties having no connection. It does not
+matter whether the comparables are domestic enterprises or not. However, and
+it is manifest that the comparable should have similar rights, if any, as the
+tested party in the brand name, trademark, etc.
+
+121\. During the course of hearing before us, counsel for the Revenue had
+submitted that paragraph 17.4 should be treated as illustrations and not as
+binding comparables. We would prefer to observe, that an Assessing Officer/
+TPO can go and must examine the question whether the assessee is performing
+functions of a pure distributor or performing distribution and marketing
+functions, in the latter case, he must examine and ascertain whether the
+transfer price takes into consideration the marketing function, which would
+include AMP functions. This would ensure adequate transaction price and hence
+assure no loss of revenue. When the distribution and marketing functions are
+interconnected and reliable comparables are available, arm's length price
+could be computed as a package, if required and necessary by making adequate
+adjustments. When the Assessing Officer/TPO comes to the conclusion that it is
+not possible to compute arm's length price without segregating and dividing
+I.T.As. No.1764 & 2276/DEL/2015 45 distribution and marketing or AMP
+functions, he can so proceed after giving justification and adequate reasons.
+At that stage, he would have apportioned the price received or the
+compensation paid by the foreign AE towards distribution and marketing or AMP
+functions. The TPO can then apply an appropriate method and compute the arm's
+length price of the two independently and even by applying separate methods.
+This will be in terms of the provisions of the Act and the Rules and also as
+per the general principles of international taxation accepted and applied
+universally. On the other hand, as recorded by us above, applying 'bright line
+test' on the basis of parameters prescribed in paragraphs 17.4 and 17.6 would
+be adding and writing words in the statute and the Rules and introducing a new
+concept which has not been recognised and accepted in any of the international
+commentaries or as per the general principles of international taxation
+accepted and applied universally. There is nothing in the Act or the Rules to
+hold that it is obligatory that the AMP expenses must and necessarily should
+be subjected to 'bright line test' and the non-routine AMP expenses as a
+separate transaction to be computed in the manner as stipulated."
+
+{Emphasis in bold is ours}
+
+26\. Thus, form the plain reading of the aforesaid principles laid down by the
+Hon'ble Jurisdictional High Court, the key sequitur is that:
+
+I.T.As. No.1764 & 2276/DEL/2015 46
+
+(i) International transaction cannot be identified or held to be existing
+simply because excess AMP expenditure has been incurred by the Indian entity.
+
+(ii) International transactions cannot be found to exist after applying the
+BLT to decipher and compute value of international transaction.
+
+(iii) There is no provision either in the Act or in the Rules to justify the
+application of BLT for computing the Arm's Length Price and there is nothing
+in the Act which indicate how in the absence of BLT one can discern the
+existence of an international transaction as far as AMP expenditure is
+concerned.
+
+(iv) Revenue cannot resort to a quantify the adjustment by determining the AMP
+expenses spent by the assessee after applying BLT to hold it to be excessive
+and thereby evidencing the existence of the international transaction
+involving the AE.
+
+26\. Another key contention of the department, especially by the DRP has been
+that, by way of an advertisement where there is a display of 'CASIO' Logo
+which needs to enhancement of CASIO brand is owned by the Assessing Officer,
+and therefore, incurring of AMP expenditure it enhances the brand value of the
+AE. First of all, brand is a capital asset and it would be fallacious to treat
+any kind of AMP expenditure leading to brand building. The brand building not
+only lead to enhancement of the value of the brand and benefits the brand
+owner but also helps simultaneously the brand exploiter, like distributor
+brand  I.T.As. No.1764 & 2276/DEL/2015 47 building on one hand it falls in
+realm of capital and brand promotion is targets towards sales of goods which
+is in the realm of revenue transaction, therefore, any distributor which
+increase AMP expenditure for promoting the sales of its goods is not guided by
+motive of enhancing brand value but purely by enhancing its sales. Increase in
+brand value happens at a very slow pace over a long period of time and there
+cannot be direct co-relation between AMP expenditure and brand value because
+brand value depends upon numerous other factors which may not be linked with
+AMP expenditure. The most important component of brand is its reliability and
+quality of goods and image in the minds of the customers. In order to link AMP
+expenditure with brand value it has to be demonstrated that brand value has
+gone up over a period of long time and portion of this enhancement is
+attributable to successful AMP campaign conducted by the Indian company. The
+benefit to the brand owner can only be incidental and cannot be the sole
+guiding force for the benchmarking the AMP expenditure separately this
+proposition strongly support from the judgment of Hon'ble Jurisdictional High
+Court in the case of Sony Ericson. The relevant portion of which reads as
+under:
+
+> "103. Brand has been described as a cluster of functional and emotional
+> values. It is a matter of perception and reputation as it reflects
+> customers' experience and faith. Brand value is not generated overnight, but
+> is created over a period of time, when there is recognition that the logo or
+> the name guarantees a consistent level of quality and expertise. Leslie de
+> Chernatony and McDonald have  I.T.As. No.1764 & 2276/DEL/2015 48 described
+> "a successful brand is an identifiable product, service, person or place,
+> augmented in such a way that the buyer or user perceives relevant, unique,
+> sustainable added values which match their needs most closely." The words of
+> the Supreme Court in Civil Appeal So. 1201 of 1966 decided on 12th February.
+> 1970 in Khushal Khenger Shah v. Mrs. Khorshedbanu. Dabrtda Boa mala, to
+> describe 'goodwill', can be adopted to describe a brand as an intangible
+> asset being the whole advantage of the reputation and connections formed
+> with the customer together with circumstances which make the connection
+> durable. The definition given by Lord McicNaghten in Commissioner of Inland
+> Revenue v. Muller & Co' & Margarine Ltd.
+
+[1901] 217 AC 223 can also be applied with marginal changes to understand the
+concept of brand. In the context of 'goodwill' it was observed:
+
+"It is very difficult, as it seems to me, to say that goodwill is not
+property. Goodwill is bought and sold every day. It may be acquired. I think,
+in any of the different ways in which property is usually acquired. When a tan
+has got it he may keep it as his own. He may vindicate his exclusive right to
+it if necessary by process of law. He may dispose of it if he will - of
+course, under the conditions attaching to property of that nature..... What is
+good-will? It is a thing very easy to describe very difficult to define. It is
+the benefit and advantage of the good name, reputation, and connection of a
+business. It is the attractive force which brings in custom. It is the one
+thing which distinguishes an old established business from a new business at
+its first start. The goodwill of a business must emanate from a particular
+centre or source. However, widely extended or diffused its influence may be,
+goodwill is worth nothing unless it has power of attraction sufficient to
+bring customers home to the source from which it emanates. Goodwill is
+composed of a variety of elements. It differs in its composition in different
+trades and in different businesses in the same trade. One element may  I.T.As.
+No.1764 & 2276/DEL/2015 49 preponderate here and another element there. To
+analyse goodwill and split it up into its component parts, to pare it down as
+the Commissioners desire to do until nothing is left but a dry residuum
+ingrained in the actual place where the business is carried on while
+everything else is in the air, seems to me to be as useful for practical
+purposes as it would be to resolve the human body into the various substances
+of which it is said to be composed. The goodwill of a business is one whole,
+and in a case like this it must be dealt with as such. For my part, I think
+that if there is one attribute common to all cases of goodwill it is the
+attribute of locality. For goodwill has no independent existence. It cannot
+subsist by itself. It must be attached to a business. Destroy the business,
+and the goodwill perishes with it, though elements remain which may perhaps be
+gathered up and be revived again."
+
+105\. There is a line of demarcation between development and exploitation.
+Development of a trademark or goodwill takes place over a passage of time and
+is a slow ongoing process. In cases of well recognised or known trademarks,
+the said trademark is already recognised. Expenditures incurred for promoting
+product(s) with a trademark is for exploitation of the trademark rather than
+development of its value. A trademark is a market place device by which the
+consumers identify the goods and services and their source. In the context of
+trademark, the said mark symbolises the goodwill or the likelihood that the
+consumers will make future purchases of the same goods or services. Value of
+the brand also would depend upon and is attributable to intangibles other than
+trademark. It refers to infrastructure, know-how ability to compete with the
+established market leaders. Brand value, therefore, does not represent
+trademark as a standalone asset and is difficult and complex to determine and
+segregate its value. Brand value depends upon the nature and quality of goods
+and services sold or dealt with. Quality control being the most important
+element, which can mar or  I.T.As. No.1764 & 2276/DEL/2015 50 enhance the
+value.
+
+106\. Therefore, to assert and profess that brand building as equivalent or
+substantial attribute of advertisement and sale promotion would be largely
+incorrect. It represents a coordinated synergetic impact created by assortment
+largely representing reputation and quality. There are a good number of
+examples where brands have been built without incurring substantial
+advertisement or promotion expenses and also cases where in spite of extensive
+and large scale advertisements, brand values have not been created. Therefore,
+it would be erroneous and fallacious to treat brand building as counterpart or
+to commensurate brand with advertisement expenses. Brand building or creation
+is a vexed and complexed issue, surely not just related to advertisement.
+Advertisements may be the quickest and effective way to tell a brand story to
+a large audience, but just that is not enough to create or build a brand.
+Market value of a brand would depend upon how many customers you have, which
+has reference to brand goodwill, compared to a baseline of an unknown brand.
+It is in this manner that value of the brand or brand equity> is calculated.
+Such calculations would be relevant when there is an attempt to sell or
+transfer the brand name. Reputed brands do not go in for advertisement with
+the intention to increase the brand value, but to increase the sales and
+thereby earn larger and greater profits. It is not the case of the Revenue
+that the foreign AEs are in the business of sale/transfer of brands.
+
+109\. The aforesaid position finds recognition and was accepted in CIT v. B.C.
+Srinivasa Setty [1981] 128 ITR 294 (SC) , a decision relating transfer to
+goodwill. Goodwill it was held was a capital asset and denotes benefits
+arising from connection and reputation. A variety of elements go into its
+making and the composition varies in different trades, different businesses in
+the same trade, as one  I.T.As. No.1764 & 2276/DEL/2015 51 element may pre-
+dominate one business, another element may dominate in another business. It
+remains substantial in form and nebulous in character. In progressing
+business, brand value or goodwill will show progressive increase, but in
+falling business, it may vain. Thus, its value fluctuates from one moment to
+another, depending upon reputation and everything else relating to business,
+personality, business rectitude of the owners, impact of contemporary market
+reputation, etc. Importantly, there can be no account in value of the factors
+producing it and it is impossible to predicate the moment of its birth for it
+comes silently into the world unheralded and un-proclaimed. Its benefit and
+impact need not be visibly felt for some time. Imperceptible at birth, it
+exits unwrapped in a concept, growing or fluctuating with numerous
+imponderables pouring into and affecting the business. Thus, the date of
+acquisition or the date on which it comes into existence is not possible to
+determine and it is impossible to say what was the cost of acquisition. The
+aforesaid observations are relevant and are equally applicable to the present
+controversy.
+
+111\. Accepting the parameters of the 'bright line test' and if the said
+parameters and tests are applied to Indian companies with reputed brands and
+substantial AMP expenses, would lead to difficulty and unforeseen tax
+implications and complications. Tata. Hero. Mahindra. TVS. Bajaj. Godrej,
+Videocon group and several others are both manufacturers and owners of
+intangible property in the form of brand names. They incur substantial AMP
+expenditure. If we apply the 'bright line test' with reference to indicators
+mentioned in paragraph 17.4 as well as the ratio expounded by the majority
+judgment in L.G. Electronics India (P) Ltd case (supra) in paragraph 17.6 to
+bifurcate and segregate AMP expenses towards brand building and creation, the
+results would be startling and unacceptable. The same is the situation in case
+we apply the parameters and the 'bright line test' in terms of paragraph 17.4
+or as  I.T.As. No.1764 & 2276/DEL/2015 52 per the contention of the Revenue,
+i.e. AMP expenses incurred by a distributor who does not have any right in the
+intangible brand value and the product being marketed by him. This would be
+unrealistic and impracticable, if not delusive and misleading. (Aforesaid
+reputed Indian companies, it is patent, are not to be treated as comparables
+with the assessed, i.e. the tested parties in these appeals, for the latter
+are not legal owners of the brand name/trademark.)"
+
+27\. In any case, legal ownership of intangibles, by itself, does not confer
+any right ultimately to retain returns derived by MNE group from exploiting
+the intangibles, even though such returns is initially accruing to the legal
+owner as a result of its legal /contractual right to exploit the intangible.
+The return depends upon the functions performed by the legal owner, assets it
+uses, and the risks assumed; and if the legal owner does not perform any
+relevant function, uses no relevant assets, and assumes no relevant risks, but
+acts solely as a title holding entity, then the legal owner of the intangible
+will not be entitled to any portion of the return derived by the MNE group
+from the exploitation of the intangible other than the Arm's Length
+compensation if any for holding the title.
+
+28\. Otherwise also, it would be very difficult to determine the impact of
+increase intensity of advertisement function on profit margin, the impact of
+advertisement on sale cannot be determined or quantified in a particular year,
+and therefore, even if AMP expenditure is to be compared with other
+comparables by applying any method, it would be very difficult to make
+reasonably accurate adjustment to the profit margins of the comparables
+companies. Thus, it would be  I.T.As. No.1764 & 2276/DEL/2015 53 very
+difficult to treat AMP as separate international transaction and any attempt
+to benchmark such a presume transaction in any manner would be a very
+difficult exercise.
+
+29\. The entire finding and approach of the TPO and DRP has been purely based
+on hypothesis and one of the agreement entered in the earlier year for a
+limited period of six months and this has been stated to be a material so as
+to determine that there was an international transaction qua AMP expenditure
+in this year. Such a presumption based on said agreement cannot be inferred in
+this year at all as, firstly, it was for a very limited period in one of the
+earlier year as stated above; and secondly, each year has to be seen
+independently and if no such material act is permeating then presumption
+cannot be drawn for perpetuity. Thus, Revenue has failed to bring on record
+any material or any kind of arrangement existing between the AE and Assessee
+Company that there was separate international transaction with regard to AMP
+expenditure. Thus, on the facts and circumstances of the case, we hold that
+AMP expenditure cannot be treated as separate international transaction which
+needs separate benchmarking and accordingly we delete the entire AMP
+adjustment made by the Assessing Officer.
+
+30\. The next issue raised in assessee's appeal is with regard to bad debts of
+Rs. 3,86,63,023/-,
+
+31\. The brief facts emanating from the impugned orders are that, assessee-
+company was initially named as "Casio Bharti  I.T.As. No.1764 & 2276/DEL/2015
+54 Mobile Communications Limited" with the sole motive of doing pager business
+in India. However, in view of the adverse scenario of the pager business in
+India, Casio India has discontinued the Pager business; owing to which, there
+were outstanding dues pertaining to Pager business and the same had been
+appearing in the books of accounts of Casio India since FY 2001-02. Despite
+numerous attempts by Casio India to recover the said amount of debts via legal
+notices, recovery suits and other legal actions, most of these companies
+either gone under liquidation or were declared dormant for which reference was
+made to Items 16A to 16E of the paper-books being reports on the same by the
+Registrar of Companies, NCT of Delhi. Subsequently, on the basis of the
+observations made by the Statutory Auditors, the aforesaid amount was declared
+as bad debts and written off in books of accounts though the provision as made
+in FY 2000-01 and no deduction was claimed on account of the same. It was
+further submitted by the assessee that as per as per normal business prudence
+and in accordance with generally accepted accounting principles, Rs.
+4,36,84,216/- had been written off from the Books of Accounts in the FY 2009-
+0. However, the same was routed through the Profit & Loss account. The amount
+of provision that was created in FY 2001-02 was written back amounting to Rs.
+4,36,84,216/- and simultaneously an expense of Rs. 4,36,84,216/- was booked as
+the bad debts written off. Therefore, in effect there was no impact on the
+profit and loss account as it was credited and  I.T.As. No.1764 &
+2276/DEL/2015 55 debited with the same amount. Subsequently, on account of
+credit entries worth Rs.50,21,193/- the taxpayer claimed bad debts of
+Rs.3,86,63,023/- in the computation of Income for AY 2010-11. The break-up of
+the sum of Rs.4,36,84,216/- was given as under:
+
+    
+    
+       S. No.          Name of Company                   Outstanding
+         1.    ABC Communications (India) Pvt.              79,56,990
+         2.    DSS Mobile Communications Ltd.               74,00,000
+         3.    Easycall Communications (India)              82,28,943
+         4.    Matrix Paging (India) Pvt. Ltd             1,17,83,045
+         5.   "Telesistem (India) Pvt. Ltd.                 83,15,238
+              Total Outstanding Amount                    4,36,84,216
+    
+    
+
+The relevant journal was also given in the following manner:
+
+> 31/3/2010 Bad Debts written off 43,684,216.00 To ABC Commns. (India) Pvt.
+> Ltd. 7,956,990.00 To DSS Mobile Communications Ltd. 7,400,000.00 To Easycall
+> Commn. (I) Pvt Ltd. 8,228,943.00 To Matrix Paging (India) Pvt. Ltd.
+> 11,783,045.00 To Telesistem (India) Pvt. Ltd. 8,315,238.00
+
+32\. The DRP required the assessee to submit the copy of account of all the
+five entities which was duly submitted. The assessee's case before the DRP was
+that though it has debited Rs.4,36,84,216/- in the profit & loss account but
+it has credited simultaneously the item 'other income' by an equivalent
+amount. Such credit to other income was out of write back of the provision
+made in FY 2000-01 of Rs.6,91,84,544/-. It was stated that the provisions so
+made in FY 2000-01 were not claimed as deduction by the taxpayer in the
+relevant year. For this purpose copy of total computation income for AY
+2001-02 was submitted where the  I.T.As. No.1764 & 2276/DEL/2015 56 provision
+for doubtful debts created during the year of Rs.6,91,84,545/- have been added
+to income and finally business loss of Rs.1,11,62,127/- computed. Further the
+item 'other income' for assessment year 2010-11 contains a sub item
+'provisions no longer required written back of Rs.5,96,96,810/-, the break-up
+of which is as under:
+
+Amount (in Expense for which the provision is written back Rs.) Amount of Tax
+Audit Fees for FY 2008-09 5,929 Amount of 10A Audit Fees for FY 2008-09 7,170
+Provision for Special Additional Duty Refund for February and March 2008 5,120
+Provision for Watch Scheme 6,04,816 Expense Wrongly booked (698) Provision for
+doubtful debts 4,36,84,216 Interest paid u/S 234C of the Act incorrectly
+booked as advance tax (21,201) 1,50,51,413 Provision for Income Tax provided
+in FY 2005-06 to FY 2008-
+
+    
+    
+    09 reversed as MAT credit has been taken
+    Transfer of excess credit balances in project expenses                2,10,987
+    Provision for other miscellaneous expense                            1,49,058
+                                 Total                               5,96,96,810
+    
+    
+    
+    
+
+The DRP, on one hand held that addition of Rs.4,36,81,216/- should be deleted,
+because there was no impact on such debt in the net income computed in the P&L
+account; and on the other hand, in so far as amount of Rs.3,86,63,023/- was
+concerned, the DRP observed that this amount has not been routed through the
+books of account but deduction has been claimed directly u/s.36(1)(vii). The
+said bad debt pertains to  I.T.As. No.1764 & 2276/DEL/2015 57 five entities
+whose outstanding amount of Rs.4,36,84,216/- and out of the said amount the
+assessee has claimed bad debt to the extent of Rs.3,86,63.023/-. Accordingly
+directed the Assessing Officer to examine that such debts should be actually
+written off as irrecoverable and debt should have been taken into account in
+computing the income of the assessee.
+
+33\. However, in the order giving effect the Assessing Officer has rejected
+the assessee's submission summarily holding that it cannot be conclusively
+held that amount of Rs.3,,86,63,203/- quantified the context prescribed
+u/s.36(1)(vii) r.w.s. 36(2) for allowing the bad debt.
+
+34\. After considering the submissions made by both the parties and on perusal
+of the relevant material referred to before us, we find that it is not in
+dispute that there were certain outstanding dues pertaining to earlier
+business and same has appeared in the books of account of CASIO India since
+financial year 2001-02. Later on, based on observations made by the statutory
+auditors, the amount was declared as bad debt and was written in the books of
+account. The provision was made in the Financial Year 2000-01 and no deduction
+was claimed on account of same in any of the year. The assessee had written-
+off this amount from the books of account in the relevant financial year,
+albeit the same was routed through the P&L account and the amount of provision
+that was created in financial year 2001-02 was written back  I.T.As. No.1764 &
+2276/DEL/2015 58 for sums amounting to Rs.4,36,84,216/- and simultaneously
+expenses for the same amount was booked as bad debt written off. Thus, it has
+been submitted that there was no impact on the P&L account as it was credited
+and debited with the same amount. Further, there were certain credit entries
+aggregating to Rs.50,21,193/- shown as other income from realization of
+debtors and after reducing the same, finally bad debt was claimed as
+Rs.3,86,63,023/- in the computation of income for the Assessment Year 2010-11.
+There is no dispute that amount which was considered as sales in the earlier
+financial year, was outstanding for a long period pertaining to aforesaid five
+entities, the details of which has been incorporated above.
+
+35\. Before us, the ld. counsel has also filed copy of ledger account of these
+parties right from the financial year 1998-99 onwards. Since assessee has
+credited other items the details of which has been incorporated by the DRP as
+reproduced above and net debt was claimed in the return of income. This amount
+of Rs.3,86,63,023/- ostensibly is part of the same amount of Rs.4,36,84,216/-
+which was actually in the nature of bad debt and has been written off in the
+books of account. Thus, all the conditions laid down for claiming of bad debt
+in accordance with Section 36(1)(vii) stands duly satisfied; and we find no
+reason as to why the Assessing Officer has made the disallowance, when
+assessee has produced all the copy of ledger account which contains amount
+taken as sales in the earlier years and same has been written off in this
+year.
+
+I.T.As. No.1764 & 2276/DEL/2015 59
+
+Accordingly, the addition on account of bad debt is directed to be deleted.
+
+36\. Coming to the Revenue's appeal, only ground raised is against the
+direction of the DRP for allowing the deduction u/s.10A.
+
+37\. The facts in brief are that assessee has claimed deduction u/s.10A for
+its STPI Unit amounting to Rs.3217591/- and in support, Form 56F was filed
+claiming 100% of deduction u/s.10A. In the draft order, Assessing Officer has
+held that assessee was entitled to 50% as it was the 7th year of the claim
+after interpreting section 10A(1A) and after five years the assessee is only
+entitled to 50% of deduction for two years and thereafter 30% for next three
+years. Accordingly, he has restricted the allowability of Rs.16,08,796/-. The
+assessee submitted that the deduction u/s.10A has been claimed by it in the
+Assessment Years 2004-05, 2005-06 and 2006-07 which was allowed by the
+Assessing Officer and for the subsequent years the matter was in dispute
+before the ld. CIT (A).
+
+38\. The DRP threadbare analyzed the earlier provision of Section 10A inserted
+by Finance Act, 1981 and new Section 10A substituted by the Finance Act, 2000
+w.e.f. 01.04.2001 and also CBDT No. 794 explaining the new provision
+substituting the new provision. However, analyzing the entire provisions, the
+DRP held that it is an undisputed fact that STP unit was set up in Financial
+Year 2001-02 and will be  I.T.As. No.1764 & 2276/DEL/2015 60 entitled for full
+tenure of ten years for deduction. After relying upon CBDT No.5/2010, dated
+03.06.2010, wherein the amended Section 10A and 10B were explained to extend
+the tax benefit uptill Assessment Year 2011-12. This circular clarified the
+amended provision to Section 10A (1) of the Finance Act 2010, whereby the date
+of sunset was extended by one more year, i.e., Assessment Year 2011-12.
+Accordingly, DRP held that the deduction u/s.10A is admissible to unit set up
+after even 01.04.2001 and the provision of Section 10A(1) as referred by the
+Assessing Officer would not be applicable in the case of the assessee because
+that was applicable only for SEZ, whereas the assessee is a STP unit.
+
+39\. After hearing both the parties and on perusal of the relevant findings
+given in the impugned orders, we find that it is an undisputed fact that
+assessee has claimed deduction u/s.10A for its STP unit. By the Finance Act,
+2000 Section 10A was substituted w.e.f. 01.04.2001 wherein it was provided
+that deduction of profits and gains derived by an undertaking for the export
+of article, thing or computer software will be for the period of 10
+consecutive Assessment Year beginning with the Assessment Year relevant to the
+previous year in which the undertaking to manufacture or produce such article,
+thing or computer software. The proviso to the said section provided that
+deduction shall not be allowed after 1st day of April, 2010. Later on, by
+Finance Act, 2010, there was an amendment in the proviso to Section 10A (1),
+whereby the sunset clause was extended by one more  I.T.As. No.1764 &
+2276/DEL/2015 61 year, i.e., Assessment Year 2011-12. The impact of said
+amendment would be that the unit set up in financial year 2001-02 will get
+full tenure of deduction, whereas any STP unit set up later on will get a
+limited tenure. Thus, assessee was entitled for deduction u/s.10A (1) wherein
+there was no such limit on claim of deduction. It was only in Section 10A (1A)
+which is applicable to SEZ, that such limit of time period for claim of
+deduction of 100%, 50% and 30% has been laid down. Since here in this case
+assessee is having a STP unit and not SEZ therefore, ld. DRP was correct in
+holding that provision of Section 10A (1A) will not apply, but Section 10A (1)
+only. Accordingly, the direction of the DRP is affirmed and Revenue's appeal
+is dismissed.
+
+40\. In the result, the appeal of the assessee is allowed and Revenue's appeal
+is dismissed.
+
+Order pronounced in the open Court on 22nd April, 2019.
+
+    
+    
+              Sd/-                                       Sd/-
+       [PRASHANT MAHARISHI]                           [AMIT SHUKLA]
+        ACCOUNTANT MEMBER                           JUDICIAL MEMBER
+    DATED: 22nd April, 2019
+    PKK:
+     
+

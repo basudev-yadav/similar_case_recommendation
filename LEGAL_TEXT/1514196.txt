@@ -1,0 +1,378 @@
+
+
+Kerala High Court
+
+Firos vs State Of Kerala on 24 May, 2006
+
+Equivalent citations: AIR 2006 Ker 279, 2006 (3) KLT 210, 2007 (34) PTC 98 Ker
+
+Author: J Koshy
+
+Bench: V Bali, J Koshy
+
+JUDGMENT J.B. Koshy, J.
+
+1\. Appellant/petitioner approached this Court for declaring that Section 70
+of the Information Technology Act, 2000 (hereinafter referred to as 'the Act')
+is unconstitutional and unenforceable and also for issuance of a writ of
+certiorari to quash Ext.P10 notification issued by the Government of Kerala
+under Sub-section (1) of Section 70 of the Act (Central Act No. 21 of 2000).
+According to the appellant, while disposing of the Writ Petition, the learned
+single Judge did not enter into any finding regarding the constitutional
+validity of Section 70 of the Act though it upheld ExtP10 notification issued
+by the State Government. The learned single Judge also directed to withdraw
+the suit for declaration of copyright and for injunction filed against the
+petitioner though the learned single Judge held that the suit is maintainable.
+The court also directed respondents 1 to 4 to withdraw the criminal complaint
+filed against the petitioner if the petitioner accepts the judgment and
+informs the same to the second respondent in writing within a period of one
+year from the date of judgment. The petitioner did not accept the judgment,
+but, challenged the same before this Court.
+
+2\. The facts of this case are as follows: Government of Kerala, as part of IT
+implementation in Government departments, conceived a project idea of
+"FRIENDS" (Fast, Reliable, Instant, Efficient Network for Disbursement of
+Services). The project envisaged is development of a software for single
+window collection of bills payable to Government, local authorities, various
+statutory agencies, Government Corporations etc. towards tax, fees, charges
+for electricity, water, etc. A person by making a consolidated payment in a
+computer counter served through "FRIENDS" system can discharge all his
+liabilities due to the Government, local authorities and various agencies. The
+first respondent Kerala State Government entrusted the work of developing the
+"FRIENDS" software with the fourth respondent. Fourth respondent is a
+registered society under the control of Government as the Total Solution
+Provider (TSP). The fourth respondent, in turn, entrusted the work of
+development of pilot project to be set up at Thiruvananthapuram to the
+petitioner. The application-software "FRIENDS" was first established at
+Thiruvananthapuram, free of cost, and since the project was successful,
+Government decided to set up the same in all other 13 district centres. By
+Ext.P6, fourth respondent entered contract with the petitioner for setting up
+and commissioning "FRIENDS" software system in 13 centres all over Kerala for
+providing integrated services to the customers through a single window for a
+total consideration of Rs. 13 lakhs. Pursuant to Ext.P6 agreement, petitioner
+set up FRIENDS service centres in all the 13 centres and they were paid the
+agreed remuneration. After successful completion of the project, there was a
+subsequent agreement between the fourth respondent and the petitioner (Ext.P9
+for continued technical support and for maintenance of system) : Extended
+period was over. Disputes arose between the petitioner and Government with
+regard to Intellectual Property Right (IPR) in the software developed, namely,
+FRIENDS. There is no dispute that IPR software is recognised in law that
+copyright can be claimed for IPR in the software in view of the amendment in
+the Copyright Act, 1957 in 1994. When respondents 1 to 4 arranged to modify
+the software "FRIENDS" to suit its further requirements through another
+agency, petitioner alleged violation of copyright and petitioner filed
+criminal complaint against respondents 1 to 4 which was later referred. A
+counter case was filed by the State and fourth respondent against the
+petitioner and charge sheet was issued and a crime was registered as Crime No.
+119 of 2003 and is pending before the Additional Chief Judicial Magistrate's
+Court, Thiruvananthapuram. Petitioner filed an application for copyright
+before the Registrar of Copyright and the first respondent filed a suit before
+the District Court, Thiruvananthapuram under Sections 60 and 61 of the
+Copyright Act against the petitioner alleging infringement of copyright and
+for declaration and injunction. Since the suit is pending in the civil court,
+the Registrar of Copyright left the matter to be decided by the civil court
+and rejected petitioner's application for registration of copyright in the
+"FRIENDS" software applied for by him leaving freedom to any party to apply
+for registration of copyright after the civil court decides the issue. First
+respondent, State of Kerala, also issued separate notification, Ext.P10, under
+Section 70 of the Act declaring, among other items, that the "FRIENDS"
+software installed in the computer system and computer network established in
+all centres in Kerala as a 'protected system' for the purpose of the said Act.
+It is true that the criminal case against the petitioner is pending before the
+Chief Judicial Magistrate's Court, Thiruvananthapuram and suit filed by the
+first respondent against the petitioner is pending in the District Court,
+Thiruvananthapuram. This Writ Petition was filed challenging Section 70 of the
+Act. It is also contended that Ext.P10 circular issued is arbitrary,
+discriminatory and violative of Article 19(1)(g) of the Constitution of India
+and against the statutory right conferred under Section 17 of the Copyright
+Act.
+
+3\. Before going into the contentions raised, we may extract Section 70 of the
+Information Technology Act, 2000 as follows:
+
+70\. Protected system:
+
+(1) The appropriate Government may, by notification in the Official Gazette,
+declare that any computer, computer system or computer network to be a
+protected system.
+
+(2) The appropriate Government may, by order in writing, authorise the persons
+who are authorised to access protected systems notified under Sub-section (1).
+
+(3) Any person who secures access or attempts to secure access to a protected
+system in contravention of the provisions of this section shall be punished
+with imprisonment of either description for a term which may extend to ten
+years and shall also be liable to fine.
+
+It is the main contention of the petitioner that the computer programme
+"FRIENDS" is a literary work as defined under Section 2(o) of the Copyright
+Act and he, being its creator, is the author as defined under Section 2(d)(vi)
+and, therefore, he is entitled to registration of copyright. According to him,
+his application for registration is presently rejected on account of the
+pendency of the suit in the civil court and ultimately he is entitled to
+registration of copyright under the Act. According to the petitioner, Section
+70 of the Act which confers the unfettered powers on the State Government to
+declare any computer system as a protected system is arbitrary and
+unconstitutional and inconsistent with Copyright Act and Section 70 of the Act
+has to be declared as illegal. The alternative contention of the petitioner is
+that Government should have declared it as a protected system only after
+obtaining declaratory decree from the civil court. In the writ petition as
+well as in the writ appeal even though petitioner challenged Section 70 of the
+Information Technology Act as unconstitutional, serious contention was
+regarding Ext.P10 and not regarding the validity of Section 70 of the Act.
+According to the petitioner, there is direct conflict between the provisions
+of Section 17 of the Copyright Act and Section 70 of the Information
+Technology Act. When there is conflict between the two Acts, it is well
+settled law that a harmonious construction has to be adopted. Further,
+Information Technology Act is a comprehensive legislation with regard to
+Information Technology Act and its provisions. The provisions of the same will
+be binding especially considering Section 81 of the Act which provides as
+follows:
+
+81\. Act to have overriding effect. The provisions of this Act shall have
+effect notwithstanding anything inconsistent therewith contained in any other
+law for the time being in force.
+
+But, as far as the Copyright Act is concerned, it is a comprehensive special
+Act and it is a comprehensive legislation regarding the law relating to
+Copyrights in India. Therefore, as far as copyright in respect of information
+technology is concerned, it has to be considered with reference to the
+provisions of the Copyright Act and as rightly held by the learned single
+Judge Section 70 of the Information Technology Act is directly related to
+Sections 2(k) and 17(d) of the Copyright Act and Government's authority to
+notify the system as a protected system applies only to such of the system of
+"Government work". Description of Government work is defined under Section
+2(k) of the Copyright Act on which Government is confirmed copyright under
+Section 17 (d). The learned single Judge held as follows:
+
+...Therefore while the IT Act deals with all matters pertaining to information
+technology, copyright in respect of information technology has to be
+considered with reference to the provisions of the Copyright Act and in this
+regard the contention of the petitioner, in principle has to be upheld. I feel
+the petitioner's contention is relevant only when Section 70 is taken in
+insolation, and if the Government proceeds to declare any computer system or
+network other than "Government work" as protected. I am of the view that
+Section 70 of the IT Act is directly related to Sections 2(k) and 17(d) of the
+Copyright Act and Government's authority to notify any system as protected
+applies only to such of the system which answers the description of
+"Government work" as defined in Section 2(k) of the Copyright Act, on which
+Govt. is conferred copyright under Section 17(d). In other words, a
+notification under Section 70 of the IT Act is a declaration of copyright
+under Section 17(d) of the Copyright Act which applies only to "Government
+work" within the meaning of Section 2(k) of the said Act. Since the apparent
+conflict between the provisions of both the statutes can be resolved by
+adopting the interpretation that a "Government work" as defined under Section
+2(k) of the Copyright Act on which Government has copyright under Section
+17(d) of the said Act only can be declared by Government as a "protected
+system" under Section 70 of the IT Act, the challenge against Section 70 as
+against the provisions of the Copyright Act does not survive and is only to be
+rejected. In other words, Section 70 of the IT Act is not against but subject
+to the provisions of the Copyright Act and Government cannot unilaterally
+declare any system as "protected" other than "Government work" falling under
+Section 2(k) of the Copyright Act on which Govt.'s copyright is recognised
+under Section 17(d) of the said Act. However, if the Government proceeds to
+declare any other computer system or network under Section 70 of the IT Act as
+a protected system, it will be open to the aggrieved party to challenge such
+action as arbitrary and unauthorised. So long as the authority of the
+Government under Section 70 of the IT Act is to declare only "Government work"
+as defined under Section 2(k) of the Copyright Act as "protected system" the
+challenge against the validity of the section will not stand and the mere
+possibility of the Government exceeding it's powers is no ground to declare
+statutory provision unconstitutional. Hence this contention is rejected.
+
+We agree with the above observations.
+
+4\. Section 2(k) of the Copyright Act deals with the Government work as
+follows:
+
+(k) 'Government work' means a work which is made or published by or under the
+direction or control of -
+
+(i) the Government or any department of the Government;
+
+(ii) any Legislature in India;
+
+(iii) any Court, Tribunal or other judicial authority in India;
+
+Section 17(d) of the Copyright Act is as follows:
+
+17\. First owner of copyright:- Subject to the provisions of this Act, the
+author of a work shall be the owner of the copyright therein;
+
+    
+    
+           xxx          xxx        xxx
+     
+    
+    (d) in the case of a Government work, Government shall, in the absence of any agreement to the contrary, be the first owner of the copyright therein;
+     
+    
+    
+
+There is a statutory presumption in favour of every enactment and apart from a
+vague statement that Section 70 of the Information Technology Act is
+unconstitutional, petitioner was not able to show it is unconstitutional.
+Legislative power of Parliament is not questioned by the petitioner in
+enacting Section 70. When virus of an enactment or section is challenged
+alleging conflict with the provision in another Act, the conflict should be
+resolved as far as possible in favour of the legislature putting the most
+liberal construction and looking at the substance of the legislation by using
+the principle of harmonious construction. (See: Diamond Sugar Mills v. State
+of U.P. AIR 1962 SC 652 at 655) and Peerless General Finance and Investment
+Co. Ltd. and Anr. v. Reserve Bank of India and Ors. ). When there is conflict
+between the provisions of two Acts, court has to construe the provisions in
+such a way to avoid a 'head on clash' and a harmonious construction should be
+adopted to resolve the conflict (See: Jogendra Lal Saha v. Stale of Bihar and
+Ors. ). A harmonious construction of Copyright Act and Information Technology
+Act is necessary and questions regarding the 'copyrights' for the computer
+system, electronic devices and other works under the Information Technology
+Act are covered by the Copyright Act. Copyright (Amendment) Act, 1999 shows
+that copyrights with regard to the data work, data basis, computer work etc.
+are specifically covered under the Copyright Act. All matters connected with
+copyright can be resolved by the provisions in the Copyright Act as it is a
+special Act for that purpose and matters regarding information technology have
+to be resolved by applying the provisions of the Information Technology Act as
+t is a special Act for that purpose. There is no conflict between the
+provisions of Copyright Act and Section 70 of Information Technology Act.
+Hence, we are of the opinion that there is no merit in the challenge made in
+Section 70 of the Information Technology Act.
+
+5\. The next question to be considered is whether Ext.P10 notification issued
+by the Government is liable to be set aside and can Government declare
+"FRIENDS" application software as a protected system? To decide that question
+whether petitioner has got a copyright of "FRIENDS" software or whether it is
+a Government work within the meaning of Section 2(k) of the Copyright Act,
+this Court declared to decide the matter on merits in O.P. 33536 of 2002 by
+the District Court, Thiruvananthapuram. We are of the opinion that Ext.P10
+could be issued by the Government without registration of the copyright and
+even without a declaration of copyright by the civil court under Section 60 of
+the Copyright Act. If any party claims that he has got a copyright and the
+Government cannot declare it as a protected system, it is for him to go to the
+civil court and get an injunction and also get a declaration that he has got a
+copyright of the property. It is settled position that no registration is
+required to claim copyright under the Copyright Act and non-registration under
+the Copyright Act does not bar action for infringement. The learned single
+Judge rightly held as follows:
+
+...A Division Bench of this Court in Kumari Kanaka v. Sundararajan 1972 KLR
+536 held that registration of the work under the Copyright is not compulsory,
+nor is it a condition precedent for maintaining a suit for damages or for
+injunction against infringement of copyright. Similar is the view taken by the
+Madras High Court in Manojah Cine Productions v. Sundaresan AIR 1976 Mad. 22
+and by the Allahabad High Court in Nav Sahitya Prakash v. Anand Kumar .
+Therefore, if the "FRIENDS" software is a "Government work" as defined under
+Section 2(k) of the Copyright Act, then by virtue of Section 17(d) of the said
+Act, the Government is entitled to notify it under Section 70 of the IT Act as
+a protected system without any prior registration under the Copyright Act.
+There is nothing to indicate in Section 70 of the IT Act that the Government.
+should get any declaratory decree of copyright from District Court under
+Section 60 of the Copyright Act before issuing notification declaring a
+computer system as protected. Sections 60 and 61 of the Copyright Act are only
+remedial measures available to an aggrieved party. While Government is free to
+issue notification under Section 70 of the IT Act without any registration of
+copyright or without obtaining any declaratory decree of copyright from
+District Court under Section 60 of the Act, it was open to the petitioner to
+challenge Ext.P10 by filing a suit under sections 60 and 61 of the Copyright
+Act, Though the petitioner is defending the suit, it will not be permissible
+for the petitioner as defendant to challenge Ext.P10 in the pending suit filed
+by the State.
+
+Admittedly, petitioner did not file any suit. Petitioner was free to file a
+suit under Sections 60 and 61 of the Limitation Act wherein he could challenge
+Ext.P10 notification if it infringes his copyright. Sections 60 and 61 of the
+Copyright Act read as follows:
+
+60\. Remedy in the case of groundless threat of legal proceedings:- Where any
+person claiming to be the owner of copyright in any work, by circulars,
+advertisements or otherwise, threatens any other person with any legal
+proceedings or liability in respect of an alleged infringement of the
+copyright, any person aggrieved thereby may, notwithstanding anything
+contained in Section 34 of the Specific Relief Act, 1963 (47 of 1963),
+institute a declaratory suit that the alleged infringement to which the
+threats related was not in fact an infringement of any legal rights of the
+person making such threats and may in any such suit --
+
+(a) obtain an injunction against the continuance of such threats; and
+
+(b) recover such damages, if any as he has sustained by reason of such
+threats:
+
+Provided that this section does not apply if the person making such threats,
+with due diligence, commences and prosecutes an action for infringement of the
+copyright claimed by him.
+
+61\. Owners of copyright to be party to the proceeding:
+
+(1) In every Civil Suit or other proceeding regarding infringement of
+copyright instituted by an exclusive licensee, the owner of the copyright
+shall, unless the Court otherwise directs, be made a defendant and where such
+owner is made a defendant, he shall have the right to dispute the claim of the
+exclusive licensee.
+
+(2) Where any Civil Suit or other proceeding regarding infringement of
+copyright instituted by an exclusive licensee is successful, no fresh suit or
+other proceeding in respect of the same cause of action shall lie at the
+instance of the owner of the copyright.
+
+6\. We agree with the learned single Judge that Ext.P10 is not an adjudicatory
+order under Chapter IX of the Information Technology Act to file an appeal to
+the Cyber Appellate Tribunal constituted under Chapter X of the Information
+Technology Act. It is true that under Ext.P6 agreement disputes between the
+parties could be settled by arbitration by second respondent in terms of
+clause 7 (2) of the said agreement. Petitioner has not chosen to avail such a
+remedy. Admittedly, petitioner did not file any suit and did not go for
+arbitration. The remedy of the petitioner was to file a suit or to refer the
+matter to arbitration instead of filing a writ petition. That was not done.
+Counsel for the petitioner insisted that since they have not filed any suit
+and writ petition was pending from about two years, the question whether
+"FRIENDS" software developed is a Government work and whether Government can
+issue Ext.P10 notification under Section 17(d) of the Copyright Act should be
+decided by this Court. Arguments were advanced by both sides to the point. The
+learned single Judge went through the contentions in detail and found after
+examining Exts.P1, 3, 6 and 9 that the software was developed for the
+Government and for the purpose of rendering services by the Government to the
+public. Even though Exts.P6 and 9 are executed with fourth respondent and
+Government is not directly a party, fourth respondent was only a Government
+agency and Government created the above agency as a total solution provider
+for developing softwares for the Government. Clause (10) of Ext.R4(b) reads as
+follows:
+
+10\. Departmental Task Force will monitor the actual implementation of the
+project vis-a-vis the milestones set by the TSP.
+
+Intellectual Property Rights of the system developed by all the TSPs and
+Departments shall vest in the Government of Kerala. Government of Kerala will
+be free to deploy the same system or with modification in any of the
+Government/Semi-Government/Quasi Government Departments/ Organisation.
+
+Fourth respondent was bound by the above clause. Petitioner who understood
+technical support by executing agreement with fourth respondent is also bound
+by the above clause in Ext.R4(b). Government has decided itself to the IPR
+copyright in respect of "FRIENDS" software and there is no document or clause
+in the agreement to show that fourth respondent has assigned IPR right to the
+petitioner. The agreement was valid for a definite period and the petitioner
+was bound to give technical support during the currency of agreement. The
+software developed is for the sole purpose of collection of tax and amount
+payable to the various Government agencies through a single window. The
+learned single Judge held that it answers the definition of 'Government work'
+under Section 2(k). We agree with the learned single Judge.
+
+7\. It is contended by the learned Government Pleader that findings 7 and 8
+were not warranted as when suit is maintainable, the court should not have
+directed to withdraw the suit, but, the question whether Government is
+entitled to publish Ext.PIO notification under Section 70 was decided by the
+learned single Judge himself and, therefore, a declaratory suit was not
+necessary. The learned single Judge also held that the petitioner is
+prohibited from claiming any right from "FRIENDS" software in view of Ext.PIO
+notification. Therefore, a further suit is unnecessary and, in any event, no
+appeal has been filed by the Government. We agree with the finding of the
+learned single Judge that Section 70 of the Information Technology Act is not
+unconstitutional, but, while interpreting Section 70 of the Information
+Technology Act, a harmonious construction with Copyright Act is needed and
+copyright of IT Government work is also protected under the Copyright Act and
+remedy provided under the Copyright Act can be availed by the parties, if
+their copyright is infringed even in respect of IT work. No grounds are made
+out by the petitioner to set aside Ext.P10 notification issued under Section
+70 of the Information Technology Act in a petition under Article 226 of the
+Constitution of India. Therefore, the Writ Appeal is dismissed.
+

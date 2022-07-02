@@ -1,0 +1,1013 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Terex India Pvt. Ltd., Tamil Nadu vs Dcit, New Delhi on 30 May, 2019
+
+    
+    
+          IN THE INCOME TAX APPELLATE TRIBUNAL
+               (DELHI BENCH 'I-2' : NEW DELHI)
+    
+        BEFORE SHRI N.K. BILLAIYA, ACCOUNTANT MEMBER
+                              and
+             SHRI KULDIP SINGH, JUDICIAL MEMBER
+    
+                         ITA No.4791/Del/2015
+                    (ASSESSMENT YEAR : 2010-11)
+    
+    M/s. Terex India Private Ltd.,         vs.    DCIT, Circle 25 (1),
+    Plot No.E - 18, Phase II,                     New Delhi.
+    Expansion II, SIPCOT Indl. Park,
+    Hosur,
+    Tamil Nadu - 635 109.
+    
+           (PAN : AACCT6500D)
+        (APPELLANT)                                    (RESPONDENT)
+          ASSESSEE BY : Shri Ved Jain, Advocate
+                        Shri Ashish Goel, CA
+                        Shri Rishabh Jain, CA
+          REVENUE BY : Shri H.K. Choudhary, CIT DR
+    
+                       Date of Hearing :     09.05.2019
+                       Date of Order :       30.05.2019
+    
+                              ORDER
+    
+
+PER KULDIP SINGH, JUDICIAL MEMBER :
+
+Appellant, M/s. Terex India Private Ltd. (hereinafter referred to as 'the
+taxpayer') by filing the present appeal sought to set aside the impugned order
+dated 27.01.2015 passed by the AO in consonance with the orders passed by the
+ld. DRP/TPO under section 143 (3) read with section 144C of the Income-tax
+Act, 1961  2 ITA No.4791/Del/2015 (for short 'the Act') qua the assessment
+year 2010-11 on the grounds inter alia that :-
+
+> "The grounds of appeal listed below are without prejudice to each other:
+
+> 1\. The order of the learned Deputy Commissioner of Income Tax, Circle -
+> 25(1), New Delhi ('Assessing Officer' or 'AO') passed pursuant to the order
+> of the learned Additional Director of Income Tax (Transfer Pricing Officer)
+> - II (4), New Delhi (Transfer Pricing Officer' or TPO') and the directions
+> issued by the Hon'ble Dispute Resolution Panel (the 'DRP'), to the extent
+> prejudice to the Appellant, is erroneous, bad in law and contrary to the
+> facts and circumstances of the case.
+
+> 2\. That on the facts and in the circumstances of the case the AO, TPO and
+> DRP erred in making an adjustment of INR 9,87,50,638/- in the Arm's Length
+> Price (,ALP') of the Appellant's international transactions with Associated
+> Enterprises ('AEs').
+
+> Grounds in relation to Engineering Design Services COEDS') segment
+
+> 3\. The TPO, AO and DRP have erred, in law and in facts, by not accepting
+> the economic analysis in respect of EDS segment undertaken by the Assessee
+> in accordance with the provisions of the Act read with the Rules, and
+> conducting a fresh economic analysis for the determination of the ALP in
+> connection with the impugned international transaction and holding that the
+> Assessee's international transaction is not at arm's length.
+
+> 4\. The TPO, AO and DRP have erred, in law and in facts, by not providing
+> the details of the search process in respect of the EDS segment.
+
+> 5\. The TPO, AO and DRP have erred, in law and in facts, by applying certain
+> quantitative and qualitative filters which are arbitrary in nature for
+> computing the ALP in respect of EDS segment.
+
+> 6\. The TPO, AO and DRP have erred, in law and in facts, by selecting
+> certain additional companies as comparables which do not satisfy various
+> comparability criteria and also erred in rejecting pertain companies
+> identified by the Assessee based on incorrect reasons in respect of EDS
+> segment.
+
+3 ITA No.4791/Del/2015
+
+> 7\. The TPO, AO and DRP have erred, in law and in facts, by not making
+> suitable adjustments to account for various differences in the risk profile
+> of the assessee vis-à-vis the comparables.
+
+> Grounds relating to Manufacturing segment
+
+> 8\. The TPO, AO and DRP have erred, in law and facts, by not appreciating
+> that the losses incurred by the Appellant was on account of economic and
+> commercial reasons due to the first year of operation of the Appellant.
+
+> 9\. The TPO, AO and DRP have erred, in law and facts, by not appreciating
+> the fact that the AEs have not made excessive margins on the exports made to
+> the Appellant and accordingly, the loss was not attributable to the
+> international transactions undertaken by the Appellant with the AEs.
+
+> 10\. The TPO, AO and DRP have erred, in law and facts, by not providing for
+> suitable adjustments for differences like under- utilization of capacity,
+> excessive customs duty to account for differences in the capacity
+> utilisation and other adjustments for economic and commercial reasons by the
+> Assessee vis-a-vis the com parables. By not doing so, neglecting the Indian
+> transfer pricing regulations and the OECD guidelines on transfer pricing and
+> judicial precedence.
+
+> 11\. The learned TPO and the learned AO have erred, in law and in facts, by
+> not restricting the transfer pricing adjustment in respect of the import of
+> raw materials transaction to the value of consumption of materials of the
+> Assessee.
+
+> Grounds common to both EDS and Manufacturing segments
+
+> 12\. The TPO, AO and DRP have erred, in law and in facts, by determining the
+> arm's length margin / price using only FY 2009- 10 data which was not
+> available to the Assessee at the time of complying with the transfer pricing
+> documentation requirements.
+
+> 13\. The TPO, AO and DRP have erred, in not allowing the benefit under the
+> proviso to section 92C(2) of the Income-tax Act ('the Act')."
+
+2\. Briefly stated the facts necessary for adjudication of the controversy at
+hand are : The taxpayer, M/s. Terex India Private Limited, being an Indian
+company engaged in the manufacturing of  4 ITA No.4791/Del/2015 material
+processing equipments like crushers, screeners etc and is also into providing
+sales and post-sales business support and engineering design services to its
+Associated Enterprises (AE). During the year under assessment, the taxpayer
+entered into international transactions with its AE as under :-
+
+> Nature of International Transaction Method Amount (In INR) Purchase of raw
+> material TNMM 160,782,287 Purchase of spare TNMM 3,502,093 Purchase of
+> services TNMM 69,705,032 Receipt of services TNMM 34,491,124 Interest of ECB
+> CUP 8,155,970 Corporate Chargers NA 16,313,777 Receipt of interest on
+> overdue TNMM 989,789 Payment of interest on overdue TNMM 43,565
+> Reimbursements NA 9,992,070 Receipt of share application money NA 63,093,299
+
+3\. The taxpayer in order to benchmark its international transactions qua
+business support services segment provided to its AE undertaken TP analysis by
+applying Transactional Net Margin Method (TNMM) as the Most Appropriate Method
+(MAM) with Operating Profit to Total Cost (OP/TC) as Profit Level Indicator
+(PLI) and computed OP/OC of comparables at 13.90% as against the average OP/OC
+of taxpayer at 16.00% and found its international transactions at arm's
+length.  5 ITA No.4791/Del/2015
+
+4\. TPO, after accepting TNMM as the MAM with OP/OC as PLI, however,
+questioned the TP analysis undertaken by the taxpayer applied filters as under
+:-
+
+    
+    
+          (i)      Use of correct keywords;
+          (ii)     Companies with positive networth;
+          (iii)    Use of current year data;
+          (iv)     Reject comparables having different financial year;
+          (v)      Reject companies where turnover is less than Rs.1 crores;
+          (vi)     Select companies where the ratio of service income to total
+                   income is at least 75%;
+          (vii)    Reject companies where related party transactions exceed
+                   25% of sales;
+    
+
+(viii) Reject companies that have employee cost less than 25% of total cost;
+
+(ix) Reject companies that are affected by some peculiar economic
+circumstances;
+
+(x) Select companies providing business services, facility management
+services, technical services, advisory services.
+
+5\. By applying the aforesaid criteria, ld. TPO rejected all the comparables
+selected by the taxpayer and on the basis of fresh search chosen, 10 new
+comparables with average PLI at 28.20% and thereby made an adjustment of
+Rs.62,57,762/-.
+
+6\. Ld. TPO has not given adjustment claimed by the taxpayer on account of
+capacity utilization and customs duty and order of the ld. TPO in this regard
+has been confirmed by the ld. DRP. Ld. TPO as well as AO has also not allowed
+restricting the transfer pricing adjustment in respect of import of raw
+material transaction  6 ITA No.4791/Del/2015 to the value of consumption of
+materials by the taxpayer, which has been confirmed by the ld. DRP.
+
+7\. The taxpayer carried the matter before the ld. DRP by way of filing
+objections who has retained the final set of comparables chosen by the TPO by
+dismissing the objections raised by the taxpayer. Feeling aggrieved, the
+taxpayer has come up before the Tribunal by way of filing the present appeal.
+
+8\. We have heard the ld. Authorized Representatives of the parties to the
+appeal, gone through the documents relied upon and orders passed by the
+revenue authorities below in the light of the facts and circumstances of the
+case.
+
+GROUNDS NO.1 & 2
+
+9\. Grounds No.1 & 2 are general in nature and do not require any
+adjudication.
+
+GROUNDS NO.3 TO 5
+
+10\. Grounds No.3 to 5 are also general in nature relating to engineering
+design segment and do not require any adjudication. ENGINEERING DESIGN SEGMENT
+GROUND NO.6
+
+11\. The ld. TPO in order to benchmark the international transactions qua
+engineering design segment services provided by  7 ITA No.4791/Del/2015 the
+taxpayer to its AE rejected all the 8 comparables chosen by the taxpayer and
+selected 10 new comparables with average OP/OC at 28.20% which are as under :-
+
+    
+    
+           S.No.    Company Name                           OP/OC (%)
+           1.       Cades Digitech Pvt. Ltd.                   9.02
+           2.       Dalkia Energy Services Ltd.               20.81
+           3.       Engineers India                           62.94
+           4.       IBI Chematur                              52.66
+           5.       I-Design Engg.                            11.88
+           6.       Kirloskar Consultants Ltd.                15.64
+           7.       Kitco Ltd.                                14.01
+           8.       Mahindra Consulting Engineers Ltd.        23.50
+           9.       Rites Ltd.                                45.71
+           10.      T C E Consulting Engineers Ltd.           25.88
+                                  Average                     28.20
+    
+    
+    
+    
+
+12\. Consequently, the ld. TPO proposed the ALP for engineering design
+services segment as under :-
+
+    
+    
+           Operating Cost                                   5,12,95,776
+           Arm's Length Margin OP/OC %                          28.20%
+           Arm's Length Price (ALP)                         6,57,61,185
+           Price shown in the international transactions    5,95,03,423
+           Shortfall being adjustment u/s 92CA                62,57,762
+    
+    
+    
+
+13\. The ld. DRP accepted the final set of comparables selected by the TPO by
+rejecting the objections raised by the taxpayer.
+
+14\. The taxpayer challenged the order passed by the TPO/DRP/AO by seeking
+exclusion of 8 comparables viz. (i) Engineers India Ltd.; (ii) IBI Chematur;
+(iii) Mahindra Consulting Engineers Ltd. ; (iv) Rites Ltd. ; (v) Kitco Ltd. ;
+8 ITA No.4791/Del/2015
+
+(vi) TCE Consulting Engineers Ltd.; (viii) Kirloskar Consultants Ltd.; and
+(vii) Dalkia Energy Services Ltd..
+
+15\. The taxpayer also sought inclusion of two of its comparables viz. (i)
+Neilsoft Ltd. and (ii) Vama Industries Ltd. to benchmark its international
+transactions qua engineering design services segment.
+
+16\. We would discuss the suitability of each of the comparable companies vis-
+à-vis taxpayer challenged by it to benchmark the international transactions
+one by one.
+
+ENGINEERS INDIA LTD. (EIL)
+
+17\. The taxpayer sought to exclude EIL on grounds inter alia that it is a
+Government company surviving on the basis of contracts provided by the
+Government of India; that it is functionally different; that it has incurred
+substantial expenditure of Rs.11.40 crores on its R&D activities; and relied
+upon the decision rendered by the coordinate Bench of the Tribunal in case of
+Boeing International Corporation India Pvt. Ltd. vs. DCIT in ITA
+No.1127/Del/2015 dated 30.10.2018 and decision rendered by Hon'ble Bombay High
+Court in case of CIT vs. Thyseen Krupp Industries Pvt. Ltd. (2016) 385 ITR
+612. On the other hand, ld. DR for the Revenue supported the retention of EIL
+by the ld. TPO  9 ITA No.4791/Del/2015 and contended that there is no bar to
+select Government company as comparable unless its entire revenue is from the
+Government.
+
+18\. Perusal of the annual report of EIL shows that it is providing complete
+range of services ranging from conceptualization, planning, design,
+engineering and construction activities to meet with the specific requirement
+of its clients in the several fields - petroleum refining, petro-chemicals,
+pipelines, offshore oil & gas, onshore oil & gas, terminals & storages, mining
+& metallurgy; and infrastructure. EIL is also executing turnkey projects of
+Lump Sum Turn Key (LSTK) mode or on the recently introduced concept of Open
+Book Estimate. EIL is also having Government contracts in its hand pertaining
+to High-Density Polyethylene (HDPE)/ Linear Low-Density Polyethylene (LLDPE)
+Swing Unit of IOCL at their Panipat Naphtha Complex on LSTK basis. 18.1 On the
+other hand, the taxpayer being a captive entity is engaged in providing
+engineering design services to its AE as against high end and full-fledged
+engineering and technical services being provided by EIL for petroleum
+refineries and other industrial projects. EIL has incurred huge R&D
+expenditure to the tune of Rs.11.40 crores which is 0.53% of the turnover
+which makes it not a suitable comparable.
+
+10 ITA No.4791/Del/2015
+
+19\. Hon'ble Delhi High Court in case of Pr.CIT vs. International SOS Services
+India P. Ltd. - 2017 (5) TMI 1588 while examining the comparability of
+Government company vis-à- vis private company held that EIL could not be
+considered to be a comparable for the reason that the contracts between public
+sector undertaking are not driven by profit motive alone but other
+consideration also weigh in such as discharge of social obligation etc. by
+returning following findings :-
+
+> "10 The Court on perusing the aforementioned judgment of the Bombay High
+> Court finds that in para 4(a) and 4(b) of the said order the Bombay High
+> Court has held that the view taken by the Mumbai Bench of the ITAT "is a
+> reasonable and plausible view." It noted that the ITAT, Mumbai Bench had
+> held that the Engineers India Ltd. could not be considered to be comparable
+> for the reason "that contracts between Public Sector Undertakings are not
+> driven by profit motive alone but other consideration also weigh in such as
+> discharge of social obligations etc. Thus, it is not comparable."
+> Interestingly in the present case the Assessee itself picked up two of the
+> 100% government owned companies namely ECIL and ITDCL as its comparables but
+> that was not accepted by the TPO or the DRP. The reason for the ITAT
+> excluding Apitco as a comparable is also for the same reason that it was a
+> 100% government owned company".
+
+20\. In view of what has been discussed above, we are of the considered view
+that EIL cannot be retained as a suitable comparable, hence ordered to be
+excluded from the final set of comparables.
+
+11 ITA No.4791/Del/2015
+
+IBI CHEMATUR (ENGINEERING & CONSULTANCY) LTD. (IBI CHEMATUR)
+
+21\. The taxpayer sought exclusion of IBI Chematur from the final set of
+comparables for benchmarking the international transaction on grounds inter
+alia that it is functionally dissimilar to the taxpayer that it has
+significant R&D expenditure and relied upon the decisions of the coordinate
+Bench of the Tribunal in (i) taxpayer's own case in ITA No.6783/Del/2015 for
+AY 2011-12 dated 26.03.2019; (ii) BG Exploration and Production India Ltd. vs.
+JCIT in ITA No.1170/Del/2015 dated 24.04.2017; (iii) Bechtel India P. Ltd. vs.
+DCIT in ITA No.1478/Del/2015 dated 21.12.2015; and (iv) ITO vs. Colt
+Technology Services India (P.) Ltd. - (2014) 146 ITD 46.
+
+22\. However, on the other hand, ld. DR for the Revenue contended that in
+engineering design services, R&D expenditure are inbuilt in every company and
+as such, it cannot be excluded on the basis of the fact that it has incurred
+significant R&D expenditure. Ld. DR also emphasized that there is no need for
+separate segmentation keeping in view the fact that the entire income is from
+engineering service charges to profit & loss account, available at page 371 of
+the paper book.  12 ITA No.4791/Del/2015
+
+23\. When we examine annual report under the head "Review of Performance" at
+page 361 of the paper book, it shows that IBI Chematur has progressed on use
+of Summary Plant Suite of Software. All engineers are trained about new
+software and the company has undertaken continuously upgrading technologies
+and also improving competence of staff which has employed highly trained
+technical staff. The company is planning to bring Technologies of BIOSTIL,
+2000 Process. These technologies find synergy with BIOSTIL, 2000. The activity
+in BIOSTIL 2000 takes us to Sugar Industry, which remains as the biggest
+Biomass Processors in the country. The company continues to carry out Domestic
+Business activities in "IBIC Engineering (Div. of IBI Chematur (Eng.. & Cons.)
+Ltd.) division of the company as stated in the year.
+
+24\. Furthermore, IBI Chematur has started its new division in the name and
+style as "IBIC Research and Technology Centre" wherein all in house
+engineering research and development activities undertaken relating to the
+Business activities of your company. Such in-house R&D centre will be
+providing its services in the areas of modernization, technological up
+gradation and additions, modification and troubleshooting of plants for our
+own as well as clients plants, New division has started Research & 13 ITA
+No.4791/Del/2015 Development activities during the year. The research and
+development activities carried out in Division, has resulted in improvement in
+process and productive capacity, better quality and marketability of
+technology.
+
+25\. Profit and loss account, available at page 371 of the paper book, shows
+that it has incurred huge R&D expenditure during the year under assessment to
+the tune of Rs.1,16,99,720/- which is 5% of the total turnover.
+
+26\. No doubt, every engineering design services provider needs to have an
+inbuilt R&D centre but IBI Chematur is having a specialized R&D centre on
+which it has huge expenditure of 5% leading to the creation of intangibles and
+as such cannot be compared to the taxpayer who has not incurred a single penny
+under the specified head. Moreover, IBI Chematur is into providing high end
+services whereas the taxpayer, a captive service provider, is providing
+routine engineering design services to its AE only.
+
+27\. Coordinate Bench of the Tribunal in taxpayer's own case for AY 2011-12
+(supra) directed to exclude IBI Chematur from the final set of comparables by
+returning following findings :-
+
+> "We have perused the financial statements of the company placed at Paper
+> Book pages 461 - 490. On going through the same, we note that this company
+> fails the 75% service revenue  14 ITA No.4791/Del/2015 filter which has been
+> adopted by the TPO. This fact is corroborated from the Profit & Loss account
+> of the company, wherein the Engineering Service charges of the company are
+> shown at Rs.18,88,21,452/-, out of the total revenue of the company of
+> Rs.29,74,92,912/-. Therefore, the service/revenue ratio of the company comes
+> out to 63.47%, which is less than 75%, which is one of the filters adopted
+> by the TPO himself. Moreover, no segmental information with regard to the
+> different segments of the company is available in the financial statements.
+> This company has been considered by the ITAT Delhi Bench in the case of
+> Bechtel India (P.) Ltd. v. DCIT in ITA No.1478/Del/2015 dated 21.12.2015 and
+> in the case of BG Exploration & Production India Ltd. v. JCIT in ITA Nos.
+> 1170 & 1581/Del/2015 dated 24.04.2017 wherein it has been held to be not a
+> good comparable. Taking into consideration all the above facts, we are of
+> the view that this company is not a good comparable with that of the
+> assessee company and, accordingly, we direct the AO to exclude this
+> comparable."
+
+28\. Coordinate Bench of the Tribunal in case cited as BG Exploration and
+Production India Ltd. vs. JCIT, International Taxation, Dehradun for AY
+2010-11 (supra) also ordered to exclude IBI Chematur in identical set of facts
+by returning following findings :-
+
+> "This comparable has been selected by the Ld. Transfer Pricing Officer which
+> is a joint venture company promoted in association with Swedish company to
+> render basic engineering, detailed engineering and consultancy services in
+> the field of petrochemicals, fine chemicals and chemicals, cosmetics,
+> pharmaceuticals, industrial explosive and west acid recovery. The Ld.
+> Authorised Representative submitted that The company generates income from
+> provision of engineering services like designing and drawing, 3D modeling,
+> piping and instrumentation diagram, smart plant instrumentation, process
+> simulation, inspection services and erection supervision services, which are
+> not similar to services provided by the Assessee. The company generates
+> income from provision of engineering services and software services. It is
+> further submitted that company has earned a high profit margin of 52.66%
+> during the FY 2009-10. It was further stated that there is an existence of
+> significant research and development cost to sales ratio for the FY 2009-10
+> is 5.41%. He further placed reliance on the decision  15 ITA
+> No.4791/Del/2015 of Delhi ITAT in case of iQor India Services Private Ltd.
+> Vs ITO where in the Hon'ble ITAT held that the high end services involving
+> special knowledge cannot be compared with the low end ITES services provided
+> by the Assessee. We have carefully perused the annual accounts of the
+> company, which are placed at page No. 93 -117 of the paper book. At page No.
+> 94 of the paper book where review of performance of company is noted, it
+> shows that company has employed highly trained technical staff and is also
+> marketing these capabilities in the domestic as well as the overseas market.
+> It further uses SMART plant foundation, which is software for bringing the
+> technologies specific to several industries. It also has the new division in
+> the form of research and technology Centre, which started functioning during
+> the year. Looking to the assets employed by the company, It uses the
+> computer software in the name of smart plant suite. Further during the year.
+> It has incurred research and development expenditure of Rs. 11699720/- which
+> was not there in the earlier year. Further, the company is also planning to
+> use Smart plant foundation for integration of other smart plant tools. In
+> view of this we agree with the argument of the Ld. Authorised Representative
+> that this company is engaged in the business of high-end engineering
+> services which is based and supported by the use of a specific technologies
+> and huge research and development expenditure along with an R&D centre. In
+> view of this, the functions performed by this comparable company are not
+> comparable with the Assessee's functions. For this reason only, we direct
+> the Ld. Transfer Pricing Officer/AO, rejecting this comparable, to exclude
+> the same for the comparability analysis."
+
+29\. In view of what has been discussed above, we are of the considered view
+that IBI Chematur is not a suitable comparable vis-à-vis the taxpayer, hence
+ordered to be excluded. MAHINDRA CONSULTING & ENGG.
+
+SERVICES LIMITED (MAHINDRA)
+
+30\. The taxpayer sought exclusion of Mahindra on grounds inter alia that in
+the absence of segmental information, it cannot be considered as a valid
+comparable; that Mahindra recognizes its revenue on percentage completion
+method which is not in the case  16 ITA No.4791/Del/2015 of taxpayer; and
+relied upon the decisions rendered by the coordinate Benches of the Tribunal
+in taxpayer's own case for AY 2011-12 (supra), Alcatel Lucent India Ltd. vs.
+ITO in ITA Nos.2154 7 2209/Del/2014 dated 06.04.2018 and Rolls Royce India
+(P.) Ltd. vs. DCIT in ITA No.6636/Del/2015 dated 22.04.2016.
+
+31\. To counter the arguments addressed by the ld. AR for the taxpayer, ld. DR
+for the Revenue contended that a company cannot be excluded on the basis of
+use of percentage completion method as it is one of the recognised method.
+
+32\. Perusal of functions of Mahindra, available at page 444 of the paper
+book, shows that it is engaged in providing consulting services in
+infrastructure sector in the area of Special Economic Zones, Water supply &
+sewerage, solid waste management, urban infrastructure, agri & horti
+infrastructure, social infrastructure, marine infrastructure, industrial
+infrastructure, renewable energy, sustainability studies, institutional
+strategies / planning studies, industrial plants and systems etc..
+
+33\. Coordinate Bench of the Tribunal examined the comparability of Mahindra
+vis-à-vis the taxpayer in taxpayer's own case for AY 2011-12 (supra) (though a
+different year but business model has not undergone any change), found the
+same to  17 ITA No.4791/Del/2015 be not a suitable comparable on ground of
+non-availability of segmental information about engineering design services
+and on the ground that the company has recognised its revenue on percentage
+completion method. No doubt, a comparable cannot be excluded merely on the
+basis of different revenue accounting method which is recognised one but non-
+available of segmental information in the face of the fact that it is into
+diversified services as discussed above, we find it not a suitable comparable
+vis-à-vis taxpayer which is into providing routine low end engineering design
+services. Hence, we order to exclude Mahindra as a valid comparable.
+
+RITES LTD. & KITCO LTD.
+
+34\. The taxpayer sought to exclude both the aforesaid companies i.e. Rites
+Ltd. & Kitco Ltd. on the grounds inter alia that both are Government of India
+undertaking and mostly gets its contracts from Government of India; that both
+are functionally dissimilar vis-à-vis taxpayer.
+
+35\. Annual report of Rites Ltd., available at page 464 of the paper book,
+shows that this company is having a brand image of "The Infrastructure People"
+and the global and domestic experience in transportation & project management
+services is likely to emerge as a major beneficiary of enhanced infrastructure
+spending.  18 ITA No.4791/Del/2015 Company continued to provide specialized,
+integrated, single roof services in transportation infrastructure sector and
+export packages for supply of locomotives, coaches, spare parts and
+modernization of workshops. Company is also intending to expand the rolling
+stock leasing business activities in domestic market. The company is exploring
+business opportunities in captive railway systems in India through equity
+participation with other stake holders, with a main focus to prove total
+transportation solution as against pure consultancy assignment). The company
+has secured new orders worth of Rs. 972.59 crores during the year 2009-10. So,
+functional profile of Rites Ltd. goes to prove that it is dissimilar to
+taxpayer being diversified services like providing single roof services in
+transportation infrastructure sector and export packages for supply of
+locomotives, coaches, spare parts and modernization of workshop. It is also
+getting into business of captive railway systems in India having a
+preferential treatment in business avenue being a Government company.
+
+36\. Similarly, Kitco Ltd. is also a 100% Government owned company. Profile of
+Kitco Ltd., available at the website of this company, shows that its technical
+services include services like asset valuation, energy audits, revival study,
+etc. Kitco Ltd. is also a permanent player in energy studies, skill
+certification and  19 ITA No.4791/Del/2015 placement services. It is having
+multi-functional, multi- disciplinary organization and infrastructure sector
+having wide range of clientele.
+
+37\. Hon'ble Delhi High Court in case of Pr.CIT vs. International SOS Services
+India P. Ltd. - 2017 (5) TMI 1588 while examining the comparability of
+Government company vis-à- vis private company held that EIL could not be
+considered to be a comparable for the reason that the contracts between public
+sector undertaking are not driven by profit motive alone but other
+consideration also weigh in such as discharge of social obligation etc. by
+returning following findings :-
+
+> "10 The Court on perusing the aforementioned judgment of the Bombay High
+> Court finds that in para 4(a) and 4(b) of the said order the Bombay High
+> Court has held that the view taken by the Mumbai Bench of the ITAT "is a
+> reasonable and plausible view." It noted that the ITAT, Mumbai Bench had
+> held that the Engineers India Ltd. could not be considered to be comparable
+> for the reason "that contracts between Public Sector Undertakings are not
+> driven by profit motive alone but other consideration also weigh in such as
+> discharge of social obligations etc. Thus, it is not comparable."
+> Interestingly in the present case the Assessee itself picked up two of the
+> 100% government owned companies namely ECIL and ITDCL as its comparables but
+> that was not accepted by the TPO or the DRP. The reason for the ITAT
+> excluding Apitco as a comparable is also for the same reason that it was a
+> 100% government owned company".
+
+38\. In view of what has been discussed above, we are of the considered view
+that both Rites Ltd. and Kitco Ltd. being 100% Government owned company and
+into dissimilar business are not  20 ITA No.4791/Del/2015 suitable comparables
+vis-à-vis taxpayer, hence ordered to be excluded.
+
+TCE Consulting Engineers Ltd. (TCE CONSULTING)
+
+39\. The taxpayer sought to exclude TCE Consulting as comparable on the
+grounds inter alia that it is functionally dissimilar; that its segmental
+financials are not available; that TCE Consulting is into providing high end
+consulting services and relied upon taxpayer's own decision in AY 2011-12
+(supra).
+
+40\. Perusal of the annual report of TCE Consulting, available at pages 538 to
+559 of the paper book, shows that it is into various other services apart from
+engineering services like providing services of designing, development of new
+product and Computer Aided Designing (CAD), but its segmental financials are
+not available.
+
+41\. Coordinate Bench of the Tribunal in taxpayer's own case for AY 2011-12
+(supra) ordered to exclude TCE Consulting from final set of comparables on two
+grounds, viz., (i) it does not satisfy the upper turnover filter of Rs.200
+crores; and (ii) that brand name of the company has enabled this company to
+capture major Government contracts and other high end customers.
+
+42\. So far as question of excluding this company on ground of upper turnover
+filter is concerned, this filter has not been applied  21 ITA No.4791/Del/2015
+by the taxpayer as well as TPO during the year under assessment. However, we
+are of the considered view that it is not a valid comparable on account of
+functional dissimilarity and non- availability of its segmental financials.
+Moreover, in 2009-10, TPO himself excluded TCE Consulting from final set of
+comparables on raising objections by the taxpayer and since then, taxpayer's
+business profile has not undergone any change.
+
+43\. Coordinate Bench of the Tribunal in case of Bechtel India Pvt. Ltd. vs.
+DCIT \- 2015 (12) TMI 1560 - ITAT Delhi for AY 2010-11 has ordered to exclude
+TCE Consulting as a comparable vis-à-vis routine engineering design service
+provider by returning following findings :-
+
+> "12.6 The Comparable Company is involved in activities beyond engineering
+> design. It is engaged in activities that extend from concept to
+> commissioning. Whereas the assessee provides services as a captive unit to
+> its overseas AEs. The diversified functions of this comparable company
+> include pre-project activities, procurement assistance, project management,
+> commissioning and coordination, inspection, construction and supervision.
+> Further, there is no segmental accounting in the annual report of the
+> Company which provides profitability, for the engineering design segment.
+> Hence the same cannot be accepted as a comparable."
+
+44\. In view of what has been discussed above, we are of the considered view
+that TCE Consulting having a big brand value and being into high end
+engineering consulting services with no  22 ITA No.4791/Del/2015 financial
+segmental available is not a suitable comparable vis-à-vis taxpayer, hence
+ordered to be excluded.
+
+KIRLOSKAR CONSULTANTS LTD. (KIRLOSKAR)
+
+45\. The taxpayer sought exclusion of Kirloskar on the ground that sufficient
+information is not available in annual report to know the nature and volume of
+services of consultancy being provided by it. Its financial segmental are also
+not available and relied upon BG Exploration and Production India Ltd. vs.
+JCIT \- 2017 (4) TMI 1145- ITAT Delhi.
+
+46\. Ld. DR for the Revenue, on the other hand, contended that from the profit
+& loss account, available at page 403 of the paper book, shows that
+substantial income is from consultancy fees and in such circumstances, no
+segmental information is required.
+
+47\. Perusal of the annual report fails to disclose the requisite information
+to look into the nature and volume of services of consultancy being provided
+by the company. Even in the annual report, income is shown under vague head
+i.e. income of Rs.59,685,941/- & Rs.5,861,557/- on account of consultancy fees
+& other income. So, it fails to disclose required segmental information.
+Merely on the basis of the fact that substantial income is from consultancy
+fees, it is difficult to accept the  23 ITA No.4791/Del/2015 argument made by
+the ld. DR for the Revenue that no segmental information is required.
+
+48\. Comparability of Kirloskar has been examined by the coordinate Bench of
+the Tribunal vis-à-vis routine engineering design service provider and found
+to be not a suitable comparables in case cited as BG Exploration and
+Production India Ltd. for AY 2010-11 (supra) by returning following findings
+:-
+
+> "This comparable is selected by the Ld. Transfer Pricing Officer which is
+> engaged in the area of engineering consultancy, project management services
+> and architectural consultancy. The comparable company specializes in
+> conceptualizing, designing and executing architectural, civil, structural,
+> electrical, mechanical fire and life safety, water supply, drainage, storm
+> water management, networking, surveillance, telephone and building
+> management systems required for any large integrated project. According to
+> the Ld. Authorised Representative, this company is engaged in the high-end
+> service provider segment and it was also stated that he does not have the
+> segmental information pertaining to the segment in which the Assessee
+> operates, and therefore, this cannot be accepted as a comparable. We have
+> carefully considered the rival contention and also perused the annual report
+> of the company available in paper book at page No. 246 - 304. No information
+> is available with respect to the provision of the services of consultancy,
+> its nature, and its volume. It is simply mentioned that this company is
+> engaged in the business of consultancy services at the consultancy revenue
+> shown in the profit and loss account as a single item. There are no specific
+> bifurcations given of various services provided by the Assessee as well as
+> the nature of such services or the segmental information. Further, it is
+> also noted that during the year the Assessee has entered into transactions
+> for receipt of the consultancy fee from the related parties to the tune of
+> Rs. 89.59 lakhs out of the total consultancy fee receipt of Rs. 586 Lacs.
+> Though the related party filter has passed but during the year itself the
+> Assessee has entered into all these transactions, which were not there in
+> the past year. However, in view of the absence of complete information about
+> the business profile of the company as well as the nature of the services
+> rendered by the company, this comparable cannot be accepted. Hence, we
+> reject this comparable due to inadequate information available before us."
+
+24 ITA No.4791/Del/2015
+
+49\. In view of what has been discussed above, we are of the considered view
+that Kirloskar is not a valid comparable for final set of comparables, hence
+ordered to be excluded. DALKIA ENERGY SERVICES LTD. (DALKIA)
+
+50\. The taxpayer sought to exclude Dalkia on the grounds inter alia that as
+per its annual report, sufficient information regarding the nature of its
+business is not available; that it is functionally dissimilar and relied upon
+the decision of BG Exploration and Production India Ltd. for AY 2010-11
+(supra).
+
+51\. Perusal of the annual report, available at pages 148 to 196 of the paper
+book, does not provide complete information as to the nature of its business.
+However, information available at the website shows its business profile as
+under :-
+
+> "Dalkia Energy Services Company Ltd. offers alternate energy sources. The
+> Company develops renewable energy power projects for the biomass and hydro
+> sector. Dalkia Energy Services also provides energy cost reduction
+> consulting services for industrial, commercial, fertilizer, chemicals,
+> plastics, cement, sugar, power generation and municipal sectors."
+
+52\. Comparability of Dalkia has been examined by the coordinate Bench of the
+Tribunal in BG Exploration and Production India Ltd. for AY 2010-11 (supra)
+vis-à-vis routine engineering designs service provider and has found to be not
+a suitable comparable by returning following findings :-  25 ITA
+No.4791/Del/2015
+
+> "This comparable selected by the Ld. Transfer Pricing Officer is engaged in
+> the business of service in the area of energy manner and developing energy
+> efficiency and energy projects with focus on reducing the energy cost and
+> deriving of consequent environment benefiting the various sectors of economy
+> in India and abroad. The comparable company adopts a multiproject approach
+> when the individual customer defines the scope and structure of the services
+> beginning with relatively simple projects, depending on the comfort level of
+> the client, the scope and complexity of the service is expanded to multitier
+> product package. The Ld. Authorised Representative objected to the inclusion
+> of the above company as comparable for the simple reason that it did not
+> have the financial available in the public domain. Neither the Ld. Transfer
+> Pricing Officer nor the Ld. DRP has considered this aspect that when the
+> financial of the comparable is not available how the assets employed by that
+> company vis-a-vis's risk assumed and functions performed can be compared.
+> Therefore, in absence of any financial information available of this
+> company, either in the order of the Ld. Transfer Pricing Officer or
+> available with the Assessee, we reject this comparable at the threshold
+> itself."
+
+53\. So, following the order passed by the coordinate Bench of the Tribunal in
+BG Exploration and Production India Ltd. for AY 2010-11 (supra), we are of the
+considered view that Dalkia being into more projects approached with
+complexity of service of which complete information is not available in the
+public domain, it cannot be a valid comparable vis-à-vis taxpayer, hence
+ordered to be excluded from the final set of comparables.
+
+54\. The taxpayer sought inclusion of two comparables, viz., Neilsoft Limited
+and Vama Industries Ltd.
+
+INCLUSION SOUGHT FOR BY THE TAXPAYER NEILSOFT LIMITED  26 ITA No.4791/Del/2015
+
+55\. The taxpayer sought inclusion of Neilsoft Ltd. in the final set of
+comparables on the grounds inter alia that the nature of business of Neilsoft
+Ltd. is similar to the taxpayer and this comparable has already been ordered
+to be included by the Tribunal in taxpayer's own case for AY 2009-10 dated
+14.12.2018 in the final set of comparables. The TPO rejected Neilsoft Ltd. as
+comparable on the ground that it is functionally dissimilar being engaged into
+the business of software engineering services and sale of software projects.
+However, ld. AR for the taxpayer by referring to annual report of Neilsoft
+Ltd., available at pages 560 to 615 of the paper book, contended that Neilsoft
+Ltd. is into providing software engineering services which are similar to
+taxpayer's engineering design segment services.
+
+56\. However, when we examine company's overview of Neilsoft Ltd. at page 572
+of the paper book, it shows that apart from providing software engineering
+services to its clients, Neilsoft Ltd. is also engaged in the business of
+selling software products. When we examine the profit & loss account of
+Neilsoft Ltd. for the year under assessment, available at page 565 of the
+paper book, it has shown its substantial income from "services and products"
+with no segmental information available.
+
+27 ITA No.4791/Del/2015
+
+56.1 No doubt, Neilsoft Ltd. was ordered to be included in the final set of
+comparables in taxpayer's own case for AY 2009-10, but the year under
+assessment being different, the same order cannot be relied upon and a company
+having income from products though rendering software engineering services, in
+the absence of segmental information cannot be a suitable comparable. So, the
+contention of the taxpayer to include Neilsoft Ltd. in the final set of
+comparables is not sustainable, hence we confirm the order passed by the TPO
+as well as DRP.
+
+VAMA INDUSTRIES LTD. (VAMA)
+
+57\. The taxpayer sought to include Vama in the final set of comparables being
+functionally similar on the ground that the taxpayer has considered software
+development and services segment for the purpose of comparability. However,
+TPO has rejected this comparable on the ground that it is engaged in providing
+information technology and computer service activities. 57.1 Perusal of the
+annual report of Vama particularly its financial highlights at page 8 shows
+that out of the total turnover of Rs.903.17 lakhs, Vama has earned income from
+software development and ITES to the tune of Rs.561.86 lakhs. The ld. AR for
+the assessee contended that in its TP analysis the taxpayer has  28 ITA
+No.4791/Del/2015 considered software development and service segment for the
+purpose of comparability. However, when we examine profit & loss account of
+Vama, available at page 33 of the paper book, it has shown income under the
+head Domestic Rs.50,387,389/-, Export Rs.39,929,771/- and other income
+Rs.329,272/-, but no segmental information is available so as to compute
+actual profitability of Vama. Moreover, in the financial highlights, available
+at page 8, it is categorically mentioned that it has earned income from
+product/hardware sales and services, but again segmental financials are not
+available in the profit & loss account. 57.2 No doubt, comparability of Vama
+was examined by the coordinate Bench of the Tribunal in assessee's own case
+for AY 2009-10 and directed the AO/TPO to consider the software development
+and service for the purpose of comparability but the same cannot be followed
+being of different assessment year and that time complete financials of Vama
+might not be brought before the Bench. So, when segmental financials are not
+available on record Vama cannot be a valid comparable, hence rightly been not
+included by the TPO.
+
+GROUND NO.7
+
+58\. The taxpayer challenged the order passed by the TPO as well as DRP for
+not providing working capital adjustment and risk  29 ITA No.4791/Del/2015
+adjustment. While carrying out the comparability analysis under Rules
+10B(1)(e) and 10B(3), the difference between controlled and uncontrolled
+transaction is required to be taken into account by providing necessary
+adjustment. So, in order to bring two comparable companies at par, necessary
+working capital adjustment and risk adjustment is required to be made.
+
+59\. Coordinate Bench of the Tribunal in Mentor Graphics (Noida) P. Ltd. vs.
+DCIT \- (2007) 109 ITR 101 (Delhi) has decided the identical issue for
+providing working capital adjustment and risk adjustment for the purpose of
+comparability by returning following findings :-
+
+> "27. After the selection of the comparables, best method of determining
+> Arm's Length Price is selected. Thereafter, functional analysis is carried
+> to identify functions, risk and assets of uncontrolled transactions and
+> comparison is carried with characteristics of the controlled transaction.
+> This is necessary to find whether comparable selected are really comparable
+> and reliable. Comparison based on functional analysis include economically
+> significant activities and responsibilities undertaken or to be undertaken
+> by the independent and associated enterprises. The structure and
+> organization of the group and more particularly the judicial relationship
+> between different entities of same group are to be seen. The function that
+> need to be identified while carrying comparison as per OECD guidelines
+> include design, manufacturing, assembling, research and development,
+> servicing, purchasing, distribution, marketing, advertising, transportation,
+> financial and management activities. It is also necessary to examine as to
+> what is the principal function of the entities. The analysis of comparison
+> should consider total assets employed and assets used to earn profit. The
+> risk assumed by respective parties is a very important consideration. It is
+> a simple principle of economics that the greater the risk, the greater the
+> expected return (compensation). If there are material and significant
+> differences in the risk involved, then the comparable  30 ITA
+> No.4791/Del/2015 identified are not correct as appropriated adjustments for
+> differences in such cases are not possible. Therefore, while performing
+> searches for potential comparable companies, not only turnover and operating
+> profit but functions performed and risk profile are also to be considered.
+> However, it can always be shown on the given facts of the case that
+> comparable found are similar or almost similar to the controlled transaction
+> and no adjustments are needed. It is useful to see the level of intangible
+> assets in comparable to an appropriate base. Depending on facts of the case,
+> final set of comparables may need to eliminate differences by making
+> adjustments for the following:
+
+> (a) working capital
+
+> (b) adjustment for risk and growth
+
+> (c) adjustment of R&D expenses.
+
+> 27.1 The risk not only due to human resources, infrastructure and quality
+> which are normally taken into account yet more significant risks like market
+> risk, contract risk, credit and collection risk and risk of infringement of
+> intellectual property are being ignored here. In most of the comparable
+> analysis carried in India, the latter type of risk are not being taken into
+> consideration although these can lead to major difference in Market Value of
+> transactions."
+
+60\. So, we are of the considered view that TPO/DRP are required to provide
+working capital adjustment and risk adjustment to the taxpayer as well as
+comparable company to bring them at par with each other. So, ground no.7 is
+determined in favour of the taxpayer.
+
+GROUNDS NO.8 & 9
+
+61\. Grounds NO.8 & 9 being general in nature need no adjustment.
+
+GROUND NO.10
+
+62\. The taxpayer has sought adjustment on account of capacity utilization as
+well as customs duty which the TPO as well as DRP  31 ITA No.4791/Del/2015 has
+declined. The ld. AR for the taxpayer contended that the issue as to the
+providing adjustment on account of capacity utilization as well as customs
+duty has already been decided in favour of the taxpayer in its own assessment
+for AY 2011-12 (supra). 62.1 It is not in dispute that the taxpayer has
+started its commercial operation in October 2009. It is also not in dispute
+that during the year under assessment, the taxpayer has produced only 17 units
+of equipments as against the installed capacity of 238 equipments, as is
+evident form financials statement, available at page 16 of the paper book. So,
+the capacity utilization ratio of taxpayer's company is only 7.14%.
+
+63\. The taxpayer has provided capacity utilization to ld. TPO as well as DRP
+in tabulated form which is as under :-
+
+    
+    
+                  A.Y.         Installed capacity     Actual
+                                                    production
+                2010-11               238               17
+                2011-12               238               98
+                2012-13               238              128
+                2013-14               252              175
+    
+    
+    
+
+64\. Coordinate Bench of the Tribunal in taxpayer's own case for AY 2011-12
+(supra) dealt with the issue in question by returning following findings :-
+
+> "3.5.14 Now, coming to the methodology to be adopted for allowing the
+> capacity adjustment in this case. The Ld. DRP has taken cognizance of the
+> same but instead of allowing the adjustment on account of  32 ITA
+> No.4791/Del/2015 capacity utilization, it has directed to exclude
+> depreciation and repairs of machinery from the comparables as well as the
+> assessee. We are of the view that capacity adjustment is not limited to
+> depreciation and repair of machinery. In a business entity, there are
+> certain fixed overheads such as rent, administrative expenses etc., which
+> have to be incurred irrespective of the percentage of capacity utilization.
+> There are variable expenditures which are in direct proportion to the
+> production i.e. the capacity utilized. The net margin of an entity will vary
+> with that of another entity in case there is a difference in the capacity
+> utilization. If there is higher capacity utilization, then the fixed
+> overheads get spread over such higher capacity utilization with the result
+> that the net margin of such entity will be much higher as compared to the
+> another entity where the capacity utilization is low and as such there is a
+> higher proportion of fixed overheads which get allocated to such lower
+> capacity/production. Thus, the right method is to identify all the fixed
+> expenses including depreciation and to adjust the same in the ratio of the
+> capacity utilized. In view of the above analysis, we direct the TPO to
+> exercise his powers under section 133(6) of the Act and to call for the
+> information on capacity utilization of comparable companies. After obtaining
+> the information, he will share the details so obtained with the assessee and
+> give an opportunity to the assessee and grant adjustment for capacity under-
+> utilized."
+
+65\. So, the issue being covered in favour of the taxpayer in taxpayer's own
+case, TPO is directed to identify all the fixed expenses including
+depreciation and to adjust the same in capacity utilized by exercising his
+powers available under the Act by calling information qua the capacity
+utilization by comparable companies. So, this issue is remanded back to the
+TPO to decide afresh in view of the direction given in taxpayer's own case for
+AY 2011-12  33 ITA No.4791/Del/2015 (supra) by the Tribunal. So, ground no.10
+is determined in favour of the taxpayer for statistical purposes.
+
+66\. So far as customs duty adjustment as sought for by the taxpayer is
+concerned, this issue has also been decided in favour of the taxpayer in its
+own case for AY 2011-12 (supra) by returning following findings :-
+
+> "3.8.3 We have considered the rival submissions and perused the order passed
+> by the authorities below. The Ld. DRP has rejected this contention of the
+> assessee company on the ground that custom duty does not have any impact on
+> the net profit level of the assessee. While deciding the issue of the
+> capacity adjustment, we have held that in terms of Rule 10B (3) all the
+> adjustments which are materially affecting the transaction being compared
+> need to be eliminated. Thus, in case non-cenvat-able custom duty on import
+> made by the assessee company is materially affecting the transaction vis-à-
+> vis the comparables being considered by the TPO then the same needs to be
+> eliminated. Since, this issue has not been considered by the TPO and
+> considering the fact that we have remitted the matter back to AO for
+> allowing adjustment on account of capacity utilization, we deem it fit to
+> restore this issue also to the TPO. The TPO will examine whether non-cenvat-
+> able custom duty on imports paid by the assessee is materially affecting the
+> PLI of the assessee company and if he finds that this payment of non-cenvat-
+> able custom duty is materially affecting the transaction with that of the
+> comparables then he will suitably make adjustment thereof."
+
+67\. The taxpayer has brought on record the impact of customs duty on
+profitability of the taxpayer company in tabulated form which is as under :
+
+> (Rs. in lakhs) A.Y. Import Sales Import/Sales in Ratio 2010-11 1586.44
+> 1302.01 121.85% 2011-12 5573.74 9882.41 56.40% 2012-13 8070 19954 40.44%
+> 2013-14 10914 23257 46.93% 2014-15 7060.64 21916.36 32.22%  34 ITA
+> No.4791/Del/2015
+
+68\. Following the order passed by the coordinate Bench of the Tribunal in
+taxpayer's own case for AY 2011-12 (supra), we direct the TPO to examine if
+non-cenvat-able customs duty of import paid by the taxpayer is materially
+affecting the PLI of taxpayer company as per mandate of Rule 10B(3) then
+suitable adjustment be provided to the taxpayer.
+
+GROUND NO.11
+
+69\. TPO/DRP have not restricted transfer pricing adjustment in respect of
+import of raw material transaction to the value of consumption of material of
+the taxpayer, which is challenged by the taxpayer before the Tribunal. The ld.
+AR for the taxpayer contended that this issue has already been decided in
+favour of the taxpayer in AY 2011-12 (supra).
+
+70\. Coordinate Bench of the tribunal decided the issue in controversy by
+returning following findings as under :-
+
+> "3.10.3 We have considered the rival contentions. It is undisputed fact that
+> the assessee has made purchases of Rs.105,55,16,000/- during the year out of
+> which material worth Rs.41,34,29,000/- was not consumed during the year and,
+> therefore, the impact on the margin, if any, in respect of such purchases
+> during the year is only of the material consumed and not of the material
+> purchased and which is lying unutilized at the end of the year as closing
+> stock. The purchase cost debited in respect of such raw material and the
+> valuation of such material as closing stock is at same cost. Considering
+> this fact, we direct  35 ITA No.4791/Del/2015 the TPO that in case any
+> adjustment is required to be made after giving effect to the adjustment on
+> account of capacity and other issues decided by us in this appeal the same
+> is to be restricted to the material purchased from the AE and consumed
+> during the year."
+
+71\. So, following the aforesaid order passed by the coordinate Bench of the
+Tribunal, TPO is directed to restrict the adjustment, if any, after providing
+adjustment on account of capacity utilization and other risk adjustments, to
+the material purchased from AE and consumed during the year under assessment
+in line with the directions issued by the coordinate Bench of the Tribunal in
+AY 2011-12. So, this ground is determined in favour of the taxpayer. GROUND
+NO.12
+
+72\. Ground No.12 is dismissed having not been pressed during the course of
+arguments.
+
+GROUND NO.13
+
+73\. Ground No.13 being consequential in nature needs no specific findings.
+
+74\. Resultantly, the appeal filed by the taxpayer is partly allowed for
+statistical purposes.
+
+Order pronounced in open court on this 30th day of May, 2019.
+
+    
+    
+               Sd/-                                       sd/-
+         (N.K. BILLAIYA)                             (KULDIP SINGH)
+      ACCOUNTANT MEMBER                             JUDICIAL MEMBER
+    
+    Dated the 30th day of May, 2019/TS
+                                    36   ITA No.4791/Del/2015
+    
+    
+    
+    
+    Copy forwarded to:
+         1.Appellant
+         2.Respondent
+         3.CIT
+         4.CIT(A)
+         5.CIT(ITAT), New Delhi.           AR, ITAT
+                                          NEW DELHI.
+     
+

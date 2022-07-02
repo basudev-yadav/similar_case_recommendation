@@ -1,0 +1,2939 @@
+
+
+Appellate Tribunal For Electricity
+
+Maharashtra State Electricity ... vs Maharashtra Electricity ... on 5 October,
+2020
+
+    
+    
+                                                      Judgment of A.No.340 of 2019 & 354 of 2010
+    
+    
+    
+            APPELLATE TRIBUNAL FOR ELECTRICITY AT NEW DELHI
+    
+                            (APPELLATE JURISDICTION)
+    
+    
+                   APPEAL NO. 340 of 2019& IA No. 1749 of 2019
+                                Appeal No. 354 of 2019
+    
+    Dated :05th October, 2020
+    
+    
+    Present:   Hon'ble Mrs. Justice ManjulaChellur, Chairperson
+               Hon'ble Mr. S.D. Dubey, Technical Member (Electricity)
+    
+    IN THE MATTER OF :
+    
+                               APPEAL NO. 340 of 2019
+    
+    
+    Maharashtra State Electricity Distribution Company Ltd.
+    Through its Chief Engineer (Power Purchase),
+    5th Floor, Prakashgadh, Plot No. G-9,
+    AnandKanekar Marg, Bandra (East),
+    Mumbai - 700051.                                              .......Appellant
+    
+    
+                                        Versus
+    
+    (1)   Maharashtra Electricity Regulatory Commission
+          Through its Secretary,
+          World Trade Centre No. 1,
+          13th Floor, Cuff Parade,
+          Mumbai - 400 005.
+    
+    (2)   Adani Power Maharashtra Ltd.,
+          Through its Managing Director,
+          Achalraj, Opp Mayor Bungalow,
+          Law Garden, Ahmedabad,
+          Gujarat - 380006.
+    
+    
+    
+                                       Page 1 of 84
+                                                         Judgment of A.No.340 of 2019 & 354 of 2010
+    
+    
+    (3)   M/s. Prayas Energy Group,
+          Through its Secretary,
+          Unit - III, A7B, Devgiri,
+          Joshi Railway Museum Lane,
+          Kothrud Industrial Area,
+          Kothrud, Pune - 4110038                           ..........Respondents
+    
+    
+    Counsel for the Appellant(s) :     Mr. Anand K. Ganesan
+                                       Mr. G. Umapathy
+                                       Mr. Udit Gupta,
+                                       Mr. S. Rama,
+                                       Mr. Anup Jain
+    
+    Counsel for the Respondent(s) :    Ms PratitiRungta for R-1
+    
+                                       Mr. SajanPoovayya, Sr. Adv.
+                                       Mr. Amit Kapur,
+                                       Ms. Poonam Verma
+                                       Ms. AparajitaUpadhay
+                                       Mr. VishrovMukherjee,
+                                       Mr. Yashaswi Kant,
+                                       Ms. Adishree Chakraborty,
+                                       Mr. Saunak Kumar Rajguru,
+                                       Ms. Sakshi Kapoor for R-2
+    
+                                       Ms. Ranjitha Ramachandran,
+                                       Ms. PoorvaSaigal,
+                                       Ms. AnushreeBardhan,
+                                       Mr. Shubham Arya
+                                       Mr. Arvind Kumar Dubey for R-3
+    IN THE MATTER OF :
+    
+                                APPEAL NO. 354 of 2019
+    
+    
+    Adani Power Maharashtra Ltd.,
+    Through its Authorized Signatory,
+    9th Floor, Shikhar, Mithakhali Six Road,
+    Ahmedabad, Gujarat - 380006.                                    ...... Appellant
+    
+    
+                                          Versus
+    
+                                         Page 2 of 84
+                                                        Judgment of A.No.340 of 2019 & 354 of 2010
+    
+    
+    
+    
+    (1)   Maharashtra Electricity Regulatory Commission
+          Through its Secretary,
+          World Trade Centre, Centre No. 1,
+          13th Floor, Cuffe Parade,
+          Mumbai - 400 005.
+    (2)   Maharashtra State Electricity Distribution Company Ltd.
+          Through its Chief Engineer (Power Purchase),
+          5th Floor, Prakashgadh, Plot No. G-9,
+          AnandKanekar Marg, Bandra (East),
+          Mumbai - 700051.
+    (3)   M/s. Prayas Energy Group,
+          Through its Authorized Signatory,
+          Unit - III, A&B, Devgiri,
+          Joshi Railway Museum Lane,
+          Kothrud Industrial Area,
+          Kothrud, Pune - 4110378                          ..........Respondents
+    
+    
+    Counsel for the Appellant(s) :    Mr. SajanPoovayya, Sr. Adv.
+                                      Mr. Amit Kapur,
+                                      Ms. Poonam Verma,
+                                      Ms. AparajitaUpadhyay,
+                                      Ms. Adishree Chakraborty,
+                                      Mr. Saunak Kumar Rajguru,
+                                      Ms. Sakshi Kapoor
+    
+    Counsel for the Respondent(s) :   Ms PratitiRungta for R-1
+    
+                                      Mr. Anand K. Ganesan
+                                      Mr. Udit Gupta,
+                                      Mr. S. Rama,
+                                      Mr. Anup Jain for R-2
+    
+                                      Ms. Ranjitha Ramachandran,
+                                      Ms. PoorvaSaigal,
+                                      Ms. AnushreeBardhan,
+                                      Mr. Shubham Arya
+                                      Mr. Arvind Kumar Dubey for R-3
+    
+    
+    
+                                        Page 3 of 84
+                                                         Judgment of A.No.340 of 2019 & 354 of 2010
+    
+    
+                                       JUDGMENT
+    
+
+PER HON'BLE MR. S. D. DUBEY, TECHNICAL MEMBER
+
+1\. The present Appeals being cross appeals have been filed challenging the
+findings of Maharashtra Electricity Regulatory Commission's ("MERC") in the
+Order dated 06.09.2019 disposing of Case No. 68 of 2012 ("Impugned Order").
+The Impugned Order was passed pursuant to the remand by Appellate Tribunal for
+Electricity ("Tribunal" or "APTEL") in judgment dated 31.05.2019 in Appeal No.
+241 of 2016 ("Remand Order"). By a detailed judgment, this Tribunal had
+remanded the matter to Maharashtra Electricity Regulatory Commission
+("MERC/Commission") for fresh consideration on claims of force majeure and
+change in law, while holding that MERC can exercise regulatory powers to grant
+compensatory relief.
+
+1.1 Maharashtra State Electricity Distribution Co. Ltd. ("MSEDCL"), the
+Appellant in Appeal No. 340 of 2019, has challenged the Impugned Order to the
+extent it granted change in law relief to Respondent No 2. Adani Maharashtra
+Power Ltd. ("Adani/APML"), the Appellant in Appeal No. 354 of 2019, has partly
+challenged the findings of the Impugned Order regarding the applicable
+methodology for computing the change in law reliefs granted to Adani and on
+the issue of force majeure.
+
+2\. Facts of the Case Following facts which led to the filing of the present
+Appeals have been brought to our attention:
+
+2.1 On 17.11.2006, MSEDCL initiated the bidding process and issued a Request
+for Qualification ("RFQ") for procurement of 2000 MW power under Case-1
+bidding process. On 10.01.2007, Adani applied to the  Page 4 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 Ministry of Coal ("MoC"), Government of India
+("GoI") for the allotment of Lohara Coal Blocks.
+
+2.2 On 03.02.2007, Adani submitted its response to the RFQ. On 03.04.2007,
+Adani was shortlisted for Request for Proposal ("RFP") stage and MSEDCL issued
+the first RFP.
+
+2.3 On 18.10.2007, GoI issued the New Coal Distribution Policy ("NCDP")
+through the MoC Office Memorandum No. 23011/4/2007-CPD.
+
+2.4 On 06.11.2007, MoC issued Letter of Allocation to Adani conveying
+allocation of Lohara (West) and Lohara Extension (E) Coal Blocks as the
+allocated source of fuel ("MoC's allocation letter"), pursuant to Adani's
+application dated 10.01.2007. The allocation was done in terms of Section
+3(3)(a)(iii) of the Coal Mines Nationalisation Act, 1973.
+
+2.5 On 23.11.2007, Adani applied to the Standing Linkage Committee (Long-
+
+term) "SLC(LT)", MoC for the grant of coal linkage for balance capacity to
+cover the coal requirement of Units 1, 2 and 3 of the Tiroda TPS.
+
+2.6 On 27.12.2007, Government of Maharashtra ("GoM") issued a Notification
+under Section 38(V) of the Wildlife (Protection) Act, 1972, classifying 625.82
+Sq. Km of the Tadoba National Park and Andheri Wildlife Sanctuary as a
+Critical Tiger Habitat ("CTH"). However, the area demarcating the CTH did not
+include the area of Lohara Coal Blocks and as such there were no restrictions
+on coal mining in the allotted mining lease area (Lohara Coal Blocks) to
+Adani.
+
+2.7 On 16.02.2008, MSEDCL issued the revised RFP (final) which envisaged price
+bids under different structures/tariff components viz. whether the power
+supply was based on captive coal, imported coal or domestic coal. MSEDCL
+issued the revised RFP pursuant to MERC's approval to the  Page 5 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 revised bid documents on 24.01.2008
+for 2000 MW capacity power procurement under case-1 bidding process.
+
+2.8 As per the revised RFP, the bid deadline was 21.02.2008. Accordingly, the
+cut-off date was 14.02.2008 (i.e., 7 days before the deadline). Adani
+submitted its bid for supply of 1320 MW power to MSEDCL specifying Lohara Coal
+Blocks (captive coal mine) as the fuel source for part of the contracted
+capacity i.e. 800 MW capacity out of 1320 MW. Along with its bid, a copy of
+MoC's allocation letter dated 06.11.2007 was attached by Adani which qualified
+as the 'comfort letter' with respect to source of fuel, as per the bid
+requirements.
+
+2.9 On 21.02.2008 i.e., 7 days after the bid cut-off date (14.02.2008), Chief
+Conservator, Forests gave approval for constituting an Expert Committee for
+creating the Buffer Zone surrounding the core area of TATR under Section 38(V)
+of the Wildlife Protection Act, 1972 (i.e. a statutory requirement for
+creating a Buffer Zone).
+
+2.10 On 07.03.2008, i.e., 24 days after the cut-off date, the Conservator,
+TadobaAndhari Tiger Reserve ("TATR") submitted the proposal to the Chief
+Conservator of Forest, Maharashtra for creating the Buffer Zone surrounding
+the core area of TATR in terms of Section 38(V) of the Wildlife Protection
+Act, 1972. The proposal was without any (i) information on qualification of
+the area as a Buffer Zone; and (ii) report on consultation/consent of Gram
+Sabhas of the areas involved in the proposal.
+
+2.11 The Expert Appraisal Committee ("EAC") of the MoEF during its 21st
+meeting between 28.04.2008 to 30.04.2008 exercised its powers in terms of
+Regulation 7 of the Ministry of Environment, Forests and Climate Change's
+("MoEF") Notification dated 14.09.2006 and recommended grant  Page 6 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 of Terms of Reference ("ToR"), a
+pre-requisite for obtaining environmental clearance, for Lohara Coal Blocks to
+Adani.
+
+2.12 On 16.05.2008, the MoEF granted the ToR to Adani for mining in the Lohara
+Coal Blocks on the basis of recommendation of the EAC in its 21st meeting.
+
+2.13 On 29.07.2008, MSEDCL issued a Letter of Intent ("LoI") to Adani for
+supply of 1320 MW power from its Units 2 and 3 of the Tiroda TPS at levelized
+tariff of Rs. 2.642/kWh.
+
+2.14 On 21.08.2008, Adani submitted the Rapid Environment Impact Assessment
+("EIA")/ Environment Management Plan ("EMP') to the MoEF.
+
+2.15 On 08.09.2008, Adani executed a Power Purchase Agreement ("PPA") with
+MSEDCL for supply of the contracted capacity i.e., 1320 MW power from Units 2
+and 3 of the Tiroda TPS.
+
+2.16 On 08.10.2008, the Conservator, TATR submitted a revised proposal for
+creating the Buffer Zone surrounding the core area of TATR. The area suggested
+to be a part of the Buffer Zone in the said revised proposal, for the first
+time, included the mining lease area of about 176 Hectares of the Lohara Coal
+Blocks.
+
+2.17 On 21.10.2008, Adani applied for Forest Clearance ("FC") for Lohara Coal
+Blocks. Subsequently, Adani, on 27.10.2008, requested MoC for tapering
+linkage.
+
+2.18 Pursuant to Adani's request for coal linkage, SLC(LT), MoC held a meeting
+on 12.11.2008 wherein the SLC(LT) authorized issuance of Letter of Assurance
+("LoA") by Coal India Limited ("CIL") for 1180 MW of Adani's Tiroda TPS. While
+authorizing the said LoA, SLC(LT), MoC acknowledged  Page 7 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 that Lohara Coal Blocks catered to the
+requirement for generation of part of Adani's contracted capacity i.e. 800 MW
+to MSEDCL.
+
+2.19 On 24.04.2009, Conservator, TATR's proposals dated 07.03.2008 and
+08.10.2008 were discussed in the meeting of the EAC and an area of 1067.21 sq.
+km. was proposed to be the Buffer Zone of TATR. The mining lease area of about
+176 Hectare of Lohara Coal Blocks was falling within the proposed Buffer Zone.
+
+2.20 On 24.11.2009 and 25.11.2009, the EAC held its 59th meeting. In the said
+meeting, based on the reports and requests of (i) GoM and (ii) National Tiger
+Conservation Authority ("NTCA"), EAC decided to withdraw the ToR issued for
+Lohara Coal Blocks on the ground that the mining project falls within the
+proposed Buffer Zone of TATR and that a tiger corridor is part of the proposed
+mining lease areas. The EAC, however, suggested allocation of a new/alternate
+coal block to Adani.
+
+2.21 On 03.12.2009, in view of (i) the withdrawal of ToR by EAC and (ii) the
+recommendation of the EAC, Adani requested MoC for allocation of an alternate
+coal block in lieu of the Lohara Coal Blocks.
+
+2.22 On 02.01.2010, Adani informed MSEDCL regarding the cancellation of the
+ToR for Lohara Coal Blocks. Adani further stated that it requested MoC to make
+allocation of an alternate coal block but pending such allocation, Adani
+informed that it would be constrained to use imported coal to generate
+electricity from Units 2 and 3 of Tiroda TPS.
+
+2.23 On 07.01.2010, MoEF formally withdrew the ToR for Lohara Coal Blocks.
+
+Further, Adani was informed that MoEF had requested MoC for allocating an
+alternate coal block to Adani.
+
+Page 8 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 2.24 Between January 2010 and
+February 2011, Adani made efforts to obtain an alternate coal block or to
+reinstate the TOR for Lohara Coal Blocks by redefining the boundary. Adani
+kept MSEDCL updated on the same from time to time. However, MoC could not
+allocate an alternate coal block since there was no policy in place for
+allocation of an alternate coal block in lieu of cancellation of original coal
+block on account of environmental reasons.
+
+2.25 On 02.02.2010, Ministry of Power ("MoP") requested the MoC to consider
+allocating an alternate coal block to Adani since Lohara Coal Blocks were
+cancelled by MoEF.
+
+2.26 On 11.03.2010, GoM (100% owner of MSEDCL), in its letter to MoP
+acknowledged that (i) Adani's bid to supply power to MSEDCL was based on fuel
+supply from Lohara Coal Blocks; and (ii) that cancellation of the ToR by MoEF
+and decision not to consider Lohara Coal Blocks for Environment Clearance
+("EC") turned the Tiroda TPS techno-commercially unviable. GoM, therefore,
+requested the MoP to allocate an alternate coal block to APML.
+
+2.27 On 05.05.2010, the GoM exercised its powers in terms of Section 38(V) of
+the Wildlife Protection Act, 1972 and issued a notification declaring 1101.7
+Sq. Kms as the Buffer Zone to TATR. The notified Buffer Zone covered part of
+the Lohara Coal Blocks and accordingly, this rendered the Lohara Coal Blocks a
+no-go area.
+
+2.28 On 22.05.2010, Adani informed MSEDCL regarding its inability to supply
+power under the PPA from Units 2 and 3 at the PPA agreed tariff due to
+cancellation of Lohara Coal Blocks. Subsequently, on 14.06.2010, Adani
+informed MSEDCL regarding the occurrence of a force majeure event in terms of
+Article 12 of the PPA due to the cancellation of Lohara Coal Blocks.
+
+Page 9 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 2.29 Having made several efforts to
+mitigate the hardship caused on account of cancellation of Lohara Coal Blocks
+and since such efforts did not fructify, Adani, on 16.02.2011 issued seven
+days' termination notice to MSEDCL under Article 3.3.3 of the PPA, on account
+of cancellation of the Lohara Coal Blocks and non-allocation of an alternate
+coal block.
+
+2.30 On 17.07.2012, Adani filed a petition before MERC under Section 86 (1)
+(f) of the Electricity Act, 2003 being Case No. 68 of 2012 ("Original
+Petition'). In the Original Petition, Adani inter alia claimed change in law
+and force majeure reliefs on account of the cancellation of the Lohara Coal
+Blocks.
+
+2.31 On 21.08.2013, MERC passed its Order in Case No. 68 of 2012 ("Original
+Order") wherein: -
+
+(i) It was inter alia observed that MERC had the power to revise the tariff
+under an executed PPA in terms of its regulatory powers.
+
+(ii) MERC deemed it appropriate to look into the matter of providing relief to
+prevent an operational asset from becoming stranded, given the special
+circumstances in Adani's case. Accordingly, an Expert Committee was
+constituted to evaluate the impact of withdrawal of the ToR on Units 2 and 3
+of Tiroda TPS and determine a compensatory charge to be paid to Adani.
+
+(iii) MERC further worked out an interim relief at Rs. 3.124 per kWh, which
+would be applicable only for sale of power above the initial 520 MW from the
+date of commercial operation. However, Adani's claim regarding the force
+majeure relief was rejected.
+
+(iv) Although Adani's submissions on change in law were recorded but no
+finding was returned on the issue of change in law relief to Adani.
+
+Page 10 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 2.32 On 07.10.2013, Prayas filed
+Appeal No. 296 of 2013 challenging the Original Order and Adani filed Appeal
+No. 241 of 2016 challenging inter alia the rejection of its plea of force
+majeure and consequential reliefs in terms of the PPA.
+
+2.33 On 09.12.2013, the GoM constituted a High-Level Expert Committee in
+compliance of the Original Order dated 21.08.2013. The High-Level Expert
+Committee submitted its report on 17.02.2014 ("Expert Committee Report')
+wherein it recommended grant of compensatory tariff to Adani for 800 MW
+capacity, which was entirely dependent on the coal from the Lohara Coal
+Blocks. The Expert Committee Report contained a detailed analysis of the cost
+of production of coal from Lohara Coal Blocks and its transportation to Tiroda
+TPS of Adani.
+
+2.34 On 17.02.2014, MoC cancelled and de-allocated the Lohara Coal Blocks
+allocated to Adani on the ground that the EC and the FC were not given to the
+said coal blocks ("MoC's de-allocation letter"). It is noteworthy that the
+bank guarantee/performance security furnished by Adani was not encashed by the
+MoC which establishes that the Lohara Coal Blocks were not cancelled on
+account of Adani's default.
+
+2.35 On 05.05.2014, MERC passed its Order in Suo Motu Case No. 63 of 2014 and
+devised the mechanism for calculating the compensatory fuel charges payable to
+Adani by MSEDCL. The Order was challenged by MSEDCL and Prayas in Appeal No.
+166 of 2014 and Appeal No. 218 of 2014 respectively before this Tribunal.
+
+2.36 On 25.08.2014, Supreme Court passed its judgment in Manohar Lal Sharma
+vs. The Principal Secretary and Ors. (2014) 9 SCC 516, ("Manohar Lal
+Judgment')wherein entire allocation of coal blocks made by Screening Committee
+from 14.07.1993 onwards in 36 meetings and  Page 11 of 84 Judgment of A.No.340
+of 2019 & 354 of 2010 allocations made through the government dispensation
+route were held to be illegal. Lohara Coal Blocks were also cancelled as part
+of this order.
+
+2.37 On 16.04.2015, MoP issued a policy direction under Section 107 of the
+Electricity Act, 2003 to treat allocation of coal block under Coal Mines
+(Special Provisions) Ordinance, 2014 as a change in law event.
+
+2.38 On 28.01.2016, MoP notified the revised Tariff Policy.
+
+2.39 On 11.04.2016, Full Bench of the Tribunal pronounced Judgment in Appeal
+Nos. 98 of 2014 and 100 of 2013 filed by Haryana Utilities and GUVNL against
+CERC Order dated 21.02.2014 in Petition No. 155/MP/2012 (which culminated in
+Energy Watchdog judgment). In its judgment, APTEL rejected change in law and
+exercise of regulatory powers, however, allowed force majeure claims of
+generators.
+
+2.40 On 11.05.2016, in terms of Full Bench judgement, the Tribunal partly
+allowed Appeal No 296 of 2013 filed by Prayas setting aside the MERC Original
+Order dated 21.08.2013 except on the issue of ToR cancellation not being a
+force majeure event. By a separate order dated 11.05.2016, the Tribunal
+allowed MSEDCL's Appeal No. 166 of 2014 and Prayas' Appeal No. 218 of 2014
+against MERC Order dated 05.05.2014 in Case No. 63 of 2014\. This Tribunal
+held that MERC cannot exercise regulatory powers setting aside the award of
+compensatory fuel charge to Adani by MERC in exercise of its regulatory power.
+The Tribunal, however, kept the force majeure issue open for the decision on
+the issue of withdrawal of the ToR for the Lohara Coal Blocks and related de-
+allocation.
+
+2.41 On 11.04.2017, the Supreme Court passed its judgement in Energy Watchdog
+vs. Central Electricity Regulatory Commission and Ors. (2017) 14 SCC 80 and
+held that change in policies of the government affecting availability of
+domestic coal to the generating companies qualifies as a  Page 12 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 change in law event and entitles
+the affected party to restitution ("Energy Watchdog Judgment").
+
+2.42 On 31.05.2019, this Tribunal allowed Adani's Appeal No. 241 of 2016 by
+setting aside the MERC Order dated 21.08.2013 with respect to force majeure;
+regulatory power of MERC to grant compensatory tariff was upheld; and the
+matter was remanded back to MERC for fresh consideration on the issues of
+Force Majeure and Change in Law.
+
+2.43 Pursuant to the directions in the Remand Order, on 03.06.2019, Adani
+filed an Amendment Application bearing M.A. No. 25 of 2019 before MERC to
+bring on record all facts and law which came into existence subsequent to the
+Original Order. On 22.07.2019, MERC allowed M.A. No. 25 of 2019 including
+Adani's application for production of additional documents. Accordingly, Adani
+was directed to file the Amended Petition before the MERC.
+
+2.45 On 27.07.2019, Adani filed its Amended Petition in Case No. 68 of 2012.
+
+2.45 On 06.09.2019, MERC passed the Impugned Order in Case No 68 of 2012.
+
+2.46 Aggrieved by the impugned order, MSEDCL has preferred Appeal No 340 of
+2019 on the grounds that MERC erred in declaring the event of de- allocation
+of the Lohara Coal Blocks as a change in law event under the PPA. It has been
+contended that Adani had no legal entitlement towards the Lohara Coal Blocks
+as on the cut-off date. Therefore, Adani has no locus or corresponding
+entitlement for getting compensated under Article 13 of the PPA. MSEDCL has
+also contended that MERC has erred in linking NCDP 2007 with allotment of the
+Lohara Coal Blocks considering that Adani had applied for Lohara Coal Blocks
+on 10.01.2007, i.e. prior to the coming into force of NCDP 2007 i.e.
+18.10.2007. Accordingly, the  Page 13 of 84 Judgment of A.No.340 of 2019 & 354
+of 2010 Appellant, MSEDCL, has prayed for the following reliefs in the Appeal
+No 340 of 2019.
+
+"(a) Allow the present appeal and set aside the impugned final order and
+judgment dated 06.09.2019 passed by MERC in Case No. 68 of 2012; and or
+
+(b) pass such other Order(s) as this Hon'ble Tribunal may deem just and
+proper."
+
+2.47 APML has preferred a Cross Appeal No 354 of 2019 against the impugned
+order on the ground that while granting relief under change in law, the MERC
+has adopted an erroneous methodology which does not restore it to the same
+economic position as if no change in law had occurred in terms of the
+restitution principle enshrined in Article 13 of the PPA. It has been argued
+that MERC erred in considering the landed cost of linkage coal as the basis
+for computing change in law compensation when Lohara Coal Blocks were the bid-
+identified source of coal for 800 MW capacity, and not the linkage coal. APML
+has also contended that the MERC in its methodology has adopted an erroneous
+approach to link Station Heat Rate ("SHR") with the bid parameters instead of
+lower of normative or actuals and GCV to 'middle value of the Gross Calorific
+Value ("GCV") range' of the assured coal grade in the LoA/FSA/MoU, instead of
+the actual GCV measured on 'as received' basis. APML has also contested the
+restriction of change in law relief to the difference between 100% coal
+assured under the New Coal Distribution Policy ("NCDP"), 2007 and 75%
+assurance contained under the SHAKTI Policy based on the Fuel Supply Agreement
+("FSA") dated 29.03.2018. APML has also submitted that MERC also erred in
+rejecting Adani's plea that cancellation/de-allocation of the Lohara Coal
+Blocks, being the bid-identified source of fuel, qualifies as a force majeure
+event. Further, APML has also contended that the Impugned Order has wrongly
+pegged the Carrying Cost to the prevalent Multi Year Tariff ("MYT")
+Regulations (which govern Section 62 PPAs) and has wrongly rejected  Page 14
+of 84 Judgment of A.No.340 of 2019 & 354 of 2010 Adani's plea to apply the
+rate for late payment surcharge provided in the PPA itself. Accordingly, the
+Appellant, APML, has prayed for the following reliefs in Appeal No 354 of
+2019:-
+
+"(a) Allow the Appeal and set aside the Impugned Order dated 06.09.2019 passed
+by Ld. MERC in Case No. 68 of 2012 to the extent of grounds set out in this
+Appeal;
+
+(b) Consider the landed cost of coal from Lohara Coal Blocks as the basis for
+computation for change in law relief granted to Adani;
+
+(c) Hold and declare that the rate of carrying cost must be as per the rate
+specified for late payment surcharge in terms of Article 11.3.4. of the PPA;
+
+(d) Hold and declare that SHR, being an operational parameter, ought to be
+considered based on lower of actual SHR and normative SHR as per MYT
+Regulations while computing change in law compensation payable to Adani;
+
+(e) Consider the actual GCV of coal on 'as received basis' for computing
+change in law relief.
+
+(f) Hold and declare that Adani Power Maharashtra Limited is entitled to
+relief under change in law provision for actual shortage in supply of domestic
+coal, as against the 100% supply assured under the NCDP 2007.
+
+(g) Hold and declare the cancellation of the Lohara Coal Blocks is a force
+majeure event in terms of Article 12 of the PPA;
+
+(h) Pass such other Orders as this Hon'ble Tribunal deems fit and proper in
+the facts and circumstances of the case."
+
+3\. On the basis of the facts and the submissions made before us, following
+questions arise for consideration in the present Appeals:
+
+(1) Whether MERC was justified in declaring the event of de-allocation of the
+Lohara Coal Blocks as a change in law event?
+
+(2) Whether MERC was justified in considering the landed cost of linkage coal
+as the basis for computing change in law compensation to Adani when Lohara
+Coal Blocks were the bid-identified source of coal?
+
+(3) Whether MERC was justified in pegging the carrying cost to the rate
+specified in prevalent Multi Year Tariff ("MYT") Regulations?
+
+Page 15 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 (4) Whether MERC was justified in
+restricting the change in law relief to the difference between 100% assurance
+in New Coal Distribution Policy ("NCDP"), 2007 and 75% assurance under the
+SHAKTI Policy based on the Fuel Supply Agreement ("FSA") dated 29.03.2018
+being signed under the SHAKTI Policy?
+
+(5) Whether MERC was justified in linking NCDP 2007 with allotment of the
+Lohara Coal Blocks?
+
+(6) Whether deallocation of the Lohara Coal Blocks was a foreseeable risk for
+Adani and whether the same has any implication on change in law relief allowed
+to Adani?
+
+(7) Whether MERC adopted the correct methodology regarding Station Heat Rate
+("SHR") and Gross Calorific Value ("GCV") in the Impugned Order while
+computing the change in law relief allowed to Adani? Whether such methodology
+adheres to the principle of restitution?
+
+(8) Whether MERC erred in rejecting Adani's plea that cancellation/de-
+allocation of the Lohara Coal Blocks qualifies as a force majeure event?
+
+4\. The issue involved in all these appeals are common in nature, therefore,
+we decide to adjudicate the batch of appeals by this common judgment.
+
+5\. We have considered the oral and written submissions made by Mr.
+SajanPoovayya, learned senior counsel for APML, Mr. Anand K. Ganesan, learned
+counsel for MSEDCL, Ms. PratitiRungta, learned counsel for MERC and Ms.
+Ranjitha Ramachandran, learned counsel for Prayas.
+
+6\. Further, pursuant to the directions of this Tribunal in daily order dated
+16.06.2020, Adani filed an Affidavit on 18.06.2020 clarifying that:-
+
+Page 16 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(a) The Change in Law claim due to cancellation of Lohara Coal Blocks is
+limited to the present proceedings only [i.e., Appeal Nos. 340 and 354 of
+2019]
+
+(b) Adani had not claimed any relief regarding 800 MW portion of its Tiroda
+TPS in Case No. 189 of 2013. Case No. 189 of 2013 dealt with a Petition
+seeking change in law compensation on account of short supply of linkage coal
+from Coal India subsidiaries for the remaining 2500 MW capacity(out of 3300 MW
+installed capacity), which culminated into Appeal Nos. 116 of 2019, 155 of
+2019 and 182 of 2019 before this Tribunal.
+
+6.1 During the proceedings, APML has raised objections to certain grounds
+taken by MSEDCL which are contended to be in repetition of their contentions
+taken in Appeal No. 241 of 2016 and were duly adjudicated upon by the Tribunal
+in the Remand Order. APML has submitted that the same were taken into
+consideration by the MERC while passing the Impugned Order. Accordingly,
+MSEDCL is merely trying to re-agitate its submissions concerning the change in
+law claims of Adani without placing on record any additional material or
+rationale in support of its claims. In view thereof, the issues raised by
+MSEDCL should be dismissed in limine.
+
+6.2 Per Contra, MSEDCL has submitted that the remand by the Tribunal to MERC
+was an open remand and not a limited remand with specific direction to relook
+the matter holistically and afresh, particularly on the issue in hand i.e.
+Force Majeure and Change in law.
+
+6.3 At the outset, we would like to mention that this Tribunal in its Remand
+Order dated 31.05.2019 (Appeal No. 241 of 2016) has already returned
+findings/observations regarding certain issues raised by MSEDCL and Prayas in
+the present Appeals. None of the parties has filed any Appeal challenging the
+Remand Order. As such, this Tribunal's findings have  Page 17 of 84 Judgment
+of A.No.340 of 2019 & 354 of 2010 attained finality and it is no longer open
+for any party to re-argue or contest those findings/observations in the
+present Appeals. Accordingly, it is important to set-out relevant findings/
+observations in the Remand Order with regards to the issues raised by MSEDCL
+in the present appeal, before we analyse specific issues raised by the parties
+in the cross-appeals: -
+
+Grounds raised by Findings of Tribunal in Appeal No. MSEDCL in Appeal 241 of
+2016 No. 340 of 2019.
+
+(i) That the event of Change 167. PPA came to be signed on 08.09.2008 in Law
+is allowed only when and the cancellation or withdrawal of Lohara one's legal
+right is affected coal block was much later i.e., 25.11.2009 and altered.
+However, in the (along 1 ½ years later). The legitimate present case,
+Respondent expectation of the parties at the time of No. 2 herein had at the
+allocation, TOR and submission of bid first place itself no legal would be
+that in the normal course of entitlement or accrued business, allocation of
+coal blocks would right in their favour be in their favour. If they had any
+doubt towards the Lohara Coal about the same, probably they would have Blocks
+and as such quoted different tariff.
+
+accordingly no locus or corresponding legal 168. Was Commission justified in
+saying that entitlement for getting the Appellant took the risk of submitting
+its bid compensated. on the allocation letter dated 06.11.2007 when it was
+still to receive TOR dated 16.05.2008? TOR was in the hands of the Appellant
+when it signed the PPA on 08.09.2008.
+
+178\. It is noticed from the pleadings and the documents placed before this
+Tribunal that the Appellant based on the allocation of coal letter dated
+06.11.2007 made the bid.
+
+(ii) That the Ld. State 182. We are of the opinion that Red Herring Commission
+had also Prospectus dated 14.07.2009 has no erroneously appreciated the
+relevance to the controversy before us since it issue raised qua Red is a
+standard statement which are required to Herring Prospectus with be made to
+the SEBI pertaining to risk factors, its date of issuance not with so that
+worst scenario possible is cautioned to the declaration and investors. In
+other words, it is an indication affirmation of Respondent what such risk is
+possible... No.2 about the knowledge and awareness of the risk of coal mine
+de-allocation being in existent right from the date of its application,  Page
+18 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 Grounds raised by Findings
+of Tribunal in Appeal No. MSEDCL in Appeal 241 of 2016 No. 340 of 2019.
+
+which was much prior to the cut-off date.
+
+(iii) Adani submitted 189. It is also noticed that on 21.10.2008 by flawed
+EIA/EMP Report abundant caution, the Appellant had and suppressed core issues
+sought for coal linkage pending forest including presence of the clearance of
+the coal block. It is also noticed tigers in mining lease areas. that the
+Appellant had sought for modifications to the boundary line of mining and also
+to take mining activities phase-wise so as to conserve the tiger zone, the
+apprehension expressed in the meeting held on 25.10.2009 which led to
+withdrawal of TOR. Many attempts were made by the Appellant to secure
+alternate coal block allocation which was also recommended by Ministry of
+Power and so also Government of Maharashtra; but no such allocation came to
+the rescue of appellant.
+
+The Appellant offered to resolve the issue with Respondent No. 2 seeking to
+change identified Units 2 and 3 to Units 4 & 5 of Tiroda project. But
+Respondent No. 2 -
+
+MSEDCL did not respond.
+
+190.Appellant cannot anticipate the movement of tiger in the project area.
+
+Once it has come to its knowledge, it had proposed to modify the wild life
+conservation plan as per the requirements of the State Government. The
+Appellant even proposed to surrender 176 hectors [hectares] of area which
+falls under the proposed buffer of TATR. In the remaining area said to be the
+tiger corridor, the Appellant proposed to divide the Mining Line Area into 40
+blocks and do mining only one block every year, so that it will have minimum
+impact on the wild life.
+
+(iv) Manohar Lal Sharma 195. If coal blocks were not withdrawn, still Judgment
+cannot be problem of Appellant would have continued as claimed as a change in
+law a consequence of judgment of Hon'ble event since MoC had de- Supreme Court
+in Manoharlal Sharma in allocated coal blocks prior 2014.
+
+to Manohar Lal sharma Judgment
+
+(v) MERC cannot exercise 164. In the light of above subsequent  Page 19 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 Grounds raised by Findings of
+Tribunal in Appeal No. MSEDCL in Appeal 241 of 2016 No. 340 of 2019.
+
+regulatory powers to development since this appeal was pending determine
+compensatory when Energy Watchdog judgment came, this tariff Tribunal has to
+proceed on this point as held by Hon'ble Apex Court. Therefore, we opine that
+MERC was justified in exercising Regulatory Powers to grant compensatory
+tariff.
+
+198\. We are of the opinion, in view of the opinion of the Hon'ble Apex Court
+on the issue of exercising regulatory powers by appropriate Commission, we
+hold that MERC can exercise regulatory powers to grant compensatory tariff.
+Therefore, MERC need not ponder over this issue afresh.
+
+6.4 As may be seen from the above, this Tribunal has already held that MoC's
+allocation letter dated 06.11.2007 was the fulcrum of Adani's bid and that
+Adani therefore had a legitimate expectation that in the normal course of
+business, allocation of coal blocks would be in its favour. It was also held
+that the comfort letter (being MoC's allocation letter dated 06.11.2007) was
+enough to participate in the bidding process, i.e., MSEDCL accepted Adani's
+bid as a responsive bid based on the MoC's allocation letter as evidence of
+fuel tie-up arrangement. Red Herring Prospectus dated 14.07.2009 issued by
+Adani Power Ltd. has no relevance for the adjudication of the present dispute
+since it is a standard statement which are required to be made to the SEBI
+pertaining to risk factors, so that the investors are made aware of worst
+scenarios possible. Adani cannot be made responsible for its EIA/EMP Report
+not being satisfactory as contended by MSEDCL. Adani could not have
+anticipated the movement of tiger in the project area. Once it came to its
+knowledge, it had proposed to modify the wildlife conservation plan as per the
+requirements of Government of Maharashtra. Adani even proposed to surrender
+176 hectors of area which fell under the proposed buffer of TATR.
+
+Page 20 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 In the remaining area said to be
+the tiger corridor, Adani proposed to divide the Mining lease area into 40
+blocks and do mining only one block every year, so that it would have minimum
+impact on the wildlife. As such, a number of mitigations efforts were
+suggested by Adani to overcome the supervening event occasioned by the
+proposed buffer zone covering part of the Lohara Coal Blocks. If TOR for the
+coal blocks were not withdrawn, still Adani's problem would have continued as
+a consequence of judgment of Hon'ble Supreme Court in Manoharlal Sharma in
+2014. Lastly, it was also held that MERC was justified in exercising
+regulatory powers to grant compensatory tariff in light of the Energy Watchdog
+Judgment.
+
+6.5 MSEDCL has contended that this Tribunal's judgment dated 31.05.2019 in
+Appeal No. 241 of 2016 was an 'open remand'. This is not correct. We are of
+the opinion that this Tribunal's Remand Order was a case of 'limited remand in
+terms of Order XLI Rule 25 of CPC, 1908 since the Tribunal specifically laid
+down the scope of the remand proceedings before MERC. MSEDCL's preliminary
+objection to Adani's Appeal is bereft of the true interpretation of the Remand
+Order and runs contrary to the settled law regarding scope of the remanded
+court's powers in cases of 'limited remand'. In the Remand Order, this
+Tribunal allowed Adani's Appeal and set aside the MERC's Original Order dated
+21.08.2013 in so far as it related to the issue of force majeure. This
+Tribunal after upholding the correctness of exercise of regulatory powers of
+MERC, remanded the matter for fresh consideration on the issues of force
+majeure and change in law. MERC being the remanded court, was bound by the
+findings of the Tribunal made in the Remand Order. In a case of 'limited
+remand', the remanded court (i.e. MERC) ought to act upon the strict
+directions of the remand order. In this context we refer to the judgment of
+the Hon'ble Supreme Court in K.P. Dwivedi vs. State of U.P., (2003) 12 SCC
+572, which holds as under: -
+
+Page 21 of 84
+
+> Judgment of A.No.340 of 2019 & 354 of 2010 "10. We have heard learned
+> counsel appearing for the parties. On the résumé of the contents of various
+> orders passed by the Prescribed Authority, the Appellate Authority and the
+> High Court, we find that the grievance raised on behalf of the appellant has
+> great justification. The Prescribed Authority, in carrying out the limited
+> remand, for re-examination of the categorization of land as irrigated or
+> unirrigated, could not have disturbed the order dated 5- 8-1977 of the
+> District Judge passed in appeal and confirmed on 19-1-1979 by the High Court
+> in respect to the appellant's objections which were allowed to the extent of
+> accepting his case of his share to be 1/10th in joint family property, the
+> exclusion of the "grove" land, sale deed dated 10-12-1971 being bona fide
+> and grant of fresh option to him to surrender land which may have been
+> covered by the canal.
+
+> 12\. From the contents of the order of the High Court, we have no manner of
+> doubt that the writ petition of the holder of the land against the judgment
+> of the District Judge had only succeeded with an order of the remand limited
+> to re- examination of the nature of the lands. In all other respects, the
+> order of the District Judge was confirmed prohibiting reopening of the same.
+> We have already mentioned above that the order of the District Judge passed
+> in appeal dated 5-8- 1977 was not challenged by the State of U.P. and
+> therefore, that order to the extent it was in favour of the appellant, had
+> attained finality and could not have been disturbed. The Prescribed
+> Authority and the appellate court in their orders passed on 29-3-1996 and
+> 18-3-1997 respectively, overlooked this aspect of the case of the finality
+> of the order of the District Judge dated 5-8-1977. They misdirected
+> themselves by assuming that the whole case was open before them for
+> reconsideration and redetermination of the ceiling area. In the second writ
+> petition filed by the appellant to the High Court against the orders passed
+> by the authorities under the Act after remand, the learned Single Judge took
+> no care to re-examine the contents of the orders previously passed and which
+> had attained finality to the extent indicated in those orders. The High
+> Court by the impugned order dated 9-5-1997 cursorily examined the case and
+> wrongly dismissed it as being without merit."
+
+6.6 This Tribunal in judgment dated 11.04.2018 titled Gujarat UrjaVikas Nigam
+Ltd. vs. Gujarat Electricity Regulatory Commission and Others, 2018 SCC On
+Line APTEL 7 has held as under: -
+
+"Scope of Remand Proceedings 4.1 The settled principles laid down by the
+Hon'ble Supreme Court and this Tribunal is that in the remand proceedings, the
+lower court (State Commission) is not entitled to inquire into or decide
+matters other than those directed by the Appellate Authority. In this regard
+reference may be made to the following judgments:--
+
+(i) K.P. Dwivedi v. State of U.P., (2003) 12 SCC 572 Paras 11 and 12
+
+(ii) Sarkar on Code of Civil Procedure  Page 22 of 84 Judgment of A.No.340 of
+2019 & 354 of 2010
+
+(iii) Mulla on Code of Civil Procedure (IV). Meghalaya State Electricity Board
+v. Meghalaya State Electricity Regulatory Commission (Appeal No. 37 of 2010 in
+the Order dated 10.08.2010) After analyzing the decisions of the courts, the
+principles laid down in these authorities are given below:--
+
+> (i) The Court below to which the matter is remanded by the Superior Court is
+> bound to act within the scope of remand. It is not open to the Court below
+> to do anything but to carry out the terms of the remand in letter and
+> spirit.
+
+> (ii) Ordinarily, the Superior Court can set aside the entire judgment of the
+> Court below and remanded to the subordinate court to consider all the issues
+> afresh. This is called 'open Remand'. The subordinate court can decide on
+> its own afresh on the available materials.
+
+> (iii) The Superior Court can remand the matter on specific issues with a
+> specific direction through a "Remand Order". This is called 'Limited Remand
+> Order'. In case of Limited Remand Order, the jurisdiction of the Court below
+> is confined only to the extent for which it was remanded".
+
+6.7 Therefore, the Remand Order was an instance of limited remand to the MERC
+and not an open remand.
+
+7\. However, APML has not pressed for Issue No 8 i.e. rejection of Adani's
+plea that cancellation/de-allocation of Lohara Coal Blocks qualified as a
+force majeure event during the present proceedings. Therefore, we decide not
+to consider the said issue. We now proceed to deal with the remaining
+individual issues arising out of the present Appeals.
+
+Issue-1- Whether MERC was justified in declaring the event of de- allocation
+of the Lohara Coal Blocks as a change in law event?"
+
+7.1 Mr. SajanPoovayya Learned Senior Counsel for APML has made the following
+submissions for our consideration:-
+
+(a) The de-allocation of Lohara Coal Block qualifies as a Change in Law event
+under Article 13 of the PPA. Explanation to Section 38(V) of the Wildlife
+Protection Act, 1972 states that the expression "tiger reserve" includes (a)
+Core/ Critical Tiger Habitat ("CTH") and (b) Buffer Zone consisting of the
+area peripheral "to" critical tiger habitat or core area. As per the said
+provision, the limits of a Buffer Zone are determined based on  Page 23 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 scientific and objective criteria
+in consultation with: - (a) the concerned Gram Sabha; and (b) an Expert
+Committee constituted for the purpose.
+
+(b) Prior to cut-off date (i.e. 14.02.2008), on 27.12.2007, Government of
+Maharashtra ("GoM") issued a Notification under Section 38(V) of the Wildlife
+(Protection) Act, 1972, classifying 625.82 Sq. Km of the Tadoba National Park
+and Andhari Wildlife Sanctuary as a Critical Tiger Habitat. However, the area
+demarcating the CTH did not include the area of Lohara Coal Blocks. As such,
+there were no restrictions on mining in the Lohara Coal Blocks.
+
+(c) Post- CTH Notification, series of actions were undertaken by the two
+regulators viz. (1) Environmental Regulator [Expert Appraisal Committee
+("EAC")] on the one hand and (2) Forest Regulator ("Conservator, Forests,
+GoM") and National Tiger Conservation Authority ("NTCA")] on the other hand.
+However, these regulators were acting in parallel without any coordination
+with each other. On 21.02.2008 i.e., 7 days after the cut- off date
+(14.02.2008), Chief Conservator, Forests gave approval for constituting an
+Expert Committee for creating the Buffer Zone surrounding the core area of
+TATR under Section 38(V) of the Wildlife Protection Act, 1972\. Secondly, on
+07.03.2008, i.e., 24 days after the cut-off date, the Conservator, TATR
+submitted the proposal to the Chief Conservator of Forest for creating the
+Buffer Zone surrounding the core area of TATR under Section 38(V) of the
+Wildlife Protection Act, 1972. However, such proposal was without any (i)
+information regarding qualification or demarcation of the area as a Buffer
+zone to the TATR (this exercise happened only in 2009) and (ii) report on
+Consultation/ Consent of Gram Sabha (such consultations happened only between
+May 2008 and November 2008).Thirdly, the EAC in its meeting held on 28.04.2008
+had decided to issue the ToR for the Lohara Coal Blocks. This was a Stage-I
+clearance. ToR was recommended by the EAC even after Adani  Page 24 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 disclosing the fact that Lohara
+Coal Blocks were within 15 KM aerial distance of the TATR (being an eco-
+sensitive zone). Subsequently, the ToR was issued to Adani by MoEFvide its
+letter dated 16.05.2008. Fourthly, on 08.10.2008, the Conservator, TATR
+submitted the revised proposal for Buffer Zone to TATR. The mining lease area
+of about 176 Hectares of Lohara Coal Blocks was falling within this revised
+proposed Buffer Zone. Fifthly, on 24.04.2009, Conservator, TATR's proposals
+were discussed in the meeting of the EAC and an area of 1067.21 sq. km. was
+proposed to be the buffer zone of TATR.
+
+(d) Thereafter on 24.11.2009 and 25.11.2009, the EAC, in its 59th meeting took
+a decision to withdraw the ToR previously granted to Adani. While doing so,
+the EAC recorded that the ToR was not cancelled on account of any default of
+Adani but for the reason that EAC was not aware of the projects being within
+the proposed buffer zone of the TATRat the time of granting the ToRand that,
+based on further study of the area subsequent to grant of ToR, it was
+understood that the tiger corridor was a part of the proposed mining lease
+areas.
+
+(e) Interestingly, MoEF by its letter dated 07.01.2010 withdrew the ToR and
+rejected grant of Environmental Clearance. MoEF's communication dated
+07.01.2010 qua withdrawal of ToR specifically records that the ToR was
+withdrawn due to proposed Buffer Zone (and not due to any default or
+deficiency in the EIA/EMP prepared by Adani).
+
+(f) On 05.05.2010, Government of Maharashtra exercising its powers under
+Section 38(V) of the Wildlife (Protection) Act, 1972 notified 1101.7711 sq. km
+as the Buffer Zone of TATR foreclosing all options for Adani to utilize Lohara
+Coal Blocks (i.e. bid-identified source of fuel). This notification qualifies
+as a Change in Law event in terms of Article 13 of the PPA. Prior  Page 25 of
+84 Judgment of A.No.340 of 2019 & 354 of 2010 to this Buffer Zone
+Notification, CTH Notification dated 27.12.2007 was in operation which did not
+include the Lohara Coal Blocks under the area classified as CTH.
+
+(g) Subsequently, MoC by its letter dated 17.02.2014 cancelled and de-
+
+> allocated the Lohara Coal Blocks. However, recognizing no lapse on part of
+> Adani, the bank guarantee was duly returned. This clearly acknowledges the
+> factthat there was no fault of Adani. MoC's decision to deallocate Lohara
+> Coal Blocks culminated from (a) proposals dated 07.03.2008 and 08.10.2008 of
+> the Conservator, TATR regarding creation of a Buffer Zone to TATR; (b) EAC's
+> 59th meeting Report; (c) MoEF's letter dated 07.01.2010 withdrawing the ToR
+> and non-grant of EC and (d) GoM's Buffer Zone Notification dated 05.05.2010.
+> As such, MoC's decision to cancel and de-allocate the Lohara Coal Blocks
+> independently qualifies as a Change in Law event.
+
+(h) In any case, Hon'ble Supreme Court by judgment dated 25.08.2014 in Manohar
+Lal Sharma Judgment cancelled 204 coal blocks including the Lohara Coal Blocks
+with immediate effect. If the Lohara Coal blocks had not been deallocated
+earlier, by virtue of the Manohar Lal Sharma Judgement, Adani would have been
+deprived of the Lohara Coal blocks in any event.
+
+(i) In view of cancellation of the Lohara Coal Blocks, Adani was constrained
+to depend on the costlier alternate coal sources such as imported coal, coal
+supply under SHAKTI FSA dated 29.03.2018, and e-auction coal, which led to
+increase in cost of supply of power to MSEDCL. Adani's legal right or
+entitlement to use Lohara Coal Blocks for generating power from Tiroda TPS was
+completely altered or taken away after the cut-off date (14.02.2008). The same
+was pursuant to the actions/omissions of Indian  Page 26 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 Governmental Instrumentalities. Such
+fundamentally altered circumstances resulted in increase in cost of supply of
+power to MSEDCL. As such de-allocation of Lohara Coal Blocks satisfies all
+elements of qualifying as a change in law event under Article 13.1.1 of the
+PPA.
+
+(j) Reliance has been placed on the Energy Watchdog Judgment of the Hon'ble
+Supreme Court which laid down that the policy decisions issued or notified by
+the GoI which have an adverse impact on the coal supply, have the force of law
+and entitles the affected generators to restitution. Further, the MoP vide its
+Policy Direction dated 16.04.2015 under Section 107 of the Electricity Act,
+2003 directed CERC to treat allocation of coal block under Coal Mines (Special
+Provisions) Ordinance, 2014 as change in law for already concluded PPAs under
+case-1 to enable downward revision in tariff. Hence, the corollary would be
+that if the allocated coal block is cancelled then the tariff will be revised
+upward under change in law. Further the MoP amended the Tariff Policy in 2016
+to, inter-alia, provide for a pass-through of fuel cost on account of the
+failure of GoI or its instrumentalities to provide the assured coal supply. It
+is submitted that the word "assured quantity" used in revised Tariff Policy,
+2016 covers cases where captive coal mines have been de-allocated for no fault
+of the allottees and also the assurances given under NCDP, 2007 dated
+18.10.2007 for supply of coal from Coal India Limited.
+
+7.2 Per contra, Mr. Anand K. Ganesan, the learned counsel for MSEDCL has made
+the following submissions for our consideration
+
+(a) Adani had no legal entitlement towards the Lohara Coal Blocks as on the
+cut-off date. Therefore, Adani has no locus or corresponding entitlement for
+getting compensated under Article 13 of the PPA.
+
+(b) The Buffer Zone was demarcated prior to the cut-off date.The proposal for
+creating Buffer Zone to the TATR was initiated on 14.08.2007 i.e. much  Page
+27 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 before the cut-off date.
+Reliance in this regard was placed on letter dated 07.03.2008 of the Forest
+Conservator. It was also alleged that the correct translated version of this
+letter was not filed by Adani. A comparison chart was displayed to show
+differences between the 07.03.2008 letter on record and the translated version
+of MSEDCL.
+
+(c) Further, the ToR does not confer any vested right on Adani over Lohara
+Coal Blocks. MoC's allocation letter dated 06.11.2007 and the ToR were subject
+to grant of EC. Adani cannot assume that EC will be granted merely because ToR
+was issued. ToR was granted to Adani based on the Form-1 submitted by Adani
+along with its application for prior EC.
+
+(d) Reliance is placed on NTCA's letter dated 31.08.2009 and EAC's 59th
+meeting report to highlight that Adani's EIA/EMP Report was flawed since it
+did not cover core issues concerning the ecology of the mining lease area. The
+Conservation Plan prepared by Adani did not capture the tiger movements
+despite there being multiple past instances of human-tiger conflict in the
+said area. Based on such flawed Conservation Plan prepared by Adani, EAC
+recommended MoEF to reject the EC.
+
+(e) As such, EC was rejected due to Adani's failure in disclosing at the
+relevant time, the tiger movements in the area, the presence of a proposed
+Buffer Zone, tiger corridor and tiger trails. Evidently, EC was already
+rejected prior to GoM notifying the Buffer Zone in 2010. Adani, therefore is
+wrong to argue that the ToR was withdrawn due to the Buffer Zone.
+
+(f) MERC erroneously placed reliance on the Energy Watchdog Judgment and
+overlooked the certain distinguishing features between the PPA considered in
+Energy Watchdog and the present PPA. While the eventuality of change in any
+consent for the project was envisaged under the definition of change in law in
+the PPA considered by the Energy Watchdog Judgment, the same was not envisaged
+in the PPA between MSEDCL and Adani. The coal  Page 28 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 allocation or coal linkage is a consent or
+permit to the project. The Energy Watchdog Judgment dealt with a situation of
+confirmed coal supply whereas, in the present case, the coal supply was only
+at the application stage.
+
+7.3 Ms. Ranjitha Ramachandran, learned counsel appearing for Prayas adopted
+submissions made by learned counsel for MSEDCL. Learned counsel for Prayas
+additionally submitted that Manoharalal Sharma judgment and the de-allocation
+letters cannot be considered as Change in Law events since there was no impact
+on Adani due to the same. Environmental Clearance was rejected much prior to
+the said events. This is also evident from Adani's conduct since Adani did not
+even send any change in law notice claiming the said events as change in law.
+
+7.4 Ms. PratitiRungta, learned counsel appearing for MERC submitted that the
+Commission has evaluated change in law claim of APML as per the provisions of
+the PPA and rightly decided the change in law issues in favour of APML.
+Learned counsel relied on the impugned order, and submitted, inter-alia, that
+the event of proposing buffer zone which ultimately led to withdrawal of ToR
+and subsequent cancellation of Lohara Coal Block is an event of Change in Law
+under Article 13 of the PPA. It was also submitted that APML is eligible for
+compensation under the change in law on account of shortfall in coal supply as
+against 100% assured coal supply under New Coal Distribution Policy, 2007. As
+regards contention of MSEDCL challenging applicability of Energy Watchdog
+judgement, learned counsel submitted that the judgment is squarely applicable
+in the present case as the Hon'ble Supreme Court has held that policy
+decisions issued or notified by the Government of India which have adverse
+impact on the coal supply have the force of law and entitles the affected
+generators to relief under the change in law provisions of the PPA.
+
+Page 29 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 7.5 Mr. SajanPoovayya, learned
+Senior Counsel for APML has made the following submissions in his rejoinder
+arguments:-
+
+(a) Lohara Coal Blocks had contractual and legal validity and Adani had a
+vested right to utilize Lohara Coal Blocks. Lohara Coal Blocks were the
+fundamental basis of Adani's bid for part of its contracted capacity (800MW
+out of 1320 MW). Accordingly, Lohara Coal Blocks had legal and contractual
+validity. Hence, Adani had a corresponding legal entitlement regarding use of
+such bid-identified source of coal. In this regard, reliance is placed on
+MoC's allocation letter dated 06.11.2007, having been issued in terms of
+Section 3(3)(a)(iii) of Coal Mines (Nationalization) Act, 1973, which had
+legal validity and force of law. This is also in accordance with the Energy
+Watchdog Judgment, wherein at paragraph 57, it was held that letters issued by
+GoI instrumentalities shall have force of law. By such allocation, GoI vested
+the ownership of Lohara Coal Blocks in Adani.
+
+(b) MoC's allocation letter being subject to conditions does not erode the
+validity of the allocation. In any event, none of the three conditions of
+cancellation mentioned in the Allocation Letter has fructified or, become the
+basis for de-allocation of coal block by the MoC. In fact, in terms of MoEF
+Notification dated 14.09.2006, all Category A Projects (includes TPS) are
+mandated to obtain Environment Clearance. In terms of Article 77 of the
+Constitution of India, 1950 MoC and MoEF are entrusted with specific
+responsibilities. Accordingly, MoC could not have allocated a coal mine
+without subjecting it to conditions viz. obtaining clearances etc. All
+Projects are always issued allocations which are subject to various conditions
+and that cannot be the basis for any party to argue that the allocation does
+not vest any right on the allottee. The fact that MoC had to de-allocate the
+mine by letter dated 17.02.2014 in itself testifies to the fact that Adani had
+a vested right in Lohara Coal Blocks.
+
+Page 30 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(c) Reference was also drawn to Section 3 of the Coal Mines Nationalization
+Act, 1973 to argue that 'ownership' of Lohara Coal Blocks was vested on Adani
+by virtue of MoC's allocation letter dated 06.11.2007 conferring Adani with
+the right, title and interest to exploit the said mines for generating power
+from the Tiroda TPS.
+
+(d) MSEDCL's reliance on translated version of a letter dated 07.03.2008 to
+contend that the proposal regarding creation of a Buffer Zone was initiated on
+14.08.2007 is incorrect for the reason that the TATR was notified as CTH for
+the first time only on 27.12.2007. A Buffer Zone cannot be created prior to
+CTH itself being created. This is because Buffer Zone is a peripheral area
+"to" a CTH. Unless there is a CTH, there cannot be a Buffer Zone. Proposal for
+creating CTH was made by National Tiger Conservation Authority only on
+16.11.2007.
+
+(e) The effect of any document ought to be ascertained on the basis of the
+document itself. No external aid can be used to give a different meaning to
+the document. MoC's allocation letter dated 06.11.2007 ought to be
+independently read to ascertain Adani's vested rights in the Lohara Coal
+Blocks pursuant to such letter. Reliance was placed on the judgments of
+Hon'ble Supreme Court in Sisir Kumar Mohantyvs. State of Orissa, (2002) 9 SCC
+219; and Mohinder Singh Gill vs. Chief Election Commissioner, (1978) 1 SCC
+405.
+
+(f) MSEDCL's contention that ToR was rejected on account of Adani's fault in
+preparing effective Environment Impact Assessment/Environment Management Plan
+Report is erroneous since ToR was withdrawn due to the proposed Buffer Zone.
+Further, MSEDCL's contention is also not consistent with the letter dated
+13.01.2009 written by the NTCA to the MoEF wherein it recommended prohibiting
+any mining activity in the Lohara Coal Blocks to prevent human-tiger conflict
+since the mining lease was in  Page 31 of 84 Judgment of A.No.340 of 2019 &
+354 of 2010 close proximity to a notified tiger reserve. This letter was
+independent of any EIA/EMP submitted by Adani.
+
+(g) Section 38(O) of the Wildlife Protection Act, 1972 entrusts the NTCA with
+the powers to disallow mining activities in the Tiger Reserves. The said
+provision also confers overriding powers to the decisions of the NTCA. In
+other words, decisions of NTCA will bind other authorities. EAC in its 59th
+meeting Report specifically recorded the intervention by NTCA and its
+recommendation to EAC to not let mining be conducted in the proposed Buffer
+Zone. As such, even the best possible EMP Report could not have let mining be
+conducted in the said area due to the statutory bar under Wildlife Protection
+Act, 1972.
+
+(h) MoC's allocation letter dated 06.11.2007 cannot be contended to have been
+subject to grant of Environmental Clearance and Forest Clearance, which are
+different statutory requirements under the Environment (Protection) Act, 1986.
+Further, Clause 2.1.5 of the Request for Qualification ("RFQ') expressly
+required Adani to submit a 'comfort letter' regarding sourcing of coal at the
+time of bid submission. Adani submitted MoC's allocation letter dated
+06.11.2007 along with its bid as a 'comfort letter' in compliance with Clause
+2.1.5 of the RFQ. Accordingly, Lohara Coal Blocks became the basis for Adani's
+bid. In view of the specific coal source indicated by Adani, MSEDCL accepted
+Adani's bid and issued the Letter of Intent ("LoI") on 29.07.2008 in favour of
+Adani. Therefore, MoC's allocation letter dated 06.11.2007 was accepted as an
+adequate 'comfort letter' by MSEDCL for the purposes of bid qualification and
+acceptable evidence of fuel tie-up by Adani. Such acceptance on part of MSEDCL
+is its acquiescence by conduct recognizing Lohara Coal Blocks as the bid-
+identified source of fuel in Adani's bid for the 800 MW portion of the
+contracted capacity. Reliance in this regard is placed on the judgment of
+Page 32 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 the Supreme Court in
+KanchanUdyog Limited vs. United Spirits Limited (2017) 8 SCC 237.
+
+(i) Accordingly, Lohara Coal Blocks became the fundamental basis for Adani to
+discharge its contractual obligation i.e. supply of power to MSEDCL to the
+extent of 800 MW. Therefore, Lohara Coal Blocks as the agreed source of fuel
+for part of the contracted capacity under the PPA had legal and contractual
+sanctity. This factum has been accepted by this Tribunal in the Remand Order
+and the same has not been challenged by MSEDCL.
+
+Our Findings and Analysis 7.6 On the basis of the submissions made by the
+parties, we observe that MSEDCL's main contention is that de-allocation of
+Lohara Coal Blocks was not a Change in Law event since the ToR was
+cancelled/withdrawn prior to notification of the Buffer Zone by GoM (dated
+05.05.2010). For purposes of our analysis, the only relevant factor is whether
+the factum of de-allocation of Lohara Coal Blocks qualifies as a Change in Law
+event in terms of the PPA. In this regard, we proceed to analyze whether the
+following pre- conditions are fulfilled as regards change in law provision of
+the PPA:
+
+(a) There must be enactment, adoption, bringing into effect or modification of
+any 'law';
+
+(b) Such 'law' must have been enacted, adopted, brought into effect or
+modified after the cut-off date.
+
+(c) Consequently, there must exist some increase/decrease in cost of or
+revenue from the business of selling electricity.
+
+7.7 The expressions "Law" and "Indian Governmental Instrumentality" have been
+defined in Article 1.1 of the PPA as follows:
+
+Page 33 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 ""Law"-means, in relation to this
+Agreement, all laws including Electricity Law in force in India and any
+statute, ordinance, regulation, Notification or code, rule, or any
+interpretation of any of them by an Indian Governmental Instrumentality and
+having force of law and shall further include all applicable rules,
+regulations, orders, Notifications by an Indian Governmental Instrumentality
+pursuant to or under any of them and shall include all rules, regulations,
+decisions and orders of the CERC and the MERC .
+
+"Indian Governmental Instrumentality" means the GOI, Government of Maharashtra
+and any ministry or, department of or, board, agency or other regulatory or
+quasi-judicial authority controlled by GOI or Government of States where the
+Procurer and Project are located and includes the CERC and MERC."
+
+From the above definitions, it is evident that any order or notification, rule
+or regulation by an Indian Governmental Instrumentality constitutes "Law" and
+the Government of Maharashtra, Government of India and its departments or
+agencies fall within the definition of Indian Governmental Instrumentalities.
+
+7.8 In the present case, the cut-off date under the PPA is 14.02.2008. As
+such, we need to evaluate whether there was any change in Law after 14.02.2008
+which resulted in some increase/ decrease in cost of or revenue from the
+business of selling electricity so far as Adani is concerned.
+
+7.9 Before going into the factual analysis of the sequence of events qua
+Change in Law, we examine the statutory regime regarding creation of Critical
+Tiger Habitats and Buffer Zones. Section 38V of the Wildlife (Protection) Act,
+1972 is the enabling provision which empowers the State Governments to notify
+an area as a Tiger Reserve. The Explanation to the said section states that a
+'Tiger Reserve' includes (i) CTH and (ii) a Buffer Zone to such CTH. Section
+38V of the Wildlife (Protection) Act, 1972 and the Explanation are quoted
+hereunder: -
+
+"38V. Tiger Conservation Plan.--(1) The State Government shall, on the
+recommendation of the Tiger Conservation Authority, notify an area as a tiger
+reserve.
+
+Page 34 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 Explanation.--For the purposes of
+this section, the expression "tiger reserve" includes--
+
+(i) core or critical tiger habitat areas of National Parks and sanctuaries,
+where it has been established, on the basis of scientific and objective
+criteria, that such areas are required to be kept as inviolate for the
+purposes of tiger conservation, without affecting the rights of the Scheduled
+Tribes or such other forest dwellers, and notified as such by the State
+Government in consultation with an Expert Committee constituted for the
+purpose;
+
+(ii) buffer or peripheral area consisting of the area peripheral to critical
+tiger habitat or core area, identified and established in accordance with the
+provisions contained in Explanation (i) above, where a lesser degree of
+habitat protection is required to ensure the integrity of the critical tiger
+habitat with adequate dispersal for tiger species, and which aim at promoting
+co-existence between wildlife and human activity with due recognition of the
+livelihood, developmental, social and cultural rights of the local people,
+wherein the limits of such areas are determined on the basis of scientific and
+objective criteria in consultation with the concerned Gram Sabha and an Expert
+Committee constituted for the purpose."
+
+7.10 As is evident from the Explanation to Section 38V of the Wildlife
+(Protection) Act, 1972, for a creation/notification of a Buffer Zone, three
+statutory requirements must be fulfilled viz.: (i) an Expert Committee must be
+constituted for identifying and establishing a Buffer Zone; (ii) Gram Sabha
+should be consulted before any such notification and (iii) the identification
+and establishment of a Buffer Zone shall be based on scientific and objective
+criteria.
+
+7.11 It was contended by Adani that none of the statutory requirements for
+creating a Buffer Zone were even initiated as on the cut-off date
+(14.02.2008), let alone a Buffer Zone being identified or in fact created. We
+note that prior to cut-off date, parts of TATR was declared as a CTH which was
+notified by the GoM on 27.12.2007. Admittedly, there was no Buffer Zone to the
+said CTH. It is also evident that Lohara Coal Blocks were not falling within
+the said CTH. It was only after the cut-off date that the statutory action or
+process for creating the Buffer Zone kick started which is evident from the
+following uncontested facts: -
+
+Page 35 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(i) The Chief Conservator, Forests, on 21.02.2008 i.e. 7 days after the bid
+cut-off date (14.02.2008), gave approval for constituting an Expert Committee
+for creating the Buffer Zone surrounding the core area of TATR under Section
+38(V) of the Wildlife Protection Act, 1972 (i.e. a statutory requirement for
+creating a Buffer Zone).
+
+(ii) On 07.03.2008, i.e. 24 days after the bid cut-off date (14.02.2008), the
+Conservator, TATR submitted the proposed demarcation to the Chief Conservator
+of Forest for creating the Buffer Zone surrounding the core area of TATR under
+Section 38(V) of the Wildlife Protection Act, 1972.
+
+(iii) Consultation/Consent of Gram Sabha happened only between May 2008 and
+November 2008 i.e., after the cut-off date.
+
+(iv) Subsequently, on 08.10.2008, the Conservator, TATR submitted the revised
+proposal for Buffer Zone to TATR pursuant to conclusion of Consultation/
+Consent of Gram Sabha.
+
+(v) Numerous other deliberations, interventions by NTCA etc. culminated in the
+GoM's Notification dated 05.05.2010, wherein by exercising its powers
+conferred under Section 38(V) of the Wildlife (Protection) Act, 1972, the GoM
+notified 1101.7711 sq. km as the Buffer Zone of TATR.
+
+7.12 It is not in dispute that the GoM notification dated 05.05.2010 creating
+a buffer zone to the TATR is a notification issued by an Indian Governmental
+Instrumentality and therefore, satisfies the definition of 'Law' contained in
+the PPA. All statutory actions qua identification and notification of the
+Buffer Zone to the TATR were taken post the cut-off date of 14.02.2008 and,
+therefore, we are of the view that the first two elements, namely, bringing
+into effect a Law after the cut off date are satisfied in this case.
+
+Page 36 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 7.13 We further observe that
+Adani's legitimate entitlement to mine coal from Lohara Coal Blocks was
+represented through actions of Indian Government Instrumentalities, namely,
+the MoC which allocated the coal blocks through allocation letter dated
+06.11.2007 and MoEF which had granted the ToRfor the Lohara Coal Blockson
+16.05.2008 (pursuant to EAC's recommendation during meeting dated 28.04.2008).
+A number of arguments were advanced with regards to significance and
+implications of such grants vis-à-vis Adani's legitimate entitlement to mine
+coal from Lohara Coal Blocks.
+
+7.14 The Allocation letter issued by the MoC is clear and unequivocal, it
+states that the allocation of Lohara West &LoharaExtn (E) coal block to M/s
+Adani Power Ltd. was made to meet the coal requirement of its 1000 MW power
+plant in Distt. Gondia, Maharashtra. Evidently, the coal allocation was made
+for captive usage by Adani and thereby, it created a legal right or interest
+in favour of Adani and a legitimate expectation in favour of Adani that it had
+acquired the right to use and exploit the allotted coal mines to feed its
+Tiroda TPS to meet its power supply obligations under the PPA. It is not
+MSEDCL's case that any additional document or instrument was required to be
+issued by the MoC to create a vested right in favour of Adani to use and
+exploit the allotted Coal Blocks. As such, by allocating Lohara Coal Blocks on
+06.11.2007, MoC transferred the necessary right and entitlement for use and
+exploitation of Lohara Coal Blocks in favour of Adani. This Tribunal in the
+Remand Order categorically held that MoC's allocation letter dated 06.11.2007
+was the fulcrum of Adani's bid and that Adani therefore had a legitimate
+expectation that in the normal course of business, it would utilize the coal
+from Lohara Coal Blocks. MSEDCL's contention that the allocation letter was
+subject to grant of EC is not correct as no such condition is stipulated in
+the allocation letter. Further, grant or receipt of EC, approval of mining
+plan, etc. are approvals which would have  Page 37 of 84 Judgment of A.No.340
+of 2019 & 354 of 2010 been expected to be received in ordinary course of
+business. Adani could not have planned its affairs or submitted bid to MSEDCL
+in the knowledge that its request for EC for the Lohara Coal Blocks would be
+denied, especially when it had submitted alternate proposals for mining in the
+allotted coal blocks. We are also in agreement with Adani's contention that
+the fact that MoC had to de-allocate the mine by letter dated 17.02.2014
+itself testifies that Adani had a vested right in Lohara Coal Blocks.
+
+7.15 Based on MoC's sanction to Adani to utilize Lohara Coal Blocks, Adani
+submitted its bid on 21.02.2008 and specified captive coal as one of its bid-
+identified sources of fuel. Lohara captive Coal Blocks thus became the
+fundamental basis of Adani's bid for part of its contracted capacity (800MW
+out of 1320 MW).
+
+7.16 We observe that Clause 2.1.5 of the RFQ expressly required Adani to
+submit a 'comfort letter' regarding sourcing of coal at the time of bid
+submission. Adani submitted MoC's allocation letter dated 06.11.2007 along
+with its bid as a 'comfort letter' in compliance with Clause 2.1.5 of the RFQ.
+It has not been denied by MSEDCL in view of the specific bid parameters
+indicated by Adani, MSEDCL accepted Adani's bid and issued LoI dated
+29.07.2008 in favour of Adani. Therefore, MoC's allocation letter dated
+06.11.2007 was accepted as an adequate 'comfort letter' by MSEDCL for the
+purposes of bid qualification. We agree with the contentions of Adani that
+MSEDCL's acceptance of Adani's bid basis the comfort letter or the MoC
+allocation letter submitted by Adani is an acknowledgment by MSEDCL of Adani's
+legal right to obtain coal from the allotted coal mines. Having accepted its
+bid, MSEDCL cannot now question or impugn the legal sanctity of the MoC
+allocation letter dated 06.11.2207.
+
+7.17 MSEDCL cannot take contradictory and shifting stands regarding the
+validity and effect of MoC's allocation letter dated 06.11.2007. We refer to
+Page 38 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 the Hon'ble Supreme
+Court's findings in Suzuki ParasrampuriaSuitings Private Ltd. vs. Official
+Liquidator of Mahendra Petrochemicals Limited (2018) 10 SCC holding that a
+litigant can take different stands at different times but cannot take
+contradictory stands in the same case. A party cannot be permitted to
+approbate and reprobate on the same facts and take inconsistent shifting
+stands. The untenability of an inconsistent stand in the same case was
+considered in Amar Singh v. Union of India [Amar Singh v. Union of India,
+(2011) 7 SCC 69. The Supreme Court also held in Joint Action Committee of
+Airline Pilots' Association of India vs. Director General Association of India
+(2011) 5 SCC 435 that the doctrine of election is based on the rule of
+estoppel--the principle that one cannot approbate and reprobate inheres in it.
+The doctrine of estoppel by election is one of the species of estoppels in
+pais (or equitable estoppel), which is a rule in equity. By that law, a person
+may be precluded by his actions or conduct or silence when it is his duty to
+speak, from asserting a right which he otherwise would have had. Taking
+inconsistent pleas by a party makes its conduct far from satisfactory.
+Further, the parties should not blow hot and cold by taking inconsistent
+stands and prolong proceedings unnecessarily.
+
+7.18 Additionally, we hold that MoC's allocation letter dated 06.11.2007
+cannot be held as conditional as contended by MSEDCL. It is a separate
+document and the effect of the same ought to be ascertained based on the
+contents of the said document itself. As observed above, MoC's allocation
+letter dated 06.11.2007 created enforceable legal rights and interests over
+Lohara Coal Blocks in favour of Adani. Denial or rejection of other required
+permissions such as EC would not make the allocation letter conditional or
+insufficient in any manner. The fact remains that basis the same allocation
+letter, MSEDCL signed the PPA with Adani without any demur or objection.
+
+Page 39 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 7.19 MSEDCL has further contended
+that cancellation of Lohara Coal Blocks was Adani's own making and therefore
+no change in law compensation is payable. We are not in agreement with this
+contention. No material has been produced by MSEDCL to support this position.
+Secondly Adani could not have anticipated the creation of buffer zone covering
+a large part of the project area. Once it became aware of the proposed buffer
+zone, it had proposed to modify the wildlife conservation plan as per the
+requirements of Government of Maharashtra. Thirdly, Adani even proposed to
+surrender 176 hectares of area which fell under the proposed buffer zone of
+TATR. In the remaining area said to be the tiger corridor, Adani had proposed
+to divide the Mining lease area into 40 blocks and do mining only in one block
+every year, so that it will have minimum impact on the wildlife. As such, we
+take note of the mitigations efforts suggested by Adani to overcome the
+obstacles caused by the proposed buffer zone but it was not enough to persuade
+the relevant government authorities in affirmative.
+
+7.20 In the Remand Order, we have noted that under the MoC's allocation letter
+dated 06.11.2007, allocation/mining lease could have been cancelled only on
+the three grounds mentioned therein viz.: -
+
+"Allocation / mining lease of the coal block may be cancelled, inter-alia, on
+the following grounds:-
+
+> a. Unsatisfactory progress of implementation of their end use sponge iron
+> plant / power plant/cement plant.
+
+> b. Unsatisfactory progress in the development of coal mining project c. For
+> breach of any of the conditions of allocation mentioned above."
+
+7.21 None of the three conditions envisaged a situation of withdrawal of
+allocation of coal blocks. The three conditions clearly referred to are
+unsatisfactory progress of implementation of end use of the allottees or
+unsatisfactory progress in the development of coal mining or breach of any of
+the conditions in the allocation letter would lead to cancellation.
+
+Page 40 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 Therefore, when ToR came to be
+issued on 16.05.2008, Adani could not have envisaged cancellation or
+withdrawal of coal block for any other reason other than conditions referred
+to in the allocation letter. The cancellation of coal block did not happen
+because of any of the identified three conditions. MSEDCL argued that the
+allocation letter mentions 'inter alia' in the conditions for cancellation,
+meaning the said conditions were not exhaustive. In this context, it may be
+noted that the condition 'c' of allocation letter envisages cancellation for
+breach of any condition of allotment. However, it is not even MSEDCL's case
+that Adani was in breach of any condition of the allocation or breach of any
+other applicable law, which would warrant such cancellation. From the terms of
+the allocation letter, it is clear that no reasonable person could have read
+into it a condition regarding withdrawal of ToR as the basis for cancellation
+of the coal blocks.
+
+7.22 On 24.11.2009 and 25.11.2009, the EAC, in its 59th meeting took a
+decision to withdraw the ToR previously granted to Adani. We are also mindful
+of the fact that while doing so, EAC recorded that the ToR was not cancelled
+on account of any default of Adani but for the reasons that at the time of
+granting the ToR, EAC was not aware of the mining project being within the
+proposed buffer zone of the TATR. Pursuant to further study of the area and
+subsequent to the grant of ToR, it was understood that the tiger corridor was
+a part of the proposed mining lease areas.
+
+7.23 We also observe that NTCA has been given overriding powers under the
+Environmental Protection Act, 1986 with regards to demarcation of Buffer
+Zones. The same is made amply clear by sub-section (2) of Section 38(O) of the
+Wildlife (Protection) Act, 1972 which states that NTCA's directions are
+binding on other statutory authorities (including GoM, EAC and MoEF) viz.: -
+
+Page 41 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 "38O. Powers and functions of Tiger
+Conservation Authority:
+
+> (2) The Tiger Conservation Authority may, in the exercise of its powers and
+> performance of its functions under this Chapter, issue directions in writing
+> to any person, officer or authority for the protection of tiger or tiger
+> reserves and such person, officer or authority shall be bound to comply with
+> the directions:"
+
+7.24 The same is also evident from the use of the "shall" in the opening
+portion of Section 38V of the Wildlife (Protection) Act, 1972 wherein it is
+stated if NTCA so recommends, State Government is bound to notify the area as
+Tiger Reserve. The use of the word "shall" indicates that a particular
+provision is mandatory. The Supreme Court in Delhi Airtech Services (P) Ltd.
+v. State of U.P., (2011) 9 SCC 354 held that:-
+
+> "80. Basically, the language used is "shall" which primarily indicates
+> mandatory compliance. That apart, in the context of the nature of the
+> statute which is admittedly expropriatory in character and the nature of the
+> statutory requirement under Section 17(3-A) which is clearly and undoubtedly
+> a condition precedent to the taking over of possession in emergency
+> acquisition, there can be no doubt that the requirement under Section
+> 17(3-A) is mandatory.
+
+> 122\. The distinction between mandatory and directory provisions is a well-
+> accepted norm of interpretation. The general rule of interpretation would
+> require the word to be given its own meaning and the word "shall" would be
+> read as "must" unless it was essential to read it as "may" to achieve the
+> ends of legislative intent and understand the language of the provisions. It
+> is difficult to lay down any universal rule, but wherever the word "shall"
+> is used in a substantive statute, it normally would indicate mandatory
+> intent of the legislature."
+
+7.25 The EAC in its 59th meeting Report had also specifically recorded the
+intervention by NTCA and its recommendation to EAC to not let mining be
+conducted in the proposed Buffer Zone. The relevant extracts of the EAC
+meeting are as under:-
+
+"DIG & Joint Director, NTCA informed that under the direction of Hon'ble MEF,
+Director, NTCA had undertaken a site visit and had recommended that no mining
+operations should be undertaken in the proposed buffer zone. He further
+informed that the NTCA has legal obligations under Section 38 (O) of the
+Wildlife Protection Act 1972, and is authorised to regulate the landuse that
+can impact the Tiger Reserves in the country. "
+
+Page 42 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 As such, we observe that EAC was
+statutorily bound to follow directions/request of NTCA and had no option but
+to recommend MoEF to withdraw the ToR. Based on EAC's recommendation, MoEF
+withdrew the ToR on 07.01.2010. Even MoEF recorded the cause of such
+withdrawal was that the Lohara Coal Blocks were falling within the proposed
+Buffer Zone (and not Adani's default). This was bolstered by the fact that
+later while de- allocating the Lohara Coal Blocks on 17.02.2014, MoC returned
+the bank guarantee furnished by Adani. If Adani had been in default of any
+condition of allocation, its bank guarantee would not have been returned by
+the MoC. In view of cancellation of the Lohara Coal Blocks, Adani had no
+choice but to depend on the costlier alternate coal sources such as imported
+coal, coal supply under SHAKTI FSA dated 29.03.2018, and e-auction coal, which
+led to increase in cost of supply of power to MSEDCL. Thus, the third pre-
+condition to qualify for change in law, i.e. impact on cost or revenue from
+sale of electricity, is also fulfilled. As such de-allocation of Lohara Coal
+Blocks satisfies all elements of qualifying as a change in law event under
+Article 13.1.1 of the PPA. We, therefore, hold that the following events
+qualify as change in law events in terms of the PPA: -
+
+(i) MoEF's letter dated 07.01.2010 withdrawing the ToR and rejecting grant of
+EC. This was based on EAC's recommendation in its 59th meeting. This led to
+foreclosing of all options for Adani to undertake coal mining in the Lohara
+Coal Blocks. MoEF is an Indian Governmental Instrumentality and its withdrawal
+of ToR, which is a pre-requisite for obtaining EC, for the Lohara Coal Blocks
+amounts to a change in law event under Article 13.1.1 of the PPA.
+
+(ii) GoM's Notification dated 05.05.2010 creating Buffer Zone to the TATR
+constitutes a change in law event in terms of Article 13.1.1 of the PPA.
+
+Page 43 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(iii) MoC letter dated 17.02.2014 cancelling and de-allocating the Lohara Coal
+Blocks, which was made after the cut-off date, squarely falls within the
+definition of Change in Law under the PPA.
+
+(iv) It may also be noted that even if the MoC had not deallocated the Lohara
+Coal Blocks on 17.02.2014, Adani would not have been able to utilise and
+exploit the Lohara Coal Blocks on account of the Manohar Lal Judgment rendered
+by the Hon'ble Supreme Court on25.08.2014 and would have been entitled for
+relief under change in law. 7.26 We, therefore, hold that the Appellant was
+affected by Change in law on account of the de-allocation of Lohara Coal
+Blocks andaccordingly, the impugned order of the State Commission is upheld on
+this issue.
+
+8\. Issue-2: - Whether MERC was justified in considering the landed cost of
+linkage coal as the basis for computing change in law compensation when Lohara
+Coal Blocks were the bid-identified source of coal? 8.1 Mr.SajjanPoovayya, the
+learned senior counsel for APML, has made the following submissions for our
+consideration:-
+
+(a) Change in law compensation towards cost of alternate coal on account of
+cancellation / de-allocation of Lohara Coal Blocks ought to be computed
+considering the difference in cost of coal that would have been produced from
+Lohara Coal Blocks and the alternate coal sources availed by Adani in order to
+restitute Adani to the same economic position as if no change in law had
+occurred under the terms of the PPA. MERC rejected Adani's proposed
+methodology and erroneously considered the landed cost of linkage coal as the
+basis for computing change in law compensation. MERC erred in holding that
+Adani's claim for considering landed cost of coal from Lohara Coal Blocks as
+the basis for computing change in law compensation is premised on assumptions.
+
+Page 44 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(b) While submitting the bid, Adani quoted its energy charges towards the
+tariff based on the computed landed cost of the coal from Lohara Coal Blocks.
+The cost computation was based on assumptions which were made considering that
+coal would be available from Lohara captive Coal Blocks. Having accepted
+Adani's bid, MSEDCL's letter of intent dated 29.07.2008, inheres in it,
+Adani's assumptions of the landed cost of coal from Lohara Coal Blocks.
+
+(c) MERC in its Order dated 21.08.2013 in Case No. 68 of 2012 used its
+regulatory powers and constituted an Expert Committee to work out and
+recommend a package for compensatory tariff to offset the hardship faced by
+Adani due to de-allocation of Lohara Coal Blocks. On 17.02.2014, the Expert
+Committee furnished its Report which inter alia captured Adani's computed
+landed cost of the coal from Lohara Coal Blocks in Chapter 6 of the Report.
+Admittedly, Expert Committee had arrived at the Lohara coal costs by virtue of
+transfer pricing. Therefore, the price was derived by the Committee and not
+assumed as contended by MSEDCL. The Expert Committee, through its Report,
+recommended MERC to consider the landed cost of coal from the Lohara Coal
+Blocks to be taken as the base for computing the compensation.The cost of coal
+from Lohara, as determined by the Expert Committee, ought to have been
+considered as base for computing compensation.
+
+(d) MSEDCL, being a member of the Expert Committee, did not raise any
+objection to the final methodology proposed to offset the hardship faced by
+Adani during any of the Expert Committee proceedings. It is now not open to
+MSEDCL to cast aspersions on the recommendations of the Expert Committee.
+
+(e) Further, the Full Bench Judgment of APTEL in Appeal Nos. 100 of 2013 and
+batch set-aside the said of MERC Orderof 05.05.2014. However, by the time
+Adani's Appeal No. 241 of 2016 was considered by this Tribunal,  Page 45 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 Energy Watchdog Judgment had
+occupied the field, which, in principle, lays down that ERCs have regulatory
+powers to determine compensatory tariff. Accordingly, this Tribunal in the
+Remand Judgment (31.05.2019) specifically recorded that MERC was right in
+determining compensatory tariff. MSEDCL has also not challenged this finding.
+Thus, the constitution of Expert Committee and consequently findings of its
+Report cannot be now questioned. MSEDCL's contention that Adani's claim is
+based on a unilateral assumption is thus misleading, is oblivious to the
+principle of bid sanctity and ought to be rejected.
+
+(f) Guided by the principle laid down in Energy Watchdog Judgment and the
+specific directions in the Remand Judgment, MERC was required to consider the
+issues qua change in law compensation. As such, for the purpose of computing
+the relief under Change in Law, the landed cost of the respective fuel stream
+needs to be considered as the base and not otherwise.
+
+(g) MERC cannot adopt inconsistent methodologies to compute change in law
+reliefs. This position has been accepted by MERC in its Order dated 07.03.2018
+in Adani Power Maharashtra Limited vs. MSEDCL in Case No. 189 of 2013 and
+accordingly in approving the compensation for shortfall in linkage coal
+supply, MERC considered landed cost of linkage coal as base corresponding to
+520 MW capacity of total contracted capacity of the same 1320 MW PPA. MSEDCL
+has been making payments based on the said findings and the same has never
+been challenged and thus has attained finality. The details of landed cost of
+linkage coal was not part of bid submitted by Adani since it was under Case-I.
+Yet, MERC rightly considered linkage coal cost as basis to award compensation
+for shortfall in linkage coal availability in the said case. Based on the same
+principle, in present case, the landed cost of Lohara Coal Blocks ought to
+have been  Page 46 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 considered
+as the base since MERC cannot adopt inconsistent methodologies to compute
+change in law reliefs.
+
+(h) Further, MSEDCL did not contest the methodology proposed by Adani for
+computing compensation towards change in law on account of cancellation of
+Lohara Coal Blocks. Accordingly, without any specific pleading of MSEDCL, MERC
+ought not to have tinkered with the Adani's proposed methodology. The proposed
+methodology was based on the principles followed by MERC in its earlier orders
+and is consistent with (i) the principle of restitution enshrined in the PPA,
+(ii) Energy Watchdog Judgment, (iii) the directions of CCEA, MoP and (iv)
+provisions of Tariff Policy, 2016.
+
+(i) It is further contended that the landed cost of coal should also include
+transportation costs. Landed cost of coal consists of two parts viz. (i) cost
+involved in the production of coal from Lohara Coal Blocks and (ii) the cost
+of transportation of such coal from mine to Adani's Tiroda TPS. The details of
+the cost of transportation of coal is provided in the Expert Committee Report
+dated 17.02.2014. The present cost of transportation may be considered based
+on Railways Freight with applicable taxes and duties as submitted in the
+tables, while determining the landed cost of coal.
+
+(j) MERC Multi-Year Tariff Regulations, 2015 consider cost of transportation
+in landed cost of coal. Further, this Tribunal in DPSC Limited vs. WBERC 2014
+SCC Online APTEL 162 [Appeal No. 244 of 2012 dated 26.08.2014] held that
+'transit and handling losses' (i.e. part of transportation cost) shall be
+included in the landed cost of fuel.
+
+8.2 Per contra, Mr. Ganesan appearing for MSEDCL has made the following
+submissions for our consideration:-
+
+(a) The Expert Committee was constituted by MERC by way of an interim order to
+ascertain whether Adani will be entitled to any compensatory tariff  Page 47
+of 84 Judgment of A.No.340 of 2019 & 354 of 2010 dehors the PPA. Although
+MSEDCL was a party to the Committee, MSEDCL was not a signatory to the Report.
+
+(b) In the proceedings before the Committee, MSEDCL had made objections on
+several aspects. In this regard, Expert Committee Report's relevant pages were
+displayed which captures MSEDCL's objections. It was submitted that Chapter 6
+of the Expert Committee clearly records that the cost analysis of the Lohara
+coal block was made on assumptions based on documents submitted by Adani.
+
+(c) There was no tangible evidence given by Adani to justify the coal cost
+assumptions. As such, MERC rightly did not place reliance on the Expert
+Committee findings while setting out the methodology for compensation.
+
+(d) MERC's exercise of regulatory powers to grant compensatory tariff to Adani
+was questioned before this Tribunal in Appeal and this Tribunal clearly held
+that MERC did not have the power to exercise regulatory powers and grant such
+compensatory tariff. This Tribunal's decision was not appealed by Adani and
+the said judgment has attained finality.
+
+8.3 Ms. Rungta appearing for MERC made the following submission for our
+consideration:-
+
+(a) The Commission has noted in the impugned order that the Expert Committee
+in its report dated 18.02.2014 had only reflected on the APML's assumptions of
+arriving at landed cost of coal to be mined from Lohara Coal Block. Based on
+the said submissions of APML, mining plan and geographical survey report, the
+Committee proceeded to recommend a mechanism for arriving at compensatory
+tariff. The Commission has further noted that such assumptions/submissions of
+the appellant were never part of bidding documents and therefore, cannot be
+the basis for arriving at compensation to be allowed under the change in law.
+The actual quality and cost of coal that would have been produced from Lohara
+Coal Block  Page 48 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 cannot be
+ascertained in the backdrop of the same being in the nature of assumption and
+presumption. Therefore, the Commission did not err in deciding that such cost,
+being based on assumptions, cannot be considered as basis for determining the
+change in law compensation.
+
+(b) While submitting its bid for 1320 MW (Unit 2 and 3), APML has assumed
+sourcing of coal for 1000 MW capacity from Lohara Coal Block and balance from
+coal linkage. However, subsequent to the cut-off date, the Standing Linkage
+Committee (SLC) in it meeting held on 12.11.2008 noted that Lohara Coal Blocks
+can sustain a capacity of only 800 MW instead of the earlier identified 1000
+MW which makes the sourcing of coal for 1320 MW PPA as 800 MW from Lohara Coal
+Block and 530 MW from CIL. The Commission has considered the same composition
+for approving various change in law claims of APML subsequently, which has
+been accepted by APML.
+
+(c) In view of the above, the Commission has observed that as the assumptions
+of coal (coal from 1000 MW from Lohara Coal Block) prevailing at the time of
+cut-off date itself had undergone change (1000 Mw reduced to 800 MW) and such
+change has been accepted and adopted by the parties. Thus, there is no merit
+in the submission of APML to arrive at compensation for change in law on the
+basis of landed cost of Lohara Coal Block.
+
+Our Findings and Analysis 8.4 After hearing the parties, we observe that it is
+relevant to record that this Tribunal in its Remand Order dated 31.05.2019
+held that MERC was justified in exercising regulatory powers to grant
+compensatory tariff. The relevant extract of the Remand Order is as under.
+
+"161. The present Appeal was pending when the judgment in Energy Watchdog came
+to be pronounced by the Hon'ble Apex Court. It is well settled that since the
+Appeal is  Page 49 of 84 Judgment of A.No.340 of 2019 & 354 of 2010
+continuation of the original proceedings, the Court of Appeal can take into
+consideration facts and events which have come into existence after the
+impugned order. This Appeal was pending when the judgement in Energy Watchdog,
+came to be pronounced. Therefore, now we have to consider what is the effect
+of observations of the Hon'ble Apex Court with regard to regulatory powers to
+be exercised by the appropriate Commission to grant compensatory tariff.
+
+162\. This Tribunal in the Full Bench judgment opined that appropriate
+Commissions have no regulatory powers to grant compensatory tariff. This is no
+more good law in the light of Energy Watchdog judgment. Therefore, said issue
+has to be disposed of in line with the final opinion on the subject of
+Regulatory Powers of Commission as held in the judgment of Energy Watchdog. It
+is relevant to refer to certain Paragraphs from the judgment of Energy
+Watchdog [(2017) 14 SCC] which read under.
+
+> "20. It is important to note that the regulatory powers of the Central
+> Commission, so far as tariff is concerned, are specifically mentioned in
+> Section 79(1). This regulatory power is a general one, and it is very
+> difficult to state that when the Commission adopts tariff under Section 63,
+> it functions dehors its general regulatory power under Section 79(1)(b). For
+> one thing, such regulation takes place under the Central Government's
+> guidelines. For another, in a situation where there are no guidelines or in
+> a situation which is not covered by the guidelines, can it be said that the
+> Commission's power to "regulate" tariff is completely done away with?
+> According to us, this is not a correct way of reading the aforesaid
+> statutory provisions. The first rule of statutory interpretation is that the
+> statute must be read as a whole. As a concomitant of that rule, it is also
+> clear that all the discordant notes struck by the various sections must be
+> harmonised. Considering the fact that the non obstante clause advisedly
+> restricts itself to Section 62, we see no good reason to put Section 79 out
+> of the way altogether. The reason why Section 62 alone has been put out of
+> the way is that determination of tariff can take place in one of two ways --
+> either under Section 62, where the Commission itself determines the tariff
+> in accordance with the provisions of the Act (after laying down the terms
+> and conditions for determination of tariff mentioned in Section 61) or under
+> Section 63 where the Commission adopts tariff that is already determined by
+> a transparent process of bidding. In either case, the general regulatory
+> power of the Commission under Section 79(1)(b) is the source of the power to
+> regulate, which includes the power to determine or adopt tariff. In fact,
+> Sections 62 and 63 deal with "determination" of tariff, which is part of
+> "regulating" tariff. Whereas "determining" tariff for inter- State
+> transmission of electricity is dealt with by Section 79(1)(d), Section
+> 79(1)(b) is a wider source of power to "regulate" tariff. It is clear that
+> in a situation where the guidelines issued by the Central Government under
+> Section 63 cover the situation, the Central Commission is bound by those
+> guidelines and must exercise its regulatory functions, albeit under Section
+> 79(1)(b), only in accordance with those guidelines. As has been stated
+> above, it is only in a situation where there are no guidelines framed at all
+> or where the guidelines do not deal with a given situation that the
+> Commission's general regulatory powers under Section 79(1)(b) can then be
+> used.
+
+163\. Above Para clearly indicate that if Central Government's guidelines are
+not in existence or if the situation is not covered by the existing
+guidelines, the appropriate  Page 50 of 84 Judgment of A.No.340 of 2019 & 354
+of 2010 Commission can exercise regulatory power which is general in nature
+even in cases of Section 63 competitive bidding.
+
+164\. In the light of above subsequent development since this appeal was
+pending when Energy Watchdog judgment came, this Tribunal has to proceed on
+this point as held by Hon'ble Apex Court. Therefore, we opine that MERC was
+justified in exercising Regulatory Powers to grant compensatory tariff.
+
+...
+
+198\. We are of the opinion, in view of the opinion of the Hon'ble Apex Court
+on the issue of exercising regulatory powers by appropriate Commission, we
+hold that MERC can exercise regulatory powers to grant compensatory tariff.
+Therefore, MERC need not ponder over this issue afresh."
+
+8.5 In light of the above judgment, we hold that it is not open to MSEDCL to
+contest the constitution of the Expert Committee and the validity thereof,
+especially since MSEDCL was a participant before the Expert Committee. The
+MERC Order dated 05.05.2014 was set aside by this Tribunal only on the ground
+that the Commission had no regulatory powers to award compensatory tariff, it
+was not set aside on any infirmity in the constitution or the role performed
+by the Expert Committee. After the Energy Watchdog Judgment, we have already
+reiterated that the State Commission has the regulatory powers to issue
+appropriate directions, especially where competitive bidding guidelines are
+silent or do not cover the field. The Expert Committee constituted by the MERC
+was in exercise of its regulatory powers and was only a means to discover the
+appropriate commercial parameters to compute change in law relief. Therefore,
+the real issue for our determination is whether the methodology suggested by
+the Expert Committee for computation of change in law relief to Adani is
+appropriate or justified.
+
+8.6 While the MERC in the Impugned Order has declined to take cognizance of
+the Expert Committee Report on the ground that the Report only reflected
+Adani's assumptions of arriving at landed cost of coal to be mined from  Page
+51 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 Lohara Coal Block, it is
+worth noting that the MERC had not found anything objectionable in the
+Committee Report in its order of 05.05.2014 in Case No. 63 of 2014. Relevant
+paragraphs from the MERC's order are extracted below:
+
+"21.10 APML further added that the Committee, including MSEDCL deliberated
+upon and dealt with all the issues raised before it and thereafter they have
+recommended methodology for calculation of compensatory charge. Therefore, it
+is wrong to state on the part of Prayas that the Committee's methodology
+and/or prescription cannot be relied upon for arriving at any decision, just
+because certain objections have been raised by MSEDCL and GoM. It is also
+denied that the Committee has failed to give computation of the actual impact
+on Tariff. In view thereof, APML submits that the Commission may adopt the
+report of the Committee recommending the methodology of computation of
+Compensatory Charges in entirety as the same is in line with the mandate given
+by the Commission vide Order dated 21 August, 2013. 21.11 The Commission notes
+that the assertion that APML was not a party to the proceedings of the
+Committee is incorrect. While formulating the Committee, GoM had kept out APML
+from the Committee and stated that APML shall be invited as and when required.
+During the proceedings of this case, the Commission took a note of the same.
+The Commission observed that it had directed for formation of a Committee
+including APML; however, GoM has altered the composition of the Committee,
+which was not open to its discretion. Accordingly, in line with the principle
+stated in Order in Case No. 68 of 2012, the Commission directed in its daily
+Order in Case No. 150 of 2013 that APML be a permanent invitee in the
+proceedings of the Committee and all documents will be shared with APML.
+
+21.12 APML has accepted the Committee Report and in fact prayed the Commission
+to accept the Committee Report in entirety. GoM has also accorded in principle
+acceptance to the Committee Report with some modification suggested. Each of
+the contentions of MSEDCL and GoM have been considered on merit. Therefore,
+there is no question of not relying on the Committee Report."
+
+8.7 What emerges from the above is that, in Case No. 63 of 2014, the MERC had
+in fact relied on the Committee Report to allow a compensatory tariff to Adani
+in lieu of cancellation of Lohara coal blocks. While the legal basis of
+awarding compensatory tariff was initially rejected by this Tribunal and then
+reinstated and reiterated following the Energy Watchdog Judgment of the
+Hon'ble Supreme Court, it would not be correct to state that on account of
+this Tribunal's Order dated 11.05.2016 (Full Bench Judgment) , the Expert
+Committee Report, which had been constituted by the MERC itself and was  Page
+52 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 approved by the Government
+of Maharashtra as well, completely loses its relevance or sanctity. This
+Tribunal did not find any fault with the Expert Committee Report in its order
+dated 11.05.2016 and neither did the MERC in its order dated 05.05.2014.
+Having constituted an Expert Committee with the participation of all
+concerned, we do not find any strong justification furnished by the MERC to
+completely discard or reject the Expert Committee Report, especially when no
+alternative compensation formula was presented by MSEDCL before the MERC.
+
+8.8 We note that the Expert Committee in its Report has inter alia observed
+that the compensation payable to Adani would depend on the cost assumptions
+indicated in the bid. The Expert Committee having financial experts on board
+acknowledged that most of such cost assumptions were substantiated through
+documents viz. Mining Plan, Geological Survey and Adani's estimations founded
+on applicable Regulations etc. We also note that the Expert Committee
+determined the price of coal from Lohara Coal Blocks using "transfer pricing
+method" which is one of the commonly used methods and the same is being used
+for determining the transfer price of lignite of Neyveli Lignite Corporation
+Ltd. No material has been placed on record by MSEDCL to contest the merits of
+computation formula suggested by the Expert Committee. In fact, it appears
+that even during the proceedings in Case No. 63 of 2014, the difference
+between Adani and MSEDCL was only on the issue of performance parameters to be
+applied to determine the quantum of alternate coal. Following paragraphs from
+the MERC Order dated 05.05.2014 are noteworthy:
+
+"25. The Commission notes that MSEDCL has raised certain arguments on the
+methodology outlined in the Committee Report. However, while forwarding the
+workings of compensatory energy charge computed by SBI Caps, it has not taken
+any objections or any contrary views to the number computed therein. The
+Commission has considered the contentions of MSEDCL and GoM while deciding the
+matter to arrive at a considered decision. Accordingly, the Commission notes
+that the  Page 53 of 84 Judgment of A.No.340 of 2019 & 354 of 2010
+computations submitted by both the parties are identical and the only
+difference in the computations is on the SHR and Auxiliary Consumption.
+
+26\. Since both the parties have disagreed only on the performance parameters,
+the Commission has delved on the performance parameters as follows:...."
+
+We are, therefore, of the view that the Expert Committee report provides a
+reasonable basis to arrive at the cost of mining from Lohara Coal blocks and
+could not have been rejected by the MERC without strong justifications.
+
+8.9 We also observe that MSEDCL ought not to cast aspersions on such use of
+methodology of transfer pricing to deduce/determine the coal cost. Expert
+Committee Report was furnished after carrying out a detailed exercise of
+analysing all relevant technical, commercial, and financial aspects through a
+consultative process. The Expert Committee had also appointed external
+industry experts i.e. legal consultant, financial experts and independent
+auditors. Admittedly, the Expert Committee took cognizance of view of all the
+stakeholders (including MSEDCL) and it is not the case of MSEDCL that it was
+not heard before submission of the Report to MERC. In fact, we are mindful of
+the fact that the cover letter submitted to MERC records MSEDCL representative
+being one of the members which submitted the Report. As such, we see no reason
+why the recommendations of the Expert Committee cannot be relied upon.
+
+8.10 It is also not a case where MSEDCL produced any document to contradict
+such determination of Lohara coal cost by Expert Committee. We therefore hold
+that MERC ought to have conducted a prudence check to arrive at a conclusion
+regarding the correctness of the figures so derived/determined towards coal
+costs by the Expert Committee. Prudence check, however, does not mean taking
+linkage coal cost as the base to grant or determine change in law compensation
+to Adani. The MERC clearly fell in error on this issue.
+
+Page 54 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 8.11 The MERC's erroneous approach
+erodes the restitutionary principle enshrined under Article 13 of the PPA. In
+fact, Adani submitted that the Lohara coal cost cross-subsidizes fuel cost
+from Linkage portion, which has also been noted by the Expert Committee in its
+Report, but ignored by MERC. MSEDCL has not disputed this fact.
+
+8.12 The Expert Committee Report further notes that based on the said cost
+parameters, Adani had arrived at two different bid streams for each of the
+fuel source (i.e. captive coal and linkage coal). The overall bid numbers were
+based on a weighted average of the individual bid streams. Observing thus, in
+Chapter 7, the Expert Committee suggested MERC to consider the Lohara coal
+cost to be considered as the base for restituting Adani. Expert Committee gave
+the following rationale for the recommended methodology:
+
+\-
+
+> "7.1 ...The company had entered into a PPA based on the assurance of one of
+> the instrumentality of GoI to provide the coal mine. Therefore, other
+> instrumentality of a state government may need to consider the fact of
+> subsequent non-availability of coal mine. This fact has been acknowledged by
+> MERC..."
+
+8.13 We are in agreement with this rationale. This rationale conforms to the
+Tribunal's findings in the judgment dated 14.09.2019 (Appeal No 202 of 2018 &
+305 of 2018) (Adani Rajasthan judgment) wherein it was held that: -
+
+"11.13. The purpose of change in law relief/compensation is to restore the
+affected party to the same economic position as if the change in law had not
+occurred. In the instant case, this would involve compensating Adani Rajasthan
+for the cost incurred in purchasing alternate coal to meet the non-
+availability of domestic coal promised under the NCDP 2007. The MoP letter of
+31.07.2013 as well as the Revised Tariff Policy of 2016 support the principle
+of compensation to the generators for the additional cost incurred in
+procuring alternate coal. The methodology proposed by Adani Rajasthan prima
+facie appears to be consistent with the principle/basis of compensation for
+shortfall/non-availability of domestic coal given by the MoP and we do not
+find any reason to interfere with the same."
+
+Page 55 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 8.13 In the aforesaid case, the
+principle which was considered by us is that to restore the affected party to
+the same economic position as prevailing at the time of bid submission, the
+affected party shall be compensated for any additional cost incurred in
+procuring alternate coal to mitigate the non- availability / shortfall of coal
+from the bid-identified source. Since the bid- identified source of coal in
+the aforesaid case was linkage coal, the compensation allowed by the Tribunal
+was the difference between alternate coal cost and linkage coal cost. The
+formula for such computation is: Compensation = A - B [where 'A' is cost of
+alternate coal and 'B' is cost of coal from the bid-identified source of fuel
+i.e. linkage coal.] Here, we find it important to note that the methodology
+approved in Adani Rajasthan Judgment has not been interfered with by the
+Hon'ble Supreme Court in its order dated 31.08.2020 in Jaipur VidyutVitran
+Nigam v. Adani Power Rajasthan Limited and Anr. (Civil Appeal No. 8625-8626 of
+2019).
+
+8.14 Applying the same ratio as held in Adani Rajasthan Judgment, the formula
+for compensation for non-availability of coal from Lohara Coal Blocks should
+have been Compensation = A - B [where, 'A' is cost of alternate coal and 'B'
+is cost of coal from the bid-identified source of fuel i.e. Lohara Coal
+Blocks.] Considering linkage coal cost as base will not restitute Adani to the
+same economic position as if no change in law had occurred and thus runs
+contrary to the mandate laid down by the Energy Watchdog Judgment, the Uttar
+Haryana Judgment and the revised Tariff Policy 2016.
+
+8.15 Adani further prayed before us to direct MSEDCL that in so far as the
+costs incurred towards transportation of coal from the Lohara Coal Blocks to
+Tiroda TPS is concerned, the same may be considered based on applicable
+Railway Freight with applicable taxes and duties, while determining the landed
+cost of coal from the Lohara Coal Blocks. We are in agreement with this
+contention. It is no longer res integrathat landed cost of  Page 56 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 coal includes transportation costs.
+Supreme Court's judgment in Nabha Power Ltd. vs. Punjab State Power Corp. Ltd.
+(2018) 11 SCC 508 is locus classicus on the subject wherein it was held that
+landed costs cannot exclude transportation costs viz.:-
+
+"64. We fail to appreciate as to how these costs can be excluded, as the
+transportation costs to the project site have to be compensated to the
+appellant. It is not qualified by the methodology of transfer, i.e., railways
+or road. It is also a matter of necessity, since the railway siding had not
+reached the project site due to some complications in acquisition of land. It
+is really the transportation cost from point to point which would be involved
+and the mere mention in the RFP under project related activity/milestone about
+Railway siding and the Railway lines from nearby station to site cannot imply
+that the Railways is the only mode of transportation when the siding has not
+been made, albeit on account of land acquisition problems."
+
+8.16 We, therefore, hold that MSEDCL ought to pay Lohara coal cost as base
+(including transportation costs) while compensating Adani for the change in
+law events. This issue is decided accordingly and the Impugned Order on this
+issue is set aside.
+
+9\. Issue-3- Whether having allowed carrying cost, MERC was justified in
+pegging the carrying cost to the prevalent Multi Year Tariff ("MYT")
+Regulations?
+
+9.1 Learned senior counsel for APML has contended that carrying cost ought to
+be allowed at the same rate as provided for Late Payment Surcharge. It was
+submitted that carrying cost is payable as per the provisions of PPA to
+compensate the affected party for time value of funds deployed on account of
+change in law events. The LPS provision in the PPA is also meant for
+compensation towards time value of money on account of delayed payments.
+Therefore, the rate prescribed for LPS in Article 11.3.4 of the PPA (i.e. SBI
+PLR plus 2%) ought to be considered for the recovery of carrying cost. It has
+been contended that Adani cannot be restored to the same economic position, as
+it was prior to the cancellation of Lohara Coal Blocks, unless the rate of
+interest applicable for LPS is granted. It has been argued that, subsequent to
+passing of the Impugned Order, this Tribunal in  Page 57 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 Adani Rajasthan Judgment dated 14.09.2019
+(Appeal No 202 of 2018 & 305 of 2018) has allowed carrying cost at the rate of
+interest applicable for LPS.
+
+9.2 Per Contra, the learned counsel for MSEDCL has submitted that the basic
+principle of payment of carrying cost is to restitute the economic position
+and compensate the aggrieved party for parting with liquidity i.e., it is time
+value of money. The time value of money is derived by using appropriate rate
+of interest. Hence, carrying cost is not treated as penalty. It has been
+submitted that the decision and determination on the payment in compensation
+of change in law claims to APML at this stage is not due to fault of MSEDCL of
+non-payment of amounts, but it is on account of the approval by the State
+Commission on the change in law event. As per the provisions of Article 13 of
+the PPA the change in law event has to be approved by the State Commission for
+payment of change in law claims and there cannot be any payment without the
+determination by the State Commission. Hence, there is no default on part of
+MSEDCL in respect of approval of change in law event, so as to attract LPS
+mechanism. Therefore, the State Commission in impugned order has rightly
+considered the rate of interest for payment of carrying cost equivalent to the
+rate specified for interest on working capital in the MYT Regulations. It has
+been submitted by MSEDCL that Adani had in fact sought carrying cost at the
+rate prescribed in the MYT Regulations in its petition before the MERC.
+
+9.3 Learned counsel for MERC has submitted that while restoring the affected
+party to the same economic position in terms of principle of restitution, it
+is not expected to impose any penalty/punitive cost on other party when there
+is no default of other party. The Commission allowed carrying cost from the
+date of occurrence of change in law till approval of such change in law by the
+Commission for compensating APML towards working capital it has  Page 58 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 to arrange towards impact of change
+in law event. As PPA does not specify rate of interest to be allowed in such
+situation, the Commission has used interest rate of Working Capital stipulated
+in its MYT order. It was also submitted that rate of surcharge/delayed payment
+charges stipulated in PPA is always higher than rate of working capital as it
+has to compensate for cost of working capital during the period of delay plus
+some penal cost on defaulting party. In case rate of surcharge/delayed payment
+charges as claimed by APML is allowed, it will lead to penalising other party
+i.e. MSEDCL without any default of it. This would be against the principle of
+equity and may not be the intent of principle of restitution as envisaged in
+the PPA.
+
+Our Findings and Analysis 9.4 We have considered the submissions made by both
+the parties. The MERC has returned the following finding on this issue in the
+Impugned Order:
+
+"63. Further, in view of settled position of Law regarding carrying cost, the
+Commission allows APML to claim carrying cost from the date the Change in Law
+events affected it to the date of the present Order. Further the rate of
+interest for the payment of carrying cost shall be as specified for the
+interest on working capital in the MYT Regulations applicable to the relevant
+periods."
+
+9.5 It has been brought to our notice by MSEDCL that Adani itself had sought
+the carrying cost at the rate prescribed in the MYT Tariff Regulations in its
+Petition before MERC. Therefore, we see no reason to interfere with the
+Impugned Order on this issue since Adani cannot raise a claim contrary to what
+had been sought before MERC.
+
+10\. Issue 4- Whether MERC was justified in restricting the change in law
+relief to the difference between 100% assurance in New Coal Distribution
+Policy ("NCDP"), 2007 and 75% assurance under the SHAKTI Policy based on the
+Fuel Supply Agreement ("FSA") dated 29.03.2018 being signed under the SHAKTI
+Policy?
+
+Page 59 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 10.1 At the outset, it was
+clarified by all the parties that they agree that the detailed submissions are
+made in other batch of Appeals (A. Nos. 116, 155 and 182 of 2019) and the
+submissions and the findings in those appeals shall be adopted in this matter.
+
+10.2 Briefly put, MSEDCL contented that SHAKTI is a different and distinct
+policy from NCDP 2013 and therefore compensation for Change in Law be
+restricted to domestic coal shortfall upto trigger level of 75 % of the ACQ as
+per SHAKTI Scheme. It was also argued by MSEDCL that any shortfall in coal
+supply below 75 % of the ACQ is a contractual issue between Adani and the coal
+company and the compensation in that regard cannot be claimed from MSEDCL.
+
+10.3 Learned senior counsel appearing for APML made the following submissions
+for our consideration
+
+(a) Adani is entitled to Change in Law relief for the actual shortfall and
+until domestic coal shortfall continues. The issue involved in the present
+case is the determination of change in law relief due to cancellation of a
+captive coal block (i.e. Lohara Coal Blocks). Adani was assured by MoC of a
+fuel source corresponding to 800 MW portion of the installed capacity (i.e.
+1320 MW) of Tiroda TPS. As such, to restitute Adani to the same economic
+position as if no change in law event had occurred, MERC ought to have
+considered the entire coal required for 800 MW generation as shortfall since
+there is no coal supply from the assured Lohara Coal Blocks. Thus, change in
+law relief ought to continue until the change in law event continues. MERC
+wrongly considered that the restrictions specified in the NCDP, 2013 or SHAKTI
+Policy have relevance for captive coal blocks and erroneously restricted the
+change in law relief to 75% of ACQ as specified in SHAKTI Policy.
+
+Page 60 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(b) Coal procured under SHAKTI Policy qualifies as 'alternate coal'. The coal
+supply received under the FSA signed pursuant to SHAKTI Policy shall form part
+of alternate coal for the purpose of computing compensation. Change in Law has
+to be seen for changes in law with respect to 'Law' prevailing as on cut-off
+Date. Admittedly, as on cut-off date (14.02.2008), 800 MW portion of Adani's
+bid was premised on coal from Lohara Coal Blocks. Coal supply for 800 MW is
+not based on any FSA with Coal India Ltd. It was only due to non-availability
+of coal from the Lohara Coal Blocks that Adani was constrained to depend on
+the costlier alternate coal sources such as imported coal, e-auction coal and
+coal supply under SHAKTI FSA dated 29.03.2018. Adani could tie up alternate
+coal supply arrangement for 800 MW capacity under SHAKTI Policy by way of
+offering discount in quoted tariff. Such use of alternate coal led to increase
+in cost of supply of power to MSEDCL. Accordingly, Adani is entitled to
+compensation for the additional expenditure incurred towards arranging
+alternate coal sources in lieu of Lohara Coal blocks. Accordingly, the Change
+in Law compensation ought to consider the difference in the landed cost of
+SHAKTI coal ( as alternate coal) and the landed cost of Lohara coal so as to
+restitute Adani to the same economic position as if no change in law event had
+occurred.
+
+(c) Without prejudice to the above, even if coal allocation under SHAKTI
+Policy is considered relevant, MERC ought not to have restricted the change in
+law relief to the trigger level of ACQ specified in SHAKTI Policy (75%). Due
+to inadequate availability of domestic coal, GoI revised NCDP, 2007 and issued
+certain directions regarding inability of the state-owned coal companies to
+supply the assured quantity of coal to the power producers. Recognizing that
+due to shortfall in availability of coal, generating companies would be
+compelled to purchase coal  Page 61 of 84 Judgment of A.No.340 of 2019 & 354
+of 2010 from alternate sources and to avoid rendering the PPAs unviable, GoI
+itself agreed to compensate for any shortfall of domestic coal from NCDP, 2007
+(100% entitlement for normative coal requirement). This formed the basis of
+the binding/statutory decisions to compensate (pass through) for the higher
+costs reflected above. In this regard, reliance is placed on NCDP, 2007, MoP
+reference dated 09.05.2013 to CERC, CERC statutory advice dated 20.05.2013,
+CCEA decision dated 21.06.2013, NCDP 2013, MoP letter dated 31.07.2013 and
+Revised Tariff Policy dated 28.01.2016. On 11.04.2017, Hon'ble Supreme Court
+in Energy Watchdog Judgment has held MoP letter dated 31.7.2013 and Tariff
+Policy, 2016 as change in law events and allowed restitutive relief to
+generators on account of domestic coal shortfall faced due to actions of
+Indian Government Instrumentalities. The documents referred above are
+statutory and binding documents and explicitly provide for restituting the
+generator in an event of any coal shortfall in supply from Coal India Ltd.
+Hon'ble Supreme Court in Energy Watchdog Judgment has held that the purpose of
+compensating the party affected by Coal India Ltd., i.e., generator in the
+present case, is to "restore the affected party to the same economic position
+as if such change in law has not occurred". Therefore, compensation is not
+pegged at or limited to any particular ceiling but premised on 'actual'
+increase in cost of procurement of alternate coal. In fact, all the statutory
+documents also envisage pass through of actual additional cost. 'Actual
+incremental expenditure' for the actual shortfall in coal supply vis-à-vis the
+100% assurance under NCDP, 2007 cannot be restricted in view of the
+restitutive principle enshrined in the PPA, the statutory documents referred
+above and Paras 56 and 57 of the Energy Watchdog Judgment. The underlying
+principle enshrined in the Energy Watchdog Judgment is that any curtailment in
+coal supply from Coal  Page 62 of 84 Judgment of A.No.340 of 2019 & 354 of
+2010 India Ltd. or its subsidiaries due to changes in NCDP, 2007 entitles the
+generators to restitution.
+
+(d) On 22.05.2017, GoI through MoC notified the SHAKTI Policy. In terms of
+Energy Watchdog Judgment, the introduction of SHAKTI Policy by MoC, which is
+the continuation to the NCDP, 2013 Policy also qualifies as a change in law
+event vis-à-vis NCDP 2007 which was in place when Adani had submitted its bid.
+The shortfall in supply of coal is a continuous cause of action and the SHAKTI
+Policy acknowledges such shortfall and accordingly entitles pass through of
+higher costs incurred for coal procurement from alternate sources.
+
+(e) The mandate is to compensate the generator for the entire period, till the
+shortfall continues, and such compensation cannot be capped to any trigger
+levels has now been settled by this Tribunal in the Adani Rajasthan Judgment.
+
+(f) Contractual remedy under FSA will not restitute the generators to the same
+economic position. Since Adani had to rely on alternate sources for procuring
+coal, MSEDCL's contention regarding contractual dispute between Adani and fuel
+supplier ought to be rejected. Adani would have never relied on any fuel
+supplier, in case the captive coal mine i.e. Lohara Coal Blocks would have
+been available. Further, the statutory documents mentioned above and Energy
+Watchdog Judgment were delivered while the remedy available under the FSA was
+known, yet restitution was not restricted. This Tribunal in the Adani
+Rajasthan Judgment has already held that such contractual remedy is not
+appropriate.
+
+(g) Even otherwise, the contractual remedy is not efficacious since it is a
+token amount and not restitutive in nature. Such contractual remedy therefore
+falls short of fulfilling the mandate set-out by Supreme Court  Page 63 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 in the Uttar Haryana Judgment
+regarding grant of restitution as understood in civil law.
+
+Our Findings and Analysis 10.4 We have heard the parties at length. At the
+outset, we find merit in the submission made by Adani that MERC, being
+oblivious to the fact that restrictions specified in the NCDP, 2013 or SHAKTI
+Policy have no relevance for captive coal blocks, has erroneously restricted
+the change in law relief to 75% of ACQ as specified in SHAKTI Policy. The
+issue involved in the present case is the determination of Change in Law
+relief due to cancellation of a captive coal block (i.e. Lohara Coal Blocks).
+Adani was assured by MoC of a fuel source corresponding to 800 MW portion of
+the installed capacity (i.e. 1320 MW) of Tiroda TPS. As such, to restitute
+Adani to the same economic position as if no change in law event had occurred,
+MERC ought to have considered the entire coal required for 800 MW generation
+as shortfall since there is no coal supply from the assured Lohara Coal
+Blocks.
+
+10.5 We also agree with the contention that coal procured under SHAKTI Policy
+qualifies as 'alternate coal'. Adani could tie up alternate coal supply
+arrangement for 800 MW capacity under SHAKTI Policy by way of offering
+discount in quoted tariff. Such use of alternate coal is stated to have led to
+increase in cost of supply of power to MSEDCL and loss of revenue to Adani.
+Therefore, Adani is entitled to compensation for the additional expenditure
+incurred towards arranging fuel linkage in lieu of Lohara Coal blocks. In
+light of this, Change in Law compensation should be considered as the
+difference of the landed cost of SHAKTI coal under the FSA dated 29.03.2018
+(i.e. alternate coal) and the landed cost from Lohara coal blocks so as to
+restitute Adani to the same economic position as if no Change in Law event had
+occurred.
+
+Page 64 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 10.6 In any case, Change in Law
+compensation cannot be restricted to trigger value of ACQ stipulated in SHAKTI
+Policy as the said issue has been settled in the Adani Rajasthan Judgment. In
+the said judgment, this Tribunal also held that Contractual remedy under FSA
+will not restitute generators. The relevant findings in Adani Rajasthan
+Judgment are extracted as under.
+
+"12.1 ...RERC in the Impugned Order held that in the present case there is a
+Change in Law event and this has been upheld by us in the paragraphs above.
+RERC seems to have lost sight of the fact that impact of change in law must be
+computed, based on the difference between 100% domestic coal supply assured in
+NCDP 2007 vis-à-vis actual domestic coal supply, until the shortage of
+domestic coal exists...
+
+12.2 The fact that shortfall continues even after the execution of FSA would
+mean that the compensation to make up for this shortfall would need to
+continue until the shortfall exists.
+
+12.3 ...The introduction of SHAKTI Policy, being notified after the cut-off
+date by an Indian Governmental Instrumentality, i.e., the Ministry of Coal,
+itself constitutes a Change in Law in terms of Article 10 of the PPA. Coal
+supply under SHAKTI FSA needs to be compared against the 100% coal supply
+assured under the NCDP 2007 and if there continues to be a shortfall, the
+generator would need to be compensated for such shortfall through the Change
+in Law provisions.
+
+12.5 In the instant case, we have found in the previous paragraphs that Adani
+Rajasthan's bid was premised on domestic coal on the basis of the 100%
+domestic coal supply assurance contained in NCDP 2007. Since SHAKTI Policy and
+the FSA executed thereunder still do not meet the assurance of 100% supply of
+domestic coal to Adani Rajasthan, it would follow that Adani Rajasthan would
+need to be compensated for any shortfall in supply of domestic linkage coal
+even post grant of coal linkage under the SHAKTI Policy...
+
+12.6 Therefore, the application of above decision would mean that to the
+extent supply of domestic coal to Adani Rajasthan is cut down, the same needs
+to be compensated through the Change in Law mechanism provided in the PPA. For
+the aforesaid reasons, we hold that the RERC was not correct in limiting the
+relief to Adani Rajasthan till the grant of linkage coal under the SHAKTI
+Policy. The Impugned Order is set aside on this point and it is clarified that
+Adani Rajasthan shall be entitled to relief under Change in Law provision
+until there is a shortage in supply of domestic linkage coal, against the 100%
+supply assured under the NCDP 2007."
+
+10.7 The above findings of the Tribunal in Adani Rajasthan Judgment have been
+upheld by the Hon'ble Supreme Court in its order dated 31.08.2020 in Jaipur
+VidyutVitran Nigam v. Adani Power Rajasthan Limited and Anr. (Civil  Page 65
+of 84 Judgment of A.No.340 of 2019 & 354 of 2010 Appeal No. 8625-8626 of
+2019). The relevant paragraphs are extracted as under.
+
+"48. Shri C. AryamaSundaram argued that the FSA related approximately 61 per
+cent of the fuel requirement. Thus, the change in law claim may be confined to
+35 to 40 per cent. The argument cannot be accepted as bidding was not based on
+dual fuel, but was evaluated on domestic coal. There was no such stipulation
+that evaluation of bidding was done on domestic basis; the tariff was to be
+worked out in the aforesaid ratio of 60:40 per cent of imported coal and
+domestic coal respectively. Apart from that, we find from the order of the
+APTEL, that change in law provision would be limited to a shortfall in the
+supply of domestic linkage coal. The finding recorded by the APTEL is
+extracted hereunder:
+
+"12.5 In the instant case, we have found in the previousparagraphs that Adani
+Rajasthan's bid was premised on domestic coal on the basis of the 100%
+domestic coal supply assurance contained in NCDP 2007. Since SHAKTI Policy and
+the FSA executed thereunder still do not meet the assurance of 100% supply of
+domestic coal to Adani Rajasthan, it would follow that Adani Rajasthan would
+need to be compensated for any shortfall in supply of domestic linkage coal
+even post grant of coal linkage under the SHAKTI Policy. Rajasthan Discoms
+have not disputed that the introduction of SHAKTI Policy constitutes a Change
+in Law under the PPA. Their contention is that any shortfall of coal under the
+SHAKTI FSA by the coal companies is a contractual matter to be sorted out
+between Adani Rajasthan and the coal companies. We are not persuaded by this
+argument for the reason that we have already held in GMR Kamalanga case that
+the contractual conditions or limitations were not present in NCDP 2007 at the
+time of bid submission by Adani Rajasthan. This contention of Rajasthan
+Discoms is also against the principle laid down in Energy Watchdog judgment.
+The SHAKTI Policy continues the earlier coal supply restriction to 75% of ACQ.
+If actual supply of domestic linkage coal under the SHAKTI FSA is higher, it
+goes without saying that the generator's relief or compensation under the
+Change in Law provisions would be limited to the actual shortfall in supply of
+domestic linkage coal. We also note that there is no rational basis to assume
+that the supply under the SHAKTI FSAs would be higher or better than that
+under the pre SHAKTI FSAs.
+
+12.6 The Supreme Court in Energy Watchdog judgment has already concluded as
+follows:
+
+> "57. ...... This being so, it is clear that so far as the procurement of
+> Indian coal is concerned, to the extent that the supply from Coal India and
+> other Indian sources is cut down, the PPA read with these documents provides
+> in Clause 13.2 that while determining the consequences of change in law,
+> parties shall have due regard to the principle that the purpose of
+> compensating the party affected by such change in law is to restore, through
+> monthly tariff payments, the affected party to the economic position as if
+> such change in law has not occurred......" (emphasis supplied)
+
+49\. It was clarified that APRL would be entitled to relief under the change
+in law provision to the extent of shortage in supply in domestic linkage coal.
+Thus, we find no merit in the submission raised. We find the findings of the
+APTEL to be reasonable, proper, and unexceptional."
+
+Page 66 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 10.8 It is noted that the Hon'ble
+Supreme Court has not interfered with this Tribunal's finding that the change
+in law compensation is not to be restricted to the ACQ trigger levels
+specified in the SHAKTI Policy. 10.9 Having noted the aforesaid findings of
+the Hon'ble Supreme Court, we direct that the findings and directions in
+Appeal No. 116 of 2019 & batch will apply to the present case since these
+issues are common in the two sets of appeals and the parties have also sought
+the same reliefs.
+
+11\. Issue-5- Whether MERC was justified in linking NCDP 2007 with allotment
+of the Lohara Coal Blocks?
+
+11.1 Although this issue was not specifically pressed by MSEDCL, MSEDCL
+contended that MERC erred in linking NCDP, 2007 with the allocation of the
+Lohara Coal Blocks since Adani's application to MoC for allotment of coal
+blocks was made prior to coming into force of NCDP.
+
+11.2 Per contra, APML has contended that such a contention is bereft of an
+understanding with respect to the difference between statutory provisions and
+policy decisions regarding coal allotment and distribution. As on the date of
+allocation of Lohara Coal Blocks to Adani i.e. 06.11.2007, while Section
+3(3)(a)(iii) of Coal Mines (Nationalization) Act, 1973 was the 'statutory
+basis' to allocate mining lease areas for coal mining to the power generators,
+NCDP, 2007 was the 'policy' governing the coal distribution. Learned senior
+counsel for APML submitted that as on the date of Adani's application to MoC
+for allotment of the Lohara Coal Blocks i.e. on 10.01.2007, the statutory
+provision governing the allotment of mining lease areas for coal mining to the
+power generators was Section 3(3)(a)(iii) of Coal Mines (Nationalization) Act,
+1973. Pertinently, MoC while allocating the Lohara Coal Blocks to Adani on
+06.11.2007 referred to the said provision. However, as on the date of
+allocation of the Lohara Coal Blocks to Adani (06.11.2007), the policy
+decision of the GoI with respect to the coal  Page 67 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 distribution in the country i.e.NCDP, 2007 was
+already notified on 18.10.2007 and had the force of law. Evidently, NCDP, 2007
+prescribed for application of the provisions therein to all previous and
+future commitments with respect to power projects made by MoC with respect to
+the coal requirements of the power projects.
+
+11.3 Since this issue was not pressed during the hearing, we do not find it
+necessary to return a finding on this issue.
+
+12\. Issue-6- Whether deallocation of the Lohara Coal Blocks was a foreseeable
+risk for Adani and whether the same has any implication on change in law
+relief entitlement of Adani?
+
+12.1 Learned counsel for MSEDCL contended that the fuel was the sole
+responsibility of Adani in terms of Clause 2.1.1 of the RFP. It was APML which
+applied specifically for the Lohara Coal Blocks. This was despite being aware
+of the fact that the same mining lease area was previously cancelled in 1999
+due to tiger movements in the area. MSEDCL also contended that MERC faulted in
+duly appreciating the issue qua red-herring prospectus with its date of
+issuance and not with Adani's declaration and affirmation of the knowledge and
+awareness of the risk of de-allocation of the Lohara Coal Blocks.
+
+12.2 Per contra, Learned senior counsel for APLML submitted the following for
+our consideration
+
+(a) De-allocation of Lohara Coal Blocks was not a foreseeable risk and
+qualifies as a supervening impediment beyond Adani's control. Further, the
+responsibility of Adani to arrange fuel cannot be construed as absolute and
+inflexible. On 20.02.2008, Adani submitted its bid. Adani proceeded based on
+Scenario 1 and indicated Lohara Coal Blocks for supplying part of its
+contracted capacity to MSEDCL (800 MW out of 1320 MW). Adani  Page 68 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 submitted MoC's allocation letter
+dated 06.11.2007 as a 'comfort letter' in compliance with the Clause 2.1.5 of
+the RFQ. Accordingly, Lohara Coal Blocks became inherent to Adani's bid.
+
+(b) Both parties recognized that when fuel is not from a linkage route, it is
+not possible to have any binding contract with the fuel supplier, and that a
+'comfort letter' will suffice for the purposes of qualifying to make a bid.
+Further, under Clause 2.1.1 of the RFP, the obligation on Adani was to ensure
+"tie-up" of linkage fuel. Execution of the Fuel Supply Agreement ("FSA") was a
+condition subsequent. Once it is established that the execution of the FSA is
+a condition subsequent, it is clear that the same is not a risk that was
+assumed at the time of the bid and execution of the PPA. Coal is a controlled
+/ nationalized commodity and the availability of the same depends on several
+factors, which are beyond the control of the bidder/ generating company.
+
+(c) The reasons for de-allocation of Lohara Coal Blocks is not attributable to
+Adani. While withdrawing ToR, in its 59th meeting Report, EAC clearly recorded
+that at the time of granting of the ToR, EAC was not aware of the projects
+being within the proposed buffer zone of the TATR. However, pursuant to
+further study of the area and also subsequent to the grant of ToR, it was
+understood that the tiger corridor was a part of the proposed mining lease
+areas. The MoEF and MoC must work in tandem to identify go and no-go areas
+while considering allotment of coal blocks in the country so that such
+problems are not encountered in the future.
+
+(d) The submission of MSEDCL regarding the red herring prospectus is erroneous
+and is in disregard to the specific observations of the Remand Order. An
+identical submission was raised by Prayas (Energy) Group before this Tribunal
+during the proceedings in Appeal No. 241 of 2016. In the Remand Order, this
+Tribunal had specifically observed that the red- herring prospectus, being a
+standard document, has no relevance so far as  Page 69 of 84 Judgment of
+A.No.340 of 2019 & 354 of 2010 the imputability of knowledge on Adani
+regarding cancellation of Lohara Coal Blocks was concerned.
+
+(e) Since MERC was adjudicating the issues in a remand proceeding, it was
+bound by the specific observations and directions of APTEL in view of the
+mandate envisaged under Order XL Rule 23A read with Order XL Rule 25 of the
+Code of Civil Procedure, 1908. It is a settled position of law that in a case
+of 'limited remand', the remanded court (i.e. MERC) ought to act upon the
+strict directions of the remand order. Reliance in this regard was placed on
+the judgment of this Tribunal dated 11.04.2018 titled Gujarat UrjaVikas Nigam
+Ltd. vs. Gujarat Electricity Regulatory Commissionand Others, 2018 SCC OnLine
+APTEL 7.
+
+(f) In view of the aforesaid, it was argued that MSEDCL's reference to the
+red- herring prospectus as a ground to seek setting aside of the Impugned
+Order is a mere delay tactics to withhold the legitimate entitlement of Adani.
+In any case, red-herring prospectus itself was issued after the cut-off date.
+
+Our Findings and Analysis 12.3 We are of the view that foreseeability of any
+event on the part of the affected party is not at all relevant for
+determination of whether certain actions of Governmental Instrumentalities
+constitute Change in Law in terms of the PPA and the reliefs allowed therefor.
+In any case, neither can Adani be imputed with the knowledge of de-allocation
+of Lohara Coal Blocks nor can it be denied change in law relief on this count.
+
+12.4 In our view it was not under the reasonable control of Adani to foresee
+the mining lease area being declared as a Buffer Zone to the TATR rendering
+the Lohara Coal Blocks a 'no-go' area. Substantive evidence to this effect is
+the volte face between the initial proposal dated 07.03.2008 and that of
+08.10.2008 submitted by the Conservator, TATR declaring the surrounding  Page
+70 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 area to the TATR as a
+Buffer Zone to the TATR. In the 1st proposal of the Conservator, TATR dated
+07.03.2008, the mining lease area forming Lohara Coal Blocks was clear of any
+impediment. Suddenly, in its 2nd proposal dated 08.10.2008, the Conservator,
+TATR submitted a proposal whereby the Buffer Zone was to include Lohara Coal
+Blocks.
+
+12.5 As already observed above, we note that all statutory actions qua
+identifying and creating a Buffer Zone were initiated only after the cut-off
+date. Clearly cancellation of the primary fuel source (Lohara Coal Block)
+could not be avoided, nor its impact on the bid price be overcome by Adani. As
+on the cut-off date, neither the MoEF nor MoC raised any objections towards
+Adani's proposal regarding using the Lohara Coal Blocks as part of its fuel
+source for generating and supplying power to MSEDCL. As a matter of fact, the
+allocation was made by MoC only on 06.11.2007. As such, as on the cut-off
+date, Adani cannot be held to have reasonably anticipated that the mining
+lease area had chances of being declared as a Buffer Zone to the TATR.
+
+12.6 Withdrawing ToR, in its 59th meeting report on 25.11.2008 read with
+07.01.2009, EAC clearly recorded that at the time of granting the ToR, EAC was
+not aware of the projects being within the proposed buffer zone of the TATR.
+Pursuant to further study of the area and subsequent to the grant of ToR, it
+was understood that the Tiger corridor was a part of the proposed mining lease
+areas. In fact, MoEF and MoCshould have worked in tandem to identify go and
+no-go areas while considering allotment of coal blocks in the country so that
+such problems are not encountered in the future.
+
+12.7 Admittedly, the cancellation of the Lohara Coal Blocks was on account of
+MoEF's and MoC's failure to identify the overall ecological impacts of the
+Page 71 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 mining activity in
+the area, prior to MoEF giving a go-ahead for such mining.
+
+12.8 We hold that de-allocation of Lohara Coal Blocks is not attributable to
+any default on the part of Adani. As already demonstrated, MoC in its
+allocation letter dated 06.11.2007, enumerated three grounds under which
+Lohara Coal Blocks may be de-allocated without any liability of the government
+instrumentalities. The de-allocation of the Lohara Coal Blocks was not made on
+any of the three conditions enumerated therein. Lohara Coal Blocks were de-
+allocated in view of the area being declared as a Buffer Zone to TATR. Adani
+could not have prevented or mitigated the impact of such government policy or
+decision by taking any other measures except pursuing the relevant government
+departments to allot an alternate coal block. Adani made several efforts in
+order to mitigate the impact of impediment by approaching MoC, MoP, MoEF, CEA
+etc. insisting for allocation of alternate coal blocks. However, none of the
+government instrumentalities could successfully allocate alternative coal
+block to Adani.
+
+12.9 Evidently, Adani has suffered the consequences of acts, omissions and
+commissions of GoIand its agencies in not correctly identifying that the
+Lohara Coal Blocks fall within the wildlife protected Buffer Zone to the TATR.
+The post facto realization of mistake by MoEF and reversal of decisions taken
+by the Government Instrumentality qualify as change in law events. Adani could
+not have anticipated that acts and omissions of MoEF and its agencies would
+render mining in the allotted coal blocks legally impossible (a position
+distinct from that as on cut-off date).
+
+12.10 As such, Adani argued that MoEF itself which had granted the ToR to
+Adani on 16.05.2008 (based on EAC's recommendation), subsequently, withdrew
+the ToR (on 07.01.2010) based on substantially altered facts  Page 72 of 84
+Judgment of A.No.340 of 2019 & 354 of 2010 surrounding the mining lease area
+after the cut-off date. Accordingly, the cancellation of the Lohara Coal
+Blocks was on account of MoEF's and MoC's failure to identify the overall
+ecological impact of the mining activity in the area, prior to MoEFgiving a
+go-ahead for such mining. We are in agreement with this submission.
+
+12.11 We, therefore, hold that a generator's rights and obligations under the
+PPA cannot be thwarted based on omissions on part of Government
+Instrumentalities. This is in conformity with the settled position of law that
+a party cannot be penalized for not being able to carry out an 'impossible'
+act (here coal mining in view of proposed Buffer Zone to TATR). Even this
+Tribunal in the Remand Judgment observed that MoEF and MoC must work in tandem
+to avoid such situation, of subsequent de-allocation of Coal Blocks due to
+failure of identification of overall ecological impact of mining activity in
+the area by MoEF and MoC. The fact that there is no default on part of Adani
+is also evident as MoC returned the bank guarantee to Adani.
+
+12.12 This issue is decided accordingly.
+
+13\. Issue-7- Whether MERC adopted the correct methodology regarding Station
+Heat Rate ("SHR") and Gross Calorific Value ("GCV") in the Impugned Order
+while computing the change in law relief allowed to Adani? Whether such
+methodology is in lines of the principle of restitution?
+
+13.1 At the outset, it is clarified that both parties had agreed that the
+detailed submissions made in other batch of Appeals (A. Nos. 116 of 2019 and
+batch), shall be adopted in this matter so far as the issues of SHR and GCV is
+concerned.
+
+Page 73 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 13.2 Briefly put, both MSEDCL and
+Prayas contended that SHR and GCV ought to be considered as per bid parameters
+while computing Change in Law compensation. Learned counsel for MSEDCL relied
+on the Judgment of this Tribunal in Appeal No. 210 of 2017 to argue that the
+configuration and technical parameters of a generating station are decided by
+the bidders and are their commercial decisions which are disclosed during bid
+submissions. It was submitted that Adani cannot argue that SHR reflected in
+bid was only indicative and that change in law compensation should be based on
+actual SHR.
+
+13.3 Learned counsel for Prayas submitted that, for computation of coal as
+submitted with the bid, Adani had reflected SHR and GCV figures with respect
+to coal which was to be mined from the Lohara coal blocks. It was contended
+that while on one hand Adani is claiming that Lohara coal cost which was based
+on bid assumptions should be considered as base for compensating Adani, on the
+other hand, SHR and GCV which were clearly reflected in the bid are being
+claimed as merely indicative in nature. Such contradictory stand ought not to
+be entertained.
+
+13.4 Per contra, Learned senior counsel for APML submitted the following for
+our consideration
+
+(a) SHR cannot be considered as per bid parameters while computing change in
+law compensation. Further, MERC also erred in considering the 'middle value of
+the GCV range' of the assured coal grade in the LoA/FSA/MoU, instead of the
+actual GCV calculated on 'as received' basis.
+
+(b) The Impugned Order records that the net SHR as submitted by Adani in its
+bid must be considered while computing the change in law compensation. This
+approach is not in line with the extant law and deserves reversal since  Page
+74 of 84 Judgment of A.No.340 of 2019 & 354 of 2010 linking SHR to bid
+parameters while computing change in law reliefs does not conform to the
+mandate of restitution.
+
+(c) In Case-1 bidding, unlike Case-2 bid projects, only Fixed Charges and
+Variable Charges are biddable parameters and SHR, GCV and Auxiliary
+Consumption are not biddable parameters. Further, Adani did not submit its bid
+based on net SHR. Therefore, MERC has grossly erred in considering SHR as a
+bid parameter. MERC in its Order dated 07.03.2018 in JSW vs. MSEDCL in Case
+No. 123 of 2017 held that auxiliary energy consumption shall be considered as
+per MYT Regulations or actuals whichever is lower for computing Change in Law
+reliefs since the auxiliary energy consumption considered in competitive
+bidding is not known. Therefore, a similar treatment ought to have been given
+to SHR which is also an operating parameter like auxiliary energy consumption.
+
+(d) It is a settled position of law that the bid parameters cannot be
+considered to compute change in law reliefs since the same does not fulfil the
+requirement of restituting the affected party. In this regard, reliance is
+placed on the judgments of the Tribunal in Adani Rajasthan Judgment, Wardha
+Power judgment and Sasan Judgment.
+
+(e) The SHR or GCV mentioned in the bid as part of the qualifying requirements
+of the RFP has little/no relevance for the determination of change in law
+compensation payable to Adani. SHR submitted as part of the qualifying
+requirement in the bid is estimated prior to award of EPC contract for the
+project and varies from actual SHR. In the present case, Adani's project was
+significantly impacted due to de-allocation of Lohara Coal Blocks. Quality of
+coal as envisaged by Adani in the bid was altered since Adani had to procure
+coal from alternate sources. Therefore, such bid parameters cannot be
+considered to determine change in law compensation. The SHR mentioned in
+Adani's bid to MSEDCL was for the limited purpose of establishing the coal
+requirement. Submission of coal  Page 75 of 84 Judgment of A.No.340 of 2019 &
+354 of 2010 quantities from different sources (which is part of the qualifying
+requirements) cannot be arbitrarily elevated to a bid parameter contrary to
+the express terms of the Bidding Guidelines, RfP and the terms of the PPA and
+then used to deny the entitlement of Adani to receive compensation for Change
+in Law in terms of the PPA. The Supreme Court in the Energy Watchdog Judgment
+has not found this as limiting or constraining the right of the generator to
+obtain relief for change in law at para 42 where it was observed that the fact
+that the fuel supply agreement has to be appended to the PPA is only to
+indicate that the raw material for the working of the plant is there and is in
+order.
+
+(f) Further, Ministry of Power, on 08.03.2019, by way of an Office Memorandum,
+has directed Normative SHR to be considered for the purpose of deriving Annual
+Contracted Quantity ("ACQ").
+
+(g) MSEDCL's contention regarding inefficiency in maintaining operating
+parameters by Adani has no relevance. In fact, MSEDCL's concern that Adani
+should not be allowed to pass on its plant inefficiencies as part of any
+change in law relief is fully addressed in the relief sought by Adani, i.e.,
+coal quantity for change in law relief should be computed on the basis of
+actual SHR or, that prescribed under the MERC MYT Regulations, 2011 for the
+corresponding Unit capacity, whichever is lower. By taking the lower of the
+two values, it will be ensured that no inefficiency will be passed on to
+MSEDCL or the consumers.
+
+(h) Therefore, for computing the compensation for change in law events, MERC
+ought to have considered the normative SHR as per the MYT Regulations,
+2011/2015 or actual SHR, whichever is lower.
+
+(i) The consideration of GCV of coal on the basis of 'middle value of the GCV
+range' of the assured coal grade, instead of the actual GCV calculated on 'as
+received' basis is erroneous. The said methodology subjects Adani to a
+notional GCV, which is higher than the actual GCV. Consideration of  Page 76
+of 84 Judgment of A.No.340 of 2019 & 354 of 2010 'middle value of the GCV
+range' of the assured coal grade results in non- recovery of the actual
+additional expenditure incurred by Adani on account of change in law events.
+As such, the said methodology is contrary to Article 13.2 of the PPA which
+envisages that the entire additional expenditure incurred on account of change
+in law must be allowed as a pass through.
+
+(j) Coal India Ltd. notifies the grades on equilibrated basis calculated at 5%
+moisture, 60% humidity and at temperature of 400 C. In other words, these are
+based on Air Dried Basis ("ADB") which are basically laboratory conditions and
+would not exist under normal operating conditions. Since coal received at
+plant and the coal fired in the boiler are at different conditions than the
+laboratory conditions, heat loss on account of moisture has to be taken into
+account while computing the compensation under restitutionary principle
+envisaged in Article 13.2 of the PPA. It is a settled position that
+measurement of GCV of coal must be on 'as received' basis only.
+
+(k) MERC MYT Regulations, 2015 not only provides for 'as received' GCV but
+also includes adjustment for maximum stacking loss by way of deducting 150
+kcal/kg from GCV 'as received'. MERC vide order dated 08.02.2013 in Case No.
+77 of 2012 and order dated 18.06.2012 in Case No. 06 of 2012 while approving
+truing up of fuel cost, even recommended allowance of stacking loss at 150
+kcal/kwh.
+
+(l) In this regard, reliance is also placed on the judgement of Hon'ble
+Supreme Court in case of Nabha Power Limited vs. PSPCL (2018) 11 SCC 508
+wherein it has been held that the GCV of the coal must be taken as at the
+project site.Further, in Wardha Power Judgment, this Tribunal considered
+similar PPA provisions regarding change in law and held that it is not correct
+to consider the GCV of coal mentioned in the bidding documents while computing
+change in law reliefs.
+
+Page 77 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010
+
+(m)On 17.10.2017, Central Electricity Authority acknowledged that there is a
+loss of GCV from point of "as received" to the point of "as fired" inside a
+power plant. CEA agreed that a margin of 85-100 kCal/kg for a pit head station
+and a margin of 105-120 kCal/kg for a non-pit head station may be considered
+as a loss of GCV measured at wagon top till the point of firing of coal in
+boiler. CERC in the Tariff Regulations 2019 has not only considered that the
+GCV is to be considered on as received basis but in addition allowed reduction
+of 85 kCal/kg towards stacking loss.
+
+(n) Accordingly, the actual GCV of coal should be considered based on reputed
+third-party coal sampling agency's certificates for computation of relief
+under Change in Law in order to restore Adani to same economic condition as if
+no Change in Law had occurred.
+
+Our Findings and Analysis 13.5 We note that so far as the contention that SHR
+cannot be considered as per bid parameters while computing Change in Law
+compensation, this is now a 'covered issue' by virtue of the Wardha Power
+Judgment, Adani Rajasthan Judgment and Sasan Judgment.
+
+13.6 This Tribunal in its judgment dated 12.09.2014 in Wardha Power Co. Ltd.
+
+vs. Reliance Infrastructure &Ors. in Appeal No. 288 of 2013 [reported as 2014
+SCC Online 142] considered a similar PPA and held as under: -
+
+> "25. For example, if the tax on cost of coal has been increased from 5% to
+> 8%, then for computing the impact of Change in Law, only the increase in the
+> actual expenditure of Seller due to increase in tax from 5% to 8% has to be
+> considered. This is because if the tax had not increased, the Seller would
+> have paid tax of 5% on the actual cost of coal. With the Change in Law, the
+> Seller has now to pay 8% on the actual cost of coal. Therefore, to restore
+> the Seller to the same economic position as if such Change in Law has not
+> occurred, the Seller has to be compensated for additional tax of 3% on the
+> actual cost of coal. However, the Seller will have to submit proof regarding
+> payment of tax on coal."
+
+Page 78 of 84
+
+> Judgment of A.No.340 of 2019 & 354 of 2010
+
+> 26\. The price bid given by the Seller for fixed and variable charges both
+> escalable and non-escalable is based on the Appellant's perception of risks
+> and estimates of expenditure at the time of submitting the bid. The energy
+> charge as quoted in the bid may not match with the actual energy charge
+> corresponding to the actual landed price of fuel. The seller in its bid has
+> also not quoted the price of coal. Therefore, it is not correct to co-relate
+> the compensation on account of Change in Law due to change in cess/excise
+> duty on coal, to the coal price computed from the quoted energy charges in
+> the Financial bid and the heat rate and Gross Calorific value of Coal given
+> in the bidding documents by the bidder for the purpose of establishing the
+> coal requirement. The coal price so calculated will not be equal to the
+> actual price of coal and therefore, compensation for Change in Law computed
+> on such price of coal will not restore the economic position of the Seller
+> to the same level as if such Change in Law has not occurred."
+
+13.7 This Tribunal in the Adani Rajasthan Judgment held that the operating
+parameters should be considered as per applicable Tariff Regulations on
+account of change in law events. The relevant finding is extracted as under.
+
+> "14.2 Rajasthan Discoms are directed to pay the amount of Change in Law
+> compensation, as approved herein, along with applicable Carrying Cost by
+> duly verifying the relevant supporting documents for fuel cost and as per
+> applicable Tariff Regulations for operating parameters. Since Adani
+> Rajasthan has already incurred the costs in procuring alternate coal and
+> supplying power to the Rajasthan Discoms using such coal, equity requires
+> that the compensation payments for the period up to the date of this order
+> be made expeditiously."
+
+13.8 The said position of law has been reaffirmed in this Tribunal's judgment
+dated 13.11.2019 in Sasan Power Limited vs. CERC &Ors. Appeal No. 77 of 2016
+as under.
+
+> "18.13.4 In view of the facts, as stated supra, we are of the opinion that
+> while compensation of various levies on coal cannot be linked to the
+> dispatched quantity, we do not see merit in the Central Commission's view
+> that the compensation should be restricted to bid auxiliary consumption (at
+> 6%). It is also noticed that the Central Commission has in subsequent orders
+> taken a position that compensation for Change in Law events cannot be
+> restricted to bid parameters.
+
+> 18.13.5 Having decided that the change in law compensation shall be based on
+> the quantum of coal consumed as opposed to coal dispatched, we hold that for
+> determination of coal consumption for scheduled generation, the auxiliary
+> consumption should be based on actual. However, to adequately protect the
+> interest of the consumers/procurers, the auxiliary consumption shall be
+> capped to the applicable normative levels contained in the CERC Tariff
+> Regulations, 2009. Hence, this issue, i.e. Issue (C) is partially decided in
+> favour of the Appellant.
+
+Page 79 of 84
+
+> Judgment of A.No.340 of 2019 & 354 of 2010 19.8.2 Having regard to the
+> contentions of the Appellant and the Respondents and after critical analysis
+> of the issue, we are of the opinion that while we have held that
+> compensation of various levies cannot be linked to the dispatched quantity
+> of coal, the compensation should not be restricted to bid SHR. It is also
+> relevant to note that the Central Commission has in subsequent orders taken
+> a position that compensation for Change in Law events cannot be restricted
+> to bid parameters.
+
+> 19.8.3 In light of the above, we are of the opinion that for determination
+> of coal consumption for scheduled generation, SHR should be based on the
+> actual instead of bid SHR.However, to adequately protect the interest of the
+> procurers and consumers at large, the SHR is required to be capped to the
+> applicable normative levels contained in the CERC Tariff Regulations, 2009.
+> Hence, this issue, i.e. Issue (D) is partially decided in favour of the
+> Appellant.
+
+> 22.10.6 It is also relevant to note from another Order of the Central
+> Commission dated 15.11.2018 in Petition No. 88/MP/2018 in the case of GMR
+> Warora Energy Limited vs. MSEDCL &Anr., wherein CERC has observed that SHR
+> given in the bid is under test conditions and may vary from actual SHR.
+> Therefore, it would only be correct to take the SHR specified in the
+> Regulations as a reference point instead of other parameters, given that the
+> SHR as per the bidding document cannot be considered for deciding the coal
+> requirement for the purpose of calculating the relief under Change in law.
+
+> 22.10.7 In the light of above, we are of the opinion that the technical
+> parameters such as SHR and GCV quoted in the bidding documents cannot be
+> considered for deciding the coal requirement for the purpose of calculating
+> relief under Change in Law. Accordingly, we hold that the Central Commission
+> has analyzed this issue in detail and passed the impugned Order in a
+> judicious manner. Hence, any interference by this Tribunal is not called
+> for."
+
+13.9 So far as the issue of GCV issue is concerned, it now settled by our
+judgment in Wardha Power case and by the Hon'ble Supreme Court that
+measurement of GCV of coal must be on 'as received' basis only. We must note
+that we are also mindful of the MYT Regulations, 2015 which not only provides
+for 'as received' GCV but also includes adjustment for maximum stacking loss
+by way of deducting 150 kcal/kg from GCV 'as received'. Judgment in Nabha
+Power Limited vs. PSPCL (2018) 11 SCC 508 is locus classicus on this issue and
+we are bound to follow the said judgment. Relevant extract of the judgment in
+Nabha Power is quoted here-
+
+"17. The second dispute relates to the GCV of the coal, and is in a sense,
+linked to the first dispute. This is so as the PSPCL takes into account the
+theoretical/Equilibrated  Page 80 of 84 Judgment of A.No.340 of 2019 & 354 of
+2010 GCV 2 ('EGCV') of unwashed coal at the mine-end rather than GCV of washed
+coal on an As Received Basis ('ARB') at the project-end as part of PCVn in the
+Energy Charges formula. The GCV of the coal is stated to change significantly
+due to transportation by rail over a period of 4 to 5 days, as coal contains
+moisture. The critical stage is stated to be the measure of GCV when the
+project coal reached the site (from the mine-end in Chhattisgarh to the
+project-site at Rajpura) when it is stated to be jointly sampled, tested and
+recorded by NPL and PSPCL. This is stated to be obvious from the definition of
+PCVn. The joint sampling done at the mines of SECL is only of unwashed coal.
+
+66\. Now turning to the other aspect of the GCV of the coal. If the issue is
+one of SECL billing for higher Calorific Value while actually supplying a low
+Calorific Value of coal, that would be a matter between the appellant and the
+SECL and the first respondent cannot be blamed for the same. That does not
+take away from the application of the formula for energy charge which provides
+for PCVn as the weighted average Gross Calorific Value delivered to the
+project. This Calorific Value of coal would have to be, thus, on the same
+parameter determined at the project site.
+
+69\. We are, thus, of the view that the reading of the energy formula leads to
+only one conclusion that all costs of coal up to the point of the project site
+have to be included and the Calorific Value of the coal has to be taken as at
+the project-site."
+
+13.1 Further, in light of the commonality of the parties and almost identical
+submissions made by the parties on the issue of SHR submitted in the bid and
+use of mid-range of GCV, we direct that the findings of this Tribunal in
+Appeal No 116 of 2019 & batch will govern and apply to the present appeals, as
+agreed by the parties.
+
+13.2 In view of the above, Appeal No. 340 of 2019 filed by MSEDCL is liable to
+be dismissed. Appeal No. 354 of 2019 filed by APML deserves to be allowed on
+all issues except on the issue of carrying cost. The Impugned Order deserves
+to be affirmed on the issues of Re-allocation of Coal block as Change in Law &
+Carrying Cost and to be set aside on the issues allowed in Appeal No. 354 of
+2019, as above.
+
+14\. Summary of Findings:-
+
+> In view of the issue-wise deliberations and findings stated in the above
+> paras, we sum up our findings as under:-
+
+Page 81 of 84
+
+> Judgment of A.No.340 of 2019 & 354 of 2010 14.1 Issue No.1:-We hold that the
+> Appellant was affected by change in law on account of the de-allocation of
+> Lohara Coal Blocks. Accordingly,the impugned order is upheld on this issue.
+
+14.2 Issue No.2:-We hold that the Appellant is entitled to be paid Lohara Coal
+cost including transportation cost as base while computing the compensations
+for the change in law events. The issue is decided in favour of the Appellant.
+
+14.3 Issue No.3:- As the Appellant itself had sought the carrying cost at the
+rate prescribed in the MYT Tariff Regulations in its petition before the State
+Commission, we see no reason to interfere with the impugned order on this
+issue. Hence, the Appellant cannot raise its claim contrary to what has been
+sought before the State Commission. The issue is decided against the
+Appellant.
+
+14.4 Issue No.4:-In line with our judgment dated 28.9.2020 in A.No.116 of 2019
+& batch, we hold that findings in the impugned order relating to the issue of
+restricting the quantum of shortfall in domestic coal to a maximum of 25% are
+against the principles of restitution under the change in law provisions of
+the PPA. The issue is decided in favour of the Appellant.
+
+14.5 Issue No.5:- Since this issue was not pressed during the proceedings, we
+do not find it necessary to return a finding on this issue. No decision
+required.
+
+14.6 Issue No.6:- We hold that the Appellant's rights and obligation in the
+PPA cannot be thwarted based on omissions on part of Government
+instrumentalities and hence, the de-allocation of the Lohara Coal blocks was
+not a foreseeable risk for the Appellant. The issue is decided in favour of
+the Appellant.
+
+Page 82 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 14.7 Issue No.7:- In line with our
+judgment dated 28.9.2020 in A.No.116 of 2019 & batch, we hold that the change
+in law compensation shall be calculated based on the SHR specified in the MERC
+MYT Regulations, 2011 or the actual SHR whichever is lower and actual GCV of
+coal as received at the plant site.The issue is decided in favour of the
+Appellant.
+
+Page 83 of 84
+
+Judgment of A.No.340 of 2019 & 354 of 2010 ORDER In light of the above, we are
+of the considered view that the issues raised in Appeal No.340 of 2019 are
+devoid of merits and hence, the Appeal is rejected. The Appeal No.354 of 2019
+is allowed on all the issues except on the issue of carrying cost.
+
+The impugned order dated 06.09.2019 passed by the Maharashtra Electricity
+Regulatory Commission in Case No. 68 of 2012 is upheld on the issues of de-
+allocation of coal blocks as Change in Law & Carrying Cost and is set aside on
+the issues allowed in Appeal No.354 of 2019, as per our above findings in Para
+Nos. 14.1 to 14.7.
+
+In view of the disposal of the Batch of Appeals, the relief sought in the IA
+No.1749 of 2019 in Appeal No. 340 of 2019 does not survive for consideration
+and accordingly, stands disposed of.
+
+No order as to costs.
+
+Pronounced in the Virtual Court on this 05th day of October, 2020.
+
+    
+    
+              (S.D. Dubey)                      (Justice Manjula Chellur)
+           Technical Member                               Chairperson
+    
+         REPORTABLE / NON-REPORTABLE
+    pr
+    
+    
+    
+    
+                                       Page 84 of 84
+     
+

@@ -1,0 +1,1578 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Lg Electronics India Pvt. Ltd., ... vs Acit, Noida on 14 January, 2019
+
+    
+    
+                                        1
+    
+    
+       IN THE INCOME TAX APPELLATE TRIBUNAL, DELHI 'I-2' BENCH,
+                             NEW DELHI
+    
+          BEFORE SHRI N.K. BILLAIYA, ACCOUNTANT MEMBER, AND
+               MS. SUCHITRA KAMBLE, JUDICIAL MEMBER
+    
+                            ITA No. 6253/DEL/2012
+                                 [A.Y 2008-09]
+    
+    L.G. Electronics India Pvt. Ltd          Vs.             The Asstt. C.I.T
+    A-27, Mohan Co-operative Industrial                      Circle - 3
+      Estate, Mathura Road                                    Noida [U.P]
+    New Delhi
+    
+    PAN : AAACL 1745 Q
+    
+      [Appellant]                                             [Respondent]
+    
+                     Date of Hearing                :   13.12.2018
+                     Date of Pronouncement         :    14.01.2019
+    
+    
+                          Assessee by :      Shri Ajay Vohra, Sr. Adv
+                                             Shri Neeraj Jain, Adv
+                                             Shri Ramit Katyal, Adv
+    
+                          Revenue by    :    Shri H.K. Choudhary, CIT-DR
+                                             Smt. Namita Ramdev, CIT-DR
+    
+    
+                                     ORDER
+    
+
+PER N.K. BILLAIYA, ACCOUNTANT MEMBER, This appeal by the assessee is directed
+against the order dated 27.11.2012 framed u/s 143(3) r.w.s 144C of the Income-
+tax Act, 1961 [hereinafter referred to as 'the Act'] pertaining to A.Y
+2008-09.  2
+
+2\. The assessee has raised as many as 12 grounds of appeal. Ground Nos. 1 and
+2 are of general in nature and need no separate adjudication.
+
+3\. Ground Nos. 3 to 3.34 relate to Transfer Pricing adjustment of Rs.
+2,64,96,14,750/-/- on account of advertisement, marketing and sales promotion
+expenses [AMP]
+
+4\. Briefly stated, the facts of the case are that the assessee is a Private
+Ltd. Company, engaged in trading, manufacturing, marketing and sale of
+electronics, home appliances and I.T. products. For the year under
+consideration, assessee has disclosed total sales of Rs. 69,52,69,05,000/-.
+The assessee has also disclosed 'Other Income' of Rs. 2,03,43,86,000/-. Net
+profit was at Rs. 3,51,82,77,000/-. The assessee has claimed exempted income
+of Rs. 20,33,38,565/- u/s 10B of the Act and deduction of Rs. 44,50,635/- u/s
+80JJAA of the Act.
+
+5\. The assessee had made international transactions with Associated
+Enterprises [AEs], namely :
+
+3
+
+    
+    
+         (i)     Arcelik-LG Klima San Ve Tic A.S., Turkey
+         (ii)    Hitachi LG Data Storage INC, Japan.
+         (iii)   LG Alina Electronics, Russia.
+         (iv)    LG Chem Ltd, Korea
+         (v)     LG CNS INC, Korea, etc
+    
+    
+    
+    6.   Accordingly,      a   reference   was   made   to   the   TPO   for
+    
+    determining the ALP of international transactions.             The TPO
+    
+    
+
+proposed to make an adjustment of Rs. 3,20,72,55,985/-. Based on the TPO's
+recommendation, draft assessment was passed on 30.12.2011 wherein the
+assessment was completed making an adjustment of Rs. 4,53,15,20,469/-. The
+assessee approached the DRP. The DRP passed order u/s 144C(5) of the Act and
+pursuant to the directions of the DRP, assessment order was framed.
+
+7\. Coming to the grounds of appeal Nos. 3 to 3.34, during the course of T.P.
+proceedings, it came to the notice of the officer that the assessee has
+incurred advertisement and AMP expenses aggregating to Rs.6,89,60,79,670/- for
+the purpose of its business. The Transfer Pricing Officer undertook
+benchmarking analysis of AMP expenses incurred by the assessee applying bright
+line test by comparing ratio of AMP expenses to sale of the assessee with that
+of the comparable  4 companies and holding that any expenditure in excess of
+the bright line was for promotion of the brand/trade name owned by the AE,
+which needed to be suitably compensated by the AE. By applying bright line
+test, the TPO compared AMP expenditure incurred by the assessee as percentage
+of total turnover at 8.01% with average AMP expenditure of 4.93% of the
+following comparable companies:
+
+    
+    
+             Sl. Name of the comparable companies                AMP/
+             No.                                                 Sales
+              1. Home Solutions Retails (India) Ltd.              7.67%
+              2.    Vivek Ltd                                     3.79%
+              3.    Infiniti Retail Ltd.                          7.90%
+              4.    Allied Photographic India Ltd                 0.38%
+                    Average                                      4.93%
+    
+    
+    
+    
+
+8\. The TPO observed that since AMP expenses incurred by the assessee as
+percentage of sales was more than similar percentage for comparable companies,
+the assessee had incurred such AMP expenditure on brand promotion and
+development of marketing intangibles for the AE. The TPO further added a mark-
+up of 15%, which was subsequently reduced to 12.5% by the DRP and,
+accordingly, adjustment of Rs. 2,64,96,17,750/- was made, which was computed
+as under:
+
+5
+
+    
+    
+              Computation of TP adjustment                     Rs.
+    
+              Value of sales                                8605,67,65,713
+    
+              AMP / Sales of the comparables                         4.93%
+    
+              Arms Length Price (as per Bright Line)         424,25,98,549
+    
+              Expenditure on AMP by the appellant            689,60,79,670
+    
+              Expenditure in excess of bright line           265,34,81,121
+    
+              Mark-up at 12.5% on excessive AMP as            33,16,85,139
+              per DRP direction
+    
+              Reimbursement that appellant should
+                                                             298,51,66,260
+              have received.
+    
+              Reimbursement that appellant has                33,55,48,510
+              received.
+    
+              Adjustment to assessee's income              264,96,17,750
+    
+    
+    
+    
+
+9\. Before us, the ld. AR has vehemently stated that the TPO has proceeded by
+inferring the expenses of international transaction by applying BLT by drawing
+support from the judgment of the Special Bench of the Tribunal in the case of
+assessee in ITA No. 5140/DEL/2011.
+
+10\. At the outset, we have to state that the Hon'ble High Court of Delhi in
+the case of Sony Ericsson Mobile Communications India Pvt Ltd  6 vs CIT 374
+ITR 118 has discarded the BLT. The Hon'ble High Court, at para 120 held as
+under:
+
+> "120. Notwithstanding the above position, the argument of the Revenue goes
+> beyond adequate and fair compensation and the ratio of the majority decision
+> mandates that in each case where an Indian subsidiary of a foreign AE incurs
+> AMP expenditure should be subjected to the bright line test on the basis of
+> comparables mentioned in paragraph 17.4. Any excess expenditure beyond the
+> bright line should be regarded as a separate international transaction of
+> brand building. Such a broad-brush universal approach is unwarranted and
+> would amount to judicial legislation. During the course of arguments, it was
+> accepted by the Revenue that the TPOs/Assessing Officers have universally
+> applied bright line test to decipher and compute value of international
+> transaction and thereafter applied Cost Plus Method or Cost Method to
+> compute the arm's length price. The said approach is not mandated and
+> stipulated in the Act or the Rules. The list of parameters for ascertaining
+> the comparables for applying bright line test in paragraph 17.4 and,
+> thereafter, the assertion in paragraph 17.6 that comparison can be only made
+> by choosing comparable of domestic cases not using any foreign brand, is
+> contrary to the Rules. It amounts to writing and prescribing a mandatory
+> procedure or test which is not stipulated in the Act or the Rules. This is
+> beyond what the statute in Chapter X postulates. Rules also do not so
+> stipulate."
+
+7
+
+> 11\. Respectfully following the judgment of the Hon'ble High Court of Delhi
+> [supra], we hold that BLT has no mandate under the Act and accordingly, the
+> same cannot be resorted to for the purpose of ascertaining if there exists
+> an international transaction of brand promotion services between the
+> assessee and the AE.
+
+12\. In our considered opinion, while dealing with the issue of bench marking
+of AMP expenses, the Revenue needs to establish the existence of international
+transaction before undertaking bench marking of AMP expenses and such
+transaction cannot be inferred merely on the basis of BLT. For this
+proposition, we draw support from the judgment of the Hon'ble Delhi High Court
+in the case of Maruti Suzuki India Ltd 381 ITR 117.
+
+13\. In this case, the Hon'ble High Court held that existence of an
+international transaction needs to be established de hors the Bright Line
+Test. The relevant finding of the Hon'ble High Court reads as under:
+
+> "43. Secondly, the cases which were disposed of by the judgment, i.e. of the
+> three Assessees Canon, Reebok and Sony Ericsson were all of distributors of
+> products manufactured by foreign AEs. The  8 said Assessees were themselves
+> not manufacturers. In any event, none of them appeared to have questioned
+> the existence of an international transaction involving the concerned
+> foreign AE. It was also not disputed that the said international transaction
+> of incurring of AMP expenses could be made subject matter of transfer
+> pricing adjustment in terms of Section 92 of the Act.
+
+44\. However, in the present appeals, the very existence of an international
+transaction is in issue. The specific case of MSIL is that the Revenue has
+failed to show the existence of any agreement, understanding or arrangement
+between MSIL and SMC regarding the AMP spend of MSIL. It is pointed out that
+the BLT has been applied to the AMP spend by MSIL to (a) deduce the existence
+of an international transaction involving SMC and (b) to make a quantitative
+'adjustment' to the ALP to the extent that the expenditure exceeds the
+expenditure by comparable entities. It is submitted that with the decision in
+Sony Ericsson having disapproved of BLT as a legitimate means of determining
+the ALP of an international transaction involving AMP expenses, the very basis
+of the Revenue's case is negated.
+
+XXX
+
+51\. The result of the above discussion is that in the considered view of the
+Court the Revenue has failed to demonstrate the existence of an international
+transaction only on account of the quantum of AMP expenditure by MSIL.
+Secondly, the Court is of the view that the decision in Sony Ericsson holding
+that there is an international transaction as a result of the AMP expenses
+cannot  9 be held to have answered the issue as far as the present Assessee
+MSIL is concerned since finding in Sony Ericsson to the above effect is in the
+context of those Assessees whose cases have been disposed of by that judgment
+and who did not dispute the existence of an international transaction
+regarding AMP expenses.
+
+XXX
+
+60\. As far as clause (a) is concerned, SMC is a non-resident. It has, since
+2002, a substantial share holding in MSIL and can, therefore, be construed to
+be a non-resident AE of MSIL. While it does have a number of 'transactions'
+with MSIL on the issue of licensing of IPRs, supply of raw materials, etc. the
+question remains whether it has any 'transaction' concerning the AMP
+expenditure. That brings us to clauses (b) and (c). They cannot be read
+disjunctively. Even if resort is had to the residuary part of clause (b) to
+contend that the AMP spend of MSIL is "any other transaction having a bearing"
+on its "profits, incomes or losses", for a 'transaction' there has to be two
+parties. Therefore for the purposes of the 'means' part of clause (b) and the
+'includes' part of clause (c), the Revenue has to show that there exists an
+'agreement' or 'arrangement' or 'understanding' between MSIL and SMC whereby
+MSIL is obliged to spend excessively on AMP in order to promote the brand of
+SMC. As far as the legislative intent is concerned, it is seen that certain
+transactions listed in the Explanation under clauses (i) (a) to (e) to Section
+92B are described as 'international transaction'. This might be only an
+illustrative list, but significantly it does not list AMP spending as one such
+transaction.
+
+10
+
+61\. The submission of the Revenue in this regard is: "The mere fact that the
+service or benefit has been provided by one party to the other would by itself
+constitute a transaction irrespective of whether the consideration for the
+same has been paid or remains payable or there is a mutual agreement to not
+charge any compensation for the service or benefit." Even if the word
+'transaction' is given its widest connotation, and need not involve any
+transfer of money or a written agreement as suggested by the Revenue, and even
+if resort is had to Section 92F (v) which defines 'transaction' to include
+'arrangement', 'understanding' or 'action in concert', 'whether formal or in
+writing', it is still incumbent on the Revenue to show the existence of an
+'understanding' or an 'arrangement' or 'action in concert' between MSIL and
+SMC as regards AMP spend for brand promotion. In other words, for both the
+'means' part and the 'includes' part of Section 92B (1) what has to be
+definitely shown is the existence of transaction whereby MSIL has been obliged
+to incur AMP of a certain level for SMC for the purposes of promoting the
+brand of SMC.
+
+XXX
+
+68....................In other words, it emphasises that where the price is
+something other than what would be paid or charged by one entity from another
+in uncontrolled situations then that would be the ALP. The Court does not see
+this as a machinery provision particularly in light of the fact that the BLT
+has been expressly negatived by the Court in Sony Ericsson. Therefore, the
+existence of an international transaction will have to be established de hors
+the BLT."
+
+11
+
+14\. In the light of the aforesaid finding of the Hon'ble High Court, before
+embarking upon a benchmarking analysis, the Revenue needs to demonstrate on
+the basis of tangible material or evidence that there exists an international
+transaction between the assessee and the AE. Needless to mention, that the
+existence of such a transaction cannot be a matter of inference.
+
+15\. The Hon'ble Delhi High Court in case of Whirlpool of India Ltd vs DCIT
+381 ITR 154 has held that there should be some tangible evidence on record to
+demonstrate that there exists an international transaction in relation with
+incurring of AMP expenses for development of brand owned by the AE. In our
+considered opinion, in the absence of such demonstration, there is no question
+of undertaking any benchmarking of AMP expenses. The relevant findings of the
+Hon'ble High Court in the case of Whirlpool of India Ltd [supra] read as
+under:
+
+> "32. Under Sections 92B to 92F, the pre-requisite for commencing the TP
+> exercise is to show the existence of an international transaction. The next
+> step is to determine the price of such transaction. The third step would be
+> to determine the ALP by applying one of the five price discovery methods
+> specified in Section 92C. The fourth step would be to compare the price of
+> the transaction that is shown to exist with that of the ALP  12 and make the
+> TP adjustment by substituting the ALP for the contract price.
+
+> XXX
+
+34\. The TP adjustment is not expected to be made by deducing from the
+difference between the 'excessive' AMP expenditure incurred by the Assessee
+and the AMP expenditure of a comparable entity that an international
+transaction exists and then proceed to make the adjustment of the difference
+in order to determine the value of such AMP expenditure incurred for the AE.
+
+35\. It is for the above reason that the BLT has been rejected as a valid
+method for either determining the existence of international transaction or
+for the determination of ALP of such transaction. Although, under Section 92B
+read with Section 92F (v), an international transaction could include an
+arrangement, understanding or action in concert, this cannot be a matter of
+inference. There has to be some tangible evidence on record to show that two
+parties have "acted in concert".
+
+XXX
+
+37\. The provisions under Chapter X do envisage a 'separate entity concept'.
+In other words, there cannot be a presumption that in the present case since
+WOIL is a subsidiary of Whirlpool USA, all the activities of WOIL are in fact
+dictated by Whirlpool USA. Merely because Whirlpool USA has a financial
+interest, it cannot be presumed that AMP expense incurred by the WOIL are at
+the instance or on behalf of Whirlpool USA. There is merit in the contention
+of the Assessee that the initial onus is on the Revenue to demonstrate through
+some tangible material that the two parties acted in concert and further that
+there  13 was an agreement to enter into an international transaction
+concerning AMP expenses.
+
+XXX
+
+39\. It is in this context that it is submitted, and rightly, by the Assessee
+that there must be a machinery provision in the Act to bring an international
+transaction involving AMP expense under the tax radar. In the absence of any
+clear statutory provision giving guidance as to how the existence of an
+international transaction involving AMP expense, in the absence of an express
+agreement in that behalf, should be ascertained and further how the ALP of
+such a transaction should be ascertained, it cannot be left entirely to
+surmises and conjectures of the TPO.
+
+XXX
+
+47\. For the aforementioned reasons, the Court is of the view that as far as
+the present appeals are concerned, the Revenue has been unable to demonstrate
+by some tangible material that there is an international transaction involving
+AMP expenses between WOIL and Whirlpool USA. In the absence of that first
+step, the question of determining the ALP of such a transaction does not
+arise. In any event, in the absence of a machinery provision it would be
+hazardous for any TPO to proceed to determine the ALP of such a transaction
+since BLT has been negatived by this Court as a valid method of determining
+the existence of an international transaction and thereafter its ALP."
+
+16\. The case of the Revenue is that Indian subsidiary incurred certain
+expenses for the promotion of brands in India and for development of the
+Indian market and the creation of marketing intangibles in India which remain
+the functions of the parent company  14 which is the entrepreneur. The brands
+are owned by the parent company. The Indian subsidiary only acts on behalf of
+the parent company. The Revenue alleges that eventual beneficiary of the acts
+of the Indian subsidiary is the parent company. Any benefit that may accrue to
+the Indian subsidiary is at best incidental to the entire exercise. This
+action of the Indian subsidiary amounts to rendering of a service to its
+foreign AE for which arm's length compensation was payable by foreign AE to
+its Indian subsidiary.
+
+17\. It is the say of the ld. DR that the functions carried out by the
+assessee are in the nature of development, enhancement, maintenance,
+protection and exploitation of the relevant intangibles and thus, the assessee
+deserves compensation.
+
+18\. The case of the ld. DR is that the act of incurring of AMP expenses by
+the assessee is not a unilateral act and is an international transaction for
+following reasons:-
+
+> i) Though, the AMP expenditure may be for the purpose of business of the
+> assessee but it is in performance of function of market development for the
+> brands and products of the AE that enhances the value of the marketing
+> intangibles owned by the  15 foreign AE, and hence there is a transaction of
+> rendering of service of market development to the AE.
+
+> ii) The short term benefit of the transaction accrues both to assessee and
+> AE in terms of higher sales but long term benefit accrues only to the AE.
+
+iii) The benefit to the AE is not incidental but significant. Once, it is
+established that the act of incurring of AMP expenditure is not a unilateral
+act of the assessee; the AE needs to compensate the assessee for AMP expenses.
+
+iv) It is a fact that brands are valuable and even loss making enterprises
+having no real assets are purchased for substantial value for their brand and
+marketing intangibles.
+
+v) The issue is not that of transfer of marketing intangibles to AE as the
+brands and marketing intangibles are already owned by the AE. The issue is
+that of addition in the value of marketing intangibles owned by the AE owing
+to the services of development of brand and markets by the assessee for the AE
+16 and that of compensation for rendering these services not provided
+unilaterally by the assessee.
+
+19\. We do not find any force in the aforesaid contentions of the ld. DR. As
+mentioned elsewhere, the Revenue needs to establish on the basis of some
+tangible material or evidence that there exists an international transaction
+of provisions of brand building service between the assessee and the AE. We
+find support from the decision of the Hon'ble Delhi High Court in the case of
+Honda Seil Power Products Ltd vs DCIT ITA No 346/2015.
+
+20\. The Hon'ble Delhi Court in its recent decision in the case of CIT vs Mary
+Kay Cosmetic Pvt Ltd (ITA No.1010/2018), too, dismissed the Revenue's appeal,
+following the law laid down in its earlier decision (supra) and held as under:
+
+> "We have examined the assessment order and do not find any good ground and
+> reason given therein to treat advertisement and sales promotion expenses as
+> a separate and independent international transaction and not to regard and
+> treat the said activity as a function performed by the respondent-assessee,
+> who was engaged in marketing and distribution. Further, while segregating /
+> debundling  17 and treating advertisement and sales promotion as an
+> independent and separate international transaction, the assessing officer
+> did not apportion the operating profit/ income as declared and accepted in
+> respect of the international transactions."
+
+> 21\. In our understanding of the facts and law, mere agreement or
+> arrangement for allowing use of their brand name by the AE on products does
+> not lead to an inference that there is an "action in concert" or the parties
+> were acting together to incur higher expenditure on AMP in order to render a
+> service of brand building. Such inference would be in the realm of
+> assumption/surmise. In our considered opinion, for assumption of
+> jurisdiction u/s 92 of the Act, the condition precedent is an international
+> transaction has to exist in the first place. The TPO is not permitted to
+> embark upon the bench marking analysis of allocating AMP expenses as
+> attributed to the AE without there being an 'agreement' or 'arrangement' for
+> incurring such AMP expenses.
+
+22\. The aforesaid view that existence of an international transaction is a
+sine qua non for invoking the transfer pricing provisions contained in Chapter
+X of the Act, can be further supported by analysis of  18 section 92(1) of the
+Act, which seeks to benchmark income / expenditure arising from an
+international transaction, having regard to the arm's length price. The income
+/ expenditure must arise qua an international transaction, meaning thereby
+that the (i) income has accrued to the Indian tax payer under an international
+transaction entered into with an associated enterprise; or (ii) expenditure
+payable by the Indian enterprise has accrued / arisen under an international
+transaction with the foreign AE. The scheme of Chapter X of the Act is not to
+benchmark transactions between the Indian enterprise and unrelated third
+parties in India, where there is no income arising to the Indian enterprise
+from the foreign payee or there is no payment of expense by the Indian
+enterprise to the associated enterprise. Conversely, transfer pricing
+provisions enshrined in Chapter X of the Act do not seek to benchmark
+transactions between two Indian enterprises.
+
+23\. The Revenue further contends that the assessee is not an independent
+manufacturer but is manufacturing for the benefit of the group entities and
+his status is akin to that of a contract manufacturer. Hence AMP activity is
+not for the sole benefit of the assessee but for the group as a whole.
+
+19
+
+24\. It is the say of the ld. DR that pricing regulations are to applied
+keeping in mind the overall scheme of the tax payer's business arrangement.
+The contention of the ld. DR can be summarized as under:
+
+> a) The assessee being part of a group is not completely independent in its
+> pricing policies including price of raw material purchased from AE, payments
+> in respect of copyrights and patents payable to the AE. Even their product
+> pricing is not completely independent. Linder such circumstances, the
+> benefits emanating from the AMP function cannot be enjoyed by the assessee
+> alone. The assessee is not an independent manufacturer who takes all the
+> risks and enjoys all the benefits of the functions performed by them.
+
+> > b) The assessee is not engaged only in manufacture. It is also engaged in
+> distribution of goods by its own admission. In fact, the assessee has a dual
+> function of manufacturer and distributor. In any case, given its
+> distribution function, the assessee is covered by the judgement of Hon'ble
+> Delhi High Court in M/s Sony Ericsson.
+
+20
+
+> > c) The benefits to the AE from AMP function continue to be the same as in
+> the case of distributor like increase in sale of raw material, components
+> and spare parts, increase in dividend, and increase in copyright and patent
+> payments apart from creation/enhancement of Brand value. Therefore, the
+> argument advanced by the assessee would not have any bearing on the
+> existence of 'international transaction' just because it is engaged in
+> manufacture has not merit.
+
+> 25\. Considering the aforesaid contention of the Revenue, we are of the
+> considered view that the Hon'ble High Court in the case of Maruti Suzuki
+> India Ltd [supra] held that the findings of the Hon'ble High Court with
+> regard to existence of international transaction was only with respect to
+> the case of three limited risk distributors namely, Sony Ericsson, Canon and
+> Reebok etc., wherein the existence of international transaction was admitted
+> and not in dispute. The Court accordingly held that such findings in the
+> case of Sony Ericsson cannot be applied to the case of the manufacturers.
+
+21
+
+26\. The Hon'ble High Court held as under:
+
+> "43. Secondly, the cases which were disposed of by the Sony Ericsson
+> judgment, i.e. of the three Assessees Canon, Reebok and Sony Ericsson were
+> all of distributors of products manufactured by foreign AEs. The said
+> Assessees were themselves not manufacturers. In any event, none of them
+> appeared to have questioned the existence of an international transaction
+> involving the concerned foreign AE. It was also not disputed that the said
+> international transaction of incurring of AMP expenses could be made subject
+> matter of transfer pricing adjustment in terms of Section 92 of the Act.
+
+> XXX
+
+> 45\. Since none of the above issues that arise in the present appeals were
+> contested by the Assessees who appeals were decided in the Sony Ericsson
+> case, it cannot be said that the decision in Sony Ericsson, to the extent it
+> affirms the existence of an international transaction on account of the
+> incurring of the AMP expenses, decided that issue in the appeals of MSIL as
+> well."
+
+27\. At this stage, it would not be out of place to refer to para 6.38 of the
+OECD Transfer Pricing Guidelines which apply only to limited risk distributors
+and not to full risk manufacturers like the assessee. The said para from OECD
+TP Guidelines read as under:
+
+22
+
+"6.38 Where the distributor actually bears the cost of its marketing
+activities (i.e. there is no arrangement for the owner to reimburse the
+expenditures), the issue is the extent to which the distributor is able to
+share in the potential benefits from those activities. In general, in arm's
+length transactions the ability of a party that is not the legal owner of a
+marketing intangible to obtain the future benefits of marketing activities
+that increase the value of that intangible will depend principally on the
+substance of the rights of that party. For example, a distributor may have the
+ability to obtain benefits from its investments in developing the value of a
+trademark from its turnover and market share where it has a long-term contract
+of sole distribution rights for the trademarked product. In such cases, the
+distributor's share of benefits should be determined based on what an
+independent distributor would obtain in comparable circumstances. In some
+cases, a distributor may bear extraordinary marketing expenditures beyond what
+an independent distributor with similar rights might incur for the benefit of
+its own distribution activities. An independent distributor in such a case
+might obtain an additional return from the owner of the trademark, perhaps
+through a decrease in the purchase price of the product or a reduction in
+royalty rate."
+
+23
+
+28\. The Hon'ble High Court in the case of Sony Ericsson Mobile Communications
+India Pvt Ltd (supra) has further held that no transfer pricing adjustment in
+respect of AMP expenses can be made where the assessee (Indian entity) has
+economic ownership of the brand/logo/trademark in question, in the case of
+long term right of use of the same. This principle also squarely covers the
+present case. The assessee has a long term agreement for the use of the
+trademark 'LG' in India. This clearly evidences the fact that the economic
+benefit arising out of the alleged promotion of the AE's logo is being enjoyed
+by the assessee. There is a clear opportunity and reasonable anticipation for
+the assessee to benefit from the marketing activities undertaken by it. This
+is clearly evidenced by the significantly higher profits made by assessee
+compared to its industry peers and also the very sizeable year on year
+increase in its turnover. In view of the aforesaid, it is respectfully
+submitted that the economic ownership of the trademark 'LG' rests with the
+assessee. The Hon'ble High Court in the case of Sony Ericsson Mobile
+Communications India Pvt Ltd (supra) disagreed with the finding of the Special
+Bench that the concept of economic ownership is not recognized under the Act.
+The relevant observations in paras 151 to 154 of the judgement are reproduced
+hereunder:
+
+24
+
+"151. Economic ownership of a trade name or trade mark is accepted in
+international taxation as one of the components or aspects for determining
+transfer pricing. Economic ownership would only arise in cases of long-term
+contracts and where there is no negative stipulation denying economic
+ownership. Economic ownership when pleaded can be accepted if it is proved by
+the assessed. The burden is on the assessed. It cannot be assumed. It would
+affect and have consequences, when there is transfer or termination of
+economic ownership of the brand or trademark.
+
+152\. Determination whether the arrangement is long-term with economic
+ownership or short-term should be ordinarily based upon the conditions
+existing at the start of the arrangement and not whether the contract is
+subsequently renewed. However, it is open to the party, i.e. the assessed, to
+place evidence including affirmation from the brand owner AE that at the start
+of the arrangement it was accepted and agreed that the contract would be
+renewed.
+
+153\. Economic ownership of a brand is an intangible asset, just as legal
+ownership. Undifferentiated, economic ownership brand valuation is not done
+from moment to moment but would be mandated and required if the assessed is
+deprived, denied or transfers economic ownership. This can happen upon
+termination of the distribution-cum-marketing agreement or when economic
+ownership gets transferred to a third party. Transfer Pricing  25 valuation,
+therefore, would be mandated at that time. The international transaction could
+then be made a subject matter of transfer pricing and subjected to tax.
+
+154\. Brand or trademark value is paid for, in case of sale of the brand or
+otherwise by way of merger or acquisition with third parties. .... ..... .....
+
+Re-organisation, sale and transfer of a brand as a result of merger and
+acquisition or sale is not directly a subject matter of these appeals. As
+noted above, in a given case where the Indian AE claims economic ownership of
+the brand and is deprived or transfers the said economic ownership,
+consequences would flow and it may require transfer pricing assessment."
+(emphasis supplied)
+
+29\. As held by the Hon'ble Delhi High Court in the case of Sony Ericsson
+Mobile Communications (supra), if the Indian entity is the economic owner of
+the brand and is incurring AMP expenses for the purpose of promotion of such
+brand, benefit is only received by the Indian entity. It wa submitted that the
+economic ownership of the brand rests with the assessee and accordingly, the
+assessee cannot be expected to seek compensation for the expenditure incurred
+on the asset economically owned by it. No Transfer Pricing adjustment on
+account of AMP expenses would be warranted. The aforesaid test is fully
+satisfied in the case of the assessee and the Transfer Pricing  26 adjustment
+on account of AMP expenses made by the TPO is liable to be deleted.
+
+30\. The assessee being a full-fledged manufacturer, entire AMP expenditure is
+incurred at its own discretion and for its own benefit for sale of LG products
+in India. In the case of the appellant, the advertisements are aimed at
+promoting the sales of the product sold under trademark 'LG' manufactured by
+the assessee and not towards promoting the brand name of the AE. In such
+circumstances, the alleged excess AMP expenditure does not result in an
+international transaction and the assessee cannot be expected to seek
+compensation for such expenses unilaterally incurred by it from the AE.
+
+31\. The Revenue has strongly objected for the aggregated bench marking
+analysis for the AMP. According to the Revenue, the assessee company has not
+been able to demonstrate that there is any logic or rationale for aggregation
+or that the transactions of advertisement expenditure and the other
+transactions in the distribution activity are inter-dependent, the clubbing of
+transactions cannot be allowed. According to the Revenue, bench marking of AMP
+transaction is to be  27 carried out using segregated approach and for
+determination of ALP of such transactions, Bright Line is used as the tool.
+
+32\. This contention of the Revenue is no more good as BLT has been discarded
+by the Hon'ble High Court of Delhi as mentioned elsewhere. The Hon'ble High
+Court of Delhi in the case of Sony Ericsson Mobile Communications India Pvt
+Ltd in Tax Appeal NO. 16 of 2014 has held that if the Indian entity has
+satisfied Transactional Net Margin Method (TNMM), i.e., as long as the
+operating margins of the Indian enterprise are higher than the operating
+margins of comparable companies, no further separate compensation for AMP
+expenses is warranted. The Hon'ble Court held as under:
+
+> "101. However, once the Assessing Officer/TPO accepts and adopts TNM Method,
+> but then chooses to treat a particular expenditure like AMP as a separate
+> international transaction without bifurcation/segregation, it would as
+> noticed above, lead to unusual and incongruous results as AMP expenses is
+> the cost or expense and is not diverse. It is factored in the net profit of
+> the inter- linked transaction. This would be also in consonance with Rule
+> 10B(1)(e), which mandates only arriving at the net profit margin by
+> comparing the profits and loss account of the tested party with the
+> comparable. The TNM Method proceeds on the assumption that  28 functions,
+> assets and risk being broadly similar and once suitable adjustments have
+> been made, all things get taken into account and stand reconciled when
+> computing the net profit margin. Once the comparables pass the functional
+> analysis test and adjustments have been made, then the profit margin as
+> declared when matches with the comparables would result in affirmation of
+> the transfer price as the arm's length price. Then to make a comparison of a
+> horizontal item without segregation would be impermissible."
+
+33\. Considering the aforementioned findings of the Hon'ble Jurisdictional
+High Court of Delhi In the case in hand, the operating profit margin of the
+assessee is at 5.01% in the manufacturing segment and 4.52% in the
+distribution segment and the same is higher than that of the comparable
+companies at 4.04% in the manufacturing segment and 4.46% in the distribution
+segment. TNMM has undisputedly been satisfied. Since the operating margins of
+the assessee are in excess of the selected comparable companies, no adjustment
+on account of AMP expenses is warranted.
+
+34\. Considering the facts of the case in hand in totality, we are of the view
+that the Revenue has failed to demonstrate by bringing tangible material
+evidence on record to show that an international  29 transaction does exist so
+far as AMP expenditure is concerned. Therefore, we hold that the incurring of
+expenditure in question does not give rise to any international transaction as
+per judicial discussion hereinabove and without prejudice to these findings,
+since the operating margins of the assessee are in excess of the selected
+comparable companies, no adjustment is warranted. Ground Nos. 3 to 3.34 of the
+assessee are allowed.
+
+35\. Ground Nos. 4 to 4.4 relate to Transfer Pricing adjustment on account of
+international transaction of payment of royalty of Rs.34,30,08,092/-.
+
+36\. On examination of agreement submitted, the TPO noted that the assessee
+company used to pay 1% royalty to LGEK till 1.1.2003 which was then increased
+to 3% and was subsequently increased to 5% of both domestic and export sales
+w.e.f. 01.01.2004. The TPO observed that rate of royalty payment have been
+unilaterally increased from 1% to 5% within a span of three years without
+commensuration enhancement in the right and benefit of the assessee company.
+The assessee company bench marked this transaction by applying Comparable
+Uncontrolled  30 Price [CUP] method and selected the following comparables for
+the purpose of bench marking analysis:
+
+Duration Name of Name of Royalty of the Foreign Date of Items of Royalty
+Rates-
+
+    
+    
+                      Indian                                         Rates -                    agreeme
+    Collaborato                    approval    Manufacture                        Export
+                     Company                                        Domestic                        nt
+         r
+                                                                                                 (Years)
+    
+    Toshiba          Videocon       Sep-99    Colour                      4%              3%           7
+    Corporation      Internation              Television
+    Japan            al Limited               Receivers
+    
+    Hitachi          Volta          Nov-99    Steam         fired         5%              5%           5
+    Limited          Limited                  vapour
+    
+    Eatco            Blue Star       Jan-03   Invicts    PAC              5%              5%           5
+    Williams         Limited                  usage of Air
+    Group                                     Conditioning
+    
+    Kenwood          Videocon        Mar-99   Television                  5%              5%           5
+    Design           Internation
+    Corporation      al Limited
+    
+    Samsung          Videocon        Mar-99   Showcase      of            5%              5%           5
+    Electronics      Appliances               Reach-in-type
+    Co. Limited      Limited                  and open type
+                                              reach-in-cooler
+                                              and        open
+                                              freezer
+    
+    Victor           Mirc            Apr-03   Colour                      5%              5%           7
+    Company of       Electronics              Television
+    Japan            Limited                  Receiver    Set
+                                              and        Sub-
+                                              assemblies
+    
+    SRS       Labs   Salora          Apr-03   Speaker                     5%                           3
+    Inc              Internation
+                     al Limited
+    
+    Vilter           Frick India     Jan-03   Refrigeration               5%              8%           5
+    Manufacturi      limited                  Compressors
+    ng
+    Corporation
+                                        31
+    
+    
+    
+
+37\. Out of the aforesaid 8 comparables, DRP/TPO considered only 3 comparables
+engaged in manufacture of colour television, viz., Toshiba Corporation, Japan,
+Kenwood Design Corporation and Victor Company of Japan and disregarded the
+remaining 5 comparables. Accordingly, the TPO arrived at average royalty rate
+of 4.50%. The DRP/TPO further made an adhoc adjustment of 1% from the average
+rate of royalty of 3 comparables of 4.5%, allegedly on the ground that the
+royalty agreement of the assessee is in perpetuity, while the agreement of the
+comparables is for a definite period. The DRP further observed that since the
+assessee has made payment of design and development charges to LGEK, the
+payment of royalty should be lower by 1%. Accordingly, the arm's length
+royalty was determined at 3.50% resulting into adjustment of Rs
+34,30,08,092/-.
+
+38\. Before us, the ld. AR stated that all the comparable companies are
+engaged in manufacture of similar white goods/electronic products and,
+therefore, for undertaking benchmarking analysis, all the comparables should
+be taken into consideration. It is the say of the ld. AR that since royalty
+paid @ 5%, being the average rate of royalty of all the comparables, no
+adjustment on account of payment of royalty is warranted.
+
+32
+
+39\. We have carefully considered the underlying facts in issue. We find that
+an identical issue was considered by the coordinate bench in assessee's own
+case in A.Y 2007-08 in ITA No. 5140/DEL/2011. The relevant findings of the
+Tribunal read as under:
+
+> "10.7 The next question is about the determination of such reduction in the
+> rate of royalty. Both the sides fairly agreed that the issue of
+> quantification of adjustment to be allowed on account of fixed term and
+> perpetual license is a virgin issue inasmuch as there is no precedent
+> available on this point. We find that the TPO determined comparable average
+> rate of 3.5% of the companies having fixed term agreements. Considering the
+> fact that the assessee had a perpetual license, he discounted the
+> uncontrolled royalty rate by 2%, thereby calculating the arm's length
+> royalty rate at 1.5%. The DRP computed average rate of royalty of three
+> comparable companies at 4.5% and, thereafter, reduced 1% on account of
+> limited period of license used by the comparables vis-a- vis the assessee
+> using the perpetual license. 10.8. There can be no quarrel on the fact that,
+> other things being equal, a landlord intending to have a tenant for a long-
+> term may compromise some amount of rent, in comparison with a landlord
+> finding a tenant requiring the premises for a short-term.
+
+The rate of rent in a former case will be lower for a variety of reasons, such
+as, not undergoing the process of finding a tenant every now and then, fear of
+the property remaining vacant for  33 some time after the exit of the first
+tenant and incurring costs at the time of each let out. Difference between the
+rent charged by the landlord or paid by the tenants in the afore discussed two
+situations is nothing but a discount allowed to a tenant of long- term on the
+available market rate of rent. This analogy can be applied to the present
+facts by considering the discount which a licensor with a perpetual license
+may allow or the premium which a licensor with a fixed term license may
+charge. It can be seen that the TPO downgraded 2% on this score and reduced
+the unadjusted comparable rate of 3.5% to the adjusted 1.5%. To put it
+differently, the TPO treated the premium charged by the comparable licensors
+on account of fixed term licenses at 57% (2/ 3.5*100), or in other words, the
+discount at such rate to the prevalent market rate on account of perpetual
+license. However, the DRP treated such discount for perpetual license at 22%
+(1/4.5*100). Considering the entirety of the facts and circumstances of the
+instant case, we find that the rate of premium on the license with fixed term
+at 22% is on a higher side. In our considered opinion, the rate of such
+premium should be restricted to 10% of the average rate of royalty of the
+comparable cases.
+
+10.9. It has been held above that the DRP rightly considered three companies
+as comparable, whose average rate of unadjusted royalty comes at 4.5% within
+the meaning of sub- clause (i) of rule 10B(1)(a). When rate is discounted with
+10% under sub-clause (ii), resulting into a deduction of 0.45% (10% of 4.5),
+the arm's length rate of royalty as per sub-clause (iii) of rule 10B(1)(a)
+comes to  34 4.05% (4.5-0.45). It is this rate, which is directed to be
+applied as arm's length rate of royalty payment. V. Rule of Consistency."
+
+40\. Respectfully following the findings of the co-ordinate bench, we direct
+the TPO to determine the Arm's Length royalty @ 4.05%. Ground Nos. 4 to 4.4
+are partly allowed.
+
+41\. Ground Nos. 5 - 5.5 relate to Transfer Pricing adjustment on account of
+Allocation of Asian Region Office Expenses of Rs 4,59,20,550/-.
+
+42\. Facts relating to this issue are that LG Electronics Singapore Limited
+provides services to the assessee in connection with Marketing, Finance, Human
+Resource, Supply Chain Management, After Sales Support etc. In consideration
+for the services, the assessee paid a sum of USD 381,257 per month as fee in
+terms of agreement dated 01.01.2008. The fee for the services is based on the
+value added costs incurred by the RHQ and is inclusive of 5% mark-up.
+
+43\. During the year under consideration, the Regional Headquarter provided
+the following services to the assessee:  35
+
+    
+    
+             Division                            Nature of Services
+    
+          Marketing      Brand management
+                         Marketing planning, control and training
+    
+    
+          Executive      General management and administration
+                         Strategic business planning & development
+    
+          Human          General management and administration
+          Resource
+    
+          Finance        Financial and treasury
+                         Legal and tax advisory
+                         Investment research analysis
+    
+          Supply Chain   Global procurement
+          Management     Supply chain management
+                         Logistic management
+    
+          After Sales    Technical Call Centre
+          Services
+    
+    
+    
+    
+
+44\. In consideration for the aforesaid services, the regional head quarter
+charged fees on the basis of cost plus mark up of 5%, and accordingly, the
+assessee paid a sum of Rs 4,59,20,550/-.
+
+45\. The Revenue alleges that the assessee is not even in possession of the
+information with regard to the utilisation of intra-group services of
+marketing and finance and, hence, it is not in a position to co-relate the
+exact application of the above mentioned services and benefit derived by the
+segment/ division of the company on account of intra group service charges and
+is only making a vague  36 representation of deriving benefit. The Revenue
+further contends that the assessee has not adduced evidence sufficient to
+justify the need, benefit and arm's length nature of intra group service
+charges paid to its AE.
+
+46\. The ld. DR vehemently stated that there is a high possibility of
+duplication of services in the sense that the taxpayer itself could have
+performed the aforesaid services and there was no need for the same to have
+been done by AEs. The ld. DR further stated that the assessee has also not
+been able to demonstrate that any tangible gains achieved are indeed the
+result of efforts of the overseas team and not a result of the efforts of the
+assessee. The ld. DR further stated that the allocation key for the allocation
+of expenses, which is the ratio of turnover of various entities is also not
+justified since the turnover cannot be co-related to the services claimed to
+be received from the AE. It is the say of the ld. DR that the assessee has
+failed to establish any direct nexus which may have helped its case of having
+received enhanced turnover as a result of services provided by the AE.  37
+
+47\. In our considered opinion, for the purpose of determination of ALP of
+intra group services, the following issues have to be taken into
+consideration:
+
+    
+    
+          i)     Whether the services were required?
+    
+          ii)    Whether the services were rendered?
+    
+    
+
+iii) Whether the services benefitted the assessee?
+
+iv) Whether the price paid for such services is at arm's length?
+
+48\. We find that the lower authorities have not disputed the factum of
+rendering of services but have held that the services rendered by RHQ are
+duplicative and hence were not required by the assessee. Further, the Revenue
+has also alleged that these were share holder services.
+
+49\. In our humble opinion, it is the prerogative of the assessee to decide as
+to whether or not the services are required. Documentary evidences brought on
+record show that significant services were rendered by RHQ benefitting the
+assessee to name a few such services, brand analysis, product analysis, market
+analysis, etc. Further, we find that the RHQ engages third party renowned
+consultants, such as,  38 Mckinsey & Co to conduct market research and prepare
+reports. RHQ also conducts various training courses from time to time which
+are conducted with a view of imparting soft skills to the employees of the
+assessee company and for this purpose, executives from the RHQ visit the
+assessee company.
+
+50\. In so far as the allegation that these are share holder services, we do
+not find any merit in this argument of the Revenue. Services are provided by
+LG Electronics Singapore Pte Ltd, which is not a shareholder of the assessee
+company and was created to provide managerial support services to various
+entities in the region, in the form of undertaking market research, market
+performance analysis, conducting consumer interviews engaging the services of
+third party consultants for undertaking market/industry analysis, provision of
+supply chain management services, provision of after sale services etc. and
+such activities cannot be termed as share holder activity.
+
+51\. We find that the assessee engaged a third party consultant to determine
+the arm's length price of the services provided by the RHQ. The consultant
+determined ALP at Rs. 6,521/- per hour as against the  39 comparable
+uncontrolled price of Rs. 11,670/- per hour. Since the hourly rate charged by
+RHQ is lower than comparable hourly rate of third parties transaction of
+regional head quarter charges meets the arm's length test.
+
+52\. The Revenue has made the adjustment holding that the assessee was not
+required to incur such expenditure which are duplicative in nature. In our
+considered view, the assessee is free to conduct business in the manner that
+assessee deems fit and the commercial or business expediency of incurring any
+expenditure has to be seen from the assessee's point of view.
+
+53\. The Hon'ble Delhi High Court in the case of CIT vs Reebok India Co Ltd
+ITA No 213/2014, while deleting transfer pricing adjustment made by the TPO on
+the basis of similar reasoning held as under:
+
+> "183. On the question whether the royalty should have been paid or not, we
+> are in agreement with the finding of the Tribunal that question of payment
+> of royalty cannot be determined on the basis of profitability or earnings of
+> the assessed, once it is accepted that know-how and technical information
+> was provided. It is not alleged or the case of the Revenue that the
+> technology or know-how was  40 hopeless and useless. The finding of the
+> Assessing Officer/TPO, that the assessee had not derived any commercial
+> benefit as technology and know-how had not resulted in any substantial
+> profit increase, has been rightly rejected as totally unsustainable.
+
+Profitability of the assessed could have been lower or varied due to various
+reasons and lower profitability in one or more years cannot lead to the
+conclusion that no benefits were derived or technology was unproductive. The
+justification given by the assessee for lower profits on account of bad debts,
+high rent, increase in legal cost stand highlighted and accepted by the
+Tribunal. 184. Transfer pricing provisions, as noted above, recognise separate
+entity principle. Therefore, as a sequitur, it follows that the AE is a
+separate entity and when it avails and secures advantage of technical know-
+how, it should pay arm's length price for the right to use. The arm's length
+price would be the fair market price of the technical know-how, which is
+licensed.
+
+****** ****** ******
+
+185\. Royalty payable for availing the right to use would depend upon
+corresponding price, which would have been paid by an independent or unrelated
+enterprise. This is judged by applying comparables. TPO has not rejected the
+quantum of royalty on the said principle. The reasoning given by the TPO is
+not only erroneous for the reasons stated above, but is also contrary to the
+Rules. Depending upon the method selected, net profit or gross profit of the
+assessed has to be compared with profit margins of related enterprise. The
+formula prescribed under the Rules does not accept the ratiocination adopted
+and applied by the TPO.  41
+
+54\. The Hon'ble Delhi High Court in the case of CIT vs Lumax Industries
+Limited ITA No 102/2014 held that the Transfer Pricing provisions do not
+authorize disallowance of any expenditure on the basis that it was not
+necessary for the assessee to incur the expenditure. The Hon'ble Court held as
+under:
+
+> "16. On the question of addition made by the AO on account of ALP for the
+> payment of royalty, learned counsel for the Assessee has rightly referred to
+> the decision in Commissioner of Income Tax v. Sony Ericsson Mobile
+> Communication (2015) 374 ITR 118 where the determination of the ALP of the
+> royalty paid as Nil was not approved. The Court's attention has also been
+> drawn to the decision in Commissioner of Income Tax v. EKL Appliances
+> Limited (2012) 345 ITR 241 wherein it was held that Rule 10B (1) (a) did not
+> authorize disallowance of any expenditure on the ground that it was not
+> necessary for the Assessee to have incurred such expense. It was observed
+> that though the quantum of expenditure could be examined, the entire
+> expenditure could not be disallowed on the ground that it was not
+> necessary."
+
+> 55\. Further, the Hon'ble Delhi High Court in the case of CIT vs Cushman and
+> Wakefield (India) Pvt Ltd. ITA 475 of 2012 has held that the authority of
+> the TPO is to conduct a TP analysis to determine the ALP and not to
+> determine whether the tax payer derives a benefit from  42 the service. The
+> Hon'ble Delhi High Court has opined that the determination of benefit to the
+> tax payer is in the domain of the AO. The Hon'ble High Court held as
+> follows:
+
+> "34. The Court first notes that the authority of the TPO is to conduct a
+> transfer pricing analysis to determine the ALP and not to determine whether
+> there is a service or not from which the assessee benefits. That aspect of
+> the exercise is left to the AO. This distinction was made clear by the ITAT
+> in Dresser-Rand India Pvt. Ltd. v. Additional Commissioner of Income Tax,
+> 2012 (13) ITR (Trib) 422.
+
+> > 35\. The TPO's Report is, subsequent to the Finance Act, 2007, binding on
+> the AO. Thus, it becomes all the more important to clarify the extent of the
+> TPO's authority in this case, which is to determining the ALP for
+> international transactions referred to him or her by the AO, rather than
+> determining whether such services exist or benefits have accrued. That
+> exercise - of factual verification is retained by the AO under Section 37 in
+> this case. Indeed, this is not to say that the TPO cannot - after a
+> consideration of the facts - state that the ALP is 'nil' given that an
+> independent entity in a comparable transaction would not pay any amount.
+> However, this is different from the TPO stating that the assessee did not
+> benefit from these services, which amounts to disallowing expenditure. That
+> decision is outside the authority of the TPO...."  43
+
+56\. Considering this issue from another angle in the light of the decision of
+the Hon'ble Delhi high Court in the case of CIT vs Lumax Industries Limited
+ITA No 102/2014 we are of the opinion that once the assessee has satisfied the
+TNMM method i.e. the operating margins of the assessee are higher than those
+of the comparable companies [as mentioned elsewhere], no separate adjustment
+is warranted.
+
+57\. Same view was taken by the Hon'ble Delhi High Court in the case of
+Magneti Marelli Powertrain India Pvt. Ltd. ITA No 350/2014 wherein the Hon'ble
+High Court held as under:
+
+> "17. As far as the second question is concerned, the TPO accepted TNMM
+> applied by the assessee, as the most appropriate method in respect of all
+> the international transactions including payment of royalty. The TPO,
+> however, disputed application of TNMM as the most appropriate method for the
+> payment of technical assistance fee of 38,58,80,000 only for which
+> Comparable Uncontrolled Price ("CUP") method was sought to be applied. Here,
+> this court concurs with the assessee that having accepted the TNMM as the
+> most appropriate, it was not open to the TPO to subject only one element,
+> i.e payment of technical assistance fee, to an entirely different (CUP)
+> method. The adoption of a method as the most appropriate one assures the
+> applicability of one standard or criteria to judge an international
+> transaction by. Each method is a  44 package in itself, as it were,
+> containing the necessary elements that are to be used as filters to judge
+> the soundness of the international transaction in an ALP fixing exercise. If
+> this were to be disturbed, the end result would be distorted and within one
+> ALP determination for a year, two or even five methods can be adopted. This
+> would spell chaos and be detrimental to the interests of both the assessee
+> and the revenue. The second question is, therefore, answered in favour of
+> the assessee; the TNMM had to be applied by the TPO/AO in respect of the
+> technical fee payment too."
+
+58\. Considering the facts in totality in the light of the judicial decisions
+discussed hereinabove, the adjustment computed by the TPO/DRP on account of
+allocation of RHQ expenses is uncalled for and deserves to be deleted. Ground
+Nos. 5 to 5.5 are allowed.
+
+59\. Ground Nos 6 - 6.1 relate to Transfer Pricing adjustment on account of
+payment of overseas marketing related services of Rs 1,30,08,500/-.
+
+60\. Facts on record show that during the year under consideration, the
+assessee requested its associated enterprises to carry out market survey for
+its overseas operations. Actual costs of carrying out such  45 survey, such
+as, personnel costs and other direct expenses, were reimbursed by the
+appellant to its associated enterprises. No mark up was charged by the
+associated enterprises on this transaction. Further, the appellant incurred
+certain sales promotion expenses towards overseas market development through
+its AEs. The AEs incurred such expenditure on behalf of the assessee which was
+reimbursed to its AEs.
+
+61\. During the year under consideration, the assessee reimbursed LG
+Electronics S.A. Ltd. an amount of Rs. 1,973,000/- towards overseas market
+development charges and reimbursed cost of market survey carried out by LGEK
+amounting to Rs. 14,981,500/-. The TPO disallowed part of market survey
+expenses amounting to Rs. 1,30,08,500 on account of non-furnishing of
+evidences.
+
+62\. Before us, the ld. AR pointed out that the results of the survey
+undertaken by the AE were provided to the assessee in the form of a report and
+the report was submitted before the DRP. The DRP dismissed the same stating
+that it did not pertain to the current year, only incidental benefit has been
+derived by the appellant, and the services were in the nature of shareholder
+activities. It is the say of  46 the ld. AR that the DRP grossly erred by not
+considering the evidences placed in relation to overseas marketing services.
+The ld. AR pointed out that the directions issued were in relation to the
+analysis of evidences submitted for Allocation of Asia Region Office expenses.
+
+63\. We find that the facts have not been properly appreciated by the lower
+authorities. It appears that the evidences furnished by the assessee have been
+considered in the light of allocation of expenses by RHQ. In the interest of
+justice and fair play, we restore this issue to the file of the TPO. The
+assessee is directed to furnish evidences specifically mentioning the issues
+under consideration and the TPO is directed to verify the same and decide the
+issue afresh after giving reasonable opportunity of being heard to the
+assessee. Ground Nos. 6 to 6.1 are allowed for statistical purposes.
+
+64\. Ground No. 7 relates to segregation of closely linked transactions.
+
+47
+
+65\. This issue is covered by our findings given in Ground Nos 3 to 6 and,
+therefore, goes in favour of the assessee and against the Revenue.
+
+66\. Ground Nos. 8 to 8.1 relate to addition on account of Sales-tax subsidy
+of Rs. 46,29,42,435/- holding the same to be revenue receipt.
+
+67\. Brief facts relating to this issue are that the assessee set up a
+manufacturing unit with an initial investment of Rs.62,05,18,132/- upto 28th
+March, 1998 and additional investment of Rs.60,13,83,450/- was made during the
+financial years 1998-99 to 2000-01.
+
+68\. The U.P. Government, under U.P. State Industrial Policy, 1994, had
+formulated policy to encourage the setting up of new industrial units or
+substantial expansion of existing industrial units during a particular period
+in certain specified areas of U.P. in the form of, inter alia, sales tax
+exemption, with the object of achieving economic & industrial development and
+generation of employment opportunities. The scheme and the purpose for which
+it was framed by the State shows that the incentive was given for encouraging
+setting up of  48 manufacturing facilities, resulting in enhancement of
+necessary industrial infrastructure for rapid industrialization of the state
+and creating employment opportunities.
+
+69\. For purposes of the aforesaid policy, the Government issued Notification
+dated 31.3.1995, clarifying that the subsidy in the form of sales tax
+exemption would also be available to substantially expanded industrial units,
+which came into existence during the specified period and fulfilled the
+condition of additional investment of more than Rs.50 crores in such a unit
+during the specified period. Therefore, with the objective to promote the
+development of certain industries which had been set-up or undertaken
+modernisation, diversification, backward integration by way of fixed capital
+investment of Rs. 50 crores or more. The exemption from sales tax was
+available to those units which had started production or had carried out
+expansion or modernisation or backward integration, etc., between 1-12-1994
+and 31-3-2000.
+
+70\. Considering that the assessee satisfied the aforesaid condition precedent
+for availing subsidy in the form of sales tax exemption, the Addl. Director of
+Industries, Greater Noida, in accordance with the provisions of Industrial
+Policy and section 4A of the U.P. Sales Tax Act,  49 1948, read with
+Notification No.640/641 dated 21.2.1997, issued certificates bearing No. 4027,
+1344, 3249, 328, 519, 449 & 327, dated 7.3.2003 on various dates, granting the
+Greater Noida unit of the appellant company subsidy in the form of sales tax
+exemption, in order to compensate the investment made for setting up the unit
+in the State of U.P. The total amount of exemption initially granted was
+Rs.203,73,53,192, which was to be utilized within a period of 15 years,
+commencing from 27.3.1998 to 26.3.2013.
+
+71\. In accordance with the aforesaid Policy, the assessee sold the products
+manufactured in the aforesaid unit at the same price (Dealer Price), at which
+products manufactured at other units (non-exempt units) were sold, which is
+inclusive of sales tax. The modus operandi followed is described hereunder:
+
+72\. The assessee sells the products at dealer price (DP) across the country,
+which is uniform in the State of U.P. and other States. This price is
+inclusive of sales tax. As per the said exemption, the appellant is not
+required to pay sales tax on sale in U.P. and is eligible to retain the entire
+selling price, i.e., DP inclusive of sales tax. However, by selling the
+products in states other than U.P., the appellant is required  50 to deposit
+the corresponding sales tax with the State Government. Thus by selling the
+goods at the same DP in State of U.P. and other States, the company has
+received excess price in the State of U. P., by way of incentive allowed by
+the U. P. Government, in the form of Sales Tax, which is not required to be
+paid back to the U. P. Government, as compared to net price (DP less sales tax
+paid to the State Government) received in the other States. Thus, the amount
+of sales tax retained on sale of products in U.P is the subsidy received by
+the appellant.
+
+73\. In case of exempt units (unit at U.P.), sales tax was not separately
+reflected in the bills, unlike bills raised from non-exempt units, but was
+collected and retained by the appellant as part of incentive / subsidy, by
+virtue of exemption granted by the U.P. Government. The sales tax incentive
+was the subsidy given to the appellant under the Industrial Policy of the
+State to encourage setting up of industries, with the object of achieving
+economic & industrial development and generation of employment opportunities,
+in backward area and not for assisting the appellant in carrying out its
+business operations.
+
+51
+
+74\. During the relevant year, the appellant received subsidy in the form of
+sales tax exemption for an amount of Rs. 46,29,42,435/- which was treated as
+capital receipt, not exigible to income-tax in the return of income.
+
+75\. The contention of the assessee was dismissed by the Assessing Officer who
+found that in the earlier year, the Assessing Officer has treated Sales Tax
+component as revenue receipt liable to tax.
+
+76\. Before us, the ld. AR vehemently contended that though in the earlier
+A.Ys the decision has gone against the assessee, but due to subsequent
+judicial developments on this issue, the findings given in earlier years
+assessments become redundant. The ld. AR heavily relied upon various judicial
+decisions to support his contention.
+
+77\. The ld. DR drew our attention to the orders of the Tribunal for A.Y
+2002-03 and subsequent A.Ys and stated that the Tribunal has decided this
+issue against the assessee and in favour of the Revenue and the same view
+should be followed.
+
+52
+
+78\. We have given thoughtful consideration to the orders of the authorities
+below. We have also considered the orders of the coordinate bench in
+assessee's own case and the various judicial decisions relied upon by the ld.
+AR. In A.Y 2002-03, the coordinate bench in ITA No. 1404/DEL/2007 has held as
+under:
+
+> "9. We have heard both the parties and gone through the material available
+> on record. In this case the assessee had collected sales tax as a part of
+> dealers' price. At the year end the sales tax portion, which formed the part
+> of dealers' price had been bifurcated and has been claimed as capital
+> subsidy. We have also gone through the Notification No. 1179 dated
+> 31.03.1995 issued by the State Government of Uttar Pradesh. The State Govt.
+> has provided sales tax exemption with an objective to promote the
+> development of certain industries which have been set up or undertaken
+> modernisation, diversification, backward integration by way of fixed capital
+> investment of Rs.50 crores or more. The exemption of from sales tax or
+> benefit of reduced rate of tax is available to those units which have
+> started production or have carried out expansion or modernisation or
+> backward integration etc. between 1.12.1994 and 31.03.2000. Para 2 of the
+> notification specifies that the exemption or reduction in the rate of sales
+> tax including the additional tax would not be more than 5 per cent of sale
+> of goods. In case where tax rate was more than 5 per cent including
+> additional tax, the balance was to be paid by the unit.  53
+
+Para7 (2) of the notification provides for the exemption of sales tax to the
+extent of exemption or reduction in tax. Item (2) of the Schedule includes
+Greater Noida Industrial Development Area wherein exemption from sales tax to
+the extent of 200 per cent of capital investment has been provided. None of
+the clauses of the Notification authorises the assessee to collect the sales
+tax and retain the same with it. The exemption of sales tax was available from
+the date of first sale or the date within the period of six months from the
+date of production, whichever is earlier. The said notification also provided
+that the eligibility certificate to the assessee will be issued by the
+joint/additional director of concerned Development Authority and the same will
+be produced before the concerned assessing officer. The Addl. Director
+Industries, Greater Noida Industrial Development Authority, vide letter No.
+1344 dated 23/06/1999 issued eligibility certificate to the assessee. As per
+this certificate fixed capital investment is of Rs.51,57,95,446/-. The date of
+commencement of production is 9/03/1998 and the first sale was affected on
+27th March, 1998. The assessee applied for exemption from trade tax [sales
+tax] vide application dated 10/09/1998. The exemption from trade tax [sales
+tax] was provided from 27th March, 1998 to 26th March, 2013 for a period of 15
+years or till the time the exemption of sales tax was availed of to the extent
+of 200 per cent of fixed capital investment i.e. Rs.1,02,75,90,892/- whichever
+was earlier. This certificate also provided the items i.e. Colour TV, Washing
+machine and Air-conditioners on which exemption from sales tax  54 was
+provided. Another certificate was issued on 27th September, 2000 vide letter
+No. 1519 in respect of printed circuit voice for CTV number 8,12,000 and
+Micro-wave Oven 1,00,000. In this certificate, the sales tax exemption in
+first three years has been provided to the extent of 100 per cent, next three
+years 75 per cent, next two years 50 per cent and next two years 25 per cent.
+In all exemption from sales tax was provided for 10 years.
+
+10\. Neither the certificates issued by Greater Noida Industrial Development
+Authority nor the Notification issued by the State Govt. authorises the
+assessee to collect sales tax from its customers. The assessee has been
+exempted from collecting the sales tax from customers on the sales made with
+effect from 27th March, 1998. In fact, the ld. counsel for the assessee made a
+statement at the bar, during the course of hearing, that neither the
+Notification has authorized the assessee to collect sales tax nor the assessee
+had collected the sales tax as such. The assessee had included the element of
+sales tax in the dealers' price as a sale price of the product. In the States
+other than Uttar Pradesh, the sales tax so collected as a part of dealers'
+price has been paid to respective State Governments, whereas in the case of
+the assessee, since the assessee was not liable to pay sales tax, as exemption
+has been provided to the extent of 200 per cent of fixed capital investment,
+the sales tax element which is embedded in the sale price have been retained
+by the assessee as excess sales consideration. At the year-end the assessee
+has allocated the sales tax element from dealer's price and has claimed the
+same as  55 capital subsidy. Therefore, the collection of dealers' price has
+been made in the ordinary course of trading activities. When the assessee is
+not permitted to collect the sales tax under the notification issued by the
+State Govt. the collection of sales tax as a part of dealers' price is nothing
+but constitutes a trading receipt........"
+
+79\. In A.Y 2003-04, the coordinate bench in ITA No. 3729/DEL/2009 has held as
+under:
+
+> "In view of the above, Ld. Departmental Representative claimed that the
+> issue is squarely covered in favour of the Revenue. However, ld. Counsel of
+> the assessee submitted that the Tribunal has not considered the matter
+> properly. He submitted that the appeal against the tribunal order is pending
+> in the Hon'ble High Court of All. However, upon careful consideration, we
+> find that there is no proper justification to deviate from the decision of
+> the ITAT in assessee's own case. The appeal against the Tribunal order is
+> still pending in Hon'ble High Court. Under the circumstances, the judicial
+> propriety mandates that we adhere to the decision of the Tribunal in
+> assessee's own case. Accordingly, respectfully following the precedent as
+> above, we uphold the order of the Ld. Commissioner of Income Tax(A)."
+
+56
+
+> 80\. We find that the assessee's appeal against the order of the Tribunal
+> for A.Y 2002-03 is pending before the Hon'ble High Court. Judicial propriety
+> mandates that we adhere to the decision of the coordinate bench in
+> assessee's own case. Respectfully following the precedents [supra] we
+> decline to interfere with the findings of the CIT(A). Ground No. 8 is
+> accordingly dismissed.
+
+81\. Ground Nos 9 - 9.2 relate to Provision for service warranty of
+Rs.38,02,141/-.
+
+82\. During the course of scrutiny assessment proceedings and on perusal of
+Schedule O of the balance sheet, the Assessing Officer observed that the
+assessee has made provisions for service warranty of Rs. 38,02,141/-. The
+assessee was asked to explain the nature of these provisions and was required
+to show cause as to why it should not be disallowed as per last year.
+
+83\. The assessee explained that it is generally providing one year warranty
+on sale of its products. As per its accounting policy, the service warranty
+expenses are provided in the books of accounts based  57 upon well established
+scientific and realistic methods. It was further explained that sales price
+includes the component of service warranty thereby the income stand increased
+by this element of service warranty being income embedded in the sales price.
+The contention of the assessee did not find any favour with the Assessing
+Officer who was of the firm belief that there is no definite element to the
+liability and disallowed Rs. 38,02,141/-.
+
+84\. When the matter was agitated before the DRP, the DRP observed that
+similar issues arose in A.Ys 2002-03 to 2007-08 wherein similar disallowances
+have been deleted by the CIT(A). Since the Revenue's appeals were pending
+before the Hon'ble High Court of Allahabad, the DRP confirmed the findings of
+the Assessing Officer.
+
+85\. We do not find any force in the findings of the DRP. When in A.Ys
+2002-03, 2003-04, 2004-05 and 2007-08 this issue has been settled in favour of
+the assessee and against the Revenue, we do not find any reason why the same
+should not be followed for the year also. Respectfully following the findings
+of the coordinate benches, we  58 direct the Assessing Officer to delete the
+addition of Rs. 38,02,141/-. Ground No. 9 is allowed.
+
+86\. Ground Nos 10 - 10.1 pertain to disallowance of payment of royalty of
+Rs.85,75,19,908/- holding the same to be capital expenditure.
+
+87\. The AO has disallowed the royalty payments amounting to Rs.
+85,75,19,908/- paid to LG Electronics Inc. Korea ('LGEK') as capital
+expenditure.
+
+88\. We find that the Tribunal in assessee's own case for A.Y. 2007-08 has
+decided this issue in favour of the assessee and against the Revenue.
+Respectfully following the findings of the coordinate bench, we direct the
+Assessing Officer to treat royalty payment of Rs. 85.75 crores as revenue
+expenditure. Ground No. 10 is allowed.  59
+
+89\. Ground Nos. 11 & 11.1 pertain to disallowance of payment of export
+commission of Rs. 8,78,45,287/- holding the same to be diversion of profits to
+LG Electronics Korea 'LGEK'.
+
+90\. An identical issue was considered by the coordinate bench in A.Y 2007-08
+and has decided the same against the assessee. The ld. AR contends that
+certain documents were not furnished by the assessee and if the same are
+considered as additional evidence, the issue may be set aside for fresh
+adjudication.
+
+91\. It is not in dispute that in A.Y 2007-08 this issue was decided against
+the assessee by the Tribunal. The assessee has filed application u/r 29 of the
+ITAT Rules for admission of additional evidence in support of payment of
+export commission to its AE. In our considered opinion, such additional
+evidences need to be verified before deciding this issue. We, accordingly,
+restore this matter to the file of the Assessing Officer. The assessee is
+directed to furnish relevant documentary evidences and the Assessing Officer
+is directed to consider the same and decide the same afresh after giving  60
+reasonable opportunity of being heard to the assessee. Ground No. 11 is
+treated as allowed for statistical purposes.
+
+92\. Ground Nos. 12 & 12.1 relate to disallowance of deduction under section
+80JJAA of the Act to the extent of Rs. 29,06,091/-
+
+93\. Facts on record show that the assessee claimed deduction u/s 80JJAA of
+the Act amounting to Rs. 44,50,635/-. The said amount pertained to deduction
+in respect of additional wages paid in financial years 2005-06, 2006-07 and
+2007-08. The Assessing Officer has allowed the deduction in respect of claim
+pertaining to the A.Y under consideration amounting to Rs. 15.44 lakhs and
+disallowed the claim of deduction pertaining to A.Y 2006-07 and 2007-08
+amounting to Rs. 29.06 lakhs.
+
+94\. Before us, the ld. AR contended that due to the amendment in section
+80JJAA of the Act, the assessee is very much entitled for the claim of
+deduction. It is the say of the ld. AR that the only dispute is whether
+workmen who joined the assessee company in the earlier years and worked for
+less than 300 days in that year and therefore,  61 were not regarded as
+"regular workmen" in that year. It is the say of the ld. AR that if the
+amendment is considered in its true perspective, such workmen will be
+considered as "regular workmen" in the subsequent years in which their period
+of employment becomes equal to or more than 300 days.
+
+95\. Per contra, the ld. DR stated that the amendment brought in section
+80JJAA is w.e.f. 1.4.2019 and, therefore, the same is not applicable for the
+year under consideration.
+
+96\. We have carefully considered the orders of the authorities below qua the
+issue. There is no dispute that he assessee satisfies all the conditions for
+claiming deduction u/s 80JJAA of the Act. For our convenience, section 80JJAA
+reads as under:
+
+> "80JJAA. (1) Where the gross total income of an assessee, being an Indian
+> company, includes any profits and gains derived from any industrial
+> undertaking engaged in the manufacture or production of article or thing,
+> there shall, subject to the conditions specified in sub-section (2), be
+> allowed a deduction of an amount equal to thirty per cent of additional
+> wages paid to the new regular workmen  62 employed by the assessee in the
+> previous year for three assessment years including the assessment year
+> relevant to the previous year in which such employment is provided. (2) No
+> deduction under sub-section (1) shall be allowed--
+
+> (a) if the business is formed by splitting up or the reconstruction of an
+> existing business.
+
+> "Provided further that where an employee is employed during the previous
+> year for a period of less than two hundred and forty days or one hundred and
+> fifty days, as the case may be, but is employed for a period of two hundred
+> and forty days or one hundred and fifty days, as the case may be, in the
+> immediately succeeding year, he shall be deemed to have been employed in the
+> succeeding year and the provisions of this section shall apply
+> accordingly;".
+
+> 97\. The claim of the assessee is that the workmen who joined in the
+> preceding year in which such workmen worked for less than 300 days should be
+> considered provided that the period of employment of such workmen is equal
+> to or more than 300 days in the relevant previous year. What the assessee
+> contends is that new workmen, who did not fall in the category of "regular
+> workmen", on account of employment being for less than 300 days in the year
+> of appointment, should be  63 considered as "regular workmen" in the
+> subsequent year, provided such workmen continue to be employed with the
+> company and the total period of their employment is equal to or more than
+> 300 days in the subsequent year. Thought this contention of the assessee has
+> been take care of by the second proviso, but the same has been given effect
+> from 1.4.2019.
+
+98\. If the effect of the second proviso is given retrospectively, then the
+assessee's claim of deduction is allowable. Memorandum explaining provisions
+of Finance Bill 2018 states that the amendment is intended to rationalize the
+deduction of 30% of additional wages "by allowing the benefit for a new
+employee who is employed for less than the minimum period during the first
+year but continues to remain employed for the minimum period in subsequent
+year.
+
+99\. In our considered opinion, this amendment i.e. second proviso is
+clarifactory in nature and is intended to remove the anomaly so as to advance
+legislative intention of providing incentive to new worker for more than 300
+days and must be given retrospective effect. For this proposition, we draw
+support from the judgment of the Hon'ble  64 Supreme Court in the case of
+Allied Motors Pvt. Ltd Vs. CIT 224 ITR 677 [SC]. The relevant finding of the
+Hon'ble Supreme Court reads as under:
+
+> "In the case of Goodyear India Ltd. v. State of Haryana and Anr. (188 ITR
+> 402) this court said that he rule of reasonable construction must be applied
+> while construing a statute. Literal construction should be avoided if it
+> defeats the manifest object and purpose of the Act.
+
+> Therefore, in the well known words of Judge learned Hand, one cannot make a
+> fortress out of the dictionary; and should remember that statutes have some
+> purpose and object to accomplish whose sympathetic and imaginative discovery
+> is the surest guide to their meaning. In the case of R.B. Jodha Mal Kuthiala
+> v. Commissioner of Income-tax, Punjab, Jammu & Kashmir and Himachal Pradesh
+> (82 ITR 570), this Court said that one should apply the rule of reasonable
+> interpretation. A proviso which is inserted to remedy unintended
+> consequences and to made the provision workable, a proviso which supplies an
+> obvious omission in the section and is required to be read into the section
+> to give the section a reasonable interpretation, requires to be treated as
+> retrospective in operation so that a reasonable interpretation can be given
+> to the section as a whole.
+
+This view has been accepted by a number of High Court. In the case of
+Commissioner of Income-Tax v. Chandulal Venichand ([1994] 209 ITR 7), the
+Gujarat High Court has held  65 that he first proviso to section 43B is
+retrospective and sales-tax for the last quarter paid before the filing of the
+return for the assessment year is deductable. This decision deals with
+assessment year 1984-85. The Calcutta High Court in the case of Commissioner
+of Income-tax v. Sri Jagannath Steel Corporation ([1991] 191 ITR
+
+676), has taken a similar view holding that the statutory liability for sales-
+tax actually discharge after the expiry of accounting year in compliance with
+the relevant stature is entitled to deduction underSection 43B. The High Court
+has held the amendment to be clarificatory and, therefore, retrospective. The
+Gujarat High Court in the above case held the amendment to be curative and
+explanatory and hence retrospective. The Patna High Court has also held the
+amendment inserting the first proviso to be explanatory in the case of
+Jamshedpur Motor Accessories Stores v. union of India and Ors. ([1991] 189 ITR
+70.), It was held that amendment inserting first proviso to be retrospective.
+The special leave petition from this decision of the Patna High Court was
+dismissed. The view of the Delhi High Court, therefore, that the first proviso
+to section 43B will be available only prospectively does not appear to be
+correct. As observed by G.P. Singh in his Principles of statutory
+Interpretation, 4th Edn. Page 291, "It is well settled that if a statute
+curative or merely declaratory of the previous law retrospective operation is
+generally intended." In fact the amendment would not serve its object in such
+a situation unless it is construed as retrospective. The view, therefore,
+taken by the Delhi High Court cannot be sustained."
+
+66
+
+100\. Similar view was taken by the Hon'ble Supreme Court in the case of CIT
+Vs. Alom Extrusions Ltd 319 ITR 306 wherein the Hon'ble Supreme Court held
+that where a proviso in section is inserted to remedy unintended consequences
+to make section workable the proviso which supplies obvious omission therein
+in required to be read retrospectively in operation particularly to give
+effect to section as a whole.
+
+101\. Same view was followed by the Hon'ble Supreme Court in the case of CIT
+Vs. Kolkata Export Company 404 ITR 654.
+
+102\. Respectfully following the ratio laid down by the Hon'ble Supreme Court
+[supra] we direct the Assessing Officer to allow claim of deduction u/s 80JJAA
+of the Act as claimed by the assessee.
+
+103\. Ground Nos. 13 & 13.1 pertain to levying of interest u/s 234B and 234C
+of the Act.
+
+67
+
+104\. Levy of penalty is mandatory though consequential to our decision. The
+Assessing Officer is directed to levy interest as per provisions of the law.
+Interest u/s 234C to be charged on the returned income.
+
+105\. In the result, the appeal of the assessee in ITA No. 6253/DEL/2012 is
+partly allowed.
+
+The order is pronounced in the open court on 14.01.2019.
+
+    
+    
+                Sd/-                                       Sd/-
+    
+          [SUCHITRA KAMBLE]                         [N.K. BILLAIYA]
+          JUDICIAL MEMBER                         ACCOUNTANT MEMBER
+    
+    
+    Dated: 14th January, 2019
+    
+    VL/
+    
+    
+    Copy   forwarded to:
+    1.     Appellant
+    2.     Respondent
+    3.     CIT
+    4.     CIT(A)
+    5.     DR
+                                                           Asst. Registrar,
+                                                          ITAT, New Delhi
+                                            68
+    
+    
+    Date of dictation
+    
+
+Date on which the typed draft is placed before the dictating Member Date on
+which the typed draft is placed before the Other Member Date on which the
+approved draft comes to the Sr.PS/PS Date on which the fair order is placed
+before the Dictating Member for pronouncement Date on which the fair order
+comes back to the Sr.PS/PS Date on which the final order is uploaded on the
+website of ITAT Date on which the file goes to the Bench Clerk Date on which
+the file goes to the Head Clerk The date on which the file goes to the
+Assistant Registrar for signature on the order Date of dispatch of the Order
+

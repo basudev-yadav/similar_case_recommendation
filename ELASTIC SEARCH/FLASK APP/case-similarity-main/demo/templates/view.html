@@ -1,0 +1,34 @@
+<!doctype html>
+<title>Data Discovery Demo</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles.css') }}">
+<div class=page>
+  <p class="lead">Query Table:</p>
+  <form id="search_form" method="POST">
+    <input id="input_text" name="input_text" type="text" class="form-control" value="" width="48"/><br/>
+    <br/>
+    <input type="submit" value="Search Entities">
+    <br/>
+    <br/>
+  </form>
+  {% for table in tables %}
+    <h2>{{titles[loop.index-1]}}</h2>
+    {{ table|safe }}
+  {% endfor %}
+</div>
+<script>
+      $('#search_form').on('submit', function(e) {
+        $('#spinner').show();
+          var input_text = $('#input_text').val();
+          e.preventDefault();
+          $.ajax({
+            method: "POST",
+            url: './search_csv',
+            data: {input_text : input_text}
+          })
+          .done(function(data) {
+            $('#input_text').val('');
+            $('#response').html(data);
+            $('#spinner').hide();
+          });
+      });
+</script>

@@ -1,0 +1,648 @@
+
+
+Delhi High Court
+
+Mahanagar Telephone Nigam Ltd. vs Finolex Cables Limited on 18 September, 2017
+
+    
+    
+    $~52
+    *IN THE HIGH COURT OF DELHI AT NEW DELHI
+    +             FAO(OS) 227/2017 & CM No.28576/2017
+    %                                Reserved on : 4th September, 2017
+                                 Date of decision : 18th September, 2017
+    
+           MAHANAGAR TELEPHONE NIGAM LTD. ..... Appellant
+                      Through : Mr. Abhinav Vashisht, Sr. Adv.
+                                With Ms. Tanmishtha Singh,
+                                Ms. Priya Chauhan and Ms.
+                                Rishita Mall, Advs.
+                      versus
+    
+           FINOLEX CABLES LIMITED                 ..... Respondent
+                        Through : Mr. Atul Chitale, Sr. Adv, with
+                                  Mr. Nitin Tambwekar, Mr.
+                                  Gurjyot Sethi, Ms. Shivangi
+                                  Khanna and Ms. B.S. Rai,
+                                  Advs.
+           CORAM:
+           HON'BLE THE ACTING CHIEF JUSTICE
+           HON'BLE MR. JUSTICE C.HARI SHANKAR
+                             JUDGMENT
+    
+
+GITA MITTAL, ACTING CHIEF JUSTICE
+
+1\. The present appeal, filed under Section 37 of the Arbitration and
+Conciliation Act, 1996 read with Section 10 of the Delhi High Court Act, 1966
+by the Mahanagar Telephone Nigam Limited ('MTNL' hereafter), challenges the
+order dated 11th April, 2017 passed by the ld. Single Judge on the original
+side of this court accepting objections filed by the Finolex Cables Limited
+('FCL' hereafter) FAO(OS)No.227/2017 Page 1 of 21 against the arbitral award
+dated 18th August, 2009 passed by the sole arbitrator in a dispute between FCL
+and MTNL.
+
+To the extent necessary, we first note the facts giving rise to the present
+appeal.
+
+2\. MTNL had entered into a contract dated 11th July, 1990 with FCL for supply
+of following four sizes of Jelly Filled Cables (JFCs) :
+
+    
+    
+             S.No. Items                     Unit Price      Total Price
+             1.    20/6 Armoured U/s         65,102.00       9,76,530.00
+                   Jelly Filled Cable
+             2.    50/6 Armoured U/s         1,08,8520.50 10,88,525.00
+                   Jelly Filled Cable
+             3.    400/6 Armoured U/s        5,84,820.00     23,29,280.00
+                   Jelly Filled Cable
+             4.    2400/4      Armoured      12,93,946.72 3,23,48,668.00
+                   U/s
+                   Jelly Filled Cable
+    
+    
+    
+
+3\. Pursuant to the said contract, a purchase order dated 20th December, 1990
+was placed upon FCL. The date of delivery of the aforesaid goods was 20th May,
+1991. The entire quantity was to be supplied to the Delhi/Bombay unit with the
+consignee being specified as "MTNL Delhi/Bombay".
+
+4\. There is no difficulty with regard to the supply of three sizes of cables
+which were duly supplied in accordance with the delivery schedule. However,
+the fourth size was a unique type of cable requiring approval of the Telecom
+Engineering Centre ('TEC' hereafter), which admittedly could not be supplied
+by FCL by the specified date. There also appears to have been an error in the
+description of the said cable, which had to be amended subsequently.
+
+FAO(OS)No.227/2017 Page 2 of 21
+
+5\. In terms of the contract, FCL had furnished performance bank guarantee
+dated 5th December, 1990 in the sum of Rs.18,37,650/-
+
+6\. Clause 9.2 of the purchase order/Contract stated that the MTNL reserved
+the rights to cancel the balance quantity of the order if the supply was not
+made within the delivery period or extended delivery period (i.e., by 20th
+May, 1991). Clause 10.3 stipulated that delivery of the cable would be
+supplied strictly as per specifications supplied by the TEC/CGM(QA),
+Bangalore.
+
+7\. In clause 14.3, reasonable quantities were to be offered for inspection to
+DET (QA) and the invoices raised by the supplier were to be accompanied by
+certificates of inspection stating that the stores conformed to the
+specifications offered and were accepted.
+
+8\. We extract hereunder clause 17 which provided for liquidity damages and
+reads as follows:
+
+> "17. Liquidated Damages 17.1 The date of delivery of the stores stipulated
+> in the acceptance of Purchase Order should be deemed to be the essence of
+> the contract and delivery must be completed not later than the dates
+> specified therein. Extension will not be given except in exceptional
+> circumstances. Should, however, deliveries be made after expiry of the
+> contract and be accepted by the Consignee, such deliveries will not deprive
+> the Purchaser of his right to recover liquidated damages under Clause 17.2
+> below, where, however, supplies are made within 21 (twenty one) days of the
+> contracted original delivery period, the consignee may accept the stores and
+> in such cases the provisions of clause 17.2 will not apply.
+
+> Should the tenderer fail to deliver the stores or any consignment thereof
+> within the period prescribed for delivery, FAO(OS)No.227/2017 Page 3 of 21
+> the Chairman Cum Managing Director, MTNL, shall be entitled to recover ½% of
+> the undelivered stores value of the Order placed; for each week of delay or
+> part thereof, subject to a maximum of 10% of the value of the Order placed."
+
+9\. It appears that FCL submitted a sample to the TEC on 18 th May, 1991,
+i.e., two days before the expiry of the dead line on 20th May, 1991\. This
+type approval was granted ultimately only on 5th August, 1991\. According to
+the FCL, after the type approval was granted by TEC, which evidently was after
+the stipulated delivery period, MTNL time and again wanted the FCL to extend
+the delivery period. It is an admitted position that FCL obliged and kept
+extending the performance bank guarantee from time to time. MTNL would point
+out that FCL raised no objection to the extension of the performance bank
+guarantee.
+
+10\. It was the case of the MTNL, in the arbitration proceedings, that time
+continued to essence of the contract, and that, even after obtaining the
+approval of the TEC on 5th April, 1991, FCL did not supply a single meter of
+the ordered cable. It is interesting to note that there is no exchange of
+correspondence during this period between MTNL and FCL. It is apparent that
+MTNL did not make a single request to the FCL to supply the cable.
+
+Interestingly, without once calling upon the FCL to deliver the cable for a
+period of over nine years, MTNL asked the FCL to extend the PBG. Thus the PBG
+for the sum of Rs. 18,37,650/- was extended 15 times.
+
+FAO(OS)No.227/2017 Page 4 of 21
+
+11\. It would appear that FCL presumed that requirement of the supply of cable
+did not exist anymore. Mr. Atul Y. Chitale, ld. Senior Counsel for the FCL
+(respondent in the present matter) has drawn our attention to the letter dated
+7th April, 1992 addressed by the FCL requesting MTNL to short close the
+balance portion of the purchase order without any commercial implications, on
+account of there being no follow up by the MTNL.
+
+12\. MTNL has contended that, by keeping the PBG alive as and when demanded by
+MTNL, there was an implied consent by FCL to keep the purchase order alive.
+
+13\. Another pertinent fact which needs to be noted is that FCL had addressed
+a letter dated 26th September, 2001, to the Department of Telecommunication
+(DoT) "for induction of Foam Skin Cables ('FOC') in telecom network". TEC's
+reply dated 14th December, 2001 is important whereby TEC wrote the following :
+
+> "The proposal for induction of Foam Skin Cables (FSC) in Telecom network has
+> been considered. The proposal appears to be good but BSNL is trying to
+> reduce the use of underground PIJF cable by using more and more other modern
+> technology like WLL, DLC and HDSL etc. in its network. Further BSNL has
+> issued instructions to the field units to shift from concentrated switching
+> to distributing switching by use of more and more RSUs/RLUs so that large
+> sizes of primary cables are reduced in the network. There is no plan of BSNL
+> to try a new type of Foam Skin Cable in its network at present.
+
+> In view of the above we are not interested for presentation on advantages of
+> Foam Skin Cables at this stage."
+
+> (Emphasis supplied) FAO(OS)No.227/2017 Page 5 of 21
+
+> 14\. It is pointed out on behalf of FCL that MTNL therefore was not really
+> interested in the supply of the fourth cable as it was using more modern
+> technology as is evident from the above.
+
+15\. It is in this factual background, that on the 29th of January 2004, MTNL
+wrote a letter addressed to the Central Bank of India invoking the PBG
+furnished by the FCL as guarantee towards the contract.
+
+16\. The basis for the invocation is disclosed in a letter dated 24th
+February, 2004 addressed by MTNL to FCL wherein it was stated as follows :
+
+> "Sir, Regarding the above mentioned purchase order, you did not supply
+> 2400//4 mm. diameter wire without covering (25 km length). Due to this
+> reason contract has been terminated. The loss due to termination of contract
+> is calculated is Rs.40,70,756/- out of the Rs.18,37,650.00 bank cheque/DD
+> has been encashed. Balance Rs.22,23,106.00 has to be recovered, the said
+> amount within seven days of receipt of this notice, please give bank draft
+> in favour of MTNL at office of undersigned. In this much amount has not been
+> deposited within this period, this amount will be deducted from any of your
+> bills or any other bank guarantee."
+
+> (Emphasis supplied)
+
+> 17\. On 9th March, 2004, FCL wrote a letter to MTNL stating, inter alia,
+> that as the requirement of the cable did not exist, financial burden should
+> not be imposed upon the FCL by encashing the bank guarantee.
+
+FCL instead requested that charges deducted for the bank guarantee, be
+reimbursed to it.
+
+FAO(OS)No.227/2017 Page 6 of 21
+
+18\. MTNL claimed liquidated damages of Rs.40,70,756/- and recovered
+Rs.18,37,650/- from the available performance bank guarantee and called upon
+FCL to deposit Rs.22,33,106/- being the balance amount.
+
+19\. On 18th March, 2004, MTNL also invoked a bank guarantee in the sum of
+Rs.20,79,320/- furnished by FCL from the Central Bank of India, Pimpri Branch,
+Pune which had been given in another contract, appropriating the amount
+thereof towards the claimed damages in the present contract.
+
+20\. It is also on record that, another bank guarantee for the sum of
+Rs.1,56,100/- furnished by FCL towards another contract was also encashed by
+MTNL and so appropriated.
+
+We are noting this fact for the reason that MTNL has encashed these bank
+guarantees and has appropriated this amount towards the amount claimed by it
+as liquidated damages in the present case which are the subject matter of the
+orders by the arbitrator with regard to which the dispute was raised before
+the arbitral tribunal.
+
+Arbitration proceedings
+
+21\. Aggrieved by the above action, by its letters of 6 th November, 2005 and
+24th December, 2005, FCL sought reference of the disputes to arbitration. The
+Chairman-cum-Managing Director of MTNL appointed Dr. S.M. Dewan, D.G., SCOPE
+as the sole arbitrator for adjudication of the disputes between the parties.
+FCL filed the statement of claim whereby it claimed an amount of
+Rs.40,70,756/- as due and payable from MTNL along with interest @ 15% per
+annum FAO(OS)No.227/2017 Page 7 of 21 from the date of invocation of the bank
+guarantees till the date of repayment as well as cost of arbitration. Apart
+from filing its reply, MTNL also raised a counter claim of Rs.6,28,44,266/-
+from FCL.
+
+22\. After consideration of the matter at length, the sole arbitrator had
+passed an Award dated 18th August, 2009, inter alia, holding that there was
+implied consent of both FCL and MTNL to keep the purchase order alive. The
+Arbitrator notes that MTNL did not follow up with the FCL to deliver the
+material for a period of 12 years; that nevertheless, the delay of 12 years in
+supply of the ordered material and lack of subsequent reminders by the FCL to
+supply the material left no choice but to cancel the purchase order; that
+there is no material to show that parties knew that the loss was likely to
+result from non-delivery of the cables; that if the agreed liquidated damages
+were to be enforced, it must be a result of some genuine pre-estimated
+damages; that in view of the clause 7.4 of the purchase order, MTNL was
+justified in invoking the bank guarantee and recovering the liquidated damages
+up to maximum of 10% of the ordered value. i.e., Rs.36,75,300/-.
+
+The Arbitrator has noted that except the bald averments and an assumed loss of
+profit, there was no material at all on record to substantiate the counter
+claim which was actually rejected. No interest or costs were awarded.
+
+23\. This arbitral award was assailed by FCL under Section 34 of the
+Arbitration Act by way of OMP No.746/2009. These objections were considered
+and decided by the ld. Single Judge by way of the judgment dated 11th April,
+2017. The ld. Single Judge placed reliance FAO(OS)No.227/2017 Page 8 of 21 on
+the pronouncement of the Supreme Court reported at (2015) 4 SCC 136, Kailash
+Nath Associates vs. Delhi Development Authority and concluded that the sum of
+Rs.36,75,300/- as liquidated damages was based on no evidence at all and
+consequently, invocation of the bank guarantee by the MTNL was unjustified. It
+was also concluded by the ld. Single Judge that conduct of both parties, i.e.
+of MTNL and FCL in submitting the cable only on 18th May, 1991 for approval to
+the TEC and that by the TEC granting approval only on 5 th August, 1991,
+resulted in the expiry of the original delivery period on 20th May, 1991 and
+that both the parties had accepted this reality. The ld. Single Judge also
+observed that MTNL did not consider this as a breach of contract and took no
+steps to terminate the contract for the failure of FCL to adhere to the
+delivery period and nor did the FCL resist the demands of MTNL from time and
+again for keeping the bank guarantee alive for the period of 12 years. It was
+held by the ld. Single Judge that finding of the ld. Arbitrator that there was
+"an implied consent of both the claimants and the respondent to keep the
+purchase order alive" was a correct assessment of what transpired between
+them.
+
+This judgment stands assailed by MTNL before us.
+
+24\. We have heard Mr. Abhinav Vashisht, ld. Senior Counsel for MTNL and Mr.
+Atul Chitale, ld. Senior Counsel for FCL at length. In the judgment dated 11th
+April, 2017, ld. Single Judge has noted that by the letter dated 7th April,
+1992 by the FCL to the MTNL seeking short closure was understandable. The ld.
+Single Judge has extracted from this letter the submission by FCL which had
+made arrangement "for FAO(OS)No.227/2017 Page 9 of 21 procurement of raw
+material for development of this item and within a period of 8-9 months we
+were able to offer the cable for proto testing and finally we got type
+approval". FCL had offered short closure without any commercial implication.
+MTNL did not permit the short closure but also neither did it, in response,
+allege any breach of contract nor claimed any liquidated damages.
+
+25\. We may extract the observations of the Supreme Court reported at (2008) 1
+SCC 503 Bharat Petroleum Corporation Ltd. v. The Great Eastern Shipping Co.
+Ltd. which reads as follows:
+
+> "19. It is, no doubt, true that the general rule is that an offer is not
+> accepted by mere silence on the part of the offerree, yet it does not mean
+> that an acceptance always has to be given in so many words. Under certain
+> circumstances, offerree's silence, coupled with his conduct, which takes the
+> form of a positive act, may constitute an acceptance an agreement sub
+> silentio. Therefore, the terms of a contract between the parties can be
+> proved not only by their words but also by their conduct."
+
+26\. In these facts, the conclusion of the ld. Single Judge that in view of
+the fact that for a period of 14 years after the original purchase order dated
+20th December, 1990, neither party made a move for closure of the contract and
+consequently time was not the essence of the contract from the point of view
+of either party cannot be faulted. This conclusion is also supported by the
+decisions reported at Keshavlal Lallubhai Patel & Ors. v. Lalbhai Trikumlal
+Mills Ltd. and AIR 1958 SC 512; AIR 1999 SC 3804 Arosan Enterprises Ltd. v.
+Union of India.
+
+FAO(OS)No.227/2017 Page 10 of 21
+
+27\. The ld. Single Judge has rightly also concluded from the letter dated
+14th December, 2001 that probably MTNL did not need the cable anymore. From
+the above discussion, it is apparent that the hard reality is that neither
+party considered time as being of essence to the contract.
+
+Whether the encashment of the bank guarantees and appropriation of the amounts
+of the liquidated damages was justified?
+
+28\. Before examining the findings of the ld. Single Judge on this issue, we
+may usefully consider the applicable legal principles. The ld. Single Judge
+has placed reliance on the law laid down in para 43 of the Kailash Nath which
+summed up the legal position qua the claim of liquidated damages in the
+following terms :
+
+> "43. On a conspectus of the above authorities, the law on compensation for
+> breach of contract under Section 74 can be stated to be as follows:
+
+> 43.1. Where a sum is named in a contract as a liquidated amount payable by
+> way of damages, the party complaining of a breach can receive as reasonable
+> compensation such liquidated amount only if it is a genuine pre-estimate of
+> damages fixed by both parties and found to be such by the Court. In other
+> cases, where a sum is named in a contract as a liquidated amount payable by
+> way of damages, only reasonable compensation can be awarded not exceeding
+> the amount so stated. Similarly, in cases where the amount fixed is in the
+> nature of penalty, only reasonable compensation can be awarded not exceeding
+> the penalty so stated. In both cases, the liquidated amount or penalty is
+> the upper limit beyond which the Court cannot grant reasonable compensation.
+
+FAO(OS)No.227/2017 Page 11 of 21
+
+> 43.2. Reasonable compensation will be fixed on well known principles that
+> are applicable to the law of contract, which are to be found inter alia in
+> Section 73 of the Contract Act.
+
+> 43.3. Since Section 74 awards reasonable compensation for damage or loss
+> caused by a breach of contract, damage or loss caused is a sine qua non for
+> the applicability of the Section.
+
+> 43.4. The Section applies whether a person is a plaintiff or a defendant in
+> a suit.
+
+> 43.5. The sum spoken of may already be paid or be payable in future.
+
+> 43.6. The expression "whether or not actual damage or loss is proved to have
+> been caused thereby" means that where it is possible to prove actual damage
+> or loss, such proof is not dispensed with. It is only in cases where damage
+> or loss is difficult or impossible to prove that the liquidated amount named
+> in the contract, if a genuine pre-estimate of damage or loss, can be
+> awarded.
+
+> 43.7. Section 74 will apply to cases of forfeiture of earnest money under a
+> contract. Where, however, forfeiture takes place under the terms and
+> conditions of a public auction before agreement is reached, OMP No. 746 of
+> 2009 Page 22 of 23 Section 74 would have no application."
+
+> (Emphasis by us)
+
+> 29\. It is trite that under Section 74 of the Contract Act, that to claim
+> liquidated damages even where liquidated damages may be specified, the party
+> so claiming, is entitled only to "reasonable compensation"
+
+not exceeding the amount specified. Even in a contract, where it is difficult
+to prove the actual damage or loss, proof thereof is not FAO(OS)No.227/2017
+Page 12 of 21 dispensed with to arrive at "reasonable compensation". It is
+only in cases where damages or loss was impossible to prove, that the amount
+named in the contract as liquidated damages, if it is a genuine pre- estimate
+of damage or loss, can be so awarded.
+
+30\. It has been held by the ld. Single Judge therefore, that even assuming
+that clause 7.4 signifies a genuine pre-estimate of damages, MTNL was not
+relieved of showing that it had suffered some loss. Both legally and
+factually, this is the correct position.
+
+31\. On application of the above well settled principle, there can be no
+manner of doubt, that it was incumbent on MTNL to prove before the Arbitrator
+that it had suffered some loss, even though it may not have to prove the
+actual loss.
+
+32\. In the present case, the ld. Single Judge has noted that the ld.
+Arbitrator has found, that MTNL suffered no loss whatsoever.
+
+33\. We may extract the findings of the Arbitrator in this regard which read
+as follows :
+
+> "On perusal of the records furnish by MTNL we do not find any proof or
+> details of any loss incurred by the respondent that can be attributed
+> directly due to non- availability of the said cables. No mention of any risk
+> purchase has been made. Comparison of the price of the cables claim to have
+> been used by MTNL with the ordered cable is not provided.
+
+> It is an accepted fact that if agreed liquidate damages are to be enforce,
+> it must be the result in genuine pre- estimate of damages and they do not
+> include a sum fixed in terrorem covering a breach of contract.
+
+> Assumed loss of revenue to the tune of approx Rs.6.28 Cr is mentioned by the
+> respondent without any supporting FAO(OS)No.227/2017 Page 13 of 21 details
+> of breakup. Details are the same as stated in counter claims by the
+> respondent. It has many presumptions firstly on the number of pair in a
+> cable assumed 90% loading of cable, assumed 5 km length of primary cable and
+> assumed 24 months period till alternate arrangement of cable was made
+> through new tender. No mention of new tender quality specification rates etc
+> are given. Average revenue per user for 1992-93 at Rs.10765.61 is not
+> supported by any document."
+
+34\. In para 43 of the impugned judgment dated 11 th April, 2017, the ld.
+Single Judge has noted that the MTNL has not challenged this finding.
+
+35\. Despite the above conclusion in the Award, the Arbitrator holds as
+follows :
+
+> "In view of the reasons stated in the previous pages and going by the terms
+> of the contract at clause 7.4, the respondent is justified in invocation f
+> the bank guarantee and recovery of liquidity damages upto a maximum of 10%
+> of the total value of the order i.e. Rs.36,75,300/- only.
+
+36\. On a consideration of the material of the record of the arbitral
+tribunal, the ld. Single Judge has noted that "absolutely no material was
+placed on record by the MTNL that it suffered an iota of loss on account of
+non-supply of cables".
+
+37\. The ld. Single Judge has further returned the finding that even if MTNL
+had proved it that it had suffered some loss, the Arbitrator as the
+adjudicatory body, was required to award only a "reasonable sum". What would
+be the reasonable sum is to depend on the facts and FAO(OS)No.227/2017 Page 14
+of 21 circumstances of every case. In the present case, the ld. Single Judge
+has observed that the arbitrator has awarded the maximum amount specified
+under Clause 7.4. As noted above, MTNL led no evidence of loss. The ld. Single
+Judge has found that the Award of the amount is without any explanation at all
+as to how the maximum liquidated damages anticipated by the said clause was
+actually a "reasonable sum" in the facts and circumstances of the case. This
+is legally impermissible.
+
+38\. We are unable to fault with the findings of the ld. Single Judge that
+having found no loss whatsoever as having been suffered by the MTNL, there was
+no warrant or explanation at all for the Arbitrator awarding the maximum i.e.
+10% of the total value of the contract being the sum of Rs.36,75,300/-. The
+finding of the ld. Single Judge in the impugned judgments, that the Arbitral
+award was based on no evidence at all and was contrary to the well settled
+legal position, thus has to be upheld.
+
+Scope of Section 34 of the Arbitration Act
+
+39\. The ld. Single Judge has held that an award which was inconsistent with
+the law laid down by the decision of the Supreme Court would be opposed to the
+fundamental policy of the India and would attract the invalidation under
+Section 34(2)(b)(ii) of the Arbitration and Conciliation Act, 1996.
+
+40\. The extent of jurisdiction of the court while dealing with the challenge
+to an arbitral award, by now, stands authoritatively examined by a plethora of
+pronouncements of the Supreme Court, FAO(OS)No.227/2017 Page 15 of 21 which
+travel from the judgment reported at 1994 Supp (1) SCC 644, Renusagar Power
+Co. Ltd. v. General Electric Co. to (2015) 3 SCC 49, Associated Builders v.
+DDA. On an analysis of all the said decisions, this court has, in a recent
+judgment reported at MANU/DE/2699/2017, NHAI v. Hindustan Construction Co.
+Ltd., delineated the following propositions :
+
+> "36. Associated Builders v. DDA, MANU/SC/1076/2014 : (2015) 3 SCC 49, may
+> justifiably be christened as the high watermark in the law relating to
+> Section 34 of the Act, and any attempt to paraphrase the decision is fraught
+> with the risk of mutilation. The decision is, almost entirely, definitively
+> authoritative, and brooks no ambiguity or anomaly. Nonetheless, in view of
+> the proliferation of litigation, challenging arbitral awards, in recent
+> times, we have, in a recent decision, dated 10th August 2017, in Shiam
+> Cooperative Group v Kamal Construction Co. Ltd., extracted, in extenso, the
+> relevant paragraphs from the said decision, and respectfully culled,
+> therefrom, the following clear principles:
+
+> (i) The four reasons motivating the legislation of the Act, in 1996, were
+
+> (a) to provide for a fair and efficient arbitral procedure,
+
+> (b) to provide for the passing of reasoned awards,
+
+> (c) to ensure that the arbitrator does not transgress his jurisdiction, and
+
+> (d) to minimize supervision, by courts, in the arbitral process.
+
+> (ii) The merits of the award are required to be examined only in certain
+> specified circumstances, for examining whether the award is in conflict with
+> the public policy of India.
+
+FAO(OS)No.227/2017 Page 16 of 21
+
+> (iii) An award would be regarded as conflicting with the public policy of
+> India if
+
+> (a) it is contrary to the fundamental policy of Indian law, or
+
+> (b) it is contrary to the interests of India,
+
+> (c) it is contrary to justice or morality,
+
+> (d) it is patently illegal, or
+
+> (e) it is so perverse, irrational, unfair or unreasonable that it shocks the
+> conscience of the court.
+
+> (iv) An award would be liable to be regarded as contrary to the fundamental
+> policy of Indian law, for example, if
+
+> (a) it disregards orders passed by superior courts, or the binding effect
+> thereof, or
+
+> (b) it is patently violative of statutory provisions, or
+
+> (c) it is not in public interest, or
+
+> (d) the arbitrator has not adopted a "judicial approach", i.e. has not acted
+> a fair, reasonable and objective approach, or has acted arbitrarily,
+> capriciously or whimsically, or
+
+> (e) the arbitrator has failed to draw an inference which, on the face of the
+> facts, ought to have been drawn, or
+
+> (f) the arbitrator has drawn an inference, from the facts, which, on the
+> face of it, is unreasonable, or
+
+> (g) the principles of natural justice have been violated.
+
+> (v) The "patent illegality" had to go to the root of the matter. Trivial
+> illegalities were inconsequential.
+
+> (vi) Additionally, an award could be set aside if
+
+> (a) either party was under some incapacity, or
+
+> (b) the arbitration agreement is invalid under the law, or
+> FAO(OS)No.227/2017 Page 17 of 21
+
+> (c) the applicant was not given proper notice of appointment of the
+> arbitrator, or of the arbitral proceedings, or was otherwise unable to
+> present his case, or
+
+> (d) the award deals with a dispute not submitted to arbitration, or decides
+> issues outside the scope of the dispute submitted to arbitration, or
+
+> (e) the composition of the Arbitral Tribunal was not in accordance with the
+> agreement of the parties, or in accordance with Part I of the Act, or
+
+> (f) the arbitral procedure was not in accordance with the agreement of the
+> parties, or in accordance with Part I of the Act, or
+
+> (g) the award contravenes the Act, or
+
+> (h) the award is contrary to the contract between the parties.
+
+> (vii) "Perversity", as a ground for setting aside an arbitral award, has to
+> be examined on the touchstone of the Wednesbury principle of reasonableness.
+> It would include a case in which
+
+> (a) the findings, in the award, are based on no evidence, or
+
+> (b) the Arbitral Tribunal takes into account something irrelevant to the
+> decision arrived at, or
+
+> (c) the Arbitral Tribunal ignores vital evidence in arriving at its
+> decision.
+
+> (viii) At the same time,
+
+> (a) a decision which is founded on some evidence, which could be relied
+> upon, howsoever compendious, cannot be treated as "perverse",
+
+> (b) if the view adopted by the arbitrator is a possible view, it has to pass
+> muster,
+
+> (c) neither quantity, nor quality, of evidence is open to re-assessment in
+> judicial review over the award.
+
+FAO(OS)No.227/2017 Page 18 of 21
+
+> (ix) "Morality" would imply enforceability, of the agreement, given the
+> prevailing mores of the day. "Immorality", however, can constitute a ground
+> for interfering with an arbitral award only if it shocks the judicial
+> conscience.
+
+> (x) For examining the above aspects, the pleadings of the parties and
+> materials brought on record would be relevant.
+
+> (x) The court cannot sit in appeal over an arbitration award.
+
+> Errors of fact cannot be corrected under Section 34. The arbitrator is the
+> last word on facts."
+
+41\. It is apparent, therefore, that, while interference by court, with
+arbitral awards, is limited and circumscribed, an award which is patently
+illegal, on account of it being injudicious, contrary to the law settled by
+the Supreme Court, or vitiated by an apparently untenable interpretation of
+the terms of the contract, requires to be eviscerated. In view thereof, the
+decision of the ld. Single Judge that reasoning of the arbitral award in this
+regard was based on no material and was contrary to the contract, cannot be
+said to be deserving of any interference at our hands under Section 37 of the
+Act. In a pronouncement reported at MANU/DE/0459/2015, MTNL v. Fujitshu India
+Pvt. Ltd. (FAO(OS) No.63/2015), the Division Bench of this court has held that
+"an appeal under Section 37 is like a second appeal, the first appeal being to
+the court by way of objections under Section 34". Being in the nature of a
+second appeal, this court would be hesitant to interfere, with the decision of
+the learned Single Judge, unless it is shown to be palpably erroneous on facts
+or in law, or FAO(OS)No.227/2017 Page 19 of 21 manifestly perverse. The
+impugned judgment dated 11 th April, 2017 of the ld. Single Judge cannot be
+said to suffer from any such infirmity.
+
+Conclusion
+
+42\. It is to be noted that the arbitral tribunal rejected the counter claim
+of the MTNL, yet proceeded to award liquidated damages. We are unable to agree
+with Mr. Abhinav Vasisht, ld. Senior Counsel for the appellant - MTNL that the
+contract was of such nature that it was not possible to evaluate the damages
+and therefore, that 10% of the amount quantified in the contract between the
+parties as liquidated damages had to be treated as being reasonable award of
+damages.
+
+43\. It is clearly stated in para 43.6 of Kailash Nath that in case where
+damages are difficult or impossible to prove, the claimants would be entitled
+to the liquidated damages if they were a genuine pre-estimate of the damage.
+No material at all in this regard was produced before the arbitral award. MTNL
+has not even asserted that it had suffered loss.
+
+44\. The Arbitrator has not even examined the challenge by the FCL to the
+encashment of the bank guarantees furnished by FCL to MTNL for other contracts
+and permitting amount thereof to be applied towards liquidated damages claimed
+by MTNL in the present case. In any case, keeping in mind the view taken by
+the ld. Single Judge qua the Award of the liquidated damages for which these
+two bank guarantees were encashed, there is no justification at all for
+encashment of these two bank guarantees.
+
+FAO(OS)No.227/2017 Page 20 of 21
+
+45\. In view of the above discussion, the judgment dated 11th April, 2017
+passed by the ld. Single Judge cannot be assailed on any legally tenable
+grounds.
+
+Result
+
+46\. The present appeal is completely devoid of merit and is hereby dismissed
+with costs which are quantified at Rs.50,000/-.
+
+ACTING CHIEF JUSTICE C.HARI SHANKAR, J SEPTEMBER 18, 2017 mk
+FAO(OS)No.227/2017 Page 21 of 21
+

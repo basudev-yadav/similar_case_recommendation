@@ -1,0 +1,329 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Adobe Systems India Pvt. Ltd., ... vs Assessee on 5 October, 2010
+
+    
+    
+                                                                  ITA NO. 5043/DEL/2010
+    
+    
+                      IN THE INCOME TAX APPELLATE TRIBUNAL
+                            DELHI BENCH "A" NEW DELHI
+                     BEFORE SHRI R.P. TOLANI, JUDICIAL MEMBER
+                                         AND
+                    SHRI SHAMIM YAHYA, ACCOUNTANT MEMBER
+                                I.T.A. No. 5043/Del/2010
+    
+                                     A.Y. : 2006-07
+    M/s Adobe Systems India Private        vs. Additional Commissioner of
+    Limited,                                   Income Tax,
+    Plot No. 1-1-A, City Centre,               Noida Range,
+    Sector-25-A,                               Noida
+    Noida (UP) - 201301
+    (PAN/GIR NO. : AACCA2982J)
+    (Appellant )                                 (Respondent )
+    
+                 Asseessee by               :    Sh. Arijit Chakravarty, A.R.
+                Department by               :    Mr. Ashok Pandey, C.I.T.(D.R.)
+    
+                                   ORDER
+    
+
+PER SHAMIM YAHYA: AM This appeal by the Assessee is directed against the order
+of the Ld. Commissioner of Income Tax (Appeals) dated 05.10.2010 and pertains
+to assessment year 2006-07.
+
+2\. The effective issue raised is that Ld. Commissioner of Income Tax
+(Appeals) erred in passing the assessment order u/s 143(3) read with section
+144C of the IT Act. It has been urged that Assessing Officer /DRP has erred in
+making the addition of ` 10,40,75,727/- to the income of the assessee on
+account of adjustment in the Arms Length Price of international transaction
+entered by the assessee with associated enterprise. It has been urged that
+TPO/Assessing Officer has erred by accepting companies earning super normal
+profits.
+
+1
+
+ITA NO. 5043/DEL/2010
+
+3\. The brief facts of the case are that the assessee Adobe Systems India
+Private Limited (hereinafter called Adobe India or the Assessee) is a wholly
+and subsidiary of Adobe Systems Inc., USA. It is engaged in providing software
+development services and marketing support services to its associated
+enterprises. The TPO in this case noted that the assessee company is showing
+OP/Cost Margin of 14.96% which he considered to be quite low, as compared to
+other companies which are engaged in similar IT fields. The TPO in this case
+passed a Transfer Pricing order making a upward adjustment of ` 10,40,75,727/-
+on the arms length price of the international transactions. The TPO had worked
+out the average of arithmetic mean of ALP (OP/OC) of 42 comparables at the
+average of 24.91 percent. The Arm's Length Price of international transaction
+was determined as under:-
+
+    
+    
+         "Operating Revenue                 ` 110,31,15,603 (A)
+    
+         Total cost                         ` 96,64,48,907/- (B)
+    
+         Operating Profit                   ` 13,66,66,696 (C)
+    
+    
+
+Arm's Length Price of Operating ` 24,07,42,423 (D) Profit 2 24.91% Adjustment
+(D-C) ` 10,40,75,727/-
+
+Accordingly, the Arm's length price of the International Transaction has been
+adjusted upwardly by ` 10,40,75,727/-."
+
+4\. The TPO did so by rejecting some of the comparables used by the assessee
+and added some more comparables which the assessee had objected. Ld. counsel
+of the assessee submitted that he shall be  2 ITA NO. 5043/DEL/2010
+restricting his arguments against the inclusion of the following in the
+transfer pricing analysis.
+
+    
+    
+    
+    S.No. Company Name                      OP/OC margin for F.Y. 2005-06
+    
+    1.    Cranes Software International Ltd.          90.91%
+    
+    2.    GDA Technologies Limited                    158.06%
+    
+    3.    Jayamuruthi Software Systems Limited        103.94%
+    
+    4.1   Assessee's submission in this regard is that these are           super
+    normal profit making         companies and should be excluded from
+    
+
+comparables set. As there is tendency skew the results and cannot be
+considered as representative of the industry. Against the above contention of
+the assessee TPO only dealt with Jayamaruthi Software Systems Limited and GDA
+Technologies Limited and did not deal with Cranes Software International
+Limited. The assessee's submission as regards the GDA Technologies was as
+under:-
+
+> "This company did not appear in the search conducted by the assessee in its
+> transfer pricing documentation.
+
+> As per the products details available in Prowess database, for F.Y 2005-06,
+> the company has earned its entire income from "Computer hardware and
+> software".
+
+> On review of this Annual Report (attached as Annexure 4) for FY 2006-07 (as
+> annual report for FY 2005-06 is not available) it is observed as follows:-
+
+3
+
+> ITA NO. 5043/DEL/2010 • Page 64 of the Annual Report, "....,your company has
+> carried out IC design, systems design, software development and PCB layout
+> for several global customers."
+
+• Page 64 of the Annual Report, "The company has also started offshore Design
+Centres during the year for customers based out of US. The company has
+developed office in a Box, several Field Programmable Gage Array boards,
+Gigabit Passive Optical Network) during the year."
+
+Based on the above, it is evident that the company is primarily engaged in
+developing and licensing of products which are not similar to the services
+provided by the assessee. Further, no segmental information is available.
+Hence, we wish to submit that the same cannot be considered as a comparable
+and should be rejected as "functionally different".
+
+Additionally, the assessee would like to bring to your attention that
+supernormal profit making companies should be excluded from the comparable set
+as they have a tendency to skew the results and cannot be considered as
+representative of the industry.
+
+The judgement pronounced by the Hon'ble Delhi Income Tax Appellate Tribunal
+(ITAT) in the case of Mentor Graphics (Noida) Pvt. Ltd. mentions the following
+on pages 39-40 of the above mentioned ITAT Ruling:
+
+".....The wide difference in the ratio of operating margins...in the final
+selection of comparable ....is a clear pointer to the fact that the selection
+made was faulty...The OECD guideline on this point is as under-
+
+4
+
+> ITA NO. 5043/DEL/2010 1.47 Where the application of one or more methods
+> produces a range of figures, a substantial deviation among points in that
+> range may indicate that the data used in establishing the some of the points
+> may not be as reliable as the data used to establish the other points in the
+> range or that the deviation may result from features of the comparable data
+> that require adjustments"
+
+> Inferring from the above ruling, we requests your goodself to not consider
+> companies displaying abnormal profits since they deviate from the normal
+> trend displayed by the data set."
+
+4.2 The assessee's submission as regards the Jayamaruthi Software Systems
+Limited was as under:-
+
+> "This company was rejected by the assessee in its transfer pricing
+> documentation, on the ground that this company is "functionally not
+> comparable".
+
+> • The company has negligible employee cost, i.e. 0.01 cores on turnover of
+> 5.69 crores which is extraordinarily low for a service company. Moreover,
+> the company's annual report is not available to validate its cost structure.
+> Given the abnormal cost structure it is not prudent to rely on the financial
+> statements of the company. Hence, the company should be rejected on this
+> basis.
+
+> Additionally, the assessee would like to bring to your attention that
+> supernormal profit making companies should be excluded from the comparable
+> set as they have a tendency to skew the results and cannot be considered as
+> representative of the industry.
+
+5
+
+> ITA NO. 5043/DEL/2010 The judgement pronounced by the Delhi ITAT in the case
+> of Mentor Graphics (Noida) Pvt. Ltd. (supra) has also mentioned the
+> reservation against using supernormal profit making companies in the
+> comparable set.
+
+> Based on above facts, the company should not be considered as a comparable
+> company."
+
+4.3 The assessee's submission as regards the Cranes Software International
+Limited was as under:-
+
+> "This company was rejected by the assessee in its transfer pricing
+> documentation, on the ground that the company was "functionally not
+> comparable".
+
+> The Annual Report (Attached as Annexure 2) and website of the company states
+> as under:-
+
+> "Over the last few years, the Company has established itself as a key player
+> in the software products market catering to the needs of the global
+> scientific and engineering community."
+
+> "Cranes Software International Limited is a company that provides Enterprise
+> Statistical Analytics and Engineering Simulation Software Products and
+> Solutions across the globe. The Company's business interest span Products,
+> Productized Solutions, Services and R&D in future technologies."
+
+> "Cranes Software offers a range of proprietary products - SYSTAT, SigmaPlot,
+> SigmaStat, SigmaScan, TableCurve 2D, TableCurve 3D, PeakFit, NISA, XID, XIP,
+> Survey ASYST, iCaptella, InventX and World-renowned products from reputed
+> principals  6 ITA NO. 5043/DEL/2010 such as Engineering Technology
+> Associates, The Mathworks, Texas Instruments and IBM".
+
+> Accordingly, Cranes is a product based company and owns proprietary products
+> and cannot be compared with the assessee who undertakes only routine
+> functions in developing modules of software and does not own any intangibles
+> in this regard.
+
+> Further, as per the depreciation schedule of the company for FY 2005-06, out
+> of the total net assets value of ` 148.54 cr., the value of intangible
+> (computer software) is ` 136.70 cr.
+
+> The presence of intangibles in the balance sheet of Cranes clearly shows
+> that, it is performing significant research and development activities to
+> develop intangibles. Accordingly, it cannot be considered as being
+> comparable to the assessee which is a risk mitigated contract services
+> provider and does not own any intellectual property rights (IPRs). Due to
+> the presence of intangibles the functions performed and risks assumed by
+> Cranes will be different from that of the assessee and cannot be used to
+> benchmark the international transaction of the assessee.
+
+> Accordingly, Cranes should not be considered as comparable to Adobe India."
+
+4.4 The TPO's observations with regard to these companies were as under:-
+
+> "With respect to M/s Jayamaruthi Software System Ltd. (Sr. No.
+
+> 24), the submission of the assessee has been rejected and is however,
+> required to be included in the list of departmental comparable as it is a
+> listed company and the results are  7 ITA NO. 5043/DEL/2010 audited. The
+> ground that a company is making a supernormal profit, is not accepted on the
+> ground that this comparable is showing consistent growth at about same level
+> in the preceding years also. Hence, there is no abnormality in its
+> performance.
+
+> In respect of M/s GDA Technologies Ltd. (Sr. No. 15), the assessee has
+> submitted the accounts of M/s GDA Technology Inc., USA (the parent Company
+> of M/s GDA Technologies Ltd.) to show that the said Indian company i.e. M/s
+> GDA Technologies Ltd, has sufficient Relates party transactions. However,
+> the annual report of the Indian company as well as the information available
+> with 'Capital line' database and 'Prowess' data base do not show such
+> details of related party transactions. Hence, the submission of the assessee
+> is not accepted and accordingly M/s GDA Technologies Ltd. is included in the
+> departmental list of comparables."
+
+4.5 Apart from rejecting some of the comparables and adding some more
+comparables, the Assessing Officer also used updated data for financial year
+2005-06 instead of mean (weighted ALP of earlier years) as computed by the
+assessee. Ld. counsel of the assessee in this regard submitted no adjustment
+has been made to the assessee's transfer pricing in earlier years and
+assessment was done u/s 143(3) of the IT Act. He submitted before us that even
+if the data considered by Assessing Officer is used excluding companies with
+super normal profits the arithmetic mean of OP/OC will be 17.15% which will
+fall within the + - 5% range as permitted by section 92(C)(2).
+
+5\. We have carefully considered the submissions. We find that TPO has
+rejected the assessee's contention with regard to inclusion of  8 ITA NO.
+5043/DEL/2010 these three supernormal profit companies without any cogent
+reason.
+
+He has not given any comment regarding objection of the assessee regarding
+inclusion of Crane Software International Limited in the comparables.
+Regarding Jayamaruthi Software Systems Ltd. he brushed assessee's objection by
+simply stating that it is a listed company and results are audited. Regarding
+assessee's objection for inclusion of M/s GDA Technologies Ltd. that the said
+company has sufficient related party transaction, but the TPO has brushed the
+contention by ignoring the documents submitted by the assessee and holding
+that data available with him does not show details of related party
+transaction. It is undisputed that these three companies have shown
+supernormal comparable profits as compared to the other comparable. There
+exclusion from the list of comparable is quite correct. By excluding these
+three companies from the comparables and showing the computation on the basis
+of TPO data the arithmetic mean of OP/OC to 17.15% which falls within the +-5%
+range as permitted by section 92(C)(2). Hence, we find considerable cogency in
+the arguments of the ld. counsel of the assessee in this regard.
+
+5.1 We further find that assessee has made voluminous submissions including
+paper books before the DRP who has passed a very cursory  9 ITA NO.
+5043/DEL/2010 and laconic order without going into the details of the
+submissions. We find that this is quite contrary to the mandate of section
+144C of the IT Act.
+
+5.2 In our considered opinion, circumstances do not warrant any change in the
+mark up. Accordingly, we set aside the order of the Assessing Officer and
+decide the issue in favour of the assessee.
+
+6\. In the result, the appeal filed by the assessee is allowed.
+
+Order pronounced in the open court on 21/01/2011 as above.
+
+    
+    
+           Sd/-                                         Sd/-
+    
+     [R.P. TOLANI]                                 [SHAMIM YAHYA]
+    JUDICIAL MEMBER                                ACCOUNTANT MEMBER
+    
+    Date 21/01/2011
+    
+    SRB
+    Copy forwarded to: -
+    1.     Appellant 2.     Respondent             3.   CIT    4.    CIT (A)
+    5.     DR, ITAT
+    
+    
+                                 TRUE COPY
+                                                        By Order,
+    
+    
+                                                             Deputy Registrar,
+                                                           ITAT, Delhi Benches
+    
+    
+    
+    
+                                         10
+     
+

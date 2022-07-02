@@ -1,0 +1,405 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Fnf Business Process ... vs Dcit Cr 3(1)(2), Bangalore on 31 January, 2019
+
+    
+    
+                    IN THE INCOME TAX APPELLATE TRIBUNAL
+                               "B" BENCH : BANGALORE
+    
+         BEFORE SHRI CHANDRA POOJARI, ACCOUNTANT MEMBER AND
+                      SHRI LALIET KUMAR, JUDICIAL MEMBER
+    
+                                 IT(TP)A No. 221/Bang/2015
+                                 Assessment Year : 2010-11
+    
+            M/s. FNF India Private
+            Limited (formerly known as
+            FNF Business Process
+            Outsourcing Services Private               The Deputy Commissioner
+            Limited),                                  of Income-Tax,
+                                                vs.
+            Survey No. 46 (P) & 47 (P),                Circle - 3 (1)(2),
+            Electronic City, Phase - II,               Bangalore.
+            Hosur Road,
+            Bangalore - 560 100.
+            PAN: AAECP1100B
+                     APPELLANT                                RESPONDENT
+    
+               Appellant by          :   Shri K.R. Vasudevan, Advocate
+               Respondent by         :   Ms. Neera Malhotra, CIT (DR)
+    
+                        Date of hearing                 :    30.01.2019
+                        Date of Pronouncement           :    31.01.2019
+    
+                                           ORDER
+    
+
+Per Shri Chandra Poojari, Accountant Member This appeal by assessee is
+directed against the assessment order passed u/s. 143(3) r.w.s. 144C of IT Act
+dated 30.12.2014 in consequence to DRP order passed u/s. 144C(5) of the Act
+dated 17.11.2014.
+
+2\. The assessee raised the following grounds.
+
+> "I. Transfer Pricing
+
+> 1\. The learned Deputy Commissioner of Income Tax (Transfer Pricing- IV),
+> Bangalore ("Transfer Pricing Officer" or "learned TPO") grossly erred in
+> determining an adjustment u/s 92CA of the Income-tax Act, 1961 to the Arm's
+> Length Price ('ALP') of the international transaction entered into by the
+> Appellant with its Associated Enterprises ("AEs") with respect to the
+> Information Technology Enabled services ("ITeS").
+
+> IT(TP)A No. 221/Bang/2015  Page 2 of 10
+
+2\. The Appellant aggrieved by the TPO Order further appealed before the
+Dispute Resolution Panel ("DRP") against the TPO order and subsequently, the
+learned Assessing Officer ("learned AO") issued the final assessment order
+with a transfer pricing ("TP") adjustment of INR 30,281,283/-
+
+3\. The learned AO / learned TPO erred in rejecting the TP documentation
+maintained by the Appellant by invoking provisions of sub-section (3) of 92C
+of the Act contending that the information or data used in the computation of
+the ALP is not reliable or correct. The learned AO/ learned TPO has grossly
+erred therefore in :
+
+3.a rejecting comparability analysis carried in the TP documentation and in
+conducting a fresh comparability analysis by introducing various filters in
+determining the ALP.
+
+3.b rejecting companies that are functionally comparable to the Appellant
+while performing the comparability analysis. Specifically, the following
+companies ought to have been included as comparable: • Nittany Outsourcing
+Services Private Limited • Datamatics Financial Services Limited • R Systems
+International Limited • Caliber Point Business Solutions Limited • Ultramarine
+& Pigments Limited • Jindal Intellicom Private Limited
+
+3.c including companies that do not satisfy the test of comparability.
+Specifically, the following companies selected as functionally comparable by
+the learned AO / learned TPO ought to have been rejected:
+
+• Accentia Technologies Limited • Fortune Infotech Limited • Jeevan Scientific
+Technology Limited
+
+4\. The learned AO / learned TPO has erred in application of employee cost
+filter of 25% by selecting Jeevan Scientific Technology Limited, which has an
+employee cost to sales ratio of 20.67%.
+
+5\. The learned AO / learned DRP erred in applying export earning filter of
+75% instead of 25%.
+
+6\. The learned AO / learned DRP erred in rejecting ICRA Online Limited, a
+company functionally not comparable, by applying export earning filter.
+
+7\. The learned AO / learned TPO erred in not considering the multiple year /
+prior year financial data of comparable companies while determining the ALP.
+
+IT(TP)A No. 221/Bang/2015  Page 3 of 10
+
+8\. The learned AO / learned TPO erred in application of different financial
+year ending filter.
+
+9\. The learned AO / learned TPO erred in using data as at the time of
+assessment proceedings, instead of that available as on the date of preparing
+the TP documentation for comparable companies while determining ALP.
+
+10\. The learned AO / learned TPO erred in not considering the provision for
+bad and doubtful debts as operating in nature.
+
+11\. The learned AO / learned TPO erred in computation of working capital
+adjustment.
+
+12\. The learned AO / learned TPO erred in ignoring the limited risk nature of
+the contractual services provided by the Appellant and in not providing an
+appropriate adjustment towards the risk differential, even when the full-
+fledged entrepreneurial companies are selected as comparable companies.
+
+II. Corporate Tax
+
+1\. Interest under Section 234B of the Act The learned AO erred in levying
+interest under section 234B of the Act amounting to INR 4,726,839/- The levy
+of interest under section 234B of the Act is consequential in nature.
+
+2\. Interest under Section 234D of the Act The learned AO erred in levying an
+additional interest under section 234D of the Act amounting to INR 165,275/-.
+The levy of interest under section 234D of the Act is consequential in nature.
+
+The appellant craves leave to add, alter, rescind and modify the grounds
+provided herein above or produce further documents, facts and evidence before
+or during the course of hearing of this appeal.
+
+For the above and any other grounds which may be raised at the time of
+hearing, it is prayed that necessary relief may be provided."
+
+3\. At the time of hearing, assessee not pressed ground nos. 1, 2, 3, 3(a), 4,
+5, 6, 7, 8, 9, 10,11 & 12\. The ld. AR pressed only ground related to the
+comparables in 3(b) with reference to R Systems International Limited. Other
+five comparables viz., Nittany Outsourcing Services Pvt. Ltd., Datamatics
+Financial Services Ltd., Caliber Point Business Solutions Ltd., Ultramarine &
+Pigments Ltd. and Jindal Intellicom Pvt. Ltd. are not pressed.
+
+IT(TP)A No. 221/Bang/2015  Page 4 of 10
+
+4\. The first ground for consideration in this appeal is with regard to
+considering R Systems International Ltd. as comparable.
+
+5\. The assessee has selected in the transfer pricing documentation R Systems
+International Ltd. as a comparable company since it is functionally comparable
+and passing all the filters applied by the assessee in the TP documentation.
+However the lower authorities rejected that company on the basis that it has
+different year ending. Against this assessee is in appeal before us. The ld.
+AR submitted that R Systems International Ltd. accounting period is January to
+December and assessee's accounting period is April to March, therefore that
+the assessee and R Systems International Ltd. were operating for a period of
+12 months accounting cycle. Since they were facing similar business cycles,
+market and economic conditions, it is not possible to say that because of
+different accounting period it had any impact on its financials and resulted
+into distortion of comparability. Since use of different accounting period
+have no effect on the comparability parameters as mentioned in Rule 10B(2) of
+the IT Rules 1962, therefore it would be inappropriate to reject R Systems
+International Ltd. which is functionally comparable company only on the reason
+that it has different accounting period. He relied on the judgement of Hon'ble
+Punjab & Haryana High Court in the case of CIT Vs. Mercer Consulting (India)
+Pvt. Ltd. in ITA No. 101 of 2015(O&M) dated 24.08.2016 wherein Hon'ble High
+Court held that "the Rule 10(B)(4) does not exclude from consideration the
+data of an entity merely because its financial year is different from the
+financial year of the assessee. What the Rule requires is that the data to be
+used in analyzing the financial results of an uncontrolled transaction with an
+international transaction shall be the data relating to the financial year in
+which the international transaction has been entered into. Thus, so long as
+the data relating to the financial year is available, it matters not, if the
+financial year followed is different. In the case before us the data relating
+to the relevant financial year of R.Systems International Limited is
+available. We are, therefore, entirely in agreement with the decision of the
+Tribunal that if the data relating to the financial year in which the
+international transaction has been entered into is directly available from
+IT(TP)A No. 221/Bang/2015  Page 5 of 10 the annual accounts of that
+comparable, then it cannot be held as not passing the test of sub-rule(4) of
+rule 10B."
+
+6\. On the other hand the ld. DR submitted that the accounting period of
+assessee and R Systems International Ltd. are different and hence the lower
+authorities have not considered R Systems International Ltd. as comparable.
+The same to be upheld. For this purpose she relied on the decision of Pune
+Bench of the Tribunal in the case of Schlumberger India Technology Centre (P.)
+Ltd. Vs. DDIT in ITA No. 640 (PUN.) of 2014 dated 10.01.2018 wherein held in
+para 21 as follows.
+
+> "21. Now, coming to the concern Jindal Intellicom Pvt. Ltd. The case of
+> assessee before us is that the said concern has different financial year
+> than the one of assessee. The Assessing Officer had applied the current year
+> data as contemporaneous data to be used for benchmarking the arm's length
+> price of international transactions of assessee. The assessee had prepared
+> its financial statements for the financial year starting from 1st April,
+> 2009 to 31st March, 2010. The case of assessee before us is that Jindal
+> Intellicom Pvt. Ltd. has prepared its financial statements for period of 15
+> months and the same is not to be selected in the final set of comparables.
+
+> 22\. We find that the Pune Bench of Tribunal in the case of BMC Software
+> India Pvt. Ltd. Vs. DCIT in ITA No.1425/PN/2010, relating to assessment year
+> 2006-07, order dated 16.03.2016 had rejected the concern having 15 months
+> financials.
+
+> 23\. The Hon'ble Bombay High Court in the case of CIT Vs. PTC Software (I)
+> Pvt. Ltd. in Income Tax Appeal No.732 of 2014 had also held that the
+> comparable data should pertain to the same financial year. Accordingly, we
+> hold that the margins of concern having different accounting period cannot
+> be selected for benchmarking international transactions and the same is to
+> be excluded from the final set of comparables. Accordingly, we direct the
+> Assessing Officer to exclude Jindal Intellicom Pvt. Ltd."
+
+7\. We have heard both the parties and perused the material on record. As
+rightly pointed out by the ld. AR, Rule 10(B)(4) does not exclude from
+consideration the data of an entity merely because its financial year is
+different from the financial year of the assessee. What the Rule requires is
+that the data to be used in analyzing the financial results of an uncontrolled
+transaction with an international transaction shall be the data relating to
+the financial year in which the IT(TP)A No. 221/Bang/2015  Page 6 of 10
+international transaction has been entered into. Thus so long as the data
+relating to the financial year is available, it matters not, if the financial
+year followed is different. In the case before us the data relating to the
+relevant financial year of R.Systems International Limited is available. We
+are, therefore, entirely in agreement with the decision relied by ld. AR that
+if the data relating to the financial year in which the international
+transaction has been entered into is directly available from the annual
+accounts of that comparable, then it cannot be held as not passing the test of
+sub-rule(4) of rule 10B and the same is the view taken by Hon'ble Punjab &
+Haryana High Court in the case of CIT Vs. Mercer Consulting (India) Pvt. Ltd.
+(supra). Being so, in our opinion data relating to the assessee financial year
+to be interpolated and thereafter if required, it should be considered as a
+comparable to the assessee's case. With this observation we remit this issue
+to the file of TPO for his fresh consideration.
+
+8\. The next ground of appeal is with regard to exclusion of Accentia
+Technologies Limited as comparable. The ld. AR submitted that • Accentia is
+engaged in rendering IT enabled services in the fields of medical
+transcription, billing and coding. Further it is evident from the website of
+the company, that the company develops its own software products for Business
+Process Outsourcing. Furthermore, Accentia is the first company to offer
+Software as Service model in the Healthcare Receivables Management area.
+However, the company has not provided any segmental data. Hence, the Company
+cannot be considered comparable to the assessee.
+
+• Accentia possesses brand value/ IPRs as reflected in the Financial
+Statements, which will tend to influence the pricing policy and thereby
+directly impacting the margins earned.
+
+• Accentia has acquired the IQ Group of companies of United Kingdom consisting
+of three companies, Tactiq Ltd., Centric Ltd. and Neologiq Ltd and also
+amalgamated Ascent Infoserve. Owing to these extra ordinary events, Accentia
+should not be considered comparable to the assessee.
+
+Further, the IQ Group of companies are engaged in Full Product IT(TP)A No.
+221/Bang/2015  Page 7 of 10 Development Lifecycle involving Electronic Design
+and development, Software Design and Development and separate validation
+service, and User Interface Design and Implementation and Product Development
+Consultancy and Troubleshooting involving Systematic Technology Consultation
+software product design and development services.
+
+• The assessee also provided the workings highlighting the abnormal
+fluctuations in revenues and profits of Accentia for a 5 year period.
+
+9\. He submitted that the assessee does not agree to the acceptance of
+Accentia as a comparable company since it not only provides ITES but it is
+also into software products development and provides software as service.
+Also, the learned TPO in order to suit his own requirements and needs has
+accepted Accentia as a comparable.
+
+9.1 The ld. DR submitted that as per its Annual Report the assessee's
+operation includes medical transcription, medical coding, billing and
+receivable management (collection) all are integral part of the health care
+BPO services termed as HRCM Services. In regard to revenue recognition, the
+objection cannot be upheld in view of the financial reporting narrated in
+annual report wherein it was mentioned that company shall prepare and maintain
+its accounts fairly and accurately in accordance with the accounting and the
+financial reporting Question of segmental information does not arise as per
+the annual report, the company has only one segment.
+
+10\. We have heard both the parties and perused the material on record. The
+main contention of ld. AR is this Accentia Technologies Ltd. is functionally
+not comparable to assessee, which is a BPO. The segmental data relevant to
+software services and product ITES are not available in the annual report.
+That company own intangibles. These facts were considered in the case of the
+coordinate bench in the case of Outsource Partners International Pvt. Ltd. Vs.
+DCIT in IT(TP)A No. 337/Bang/2015 dated 06.02.2017 and held that it cannot be
+a comparable case as in the case of assessee. Being so, we uphold the argument
+of ld. AR and direct the TPO to exclude the above comparable.
+
+IT(TP)A No. 221/Bang/2015  Page 8 of 10
+
+11\. The next ground of the appeal of the assessee is with regard to exclude
+Fortune Infotech Limited as comparable. The ld. AR submitted that that company
+uses web based software, unique technology and technical knowhow imported from
+its business partners for providing BPO services. He relied on the decision of
+coordinate bench of the Tribunal in the case of Outsource Partners
+International Pvt. Ltd. Vs. DCIT (supra).
+
+11.1 On the other hand, ld. DR submitted that on examination of the annual
+report of Fortune Infotech Ltd., it was noticed that there is no mention in
+the annual report about the import of the unique technology and technical
+knowhow from the business partners. Even otherwise, every company is required
+to use the software and technology for providing ITEs services and therefore,
+above company is to be considered as comparable to the assessee's case. The
+ld. DR relied on the directions of DRP.
+
+12\. We have heard both the parties and perused the material on record. As
+discussed in earlier year this comparable Fortune Infotech Ltd. was rejected
+as a comparable in the case of Outsource Partners International Pvt. Ltd. Vs.
+DCIT (supra) and it was held that it cannot be a comparable. Accordingly, we
+direct the AO/TPO to exclude the same.
+
+13\. The next ground is with regard to exclusion of Jeevan Scientific
+Technology Limited in ground no. 3(c). This ground does not require any
+adjudication in view of our findings with regard to issue raised in additional
+ground.
+
+14\. The assessee has raised additional ground and submitted the reason for
+raising an additional ground as follows.
+
+> "Ground No. 4A: Jeevan Scientific Technology Ltd. (hereinafter referred to
+> as "Jeevan Scientific") should be rejected as it fails service income filter
+> of 75% as applied by the Ld. TPO.
+
+> The Appellant submits that income form ITES activities for Jeevan Scientific
+> is less than 75% of the total operating income and therefore Jeevan
+> Scientific does not qualify the service income filter as applied by the TPO
+> and therefore is not comparable to the Appellant.
+
+> Reason for filing Additional Ground of Appeal IT(TP)A No. 221/Bang/2015
+> Page 9 of 10 The Appellant in the Form 36B has taken a generic ground for
+> rejection of Jeevan Scientific on comparability and employee cost filter.
+> However, in order to bring out a more specific argument for exclusion of
+> Jeevan Scientific we would like to bring to your kind attention that Jeevan
+> Scientific fails the service income filter applied by the TPO himself and
+> therefore cannot be comparable to the Appellant. On the above basis, we
+> humbly request the Hon'ble Bench members to reject the above-mentioned
+> company from the final set of comparable.
+
+> Ground No. 5A: DRP has on its own modified the filter i.e., export earning
+> filter The Appellant submits that the Appellant and the Ld. TPO has
+> unilaterally applied 25% export earning filter but the DRP has on its own
+> applied export earning filter of 75% and rejected the company which were not
+> disputed either by the Appellant or by the Department before the DRP."
+
+15\. The ld. AR submitted that admittedly the assessee raised that in ground
+no.
+
+3 for exclusion of Jeevan Scientific Technology Limited and also in ground no.
+5 with regard to applying export earning filter of 75% instead of 25%. However
+assessee has raised additional ground for exclusion of Jeevan Scientific
+Technology Limited on the basis that income from ITES activities of Jeevan
+Scientific Technology Ltd. is less than 75% of the total income and therefore
+Jeevan Scientific Technology Ltd. does not qualify the service income treated
+as applied by the TPO. Hence it is to be excluded as comparable to the
+assessee's case. In our opinion this is not additional ground but only
+modified ground so as to facilitate proper adjudication of the issue. Hence,
+we are inclined to admit this ground in the interest of justice.
+
+16\. The ld. AR submitted that Jeevan Scientific Technology Ltd. cannot be
+considered as comparable to the assessee's case as it fails service income
+filter of 75% as applied by the TPO. It is also submitted that DRP has itself
+excluded ICRA Online Ltd. as comparable but the fact that 75% of export
+earning filter needs to be applied as against 25% of export earning filter
+applied by the TPO. Therefore in our opinion these facts required to be
+examined by the TPO and if it is so ICRA Online Ltd. was excluded as
+comparable, this comparable is also to be excluded on the same basis.
+Accordingly, this issue is remitted to TPO for fresh consideration with this
+observation.
+
+IT(TP)A No. 221/Bang/2015  Page 10 of 10
+
+17\. With regard to levy of interest u/s. 234B and 234D of IT Act which are
+consequential and mandatory in nature to be computed accordingly.
+
+18\. In the result, the appeal filed by the assessee is partly allowed for
+statistical purposes.
+
+Pronounced in the open court on this 31st day of January, 2019.
+
+    
+    
+                  Sd/-                                         Sd/-
+             (LALIET KUMAR)                             (CHANDRA POOJARI)
+              Judicial Member                             Accountant Member
+    
+    Bangalore,
+    Dated, the 31st January, 2019.
+    /MS/
+    
+    Copy to:
+    1. Appellant                4. CIT(A)
+    2. Respondent               5. DR, ITAT, Bangalore
+    3. CIT                      6. Guard file
+    
+                                                                   By order
+    
+    
+    
+                                                              Assistant Registrar,
+                                                         Income Tax Appellate Tribunal,
+                                                                  Bangalore.
+     
+

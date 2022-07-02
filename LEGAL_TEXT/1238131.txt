@@ -1,0 +1,384 @@
+
+
+Bombay High Court
+
+The Commissioner Of Income Tax-8 vs M/S. Gem Plus Jewellery India Ltd on 23
+June, 2010
+
+Bench: Dr. D.Y. Chandrachud, J.P. Devadhar
+
+    
+    
+                                              1
+    
+                IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+    
+    
+    
+    
+                                                                                     
+                                        O. O. C. J.
+    
+    
+    
+    
+                                                            
+                      INCOME TAX APPEAL NO.2426 OF 2009
+    
+        The Commissioner of Income Tax-8                     ..Appellant.
+             Vs.
+    
+    
+    
+    
+                                                           
+        M/s. Gem Plus Jewellery India Ltd.                   ..Respondent.
+    
+                                          ....
+        Ms Suchitra Kamble for the Appellant.
+    
+    
+    
+    
+                                                 
+        Ms Arti Vissanji  with Mr. S.J. Mehta for the Respondent.
+                                 ig      .....
+    
+                           CORAM : DR.D.Y.CHANDRACHUD &
+                                      J.P.DEVADHAR, JJ.
+    
+
+23 June 2010.
+
+ORAL JUDGMENT (Per. DR.D.Y.CHANDRACHUD, J.) :
+
+1\. Admit. On the request of counsel for the Revenue and counsel for the
+assessee, the appeal is taken up for final hearing.
+
+2\. This appeal by the Revenue under Section 260-A of the Income Tax Act, 1961
+pertains to Assessment Year 2003-04 and the following questions of law have
+been formulated in support of the appeal :
+
+::: Downloaded on - 09/06/2013 16:03:02 ::: 2
+
+> "a. Whether on the facts and in the circumstances of the case, the Tribunal
+> was justified in holding that the exemption u/s.10A of the Act should be
+> computed after excluding freight and insurance from the total turnover;
+
+> b. Whether on the facts and in the circumstances of the case, the Tribunal
+> was justified in directing the Assessing Officer to grant the exemption
+> u/s.10A of the Act on the assessed income, which was enhanced due to
+> disallowance of employer's as well as employee's contribution towards PF /
+> ESIC;
+
+> c. Whether on the facts and in the circumstances of the case, the Tribunal
+> was justified in upholding the stand of the CIT(A) in treating the interest
+> income as business income and interest income should be taken for the
+> purpose of deduction claimed u/s. 80HHC of the I.T. Act, 1961;
+
+> d. Whether on the facts and in the circumstances of the case, the Tribunal
+> was justified in upholding the stand of the CIT(A) considering the net
+> interest and not gross interest for the purposes of exclusion under clause
+> (baa) of Explanation to Section 80HHC of the I.T. Act, 1961;
+
+> e. Whether on the facts and in the circumstances of the case, the Tribunal
+> was justified in directing the Assessing Officer to grant exemption u/s. 10A
+> on foreign exchange gain earned on realization of export receipts in the
+> year of export and to exclude the gains on sales of earlier years from the
+> profits of the year under consideration and allow in those years;"
+
+Re Question a :
+
+3\. According to the Revenue the exemption under Section 10A ::: Downloaded on
+- 09/06/2013 16:03:02 ::: 3 is liable to be computed after excluding freight
+and insurance from the total turnover. The Commissioner (Appeals) affirmed the
+view of the Assessing Officer and held that Section 10A does not define
+turnover and that in the circumstances, the Assessing Officer was correct in
+not reducing insurance and freight from the total turnover while computing the
+deduction under Section 10A. In appeal the Tribunal held that (i) The
+expression "total turnover"
+
+has not been defined in Section 10A; (ii) Profits derived from export have to
+be computed by taking into consideration both the export turnover and total
+turnover of the business carried on by the undertaking; (iii) Both the export
+turnover and total turnover which constitute the numerator and denominator in
+the application of the formula under sub section (4) of Section 10A should be
+comparable; and (iv) Freight and insurance have no element of profit and
+hence, cannot be included in the total turnover of the business carried on by
+the industrial undertaking.
+
+The Tribunal accordingly directed that the deduction under Section 10A should
+be computed after excluding freight and insurance from the total turnover. It
+is this finding of the Tribunal which is  ::: Downloaded on - 09/06/2013
+16:03:02 ::: 4 questioned by the Revenue in appeal.
+
+4\. Under sub section (1) of Section 10A a deduction is allowed from the total
+income of the assessee of such profits and gains as are derived by an
+undertaking from the export of articles or things or computer software for a
+period of ten consecutive assessment years commencing from the assessment year
+relevant to the previous year in which the undertaking begins manufacture or
+production. Sub section (4) of Section 10A provides the manner in which the
+profits derived from the export of articles or things or computer software
+shall be computed. Sub section (4) provides as follows :
+
+> "For the purposes of sub sections (1) and (1A), the profits derived from
+> export of articles or things or computer software shall be the amount which
+> bears to the profits of the business of the undertaking, the same proportion
+> as the export turnover in respect of such articles or things or computer
+> software bears to the total turnover of the business carried on by the
+> undertaking."
+
+5\. Under sub section (4) the proportion between the export turnover in
+respect of the articles or things, or as the case may be,  ::: Downloaded on -
+09/06/2013 16:03:02 ::: 5 computer software exported, to the total turnover of
+the business carried over by the undertaking is applied to the profits of the
+business of the undertaking in computing the profits derived from export. In
+other words, the profits of the business of the undertaking are multiplied by
+the export turnover in respect of the articles, things or, as the case may be,
+computer software and divided by the total turnover of the business carried on
+by the undertaking. The formula which is prescribed by sub section (4) of
+Section 10A is as follows :
+
+> Profits derived from export of articles or things or computer software =
+> Profits of the business export turnover in respect of the undertaking X of
+> the articles or things or computer software
+> ____________________________________________________ divided by total
+> turnover of the business carried on by the undertaking.
+
+The total turnover of the business carried on by the undertaking would consist
+of the turnover from export and the turnover from local sales. The export
+turnover constitutes the numerator in the  ::: Downloaded on - 09/06/2013
+16:03:02 ::: 6 formula prescribed by sub section (4). Export turnover also
+forms a constituent element of the denominator inasmuch as the export turnover
+is a part of the total turnover.
+
+6\. The export turnover, in the numerator must have the same meaning as the
+export turnover which is a constituent element of the total turnover in the
+denominator. The legislature has provided a definition of the expression
+"export turnover" in Explanation (2) to Section 10A by which the expression is
+defined to mean the consideration in respect of export by the undertaking of
+articles, things or computer software received in or brought into India by the
+assessee in convertible foreign exchange but so as not to include inter alia
+freight, telecommunication charges or insurance attributable to the delivery
+of the articles, things or software outside India. Therefore in computing the
+export turnover the legislature has made a specific exclusion of freight and
+insurance charges.
+
+7\. The submission which has been urged on behalf of the  ::: Downloaded on -
+09/06/2013 16:03:02 ::: 7 Revenue is that while freight and insurance charges
+are liable to be excluded in computing export turnover, a similar exclusion
+has not been provided in regard to total turnover. The submission of the
+Revenue, however, misses the point that the expression "total turnover" has
+not been defined at all by Parliament for the purposes of Section 10A.
+However, the expression "export turnover" has been defined. The definition of
+"export turnover"
+
+excludes freight and insurance. Since export turnover has been defined by
+Parliament and there is a specific exclusion of freight and insurance, the
+expression "export turnover" cannot have a different meaning when it forms a
+constituent part of the total turnover for the purposes of the application of
+the formula.
+
+Undoubtedly, it was open to Parliament to make a provision to the contrary.
+However, no such provision having been made, the principle which has been
+enunciated earlier must prevail as a matter of correct statutory
+interpretation. Any other interpretation would lead to an absurdity. If the
+contention of the Revenue were to be accepted, the same expression viz.
+'export turnover' would have a different connotation in the application of the
+same  ::: Downloaded on - 09/06/2013 16:03:02 ::: 8 formula. The submission of
+the Revenue would lead to a situation where freight and insurance, though it
+has been specifically excluded from "export turnover" for the purposes of the
+numerator would be brought in as part of the "export turnover"
+
+when it forms an element of the total turnover as a denominator in the
+formula. A construction of a statutory provision which would lead to an
+absurdity must be avoided.
+
+8\. The view which we have taken is consistent with the view which was taken,
+though in the context of Section 80HHC, by a Division Bench of this Court in
+Commissioner of Income Tax v.
+
+Sudarshan Chemicals Industries Ltd.1 In Sudarshan Chemicals the question of
+law that fell for decision was whether sales tax and excise duty ought to be
+included in the total turnover while working out the deduction under Section
+80HHC. For the purposes of Section 80HHC, clause (b) of sub section (3)
+provides that the profits derived from export shall be computed in terms of
+the proportion between the export turnover to the total turnover 1 (2000) 245
+ITR 769.
+
+::: Downloaded on - 09/06/2013 16:03:02 ::: 9
+
+as applied to the profits of business. Hon'ble Mr. Justice S.H.
+
+Kapadia (as the Learned Chief Justice then was ) speaking for a Division Bench
+of this Court did not accept the contention of the Revenue that since the
+legislature had excluded only insurance and freight from the total turnover,
+it was not open to the assessee to contend that excise duty and sales tax
+should also be excluded.
+
+In that context, the Division Bench observed that the meaning of export
+turnover in clause (b) of the Explanation to Section 80HHC showed that export
+turnover did not include excise duty and sales tax. The Division Bench
+observed that the export turnover is the numerator in the formula whereas the
+total turnover is the denominator. The formula having been prescribed to
+arrive at profits from exports, sales tax and excise duty could not form part
+of the total turnover. If the denominator were to include those two items and
+the numerator excluded them, the formula (noted the Division Bench), would
+become unworkable. In the circumstances, the Division Bench held that while
+ascertaining the export profits, excise duty and sales tax could not be
+introduced to inflate the total turnover artificially in order to reduce the
+benefit to which  ::: Downloaded on - 09/06/2013 16:03:02 ::: 10 the assessee
+is entitled. The decision of the Division Bench of this Court in Sudarshan
+Chemical Industries has been cited with approval by the Supreme Court in
+Commissioner of Income Tax v. Lakshmi Machine Works2. The same view has been
+taken by the Supreme Court in Commissioner of Income Tax v.
+
+Catapharma (India) Pvt. Ltd.3 in which the decision of the Division Bench in
+Sudarshan Chemical Industries has also been adverted to.
+
+9\. Moreover, a receipt such as freight and insurance which does not have any
+element of profit cannot be included in the total turnover. In Lakshmi Machine
+Works (supra) the Supreme Court held that excise duty and sales tax did not
+possess any element of turnover since they are merely recoverable by the
+assessee on behalf of the Government.
+
+10\. Freight and insurance do not have an element of turnover.
+
+For this reason in addition, these two items would have to be 2 (2007) 290 ITR
+667 (SC).
+
+3 (2007) 292 ITR 641 (SC).
+
+::: Downloaded on - 09/06/2013 16:03:02 ::: 11
+
+excluded from the total turnover particularly in the absence of a legislative
+prescription to the contrary. The first question of law would therefore have
+to be answered against the Revenue and in favour of the assessee.
+
+Re Question b :
+
+11\. For the purposes of the appeal it is necessary to refer to the admitted
+position which is that the assessee had deposited both the employer's and the
+employees' contribution towards Provident Fund and ESIC, though beyond the due
+date including the grace period. The Assessing Officer added these payments to
+the total income of the assessee and made an addition in the amount of Rs.
+
+71.59 lacs. However, for the deduction under Section 10A, the addition made on
+account of the employees' contribution was ignored in calculating the profits
+eligible for deduction on the ground that these receipts were not generated
+out of the manufacturing activity of the assessee company.
+
+12\. By reason of the judgment of the Supreme Court in  ::: Downloaded on -
+09/06/2013 16:03:02 ::: 12 Commissioner of Income Tax v. Alom Extrusions
+Limited4 the employer's contribution was liable to be allowed, since it was
+deposited by the due date for the filing of the return. The peculiar position,
+however, as it obtains in the present case arises out of the fact that the
+disallowance which was effected by the Assessing Officer has not, the Court is
+informed, been challenged by the assessee. As a matter of fact the question of
+law which is formulated by the Revenue proceeds on the basis that the assessed
+income was enhanced due to the disallowance of the employer's as well as the
+employees' contribution towards Provident Fund /ESIC and the only question
+which is canvassed on behalf of the Revenue is whether on that basis the
+Tribunal was justified in directing the Assessing Officer to grant the
+exemption under Section 10A. On this position, in the present case it cannot
+be disputed that the net consequence of the disallowance of the employer's and
+the employee's contribution is that the business profits have to that extent
+been enhanced. There was, as we have already noted, an add back by the
+Assessing Officer to the income. All profits of the 4 (2009) 319 ITR 306  :::
+Downloaded on - 09/06/2013 16:03:02 ::: 13 unit of the assessee have been
+derived from manufacturing activity.
+
+The salaries paid by the assessee, it has not been disputed, relate to the
+manufacturing activity. The disallowance of the Provident Fund/ ESIC payments
+has been made because of the statutory provisions - Section 43B in the case of
+the employer's contribution and Section 36(v) read with Section 2(24)(x) in
+the case of the employee's contribution which has been deemed to be the income
+of the assessee. The plain consequence of the disallowance and the add back
+that has been made by the Assessing Officer is an increase in the business
+profits of the assessee. The contention of the Revenue that in computing the
+deduction under Section 10A the addition made on account of the disallowance
+of the Provident Fund / ESIC payments ought to be ignored cannot be accepted.
+
+No statutory provision to that effect having been made, the plain consequence
+of the disallowance made by the Assessing Officer must follow. The second
+question shall accordingly stand answered against the Revenue and in favour of
+the assessee.
+
+Re Questions c and d :
+
+13\. Counsel appearing on behalf of the Revenue and counsel  ::: Downloaded on
+- 09/06/2013 16:03:02 ::: 14 appearing on behalf of the assessee are agreed in
+stating that these two questions of law will stand covered in favour of the
+Revenue and against the assessee by the judgment of this Court dated 18/19
+March 2010 in Commissioner of Income Tax v. Asian Star Company Limited (ITA
+200 of 2009). Both these questions of law are accordingly answered in the
+negative in favour of the Revenue and against the assessee.
+
+Re Question e :
+
+14\. The Tribunal has followed a decision of its Special Bench in coming to
+the conclusion that foreign exchange earned on the realization of export
+receipts in a year other than the year in which the goods were exported would
+have to be considered in the year of export for the purpose of exemption under
+Section 80HHC. The Tribunal has, however, directed the Assessing Officer,
+while granting a deduction to the assessee under Section 10A in the year of
+export to exclude the amount from the profits of the year under consideration
+simultaneously. This is to ensure that the assessee does not obtain a
+deduction twice over.
+
+::: Downloaded on - 09/06/2013 16:03:02 ::: 15
+
+15\. For the purposes of the appeal it has not been disputed on behalf of the
+Revenue that the foreign exchange was realized by the assessee within the
+period stipulated in law. The assessee realized a larger amount because of a
+foreign exchange fluctuation. The fact that this forms part of the sale
+proceeds would have to be accepted in view of the judgment of the Division
+Bench of this Court in Commissioner of Income Tax v. Amber Export (India) (ITA
+1249 of 2007 decided on 18 February 2009).
+
+The judgment of this Court in turn followed the decision of the Gujarat High
+Court in Commissioner of Income Tax v. Amba Impex5. The sole ground which has
+been urged on behalf of the Revenue in support of the appeal on this issue is
+based on the judgment of a Division Bench of this Court in Commissioner of
+Income Tax v. Shah Originals (ITA 431 of 2008 decided on 22 April 2010). The
+decision in Shah Originals is, however, distinguishable for the reason that
+the foreign fluctuation in that case arose after the export transaction had
+been completed and 5 (2006) 282 ITR 144 (Guj)  ::: Downloaded on - 09/06/2013
+16:03:02 ::: 16 after the export profits were deposited by the assessee in an
+EEFC Account. This is evident from the following observations :
+
+> "The assessee admittedly in the present case received the entire proceeds of
+> the export transaction. The Reserve Bank of India, has granted a facility to
+> certain categories of exporters to maintain a certain proportion of the
+> export proceeds in an EEFC Account. The proceeds of the account are to be
+> utilized for bonafide payments by the account holder subject to the limits
+> and the conditions prescribed. An assessee who is an exporter is not under
+> an obligation of law to maintain the export proceeds in the EEFC Account
+> but, this is a facility which is made available by the Reserve Bank.
+
+The transaction of export is complete in all respects upon the repatriation of
+the proceeds. It lies within the discretion of the exporter as to whether the
+export proceeds should be received in a rupee equivalent in the entirety or
+whether a portion should be maintained in convertible foreign exchange in the
+EEFC Account. The exchange fluctuation that arises, it must be emphasized, is
+after the export transaction is complete and payment has been received by the
+exporter. Upon the completion of the export transaction, what the seller does
+with the proceeds, upon repatriation, is a matter of his option. The exchange
+fluctuation in the EEFC Account arises after the completion of the export
+activity and does not bear a proximate and direct nexus with the export
+transaction so as to fall within the expression "derived" by the assessee in
+sub section (1) of Section 80HHC." (emphasis supplied) In the present case,
+the assessee has realized a larger amount in  ::: Downloaded on - 09/06/2013
+16:03:02 ::: 17 terms of Indian rupees as a result of a foreign exchange
+fluctuation that took place in the course of the export transaction.
+
+16\. For the aforesaid reasons, the question of law is answered against the
+Revenue and in favour of the assessee.
+
+The appeal shall accordingly stand disposed of in the aforesaid terms.
+
+There shall be no order as to costs.
+
+(Dr. D.Y. Chandrachud, J.) (J.P. Devadhar, J.)  ::: Downloaded on - 09/06/2013
+16:03:02 :::
+

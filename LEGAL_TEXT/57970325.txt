@@ -1,0 +1,1311 @@
+
+
+Income Tax Appellate Tribunal - Mumbai
+
+Intech Billing Ireland, Mumbai vs Ddit (It) Rg 3(1), Mumbai on 8 January, 2018
+
+    
+    
+                  IN THE INCOME TAX APPELLATE TRIBUNAL
+                         MUMBAI BENCH "L", MUMBAI
+    
+         BEFORE SHRI C.N. PRASAD, HON'BLE JUDICIAL MEMBER AND
+            SHRI MANJUNATHA, HON'BLE ACCOUNTANT MEMBER
+    
+                     ITA NO.1535/MUM/2014 (A.Y: 2010-11)
+    
+    Intec Billing Ireland            v.     The Assistant Director of Income -Tax
+    C/o S.R.B.C & Associates LLP            (International Taxation),
+    14th Floor, The Ruby,                   Range 3(1), Scindia House,
+    29 Senapati Bapat Marg,                 Mumbai - 400 038
+    Dadar (West)
+    Mumbai - 400 028
+    
+    PAN No: AADCA 7890 E
+    
+    (Appellant)                             (Respondent)
+    
+           Assessee by               :    Shri M.P. Lohia
+                                          Shri Nikhil Tiwari
+           Department by             :    Shri Samuel Darse
+    
+    
+           Date of Hearing           :    10.10.2017
+           Date of Pronouncement     :    08.01.2018
+    
+    
+                                 ORDER
+    
+
+PER C.N. PRASAD (JM)
+
+1\. This appeal is filed by the assessee against the order of the Disputes
+Resolution Panel - I, Mumbai dated 11.12.2013 for the Assessment Year 2010-11.
+
+2
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+2\. The following grounds are raised by the assessee: -
+
+> "1. erred in assessing the total income of the Appellant at ₹.11,37,32,921/-
+> as against ₹.6,64,72,920, reported by the Appellant. In its revised Return
+> of Income ('ROI').
+
+> Supply of off the shelf software treated 'Royalty':
+
+> 2\. erred in holding that receipts from Reliance Industries Limited ('RIL')
+> of ₹.4,72.60,001 on account of supply of off the shelf software to be
+> 'royalty' under Section 9(l)(vi) of the Act and Article 12 of the Double
+> Taxation Avoidance Agreement between India and Ireland ('India- Ireland Tax
+> Treaty).
+
+> 3\. should have appreciated that in view of beneficial provisions of India-
+> Ireland Tax Treaty, the, impugned payment towards supply of off the shelf
+> software, would not be regarded as 'Royalty' under the India-Ireland Tax
+> Treaty and hence not chargeable to tax in India.
+
+> Non granting of credit of Tax Deducted at Source ('TDS'):
+
+> 4\. erred in not granting the entire credit of TDS amounting to
+> ₹.1,23,61,709/-, disregarding specific direction of the Hon'ble DRP.
+
+> Levying interest under Section 234B and 234C of the Act:
+
+> 5\. Erred in levying interest amount to ₹.51,17,981/- and ₹.3,22,384/- under
+> sections 234B and 234C of the Act, respectively.
+
+> 6\. Should have appreciated the fact that as the Appellant is nonresident
+> and its entire income is liable to tax deduction at source, interest under
+> Section 234B and 234C of the Act cannot be levied.
+
+> 7\. alternatively should have appreciated the fact that as taxes were
+> deducted on the receipts, question of payment of advance tax does not arise.
+
+> Initiating Penalty Proceedings under Section 271(1)(c) of the Act:
+
+> 8\. erred in initiating penalty proceedings under Section 271(1)(c) of the
+> Act.
+
+3
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+3\. Briefly stated the facts are that, Intec Ireland (the assessee) is a
+company incorporated in Ireland and is a tax resident of Ireland. During the
+AY 2010-11 Intec Ireland had inter-alia supplied billing software to Reliance
+Industries Limited (Reliance') for the purpose of billing their customers. A
+Copy of Software License Agreement dated 26 February 2002 is placed at Page
+Nos. 133 to 151 of the paper book. The Software License Agreement has been
+originally entered into between Reliance and Intec Billing, America a group
+company of the assessee, earlier known as ADC Software System. America. The
+said agreement has been subsequently assigned in entirety to Intec Ireland the
+assessee vide assignment letter dated 08 April 2005. A copy of the assignment
+letter is placed at Pages 152 and 153 of the paper book. The assessee has
+licensed the same software to Reliance under the same agreement which was
+subsequently assigned to the assessee.
+
+4\. According to the assessee the software licensed to Reliance under the
+software licence agreement is an 'off the shelf'/Shrink Wrapped' software
+which assists telecom companies in billing in an efficient, profitable billing
+operation with strong focus on customers and Revenue management. The software
+licensed by assessee is standard products already developed and made available
+to other customers.  4
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+5\. However, the Learned Assessing Officer (AO') held that the amounts
+receivable by Intec Ireland for supply of 'off the shelf' software to Reliance
+are for grant of 'copyright' and accordingly, the receipts are in the nature
+of 'Royalty' as per amended Section 9(1)(vi) of the Act and Article 12 of the
+India-Ireland Tax Treaty.
+
+6\. The DRP accepted the view of the learned AO and held that the amount
+received by the assessee from Reliance was for the 'use of or right to use of
+copyright' and hence, in the nature of Royalty as defined under Article 12 of
+the India Ireland Tax Treaty. In para 5.4 of the DRP order, the DRP after
+perusal of the documents submitted by the assessee has accepted the fact that
+the software supplied by lntec Ireland to Reliance is in the nature of a
+shrink wrapped/ off the shelf software. Therefore, in the facts of the present
+case, the DRP accepts that in assessee's case the present software is in the
+nature of a shrink wrapped/off the shelf software. However, the DRP placing
+reliance on the Hon'ble Karnataka High Court in the case of Samsung
+Electronics Co. Ltd [345 ITR 494] and the decision of the Mumbai Bench in the
+case of DDIT v. Reliance Infocomm Ltd held payment made by RIL to the assessee
+is for the use of or right to use of copyright and is royalty within the
+meaning of Article 12 of India Ireland DTAA. Aggrieved by the final  5 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland order of the learned AO
+(based on DRP direction), the assessee is in appeal before us.
+
+7\. Ld. Counsel for the assessee in regard to ground Nos. 1 to 3 submits that
+the software licensed to Reliance under the Software license agreement is off-
+the-shelf software. The software products provided under the said agreement
+are standard products already developed and made available to other customers.
+Under the said agreement, Reliance has acquired a license to use a copy of the
+software for its business purpose. The right to make multiple copies of the
+software is limited only for the purpose of Reliance's own operations.
+Reliance is not permitted to resell the software products and components or
+commercially exploit the same. The license is essentially granted for
+Reliance's own use and Reliance has not been granted any rights in the
+underlying copyright. It is submitted that Intec Ireland exclusively owns all
+the Intellectual Property Rights (IPR) in and to the software. Intec Ireland
+merely grants to Reliance a 'copyrighted article' and not the 'copyright in
+the article'. Hence, Reliance does not use or have any right to use the
+copyright in the software products and Intec Ireland merely grants a
+copyrighted article. Therefore, what is given to Reliance by the assessee is
+copyrighted article and not copyright in the copyrighted article and hence,
+the same is not chargeable to as per Article 12 of the India Ireland Tax
+Treaty.  6
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+8\. Learned Counsel for the assessee in regard to Copyright vs Copyrighted
+Article submitted before us that, as per the 'License' clause, para 2(a) of
+the Agreement, the Assessee grants a perpetual, non-exclusive, irrevocable,
+royalty-free, non-assignable and non- transferable license to Reliance and its
+affiliates to use the software in object code form. Further, all software and
+media on which the software is delivered remain the sole and exclusive
+property and trade secret of the Assessee/ its licensors. Learned Counsel for
+the assessee further submits that as per Scope of permitted use clause, para
+2(b) of the Agreement, Para 2 (b) (i) provides that Reliance shall have no
+right to modify, adopt, translate, reverse engineer, decompile, disassemble,
+or create derivate works based on the software. Para 2(b) (ii) provides that
+Reliance will use the software only for internal training purposes and to
+process its own data and that of its affiliates. Further, Reliance will not
+use the software to offer time sharing, service bureau or other computer based
+services to third parties. Para 2(b) (iv) provides that Reliance will use the
+software only on specified equipment and location as agreed between the
+parties. Para 2(b) (v) provides that the software should be used within a
+single operating environment as selected by Reliance. Para 2(b) (vi) provides
+that Reliance will only make copies of the software for specified purposes
+(such as primary copy for production, training, testing, etc) as mentioned  7
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland in the Agreement and
+for back-up and archival purposes. Learned Counsel for the assessee submits
+that 'Standard software' clause, para 14(c) of the Agreement as per this
+clause, the software supplied by the Assessee to Reliance is a standard
+product already developed and made available to other comparable customers.
+
+9\. Learned Counsel for the assessee submits that the payments received by the
+Assessee is not for the use of or the right to use any patent, trademark,
+design or model, plan, secret formula or process or information concerning
+industrial, commercial or scientific experience., but for use of a
+'copyrighted article' which emanates from use of the 'copyright'. Ld. Counsel
+for the assessee referring to paragraph 3(a) of Article 12 (which defines the
+term 'Royalty' for the purpose of India Ireland Tax Treaty) submitted that it
+does not include supply of a 'copyrighted article' and only such payments,
+which have been made for the use of, or the right to use the copyright in the
+literary, artistic or scientific work will qualify as 'royalty' under the
+India Ireland Tax Treaty. The relevant extract of Article 12 of India Ireland
+Tax Treaty is reproduced below for ready reference:
+
+> "3. (a) The term "royalties" as used in this Article means payments of any
+> kind received as a consideration for the use of, al* the right to use, any
+> copyright of literary, artistic or scientific work including cinematograph
+> films or films or tapes for radio or television broadcasting, any patent,
+> trade mark, design or model, plan, secret formula or process or for the use
+> of or the right to use industrial,  8 ITA NO.1535/MUM/2014 (A.Y: 2010-11)
+> Intec Billing Ireland commercial or scientific equipment, other than an
+> aircraft, or for information concerning industrial. commercial or scientific
+> experience"
+
+10\. Learned Counsel for the assessee referring to the above submits that only
+in a situation where the payments are for the use of 'copyright' in
+copyrighted article, the said receipts can be treated as "royalty". It is
+submitted that the payments received by the Assessee is in fact for the sale
+of a copyrighted article and not for the use of the copyright in the said
+copyrighted article. As it is evident from the nature of software and the
+terms of the software licence agreement, Reliance has not made any payments
+for use of a copyright or right to use a copyright in the software. The
+Assessee has only supplied copyrighted software to Reliance and not any rights
+in the said software. Accordingly, receipts from Reliance are not taxable as
+'Royalty' in the hands of Assessee under Article 12 of India- Ireland Tax
+Treaty.
+
+11\. Learned Counsel for the assessee further submitted that the issue of
+taxability of revenues received from supply of off the shelf/ shrink wrapped
+software from Reliance under the same agreement has been decided by the
+Hon'ble Mumbai Income Tax Appellate Tribunal ('Tribunal') in favour of Intec
+Billing America vide its order dated 5 February 2010 (ITA No 3196/Mum/07 for
+AY 2002-03) ('Intec America') (formerly known as ADC Software Systems USA).
+The Hon'ble Tribunal after examining  9 ITA NO.1535/MUM/2014 (A.Y: 2010-11)
+Intec Billing Ireland various clauses of the Software Licence Agreement held
+that the Intec Amecia has licensed off the shelf/ shrink wrapped software and
+therefore, it was held that payments from Reliance are not taxable as
+'Royalty' under the India USA Tax Treaty. Learned Counsel for the assessee
+submitted that Intec America has assigned all the rights in the software to
+Intec Ireland (a group company) vide letter dated 8 April 2005. The said
+assignment was governed by the terms of Clause 10(b) of the software license
+agreement signed between Intec America and Reliance. Learned Counsel for the
+assessee further submitted that Tax Treaty between India America and India
+Ireland is pari materia with regard to the article on 'Royalty' and more so on
+taxation of software royalty.
+
+12\. He submits that copy of the order of the Hon'ble Tribunal is placed at
+page Nos. 155 to 160 of the paper book. Learned Counsel for the assessee drew
+our attention to the fact that the definition of 'Royalty' under the India
+Ireland Tax Treaty is pari-materia as that under India USA Tax Treaty and copy
+of the same is placed at Page Nos. 174 to 198 of the paper book. As the above
+decision of the Hon'ble Mumbai Tribunal has already decided the issue of
+taxability of supply of software under the same agreement in favour of lntec
+Ireland, Learned Counsel for the assessee submitted that the receipts from
+supply of software are not taxable in the hands of Intec Ireland as 'Royalty'
+under India Ireland Tax  10 ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing
+Ireland Treaty. Ld. Counsel for the assessee further reiterate that Intec
+Ireland does not have PE in India. Accordingly, amounts received by lntec
+Ireland from towards supply of software are not liable to tax in India.
+Learned Counsel for the assessee submitted that If two views are possible the
+one which is favorable to the assesse has to be accepted.
+
+13\. Ld. Counsel for the assessee placed reliance on the decision of Patspin
+India Ltd vs DCIT [129 ITD 35] wherein it was held that when the issue is
+already covered by an earlier order of the Tribunal, that too in assessee's
+own case, a Co-ordinate Bench of the Tribunal should not differ from the
+earlier decision of the Bench simply for the reason that a contrary view is
+possible.
+
+14\. Reliance is placed in the ruling of Hon'ble Supreme Court in the case of
+CIT v. Kulu Valley Transport Co. P. Ltd. [77 ITR 518] where it is held that
+"even if two views are possible the view which is favorable to the assessee
+must be accepted while construing the provisions of a taxing statute." This
+principle has been reiterated by various Courts including the Supreme Court in
+CIT v Vegetable Products Ltd. 88 ITR 192 (SC) wherein it has been held that if
+two views in regard to interpretation of a provision are possible, the Court
+would be justified in adopting that construction which favor's the assesse.
+
+11
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+15\. Ld. Counsel for the assessee submitted that in the following judicial
+precedents wherein it has been held that payments made for use of a software
+which does not grant any right to use a copyright, but merely grants a right
+to use a copyrighted article, are not in the nature of 'royalty' income and
+hence, should not be taxable in India as royalty.
+
+16\. Learned Counsel for the assessee submitted that recently, the Delhi High
+Court in case of Halliburton Export Inc. (ITA No. 3631 of 2016) which approved
+the Delhi Tribunal's decision in its own case (152 ITD 803) (copy of the
+decision is enclosed at pages 213 to 228 of the paper book) has held that the
+right to use a programme is totally different from the right to use a
+programme embedded in a software and the payment made for the same cannot be
+said to be received as consideration for use of or right to use of any
+copyright to bring it within the definition of 'royalty' under a DTAA. The
+Hon'ble High Court also held that where the provision of the treaty is more
+beneficial to the assesse, the treaty would prevail over the Act. The Delhi
+High Court relied on its own decision in case of DIT vs Infrasoft Limited [220
+Taxman 273].
+
+17\. He submitted that the Mumbai Tribunal recently in case of Capgemini
+Business Services (India) Ltd [TS-100-ITAT-2016(Mum)] (copy of the decision is
+placed at pages 325 to 346 of the paper book)  12 ITA NO.1535/MUM/2014 (A.Y:
+2010-11) Intec Billing Ireland after considering all the factors, examining
+all the decisions available on this issue, relevant provisions of the
+Copyright Act, amended definition of 'royalty' and the definition of 'royalty'
+under the India-Singapore tax treaty has held that where the payment is made
+for the copyrighted article, the same cannot be considered as payment for the
+transfer of the copyright and accordingly, cannot be taxed as "Royalty". The
+Mumbai Tribunal has considered the decisions in the cases of Samsung
+Electronics Company Ltd. & Others [345 ITR 494], Verizon Communication
+Singapore [361 ITR 575], Reliance lnfocom Ltd. [37 CCH 0069], Viacomm 18 Media
+Pvt. Ltd. [44 taxman.com 1] (which were in favour of department) and has come
+to a conclusion that payment for use of software could not be treated as
+'Royalty' under the India-Singapore tax treaty.
+
+18\. Learned Counsel for the assessee submitted that the decision of the
+jurisdictional Mumbai Tribunal has been rendered after considering all the
+factors and the same is directly applicable to the case of assessee.
+
+19\. He further submitted that the Hon'ble Mumbai Tribunal in case of Galatea
+Limited v. DCIT [46 ITR (Trib.) 690] (copy of the decision is enclosed at
+pages 347 to 364 of the paper book) has held that payment for the copyrighted
+article will not be taxed as "Royalty" as defined under the Article 12(3) of
+India-Israel tax treaty.
+
+13
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+20\. Learned Counsel for the assessee submitted that Hon'ble Delhi High Court
+in the case of DIT v. Nokia Networks OY (212 Taxman 68) (copy of the decision
+is placed at pages 425 to 446 of the paper book) held that the payment for
+copyrighted article does not fall within the purview of 'Royalty' under the
+DTAA.
+
+21\. Ld. Counsel for the assessee submitted that the Hon'ble Delhi High Court
+in the case of Ericsson Radio Systems AB (343 ITR 470) held that the
+consideration paid by the cellular operators can be treated as Royalty' only
+if the cellular operators had obtained all or any of the copyrights in such
+software that is protected in India as a literary work. Further, the Hon'ble
+High Court held that a distinction also needs to be made between acquisition
+of a 'copyright right' and a 'copyrighted article'.
+
+22\. Ld. Counsel for the assessee submitted that the Hon'ble Mumbai Tribunal
+in case of DDIT vs Solidworks Corporation [17 ITR (Trib) 510] for AY 2006-07,
+following the decision of Hon'ble Delhi High Court in the case of Ericsson AB,
+has held that the receipts from supply of software are not taxable as
+Royalty'.
+
+23\. Ld. Counsel for the assessee submitted that in view of the all the above
+judicial precedence, it can be said that the payments received by the Intec
+Ireland form Reliance is not for the use of or the right to use any  14 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland patent, trademark,
+design or model, plan, secret formula or process or information concerning
+industrial, commercial or scientific experience., but for use of a
+'copyrighted article' instead of use of the 'copyright'.
+
+24\. As per the provisions of Section 90(2) of the Act, a non-resident
+assessee is eligible to be governed under the provisions of the Act or the Tax
+Treaty, whichever is more beneficial. As submitted above, Intec Ireland is a
+tax resident of Ireland and hence is eligible to claim the benefits of the
+Treaty. During AY 2010-11, Intec Ireland has received revenues of
+₹.4,72,60.001 from Reliance for grant of software. The said receipts are not
+in the nature of 'Royalty' but in the nature of 'Business Profits' and since,
+lntec Ireland does not have Permanent Establishment ('PE') in India within the
+meaning of Article 5 of India Ireland Tax Treaty. the said receipts are not
+taxable as 'Business Profits' in India. Accordingly, the receipt from license
+of software was not offered to tax by the Appellant in the Return of income.
+Copy of the acknowledgement of filing income tax return along with the
+computation of income and notes to return of income is enclosed vide page 72
+to page 75 of the paper book. This position of the appellant in the return of
+income was on the basis of ITAT order in AY 2002-03 while adjudicating the
+case of Intec Billing America (on the very same agreement) wherein, the said
+revenue is held to be not taxable.
+
+15
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+25\. The Ld. Counsel for the assessee further submitted that tax Payer entitle
+to be governed by Provision of Tax Treaty to the extent beneficial as compared
+to the Income Tax Act. As submitted above, Intec Ireland is a tax resident of
+Ireland and hence, is eligible to claim the benefits of the Tax Treaty.
+Accordingly, as per the provisions of Section 90(2) of the Act, a non-resident
+assessee is eligible to be governed under the provisions of the Act or the Tax
+Treaty, whichever is more beneficial.
+
+26\. It is submitted that paragraph 3(a) of Article 12 (which defines the term
+'Royalty' for the purpose of India Ireland Tax Treaty) does not include supply
+of a 'copyrighted article' and only such payments. which have been made for
+the use of. or the right to use the copyright in the literary, artistic or
+scientific work will qualify as 'royalty' under the India Ireland Tax Treaty.
+
+27\. It is submitted that in order to fall within the meaning of 'Royalty'
+under the India Ireland Tax Treaty, whether the consideration is for the 'use'
+or 'right to use' is not relevant. In either case, the consideration has to be
+in respect of a 'copyright' of a literary, artistic or scientific work.
+
+28\. It is submitted that the consideration paid for 'computer software; has
+not been specifically included in the definition of royalty under the Act. As
+the term 'Royalty' has already been defined under Article 12(3) of the India
+Ireland Tax Treaty, the provisions of the Article 3(2) would not be  16 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland applicable in the
+present case. Further, Ld. Counsel for the assessee reiterate that since Intec
+Ireland is a tax resident of Ireland, it is eligible to claim benefits of the
+India Ireland Tax Treaty. Accordingly, as per provisions of Section 90(2) of
+the Act, provisions of the Act or India Ireland Tax Treaty, whichever is more
+beneficial would be applicable.
+
+29\. Ld. Counsel for the assessee submitted that, as it is evident from the
+nature of software and the terms of the software licence agreement. Reliance
+has not made any payments for use of a copyright or right to use a copyright
+in the software. The Assessee has only supplied license to use the software
+which was right to use copyright in the software and not any rights in the
+said software. Accordingly, receipts from Reliance are not taxable as 'Royalty
+in the hands of Assessee under Article 12 of India- Ireland Tax Treaty. Issue
+in appeal in relation to the impugned agreement in the case is covered in
+lntec Billing America's case for AY 2002-03.
+
+30\. The Ld. Counsel for the assessee submitted that the provisions of DTAA
+will prevail over retrospective amendment made under the Act. The definition
+of Royalty is provided under Section 9(1)(vi) of the Act and under Article
+12(3) of the India Ireland Tax Treaty. In this regard, it is submitted that
+the Finance Act 2012 has incorporated Explanation 4 to Section 9(1)(vi) of the
+Act which reads as under:
+
+17
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland "Explanation 4--
+> For the removal of doubts, it is hereby clarified that the transfer of all
+> or any rights in respect of any right, property or information includes and
+> has always included transfer of all or any right for use or right to use a
+> computer software (including granting of a licence) irrespective of the
+> medium through which such right is transferred."
+
+31\. A comparison of the definition of 'royalty' as provided under the Tax
+Treaty and the Act shows that the same are not a paramateria with each other.
+The definition provided under the Tax Treaty is very short and restrictive
+definition, whereas, the definition of royalty as provided under the Act is
+very wide and inclusive. Since the definition provided under the royalty in
+the Tax Treaty is more beneficial to the Appellant. hence as per the
+provisions of Section 90, the definition of royalty as provided under Tax
+Treaty is to be considered in the present case. Accordingly, assuming without
+admitting that the receipts of lntec Ireland are liable to tax as per the
+amended definition of 'Royalty' in the Act, 'the said revenues would not be so
+covered by the favorable definition of 'Royalty' in the India Ireland Tax
+Treaty.
+
+32\. However, in the assessment order, the learned AO has not considered
+submission of the assessee in relation to the impact of applicability of
+provisions of Tax Treaty to the extent more beneficial to the assessee as per
+Section 90(2) of the Act. As Intec Ireland is eligible for the benefits under
+India Ireland Tax Treaty, it is submitted that the  18 ITA NO.1535/MUM/2014
+(A.Y: 2010-11) Intec Billing Ireland definition of royalty amended vide
+Explanation 4 cannot be applied to tax treaty. Reliance in this regard, is
+placed on the following judicial precedents wherein it was held that the
+amendments made to the Act by the Finance Act 2012 would not have an impact on
+the positions adopted under the Tax Treaties since there has been no amendment
+in the Tax Treaties.
+
+33\. The Hon'ble Delhi High Court, recently in the decision of New Skies
+Satellite BV & Ors. (382 ITR 114) (copy of the decision is placed at pages 347
+to 364 of the paper book) has also held that the unilateral amendment made by
+the Parliament of a one state will not automatically amend the DTAA's signed
+by that state with the other states.
+
+34\. Therefore, in view of the above, he submits that assuming without
+admitting that the revenues from supply of software are chargeable to tax in
+India under the Act, the Hon'ble High court has held that a unilateral
+amendment of the definition of "Royalty" in the Act would not automatically
+amend the definition of "Royalty' in the DTAA. Accordingly, the said revenues
+would not be taxable as 'Royalty" in India by virtue of Article 12 of the
+India Ireland Tax Treaty.
+
+35\. Ld. Counsel for the assessee further submitted that the Jurisdictional
+Mumbai ITAT in case of WNS North America [152 TTJ 145]  19 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland has held that despite
+the retrospective amendment to the Act, the amendment will not apply to the
+treaty per se. It was further observed that if there is some provision in the
+treaty which is contrary to the provision of the domestic law, then it is the
+contrary provision of the treaty which shall override the provision in the
+domestic law in the computation of income as per the treaty. Further, the
+Hon'ble ITAT held that since the explanation inserted vide retrospective
+amendment to the Act, making the definition of 'royalty' inclusive in nature,
+was not a part of 'royalty' definition under the relevant DTAA, such
+retrospective amendment should not be read in the DTAA also.
+
+36\. The Jurisdictional Mumbai ITAT decision in case of B4U International
+Holdings Limited ('B4U') [181 ITR (Trib.) 62] has held that despite the
+amendment to the Act (vide the Finance Act 2012), such payment would not be
+taxable as 'royalty' since there was no change in the treaty between India and
+USA (in this case payer was USA company).
+
+37\. The Jurisdictional Mumbai ITAT decision in case of Baan Global BV (ITA
+No. 7048/M/2010) has held that one contracting state which is a party to a
+treaty cannot unilaterally alter its provision and enlarge the scope of any
+term from the prism of its domestic law. If there is no amendment in  20 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland the treaty and if any
+amendment is carried out under the domestic law then same cannot be read into
+the treaty.
+
+38\. Further, the Hon'ble Delhi High Court, recently in case of New Skies
+Satellite BV & Ors (382 ITR 114) has also held that the unilateral amendment
+made by the Parliament of a one state will not automatically amend the DTAA's
+signed by that state with the other. The Hon'ble Delhi High Court concluded
+that the amendment vide Finance Act 2012 will not affect Article 12 of the Tax
+Treaty. it would follow that the first determinative interpretation given to
+the word royalty' prior to the amendment in the Act will continue to hold the
+field for the purpose of assessment years preceding the Finance Act. 2012 and
+in all cases which involve a Tax Treaty unless the said Tax Treaties are
+amended jointly by both the parties. He submits that the above decisions are
+squarely applicable to the Intec Ireland, as there is no amendment in the
+definition of 'Royalty' in India-Ireland Tax Treaty. He submitted that the
+amendments in the Act cannot be read into India-Ireland Tax Treaty. In light
+of the above, without prejudice to the lntec Ireland's arguments that its
+receipts are not taxable under Article 12 of India-Ireland Tax Treaty. In case
+Intec Ireland is held to be taxable under the Act, it is submitted that under
+Section 90(2) of the Act, Intec Ireland is eligible to claim treaty  21 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland benefits under India-
+Ireland Tax Treaty. Accordingly, receipts from Reliance are not taxable as
+'royalty'.
+
+39\. Ld. Counsel for the assessee strongly placed reliance on the following
+decisions in support of the above contentions that in the case of shrink
+wrapped/ off the shelf, Software does not amount to Royalty.
+
+(i) Galatea Limited [46 ITR 690] Mumbai Tribunal.
+
+(ii) Capegemini Business Services (India) Ltd [46 CCH 253] Mumbai Tribunal.
+
+(iii) Datamine International Limited [46 CCH 296] Delhi Tribunal.
+
+(iv) Solid Works Corporation [ITA.No. 8721/M/2010] Mumbai Tribunal.
+
+(v) Reliance Industries Ltd & Ors [47 CCH 94 (Mum)]
+
+(vi) Baan global BV [ITA.No.7048/M/2010] Mumbai Tribunal.
+
+(vii) Galatea Limited [47 CCH 325] Mumbai Tribunal.
+
+(viii) Halliburton Export Inc [152 ITD 803 (Del Tribunal) Dated 14 February
+2014 approved by (ITA.No. 363/ 2016) Delhi (High Court)]
+
+(ix) Qad Europe B.V. [ITA.Nos. 83 & 84/Mum/2007] Mumbai Tribunal
+
+(x) First Advantage Private Limited [ITA.No. 3031/Mum/2010 & ITA.No. no.
+
+3032/Mum/2010] Mumbai Tribunal
+
+(xi) Dassault Systemes, Mumbai Tribunal [79 taxmann.com 205]
+
+(xii) National Stock Exchange of India, Mumbai Tribunal [ITA.No.
+
+7735/Mum/2011]
+
+(xiii) Mckinsey Knowledgement Centre India Private Limited, New Delhi Tribunal
+[ITA.No. 407/Del/2013].
+
+40\. Ld. DR strongly supported the orders of the DRP. Ld. DR submitted that
+during the course of hearing, it was argued on behalf of the assesse that the
+matter was covered in favour of the assessee by Mumbai Tribunal's orders in
+various cases wherein consideration paid for purchase/supply/licence of
+software has been held to be not Royalty. In this regard while relying
+completely on the on the order of the AO, among others, it was submitted that
+for the reasons given in the foregoing  22 ITA NO.1535/MUM/2014 (A.Y: 2010-11)
+Intec Billing Ireland submissions, the matter may be set aside back to the
+file of the Ld.CIT(A)/ Assessing Officer and in the alternative it was
+submitted that in order keep certain issues alive in appeal before the Hon'ble
+High Court, the following written submissions may kindly be taken on record.
+
+41\. In some of its recent decisions like DDIT (IT) Vs Reliance industries
+Ltd. (2016) 69 Taxamm.com 311 dated: 18/05/20 6, Galatea Ltd. Vs DCIT (IT)
+dated 29/06/2016, and ADIT(IT) Vs. Baan Global BV dated: 13/06/2016 the
+Hon'ble Mumbai Tribunal has decided the issue of Purchase/lease/supply of
+software whether shrink wrapped or embedded software in favour of the assessee
+by holding the consideration paid for purchase/lease/supply of software as not
+Royalty under the relevant DTAAs. While holding so the Hon'ble Tribunal has
+relied on the Delhi High Court decisions in the cases of DIT v. Infrasoft
+Ltd., 264 CTR 0329, dated 22-11-20131 DIT vs Nokia networks OY,', 358 ITR
+0259, dated: 7-09-2012 and in the case of DIT vs. Ericson A.B, 343 ITR 0470,
+dated: 23-12-2011.
+
+42\. In all these cases, the High Court/Mumbai Tribunal have held that the
+consideration involved was not for the use or right but for copyrighted
+article. The High court/Tribunal have examined the issue of Royalty only under
+clause (v) of Explanation 2 to section 9(1)(vi) of the Act and corresponding
+clause of the DTAA (Ref Para 24 of Reliance, (supra) and  23 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland para 64 of Infrasoft,
+(supra) but not under any other clause of Explanation 2 to section
+9(1)(vi)/DTAA even though the use of software is covered under clause (iii) of
+Explanation 2 to section 9(1)(vi) of the Act/DTAA as use of process.
+
+43\. It is submitted that the AO in his Assessment Order dated 26.12.2013 has
+held the consideration received by the assessee for for sale/supply/lease of
+software as Royalty for the use or right to use of copyright in software under
+the clause (v) of Explanation to Section 9(1)(vi) of DIAA. The AO in this
+regard has relied upon the Karnataka High Court decisions in the cases of M/s
+Synopsis, supra, M/s Samsung supra and M/s Wipro, (supra) and others. The DRP
+in its order dated: 11.12.2013 has also relied on the aforesaid decisions of
+the Karnataka High court and on the Mumbai Tribunal Decision in the case of
+DIT(IT) Vs. Reliance Infocomm Ltd. (Mum Trib.) dated 06.09.2013 in which case
+the Hon'ble Tribunal in deciding the appeals in favour of various other
+assessees, though available at the time of passing of orders by AO/DRP was not
+relied upon in the instant case before the AO/DRP. Therefore, they did not
+have the occasion to examine whether the ratio of the said case applied to the
+instant case. Therefore, in my humble submissions, it may not be appropriate
+to say that the case of the assessee is covered by the favorable decisions of
+Delhi High Court. Therefore, in my respectful  24 ITA NO.1535/MUM/2014 (A.Y:
+2010-11) Intec Billing Ireland submissions, the assessee's case needs to be
+examined afresh on facts and on law before extending it the benefit of
+favorable decisions. I may also mention here that on similar facts, the
+Tribunals have set as aside, the appeal of the assessee back to CIT(A) in the
+following two cases.
+
+1\. Global Tele Systems Ltd., Dated 20.04.2016, Mumbai Tribunal
+
+2\. Appeal& T Ltd. 152 ITD 0873, Ahmedabad Tribunal In view of the above
+submissions, the matter may kindly be set aside back to the file of the
+AO/DRP.
+
+44\. ALTERNATE PLEA: In case, the matter in the present Appeal is treated as
+covered in favour of the assessee, the following alternate plea may kindly be
+taken on record so that the issues are kept alive in appeals before the
+Hon'ble High Court.
+
+45\. The main features of the Delhi High Court decisions in the cases of
+Infrasoft Ltd. (supra), Nokia networks OY, (supra) and Ericson A.B, (supra)
+and the decisions of the Mumbai Tribunal based on Delhi High Court are as
+follows:
+
+> (i) that the license granted to the licensee permitting him to download the
+> computer programme and storing it in computer for its own use is only
+> incidental to the facility extended to the licensee to make use of the
+> copyrighted product for his internal business purposes. The said process is
+> necessary to make the program functional and  25 ITA NO.1535/MUM/2014 (A.Y:
+> 2010-11) Intec Billing Ireland to have access to it. Apart from such
+> incidental facility, the licensee has no right to deal with the product just
+> as the owner would be in a position to do.
+
+(ii) there is no transfer of any right in respect of copyright to the assessee
+and it is a case of transfer of a copyright article. The payment is for a
+copyrighted article and represents the purchase price of an article and cannot
+be considered as royalty.
+
+(iii) The Hon'ble Delhi High Court has further held that what is transferred
+is neither can be right in the software nor the use of copyright in the
+software, but is the right to use copyrighted material or article which is
+clearly distinct from the rights in a copyright and the same does not give
+rise to any Royalty income and would be the 'business income of the non-
+resident.
+
+(iv) The licensees are not allowed to exploit the computer software
+commercially, they have acquired under licence agreement, only the copyrighted
+software which by itself is an article and they have not acquired any
+copyright in the software.
+
+(v) The licensee was allowed to use the software only for its own business as
+specifically identified and was not permitted to loan/rent/sale/sublicense or
+transfer the copy of software to any third party without the consent of
+Infrasoft.
+
+26
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+(vi) Amendments (Explanations 4, 5 and 6 to S.9(1)(vi) of the Act) cannot be
+read into DTAAs.
+
+46\. The Karnataka High Court on the other hand has decided the issue in
+favour of the revenue in the cases of CIT V. Synopsis International Old Ltd.,
+212 Taxman 0454 (Kar.HC), dated: 03.08.2010 CIT V Samsung Electronics Co. Ltd.
+& Others, (2011) 345 ITR 0494, Kar HC, dated 15.10.2011, CIT V. Wipro Ltd.
+(2011),355 ITR 0284(Kar)/ 203 Taxman 621 (Kar.) HC, dated: 15.10.2011 and CIT
+Vs. CGI information Systems and Management consultants (P) Ltd., (2014) 48
+Taxmonn.com 264 (KAR), dated: 9-6-2014. The High court of Karnataka has
+decided the issue of software Royalty, both before the insertion of
+Explanations 4, 5 and 6 in Section 9(1)(vi) of the l.T. Act by the Finance Act
+2012 and even after their insertion. The insertion of these Explanations has
+not altered the views of Hon'ble High Court of Karnataka and on the contrary
+the views of the Hon'ble High court have been reaffirmed. The basic features
+of all these decisions rendered by the Karnataka High Court are as follows:
+
+> (i) that the consideration paid is for the rights in respect of copyright
+> and the user of the confidential information embedded in the
+> software/computer programme amounts to royalty both under the Act and under
+> the DTAA.( para 45 of Synopsis, supra)  27 ITA NO.1535/MUM/2014 (A.Y:
+> 2010-11) Intec Billing Ireland
+
+> (ii) that what is transferred is right to use the software, an exclusive
+> right, which the owner of the copyright i.e., the respondent-supplier owns
+> and what is transferred is only right to use copy of the software for the
+> internal business as per the terms and conditions of the agreement (Para 24
+> of Samsung, supra)
+
+> (iii) that right to make a copy of the software and use it for internal
+> business by making copy of the same and storing the same in the hard disk of
+> the designated computer and taking back up copy would itself amount to
+> copyright work under s. 14(1) of the Act and licence is granted to use the
+> software by making copies, which work, but for the licence granted would
+> have constituted infringement of copyright and licensee is in possession of
+> the legal copy of the software under the licence. (Para 24 of Samsung,
+> supra)
+
+> (iv) hat what is supplied is the copy of the software of which the
+> respondent supplier continues to be the owner of the copyright and what is
+> granted under the licence is only right to copy the software as per the
+> terms of the agreement, which, but for the licence would amount to
+> infringement of copyright and in view of the licence granted, the same would
+> not amount to infringement under  s. 52 of the Copyright Act.
+
+> (v) In the case of CGI Information, supra, it has been held by the Karnataka
+> High Court that the Explanations 4, 5 and 6 to S.9(1)(vi) of the Act can be
+> applied to DTAA.
+
+47\. In the case of CGI Information, supra, while relying on its decision in
+the case of Samsung, supra, the Hon'ble Karnataka High court has observed
+about newly inserted Explanation 4 to section 9(1)(vi) as follows:  28
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland "18. Explanation-4
+> inserted by the Finance Act, 2012 has puts at rest all the controversies and
+> doubts. It expressly states that transfer of all or any rights in respect of
+> any right, property or information includes and has always included transfer
+> of all or any right for use or right to use a computer software including
+> granting of a licence irrespective of the medium through which such right is
+> transferred......."
+
+48\. Out of all the High Court decisions discussed above, the latest decision
+on the issue is by the Karnataka high Court in the case of CGI Information (a
+June 2014 decision), supra which is in favour of the revenue. The latest
+decision by the Delhi High court on the issue is in the case of Infrasoft
+Ltd., supra, a November, 2013 decision.
+
+49\. The Jurisdictional Tribunal while dealing with the issue of software
+royalty in the case of DIT(IT) Vs. Reliance Infocomm Ltd. (Mum Trib.) dated
+06.09.2013 has followed the interpretation of royalty given under the Act as
+well as under the DTAA by the Karnataka High Court in the cases of Synopsis
+International, supra and Samsung Electronics, supra deciding the issue in
+favour of the Revenue. This order of the Tribunal has since been recalled by
+the Tribunal vide an order dated: 18/11/2016 on a MA filed by the assesse. The
+main grounds for recalling of the aforesaid order of the tribunal were
+twofold:
+
+> (i) The decision of the coordinate bench of the Tribunal in the case of
+> Solid Works Corporation (51 SOT 34) was not considered.
+
+29
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+> (ii) Misreading of Delhi high court decision in the case of DIT Vs. Ericsson
+> A.B (ITA No. 504/2007 dated 23.12.2007)
+
+50\. The department is considering filing of Writ Petition before the Bombay
+HC against the aforesaid order of the Tribunal recalling its order in the case
+of Reliance Infocomm.
+
+51\. The Finance Act, 2012 has among others, inserted Explanation 4 to Section
+9(1)(vi) retrospectively, which reads as follows:
+
+> "Explanation 4- For the removal of doubts, it is hereby clarified that
+> transfer of all or any rights in respect of any right, property or
+> information includes and has always included transfer of all or any right
+> for use or right to use a computer software (including granting of licence)
+> irrespective of the medium through which such right is transferred."
+
+"Computer software" has been defined in Explanation 3 to S.9(1)(vi) of the
+Act.
+
+52\. Ld. DR submitted that, the aforesaid Explanation 4 is clarificatory in
+nature, inserted retrospectively w.e.f 01-06-1976. If this Explanation is
+applied to the assessee's case, then the consideration received by the assesse
+is in the nature of Royalty both under the Act and under the DTAA.
+
+53\. On the issue whether the Amendments/Explanations inserted in the Income
+Tax Act can he read into the DTAA or not, in my respectful submissions and
+with utmost respect, the Delhi High Court in the case of  30 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland Infrasoft, supra and
+other cases which have been followed by the Mumbai Tribunal seem to have
+misquoted the Bombay High Court while saying that Bombay High court in the
+case of CIT v. Siemens Aktiongesellschaft, 310 ITR 320) (BOM HC) held that
+Amendments in the Act cannot be read into the DT AA. While appreciating the
+Siemens AG, (supra) the following facts may kindly be noted:
+
+> (i) The exact question of law before the Hon'ble High Court was NOT that
+> whether Amendments in the I.T. Act can be read into the DTAA or not and
+> therefore, the Hon'ble High Court cannot be said to have answered it as
+> claimed.
+
+> (ii) In the said case, old DTAA (1960) between India and Germany was under
+> consideration in which 'Royalty" had not been defined (Para 15).
+
+> (iii) "Royalty" under the I.T.Act has been defined in Explanation 2 to
+> S.9(1)(vi), inserted by the Finance Act 1976 w.e.f 01-06-1976.
+
+> (iv) The agreements under consideration in the case of Siemens AG, supra
+> which gave rise to the impugned income were entered into before 01-06-1976
+> when there was no definition of "Royalty" both under the I.T.Act and under
+> the DTAA. The A.Y. under consideration in Siemens AG, supra was A.Y.1979-80.
+
+> (v) Section 9(1) (vi) upto and including Explanation 2 are substantive
+> provisions as inserted by Finance Act 1976 and thereafter, Explanation 3 to
+> 6 and explanation below S.9(2) are only clarificatory provisions inserted
+> subsequently.
+
+31
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+> (vi) For the purpose of the present appeal, the definition of "royalty" as
+> applicable has been defined both under the DTAA as well as I.T.Act and the
+> issue is regarding the application of Explanations (clarificatory
+> provisions) inserted in the Act into the DTAA by virtue of article 3(2) of
+> the DTAA.
+
+> (vii) The said decision in the case of Siemens AG, supra was rendered in
+> 2008 when the only clarificatory provision by way of Explanation in section
+> 9 was the Explanation below S.9(2) inserted by the Finance Act 2007 doing
+> away with the requirement of PE for Royalty etc.
+
+> (viii) In the case of Siemens AG, supra, the basic question before the
+> Hon'ble High Court was whether the definition of "Royalty" as per
+> Explanation 2 to S.9 inserted by the Finance Act 1976 w.e.f. 01-06-1976
+> could be imported into the old DTAA (1960) when at the relevant point of
+> time of application of treaty, Royalty" had not been defined both under the
+> then DTAA and the I.T. Act and what was the character of payment under the
+> DTAA.
+
+> (ix) It is not disputed by the Revenue that the provisions of DTAA, if
+> beneficial to the assesse shall prevail over the provisions of the l.T. Act.
+
+54\. Ld. DR submitted that a perusal of Bombay High Court decision in the case
+Siemens AG. supra would reveal that:
+
+> (i) In the operational part (paras 29 to 31) of the judgement in the case of
+> Siemens AG, supra, nowhere it is mentioned that amendments in the I.T. Act
+> cannot be read into DTAA.
+
+> (ii) The nature of services rendered in the said case were found to be not
+> Royalty under the DTAA though found to be Royalty under the Act (post
+> 01-06-1976). Those  32 ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing
+> Ireland services were found to fall under the expression "commercial or
+> industrial profits' as per the then DTAA (Old) and therefore could not be
+> taxed in India in absence of PE. Thus, the provisions of DTAA being more
+> beneficial to the assesse were preferred over the provisions of the I.T.
+> Act.
+
+> (iii) In paras 13, 22 and 28 of its order, the Hon'ble High Court has
+> approved the insertion of Explanation below S.9(2) inserted by the Finance
+> Act 2007, thereby implying that the Clarificatory Explanations could be read
+> into modern DTAAs.
+
+> (iv) The Bombay HC has approved ambulatory approach (para 22) to
+> interpretation of treaties against Static approach adopted by the Delhi HC.
+> Klaus Vogel in his commentary has also advocated ambulatory approach.
+
+> (v) On the Contrary, the Bombay High has applied and approved the
+> clarificatory Explanation inserted alter section 9(2) by the Finance Act
+> 2007(paras 13, 22 and 28) implying that clarificatory Explanation introduced
+> by way of Amendments in the Act CAN be into the DTAA.
+
+55\. Mumbai Tribunal, in the case of Viacom 18 Media (P.) Ltd. [162 TTJ 336]
+has explained the import of Bombay High Court decision in the case of Siemens
+AG, supra in the right perspective in paras 16 and 17 of its order while
+rejecting the assessee's argument that the High Court has held that Amendments
+in the Act cannot be read into DTAAs. This decision of the Tribunal has not
+been over ruled by the High Court so far.  33
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+56\. Therefore, it is submitted that Bombay High Court in the case of Siemens
+AG, supra is in favour of the Revenue on the proposition that the
+clarificatory Amendments by way of Explanations inserted in the Act CAN be
+read into the DTAAs.
+
+57\. We have heard the rival submissions, perused the orders of the
+authorities below and the case laws relied upon by both parties. The assessee
+is a company incorporated in Ireland and is a tax resident of Ireland. During
+the Assessment Year 2010-11 assessee had inter-alia supplied billing software
+to Reliance Industries Limited for the purpose of billing their customers. The
+software license agreement has been originally entered into between Reliance
+and Intec Billing, America a group Company of the assessee which was earlier
+known as ADC Software System, America. The said assessment has been
+subsequently assigned to Intec Ireland the Assessee in entirety by assignment
+letter dated 08.04.2005.
+
+58\. The key features of the said software provided by the assessee are that
+the software provided by Intec Ireland is a comprehensive business solution
+addressing transaction management, billing and customer care issues related to
+telecom industry players. It provides solution for efficiently managing high
+volumes of transactions and keeping audit trails  34 ITA NO.1535/MUM/2014
+(A.Y: 2010-11) Intec Billing Ireland for all the transactions, thus preventing
+data loss and frauds. It is a high- end integrated software comprising of
+number of functional modules/ packages targeted at specific business areas.
+These modules can be used independently or in conjunction with each other to
+address specific requirements of the user. These modules support invoice
+generation, product pricing, product rating accounts receivables and billing
+operations. Further, they also support localization of language, currency,
+calendar and regulatory and taxation framework of the user. In simple terms,
+the said software could be equated to 'Microsoft Excel' - wherein the user
+feeds the data/ information related to a particular customer or product in a
+blank worksheet. The data is processed by the modules in order to generate
+requisite output - an invoice, report, etc. The software's delivered to the
+users on physical electronic media, ex: compact disk, floppy, paragraph 6
+'Deliver' clause of the Software Licence Agreement.
+
+59\. On perusal of the clauses of the above agreement, it is clear that Intec
+Ireland exclusively owns all the Intellectual Property Rights (IPR) in the
+software. Intec Ireland has merely granted a copyrighted article to Reliance
+and not the 'copyright in the article. Hence, Reliance does not use or have
+any right to use the copyright in the software products and lntec Ireland
+merely grants a right to use software for Reliance's own use in India.
+
+35
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+60\. The very same agreement and the Software supplied by the assessee to
+Reliance has been subject matter in dispute in the Assessment Year 2002-03 and
+Coordinate Bench of the Tribunal in ITA.No. 3196/Mum/2007 dated 05.02.2010
+held that sale of Software by the assessee to the end customer does not
+involve any transfer of copyright either in part or in whole and therefore
+consideration paid by the distributer cannot be said to be a payment for right
+of use copyright or transfer of use of copyright. In holding so the Coordinate
+Bench observed as under: -
+
+> "3. The assessee is engaged in the business of providing software solutions
+> across the globe. The assessee entered into a software licensing agreement
+> on February 26,2002 with Reliance Industries Limited (RIL), a company
+> incorporated under the laws of India. In pursuance of the agreement, the
+> assessee provided certain software products for the business purpose of RIL
+> during the financial year ended March 31, 2002. The software products so
+> provided, was intended to be used by RIL to prepare invoices to be raised on
+> its customers. During the financial year ended March 31,2002, the assessee
+> earned gross revenues amounting to US$ 1,400,000 as consideration for supply
+> of the software to RIL. The assessee filed its original return of income on
+> October 30, 2002 and subsequently filed a revised return of income on
+> November 20, 2002. Under both the returns, the assessee claimed the
+> aforesaid fees as not taxable in India on the following basis: -
+
+> • The assessee is a tax resident of US and is accordingly eligible to claim
+> benefits of the double taxation avoidance agreement between India and USA
+> (India-US tax treaty).
+
+> • Considering the restrictive and limited rights granted to RIL under the
+> software licensing agreement, based on the OECD Model commentary and UN
+> Model Commentary, fees earned by the assessee are in the nature of 'business
+> profits' and not 'royalty'.
+
+36
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland • The assessee
+> does not have a fixed place of business in India and also has not undertaken
+> any activity in India pertaining to licensing of software. Accordingly, the
+> assessee does not have a Permanent Establishment (PE) in India in terms of
+> Article 5 of India-US tax treaty.
+
+> • In absence of the assessee's PE in India, the business profits earned by
+> the assessee cannot be taxed in India.
+
+However, the Assessing Officer did not accept argument of the assessee and
+passed the assessment order taxing the income earned from Reliance at 15% on a
+gross basis as royalty under Article 12 of the India US tax treaty.
+
+4\. On appeal by the assessee, learned CIT(A) held that the payment in
+question was not in the nature of royalty and was payment for purchase of
+copyrighted article. It was in the nature of business profits; and since the
+assessee did not have a PE in India the same was not taxable, in view of
+Article-7 of the DTAA between India and USA. Addition made by the Assessing
+Officer was deleted by the learned CIT(A) giving rise to the present appeal by
+the revenue before the Tribunal.
+
+5\. We have heard the rival submissions. Agreement between the assessee and
+RIL provides only a license to use the software. Clause 2(a)(b) of the
+agreement provides for the terms of license and scope of permitted use. Clause
+(3) provides of confidentiality of information. Para 14.c provides that the
+software being supplied is a standard software provided to customers by the
+assessee. Perusal of para 2.a and 2.b of the Agreement clearly provide that
+RIL has only a perpetual, non-exclusive, irrevocable, non-transferable license
+to use the software and documentation. RIL is forbidden from modifying,
+adapting, translating, reverse engineering, decompiling, disassembling, or
+creating derivative projects based on the software supplied. Agreement also
+provides that the software can be used for internal training purposes and the
+processing of the RIL's own data and that of its affiliates. RIL was permitted
+to duplicate the software, but only for training, testing, and the development
+purposes and also for backup purposes. Para 2.b does provide that RIL can
+configure the software packages. However, configure has been defined to mean
+only to modify, to create interface, to load change or delete data and to
+tailor the software using the utility built into the software in order to
+optimize the software for customer in accordance with the  37 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland agreement. Thus,
+configuration only means that the parameters in the software for making it
+suitable to the user can be set by the user. Configures does not mean that the
+user can change the software code. From the rights given to RIL as per
+agreement, it is apparent that RIL has no power either to decode the machine
+code of software or to make copies of software for commercial use other than
+for its internal use or backup purposes. It is therefore obvious that the RIL
+has right to use software only for its business or personal purposes and has
+obtained no other rights as per the agreement.
+
+6\. The Hon'ble Supreme Court in the case of Tata Consultancy Services Pvt.
+Ltd. Vs. State of Andhra Pradesh (2004) 271 ITR 401 has held as follows: -
+
+> "A software programme may consist of various commands which enable the
+> computer to perform a designated task. The copyright in that programme may
+> remain with the originator of the programme. But the moment copies are made
+> and marketed, it becomes goods, which are susceptible to sale tax. Even
+> intellectual property, once it is put on to a media, whether it be in the
+> form of books or canvas (In case of painting) or computer discs or
+> cassettes, and marketed would become 'good'. We see no different between a
+> sale of a software programme on a CD/floppy disc from a sale of music on a
+> cassette/CD or a sale of a film on a video cassette/CD. In all such cases,
+> the intellectual property has been incorporated on a media for purposes of
+> transfer. Sale is not just of the media which by itself has very little
+> value. The software and the media cannot be split up. What the buyer
+> purchases and pays for is not the disc or the CD. As in the case of
+> paintings or books or music or films the buyer is purchasing the
+> intellectual property and not the media i.e. the paper or cassette or disc
+> or CD. Thus, a transaction of sale of computer software is clearly a sale of
+> goods within the meaning of the term as defined in the said Act."
+
+7\. Thus computer software when it is put on to a media and sold has become
+goods like any other audio cassette or painting on canvas or a book. It is
+ceases to be transfer of intellectual property right. In fact, Bangalore Bench
+of the Tribunal in the case of Lucent Technologies Hindustan Ltd. Vs. ITO, 92
+ITD 366 (Bang) has also taken the view that in such a situation there is no
+acquisition of any  38 ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing
+Ireland right in software. Definition of 'royalty' is given in section (9)(1)
+Explanation (2) of the Act and the definition of Royalty in Article 12(3) of
+the Indo-US DTAA shows that definition of royalty under DTAA is more
+restrictive than what is provided in section (9)(1) of the Act. Under the
+definition as contained in DTAA, there should be a transfer of copyright. Sale
+of software by the assessee to the end user does not involve any transfer of
+copyright either in part or in whole; therefore consideration paid by the
+distributor cannot be said to be a payment for right of use copyright or
+transfer of use of copyright. It has been uniformly held in several decisions
+of the ITAT that sale of shrink-wrap software does not involve receipt of
+consideration, which can be said to be royalty. Decisions in this regard are
+as follows :-
+
+> • Samsung Electronics Co. Ltd. Vs. ITO, 93 TTJ 658 • Motorola Incorporation,
+> 270 ITR (AT) 62 • Sonata Information Technologies Ltd., ITA No. 1561 to
+> 1580/Bang/2004 dated 31.1.2006.
+
+8\. Computer programme cannot also be treated as patent and invention.
+Computer programme cannot said to be an invention and therefore cannot be said
+to be covered by the Patient Act. Computer software cannot also be treated as
+process. End user of the software in the case of shrink-wrap software does not
+have any access to source code. He has only right to use the software for his
+personal or business use. For all the above reasons, we are of the view that
+learned CIT(A) was right in concluding that payment received by the assessee
+was not in the nature of royalty and cannot therefore be brought to tax. We
+uphold the order of learned CIT(A) on this issue and dismiss the appeal by the
+revenue.
+
+61\. Further, it is the finding of the DRP that in the present case the issue
+involved is that Shrink Wrapped/off the shelf software recently the Mumbai
+Tribunal in the case of Capgemini Business Services (India) Ltd (supra) after
+considering all the decision available on the issue including the one relied
+on by the Assessing Officer and the Ld.DR in the case of Samsung Electronics
+Company Ltd. & Others (supra), Verizon Communication Singapore (supra),
+Reliance lnfocom Ltd. (supra) and Viacomm 18 Media  39 ITA NO.1535/MUM/2014
+(A.Y: 2010-11) Intec Billing Ireland Pvt. Ltd. (supra) held that where the
+payment is made for the copyrighted article the same cannot be considered as
+payment for the transfer of the copyright and cannot be taxed as royalty by
+observing as under:-
+
+> "49. The provisions of the Copyright Act, as discussed above are clear and
+> unambiguous in this respect. If the assessee has purchased a copy of a
+> computer software programme and he uses the said copy for his business
+> purpose and if the said use falls within the scope and purview of the
+> exceptions of section 52, such as the use of it for the purpose for which it
+> is supplied and to make backup copies for temporary purpose as a protection
+> against loss or damage and doing of any act necessary to obtain information
+> essential for operating the software for the purpose for which it is
+> purchased etc. as provided under section 52, then in that event it cannot be
+> said to be an infringement of copyrights of the author or owner of the work.
+> As held by the Hon'ble Karnataka High Court in the case of "Samsung
+> Electronics Company Ltd. & Others" (supra) while relying upon Article 3 sub
+> section (2) of the DTAA with US as the identically worded article being
+> there in almost all the tax treaties with other countries, that any term not
+> defined in the convention shall, unless the context otherwise requires, have
+> the meaning which it is under the laws of that 'State' concerning the tax to
+> which the convention applies. In view of above, when we see the definition
+> as per the statutory provisions/domestic law of the country i.e. Copyright
+> Act, 1957 of India which is the taxing State in this case, it is apparent
+> that the fair use of the work for the purpose of which it is being purchased
+> and doing of such other acts including making of copy for protection from
+> damage or loss cannot, in any case, said to be any infringement of copyright
+> whether or not any license in this respect has been granted by the
+> author/owner of the work. The right to use or for use of the product accrues
+> to the purchaser by the operation of the statute and as held by the Hon'ble
+> Delhi High Court in the case of "Infrasoft Ltd." (supra), the same would
+> amount to the sale of a goods and the acts done such as downloading of the
+> same to the computer or making backup copies etc. would be the necessary
+> acts for enabling the use of the product and would not amount to the
+> transfer of copyright or right therein, but only the transfer of the
+> copyrighted product and thus will not be covered under the definition of
+> royalty under DTAA. The consideration, thus, paid will be the business
+> income of the non-resident and taxable in accordance with the provisions of
+> DTAA. We may clarify here that even in cases where  40 ITA NO.1535/MUM/2014
+> (A.Y: 2010-11) Intec Billing Ireland the owner of the copyrighted work may
+> restrict the use of or right to use the work by way of certain terms of the
+> license/software agreement, the validity or the enforceability of the same
+> may be subject matter in other laws such as Indian Contract Act 1872, Sale
+> of goods Act 1930 or the Consumer Protection Act 1986 etc., but, the same in
+> any way cannot be said to grant of or infringement of copyright in the light
+> of specific statutory provisions of Copyright Act 1957\.
+
+> ........
+
+> ........
+
+> 52\. Even otherwise, the Revenue has not cited any direct case law of the
+> jurisdictional High Court of Bombay before us. In the case laws cited by the
+> Revenue of the Hon'ble Karnataka High Court in the matter of "CIT vs.
+> Samsung Electronics Company Ltd." (supra) and "ClT vs. Synopsis
+> International Old Ltd." (supra) though a view in favour of the Revenue has
+> been taken, but, the Hon'ble Delhi High Court in the case of "D1T vs.
+> Infrasoft Ltd." (supra) which is a latter decision and has discussed the
+> Samsung case also has taken the view in favour of the assessee. The Hon'ble
+> Delhi High court has taken the identical view favoring the assessee in the
+> case of "D1T vs Nokia Network" (supra) and in the case of "DIT vs. Ericson
+> A.B." (supra) also. The Hon'ble Bombay High gaud in the case of "The Addl.
+> Commissioner of Sales Tax vs. M/s Ankit international," Sales Tax Appeal
+> No.9 of 2011 vide order dated 15 September, 2011 while relying upon the
+> decisions of the Hon'ble Supreme Court in "The Commissioner of Income Tax V.
+> Vegetable Product Ltd." (1973) 88 ITR 192 and in "Mauri Yeast India Pvt.
+> Ltd. V. State of UP." (2008) 14 VST 259(SC) (2008) 5 S.C. C. 680 has held
+> that, if two views in regard to the interpretation of a provision are
+> possible, the Court would be justified in adopting that construction which
+> favours the assessee. Reliance can also be placed in this regard on the
+> decision of Hon'ble Supreme Court in "Bihar State Electricity Board and
+> another vs. M/s. Usha Martin Industries and another: (1997) 5 SCC
+
+> 289\. We accordingly adopt the construction in favour of the assessee. In
+> view of our discussion made above, this issue is accordingly decided in
+> favour of the assessee."
+
+62\. The Coordinate Bench in the case of Galatea Limited v. DCIT (supra) held
+that payment for the copyrighted article will not be taxed as  41 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland "Royalty" as defined
+under the Article 12(3) of India-Israel tax treaty. The Bench observed as
+under: -
+
+> "35. Thus, the status of the provisions in the treaty is kept same as was in
+> the pre- amended law as contained in the provisions of the Act. According to
+> these provisions of the treaty, as has been explained in various judgments,
+> transfer of copyright is different from transfer of copyrighted article.
+> Thus, in view of the facts before us, even if the payment for software is
+> taxed separately from hardware, on a standalone basis, even then the same
+> would not fall within the scope of Article 12(3) since there was merely
+> transfer of a copyrighted article, and not the copyright or any rights
+> contained therein.")
+
+63\. The Hon'ble Delhi High Court in the case of Nokia Networks OY (supra)
+held that the payment for copyrighted article does not fall within the purview
+of 'Royalty' under the DTAA. The Hon'ble Delhi High Court observed as under: -
+
+> "59. Be as it may, in order to qualify as royalty payment, within the
+> meaning of Section 9(1)(vi) and particularly clause (v) of Explanation
+
+> -II thereto, it is necessary to establish that there is transfer of all or
+> any rights (including the granting of any license) in respect of copy right
+> of a literary, artistic or scientific work. Section 2(o) of the Copyright
+> Act makes it clear that a computer programme is to be regarded as 'literally
+> work'. Thus, in order to treat the consideration paid by the cellular
+> operator as royalty, it is to be established that the cellular operator, by
+> making such payment, obtains all or any of the copyright rights of such
+> literary work. In the present case, this has not been established. It is not
+> even the case of the Revenue that any right contemplated under Section 14 of
+> the Copyright Act, 1957 stood vested in this cellular operator as a
+> consequence of Article 20 of the Supply Contract. Distinction has to be made
+> between the acquisition of a 'copyright right" and a "copyrighted article.
+
+> 60.......We also find force in the submission of Mr. Dastur that even
+> assuming that the payment made by the cellular operator is regarded as
+> payment made by way of royalty as defined in Explanation 2 below Section
+> 9(1)(vi), nevertheless, it can never be regarded as  42 ITA NO.1535/MUM/2014
+> (A.Y: 2010-11) Intec Billing Ireland royalty within the meaning of the said
+> term in article 13, para 3 of the DTAA. This is so because the definition in
+> the DTAA is narrower that the definition in the Act. Article 13(3) brings
+> within the ambit of the definition of royalty a payment made for the use of
+> or the right to use a copyright of a literary work. Therefore, what is
+> contemplated is a payment that is dependent upon user of the copyright and
+> not a Lumpsum payment as is the position in this case."
+
+64\. The Hon'ble Delhi High Court in the case of Ericsson Radio Systems AB
+(supra) observed as under: -
+
+> "Be as it may, in order to qualify as royalty payment, within the meaning of
+> Section 9(1) (vi) and particularly clause (v) of Explanation-11 thereto, it
+> is necessary to establish that there is transfer of all or any rights
+> (including the granting of any license) in respect of copy right of a
+> literary, artistic or scientific work. Section 2(o) of the Copyright Act
+> makes it clear that a computer programme is to be regarded as a 'literary
+> work'. Thus, in order to treat the consideration paid by the cellular
+> operator as royalty, it is to be established that the cellular operator, by
+> making such payment, obtains all or any of the copyright rights of such
+> literary work. In the presence case, this has not been established, it is
+> not even the case of the Revenue that any right contemplated under Section
+> 14 of the Copyright Act, 1957 stood vested in this cellular operator as a
+> consequence of Article 20 of the Supply Contract. Distinction has to be made
+> between the acquisition of a "copyright right" and a "copyrighted article".
+
+65\. The Coordinate Bench in the case of DDIT v. Solidworks Corporation
+(supra) following the decision of Hon'ble Delhi High Court in the case of
+Ericsson AB held that the receipts from supply of software are not taxable as
+Royalty'
+
+66\. The Hon'ble Delhi High Court in the case of New Skies Satellite BV & Ors.
+(supra) held as under: -
+
+43
+
+> ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland "59. On a final
+> note, India's change in position to the OECD Commentary cannot be a fact
+> that influences the interpretation of the words defining royalty as they
+> stand today The only manner in which such change in position can be relevant
+> is if such change is incorporated into the agreement itself and not
+> otherwise. A change in executive position cannot bring about a unilateral
+> legislative amendment into a treaty concluded between two sovereign states.
+> It is fallacious to assume that any change made to domestic law to rectify a
+> situation of mistaken interpretation can spontaneously further their case in
+> an international treaty. Therefore, mere amendment to Section 9(1)(vi)
+> cannot result in a change. It is imperative that such amendment is brought
+> about in the agreement as well. Any attempt short of this, even if it is
+> evidence of the state's discomfort a letting data broadcast revenues slip
+> by, will be insufficient to persuade this Court to hold that such amendments
+> are applicable to the DTAAs.
+
+> 60\. Consequently, since we have held that the Finance Act, 2012 will not
+> affect Article 12 of the DTAAs, it would follow that the first determinative
+> interpretation given to word "royalty" in Asia Sate/Ills, when the
+> definitions were in fact pari materia (in the absence of any contouring
+> explanations), will continue to hold the field for the purpose of assessment
+> years preceding the Finance Act, 2012 and in all cases which involve a
+> Double Tax Avoidance Agreement, unless the said DTAAs are amended jointly by
+> both parties to incorporate income from data transmission services as
+> partaking of the nature of royalty, or amend the definition in a manner so
+> that such income automatically becomes royalty. It is reiterated that the
+> Court has not returned a finding on whether the amendment is in fact
+> retrospective and applicable to cases preceding the Finance Act of 2012
+> where there exists no Double Tax Avoidance Agreement."
+
+67\. As rightly submitted by the Ld. Counsel for the assessee that the
+definition of Royalty under the Indo-Ireland Tax Treaty is pari-materia as
+that under Indo-US Tax Treaty and the Coordinate Bench of the Tribunal had
+already decided the issue of taxability of supply of software under the same
+agreement in favour of the Intec- Ireland with reference to the Indo- US Tax
+treaty for the Assessment Year 2002-03, wherein it has been held  44 ITA
+NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland that receipts from
+supply of software are not taxable in the hands of Intec- Ireland as Royalty.
+Therefore, since both the treaties are pari-materia with each other, we hold
+that the receipts from supply of software are not taxable in the hands of
+Intec-Ireland as Royalty under new Ireland tax treaty. Intec-Ireland does not
+have PE in India and accordingly amounts received by Intec-Ireland towards
+supply of software are not liable to tax in India. Therefore, in view of the
+above discussion and respectfully following the said decisions, we hold that
+payment received by the assessee was not in the nature of Royalty and cannot
+be therefore brought to tax.
+
+68\. Ground No.4 of the grounds of appeal of the assessee is in respect of not
+granting the entire credit for TDS amounting to ₹.1,23,61,709/-, disregarding
+specific direction of the DRP.
+
+69\. Ld. Counsel for the assessee submits that a direction may be given to the
+Assessing Officer for granting credit for TDS as claimed by the assessee. Ld.
+DR has no serious objection in directing the Assessing Officer to allow credit
+for TDS, subject to verification.
+
+70\. On hearing both the parties, we direct the Assessing Officer to examine
+this issue and grant credit for TDS as claimed by the assessee, if found in
+order.
+
+45
+
+ITA NO.1535/MUM/2014 (A.Y: 2010-11) Intec Billing Ireland
+
+71\. In Ground Nos. 5 to 7 of grounds of appeal of the assessee are in respect
+of charging interest u/s. 234B and 234C of the Act. Charging of interest u/s.
+234B and 234C are only consequential and therefore this ground is rejected.
+
+72\. Ground No.8 is in respect of initiation of penalty proceedings
+u/s.271(1)(c) of the Act. This ground is premature and hence dismissed.
+
+73\. In the result, appeal of the assessee is partly allowed.
+
+Order pronounced in the open court on the 08th January, 2018.
+
+    
+    
+              Sd/-                                          Sd/-
+    (G. MANJUNATHA)                                   (C.N. PRASAD)
+    ACCOUNTANT MEMBER                                 JUDICIAL MEMBER
+    Mumbai / Dated 08/01/2018
+    Giridhar, SPS
+    
+    
+    Copy of the Order forwarded to:
+     1.    The Appellant
+     2.    The Respondent.
+     3.    The CIT(A), Mumbai.
+     4.    CIT
+     5.    DR, ITAT, Mumbai
+     6.    Guard file.
+    
+           //True Copy//
+                                                                BY ORDER
+    
+                                                            (Asstt. Registrar)
+                                                                ITAT, Mum
+     
+

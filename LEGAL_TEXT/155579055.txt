@@ -1,0 +1,3423 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Haldor Topsoe (I) Pvt Ltd, New ... vs Dcit, New Delhi on 26 December, 2018
+
+    
+    
+                                                                                   ITA No.-654/Del/2015.
+                                                                  Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+                   IN THE INCOME TAX APPELLATE TRIBUNAL
+                       (DELHI BENCH: 'I-1': NEW DELHI)
+    
+          BEFORE SHRI BHAVNESH SAINI, JUDICIAL MEMBER
+                             AND
+          SHRI ANADEE NATH MISSHRA, ACCOUNTANT MEMBER
+    
+                                  ITA No:- 654/Del/2015
+                                (Assessment Year: 2010-11)
+    
+    Haldor Topsoe India Pvt. Ltd.,                         Deputy Commissioner of Income
+    Elegance Tower, 2nd floor,                       Vs.   Tax,
+    Jasola District Centre,                                Circle 10(1),
+    New Delhi-110025.                                      New Delhi.
+    PAN No:       AABCH7781F
+    APPELLANT                                              RESPONDENT
+    
+    
+                   Assessee by           : Sh. H.P. Aggarwal, FCA, and
+                                           Ms. Prashuka Jain, CA
+                   Revenue by           : Sh. Sanjay I. Bara, CIT (DR)
+    
+                                           ORDER
+    
+
+PER: ANADEE NATH MISSHRA, AM This appeal by the Assessee is filed directed
+against the Assessment Order dated 04-12-2014 passed by the Assessing Officer
+U/s 154/143(3) r.w.s. 144C of the Income Tax Act, 1961 (for short "the Act").
+The grounds of appeal are as under:-
+
+> "i. The learned DCIT(after incorporating Ld. DRP's order) has erred on facts
+> and in law in making addition of Rs. 3,20,93,274/- on account of adjustment
+> in value of international transaction, on account of following:
+
+> a) Selecting 2 new comparable companies
+
+> b) Rejecting 4 comparable companies selected by the assessee
+
+> c) Rejecting adjustment in margin due to different risk profit of comparable
+> companies  Page 1 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+> ii. The learned DCIT (after incorporating Ld. DRP's order) has erred on
+> facts and in law in initiating penalty proceedings u/s 271(1)(c) iii. The
+> appellant craves leave to add to or modify the above grounds of appeal at or
+> before the hearing of the appeal."
+
+(1.1) The Assessee has also filed an Additional Ground of the appeal, which is
+reproduced as under:
+
+> "The learned DCIT (after incorporating Ld. DRP's order) has erred in not
+> granting 100% of the eligible profit as deduction u/s 10A(1A), and confining
+> the deduction at 90% only."
+
+(2) The Assessee filed return of income declaring total income of Rs.
+43,58,900 on 30.09.2009. The case selected for scrutiny and a reference was
+made to Transfer Pricing Officer ("TPO" for short). The TPO, vide Order dated
+17.01.2014 U/s 92CA(3) of I.T. Act, proposed adjustments of Rs. 3,26,30,317 to
+the returned income. (2.1) Brief facts of the Case, as noticed by TPO in
+aforesaid order dated 17.01.2014 of TPO are, the assessee is a fully owned
+subsidiary in the Topsoe Group (with 99.9% shares being held by HTIAS and 1
+share being held by another group company- Subcontinent ammonia Investment
+Company Aps). The assessee provides Engineering service (including preparation
+of engineering packages, equipment designs, etc.) and Technical Assistance
+services (including providing engineers for supervision) to HTAS for their
+global projects (including projects in India). The key efforts of the Haldor
+Topsoe India Private Limited are in developing basic engineering design
+packages based on Topsoe technologies for ammonia, methanol, hydrogen,
+hydrogen + carbon- monoxide, SNG, DME, hydro-processing technologies including
+naphta treaters,  Page 2 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+VGO/Diesel hydro-treaters, hydrocrackers, environmental technologies for
+abatement of NOx, Sox etc. for Topsoe's global market. The international
+transactions entered into by the assessee are as under :
+
+> S. No. International Transaction Amount (In Rs.) 1 Engineering & Technical
+> Assistance service 25,00,55,515 2 Purchase of fixed assets 11,87,625 3
+> Reimbursement of Expenses (Received) 81,000 4 Reimbursement of Expenses
+> (Paid) 13,31,078 (2.2) TPO observed in his order that the assessee is
+> engaged in activity which is largely defined as technical consultancy of
+> engineering services. The assessee has also mentioned in its TP report that
+> it can be classified as a technical and engineering service provider. As per
+> assessee's TP Report, the assessee selected eight comparables, and summary
+> of the results as submitted by the assessee are as under:
+    
+    
+            Particulars                               Amount
+            Operating Revenues                        250,055,514.60
+            Operating Expenses                        223,767,775.99
+            Operating Profit                          26,287,738.61
+            OP/OC                                     11.75%
+            Method used                               TNMM
+            PLI                                       OP/OC
+            No of Comparables                         8
+            Mean Margin of Comparables                14.45%
+    
+    
+    
+
+> (2.3) The arm's length price of the international transactions representing
+> Provision of Technical Support services provided to the associated
+> enterprises (AE) was determined by the assessee by applying Transactional
+> Net Margin Method (TNMM),  Page 3 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+which was stated by the assessee to be the most appropriate method in the
+facts and circumstances of the case. The operating profit to total cost
+(OP/TC) ratio was taken as the profit level indicator (PLI) in the TNMM
+analysis. The PLI of the company was arrived at 11.75% on cost whereas the
+average PLI of the eight ccomparables selected by the assessee was arrived at
+14.45% in the analysis in the TP document, as per aforesaid summary of
+results. As the price charged in its international transactions was more than
+the said arithmetical mean price, the price charged in the international
+transactions was treated by the assessee to be at arm's length. (2.4) For
+international transactions of the assessee related to provision of Technical
+Support services, the TPO commented as under in respect of the filters used by
+the assessee in selection of 08 comparables using the Prowess database; in
+show cause notice dated 17.12.2013 of TPO. The filters used by the assessee
+and remarks of the TPO are as under:
+
+> SI.
+
+> No. Particulars Remark of the TPO 1 Financial information This is an
+> appropriate filter.
+    
+    
+              not available for year
+              2009-10, rejected
+         2    Companies        for    which An appropriate filter, however, it should be
+              data   for      12     months March ending.
+              were      not        available,
+              Rejected
+         3    Companies              having This is not an appropriate filter because there is
+    
+    
+    
+                                                Page 4 of 112
+                                                                                 ITA No.-654/Del/2015.
+                                                               Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+                marketing         expenses no correlation of marketing expenses and profit
+    
+
+> greater than and equal earned in service industry. to 3% of total sales,
+> Rejected 4 Companies having R&D This is not an appropriate filter. The
+> taxpayer expenses greater than has not explained any rationale for putting
+> the equal to 3% of total limit of 3%. The taxpayer adopted the cut of sales,
+> rejected limit of 3% of R&D expenditure over sales in a very arbitrary
+> manner. There are no studies to show that companies incurring R&D
+> expenditure less than 3% of turnover are necessarily Software developer
+> companies. A company engaged in providing services in the nature of Software
+> development may not require incurring any expenditure on R&D. Hence this
+> filter does not have logical application in the case of software companies.
+
+> 5 Companies having This has to see case to case basis.
+    
+    
+                negative    net     worth,
+                Rejected
+          6     Companies having more An appropriate fitler.
+                than 25% of related
+                party       transactions,
+                Rejected
+    
+    
+    
+    
+
+> In the aforesaid show cause notice, the TPO proposed the following filters:
+
+> Companies whose Technical Support service income <Rs.l cr. are  Page 5 of
+> 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+> excluded, on the ground that By taking companies whose income is less than
+> Rs.l Crore, the analysis may not lead to a proper comparability.
+
+Moreover their low cost/sales base makes their results unreliable. Companies
+whose revenue from Technical Support service is less than 75% of the total
+operating revenues are excluded.
+
+The companies whose revenues from Technical Support service and related
+services are more than 75% of their operating revenues are selected as
+comparables. According to the TPO, this was an appropriate filter as this is
+the stage which will determine the correct comparability. As per TPO, In
+respect of enterprises whose main source of income is from service segment,
+the companies whose income from TECHNICAL SUPPORT SERVICES comes to more than
+75% of the operating revenues have been considered for the study as the other
+segment may not materially affect the financial results of the company.
+Companies having different financial year ending (i.e. not March 31, 2009) or
+data of the company does not fall within 12 month period i.e. 01-04-2009 to
+31-03-2010, are rejected. As per TPO, If a tested party ends its financial
+year in March, then taking companies whose financial year ends in March will
+be an appropriate filter and may lead to a proper comparability.
+
+Companies that are functionally different from the taxpayer are  Page 6 of 112
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+excluded.
+
+Companies that are having peculiar economic circumstances are excluded. As per
+TPO, any other peculiar circumstances of a company which is divergent from the
+taxpayer and the environment in which the taxpayer and the comparables are
+working makes it incomparable. According to TPO, peculiar economic
+circumstances which are specific to the comparable enterprises are being
+looked into to check whether the enterprise is going along with the industry
+trend, if not whether suitable adjustments can be made to that effect, and if
+suitable adjustments cannot be made, the same is rejected as a comparable. As
+per TPO, among the peculiar economic circumstances that affect the suitability
+of a company as a comparable is its being a persistent loss maker or having
+declining revenues because these are factors that are not in keeping with the
+industry standard and disqualify the company from being used as a benchmark.
+
+(2.4) The TPO proposed, in the aforesaid show cause notice, to use the current
+year data alone i.e. the data pertaining to the FY 2009-10. As per TPO, the
+use of earlier year data is not acceptable in the absence of any reasons as to
+how the earlier year data has an influence on transfer prices. In the absence
+of any cogent, relevant and reliable evidence to prove that the data for
+preceding two years revealed facts which  Page 7 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+could have an influence on the determination of the ALP, in view of proviso to
+Rule 10B(4) use of the data pertaining to the two earlier years i.e. FY
+2007-08 and FY 2008- 09 is not justified, according to TPO. Unless it is shown
+that conditions as mentioned in the aforesaid proviso are fulfilled, only the
+current year data was proposed to be used by TPO , and to exclude the earlier
+year data.
+
+(2.5) Of the eight comparables selected by the Assessee, the TPO proposed to
+reject six, and accept two; in the aforesaid show cause notice, for the
+reasons as under:
+
+    
+    
+    SI. Name                of           Remarks of this office                                            Accept/
+    No. comparable                                                                                         Reject
+        Central         Mine
+    
+
+1 Planning & Design This company is failing service filter. Hence, not a
+Rejected Institute Limited suitable comparable.
+
+2 Mukund Engineers This company is functionally different from the Rejected
+Limited taxpayer. Hence, not a suitable comparable. 3 Petron Engineering This
+company is engaged in 'Construction Rejected Constructions contract/projects'
+which are functionally different from Limited the taxpayer. Hence, not a
+suitable comparable. 4 Project and This company is having controlled by the
+government Development Hence, can't be considered as a suitable comparable.
+Rejected India Limited 5 Simon India This company is engaged in 'Construction
+contract' Limited which are functionally different from the taxpayer and
+Accepted fails service filter also. Hence, not a suitable comparable.
+
+Page 8 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+6 TCE Consulting The company passes all the filters proposed by the Accepted
+Engineers Limited TPO.
+
+7 UB Engineering This company operates in two segments i.e. Mechanical
+Rejected Limited Erection and EPC Electrical which are not comparables to that
+of assessee. Hence, can't be considered as a good comparable.
+
+    
+    
+    8       IOT    Design    and The company fails service income filter. Hence, can't be Rejected
+            Engineering          taken as comparable.
+            Limited
+    
+    
+    
+    
+    
+
+(2.6) The comparables selected by the TPO from out of the comparables chosen
+by assessee are as under:
+
+> Sl. No Name of the comparable company 1 TCE Consulting Engineers Limited 2
+> Mukand Engineers Limited 3 Project and Development India Limited 4 UB
+> Engineering Limited (2.7) In the aforesaid show cause notice, the TPO also
+> proposed to include the two comparables, which were not chosen by the
+> Assessee. The reasons stated by the TPO are as under:
+
+> 1 Mahindra Consulting Engineers You have rejected this company on the ground
+> Limited that 'Funcional/product profile not similar'.
+
+> However, AR of the company perused and it is seen that this company is
+> enmgaged in the field  Page 9 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+> of providing Technical Support Service. It passes all the filters also.
+> Hence a suitable comparable.
+
+> 2 Engineers India You have rejected this company on the ground that
+> 'Functionally different Annual Report of the company is perused and it is
+> seen that company operates in two segments 'Consulting and Engineering
+> Project and Lumpsum Turnkey Project'. First segment i.e. Consulting and
+> Engineering project is comparable to assessee and same is considered. This
+> company is passes all filters also. Hence a suitable comparable.
+
+> (2.8) Thus, the TPO proposed the following list of comparables to determine
+> the arm's length price of the international transaction related to the
+> provision of Market Support Services:
+    
+    
+            SI. No Name                                         OP/OC
+            1      Mahindra Consulting Engineers Limited        23.50
+            2      TCE Consulting Engineers Limited             25.88
+            3      Engineers India                              67.77
+            4      Mukand Engineers Limited                     12.87
+            5      Project and Development India Limited        23.09
+            6      UB Engineering Limited                       9.71
+            AVERAGE                                             26.33
+    
+    
+    
+    
+                                        Page 10 of 112
+                                                                              ITA No.-654/Del/2015.
+                                                            Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+    
+
+> (2.9) Proposed Computation of ALP, and proposed Transfer pricing adjustments
+> , as per aforesaid show cause notice of TPO are as under :
+    
+    
+            Operating Cost                                      223,767,776
+            Arm's Length Price at a Margin of 26.33%            282,685,831
+            Price Received                                      250,055,515
+            105% of International Transaction                   262,558,290
+            Proposed Adfustment u/s 92CA                        32,630,317
+    
+    
+    
+    (2.10) The assessee made a reply to the show cause notice.                  The reply was
+    
+    
+
+> considered by the TPO and discussed with assessee's Authorised
+> Representative; after which he arrived at the following conclusions:
+
+> (2.10.1) Regarding the business of the assessee In the reply to the show
+> cause notice assessee stated that assessee is rendering services to
+> industries operating in Fertilizer, Petro-Chemical, Refinery and OIL & Gas
+> sector. Accordingly, while selecting comparable companies, the assessee had
+> selected those engineering companies which were also rendering services to
+> the industries in Fertilizer, Petro-Chemical, Refiner and Oil & Gas Sector.
+> As per TPO ; the assessee is also providing technical and engineering
+> consultancy services. In any case, as per TPO, the 'different sector' or
+> verticals of technical consultancy cannot be a criterion for acceptance or
+> rejection of a comparable because the taxpayer and the TPO have selected
+> TNMM as the most appropriate method. The TPO noted that taxpayer while
+> selecting the method has clearly stated that under TNMM the standards of
+> comparability are relatively relaxed and only broad similarity of functions
+> is required  Page 11 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+and that TNMM can be used with data for companies that are broadly comparable
+to the taxpayer, as functional differences are likely to be reflected in the
+level of operating expenses incurred by each company, as these expenses are
+deducted in the calculation of operating profit and are accordingly taken
+account of in the comparability analysis. The taxpayer having adopted net
+margin or operating profit as the most reliable or viable indicator of profit
+level; as per TPO, selective argument against some of the comparables was
+uncalled for. The TPO held that the Comparables selected by the TPO broadly
+perform functions similar to the taxpayer and are part of the Technical
+Consultancy & engineering services segment and hence such comparables cannot
+be rejected simply on the ground of high end activity. As per TPO, it is also
+to be kept in view that transfer pricing is not an exact science and that it
+is difficult to find exact comparables particularly under TNMM. As per TPO,
+this constraint has been accepted by the ITAT, Delhi in the case of ST
+Microelectronics Ltd (supra) wherein the ITAT held that ALP of an
+international transaction cannot be determined accurately in accordance with a
+scientific formula. It is quite difficult to arrive at any firm conclusion
+with mathematic precision. The TPO also referred to order of ITAT, Hyderabad
+Bench in the case of Deloitte Consulting India Pvt. Ltd in which it was held
+that no two comparable companies can be replicas of each other. The
+application of Rule 10B should be carried out and judged not with technical
+rigor, but on a broader prospective. Considering these facts and the fact that
+the taxpayer itself has not gone into the verticals or high end or low end
+distinction while selecting  Page 12 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+the comparables and for this very reason selected TNMM as the most appropriate
+method, the TPO held that it cannot now argue against some of the comparables
+on this ground. The TPO mentioned that the taxpayer has selected companies
+operating in various verticals and that TPO has also selected comparables
+which are broadly engaged in the field of Technical Consultancy & engineering
+services. The TPO observed that out of 08 comparables selected in its TP
+report, 04 comparables were accepted by TPO and even the other 2 comparables
+further selected are from the search matrix of the assessee.
+
+(2.10.2) Regarding filters selected by the assessee but rejected by the TPO
+Filters of marketing expenses >3% of total sales:
+
+The taxpayer applied this filter whereby companies with the ratio of sum of
+advertising, marketing and distribution expenses to sales more than 3% were
+rejected. As per TPO, this is not an appropriate filter. As per TPO,
+independent enterprise has to incur marketing expenditure. As per TPO, in a
+service industry like Technical support, the taxpayer did not provide the
+basis on which such expenses resulted in any intangible unlike in
+manufacturing industry where substantial marketing expenditure creates an
+intangible; and thus, this filter is not relevant in service industry like
+Technical support. The taxpayer's main argument was that marketing and
+advertising activities carried out by the comparable companies result in
+creation of marketing intangibles and thereby a return on such investment made
+in creation of such intangible. However, TPO noted that the taxpayer did not
+give the  Page 13 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+basis on which it could be concluded that such companies have created
+marketing intangible. As per TPO, in the case of manufacturing or distribution
+companies, marketing expenses over a period of time may create marketing
+intangible but the same may not be true for service industry like technical
+support services. Further, as per TPO, the marketing effort is always linked
+with expenditure and these efforts may not necessarily result in the increased
+profits/margins. The TPO noted that ITAT, Hyderabad Bench in M/s Deloitte
+Consulting India Pvt. Ltd ITA No. 1082 and 1084 of 2010 in order dated
+22.07.2011 had affirmed the above principle. (2.10.3) Filter of R&D expenses >
+3% of total sales:
+
+Assessee objected to the rejection of this filter mentioning that it hasn't
+spent any expenses on R&D activities thus application of this filter is
+appropriate in its case. As per TPO, there are no uniform standards regarding
+disclosure of R&D expenditure in the accounts and the nature of R&D is not
+available from the published accounts. As per TPO, for creating Intellectual
+Property Rights, research and development is required but the converse is not
+true i.e. each company spending on research and development automatically is
+towards creating an IPR. As per TPO, the research and development activity, if
+any in a Service Industry is to improve the processes in delivering the
+technical services and not in creating an intangible. The TPO observed that
+the taxpayer had also not demonstrated that companies having expenditure
+greater than 3% on R&D were necessarily creating IP products. The TPO was of
+the  Page 14 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+view that there were other quantitative filters which would more appropriately
+segregate companies which were rendering comparable services as that of the
+assessee. In the absence of any supporting data, R&D expenditure @ 3% of the
+turnover cannot be considered as creating any significant economic
+intangibles; the TPO held and observed that rejection of this filter does not
+have material impact in the case of the assessee.
+
+(2.10.4) Regarding Comparables selected by the assessee but rejected by the
+TPO.
+
+The TPO started with a general discussion, stating that it is seen that
+taxpayers argue against or for a company based on the certain keywords rather
+than seeing the main activity of the company; that every company tries to put
+its best face both in its website as well as in annual report; that any person
+can pickup certain keywords from the website and annual report and may argue
+that it is providing a sophisticated service, has certain patents, has
+specialized in certain areas, has obtained excellence in certain area; that,
+however, what needs to be seen is whether that is the substantial activity of
+that company or it is just an area which company wants to develop and do
+better work ; that the effort of the office of TPO has been to see the
+company's activity in its entirety and find out what it is doing
+substantially. Further, the TPO stated that it is not possible to find
+companies providing exactly similar services as that of taxpayer because there
+will not be an independent company in the market which is providing only some
+technical support; that in order to exist as a  Page 15 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+separate company, it has to provide a range of technical services; that it is
+possible for the taxpayer to argue that a comparable company taken by this
+office does not provide the type of technical service, taxpayer is rendering
+but then the taxpayer itself has not been able to suggest comparables
+providing exactly similar services as that of taxpayer. The TPO stated that
+the effort of his office has therefore been to find companies which are
+providing technical services with similar employee profile engineers and
+technical people as that of taxpayer irrespective of their size and range of
+services instead of finding companies which have exactly similar services as
+that of taxpayer as this will be a very difficult and in fact an Impossible
+exercise; and that most of the small independent companies will be providing
+only services in a niche area and then the taxpayer's argument would be that
+these companies are providing services in a niche area while it is providing
+general technical support services. Hence, according to the TPO, size, range
+of services etc. will have to be disregarded while making comparisons as long
+as the employee profile is similar that is of providing technical services.
+
+(2.10.5) Central Mine Planning and Design Institute Limited The Assessee
+submitted that this company is failing service income filter whereas Form
+23ACA shows that this company is having 100% service income. As per TPO,
+contention of the assessee was verified from the information available in the
+public domain and a few snap shots taken by him were reproduced as under:
+Page 16 of 112
+
+> ITA No.-654/Del/2015.
+
+> No.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+As per TPO, it was evident from the above that the exploration can't be
+considered as a service. Moreover, as per TPO, the company was having 100%
+related party transactions as evident from the followin followingg extracts of
+the annual report as per p P-6/AR "Your Company continued to operate with
+seven Regional Institutes (RI) located at Asansol/Dhanbad, Ranchi, Nagpur,
+Bilaspur, Singrauli & Bhubaneswar and its headquarters at Ranchi. Seven
+Regional Institutes designated as RI-I RI to RI-VII rendered consultancy
+services to seven corresp corresponding onding subsidiaries of CIL viz. ECL
+(RI-
+
+(RI I), BCCL (RI-II), CCL (RI-III), III), WCL (RI (RI-IV), SECL (RI-V), NCL
+(RI-VI), VI), & MCL (RI-
+
+(RI VII)."
+
+As per AR, the company is a subsidiary of Coal India Limited and is also
+providing services to seven other subsidiaries of Coal India Ltd; the TPO
+noted. Hence, the TPO held that all the transactions are related party
+transactions. (2.10.6) Petron Engineering Construction Limited Assessee
+objected to the rejection of this comparable and submitted that this company
+is functionally similar to assessee as it is providing similar services as
+that of  Page 17 of 112 ITA No.-654/Del/2015.
+
+No.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+assessee. In this regard, as snap shot of P&L Account was taken which is
+produced below:-
+
+As per TPO, the above data shows that the sources of revenue of this
+comparable company for the relevant year makes it evident that none of the
+work performed by this company like construction contracts is similar to
+assessee. Hence, this company can't be considered as suitable comparable, the
+TPO held.
+
+(2.10.7) Simon India Limited The TPO rejected this comparable, stating : ""It
+It is submitted that this company is failing service income filter whereas
+Form 23ACA shows that this company is having 96.70% service income. However,
+contention of the assessee is verified form the data produced in its claim. It
+is seen that assessee has made significant revenue from Sale or supply of
+services which is the major part of its revenue during the year. However, it
+has made purchases for re re-sale sale for almost equivalent amount also  Page
+18 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+and in the note to the accounts, against the purchase of services it is
+mentioned that 'Purchases made for re-sale is to be given as per following
+calculation - Opening stock of goods traded + purchases of goods traded-
+closing stock of goods traded' Hence, it is evident from the above that
+assessee is not providing services and is engaged in sales primarily as such.
+Hence, this company can't be considered as a suitable comparable."
+
+(2.10.8) IOT Design & Engineering The TPO rejected this comparable, stating :
+"It is submitted that this company is failing service income filter whereas
+Form 23ACA shows that this company is having 100% service income. However it
+is seen that AR of the company is not available on the public domain. Only
+data is available on the data bases, which shows that this company is failing
+service filter. Hence, in absence of cogent financial data this company can't
+be considered as suitable comparable." (2.10.9) Regarding new companies
+selected by the TPO & Added to the list of comparables.
+
+(2.10.9.1) Engineers India Limited The assessee objected to this comparable
+stating that it provides a complete range of project services ranging from
+conceptualization, planning, design, engineering and construction activities
+to meet the specific requirements of its clients in the several fields-
+Petroleum Refining; Petrochemicals; Pipeline; Offshore Oil & Gas; Onshore Oil
+Page 19 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+& Gas; Terminals & Storages; Mining & Metallurgy; and Infrastructure. And
+further that EIL is engaged into providing services from concept to
+commissioning in all the sectors listed above and it provides services beyond
+the commissioning of clients plants through monitoring the operation of each
+plant and accumulating feedback on its performance; and furthermore, that this
+company has a much higher turnover than that of taxpayer. Relying on his
+earlier general discussion; the TPO further r noted that M/s. Project and
+Development India Limited, a comparable selected by the assessee, is also a
+government company. As per TPO, Related Party Transactions (RPT) of the
+company is checked and it is within threshold limit. The TPO contended that
+all government contracts are being bid both by government and private
+companies on competitive basis and therefore there is no advantage to EIL on
+this account and that news items regarding the contracts of NTPC being bid
+competitively by BHEL, L&T, BGR Energy make this point abundantly clear. On
+the issue of High turnover the TPO observed that the taxpayer's hypothesis
+that there is a direct co- relation between turnover and profit margins of the
+company is not acceptable; that the Transfer pricing rules or the OECD
+guidelines do not prescribe any specific range of turnover for comparability
+corresponding to size and scale of operations; that once functional similarity
+is accepted, companies can be compared irrespective of the turnover, size or
+scope of operation particularly in the service industry where not much of
+infrastructure is needed to set up business; that the fixed costs in the
+service industry are insignificant compared to the manufacturing industry ;
+that the major  Page 20 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+costs in the service industry which includes the taxpayer are variable costs
+such as salary, traveling expenses, communication expenses etc. ; that margins
+in any industry vary with change in turnover only when the fixed costs
+involved are significant; that in the absence of any significant fixed costs,
+the margins in the service industry are not linked to the turnover of the
+company; that many small companies have much higher margins than the big
+companies; that in Service industry turnover does not play any significant
+role as far as the margins are concerned; and that there is no linkage
+whatsoever between the sales and the margins. The TPO referred to the case of
+M/s SYMANTEC SOFTWARE SOLUTIONS PVT LTD (2011-TII- 60-ITAT-MUM-TP) , which was
+related to market support service, in which the ITAT has observed "a) It is
+not shown that high or low turnover influences the margins of the comparable.
+b) Assessee's objection was general in nature and no specific fact was brought
+on record to show that due to difference in turnover comparables became non-
+comparables; it could not be demonstrated as to how the difference in turnover
+influenced the results of comparables. c) The accepted economic principles and
+commercial practice in a highly competitive market one can survive only by
+keeping low margin but high turnover. d) Similarly, low turnover does not
+necessarily mean high margin. Therefore, unless and until it is shown that
+turnover makes undue difference on the margins, it is not a general rule to
+exclude such comparables."  Page 21 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+(2.10.9.1.1.) The TPO also referred to the following decisions in which it was
+held that the turnover is not a relevant factor for choice of comparables
+
+i) Willis processing, Mumbai, ITAT ITA No. 4429/Mumbai and 457/ Mumbai /2012
+Dated 01.03.2013 - A.Y. 2007-08 dated 01.03.2013
+
+ii) Capgemini, Mumbai, ITAT ITA No. 786/ Mumbai / 2011 Dated 28.01.2013 A.Y.
+2007-08 (2.10.9.1.2.) As regards Abnormal Margins Issue it was argued by the
+assessee that comparables having 'abnormally' high margins should not be
+selected. In support of this the taxpayer has referred to certain judicial
+decision. The above objection of the taxpayer was not accepted by the TPO,
+stating : " In several decisions the ITATs have accepted so called high margin
+comparables. For instance, the ITAT, Bangalore in the case of Sap
+Labs(2010-TII- 44-ITAT-Bang-TP), ITAT, Hyderabad in the case of Deloitte
+Consulting Pvt. Ltd. confirmed selection of high margin comparables for
+service industry. These decisions pertain to the service sector viz. Software
+development and ITES. In the case of Exxon mobil the ITAT upheld Alpha Geo
+India Ltd having margin of 47.79% and Vimta Lab having margin of 57.68%. In
+any case, as per TPO in comparability analysis loss or so called higher margin
+is not a determining factor unless there are any peculiar economic
+circumstances in such a  Page 22 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+case. As per TPO, in favour of loss making companies it is generally argued
+that such companies should not be rejected simply because they have incurred
+losses in a single year as loss making companies are as much part of industry
+as are profit making companies. As per TPO, the same logic is required to be
+applied to the cases having 'supernormal profit'. Just like loss making
+companies, 'super* normal profit making companies are also part of the
+industry and hence cannot be rejected merely because they have earned such
+profits, unless peculiar economic circumstances of such companies are pointed
+out. The TPO mentioned that This view has been completely endorsed by the OECD
+in their revised 2010 guidelines; and referred to the relevant Para "3.63
+Extreme results might consist of losses or unusually high profits. Extreme
+results can affect the financial indicators that are looked at in the chosen
+method (e.g. the gross margin when applying a resale price, or a net profit
+indicator when applying a transactional net margin method). They can also
+affect other items, e.g. exceptional items which are below the line but
+nonetheless may reflect exceptional circumstances. Where one or more of the
+potential comparables have extreme results, further examination would be
+needed to understand the reasons for such extreme results. The reason might be
+a defect in comparability, or exceptional conditions met by an otherwise
+comparable third party. An extreme result may be excluded on the basis that a
+previously overlooked significant comparability defect has been brought to
+light, not on the sole basis that the results arising from the proposed
+"comparable" merely appear to be very different from the results observed in
+other proposed "comparables".  Page 23 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+The TPO also referred to order of Mumbai ITAT in case of BP India services
+(2011-TII-
+
+118) in which it was held: "we are not convinced with the submission advanced
+on behalf of the assessee that simply because two loss making cases have been
+excluded from the list of comparable cases for determining the mean margin
+rate of profit, the other two cases of extreme profit should also be excluded.
+Rule 10B(l)(e)(ii) clearly refers to 'a comparable uncontrolled transaction or
+a number of such transactions'. It not only talks of one transaction which is
+comparable and uncontrolled, but also contemplates a number of such
+transactions. By using such comparable transactions in plural, it has been
+made clear that if there are a number of such transactions under
+consideration, then their average should be adopted as a benchmark. It is
+obvious that the very rationale of having average in case of more than one
+transactions is to iron out the effect of extreme cases and finding the profit
+margin as a representative of the whole lot..... the cases of FI and ME have
+been held by us to be rightly excluded by the TPO because of their having
+different product profile and also not satisfying the requirement of Rule 10B
+read with Rule 10A as uncontrolled transactions. These are the reasons in
+support of their exclusion from the list of comparable cases and not because
+there was high loss in such cases. This elimination by itself would not
+support the omission of HT and DT, being the cases with extreme profit rate.
+The exclusion by the CIT(A) of these cases on the sole reason of high profits,
+is not sustainable. Before eliminating such cases from the count, it was
+incumbent upon him to show that such cases were incomparable on the basis Of
+relevant considerations and not the higher or  Page 24 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+lower profit rates. It is imperative to note that the list of 12 comparable
+cases was provided by the assessee and not something created by the TPO as per
+his own whims and fancies. When the list of comparable cases was furnished by
+the assessee, it was the turn of the TPO to find out whether such cases were,
+in fact, comparable or not and if not, then to exclude them after showing how
+these were not comparable; the decisive factors for determining inclusion or
+exclusion of any case in/from the list of comparables are the specific
+characteristics of services provided, assets employed, risks assumed, the
+contractual terms and conditions prevailing including the geographical
+location and size of the markets, costs of labour and capital in the markets
+etc. Nowhere, the higher or lower profit rate, as presumed by the CIT(A), has
+been prescribed as the determinative factor to make a case incomparable.
+Rightly so, because profit is not a factor in itself, but consequence of the
+effect of various factors. Only if the higher or lower profit rate results on
+account of the effect of factors given in rule 10B(2) read with sub-rule (3),
+that such case shall merit omission. If however such extreme profit is
+achieved because of factors other than those given in the rule, then such case
+would continue to find its place in the list of comparables... Hence, EIL will
+be retained as a suitable comparable in assessee's case, the TPO held.
+
+(2.10.9.2) Mahindra Consulting Engineers Limited The assessee argued that
+website www.mahindramace.com suggests that it is primarily engaged in
+providing consultancy services such as opportunity analysis, expediting
+services, market demand assessment etc. in the areas of SEZ, Industrial  Page
+25 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Parks and Township, Privatisation, Environment and other areas. Further, the
+assessee argued that as per P-114 of annual report, the company is engaged in
+rendering consultancy services in the areas of special economic zones, water
+supply and sewerage, solid waste management, urban infrastructure,
+Agricultural and Horticultural infrastructure, industrial Infrastructure,
+renewable energy, etc. for the year under review. According to the TPO,
+however, this company is engaged in various engineering and project
+consultancy services which are in the nature of technical services and
+therefore comparable to taxpayer in view of his General Discussion.
+
+(2.10.10.) Regarding Working Capital Adjustment: Assessee sought working
+capital adjustment to the margins of the comparables as well as in its own
+case. However, as per TPO, assessee has not demonstrated that there is a
+difference in the levels of working capital employed by it vis-a-vis the
+comparables. As per TPO, claim of working capital adjustment is not a matter
+of right; and as in the case of risk adjustment, it must be based on some
+data. The TPO referred to OECD guidelines which mention that no adjustment can
+be allowed in the absence of reliable data. The TPO referred to Paragraph 1.33
+of the OECD guidelines, 2010 , in which it is stated : "[.....] To be
+comparable means that none of the differences (if any) between the situations
+being compared could materially affect the condition being examined in the
+methodology (e.g. price or margin), or that reasonably accurate [emphasis
+added] adjustments can be made to eliminate the  Page 26 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+effect of any such differences. [....]." For Transactional Net margin method,
+the TPO also referred to paragraph 3.2 of the Guidelines which state: "[....]
+the reliability of a method should be assessed taking into account the
+principles discussed in this Report, including the extent and the reliability
+[emphasis added] of adjustments to the data used." The TPO also referred to
+article of Shri. Jamal Hefazi, a transfer pricing expert of Canada in his
+article (at pages 356 to 358 of International transfer pricing journal
+November/December 2008 issue) to highlight that Growth in transfer pricing
+informant will form analysis to rely more heavily on Asian Financial
+statement; that in Asia working capital adjustments are difficult to apply due
+quality considerations in data; es that accurate financial information in
+needed to perform working capital adjustments and failure to have sound
+financial data makes the application of working capital adjustment difficult
+and results in potentially more biased results are obtained; and that concern
+over the lack of transparent accounting standard and weakness of financial
+data in Asia are well documented amongst practitioners. The TPO also mentioned
+that OECD in its above referred to public draft on comparability has explained
+process of working capital adjustment and has also raised some important
+reservation on working capital adjustment in these words : "The process of
+calculating working capital adjustments: 1. Identify differences in the levels
+of working capital. Generally trade receivables, inventory and trade payables
+are the three accounts considered. TNMM is applied relative to an appropriate
+base, for example costs, sales or assets (see paragraph 3.26 of the  Page 27
+of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Guidelines). If the appropriate base is sales, for example, then any
+differences in working capital levels should be measured relative to sales. 2.
+Calculate a value for differences in levels of working capital between the
+tested party and the comparable relative to the appropriate base und
+reflecting the time value of money by use of an appropriate interest rate. 3.
+Adjust the result to reflect differences in levels of working capital. The
+following example adjusts the comparable's result to reflect the tested
+party's levels of working capital. Alternative calculations are to adjust the
+tested party's results to reflect the comparables levels of working capital or
+to adjust both the tested party and the comparables results to reflect "zero"
+working capital." The TPO also referred to these observations ; Extracted from
+pages 57-58 of CTPA/CFA(2006)31: " • An issue in making Working Capital
+Adjustments is what point in time are the Receivables, Inventory and Payables
+compared between the tested party and the comparables. The example compares
+their levels on the last day of the financial year. This may not, however, be
+appropriate if this timing does not give a representative level of working
+capital over the year. • In the long run Receivables + Inventory - Payables
+should approach zero for a comparable. If proposed Working Capital Adjustments
+are significant, consideration may need to be given to whether the proposed
+comparable is an appropriate one. • A major issue in making Working Capital
+Adjustments is the question of which interest rate to use. The rate to be used
+is determined by the tested party. In most cases a borrowing rate will be
+appropriate. In cases where the tested party's working capital balance is
+Page 28 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+negative (that Is Payables > Receivables * Inventory) a lending rate may be
+considered in some cases. The example uses an interest rate based on what
+TestCo is able to borrow at in the local market. This example also assumes
+that the same interest rate is applied to payables, receivables and inventory.
+• The purpose of Working Capital Adjustments is to improve the reliability of
+the comparables. There is a question whether Working Capital Adjustments
+should be made when the results of some comparables can be reliably adjusted
+while the results of some others cannot". The TPO expressed the opinion that
+the underlying assumption is that all companies are efficient profit
+maximizers but poor manager may be the simple reality. Rather than embarking
+on adjustments, the question should really be asked at this stage as to why
+the assessee or suggested comparables have material deviation in the working
+Capital source or level, he observed. Stating that the assessee had been
+unable to satisfactorily answer this question; he held that there was no case
+for allowing a working capital adjustment. He also referred to an article
+published in Economic Times (New Delhi edition) under the title, "When Every
+Penny Counts", and quoted these portions from the article : "Companies either
+borrow short-term loans or use internals cash accruals to procure raw
+materials and to meet day-to-day requirements. These loans are paid once the
+cash is received from customers. This process is termed as the working capital
+cycle of a firm.
+
+The lesser the number of days in which the company earns back the cash
+invested in operating activities, better is its working capital management
+Companies,  Page 29 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+which have smaller working capital cycles, tend to deliver better
+profitability since their short-term borrowing requirement is lower compared
+with firms that have longer working capital cycle.
+
+Working capital efficiency assumes greater significance. During a low-growth
+phase, demand for goods and services erodes thereby increasing the amount of
+average inventory at hand. For companies that undertake execution of turnkey
+projects, investments made to procure materials are blocked until the
+execution of the projects. When the implementation of such projects is
+delayed, the short-term borrowing requirement of such payers shoots up.
+
+When working capital remains tied up in receivables or inventory for longer
+than the average period, the company will have to borrow additional capital to
+meet daily expenses. Given the current scenario of rising interest rates,
+higher borrowings will increase interest outgo thereby putting pressure on net
+margins.
+
+As has been brought out, the issue of working capital will be relevant when
+there is a situation of inventory remaining tied up or receivables being held
+up. Frankly speaking these situations may not be so relevant to the service
+industry. The assessee, as also the comparables used, shall launch into a
+project only when they have been awarded a contract. It is not as if these
+parties have manufactured goods that await buyers. This being the case, there
+is a serious question on the very need for a working capital adjustment in the
+service industry. A working capital adjustment will be required only when the
+varying levels of the working capital deployed is  Page 30 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+actually making a difference to the margins earned by the assessee and the
+comparables. This is actually at the heart of every comparability adjustment.
+The assessee has not been able to demonstrate that the difference in the
+working capital deployed is making a difference in the margin earned by the
+assessee and the comparables."
+
+> The TPO held that there was no case for working capital adjustment.
+
+> (2.10.11) Regarding Risk Adjustment The TPO declined to make Risk
+> adjustment. According to TPO, risk adjustment as a general rule cannot be
+> allowed unless it is clearly shown that the comparables had actually
+> undertaken such risk and how the same materially affected their margins.
+
+The TPO quoted To quote him, revised OECD guidelines of 2010 "Ensuring the
+needed level of transparency of comparability adjustments may depend upon the
+availability of an explanation of any adjustments performed, the reasons for
+the adjustments being considered appropriate, how they were calculated, how
+they changed the results for each comparable and how the adjustment improves
+comparability. Issues regarding documentation of comparability adjustments are
+discussed in Chapter V. " From the above guidelines it can be seen that unless
+it is shown that how the risk adjustment would change the result of each
+comparable and how the same would improve the comparability and unless
+adequate reasons are given for such adjustment, no adjustment can be allowed
+to the taxpayer. In the present case,  Page 31 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+except giving proportion of various risks borne, the taxpayer has not shown
+with evidence as to whether each of the risk was actually undertaken or not by
+the comparables and if so, how these risks affected each of them and whether
+such adjustment would improve the comparability. Mechanical adjustment cannot
+be made to the margins of the comparables without knowing which risk was taken
+by the entity concerned and how its profitability was affected. Probability of
+risk and certainty of risk are two different aspects and cannot be equated for
+the purpose of adjustment. In my view assessee cannot be compared to a risk
+free security. Even other methodology, whether ad hoc adjustment as in case of
+Sony India, CAPM or Sharpe Ratio (which is a measure of the excess return on
+risk undertaken by an entity investing in a particular asset), as applied by
+Hyderabad ITAT in the case of ADP Private Ltd, are based on return of capital
+which is not the PLI adopted by the assessee and the TPO. All this requires
+robust and reliable data, both for the assessee and the comparables in the
+absence of which risk adjustment cannot be considered for enhancing
+comparability. Thus claim of the assessee is not acceptable." According to
+TPO, Assessee may object on the computation margin of this comparable company.
+In this regard TPO mentioned that margin has been computed in accordance with
+the principles governing the treatment of an item as operating and non-
+operating has been followed which was issued in CBDT notification SO 2810(E)
+dt. 19.9.2013, extract of the same is produced below: -
+
+> (QUOTE)
+
+> (j) "operating expense" means the costs incurred in the previous year by the
+> assessee  Page 32 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+> in relation to the international transaction during the course of its normal
+> operations including depreciation and amortization expenses relating to the
+> assets used by the assessee, but not including the following, namely.
+    
+    
+                          (i)      interest expense;
+                          (ii)     provision for unascertained liabilities;
+                          (iii)    pre-operating expenses;
+                          (iv)     loss arising on account of foreign currency fluctuations;
+                          (v)      extraordinary expenses;
+                          (vi)     loss on transfer of assets or investments;
+                          (vii)    expense on account of income tax; and
+    
+
+> (viii) other expenses not relating to normal operations of the assessee;
+
+> (k) "operating revenue" means the revenue earned by the assessee in the
+> previous year in relation to the international transaction during the course
+> of its normal operations hut not including the following, namely:
+    
+    
+                          (i)      interest income;
+                          (ii)     income arising on account of foreign currency fluctuations;
+                          (iii)    income on transfer of assets or investments;
+                          (iv)     refunds relating to income-tax;
+                          (v)      provisions written back;
+                          (vi)     extraordinary incomes; and
+                          (vii)    other incomes not relating to normal operations of the assessee"
+    
+    
+    (2.10.12)    Regarding Provision for doubtful debts
+    
+    
+
+> As per TPO, provision for doubtful debts was considered part of operating
+> expenses only when the same expenses are incurred every year for the last
+> three years upto and including the FY 2009-10 and these expenses are
+> incurred at almost consistent level in terms of its ratio with the turnover;
+> and otherwise, the same is excluded from operating expenses treating the
+> same expense as extra ordinary or restricted to the extent of reasonableness
+> based on the three year figures. According to TPO, thus provision for
+> doubtful debts are allowed provided a company follows a consistent approach
+> to make provision every year'; and otherwise, such expense becomes extra
+> ordinary and thus is excluded from operating expenses.
+
+Page 33 of 112
+
+> ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+(2.11) The final set of comparables selected by TPO; and computation of Arm's
+Length Price in his aforesaid order dated 17.01.2014 U/s 92CA(3) of I. T. Act
+are as under:
+
+    
+    
+              SI. No Name                                        OP/OC
+              1      Mahindra Consulting Engineers Limited       23.50
+              2      TCE Consulting Engineers Limited            25.88
+              3      Engineers India                             67.77
+              4      Mukand Engineers Limited                    12.87
+              5      Project and Development India Limited       23.09
+              6      UB Engineering Limited                      9.71
+              AVERAGE                                            26.33
+    
+             Computation of Arm's Length Price:
+    
+              Operating Cost                                  223,767,776
+              Arm's Length Price at a Margin of 26.33%        282,685,831
+              Price Received                                  250,055,515
+              105% of International Transaction               262,558,290
+              Proposed Adjustment u/s 92CA                    32,630,317
+    
+    
+    
+    
+
+(2.12) Thus the above different of Rs.3,26,30,317/- was proposed by TPO as
+transfer pricing adjustment for the FY 2009-10.
+
+(3) The Assessing Officer ("AO" for short) formulated draft Assessment Order
+U/s 144C of I.T. Act on 31.01.2014 on the basis of the aforesaid Order dated
+17.01.2014 of TPO. The Assessee filed objections against the draft Assessment
+Order before Dispute Resolution Panel ("DRP" for short) against this draft
+Assessment Order. The  Page 34 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+DRP issued directions vide Order dated 25.09.2014 U/s 144C(5) of I.T. Act.
+Relevant portion of the Order of the DRP is as under:
+
+> "2. Business activity of the taxpayer company:
+
+> The taxpayer, Haldor Topsoe India Pvt. Ltd. is an engineering and
+> consultancy service provider to its AE, Haldor Topsoe International A/S,
+> Denmark. The taxpayer claims to provide engineering and technical assistance
+> services to its parent company for their global projects (including projects
+> in India) and thereby serves to augment the total strength of the Topsoe
+> Group.
+
+> The international transactions entered into are tabulated below:-
+    
+    
+                     Nature of transaction                           Arm's length price as
+          Sr. No.
+                                                                     per taxpayer
+    
+          (i)        Engineering and Technical Assitance Service Rs.25,00,55,515
+                     rendered
+    
+          (")        Purchase.pf fixed assets                        Rs. 11,87,625
+    
+          (iii)      Reimbursement of expenses (Received             Rs. 81,0000
+    
+          (iv)       Reimbursement expenses (paid)                   Rs. 13,31,078
+    
+    
+    
+    
+    
+
+> 3\. The taxpayer furnished the TP Study and selected TNMM as the most
+> appropriate method to benchmark its international transaction namely
+> engineering and technical assistance service rendered. The taxpayer selected
+> a set of 8 companies whose average margin was 14.45% as compared to  Page 35
+> of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+that of the taxpayer at 11.75%. Since, the taxpayer's margin was within the
+range of ±5%, hence taxpayer contended that their international transaction
+was at arm's length.
+
+The TPO however did not agree with the TP study and instead used certain
+filters and rejected 4 of taxpayer's comparables and in addition introduced 2
+new comparables. Thus TPO used a set of 6 comparables in all (4 from
+taxpayer's set and 2 new comparable) whose average margin was 26.33% and thus
+he proposed an addition of Rs.3,26,30,317.
+
+4\. Aggrieved by the action of the AO the following grounds of objection has
+been raised before the DRP in form no. 35A:-
+
+1\. a) The action of learned Transfer Pricing Officer of adding new companies
+to the list of Comparables and rejecting companies fairly selected by the
+taxpayer is not scientific / methodical and is on arbitrary basis.
+
+b) The order passed by the AO / TPO is bad in law being against the principle
+of natural justice as no opportunity of hearing was granted by the AO to
+taxpayer before referring the matter to TPO.
+
+2\. The learned Transfer Pricing Officer has erred on facts and in law in
+selecting 2 new companies and adding the same to the list of  Page 36 of 112
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+comparable companies.
+
+3\. The learned Transfer Pricing Officer has erred on facts and in law in
+rejecting 4 comparable companies selected by taxpayer.
+
+4\. The learned Transfer Pricing Officer has erred on facts and in law in
+rejecting the Company's request for adjustment to the margins due to different
+risk profiles of comparable companies.
+
+5\. The learned Transfer Pricing Officer has erred on facts and in law in
+rejecting the Company's request for working capital adjustment to the margins
+of comparable companies.
+
+6\. The learned Assessing Officer has erred on facts in making addition of Rs.
+71 provision for expenses made by the Company.
+
+7\. The learned Assessing Officer has erred on facts in making addition of Rs.
+29,74,264 on account of income from other sources.
+
+8\. The learned Assessing Officer has erred on facts in making addition of Rs.
+24,01,433 on account of disallowance u/s 40A(2)(b).
+
+9\. The learned Assessing Officer erred on facts and in law initiating penalty
+proceedings u/s 271(1)(c) on account of certain additions.  Page 37 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+10\. The learned Assessing Officer has erred in not granting 100% of the
+eligible profit as deduction u/s 10A(1A), and confirming the deduction at 90%,
+which was so claimed by the Company inadvertently.
+
+5\. From the above grounds of objections relating to transfer pricing
+following issues emerge which requires consideration of the DRP for issue of
+direction under section 144C of the Act.
+
+Issue I Whether AO/TPO's action by applying various filters, is right in
+rejecting few of taxpayer's comparables and including new comparables without
+going into the functionally aspect. Issue II Whether AO/TPO is right in
+denying any adjustment on account of working capital, risk etc. while working
+out the average margins of the comparables.
+
+Issue III Whether AO/TPO is right in denying any adjustment on account of risk
+while working out the average margins of the comparables.
+
+Each of the issue is discussed hereinafter.
+
+6\. Issue I Whether AO/TPO's action by applying various filters, is right in
+rejecting few of taxpayer's comparables and including new comparables.
+
+Page 38 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+6.1 With regard to the above issue the taxpayer's has made the detailed
+submission contended that TPO was wrong in using following filters to reject
+the comparables selected by them and introducing new comparables.
+
+    
+    
+    
+    
+    •      Rejecting companies whose turnover was less than Rs.5.00 crore
+    
+    •      Rejecting companies having RPT of 25% and more
+    
+    •      Rejecting companies with different financial year ending.
+    
+    •      Not rejecting the companies having high turnover filter/super profit
+    
+    •      Rejecting companies where export revenues is less than 75% of total
+    
+    income.
+    
+    •      Rejecting the filter used by the taxpayer of R & D to sales more than
+    
+    3% filter
+    
+    
+
+Rejecting the filter used by the taxpayer of AMP expenses to sales more than
+3% filter.
+
+6.2 Having gone through the taxpayer's submissions and AO/TPO's order and
+judicial pronouncements on the issue of use of various filter, the Panel's
+view on various objections raised by the taxpayer are as under:-
+
+> Turnover filter of Rs.5.00 crore applied by TPO With regard to the use of
+> turnover filter, this Panel is of the view that there is no arbitrary
+> selection of limit of Rs.5.00 crores, the limit has been chosen after
+> keeping in mind the Companies (Auditor's Report)  Page 39 of 112 ITA
+> No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Order, 2003 as per which the auditor has to make specific comments in respect
+of 33 items. The order is applicable to companies above turnover of Rs. 5
+crores. Hence, audit compliance requirements are definitely better in these
+companies resulting in better reliability of their results. Ergo, the turnover
+filter has rightly been selected by the TPO.
+
+Further, this Panel is also of the view that the reliability of the financial
+data for companies with low levels of sales/operating income can be
+significantly reduced because the same persons are often both major
+shareholders and also the key employees, thereby obliterating the economic
+distinction between profits and salaries. Also the companies having very small
+turnover are to be excluded because the margins earned by these companies
+fluctuate to extremes because of the narrow base. Such companies lack
+competitive strength, lack operational efficiencies and also lack human
+resources and so give skewed results. Further, because of smaller size, these
+companies tend to escape the eyes of the regulators and also managed
+personally by promoters instead of being professionally managed, therefore
+they are also not true representative of industry and their results do not
+have economic significance.
+
+Page 40 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+In view of the above discussion this DRP has no hesitation in upholding this
+turnover filter used by the TPO instead of filter of Rs.1 crore used by the
+taxpayer.
+
+Rejecting companies having RPT of 25% and more For the purpose of
+comparability analysis, the international transaction should be compared with
+uncontrolled transaction. Therefore, the comparables companies having more
+than 25% related party transactions could not be treated as operating in
+uncontrolled environment and RPT could have substantial impact on margins of
+such companies. The taxpayer has argued that there is no rational basis for
+applying the threshold limit of 25% of sales. The AR has referred to the
+number of ITAT decision in this regard. This panel has carefully considered
+the above objections of the taxpayer, but are not inclined to interfere in the
+TPO's action in this regard. Cases having some RPT can be taken as comparable
+as they do not materially affect the price/margins. This view has been upheld
+by various ITAT's including ITAT, Delhi.
+
+In the case of Sony India Ltd. ITAT, Delhi did not lay down any threshold
+limit for applying RPT filter. This was clarified by ITAT, Delhi  Page 41 of
+112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+in their subsequent decision in the case of Global Logic India P. Ltd. (2011
+TII-35- ITAT-Del-TP).
+
+Reference may also be made to ITAT, Hyderabad's decision in the case of ADPP
+Ltd. (2011-TII-44-ITAT-Hyd-TP) and Deloitte Consulting India P. Ltd ITA No.
+1082/Hyd/2010 dated 22.07.2011.
+
+In the aforesaid decisions also threshold limit of 25% was accepted by the
+ITAT. In the case of ST Microelectronics (2011-TII-63-ITAT-Del- TP) also this
+limit has been impliedly upheld.
+
+The rationale of 25% threshold limit is based on section 92A(2)(a) and
+
+(b) wherein a limit of less than 26% is fixed. Therefore, this Panel declines
+to interfere with the stand taken by the TPO in this regard. Rejecting
+comparables having different accounting year On the Comparables maintaining
+accounts in terms of period other than the financial year has been considered
+and DRP is of following view.
+
+So far as the issue of requirement of data pertaining to the Financial Year as
+provided in rule 10B(4) is concerned, though there is no impediment in law to
+use data even if the comparables do not maintain their accounts in terms of
+financial year, the same is correct. However, Rule 10B(4) is not to be read in
+isolation. This rule has been  Page 42 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+provided for the purpose of determination, analysis and benchmarking of
+international transaction with an appropriate comparable in uncontrolled
+transactions for the purpose of determination of Arm's Length Price (ALP). So,
+the determining factors in the view of the DRP are:-
+
+(i) Whether the taxpayer/ the Department will be able to identify an
+Uncontrolled comparable to benchmark an international transaction of the
+taxpayer who is maintaining data and accounts in terms of financial year.
+
+(ii) Whether the taxpayer/ the Department will be able to carry out such
+adjustments so as to make the uncontrolled transactions materially identical
+with that of the taxpayer if such comparable is not maintaining its accounts
+financial year wise.
+
+(iii) Whether the taxpayer/ the Department will be able to apply such filters
+to be applied to publicly available data so as to bring out only those
+companies which are broadly functionally similar to that of the taxpayer if
+the comparable is not maintaining its account financial year wise.
+
+In cases of companies, the data in respect of which are available publicly and
+which maintain accounts other than in terms of the  Page 43 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+financial year, following adjustments are required to be carried out in order
+to bring the data at par with that of the taxpayer:
+
+(i) Apportion the data from preceding or subsequent period so as to make data
+equivalent to the financial year available for comparison with the
+international transaction.
+
+(ii) While apportioning such data, adequate care needs to be taken so that the
+Profit Level Indicators are computed comparably.
+
+Further, for the determination of profit level indicators, certain entries
+having bearing on the cost and income are- interest, provisions, losses/ gains
+on account of foreign exchange, etc, which normally as per the business
+practice are accounted for at the end of the accounting year. Under both the
+situations, whether the data pertaining to the period prior to the accounting
+year or subsequent to the accounting year are integrated with the relevant
+portion of the accounting year of the comparable, the same gives a lopsided
+picture of the accounts so far as the financial year data is concerned. Since,
+there is no requirement as per company law or as per accounting standards that
+the da'ta pertaining to a particular quarter needs to be closely
+compartmentalized by providing for various provisions etc. for each quarter,
+the validity of such data for the purpose of comparability will be a matter of
+question mark. Also, some of the companies  Page 44 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+provide for depreciation at the end of the accounting period. Apportionment of
+such depreciation on prorata basis to a particular quarter or month will be a
+difficult proposition.
+
+Most important many of the companies maintaining accounts other than on
+financial year basis do not keep such data in public domain. Such
+inaccessibility of vital information in public domain may not render the
+comparison the warranted judicious effect creates a hurdle wherein the effort
+required to search for such comparables data for the financial year is not
+commensurate with the result. In addition, in order to reach at such
+uncontrolled comparables, the taxpayer as well as the TPO apply certain
+filters in accordance with the provisions of Rule 10B e.g. the filter of
+export income/ realization is applied for comparison of an international
+transaction involving export of goods and services; filter of related party
+transaction is applied for the purpose of identifying only those comparables
+which are functioning in a relatively uncontrolled environment. It is
+difficult to apportion information required for applying such filters if the
+accounting period is not congruent to the accounting period of the taxpayer.
+In order to carry out FAR analysis, taxpayers and the TPOs apply the filter of
+networth. Generally, networth of a company is determined on the last day of
+the accounting year. Therefore,  Page 45 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+apportionment of data will again lead to lopsided indicator for comparability
+analysis.
+
+Rule 10C (2)(c) provides for the requirement of "the availability, coverage
+and reliability of data necessary for application of the method ° In the light
+of the discussions made in the above paragraphs, the reliability of such data
+is a question mark and as such the requirement of the rule will not be
+fulfilled if the comparable does not maintain its accounts in terms of
+financial year.
+
+It will also be very difficult to carry out adjustments, assumptions,
+classifications, etc, of such comparables to bring the transactions at par
+with the international transactions in such situations. Hence, in view of the
+above, the DRP is of the considered view that TPO is right in rejecting those
+comparable companies who are maintaining accounts in terms of period other
+than the financial year, for the purpose of determination of ALP.
+
+Not rejecting the companies having high turnover filter/super profit The
+taxpayer has objected to inclusion of high turnover/high margin companies in
+the set of comparables. We have carefully considered the arguments of the
+taxpayer. For the purpose of transfer pricing analysis, the comparables are
+selected which has similar functional  Page 46 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+profile. The profit margin of any company is not an indicator of its
+functional profile. Unless, the taxpayer is able to point out any functional
+differences, there is no reason to exclude a high profit margin company from
+the set of comparables.
+
+Further, high turnover is no criteria to determine the functional
+comparability. Bigger size may result into higher revenue and not necessarily
+higher margins. In this highly competitive environment, customer is very
+demanding and refuses to pay higher rates if he can obtain similar services
+from other smaller vendors having no brand and small turnover. What matters
+most in the service sector is the functional similarity, nature of services
+rendered, and not the brand or size of the company.
+
+In the case of Symantec Software Solutions P. Ltd. (2011-TII-60-ITAT- MUM-TP)
+which was related to market support sen/ice the ITAT has observed as under:-
+
+(i) It is not shown that high or low turnover influences the margins of the
+comparables.
+
+(ii) Taxpayer's objection was general in nature and no specific fact was
+brought on record to show that due to difference in turnover comparables
+became non comparables; it-could not be  Page 47 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+demonstrated as to who the difference in turnover influenced the results of
+comparables.
+
+(iii) The accepted economic principles and commercial practice in a highly
+competitive market one can survive only be keeping low margin but high
+turnover.
+
+(iv) Similarly, low turnover does not necessarily mean high margin.
+
+(v) Therefore, unless and until it is shown that turnover makes undue
+difference on the margins, it is not a general rule to exclude such
+comparables.
+
+Under the Income Tax Act, if there are more than one comparable then the
+arithmetic mean of the margins of the comparables is taken to calculate the
+ALP under TNMM. In a set of functionally comparable companies, there could be
+companies with low margin as well as high margins. What is material is the
+functional comparability. Moreover, while taking arithmetic mean, such
+differences will ultimately average out. Comparables cannot be rejected simply
+because they are loss or high profit making comparables. Such cases can be
+excluded only if there are peculiar economic circumstances. This view is now
+also supported by the OECD in its revised 2010 guidelines. For the sake of
+ready reference, the relevant Para is extracted below.  Page 48 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+"3.63 Extreme results might consist of losses or unusually high profits.
+Extreme results can affect the financial indicators that are looked at in the
+chosen method (e.g. the gross margin when applying a resale price, or a net
+profit indicator when applying a transactional net margin method). They can
+also affect other items, e.g. exceptional items which are below the line but
+nonetheless may reflect exceptional circumstances. Where one or more of the
+potential comparables have extreme results, further examination would be
+needed to understand the reasons for such extreme results. The reason might be
+a defect in comparability, or exceptional conditions met by an otherwise
+comparable third party. An extreme result may be excluded on the basis that a
+previously overlooked significant comparability defect has been brought to
+light, not on the sole basis that the results arising from the proposed
+"comparable" merely appear to be very different from the results observed in
+other proposed "comparables". 3.64 An independent enterprise would not
+continue loss-generating activities unless it had reasonable expectations of
+future profits. See paragraphs 1.70 to 1.72. Simple or low risk functions in
+particular are not expected to generate losses for a long period of time. This
+does not mean however that loss- making transactions can never be comparable.
+In  Page 49 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+general, all *relevant information should be used and there should not be any
+overriding rule on the inclusion or exclusion of loss-making comparables.
+Indeed, it is the facts and circumstances surrounding the company in question
+that should determine its status as a comparable, not its financial result.
+
+3.65 Generally speaking, a loss-making uncontrolled transaction should trigger
+further investigation in order to establish whether or not it can be a
+comparable Circumstances in which loss-making transactions/enterprises should
+be excluded from the list of comparables include cases where losses do not
+reflect normal business conditions, and where the losses incurred by third
+parties reflect a level of risks that is not comparable to the one assumed by
+the taxpayer in its controlled transactions. Loss-making comparables that
+satisfy the comparability analysis should not however be rejected on the sole
+basis that they suffer losses.
+
+3.66 A similar investigation should be undertaken for potential comparables
+returning abnormally large profits relative to other potential comparables."
+
+Even ITAT. Mumbai in the case of EXXON MOBIL COMPANY INDIA PVT LTD
+(2011-TII-68-ITAT-MUM-TP) has held as under:
+
+Page 50 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+"Now, coming to the alternative arguments of the taxpayer that abnormal profit
+making unit is also to be eliminated on the same analogy on which loss making
+units are excluded, we, in principle, do not dispute this proposition. The
+various case laws relied upon by the taxpayer lay down that a comparable
+cannot be eliminated just because it is a loss making unit. Similarly, a
+higher profit making unit cannot also be automatically eliminated just because
+the comparable company earned higher profits than the average The reason for
+rejecting the two loss making units is not just because they were loss making
+units but for the reasons which are already stated in the preceding
+paragraphs. If similar reasons existed in the higher profit making unit, then,
+it is for the taxpayer to bring out those reasons and seek exclusion of the
+same. A general argument that, you have to exclude units which have high
+profit range, in case you exclude units which have made loss is a general
+submission which cannot be accepted. In other words, as a general principle,
+both loss making unit and high profit making unit cannot be eliminated from
+the comparables unless, there are specific reasons for eliminating the same
+which is other than the general reason that a comparable has incurred loss or
+has made abnormal profits. Thus, this ground is dismissed."
+
+Page 51 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Thus, In order to exclude the extreme result cases there should *be either a
+defect in comparability or exceptional conditions faced by the comparables. In
+the present case, the taxpayer had sought exclusion of certain comparables
+without disputing the functional comparability or showing any exceptional
+circumstances. Moreover, if high profit making case is to be excluded then
+logically loss/low profit margin cases are also required to be excluded. This
+would mean introducing the concept of inter-quartile range which is not
+provided under the Indian law. Without prejudice to above, in the case of
+SAPLabs India Ltd [2010-TII- 44- ITAT-BANG-TP], the Hon'ble ITAT has held that
+if cases of abnormal margin on the high side are to be removed then those on
+the lower side (having margin lower than the taxpayer) also should be removed.
+The taxpayer has relied on the decision of Hon'ble Delhi High Court in the
+case of Agnity India Technologies Pvt. Ltd. to derive support on its claim
+that since their turnover is Rs.25 crores, therefore, the comparables which
+are having high turnover viz. EIL, should not be considered as comparable.
+
+The decision of Hon'ble Delhi High Court in the case of Agnity India
+Technologies P, Ltd. has been based on the decision of Delhi Bench of the ITAT
+in the same case in ITA No. 3856/Del/2010 wherein on page 5,  Page 52 of 112
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+para 3.3 of the order, the AR of the taxpayer had submitted a table
+differentiating the risk profile, nature of services, ownership of branded/
+proprietary product, situs of services rendered, expenditure on advertising/
+sales promotion and brand building and expenditure on research and
+development. Based on that table, the ITAT on page 10 para 5.2 had observed:
+
+"It is argued that the case of the taxpayer is not comparable with Infosys
+Technologies Ltd, the reasons being that the latter is giant in the area of
+development of software and it assumes all risks, leading to higher profit. On
+the other hand, the taxpayer is a captive unit of its parent company in the
+USA and it assumes only limited currency risk. Having considered these points,
+we are of the view that the case of aforesaid Infosys and the taxpayer are not
+comparable at all as seen from the financial data etc of the two companies
+mentioned earlier in this order. Therefore, we are of the view t hat this case
+is required to be excluded. "
+
+This factual finding of the ITAT has been confirmed by Hon'ble High Court with
+the observation that the revenue did not controvert such finding. However, it
+is seen that decisions have been given on the facts where no analysis was made
+by the department that in case of service companies, margins do not depend on
+turnover and scale of the  Page 53 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+company. Where in such an analysis has been given and has been shown that
+turnover is not a comparability criterion in IT industry. Where such an
+analysis has been made, the Tribunals have ruled that turnover is not a
+comparability criterion. The list of such decisions is as under:-
+
+-Order dt. 01.03.13 of ITAT, Mumbai in Willis Processing Services (India) Ltd. (ITA No.8772/Mum/2010) 
+
+-Order dt. 28.02.13 of IJAJ Mumbai in Capgemini India Private Limited vs. ACIT (ITA No.7861/Mum/2011)- In this case, all the decisions quoted by taxpayer have been discussed and yet Tribunal arrived at a different decision- Para 5.3,5 and 5.3.6 of the order 
+
+-Order dt. 26.04 2013 of ITAT, Mumbai in Vodafone India Services Pvt. Ltd. (ITA No. 7140/Mum/2012 and ITA No. 7097/Mum/2012) - Para 24.3.3 of the order It is pertinent to mention here that when one examines the profitability trend of Infosys Ltd. over the years from the time when it was a small company, it can be seen that the margin has almost remained constant over the years even when the turnover has increased substantially:-  Page 54 of 112
+
+> ITA No.-654/Del/2015.
+
+> No.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+It can be seen from the above figures that the turnover does not have effect
+on margins of companies in service industry. Apart from above, this DRP also
+took a random sample of comparables which were taken by various taxpayers and
+TPOs while carrying out comparability analysis of service industry sector. The
+following table will also make it clear that there is no correlation between
+turnover and profitability:-
+
+Page 55 of 112
+
+> ITA No.-654/Del/2015.
+
+> No.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+As regards the taxpayer's argument that some of the comparables included by
+TPO have high turnover and some others have high profitability, it is stated
+that as per proviso to section 92C(2) when more than one price is determined
+then tthe he arithmetical mean of such prices shall be the arm's length price.
+Therefore, when there is a robust set of several comparables, such set:
+obviously contains comparables having low margin, normal margin and also high
+margin cases. The arithmetical mean o off such prices takes care of all kinds
+of cases including loss or high profit making, low turnover, high turnover,
+Page 56 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+low end-high or end activity, etc. Thus, removing a comparable from such a set
+simply on the ground of high profit making would neither be as per the Act and
+nor would it result in a representative set. Without prejudice to the above,
+if high profit making comparables are to be removed then consequently loss or
+low profit making companies are also required to be excluded. This view has
+been upheld by the ITAT, Bangalore in the case of Sap Labs (supra). This
+would, however, mean the implied application of inter-quartile range concept
+which is not permissible under the Act, The Act mandates use of arithmetical
+mean. In this connection reference may. be made to ITAT, Mumbai's decision in
+the case of Dieageo India Private Limited (2011-TII-94- ITAT-MUM-TP).
+Similarly, in this case, following Quark Systems decision it was argued that
+comparables showing loss of 9.98% and profit of 37.48% should be excluded.
+Rejecting the taxpayer's argument, the ITAT held as under:
+
+"As evident from the above discussions, comparables showing exceptionally high
+profits and losses have been held to be excludable from the list of
+comparables not only because of the high profits or losses, but on account of
+factors like high intra AE transactions and lack of functional comparability.
+In this view of the matter, merely because an taxpayer has made high profit or
+high loss, that cannot be  Page 57 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+a ground enough for its exclusion from comparables. Undoubtedly, there is some
+merit in excluding comparables at the top end of the range and at the bottom
+end of the range, but, in the absence of any provisions to this effect in the
+transfer pricing regulations, as is the practice under US transfer pricing
+regulation 1.482 by providing for inter-quartile range excluding cases in
+first and fourth quartile, this cannot be adopted as a practice. Nothing more
+than the fact of higher profits or losses has been pointed out by the
+taxpayer. We are, therefore, not persuaded to uphold this objection either."
+In addition to above the taxpayer has also referred to certain ITAT decisions
+in' support of its contention. These decisions have been perused. Firstly, all
+these decisions were given on their own fact pattern. In fact, in some of the
+cases the TPO had excluded loss making comparables simply because they were
+incurring losses in a single year. On the same analogy, the ITAT removed
+supernormal profit making companies. In other decisions ITATs did not reject
+them only on the ground of margins. Secondly, the ITATs in several decisions
+have held that a loss making comparable cannot be rejected simply on the
+ground that it had incurred losses. As discussed above, the same logic has to
+be extended to the high profit making cases also. Thirdly, the benefit of
+revised OECD guidelines was not available  Page 58 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+in these decisions. Lastly, ITAT, Mumbai in the case of Exxon Mobile Company
+India Pvt Ltd, Diageo India P Ltd and BP India Services Private Limited
+(Supra) have held that loss or profit cannot be a criterion for acceptance/
+rejection of a comparable. These decisions have been given after duly
+considering Quark's decision. It may also be mentioned that the taxpayer's
+margin is not being compared with the margins of these "high-margin''
+comparables alone These comparables are only which contains even low margin
+cases. The margin of the taxpayer is being finally compared with the average
+margin of the comparables finally selected in this order. Hence, from the
+above discussions, it is more the amply clear that high turnover and
+profitability in a service industry has no correlation at all, therefore the
+taxpayer's reliance on Agnity Technologies (supra) and thereby arguing that
+the high turnover comparables should be removed does not cut much ice, Ergo,
+no comparable can be rejected merely on the basis of margins and turnover for
+the purpose of comparability analysis and Panel declines to interfere with the
+stand taken by the TPO in this regard.
+
+Rejecting companies where export revenues is less than 75% of total income
+Page 59 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+The taxpayer is providing engineering and technical services, therefore in
+order to select similar comparable which are in the engineering and technical
+services, TPO has selected this filter. As per Rule 10B(2), it is important to
+judge any international transaction keeping in mind the "conditions prevailing
+in the markets" while deciding the compara'ble cases. The DRP is of the
+considered view that by using this filter, TPO has narrowed down the search
+for comparables.
+
+Therefore, the above filter is logical and as per Rules and it ensures further
+refinement of functional proximity in FAR analysis. DRP thus does not find any
+infirmity in the order of the TPO using the filter of rejecting the companies
+with less than 75% earning from engineering and technical services of their
+total operating revenue, is correct. Rejecting the filter used by the taxpayer
+of R & D to sales more than 3% filter Regarding application of filter of R&D
+expenses in excess of 3% which is used by the taxpayer but not accepted by the
+TPO during the comparability analysis, we have given careful consideration to
+the contentions of both.
+
+Page 60 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Regarding application of R&D/Sales>3% filter, it is seen that spending on R&D
+does not necessarily result in creation of IPR. The R&D activity may be with
+respect to improving processes with respect to delivery of services rather
+than creation of intangible.
+
+Further on the application of R&D/Sales>3% filter, companies with IP products
+did not necessarily get rejected. Similarly, certain companies which were
+otherwise purely providing engineering and related services gets rejected. The
+taxpayer had also not demonstrated that companies having expenditure greater
+than 3% on R&D were necessarily creating IP products.
+
+In this respect, DRP is in agreement with the argument of the TPO that there
+are other quantitative filters which would more appropriately segregate
+companies which were rendering comparable services as that of the taxpayer.
+
+Rejecting the filter used by the taxpayer of AMP expenses to sales more than
+3% filter As discussed above, similarly DRP feels that this filter of AMP is
+not be appropriate filter for a service industry as compared to manufacturing
+industry wherein substantial marketing expenditure lead to creation of
+intangibles. Further taxpayer has also not demonstrated that how  Page 61 of
+112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+service companies having expenditure more than 3% of AMP creates marketing
+intangibles. Therefore, this DRP is in agreement with the TPO that this filter
+in the present case does not substantially help in comparability analysis.
+
+6.3 Further, apart from the above discussion it is seen that among others,
+taxpayer is aggrieved from the exclusion of Petron Engineering Construction
+Ltd. It is seen that this company is engaged in installation, construction and
+commissioning of projects as against the taxpayer's business of providing
+engineering and consulting services, therefore this company is functionally
+different from that of the taxpayer. Hence, Panel feels that the said company
+has rightly been excluded for the purpose of comparability analysis. 6.4 As
+regards taxpayer's objection to the inclusion of 2 companies namely EIL and
+Mahindra Consultancy Engineers Ltd. is concerned, it is seen that every
+company tries to put its best face both in its website as well as in annual
+report. Any person can pickup certain keywords from the website and annual
+report and may argue that it is providing a sophisticated service, has certain
+patents, has specialized in certain areas, has obtained excellence in certain
+areas. However, what needs to be seen whether that is the substantial activity
+of that company or it is just an area which company wants to develop and do
+better work.  Page 62 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Further, under TNMM1 it is not possible to find companies providing exactly
+similar services as that of taxpayer because there will not be an independent
+company in the market which is providing only same technical support.
+
+From the above discussion considering the fact that both the above^ mentioned
+companies are engaged in the field of engineering design and consultancy which
+broadly falls in the same category as that of the taxpayer and further
+considering the fact that in TNMM net profit margin are compared to
+appropriate base and it accepts vide range of functional similarities and
+application of Rule 10B is to be carried out and, but on a broader
+prospective, therefore this DRP overrules the objection raised by the taxpayer
+in this behalf and both these companies mentioned above are held to be the
+suitable comparable in the taxpayer's case for the purpose of comparability
+analysis. 6.5 In view of the above discussions, the DRP holds that on account
+of above filters the following comparables have rightly been
+rejected/accepted.
+
+Simon India Ltd.
+
+With regard to this comparable the taxpayer submitted that TPO has wrongly
+considered "purchases made for resale" and has wrongly  Page 63 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+concluded that this comparable is not providing any services. The taxpayer
+produced the financials wherein Rs.2,04,84,73,624 is considered as purchase
+expenses and thus taxpayer pleaded that it is a valid comparable.
+
+On going through the financials so produced (schedule 14 of annual report), it
+is found that the purchases made for the re sales are to the tune of
+Rs.72,31,46,052 (which is 28% of the total operating income) and thus, since
+the service income is less than 75%, hence, as discussed above it does not
+qualify the filter.
+
+Thus from the above discussion this company is not a valid comparable.
+
+IOT Design and Engineering The TPO has rejected this company on the ground
+that the annual data is not available. The taxpayer during the course of this
+proceedings stated that the data is available in public domain therefore, TPO
+has wrongly not included this as a comparable. This Panel on going through the
+information finds that the data from the website of Ministry of Corporate
+Affairs has been made available by the taxpayer and is not accompanied by the
+annual report, directors report etc., therefore, about the functionality no
+comments can be  Page 64 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+offered, hence, in the view of this Panel, this company cannot be taken as a
+valid comparable. However, taxpayer is directed to provide the complete annual
+report, director's report and financials and TPO then is directed to take a
+call accordingly about the inclusion/exclusion of this company as a
+comparable.
+
+Engineers India The taxpayer primarily wants this comparable to be excluded on
+account of • RPT more than 25% • Functionally different • Predominantly
+rendering service to government companies This Panel has gone through the
+TPO's comments on the above grounds and also during the proceedings the
+taxpayer was requested to bring the data relating to RPT but inspite of the
+opportunity the data relating to RPT was not made available showing that it is
+more than 25%. As regards the arguments relating to catering to government
+sector/PSU, this Panel is of the view that in today's economic world the
+government companies/PSU s work as per the market forces and EIL has no
+advantage on this score and further as mentioned above that in a service
+industry there is no direct co  Page 65 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+relation between profitability and high turnover, accordingly, this Panel
+holds that EIL is a valid comparable.
+
+Mahindra Consulting Engineers Ltd.
+
+With regard to the inclusion of this company as a comparable, the taxpayer has
+made similar objections as were made in the earlier year, since there has been
+no change in the operation in the current year vis-a-vis last year,
+accordingly, as held in the last year this DRP holds that it is a valid
+comparable for the current year also.
+
+7\. Issue II Whether AO/TPO is right in denying any adjustment on account of
+working capital, while working out the average margins of the comparables.
+
+7.1 With regard to the above, the taxpayer made both oral as well as written
+submissions, the gist of which is as under:- • No adjustment have been
+undertaken by the Ld. AO to the margins of the comparables selected by the TPO
+to account for differences in the working capital and risk profile of the
+companies and the taxpayer.
+
+• In this regard, it is submitted that the Indian transfer pricing regulations
+Rule 10B(3) read with Rule 1QB(1)(e) recognize that  Page 66 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+appropriate adjustments should be made to eliminate material effect of
+differences between the international transactions and the comparables
+transactions to establish comparability. 7.2 This DRP has considered the
+taxpayer's contention with regard to the adjustments on account of working
+capital and also the arguments of the TPO.
+
+Working capital is measured by trade receivables/debtors, trade
+payables/creditors and inventories. Interest cost will be high if the trade
+receivable/debtors time cycle is large. Interest cost will be low if the
+company can pay its liabilities after a larger period of gap then pay it in a
+shorter period. Holding of inventory has also interest costs. If inventory
+turnover is for a shorter period, interest cost will be lower. Thus all
+parameters namely trade debtors, trade creditors and inventories do affect the
+overall results of the company. In order to cover the interest cost, the
+margin may seem to be high in absolute term, but when interest cost is
+accounted for, the margin changes its luster. Therefore, working capital
+requirements do affect the margins or prices, costs or profits because this is
+a implicit cost which is recovered/recoverable from the customers. Therefore,
+this DRP is of the opinion that in view of the Rule 10B(3) and in order, to
+improve the comparability, in the-facts of the present case, while  Page 67 of
+112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+comparing the margins of tested party with that of the comparables, adjustment
+be made for working capital for which the reliable data is to be provided by
+the taxpayer.
+
+7.2.2 The TPO has stated that the taxpayer has not demonstrated that there is
+a difference in the levels of working capital employed by it vis-3-vis the
+comparables which affect prices and consequently profits. With regard to this
+objection, as discussed above that holding of inventories, trade debtor/
+creditors, trade receivable/payable has always an interest cost. Therefore
+there is definitely a connection in the level of working capital and the price
+at which one is willing to offer its services/goods. Hence, this ground of
+rejecting taxpayer's claim of working capital adjustment by the TPO is not
+tenable.
+
+7.2.3 TPO has also referred to OECD guidelines which state that only
+reasonably accurate adjustments can be made. In. this respect, TPO has raised
+the issue of unreliable data and has pointed out that monthly data of
+comparables as well as segmental data is not available for making reasonably
+accurate working capital adjustment. Monthly data in respect of comparables
+would not be available.  Page 68 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+This DRP is of the view, that the average of opening and closing balance of
+the inventories and of trade receivable/payable, trade debtors/creditors, for
+the relevant year may be adopted which may broadly give the representative
+level of working capital over the year. Even if there is some difference with
+respect to the representative level, it will not affect the comparability as
+the same method will be applied to all cases. Same is the case with segmental
+data. 7.2.4 Hence, from the above discussion the TPO is directed to give
+working capital adjustment using the OECD methodology given at it in Annex to
+Chapter III and apply SBI Prime Lending Rate (as on 30th June of the relevant
+financial year) as the interest rate. It has been a general matter of
+observation by this Panel that in many of the cases the taxpayers do not
+strictly follow the guidelines provided by OECD for the computation of working
+capital adjustment. For example in some of the cases it has been observed that
+instead of taking into account only trade creditors the taxpayers also take
+into account credits received from various group concerns or loans etc.
+Similarly, creditors on account of capital items are also observed to be
+included iri many cases. Since, this practice is not in accordance with  Page
+69 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+the Guidelines, the TPO and the taxpayer are directed to take following into
+consideration while working out the working capital adjustment:-
+
+a) compute the average of opening and closing balances of inventories, trade
+debtors/receivables, trade creditors/payables of both the tested party and the
+comparables, on revenue account only
+
+b) work out the net working capital ratio (in percentage) after dividing the
+net working capital by operating cost/sales or such denominator (as is used in
+the PLI) both for the tested party and the comparables,
+
+c) determine the difference between the tested party's ratio with that of each
+comparables.
+
+d) thereafter multiply the above difference by interest rate i.e. SBI Prime
+Lending Rate as on 30th June of the relevant financial year.
+
+e) lastly, these adjustments are to be added to the profit margin of
+comparable companies as finally determined in accordance with the directions
+of this Panel.
+
+7.2.5 In allowing the working, capital adjustment, this DRP carries strength
+from the following judicial decisions.
+
+    
+    
+    •      Mentor Graphics (109 ITD 101)
+    
+    •      Sony India (288 ITR 52 (Delhi- ITAT)
+    
+    
+    
+                                Page 70 of 112
+                                                                      ITA No.-654/Del/2015.
+                                                    Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+    •      Philips Software (26 SOT 226) (Bangalore-                ITAT)
+    
+    
+    
+    8.     Issue III      Whether    AO/TPO          is   right    in   denying     any
+    
+    
+
+adjustment on account of risk, while working out the average margins of the
+comparables.
+
+8.2 Having gone through the taxpayer's submission in this regard and having
+considered the facts and evidences on records and case laws relied upon both
+by the TPO and taxpayer in this regard, this DRP agrees that for the purpose
+of meaningful comparison, Transfer Pricing provisions do prescribe that the
+"reasonable and accurate adjustments" be made only if they enhance
+comparability. But at the same time such data must be reliable and robust and
+there should be no scope for mechanical adjustments.
+
+As regards adjustment sought, it is seen that no claim for working capital has
+been made before the TPO and therefore no such claim can be entertained now.
+With regard to the risk adjustment, TPO has discussed in detail in his order
+as to why this adjustment cannot be carried out.
+
+The Panel has carefully considered the facts of the case and the submissions
+of the taxpayer. As per Rule 10B (2) and 10B (3) of Income Tax Rules, 1962,
+Indian transfer pricing provisions prescribe  Page 71 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+only for "reasonable accurate adjustment" and further adjustment to the
+margins of comparables can be made only if they enhance comparability. But at
+the same time the data for the same must be relevant reliable and robust. Risk
+adjustment as a general rule cannot be allowed unless it is clearly shown that
+the comparables had actually undertaken such risk and how the same materially
+affected their margins The revised OECD guidelines of 2010 has also stated in
+para 3.54 as under:-
+
+"Ensuring the needed level of transparency of comparability adjustments may
+depend upon the availability of an explanation of any adjustments performed
+the reasons for the adjustments being considered appropriate, how they were
+calculated how they changed the results for each comparable and how the
+adjustment improves comparability. Issues regarding documentation of
+comparability adjustments are discussed in Chapter V."
+
+Even the various judicial decisions on the issue of adjustments and even OECD
+guidelines, impresses upon time and again that the adjustment should be
+"reasonable accurate adjustment". From the above guidelines, it can be seen
+that unless it is shown that how the risk adjustment would change the result
+of each comparable  Page 72 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+and how the same would improve the comparability and unless adequate reasons
+are given for such adjustments, no adjustment can be allowed to the taxpayer.
+In the present case, except pointing out various risks, the taxpayer has not
+shown with evidence as to whether each of the risk was actually undertaken or
+not by the comparables and if so, how these risks affected each of them and
+whether such adjustment would improve the comparability.
+
+Mechanical adjustment cannot be made to the margins of the comparables without
+knowing which risks were taken by the entity concerned and how its
+profitability was affected. Probability of risk and certainty of risk are two
+different aspects and cannot be equated for the purpose of adjustments. The
+significant of risk depends on its economic significance, likelihood of its
+realization and predictability. All these requires robust and reliable data,
+both for the taxpayer and the comparables in the absence of which risk
+adjustments cannot be considered for enhancing comparability. Thus the
+objection is rejected. In the various judicial pronouncements the risk
+adjustment has not been allowed by the ITATs. Some of these decisions are
+discussed below:
+
+(a) Vedaris Technology 2010-TII-10-ITAT-Del-TP: No risk  Page 73 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+adjustment to be allowed even on ad hoc basis particularly when the same has
+not been quantified;
+
+(b) Marubeni India Private Ltd (2011-TII-36-ITAT-Del-TP) in which it was held
+that as the taxpayer failed to bring any evidence on record to show that there
+was any difference in risk profiles of comparable companies and since the
+taxpayer failed to file the details exhibiting risk borne by comparables, no
+risk adjustment can be given, even on ad hoc basis.
+
+(c) ADP Private Limited (2011-TII-44-ITAT-Hyd-TP) wherein the ITAT held that
+there is no thumb rule for allowance of risk adjustment
+
+(d) Symantec Software Solutions Pvt. Ltd. (2011-TII-60-ITAT- Mum-TP): The ITAT
+held that;
+
+(i) Until and unless it is shown that the difference in function and risk
+results in deflation or inflation of financial results of the comparables, it
+is not a general rule to grant it as a standard adjustment.
+
+(ii) The taxpayer could not show how such difference in risk and functions
+affected the results of the comparables.
+
+(e) ST Micro Electronics (2011-TII-63-ITAT-Del-TP): The taxpayers claim that
+it was a risk free captive sen/ice provider and hence cannot be compared with
+comparables who were full entrepreneurs was not  Page 74 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+accepted by the ITAT.
+
+(f) Exxon Mobil Company India Pvt. Ltd. (2011-TII-68-ITAT-Mum- TP): The ITAT
+held that since working capital adjustment has been given and the taxpayer has
+not worked out the risk adjustment, no adjustment can be granted on this
+account.
+
+Therefore, for the reasons mentioned above, this Panel declines to interfere
+with the action of TPO in this regard.
+
+9\. The taxpayer has also submitted before the Panel that, there were certain
+calculation mistakes while calculating the margins. In this regard the
+taxpayer is directed to provide all the backup details with working to the TPO
+so that it may ascertain as to where TPO faulted in the calculation and
+further TPO is directed to considered the same while working out the margins
+of the tested party as well as of the comparables, Corporate Matter Objection
+No. 6 10.1 This ground of objection is regarding proposed disallowance of
+Rs.75,000/- on account of provisions for expenses. 10.2 The draft assessment
+order shows that during the course of assessment proceedings the AO noticed
+that the taxpayer has claimed  Page 75 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+printing & stationary expenses at Rs.5,60,854/-. The details of these expenses
+were called for and the AO noted that the taxpayer has claimed expenses of
+Rs.75,000/- as on 31.3.2010 as provision for expenses. The taxpayer was
+required to explain as to how the provisions are allowable as deduction. In
+compliance thereto the AR of the taxpayer stated that in the assessment year
+this provision has been reversed and the amount has been offered for taxation.
+The taxpayer also filed copy of account and perusal thereof revealed that this
+amount was reversed on 9.4,2010. After considering all the facts of the case
+the AO held that the expenses have been claimed on provision basis and the
+taxpayer thereby reduced income to the extent of Rs,75,000/- in AY 2010-11,
+hence AO proposed to disallow Rs.75,000/- and added it to the total income.
+
+10.3 The Ld. AR of the taxpayer has submitted that the provision was made in
+the month of March 2010. The AO misunderstood the accounting entry for booking
+of expenses on accrual basis. Attention is drawn to the reply dated 31.1.2014
+addressed to the assessing officer where it has been explained that the
+provision was made in respect of the following invoices relating to the month
+of March 2010:
+
+    
+    
+    (i)    Canon India P. Limited     Rs.46,757/-
+    
+    (ii)   SS Stationers       Rs.32,005/-
+    
+                           Page 76 of 112
+                                                              ITA No.-654/Del/2015.
+                                            Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+    
+
+Referring to the account of printing and stationary for April 2010 (i.e. the
+subsequent period) it is brought out that the provision was reversed on
+9.4.2010 and only net amount remained to be claimed in the financial year
+2010-11. It is therefore, requested to delete the proposed addition.
+
+10.4 The Panel has examined the matter. From the submissions of the taxpayer
+it is evident that provision of Rs.75,000/- made on 31.03.2010 is with
+reference to the bills of SS Stationers and Canon India P. Limited. As against
+the total of such bills at Rs.78,762/-, the taxpayer made a provision of
+Rs.75,000/- on estimate basis. Thus, it cannot be said the provision so made
+of Rs.75,000/- during FY 2009- 10 was excessive or unsupported by the
+corresponding claims. The AO has disallowed the claim only for the reason that
+it was reversed on 9.4.2010 without realizing that by debiting total sum of
+Rs.78,762/- corresponding to these invoices and simultaneously crediting
+Rs.75,000/- on account of reversal of the said provision, the taxpayer has
+claimed the expenditure on this account as under:
+
+(i) During FY 2009-10 Rs.75,000/-
+
+(ii) During FY 2010-11 Rs. 3,762/-
+
+Page 77 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Under these facts, it is evident that there is no flaw in the claim made by
+the taxpayer. The AO is directed to delete the addition proposed by him on
+this account.
+
+10.5 This ground of objection is disposed-off accordingly. Objection No. 7
+11.1 This ground of objection is about disallowance/addition of income from
+other sources.
+
+11.2 The draft assessment order shows that the AO found that the taxpayer
+earned income from FDR interest at Rs. 29,74,264/-. As per provisions of law
+while calculating deduction u/s 10A of the Act, this amount of FDR interest
+should separately be added in the income as "income from other sources". In
+the instant case the taxpayer has claimed deduction u/s 10A of the Act for Rs.
+2,65,60,262/- and while doing so this amount of interest was not added as
+income from other sources. The taxpayer was required to show cause as to why
+this income be not separately added as income from other sources. After-
+considering the reply of the taxpayer, the AO held that the income from
+interest cannot be treated as income derived from the undertaking so as to
+qualify for deduction u/s 10A of the Act. The taxpayer has also admitted that
+while calculating total income, the  Page 78 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+income from interest has to be disclosed separately as income from other
+sources as held by the Hon'ble Supreme Court in the case of Liberty India.
+Thus the AO held that the taxpayer has availed benefit u/s 10A on enhanced
+amount by Rs. 29,74,264/-. This income is separately added in the total income
+as income from other sources. 11.3 The Ld. AR of the taxpayer has submitted
+that the taxpayer has shown interest income of Rs.29,74,264/- separately in
+the Profit & Loss account and the same has not been considered as eligible
+profit for the purpose of computing deduction u/s 10A amounting to Rs.
+2,65,60,262/-. This fact is clear from Annexure -1 filed alongwith letter
+dated 31.01.2010 (PB 149). The AO: has, by mistake, included the income of
+Rs.29,74,264 twice while computing the total income (firstly, the taxpayer has
+itself offered the same as taxable in its return of income and secondly, the
+AO has made the addition again). The taxpayer never claimed benefit of
+exemption u/s 10A in respect of the said interest income. It is therefore,
+submitted that the disallowance made by the AO may be deleted.
+
+11.4 The Panel has examined the matter. The allegation of the AO has been that
+the taxpayer has claimed deduction u/s 10A of Rs.2,65,60,262/- but while doing
+so interest of Rs.29,74,264/- was added thereby claiming excess deduction. The
+Panel has perused the  Page 79 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+taxpayer's letter dated 31.1:.2014 submitted to the AO where reconciliation of
+taxable income between STPI and others has been made (PB 148-149). A perusal
+of the reconciliation shows that interest on bank deposits of Rs.29,74,264/-
+has been credited under the column for 'others' and the no income from bank
+deposit is taken to the STPI unit. Accordingly, the Panel observes that the
+taxpayer itself has excluded the said interest from bank deposits for
+computing admissible deduction u/s 10A of the Act. In this scenario, the Panel
+is of the view that there was no valid reason with the AO to hold otherwise.
+It appears that the AO has not duly appreciated to the contention of the
+taxpayer and passed his verdict unilaterally. The Panel therefore, directs the
+AO to make computation of total income separately for STPI unit and 'others'
+wherein interest from bank deposits should be taken under the column 'others'.
+In this process, the addition on this account separately proposed by the AO
+will be duly taken care of and no separate addition could be made. 11.5 The
+ground of objection is disposed off accordingly. Objection No. 8 12.1 This
+ground of objection is about proposed addition of Rs.24,01,433/- on account of
+disallowance of u/s 40A(2)(b) of the Act.  Page 80 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+12.2 The draft assessment shows that the AO has observed as under:
+
+"during the year under reference taxpayer company has charged Rs.1,60,09,554/-
+on account of rental expenses from HTIPL holding company. The AO taxpayer
+company is charging markup on all the services @ 12.5% but in this transaction
+the taxpayer company did not charged any markup; therefore the taxpayer was
+required to show cause as to why the markup amount on office space be not
+added in the income as income from other sources , In compliance thereto the
+taxpayer filed its written reply detailed below:
+
+The said amount of Rs. 1,60,09,554/- is the amount charged without any mark-up
+toward office space not being currently used by HTIPL from M/s Haldor Topsoe
+A/s (which is a related party-being the holding company of HTIPLs parent
+company), The said space had been acquired by HTIPLS for future expansion.
+Accordingly, the same cannot be treated as income from other sources as the
+same is part and parcel of business operations of HTIPL.
+
+I have considered all the facts of the case, plea of the taxpayer and of the
+view that the taxpayer company is incurring expenditure at Rs.5,81.07,010/- on
+account of rent expense but charging from the  Page 81 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+parent company at Rs.1,60,09,554/- no basis for charging of rental expenses
+has been given. Even the taxpayer company is charging mark-up on other
+services @ 12.5%. since, there is no basis for charging rental expenses and
+the expenses incurred on account of rent are clearly covered by the provision
+of section 40A(2)(b) of the Act. After considering all the facts of the case,
+no basis for charging rental expenses, and also mark-up charged by the
+taxpayer company. The expenses on account of rent expenses claimed by the
+taxpayer to the extent of 15% of Rs. 24,01,433/- is hereby disallowed u/s
+40A(2)(b) of the Act."
+
+12.3 The Ld. AR of the taxpayer has submitted that the provisions of section
+of 40A(2)(b) under which addition has been made by AO are not applicable in
+the present case, as no payment in respect of rent has been made by the
+taxpayer to any related person as specified u/s 40A(2)(b). Moreover, the
+observation of the AO that no margin has been charged on the said payment from
+the parent company is also irrelevant. This issue relates to calculation of
+margin which has already been dealt with in Transfer Pricing order by the TPO.
+
+12.4 The Panel has examined the matter. On perusal of the details of office
+rent expenses (PB 150) it is seen that the taxpayer has taken  Page 82 of 112
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+office premises of STPI from M/s BHL Forex and Finlease Limited whereas other
+area has been taken from Ms Naseema Lone, Wasim Ahmed Bhatt, Vinay Nagrath and
+Neera Vinay Nagrath. None of the premises have been taken on rent from the
+related party specified u/s 40A(2)(b). It is further seen that total rent paid
+for STPI unit is Rs.4,20,97,547/- whereas for the other area it is Rs.
+1,60,09,554/-. Thus, the AO has apparently considered the rent for 'other
+area' and computed the disallowance u/s 40A(2)(b) @15% of the said sum of Rs.
+1,60,09,554/-. Prima-facie when rent has not been paid to a related party, the
+Panel fails to understand as to how such disallowance can be proposed by the
+AO u/s 40A(2)(b) of the Act. No such mention has been made about payment to
+any related party in the annual accounts as well. Rather no transaction on
+account of rent has been disclosed in the related party transactions.
+Considering the facts in totality, the Panel holds that the AO has proposed
+the said disallowance without due reasoning and therefore, he is directed to
+delete the proposed addition. So far as the issue, of charging of margin from
+the parent company is concerned, the AO has not brought out any sound logic to
+make it sustainable. Moreover, this issue was within the domain of the TPO who
+has done the needful into the matter of adjustments.
+
+Page 83 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+12.5 The ground of objection is disposed off accordingly. Objection No. 9 13.1
+The taxpayer has raised objections holding that AO has erred in proposing to
+initiate penalty proceedings u/s 271 (1 )(c) of the Act. 13.2 Objection
+regarding levying of penalty under section 271(1)(c) of the Act, for
+concealment of income, is consequential in nature. The penalty has not been
+levied yet and therefore, there is no cause of any grievance.
+
+13.3 The ground of objection is disposed off accordingly. Objection No. 10
+14.1 This ground relates to the claim of deduction u/s 10A @100% instead of
+90% claimed by the taxpayer.
+
+14.2 The draft assessment order shows that the AO has not made any change to
+the amount of deduction claimed u/s 10A. In the computation of total income,
+the taxpayer had claimed deduction u/s 10A on STPI unit as under:
+
+Net income of STPI Unit 2 90% of proportionate income 2 Deduction u/s 10A 2
+Page 84 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Thus, AO has indirectly proposed to allow deduction u/s 10A at
+Rs.2,65,60,262/-.
+
+14.3 The Ld. AR of the taxpayer has submitted that the taxpayer has in its
+Return of income inadvertently claimed 90% of the profits relating to STPI
+unit as deduction u/s 10A instead of 100% allowable to it. The AO accordingly
+allowed the same at 90%. Before the DRP, the taxpayer by way of this objection
+has claimed the deduction at higher amount being @ 100%. It is submitted that
+the taxpayer has made a legal mistake in claiming deduction @90% instead of
+100%. For this legal claim, the taxpayer relied on the following cases: • CIT
+v. Pruthvi Brokers and Shareholders P. Ltd [2012] 349 ITR 336 (Bombay) • CIT
+v. Jai Parabolic Springs Ltd. [2008] 306 ITR 42 (Delhi) 14.4.1 The Panel has
+considered the matter. From the facts mentioned above it is clear that the
+taxpayer has claimed deduction to the extent of 90% of admissible deduction
+u/s 10A in the computation of total income. No action has been taken by the
+taxpayer to make any amendment to the total income by filing a revised
+computation of income within the time permitted u/s 139(4) of the Act. Even no
+claim was made before the AO during the course of assessment proceedings. The
+taxpayer has made the claim that it is entitled for  Page 85 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+100% of deduction u/s 10A for the first time before this Panel. Needless to
+reiterate that the said claim has been filed beyond the time to file revised
+return of income u/s 139(4), therefore, is to be considered as the belated
+claim Supreme Court of India in the case of Goetze (India) Ltd, 157 Taxmann 1
+was seized of a similar issue. In that case after the return was filed, the
+taxpayer sought to claim a deduction by way of a letter before the AO. The
+said claim was beyond the time permitted u/s 139(4) of the Act. The deduction
+was disallowed by the AO on the ground that there was no provision under the
+Act to make an amendment in the return of income by making application at the
+assessment stage. The CIT(A) allowed the taxpayer appeals but tribunal allowed
+the department's appeal. In Supreme Court, the taxpayer relied upon the
+judgment in National Thermal Power Company Ltd. 229 ITR 183 Hon'ble Supreme
+Court held as under: "4. The decision in question is that the power of the
+Tribunal under section 254 of the Income-tax Act, 1961, is to entertain for
+the first time a point of law provided the fact on the basis of which the
+issue of law can be raised before the Tribunal. The decision does not in any
+way relate to the power of the Assessing Officer to entertain a claim for
+deduction otherwise than by filing a revised return. In the  Page 86 of 112
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+circumstances of the case, we dismiss the civil appeal. However, we make it
+dear that the issue in this case is limited to the power of the assessing
+authority and does not impinge on the power of the Income- tax Appellate
+Tribunal under section 254 of the Income tax Act, 1961. There shall be no
+order as to costs."
+
+Thus, the Supreme Court in the above case held that an AO could entertain a
+claim only if made in the return/revised return of income and not otherwise.
+As in the case of the taxpayer also, the facts are identical to the reported
+decision, the AO cannot be faulted. Moreover, the proceedings before the Panel
+are covered in the Chapter-XIV of the Act titled 'Procedure for assessment'
+and therefore, a new plea of the taxpayer cannot be considered by the Panel.
+
+14.4.2 So far as the submission of the taxpayer with reference to the
+decisions in 349 ITR 336 and 306 ITR 42 are concerned, the Panel is of the
+view*that these decisions do not render any assistance to it. The Bombay High
+Court in the case of Pruthvi Brokers and Share P. Limited held that the
+jurisdiction of appellate authority to entertain a fresh claim has not been
+negated by the Supreme Court in the case Goetze India. Further, the Supreme
+Court held that the issue in the case was limited to the power of the AO and
+that the judgment does not nor impinge upon the power of the ITAT u/s 254 of
+the Act.  Page 87 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Liikewise, the Delhi High Court in the case of Jai Parabolic (supra) has
+commented upon the powers of the appellate authorities as against the
+assessing officer. As mentioned above, the present proceedings before the
+Panel are under Chapter XIV of the Act and therefore, the decision of Hon'ble
+Supreme Court in the case of Goetze (India) (supra) would be squarely
+applicable.
+
+14.4.3 Considering the facts and circumstances of the case in totality, the
+claim of the taxpayer cannot be accepted by the Panel. 14.5 The ground of
+objection is disposed off accordingly.
+
+15\. The taxpayer has cited in its submission various judicial pronouncements
+which have been considered by this Panel. These are distinguishable from the
+factual matrix in the case of the taxpayer. Accordingly, a detailed
+description of such analysis is not being mentioned in this order.
+
+(4) The AO passed aforesaid Assessment Order dated 04.12.2014 making addition
+of Rs. 3,20,93,274 on account of Transfer Pricing Adjustments. Relevant
+portion of the Assessment Order is as under:
+
+> " Assessee filed return of income declaring a income of Rs. 43,58,900/- on
+> 30.09.2009. The case was selected for scrutiny and notice under section
+> 143(2) was issued on 30.08.2010. Again notice u/s 143(2) along with
+> questionnaire under section 142(1) was issued on 07.08.2012. In response to
+> notices, Sh. Yogesh Jain, C.A./Authorized Representative appeared from time
+> to time and filed the requisite details which were placed on record and the
+> case was discussed.
+
+Page 88 of 112
+
+> ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Assessee is engaged in the business in providing IT enabled engineering
+consulting services. During the course of hearing AR has produced books of
+account which have been test checked.
+
+1\. Addition account of Transfer Pricing Adjustment A reference was made to
+TPO -1(2), to determine the 'arm's Length Price; in respect of 'international
+transactions) undertaken by the assessee by the assessee during the F.Y.
+2009-10. In response to notice u/s. 92CA, Mr. Ahish Gupta and Mr. Prashuka
+jain the , the authorized representative of assessee company appeared. The
+transfer pricing documentation containing functional economic analysis
+prescribed under Rule 10D of the Income Tax Rules was submitted and placed on
+the record. The TPO vide its order dated 17.01.2014 proposed adjustment of Rs.
+3,26,30,317/- by holding as under:-
+
+6.1 Adjustment to Risks After carefully considering the facts of the case and
+the submissions of the taxpayer, I am not inclined to accept the assessee's
+claim of risk adjustment. Risk adjustment as a general rule cannot be allowed
+unless it is clearly shown that the comparables had actually undertaken such
+risk and how the same materially affected their margins. The revised OECD
+guidelines of 2010 has also stated in Para 3.52 as under:- " Ensuring the need
+level of transparency of comparability of adjustments may depend upon the
+availability of an explanation of any adjustments performed, the reasons for
+the adjustments being considered appropriate, how they were calculated, how
+they changed the results for each comparables and how the adjustment improves
+comparability, issue regarding documentation of comparability adjustments are
+discussed in Chaper V. "
+
+From the above guidelines it can be seen that unless it is shown that how the
+risk adjustment would change the result of each comparable and how the same
+would improve the comparability and unless adequate reasons are given for such
+adjustment, no adjustment can be allowed to the taxpayer. In the present case,
+except giving proportion of various risks borne, the taxpayer has not shown
+with evidence as to whether each of the risk was actually undertaken or not by
+the comparables and if so, how these risks affected each of them and whether
+such adjustment would improve the comparability.
+
+Mechanical adjustment cannot be made to the margins of the comparables without
+knowing which risk was taken by the entity concerned and hot its profitability
+was affected. Profitability of risk and certainty of risk are two different
+aspects and cannot be equated for the purpose of adjustment. In my view
+assessee cannot be compared to a risk free security. Even other methodology,
+whether adhoc adjustment as in case of Sony India, CAPM or Sharpe Ratio (
+which is a measure of excess return on risk undertaken by an entity investing
+in a particular asset), as applied y Hyderabad ITAT in the case of ADP Private
+Ltd. are based on return of capital which is not the PLI adopted by the
+assessee and the TPO. All this requires robust and reliable data, both for the
+assessee and the comparable in the absence of which risk adjustment cannot be
+considered for enhancing comparability. Thus claim of the assessee is not
+acceptable.  Page 89 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+7\. Assessee may object on the computation margin of this comparable company.
+In this regard it is to mention here that margin has been computed in
+accordance with the principles governing the treatment of an item as operating
+and non-operating has been followed which was issued in CBDT notification SO
+2810(E) dated. 19.09.2013, extract of the same is produced below:-
+
+(QUOTE)
+
+(j) "operating expense" means the costs incurred in the previous year by the
+assessee in relation to the international transaction during the course of its
+normal operations including depreciation and amortization expenses relating to
+the assets used by the assessee, but not including the following, namely;
+
+    
+    
+    (i)        Interest expenses;
+    (ii)       Provisions for unascertained liabilities;
+    (iii)      Pre-operating expenses;
+    (iv)        Loss arising on account of foreign currency fluctuations;
+    (v)        Extraordinary expenses;
+    (vi)       Loss on transfer of assets or investments;
+    (vii)      Expenses on account of income tax; and
+    (viii)      Other expenses not relating to normal operations of the assessee;
+    (k)      "Operating revenue" means the revenue earned by the assessee in the
+    
+
+previous year in relation to the international transaction during the course
+of its normal operations but not including the following, namely:
+
+    
+    
+    (i)        Interest income;
+    (ii)       Income arising on account of foreign currency fluctuations;
+    (iii)      Income on transfer of assets or investments:
+    (iv)       Refunds related to income- tax;
+    (v)        Provisions written back;
+    (vi)       Extraordinary incomes; and
+    (vii)       Other incomes not relating normal operating of the assessee;
+                                                                                 (UNQUOTE)
+    
+    Provisions for doubtful debts
+    
+    
+
+Provisions for doubtful debts was considered part of operating expenses only
+when the same expenses are incurred every year for the last three years upto
+and including the FY 2009-10 and these expenses are incurred at almost
+consistent level in terms of its ratio with the turnover. Otherwise, the same
+is excluded from operating expenses treating the same expense as extraordinary
+or restricted to the extent of reasonable based on the three year figures.
+Thus provision for doubtful debts are allowed provided a company follows a
+consistent approach to make provisions every year. Otherwise, such expenses
+becomes extra ordinary and thus is excluded from operating expenses.
+
+8\. Following the discussions in the preceding paras the final set of
+comparables going to be used in the case of assessee are listed below:-
+
+    
+    
+     SI. No.       Name                                                  OP/OC
+    
+    
+    
+    
+                                    Page 90 of 112
+                                                                       ITA No.-654/Del/2015.
+                                                     Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+    1.           Mahindra Consulting Engineers Limited                 23.50
+    
+    2.           TCE Consulting Engineers Limited                      25.88
+    
+    3.           Engineers India                                       67.77
+    
+    4.           Mukand Engineers Limited                              12.87
+    
+    5.           Project and Development India Limited                 23 09
+    
+    6.           UB Engineering Limited                                9.71
+    
+                 AVERAGE                                               26.33
+    
+    
+    
+    9.       Computation of Arm's Length Price:
+    
+    Operating Cost                                                    223,767,776
+    
+    Arm's length price at a Margin of26.33%                           282,685,831
+    
+    Price Received                                                    250,055,515
+    
+    105% of International Transaction                                 262,558,290
+    
+    Proposed Adjustment u/s92CA                                       32,630,317
+    
+    
+    
+    
+
+Thus the above different of Rs. 3,26,30,317/- is treated as transfer pricing
+adjustment for the FY 2009-10.
+
+No adverse inference is drawn in respect of the other international
+transactions undertaken by the assessee during the FY 2009-10. The assessee
+was afforded reasonable opportunity of being heard.
+
+Therefore, an addition of Rs. 3,26,30,317/- was made to the income of the
+assessee being difference between the Arm's Length Price. Draft Order u/s.
+143(3) rws 144(C) of the I.T. Act, 1%1 was passed on 31.01.2014. Penalty
+proceedings u/s 271(l)(c) of the IT Act, were also initiated on this point for
+furnishing inaccurate particulars of income. In response, to the Draft Order
+the assessee filed an appeal before the DRP-I, New Delhi against the draft
+assessment order passed by the AO. In response to which the Ld. DRP- I issued
+directions on 25.09.2014 u/s 144C (5) for AY 2010-11 with some specific
+directions. However, till date no order has been passed by the TPO. Since, the
+final assessment order in the case is getting barred by limitation on
+30.11.2014, therefore, final order is hereby passed and an addition of Rs.
+3,26,30,317/- is hereby made on account of difference of Arm's length price
+subject to rectification order in accordance with the outcome of the order of
+Transfer pricing officer. Since, I am satisfied that the assessee has
+furnished inaccurate particulars of income, therefore, penalty proceedings u/s
+271(l)(c) is initiated separately.
+
+(Addition Rs. 3,26,30,317/-)  Page 91 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+In view of the above discussion, the total income/loss of the assessee company
+is computed as under:
+
+Income as declared by the assessee Rs. 43,58,900/-
+
+Additions
+
+1\. Addition made by TPO as discussed above Rs. 3,26,30,317/-
+
+    
+    
+                Total Income                                        Rs.      3,69,89,217/-
+    
+                Rounded off                                         Rs.      3,69,89,220/-
+    
+    
+    
+    
+
+Assessed as above at total income of Rs. 3,69,89,220/-. Issue necessary forms.
+Charge interest u/s 234B and 234D as applicable under Income tax Act, 1961.
+Penalty proceedings u/s 271(l)(c) have been initiated separately." (5)
+Aggrieved, the Assessee is now in appeal before us against the aforesaid
+Assessment Order dated 04.12.2014. During the appellate proceedings the
+Assessee filed application for admission of additional ground vide letter
+dated 14.06.2018. The additional ground is as under:
+
+> "The learned DCIT (after incorporating Ld. DRP's order) has erred in not
+> granting 100% of the eligible profit as deduction u/s 10A(1A), and confining
+> the deduction at 90% only."
+
+(5.1) During the appellate proceedings the Assessee also filed Paper Book
+containing the following particulars:
+
+    
+    
+          S.No.                                      Particulars
+            1     Copy of Order u/s 92CA dated 17.01.2014 passed by TPO for AY 2010-11
+            2     Copy of Draft assessment order dated 31.01.2014 passed by AO for AY 2010-11
+            3     Copy of objections filed before DRP (in Form 35A) for AY 2010-11
+            4     Copy of submissions dated 22.09.2014 filed before DRP for AY 2010-11
+            5     Copy of Directions given by Hon'ble DRP-I u/s 144C(5) dated 25.09.2014
+    
+
+Copy of letter no. L/72 dated 14.11.2014 filed with TPO for giving appeal
+effect to  6 DRP's order Copy of Order dated 26.11.2014 passed by TPO giving
+appeal effect to DRP order for  7 AY 2010-11  Page 92 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Copy of Order u/s 143(3) dated 27.11.2014 read with rectification order u/s
+154 8 dated 04.12.2014 passed by AO for AY 2010-11 9 Copy of letter no. L/40
+dated 31.12.2013 filed with TPO 10 Copy of audited accounts for the year ended
+31.03.2010 11 Copy of report u/s 10A in Form 56F dated 25.09.2010 12 Copy of
+Computation of income for FY 2009-10 (AY 2010-11) Copy of Order dated
+02.05.2017 passed by Hon'ble ITAT, New Delhi for AY 2009-10 13 in the case of
+assessee Copy of Relevant extract of letter L/161 dated 28.08.2017 filed with
+TPO for giving 14 appeal effect to ITAT order for AY 2009-10 in the case of
+assessee Copy of Appeal effect order u/s"254 dated 30.01.2018 passed by TPO
+for AY 2009-10 15 in the case of assessee Copy of Relevant extract of Annual
+report of Mahindra Consulting Engineers Ltd. for 16 FY 2009-10 and profile of
+the Company downloaded from the website 17 Copy of Relevant extract of Annual
+report of Engineers India Ltd. for FY 2009-10 Copy of Printout of the profile
+from the website of Petron Engineering Construction 18 Ltd.
+
+19 Copy of Rectification application dated 17.07.2018 filed with TPO Copy of
+Rampgreen Solutions Pvt. Ltd. v C1T [2015] 60 taxmann.com 355 (Delhi High 20
+Court) Copy of Thyssenkrupp Industries India (P.) Ltd. V. Addl. CIT. [2013] 33
+taxmann.com 21 107 (Mumbai - Trib.) 22 Copy of Bechtel India (P.) Ltd. v. DCIT
+[2016] 66 taxmann.com 6 (Delhi - Trib.) Copy of AT & T Communication Services
+India (P.) Ltd. v. ACIT [2018] 91 23 taxmann.com 58 (Delhi - Trib.) Copy of
+CIT v. Agnity India Technologies (P.) Ltd. [2013] 36 taxmann.com 289 (Delhi 24
+High court) Copy ofPr. CIT v. New River Software Services (P.) Ltd. [2017] 85
+taxmann.com 302 25 (Delhi High court) Copy of Blackrock Services India (P.)
+Ltd. v. ACIT [2018] 93 taxmann.com 251 (Delhi 26
+
+\- Trib.) Copy of KOB Medical Textiles (P.) Ltd. v. DCIT [2017] 81 taxmann.com
+223 (Chennai 27
+
+\- Trib.) 28 Copy of Nokia India (P.) Ltd. v. DCIT [2018] 91 taxmann.com 288
+(Delhi - Trib.) Copy of Finastra Software Solutions (India) (P.) Ltd. v. ACIT
+[2018] 93 taxmann.com 29 460 (Bangalore - Trib.) Copy of Relevant extract of
+Sony India (P.) Ltd. v. DCIT [2008] 114 ITD 448 (Delhi 30 Trib.) Copy of Sony
+Mobile Communications International AB v. DDIT [2016] 69 31 taxmann.com 404
+(Delhi - Trib.) 32 Copy of Eli Lily & Co. (India) Ltd. v. ACIT [2018] 98
+taxmann.com 380 (Delhi - Trib.)  Page 93 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+(5.2) During the appellate proceedings the Assessee also filed a synopsis in
+seven pages, relevant portion of which is reproduced as under:
+
+> "Brief Background Haldor Topsoe India Pvt. Ltd. (Assessee) is a wholly owned
+> subsidiary of Haldor Topsoe International A/S, (HTIAS), which is a Denmark
+> based company. The parent company i.e., HTIAS is a subsidiary of Haldor
+> Topsoe A/S, Denmark (HTAS). Accordingly, HTAS is the ultimate active holding
+> company of Assessee. The services of the assessee are being captively
+> consumed by HTAS. The assessee is rendering services to industries operating
+> in (1) Fertilizer, (2) Petro-chemical, and (3) Refinery and Oil & Gas
+> sector. Hence, the assessee had selected those engineering companies which
+> were also rendering services to the industries in Fertilizer, Petro-
+> chemical, Refinery and Oil & Gas sector.
+
+> During the FY 2009-10 the assessee got transfer pricing study done according
+> to which the margin of comparable companies was 14.45% (refer page 2 of PB).
+> The actual margin of the assessee for FY 2009- 10 was 11.75%.
+
+> The Ld. TPO has initially calculated the margin of the comparable companies
+> @ 26.33%. The Ld. DCIT (after incorporating the Hon'ble DRP's order) after
+> giving relief for working capital adjustment has computed the margin of
+> comparable companies @ 26.09% (refer page 87 of PB).
+
+> It may be noted that this is 2nd year of transfer pricing assessment, In the
+> preceding year i.e., AY 2009-10. an addition to income was made by ld. TPO /
+> AO. However, after the Hon'ble ITAT order , the same got reduced to NIL.
+> Ground 1(a) The learned DCIT (after incorporating Ld. DRP's order! has erred
+> on facts and in law in making addition of Rs. 3.20.93.274 on account of
+> adjustment in value of international transaction, on account of following:
+    
+    
+                 (a)     Selecting 2 new comparable companies
+    
+                 Brief facts
+    
+    
+
+> The Ld. TPO has selected following 2 and added the same to the list of final
+> comparable companies :
+    
+    
+         •       M/s Engineers India Ltd. (Margin - 67.77%)
+         •       M/s Mahindra Consulting Engineers Ltd. (Margin - 23.50%)
+    
+    
+
+> The detailed factual arguments were submitted to the Hon'ble DRP (refer page
+> 49 to 55 of PB). Our submissions regarding the comparable companies are as
+> follows:
+
+> Regarding Engineers India Ltd. ["EIL"]:
+
+> Observations of Ld. TPO / Hon'ble DRP  Page 94 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+> The Ld. TPO has included this company in the final list of comparables and
+> discussed about it at para 5 (7internal page 11 to 13 of the order) (refer
+> page 11 to 13 of the PB). The Ld. DRP has discussed this issue at page 16 of
+> its order (refer page 71 of the PB).
+
+> Appellant's submission First Ground - Govt Entity & Related Party
+> Transactions > 25% : The first ground for exclusion is that EIL is rendering
+> services to other government companies and had executed most of the projects
+> in the Consulting & Engg. Division with govt. entities and therefore, its
+> related party transactions are more than 25%.
+
+• The assessee is rendering engineering services to industries operating in
+(1) Fertilizer, (2) Petrochemical, and (3) Refinery and Oil & Gas sector. •
+EIL is a large govt. company primarily rendering engineering services to
+public sector companies. Directors Report of EIL for F.Y. 2009-10 (refer page
+180 to 193 of the PB) give details of major jobs done by EIL during the year.
+The said report (at internal pages 15 to 16) gives details of major activities
+in the fields of 'Engineering' and 'Process Design & Development'. Detail of
+such projects was also submitted to Ld. DRP (refer page 54 to 55 of the PB). A
+perusal of the said detail will show that EIL is rendering services
+predominantly to Government Companies and, therefore, related party
+transactions are obviously much more than 25%.
+
+• Hon'ble Mumbai ITAT in the case of Thyssenkrupp Industries India (P.) Ltd.
+V. Addl. CIT. [2013] 33 taxmann.com 107 (Mumbai - Trib.) affirmed by Hon'ble
+Bombay High court in [2016] 68 taxmann.com 248 (Bombay), has held as under on
+the basis of annual report of EIL (refer para 12.8.2 at page 33 of the
+Compilation of Cases): "The second reason is that Engineers India Limited
+earned income from turnkey project by successfully completing the project of
+IOCL and other Public Sector Undertakings. In that sense of the matter, the
+related party transactions are much more than the filter of 25%. We,
+therefore, order for the exclusion of this case from the list of comparables."
+• It may be mentioned that in the above case although no financial details of
+transactions with other government companies were available, the Hon'ble ITAT
+on the basis of Directors Report etc. concluded that transaction with
+government companies was more than 25% and, hence, EIL was not a comparable
+company. • This decision of Hon'ble Mumbai ITAT has been followed by Hon'ble
+ITAT Delhi in the case of ❖ Bechtel India (P.) Ltd. v. DCIT [2016] 66
+taxmann.com 6 (Delhi - Trib.) (para 12.4 at page 43 & 44 of the compilation of
+cases) ❖ AT & T Communication Services India (P.) Ltd. v. ACIT [2018] 91
+taxmann.com 58 (Delhi - Trib.) (para 30 at page 56 & 57 of the compilation of
+cases) ❖ Honda Trading Corp. (India) (P.) Ltd. V. DCIT [2014] 44 taxmann.com
+333 (Delhi - Trib.) • Further, Hon'ble ITAT Delhi in the case of Eli Lily &
+Co. (India) Ltd. v. ACIT [2018] 98 taxmann.com 380 (Delhi - Trib.) (para 16 at
+page 128 of the compilation of  Page 95 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+cases) following Thyssenkrupp (supra) has discussed the comparable - Engineers
+India Ltd. and has given the various reasons for rejection of EIL as a
+comparable company.
+
+Second Ground - Scale & Size of the company : The total turnover of EIL was
+1984.10 crores, as against the appellant turnover of 25 crores . Thus EIL's
+turnover is 80 times the turnover of appellant company. Even if turnover of
+Consulting and Engineering segment is considered, the same is 1055.33 crores,
+i.e. appx 42 times the turnover of appellant company (refer page 202 of the
+PB). The appellant did not own any intangibles, has not incurred any
+expenditure ofn R& D etc. • In support of the proposition that company with
+very high turnover should not be considered as comparable, we place reliance
+on the following cases: ❖ CIT v. Agnity India Technologies (P.) Ltd. [2013] 36
+taxmann.com 289 (Delhi HC) (para 5 & 6 at page 59 & 60 of the Compilation of
+cases) ❖ Pr. CIT v. New River Software Services (P.) Ltd. [2017] 85
+taxmann.com 302 (Delhi HC) (para 12 at page 63 of the Compilation of cases) ❖
+Sony Mobile Communications International AB v. DDIT [2016] 69 taxmann.com 404
+(Delhi - Trib.) (para 6.3 at page 120 of the Compilation of cases) ❖ United
+Health Group Information Services (P.) Ltd. v. DCIT [2018] 90 taxmann.com 423
+(Delhi - Trib.) ❖ Keystroke Pro India (P.) Ltd. v. ITO [2018] 93 taxmann.com
+189 (Delhi - Trib.) ❖ St-Ericsson India (P.) Ltd. v. Addl. CIT [2017] 79
+taxmann.com 207 (Delhi - Trib.) • In all these cases, it has been held that a
+giant company in terms of risk profile, nature of services, number of
+employees, ownership of branded products and brand related profits, etc.,
+could not be compared with assessee which was simply a captive unit rendering
+services to its AE alone without acquiring any intellectual property. In light
+of the above, it is submitted that EIL cannot be selected as a comparable
+company. • The Ld. TPO has relied on the following Mumbai ITAT decisions in
+support of the proposition that high turnover is not the sole ground for
+exclusion :
+
+    
+    
+    ❖        Capgemini India (P.) Ltd. v. ACIT
+    ❖        Syantec Software Solutions Pvt. Ltd. (2011-TII-60ITAT-MUM-TP)
+    ❖        Wills Processing (ITA No. 429 & 457/ Mumbai/ 2012)
+    
+    
+
+• We would like to submit that all the 3 judgements were delivered in 2013.
+There are scores of decisions delivered in later years holding that high
+turnover is a very relevant consideration. Further, as against the Mumbai
+Tribunal, we are placing our reliance on jurisdictional Delhi High Court and
+Delhi Tribunal.
+
+Third Ground - Abnormal margin: The average margin of the consulting and
+engineering industry for FY 2009-10 is 9.79% (taken from the Prowess
+software), The Consulting and Engineering division of EIL has a margin of
+67.77% which is clearly an extremely high margin compared to average industry
+margin. In light of the above, it is submitted that EIL cannot be selected as
+a comparable company.
+
+Fourth Ground -- Segmental accounts not available: We would like to submit
+that only segmental turnover and profit of the EIL is available in the audited
+accounts. However, no segmental break up of expenses are available in the
+audited accounts and further there is some unallocable expenditure for which
+no justification was provided by Ld. TPO while calculating the margins (refer
+page 216 of the PB).  Page 96 of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+It is also submitted that the audited accounts do not contain the segmental
+profit & loss account and balance sheet. Therefore, it is not possible to
+compute the Working capital adjustment in case of EIL. It may also be noted
+that the Ld. TPO, while giving effect to the Hon'ble DRP's order has made the
+wrong calculation of WCA. He has computed the WCA adjustment using the
+segmental profits but the figures of debtors, creditors and inventory were
+taken from the consolidated balance sheet (refer page 89 and 194 of the PB).
+Since segmental accounts are not available, therefore, EIL cannot be taken as
+a suitable comparable company. In support of this proposition, reliance is
+placed on the following cases:
+
+❖ Blackrock Services India (P.) Ltd. v. ACIT [2018] 93 taxmann.com 251 (Delhi
+- Trib.) (refer para 28 at page 74 of compilation of cases) ❖ Messe Dusseldorf
+India (P.) Ltd. v. DCIT [2018] 90 taxmann.com 159 (Delhi - Trib.) In view of
+the above, it is humbly prayed that EIL cannot be taken as a comparable
+company and, therefore, should be excluded from the list of comparable
+companies. Regarding Mahindra Consulting Engineers Ltd. ["Mahindra"! ;
+Observations of Ld. TPO /Hon'bleDRP The Ld. TPO has included this company in
+the final list of comparables (refer page 18 of PB). The Hon'ble DRP has
+discussed this comparable at page 17 of its order dated 29.09.2014 (refer page
+72 of PB). The Hon'ble DRP has added this comparable on the basis of the
+addition made by the TPO in the current year as well as the immediate
+preceding year. Appellant's submission • This issue is covered in the
+assessee's own case by Hon'ble IT AT order for immediately preceding year for
+AY 2009-10 (refer page 147 of the PB). The Hon'ble ITAT has held that although
+Mahindra's functions are similar to that of the appellant, however due to
+outsourcing the work by Mahindra's has remanded back this comparable to Ld.
+TPO /AO to check the outsourcing expenses and exclude the same from the final
+list of comparable companies, if substantiated (refer page 148 ofPB) •
+However, the Ld. TPO while giving effect to ITAT order for AY 2009-10 has not
+examined this issue of outsourcing of expenses and instead has given its
+observations again only on functional similarity of Mahindra, thereby included
+the same in the final list of comparables (refer page 163 to 164 of the PB).
+The appellant has not preferred appeal against the said appeal effect order
+due to the fact that the margin of the assessee comes within the range of 5%
+in AY 2009-10.
+
+• During AY 2010-11 also, the expenses incurred by the appellant and Mahindra
+on personnel and sub-consultancy costs during FY 2009-10 are given below
+(refer page 115 and 174 of the PB):
+
+_________________________________________________________________________(in
+lakhs)  Page 97 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Particulars ________________________ HTIND (appellant) _____ Mahindra Total
+employee & sub-consultancy costs 1000.44 452.02 Sub consultancy costs 0.00
+68.90 % of sub-consultancy costs 0% 15.24% From the above, it will be seen
+that while assessee is rendering services by employing its own employees
+whereas roughly 16% of the activity carried out by Mahindra has been
+outsourced. Therefore, its business model is different from appellant and,
+hence, cannot be selected as a comparable company. In support of the above
+proposition, reliance is placed on Hon'ble Delhi High Court judgement in the
+case of Rampgreen Solutions Pvt. Ltd. v CIT. [2015] 60 taxmann.com 355 (at
+para 38 - refer page 16 of Compilation of cases) on account of different
+business model, namely, more of outsourcing than in-house services. • Without
+prejudice to above, it is submitted that Mahindra has been specifically
+excluded by the Hon'ble Delhi tribunal as the comparable company in view of
+highly technical capabilities of executing infrastructure development projects
+in the following cases:
+
+Rolls-Royce India (P.) Ltd. v. DCIT [2016] 69 taxmann.com 426 (Delhi - Trib.)
+Alcatel-Lucent India Ltd. v. DCIT [2017] 88 taxmann.com 157 (Delhi - Trib.)
+Ground 1(b) The learned DCIT (after incorporating Ld. DRP's order) has erred
+on facts and in law in making addition of Rs. 3,20,93,274 on account of
+adjustment in value of international transaction on account of following:
+
+(b) Rejecting 4 comparable companies selected by the assessee Brief facts The
+Ld. TPO of rejecting following comparable companies selected by the appellant:
+
+    
+    
+    •       Central Mine Planning & Design Institute Ltd.   (Margin - 4.63%)
+    •       IOT Design & Engg. Ltd.(Margin - 14.42%)
+    •       Simon India Ltd.         (Margin - 15.28%)
+    •       Petron Engineering Construction Ltd.    (Margin -11.41 %)
+    
+    
+
+The first three comparable companies are not pressed. Our submissions
+regarding remaining 1 company is given below:
+
+Regarding Petron Engineering Construction Ltd.:
+
+• The Ld. TPO at para 4.3.2 (at internal page 10 of its order) (refer page 10
+of the PB). The Ld. TPO has rejected this comparable on the ground that source
+of revenue is no similar to that of assessee and hence functionally
+dissimilar. The Hon'ble DRP has not discussed this comparable in its order
+dated 25.09.2014. • This issue is covered in the assessee's own case by
+Hon'ble ITAT order for immediately preceding year for AY 2009-10 (refer page
+151 of the PB). The TPO, pursuant to Hon'ble Tribunal's decision while giving
+appeal effect to the ITAT order has included the Petron in the final list of
+comparables (refer page 166 of the PB). • We would again like to submit that
+the company is not functionally dissimilar. As  Page 98 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+can be seen from the profile of Petron downloaded from its website (refer page
+219 of the PB), it is working in the same sector as the appellant namely in
+the field of refinery, petrochemical & fertilizer.
+
+• In view of the above, it is humbly prayed that Petron Engineering
+Construction Ltd should be selected as a suitable comparable and be added in
+the list of final comparables. Ground 1(c) The learned DCIT (after
+incorporating Ld. DRP's order) has erred on facts and in law in making
+addition of Rs. 3,20.93,274 on account of adjustment in value of international
+transaction, on account of following:
+
+(c) Rejecting adjustment in margin due to different risk profile of comparable
+companies Brief facts • Appellant vide letter No. L/40 dated 31.12.2013
+submitted before Ld. TPO that it is a captive service provider to it's AE -
+Haldor Topsoe A/s. It operates in a risk-insulated environment, since it
+operates on a cost-plus model and is compensated for all the costs borne by
+it. The levels of risk borne by third- party comparables (which are
+entrepreneurs) are much more than those of HT1PL. It was also submitted that
+difference in risk profile of the appellant and comparable companies are on
+account of the various risk including Market risk, Service liability risk,
+Research & development risk, Credit risk, Manpower risk, Technological
+obsolescence risk, etc. • Accordingly, an adjustment for difference in risk
+profile (i.e. captive service provider vs. entrepreneur) is called for (refer
+page 101 to 102 of the PB). • The Appellant claimed risk adjustment of 5.25%.
+The adjustment on account of a difference in risk profile was computed by
+subtracting the risk-free bank rate from the prime lending rate. During the
+previous year relevant to assessment year 2010-11, such difference worked out
+to appx. 5.25% (i.e. 11.75% less 6.50%) [refer page 102 of the PB], The
+appellant has submitted the brief note on the risk adjustment to the Ld. TPO
+(refer page 106 to 108 of the PB).
+
+TPO's observation The Ld. TPO has discussed this issue in para 6 (internal
+page 16 to 17) of its order dated 17.01.2014 (refer page 16 to 17 of the PB).
+
+DRP's Observation The Ld. DRP has discussed this matter in para 8 (internal
+page 19 to 21) of its order dated 29.09.2014 (refer page 74 to 76 of the PB).
+The Hon'ble DRP has held that mechanical adjustment cannot be made to the
+margins of the comparables without knowing which risks were taken by the
+entity concerned and how its profitability was effected. The Hon'ble DRP has
+held that it was the onus of the taxpayer to show with the evidence as to
+whether each of the risk was actually undertaken or not by the comparables and
+if so how these risks effected each of that and where such adjustment would
+improve the incomparability. Appellant's submission • This issue is covered in
+the assessee's own case by Hon'ble ITAT order  Page 99 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+for immediately preceding year for AY 2009-10. The Hon'ble Delhi Tribunal has
+restored the matter to the file of Ld. TPO / AO to compute the risk adjustment
+(refer page 152 to 154 of the PB).
+
+• The appellant has made its submissions in relation to risk adjustment to the
+Ld. TPO pursuant to the ITAT's order for AY 2009-10 (refer page 158 to 160 of
+the PB). However, the Ld. TPO has not accepted the appellant's submission in
+giving appeal effect to the ITAT order (refer page 164 to 166 of the PB) The
+Ld. TPO has again produced the same arguments which has been mentioned in the
+Ld. TPO's original order dated 17.01.2014 (refer page 16 to 17 of the PB) and
+finally denied the risk adjustment to the appellant despite of having the
+clear directions from the Hon'ble Tribunal. • We would further like to submit
+that this onus placed by Hon'ble DRP on the appellant is an onus which places
+an impossibility on the shoulders of the appellant in as much as the appellant
+has no means to ascertain like risks actually undertaken by the various
+comparables. It is submitted that the DRP thus erred in law in placing the
+onus on the appellant in view of the celebrated 'maxim lex non legit
+impossibilia'. Therefore, it is not practically possible to calculate the
+adjustment on account of each risk factor for every comparable company.
+
+• In this connection, we would like to submit that there are scores of
+judgements on this issue. However, we place reliance on the following latest
+decisions wherein the risk adjustment has been granted in case of captive
+service provider: ❖ Nokia India (P.) Ltd. v. DCIT [2018] 91 taxmann.com 288
+(Delhi - Trib.) (refer para 7.4 at page 91 of compilation of cases) ❖ DCIT v.
+Applied Micro Circuits India (P.) Ltd. [2017] 88 taxmann.com 276 (Pune
+
+\- Trib.) ❖ CAPCO IT Services India (P.) Ltd. v. ITO [2017] 79 taxmann.com 214
+(Bangalore - Trib.) ❖ Starent Networks (India) (P.) Ltd. v. ACIT [2018] 90
+taxmann.com 367 (Pune - Trib.) ❖ MSC Software Corporation India (P.) Ltd. v.
+ACIT [2017] 80 taxmann.com 55 (Pune - Trib.) • Further reliance is placed on
+the following latest judicial decisions of various Tribunals where an adhoc
+risk adjustment has been granted: ❖ Sony India (P.) Ltd. v. DCIT [2008] 114
+ITD 448 (Delhi-Trib) : 20% adhoc adjustment of profit i.e., appx. 2% -3%
+(refer para 132 at page 113 of Compilation of cases) KOB Medical Textiles (P.)
+Ltd. v. DCIT [2017] 81 taxmann.com 223 (Chennai - Trib.) : 2% adhoc adjustment
+(refer para 6 at page 81 of Compilation of cases) ❖ Finastra Software
+Solutions (India) (P.) Ltd. v. ACIT [2018] 93 taxmann.com 460 (Bangalore -
+Trib.) - 1 % adoc (refer para 40 at page 104 of Compilation of cases) • The
+Ld. TPO has relied on the following cases in support of non-allowance of risk
+adjustment:
+
+    
+    
+    ❖       ADP Private Limited (200-TII-44-ITAT-HYD TP)
+    
+    
+                                       Page 100 of 112
+                                                                                     ITA No.-654/Del/2015.
+                                                                   Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+          ❖       Symantec Software Solutions Pvt. Ltd. (201 l-TII-60-ITAT-MUM TP)
+          ❖       ST Micro Electronics (201 l-TII-60-ITAT-DEL TP)
+          ❖       Vedaris Technology (2010-TII-10-ITAT-DEL TP)
+    
+          •        We would like to submit that all these judgements were delivered in year 2011.
+    
+
+There are lot of judgements as mentioned above which have been delivered after
+these decisions of the Tribunal wherein the risk adjustment has been granted
+in case of captive service providers. We submit that later decisions of the
+Tribunals should be followed as against the older decisions. In any case, this
+issue is directly covered by assessee's own case in AY 2009-10. Therefore,
+following the well settled principle of consistency, the risk adjustment
+should be granted to the appellant."
+
+(6) At the time of hearing before us, Ld. Counsel for Assessee reiterated the
+submissions made in the aforesaid synopsis in support of the original grounds
+of appeal. In respect of the additional ground of appeal the Ld. Counsel for
+Assessee relied on aforesaid letter dated 14.06.2018, relevant portion of
+which is reproduced as under:
+
+> "1. The brief facts of the case are as follows :
+
+> • The appellant filed its return of income on 30.09.2010 declaring total
+> income of Rs. 43,58,900. In the said return of income, the appellant has
+> claimed deduction u/s 10A as follows:
+    
+    
+               - Net income of STPI unit                                    :Rs.     2,95,11,402
+               - 90% of proportionate income on export turnover             :Rs.     2,65,60,262
+               - Deduction u/s 10A                                                   :Rs.
+                           2,65,60,262
+    
+          •        The report obtained u/s 10A in Form 56F dated 25.09.2010 and its detailed
+    
+
+> calculation was filed with the Ld. AO at the time of assessment proceedings.
+> The Ld. AO had passed the draft assessment order dated 31.01.2010 allowing
+> the benefit of section 10A and allowed the claim of the appellant of Rs.
+> 2,65,60,262 (being 90% of the amount of the income).
+
+> • The assessee while filing its objections with Hon'ble Dispute Resolution
+> Panel ["DRP"] realized that while computing total income, the said deduction
+> u/s 10A was inadvertently claimed at 90% of the eligible profit of the
+> undertaking (i.e. 90% of Rs. 2,95,11,402) instead of 100% of the eligible
+> profit as contemplated in Section 10A of the Income-tax Act.
+
+> • The relevant provision of section 10A is reproduced below for ready
+> reference: "10A(1A) Notwithstanding anything contained in sub-section (1),
+> the deduction, in computing the total income of an undertaking, which begins
+> to manufacture or produce articles or things or computer software during the
+> previous year relevant to any  Page 101 of 112 ITA No.-654/Del/2015.
+
+> Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+> assessment year commencing on or after the 1st day of April, 2003, in any
+> special economic zone, shall be --
+
+> (i) hundred per cent of profits and gains derived from the export of such
+> articles or things or computer software for a period of five consecutive
+> assessment years beginning with the assessment year relevant to the previous
+> year in which the undertaking begins to manufacture or produce such articles
+> or things or computer software, as the case may be, and thereafter, fifty
+> per cent of such profits and gains for further two consecutive assessment
+> years, and thereafter;"
+
+> • The assessee raised an objection before the Hon'ble DRP-1 as follows "The
+> learned Assessing Officer has erred in not granting 100% of the eligible
+> profit as deduction u/s 10A(1A), and confirming the deduction at 90%, which
+> was so claimed by the Company inadvertently." The Hon'ble DRP-1 has
+> discussed this objection at para 14.4. lto 14.4.2 of its order dated
+> 25.09.2014. The Hon'ble DRP has rejected the claim of the appellant in light
+> of the decision of the Hon'ble Supreme Court in the case of Goetze (India)
+> Ltd. 157 Taxmann 1 and stated that "... the tax payer has made the claim
+> that is entitled for 100% deduction u/s 10A for the first time before this
+> Panel.." and " ....the proceedings before the Panel are covered in the
+> Chapter X-IV of the Act titled 'procedure for assessment' and therefore, a
+> new plea of the tax payer cannot be considered by the Panel.... "
+
+> • Thereafter, the Ld. AO passed the final assessment order dated 24.12.2014
+> allowing deduction of the 90% of the eligible profits (on the basis of the
+> draft assessment order).
+
+> • The appellant filed appeal before Hon'ble Delhi Tribunal against the said
+> assessment order. However, the appellant inadvertently / erroneously has not
+> challenged this legal ground while filing such appeal.
+
+> 2\. Under the circumstances, the assessee company raises the following
+> additional ground:
+
+> "The learned DCIT (after incorporating Ld. DRP 's order) has erred in not
+> granting 100% of the eligible profit as deduction u/s 10A(1A), and confining
+> the deduction at 90% only".
+
+> 3\. It is respectfully submitted that the aforesaid additional ground raises
+> a question of law arising from the facts which are already on record of
+> assessment proceedings. Therefore, the appellant may be allowed to raise the
+> aforesaid additional ground of the appeal which may kindly be entertained in
+> the interest of justice as held by the Hon'ble Supreme Court in the case of
+> Jute Corporation of India Ltd. v. CIT, 187 ITR 688 (SC) and also in the case
+> of National Thermal Power Corporation v. CIT, 229 ITR 383 (SC)."
+
+(6.1) The Ld. CIT(DR) did not object to admission of the additional ground of
+appeal in view of the Assessee's contention that relevant facts for
+adjudication of the  Page 102 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+additional ground of appeal are already on record of assessment proceedings.
+Therefore, the additional ground of appeal is admitted. (7) In ground 1(a) of
+appeal, the Assessee has objected to selection of two new comparables, namely:
+Engineers India Ltd. ("EIL" for short) and Mahindra Consulting Engineers Ltd.
+("Mahindra" for short). (7.1) As far as the comparable of EIL is concerned,
+the Ld. Counsel for Assessee contended that this was a Government entity and
+Related Party Transactions exceeded 25%. He submitted that Mumbai Bench of
+ITAT, in the case of Thyssenkrupp Industries India (p.) Ltd. vs. Addl. CIT.
+[2013] 33 taxmann.com 107 (Mumbai - Trib.) affirmed by Hon'ble Bombay High
+Court in [2016] 68 taxmann.com 248 (Bombay), has held: "The second reason is
+that Engineers India Limited earned income from turkey project by successfully
+completing the project of IOCL and other Public Sector Undertakings. In that
+sense of the matter, the related party transactions are much more than the
+filter of 25%. We, therefore, order for the exclusion of this case from the
+list of comparables." The Ld. Counsel for Assessee further submitted that this
+decision of Mumbai Bench of ITAT has been followed by Co-ordinate Benches of
+ITAT, Delhi in the cases of Bechtel India (P.) Ltd vs. DCIT [2016] 66
+taxmann.com 6 (Delhi-Trib.), AT & T Communication Sevices India (P.) Ltd. vs.
+ACIT [2018] 91 taxmann.com 58 (Delhi-Trib.) and Honda Trading Corp. (India)
+(P.) Ltd. vs. DCIT [2014] 44 taxmann.com 333 (Delhi-Trib.). The Ld.  Page 103
+of 112
+
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+Counsel also relied on the decision of Co-ordinate Benches of ITAT, Delhi in
+the case of Eli Lily & Co. (India) Ltd. vs. ACIT [2018] 98 taxmann.com 380
+(Delhi- Trib.) giving the various reasons for rejection of EIL as a comparable
+company. Moreover, the Ld. Counsel for Assessee submitted that the scale and
+size of EIL was not comparable with the scale and size of the Assessee. He
+submitted that the total turnover of EIL was 1984.10 crores, as against the
+appellant turnover of 25 crores (i.e. EIL's turnover is 80 times the turnover
+of appellant company) and further that even, if turnover of Consulting and
+engineering segment is considered, the same is 1055.33 crores, i.e. appx 42
+times the turnover of appellant company. The Ld. Counsel for Assessee
+submitted that the assessee did not own any intangibles, and has not incurred
+any expenditure on R&D etc. He relied on CIT vs. Agnity India Technologies
+(P.) Ltd. [2013] 36 taxmann.com 289 (Delhi HC), Pr. CIT vs. New River Software
+Services (P.) Ltd. [2017] 85 taxmann.com 302 (Delhi HC), Sony Mobile
+Communications International AB vs. DDIT [2016] 69 taxmann.com 404 (Delhi-
+Trib.), United Health Group Information Services (P.) Ltd. vs. DCIT [2018] 90
+taxmann.com 423 (Delhi-Trib.), Keystroke Pro India (P.) Ltd. vs. ITO [2018] 93
+taxmann.com 189 (Delhi-Trib.) and St- Ericsson India (P.) Ltd. vs. Addl. CIT
+[2017] 79 taxmann.com 207 (Delhi- Trib.) for the proposition that company with
+very high turnover should not be considered as a comparable. He further
+submitted that a giant company in terms of risk profile, nature of services,
+number of employees, ownership of branded products  Page 104 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+and brand related profits, etc., could not be compared with Assessee which was
+simply a captive unit rendering services to its AE alone without acquiring any
+intellectual property. The Ld. Counsel for Assessee further submitted that EIL
+had an abnormally high margin at 67.77% which was extremely high compared to
+average margin of Consulting & Engineering Industry, which was 9.79% and he
+contended that EIL cannot be selected as a comparable in view of the
+abnormally high profit margins. The Ld. Counsel for Assessee also submitted
+that the audited accounts of EIL do not contain segmental profit and loss
+account and balance sheet due to which it was not possible to compute the
+working capital adjustment in the case of EIL. Relying on Blackrock Services
+India (P.) Ltd. vs. ACIT [2018] 93 taxmann.com 251 (Delhi-Trib.) and Messe
+Dusseldorf India (P.) ltd. vs. DCIT [2018] 90 taxmann.com 159 (Delhi-Trib.),
+the Ld. Counsel for Assessee contended that EIL cannot be taken as a suitable
+comparable company in the absence of its segmental accounts.
+
+(7.2) The Ld. CIT(DR), in response, submitted that although EIL, a Public
+Sector Undertaking, had rendered services to other Government companies and to
+Government entities; and in that sense had a substantially high ratio of
+Related Party Transactions, yet EIL had to compete with other private sector
+companies and entities to remain in business. Therefore, he contended that the
+fact that EIL had substantially high Related Party Transactions, was not
+relevant. Further, he submitted that merely  Page 105 of 112 ITA
+No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+because EIL had high profitability or because its scale and size was large;
+EIL cannot be rejected as a comparable.
+
+(7.2.1) However, the Ld. CIT(DR) failed to bring any distinguishable facts to
+our notice in respect of the Assessee in appeal before us, to make us consider
+any departure from view already taken by Co-ordinate Benches of ITAT, Delhi in
+respect of EIL as a comparable, in the aforesaid precedents, namely Bechtel
+India (P.) Ltd vs. DCIT (supra), AT & T Communication Sevices India (P.) Ltd.
+vs. ACIT (supra), Honda Trading Corp. (India) (P.) Ltd. vs. DCIT (supra), Eli
+Lily & Co. (India) Ltd. vs. ACIT (supra),Blackrock Services India (P.) Ltd.
+vs. ACIT (supra), and Messe Dusseldorf India (P.) ltd. vs. DCIT (supra). As no
+material differences on facts have been brought for our consideration by the
+Ld. CIT(DR), therefore, respectfully following the precedents in the cases of
+Bechtel India (P.) Ltd vs. DCIT (supra), AT & T Communication Sevices India
+(P.) Ltd. vs. ACIT (supra), Honda Trading Corp. (India) (P.) Ltd. vs. DCIT
+(supra), Eli Lily & Co. (India) Ltd. vs. ACIT (supra), Blackrock Services
+India (P.) Ltd. vs. ACIT (supra) and Messe Dusseldorf India (P.) ltd. vs. DCIT
+(supra); we also hereby hold that EIL is not to be included as a comparable in
+the case of the Assessee in appeal before us.
+
+(7.3) As regards, comparable of Mahindra, the Ld. Counsel for Assessee
+submitted that the issue is squarely covered by order of Co-ordinate Bench of
+ITAT, Delhi in Assessee's own case vide order dated 02/05/2017 in ITA No.
+2133/Del/2014 for AY  Page 106 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+2009-10; wherein ITAT has remanded back this comparable to Ld. TPO/AO to check
+the outsourcing expenses with the directions to exclude this comparable if the
+assessee is able to substantiate its claim that most of the work carried out
+by Mahindra was outsourced whereas the assessee had not or minimal
+outsourcing. The Ld. Counsel for the Assessee submitted that in this year also
+the facts are similar. He drew our attention to the fact that while Assessee
+is rendering services by employing its own employees whereas roughly 16% of
+the activity carried out by Mahindra has been outsourced. Therefore, its
+business model is different from appellant and, hence, cannot be selected as a
+comparable company. He further submitted that Mahindra has been specifically
+excluded by the Hon'ble Delhi Tribunal as the comparable company in view of
+highly technical capabilities of executing infrastructure development projects
+in the cases of Rolls-Royce India(P.) Ltd. vs. DCIT [2016] 69 taxmann.com 426
+(Delhi-Trib.) and Alcatel-Lucent India (P.) Ltd. vs. DCIT [2017] 788
+taxmann.com 157 (Delhi-Trib.). On the other side, the Ld. CIT(DR) submitted
+that this issue may be remanded back to TPO/AO for this year also, as was done
+by Co-ordinate Bench of ITAT, Delhi in Assessee's own case for AY 2009-10. As
+neither side [neither the Ld. Counsel for Assessee, nor the Ld. CIT(DR)] has
+brought any material facts to our attention to distinguish facts and
+circumstances of this year from AY 2009-10; we respectfully follow the order
+of Co- ordinate Bench of ITAT, Delhi in Assessee's own case for AY 2009-10 and
+set aside this issue regarding comparable of Mahindra to the file of TPO/AO
+for fresh order,  Page 107 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+with the direction to exclude Mahindra as a comparable if the assessee is also
+to substantiate its claim that most of the work carried out by Mahindra was
+outsourced whereas the assessee had not or minimal outsourcing. (8) In ground
+1(b) of appeal the Assessee objected to rejection of four comparables selected
+by the Assessee, namely Central Mine Planning & Design Institute Ltd., IOT
+Design & Engg. Ltd., Simon India Ltd. and Petron Engineering Construction Ltd.
+
+(8.1) At the time of hearing before us Ld. Counsel for the Assessee submitted
+that in respect of the first three of these four comparables, the appeal was
+not pressed. He informed that the appeal was being pressed only in respect of
+Petron Engineering Construction Ltd. He submitted that the disputed issue
+regarding selection of Petron Engineering Construction Ltd. as a comparable is
+covered in favour of the Assessee by order of Co-ordinate Bench of ITAT, Delhi
+in Assessee's own case for AY 2009-10. He referred to the following relevant
+portion of order dated 02.05.2017 of Co-ordinate Bench of ITAT, Delhi in
+Assessee's own case for AY 2009-10 in ITA No. 2133/Del/2014 regarding Petron
+Engineering Construction Ltd.: ".... We are of the considered opinion that
+there is no functional dissimilarity between the tested party and the
+comparable as both of them are providing similar services although the sectors
+might be a little different and the Ld. TPO was wrong in excluding it. We
+direct the inclusion of this comparable in the final set of  Page 108 of 112
+ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+comparables." On the other side the Ld. CIT(DR) relied on the order of the
+lower authorities.
+
+(8.1.1) However, the Ld. CIT(DR) failed to bring any material facts to our
+attention to distinguish the facts and circumstances of this year with AY
+2009-10. (8.2) In the absence of any material facts brought to our notice by
+either side to distinguish the facts and circumstances of this year with AY
+2009-10, we respectfully follow the order of Co-ordinate Bench of ITAT, Delhi
+in Assessee's own case for AY 2009-10 and direct the inclusion of Petron
+Engineering Construction Ltd. as a comparable.
+
+(9) The second ground of appeal is against initiation of penalty proceedings
+U/s 271(1)(c) of I.T. Act. However, on perusal of Section 253 of I.T. Act it
+is found that initiation of penalty proceedings U/s 271(1)(c) of I.T. Act is
+not appealable. Therefore, this ground of appeal is not maintainable.
+Accordingly, second ground of appeal is dismissed, being not maintainable.
+
+(10) Coming to the additional ground of appeal, the Ld. Counsel for Assessee
+submitted that the additional ground of appeal raises a question of law
+arising from the facts which are already on record of assessment proceedings.
+He relied on the  Page 109 of 112 ITA No.-654/Del/2015.
+
+Haldor Topsoe India Pvt. Ltd., New Delhi.
+
+cases of Jute Corporation of India Ltd. vs. CIT 187 ITR 688 (SC) and National
+Thermal Power Corporation vs. CIT 229 ITR 383 (SC) in support of prayer for
+admission of the additional ground of appeal. The Ld. CIT(DR) did not oppose
+the admission of the additional ground of appeal. However, he submitted that
+the issue may be restored to the file of the AO for verification with records.
+In National Thermal Power Co. Ltd. vs. CIT 229 ITR 383 (SC), the Hon'ble
+Supreme Court held:"... where the Tribunal is only required to consider the
+question of law arising from facts which are on record in the assessment
+proceedings, there is no reason why such a question should not be allowed to
+be raised when it is necessary to consider that question in order to correctly
+assess the tax liability of an assessee." Respectfully following National
+Thermal Power Co. Ltd. vs. CIT (supra), we admit the additional ground of
+appeal and restore this issue to the file of the AO for fresh order in
+accordance with law after verification of facts from assessment records.
+
+In the result, the appeal is partly allowed.
+
+    
+    
+                 Order pronounced in the open court on       26/12/2018
+    
+           Sd/-                                                Sd/-
+       (BHAVNESH SAINI)                              (ANADEE NATH MISSHRA)
+      JUDICIAL MEMBER                                  ACCOUNTANT MEMBER
+    
+    Dated : 26/12/2018
+    Pooja/-
+    
+    Copy forwarded to:
+       1. Appellant
+    
+    
+                                         Page 110 of 112
+                                                            ITA No.-654/Del/2015.
+                                          Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+    2.   Respondent
+    3.   CIT
+    4.   CIT(Appeals)
+    5.   DR: ITAT
+    
+    
+                                          ASSISTANT REGISTRAR
+                                          ITAT NEW DELHI
+    
+    
+    
+    
+                        Page 111 of 112
+                                                                          ITA No.-654/Del/2015.
+                                                        Haldor Topsoe India Pvt. Ltd., New Delhi.
+    
+    
+    Date of dictation                                           On computer
+                                                                in chamber of
+                                                                member,
+                                                                completed in
+                                                                21.12.2018
+    Date on which the typed draft is placed before the
+    dictating Member
+    Date on which the typed draft is placed before the
+    Other Member
+    
+    Date on which the approved draft comes to the Sr.
+    PS/PS
+    
+    Date on which the fair order is placed before the
+    Dictating Member for pronouncement
+    
+    Date on which the fair order comes back to the Sr.
+    PS/PS
+    Date on which the final order is uploaded on the
+    website of ITAT
+    
+    Date on which the file goes to the Bench Clerk
+    
+    Date on which the file goes to the Head Clerk
+    
+    The date on which the file goes to the Assistant
+    Registrar for signature on the order
+    
+    Date of dispatch of the Order
+    
+    
+    
+    
+                                    Page 112 of 112
+     
+

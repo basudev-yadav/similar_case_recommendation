@@ -1,0 +1,612 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Income Tax Officer, ... vs De Beers India Minerals Pvt. Ltd. on 2 February,
+2007
+
+Equivalent citations: 2008 297 ITR 176 Bang, (2008) 113 TTJ Bang 101
+
+Bench: P Mohanarajan, J S Reddy
+
+ORDER J. Sudhakar Reddy, Accountant Member
+
+1\. All these appeals are filed by the revenue directed against separate but
+identical orders of Commissioner of Income Tax (Appeals)-IV, Bangalore. As the
+issues arising out of these appeals are common, for the sake of convenience
+they are heard together and disposed off by way of this common order.
+
+2\. Facts in brief:
+
+The assessee is a private company engaged in the business of prospecting and
+mining for diamonds and other minerals. A brief note on the activities of this
+company are narrated below for better understanding of the issues that arise
+in these appeals.
+
+3\. Exploration for diamonds is a challenging task as it amounts to "looking
+for needles in hay stacks". Diamonds occur in very low concentrations, even in
+economic diamond mines. Mining grades of diamond pipes are usually about 0.5
+to 1 carat per tonne, which is equivalent to 0.5 to 1 part per million (one
+carat = 0.2 gram, or 5 grams to the carat). Diamond exploration is carried out
+in a variety of ways, depending upon the location and the type of diamond
+deposit sought. Exploration over a large area can be carried out by sampling
+the streams or loam sampling the surface soils looking for indicator minerals
+or by geophysical methods where surface sampling would not be effective
+exploration tool or would be too expensive.
+
+4\. Regional diamond exploration entails the search over hundreds of square
+kilometers (or miles) seeking an economic diamond deposit. The manner in which
+this exploration is carried out depends upon the surface geology and
+topography of the area to be explored. Where there is good stream development,
+usually in hilly or undulating terrain, the main exploration method has been
+by sampling the stream sediments for "kimberlitic Indicator Minerals" (KIM).
+These KIM are special minerals that occur in kimberlite and lamprolite and due
+to their high specific gravity, tend to be concentrated in "trap sites" along
+with other heavy minerals (e.g.gold, tin, sapphires). Stream sampling can
+yield a larger array of KIM including pyrope granet, picrolimenite, chrome
+diopside and chromite. Diamond is rarely recovered during the regional
+exploration sampling of an area.
+
+5\. In areas where the streams are poorly developed, or non-existent, two
+regional exploration methods can be employed. The first is loam sampling and
+the other is geophysical exploration. Loam sampling comprises the collection
+of samples of the surface soil, usually about a 1 cm. thick surface scrape,
+where wind action has concentrated the heavy minerals into a lag layer.
+Samples can be collected on large, usually square, grids with a sample spacing
+of 1,2,3 or 4 km. between samples.
+
+6\. Geophysical exploration in regional diamond exploration has mainly been by
+airborne magnetic(aeromagnetic) and Electro Magnetic (aero EM) surveys but
+additional technologies, such as airborne gravity meters are also beginning to
+be used. In aeromagnetic surveys, an aircraft flies along lines spaced about
+200 to 400 m apart, depending upon the area and the survey requirements. The
+data collected along these "flight lines" is then processed by a geophysicist
+and "anomalies" are identified. If these magnetic or EM anomalies cannot be
+explained by obvious surface features, like wind pumps or buildings, then
+these anomalies will be examined in more detail to see if they may represent a
+kimberlite pipe. If the geophysicist considers that the anomaly may have been
+caused by a pipe, then usually more detailed magnetic surveys are done over
+the magnetic "target".
+
+7\. De Beers India Exploration is in the business of prospecting of minerals.
+De Beers has been granted licences (Reconnaissance Permits) by the State
+Government of Karnataka, Andra Pradesh and Chattisgarh for mineral
+reconnaissance activities. Reconnaisance is the early stage of exploration.
+During the early stage various techniques are employed like:
+
+i). Collection of Steam Samples
+
+ii). Geophysical Survey like the AMS(Airborne Multispectral Scanner Survey).
+EM Survey (Electro Magnetic Survey), Mag Survey etc. Exploration has various
+stages like:
+
+i). The Early Stage - initially for a period of 3-5 years.
+
+ii). Advanced stage for a period of 5-10 years
+
+iii). Feasibility stage 5-10 years.
+
+On an average the time taken from a discovery to production is eight years.
+
+8\. For the purposes of carrying out geophysical survey, De Beers India
+Minerals Pvt. Ltd. (herein after referred as 'De Beers'), the assessee company
+entered into an agreement with M/s. Fugro Elbocon B.V. Netherlands
+(hereinafter referred to as 'Fugro'). "Fugro" had a team of experts who
+specialized in performing air borne geophysical services for clients, process
+the data acquired during the survey and provide necessary reports. The
+services are engaged to conduct the air borne survey for providing high
+quality, high resolution, geophysical data suitable for selecting probable
+kimberlite targets. The important points that emerge from the agreement are as
+follows:
+
+i) 'Fugro' conducted the airborne survey using its specialized equipment.
+
+ii) The helicopter for the survey was hired by 'De Beers',
+
+iii) All the logistics of the survey, such as flight schedule, re-flights
+survey lines, control lines, positioning etc were set by 'Fugro'.
+
+iv) 'Fugro' deputed technical personnel for conducting the survey and
+
+v) The data collected from the survey was provided to 'De Beers' in a
+particular format which is called the Acquisition and Processing Report.
+
+9\. The Assessing Officer treated the consideration paid Fugro under the
+agreement as falling within the definition of 'fees for technical services'
+under the Article 12 of the Indo-Netherlands Double Tax Avoidance Agreement
+(DTAA) read with Section 90 of the Act. Alternatively, he has also held that
+the payment in question was for development and transfer of a technical plan
+or technical design. Thus he held that the assessee had failed to deduct tax
+on the payments made to 'Fugro' and hence treated the assessee deductor as an
+assessee in default. He levied tax under Section 201(1) and interest under
+Section 201(1A) for all the three assessment years. Aggrieved the assessee
+carried the matter in appeal.
+
+10\. The first appellate authority held that the services rendered by 'Fugro'
+to De Beers and the payments made for it are not covered by Article 12(5) of
+the DTAA between India and Netherlands. He held that 'Fugro' is not imparted
+any technology to De Beers and that they have just used the technology and
+have gone back with the same. He also observed that in future if 'De Beers'
+required geological survey of a different area, they will have to engage the
+services of technical expertise like 'Fugro' again. He concluded that no
+technology has been made available to 'De Beers' by 'Fugro' and therefore the
+consideration paid does not fall within the definition of Article 12(5) of
+DTAA between India and Netherlands.
+
+11\. On the issue whether the payment was for the development and transfer of
+a technical plan or a technical design, learned first appellate authority held
+that it cannot be described as plan or design and it was only raw data that
+was supplied. He also observed that the argument relating to the ownership
+data also has merit. Thus he upheld the contention of the assessee that no tax
+was deductible on the payments made to 'Fugro'. Aggrieved the revenue is in
+appeal on the following effective grounds:
+
+The learned CIT(A) has failed to appreciate that the payment made to the non-
+resident towards conducting airborne surveys for providing high quality, high
+resolution geophysical data suitable for selecting probable kimberlite
+targets, is income liable to be taxed as per Article 12 of the DTAA (between
+India and The Netherlands).
+
+The CFT(A) has erred in holding that only the data has been supplied and no
+plan or design has been supplied. Further, the CIT(A) has held that Maps
+cannot be described as plan or designs. In this regard reliance is placed on a
+decision of Supreme Court reported in 253 ITR 274 in the case of Commissioner
+of Custom v. Parasrampuria Synthetics Ltd.
+
+The learned CIT(A) erred in holding that the nonresident company has supplied
+only raw data. The CFT(A) failed to appreciate the objective of the agreement
+which is to get 'suitable data', as per the agreement. Further, the specially
+developed equipment is meant to collect & process the data towards a
+particular end.
+
+12\. Shri B. Chattaraj, learned Departmental Representative argued on behalf
+of revenue and Shri K.R. Shekar, learned Counsel represented the assessee. Mr.
+Chattaraj supported the order of the Assessing Officer whereas Mr. K.R. Shekar
+relied on the order of the CIT(A). The assessee filed a paper book consisting
+of Annexures 1 to 13. Shri B. Chattaraj submitted that, the nature of services
+rendered are professional services under Article 12 of the Indo-Netherlands
+DTAA and alternatively it was for the transfer of a technical plan or design
+and thus tax should have been deducted at source. Shri K.R. Shekar submitted
+that the payments may be business profits under the DTAA but not payments of
+fees for technical services as contemplated under DTAA. Both parties argued at
+length in support of their respective contentions.
+
+13\. We have carefully considered the rival submissions and have perused the
+papers on record as well as the case laws cited. The undisputed fact in this
+case is that the "Fugro" does not have a permanent establishment in India. It
+is also not. in dispute that the payment in question falls under the term
+'technical services' as defined in Section 9(1)(vii) of the Income Tax Act,
+1961. It is also not in dispute that Section 90 of the I.T. Act comes into
+play and that the taxability of the payment in question is based on the
+applicability of Article 12(5) Sub-clause (b) of the DTAA between India and
+Netherlands. The Sub-clause (b) in Article 12(5) of the DTAA which is relevant
+is extracted below:
+
+Article 12: Royalties and Fees for Technical Services:
+
+Payments of any account made to any person in consideration to the rendering
+of services of any technical persons of consultancy nature (including the
+provision of services for technical and other), if such services are.
+
+1 ...
+
+2 ...
+
+3 ...
+
+4 ...
+
+5\. For purposes of this Article, [fees for technical services' means payments
+of any kind to any, person in consideration for the rendering of any technical
+or consultancy services (including through the provisionof services of
+technical or other personnel) if such services:
+
+a) are ancillary and subsidiary to the application or enjoyment of the right,
+property or information for which a payment described in paragraph 4 of this
+Article is received; or
+
+b) make available technical knowledge, experience, skill, know how of process,
+or development as transferred by a technical plan or a technical design
+(Emphasis ours) Both the parties before us have not disputed the fact that the
+Indo-Netherlands DTAA are on the same lines as the DTAA between India and USA.
+In fact, the protocol to the DTAA signed between the parties, states that the
+memorandum of understanding between India and USA would apply mutandis
+mutandis to Article 12 of the Indo-Netherlands DTAA (Ref. Notification S.O.
+693(E) Dt.30.8.1999).
+
+14\. On these facts and circumstances of the case, we formulate the following
+question for consideration:
+
+(a) Whether on the facts and circumstances of the case, the payments made by
+the assessee company "De Beers" to "Fugro", for services rendered by them can
+be said to be a payment for "fees for technical services" within the meaning
+of Article 12(5)(b) of the DTAA between India and Netherlands?
+
+15\. The main question can be, for convenience sub-divided as follows:
+
+a) Whether 'Fugro' has made available technical knowledge, experience, skill,
+know-how or process to 'De Beers'.
+
+b) Whether payment to 'Fugro' was for the development and transfer of a
+technical plan or technical design to 'De Beers'.
+
+The legal position on the first sub-question is by now well settled. In the
+case of C.E.S.C. Ltd. v. DCIT 87 ITD 653 (Kol), Income Tax Appellate Tribunal,
+the Kolkata 'C Bench at pages 675 to 684 at paragraph Nos.9 to 18 have
+considered the matter at length. The example given in the Memorandum of
+Understanding between India and USA which would apply mutandis mutandis to the
+case on hand, have been extracted and considered in this decision and the
+learned 3rd Member concluded as follows:
+
+Paragraph 4(b) of Article 12 refers to technical or consultancy services that
+make available to the person acquiring the services technical knowledge,
+experience, skill, know-how or processes, or consist of the development and
+transfer of a technical plan or technical design to such person. (For this
+purpose the person acquiring the service shall be deemed to include an agent,
+nominee or transferee of such person). This category is narrower than the
+category described in paragraph 4(a) because it excludes any person acquiring
+the service. Generally speaking, technology will be considered made available
+when the person acquiring the service is enabled to apply the technology. The
+fact that the provision of the service may require technical input by the
+person providing the service does not per se mean that technical knowledge,
+skill etc. are made available to the person purchasing the service, within the
+meaning of paragraph 4(b). Similarly the use of a product which embodies
+technology shall not per se be considered to make the technology available.
+
+(Emphasis supplied) At para 17, it was held as follows:
+
+On perusal of Memorandum of Understanding concerning 'fee for included
+services' in Article 12 appended to the DTAA between India and USA with the
+help of the examples, it becomes abundantly clear that the technology would be
+considered made available when the person acquiring the service is enabled to
+apply the technology. The mere fact that the provision of the service may
+require technical input by the person providing the service does not per se
+mean that technical knowledge, skill, etc. are made available to the person
+purchasing the service, within the meaning of Article 12, para 4(b) of DTAA
+between India and U.K.
+
+16\. In the case of Raymond Limited v. DCIT 80 TTJ 120
+
+(a) it was held that mere rendering a service is not included unless the
+person utilizing the service is able to make use of technical knowledge, etc,
+by himself in his business or for his own benefit and without recourse to the
+performer by the services, in future.
+
+(b) There should be a transmission of technical knowledge, experience, skill,
+etc from the person rendering the services to the person utilising the same.
+
+17\. In the case of Nqa Quality System Registrar Limited v. DCIT 92 TTJ 946,
+the Tribunal discussed the clause "make available" and held that when the same
+is used, if technology is transferred through the technical service then alone
+it is taxable. Using technical input in order to provide consultancy service
+will not amount to making available technical knowledge, skill, expertise or
+know-how.
+
+18\. In the case of Meakens & Phyllips v. ACIT (International Taxation) 287
+ITR 227 (AT) (Mumbai), it was held that when there was no material to suggest
+that the payment was for any services which enable the recipients of those
+services to apply the technology itself, it cannot, be concluded that the
+consideration paid for such consultancy services was taxable in India under
+Article 12(4)(b) as included services under the DTAA.
+
+19\. Thus with these precedents on the interpretation of the term 'made
+available', we examine the terms of contract between 'De Beers' and 'Fugro'.
+The following clauses which are relevant are extracted from "The Agreement for
+Geophysical Survey" between 'De Beers' and 'Fugro':
+
+I. General conditions:
+
+Clause 1.3: The Contractor shall perform and execute all work and services
+required pursuant to this survey in a professional and work manlike manner,
+and in compliance with all applicable laws, regulations, acts and notices of
+any Federal, Provincial, territorial or local government or any agency
+thereof.
+
+Clause 1.15: All information and data to any site on which any work or
+services are performed under the Agreement (collectively "information") shall
+belong exclusively to the Client and its assigns and the contractor shall keep
+such information strictly confidential. All information recorded in digital
+and analog form and all products derived from information are the property of
+the Client. The Contractor agrees (i) not to divulge any information to any
+person or organization without the written permission of the Client personnel
+who are specified by the Client as appropriate persons to whom the Contractor
+may provide information.
+
+II. Objective The objective of the survey will be to provide high quality,
+high-resolution geophysical data suitable for selecting probable kimberlite
+targets.
+
+It is understood that the 100m line spacing data will be used to identify
+anomalies and position exploration drill holes. The integrity of the
+positional (both horizontal and vertical) information is vital.
+
+The Client acknowledges the Contractor to be an expert in all aspects of the
+airborne survey and subsequent data processing. It is thus accepted that all
+the operations, tests and calibrations will be carefully undertaken to ensure
+the highest possible data quality and to meet or exceed the specifications
+described in this Agreement. It is the responsibility of the Contractor to
+take the appropriate action to maintain the level of data quality.
+
+Furthermore, it is understood that the logistical operation of he survey (that
+is flight planning, fuel requirements etc.) is the responsibility of the
+Contractor unless expressly stated otherwise in this Contract. The Client will
+provide logistical support where applicable and when mutually agreed upon in
+writing with the contractor (either within the contract or as an addendum to
+it).
+
+III. Final Products:
+
+Within 30 days following delivery of preliminary products the following
+nrnducts will be made available to the Client:
+
+    
+    
+             Final Products                 Media                 Quantity
+         All analog flight records            Paper                    1
+      Flight logs (Flight to be            Digital                  1
+      included in digital form along
+      with final report)
+      Final Data Archive as specified      Digital                  5
+      in Appendix 12.2
+      Black and White contour maps         Paper                    5
+      of magnetics as specified in
+      Appendix 12.3
+      Black and White Contour              Paper                    5
+      maps of themed frequency co-
+      planner resistively as specified
+      in Appendix 12.3
+      Final report (includes as            Report                   5
+      appendices, Tests and Digital
+      Calibration report, Logistics
+      Report)   
+     
+    
+    
+
+It is imperative that the Final Data be fully checked and validated before
+shipment to the Client. The Client will return all data without further QC
+procedures if errors are found due to improper checking by the Contractor.
+
+IV. Payment Schedule:
+
+    
+    
+      On Agreement Signing                         10.0% of estimated Costs.
+    On mobilization                              Mobilisation cost
+    On first successful flight                   30% of estimated cost
+    On completion of flying and                  30% of estimated cost
+    accepting the digital data
+    On delivery of final products                Outstanding balance
+     
+    
+    20. A perusal of these clauses show that.
+      
+    
+    a) The consideration paid under the agreement to 'Fugro' was essential for providing specific data for which 'Fugro' was required to conduct the air borne survey.
+     
+    
+    b) The technicians from Fugro have conducted the survey, as per the survey specifications by flying on a helicopter hired by De Beers.
+     
+    
+    
+
+c) The specialized equipment, technicians, technical knowledge and other
+intangibles were always owned by Fugro and have never been transferred or
+imparted to De Beers. De Beers is not in a position to utilize the specialized
+equipment or technical knowledge.
+
+d) All the logistics of the survey such as flight schedule, re-flights, base
+stations, survey lines, contour lines, positioning etc. was set by Fugro
+according to its own technical expertise.
+
+e) All the information and data on any site on which survey was performed in
+accordance with the agreement, exclusively belonged to 'De Beers' and 'Fugro'
+is bound by confidentiality contract clause. All information recorded in
+digital or analog formats and all products derived from information are the
+property of 'De Beers' to the exclusion of 'Fugro'.
+
+21\. On an application of these facts to the propositions already culled out
+above, we have no hesitation whatsoever, in upholding the findings of the
+first appellate authority that the payment in question for the services
+rendered would not fall within the term 'fees for technical services' under
+Article 12(5) of the India and Netherlands DTAA. 'Fugro' has surveyed,
+collected and processed the data on behalf of De Beers. There is no doubt that
+'Fugro' performed the services using substantial knowledge and expertise but
+such technical experience, skill or knowledge has not been made available to
+'De Beers',
+
+22\. As already stated, as per the protocol signed between India and
+Netherlands, the Memorandum of Understanding entered into between India and
+USA would apply mutandis mutandis to Article 12 of Indo-Netherlands DTAA.
+Example 7 given in the Memorandum of Understanding between India and USA is
+relevant and is extracted below for ready reference:
+
+Example 7 Facts:
+
+The Indian vegetable oil manufacturing firm has mastered the science of
+producing cholesterol-free oil and wishes to market the product world-wide. It
+hires an American Marketing consulting firm to do a computer stimulation of
+the world market for such oil and to advice it on marketing strategies. Are
+the fees paid to the US company for included services?
+
+Analysis:
+
+The fees would not be for included services. The American company is providing
+a consultancy service which involves the use of substantial technical skill
+and expertise. It is not, however, making available to the Indian Company any
+technical experience, knowledge or skill etc. Nor is it transferring a
+technical plan or design. What is transferred to the Indian company through
+the service contract is commercial information. The fact that technical skills
+were required by the performer of the service in order to perform the
+commercial information service does not make the service a technical service
+within the meaning of paragraph 4(b).
+
+23\. Mr. K.R. Shekar has also quoted an example during the course of his
+arguments which we feel is relevant and applicable to this case. When a
+patient visits a Doctor and the Doctor advise him to undergo various tests.
+The patient does so. In the course of performing the scan tests, the scan
+center used certain equipment. The scan center is actually provided the
+service. The patient, is interested in the end result i.e. report of the test
+and not in the technical know-how that is used in the scan report. Such
+technical knowledge is not passed on to the patient. If the patient requires
+the scan report again, he would require to get the report done once again and
+he cannot do it by himself. Technical skill, knowledge, know-how or experience
+is not passed on, though it is utilized in preparing the report.
+
+24\. Thus we concur with the findings of the first appellate authority and
+answer the first sub-question in favour of the assessee and against the
+revenue by holding that the payment made for 'fees for technical services'
+does not fall within the ken of Article 12(5)(b) of DTAA between India and
+Netherlands, for the reason that 'Fugro' has not made available technical
+knowledge, experience, skill, know-how or process to 'De Beers' while
+providing the service. Thus, this question is answered in the negative in
+favour of the assessee and against the revenue.
+
+25\. Now we come to the second question. Before we go into the issue, we dwell
+on the meaning of the words 'design, plan and technical':
+
+The term 'Plan' has been defined in Advanced Law Lexicon as:
+
+A plan is a design, a delineation, or projection on a plane surface of a
+structure, which is reduced in size, the relative position of which, and the
+proportions, being preserved.
+
+A plan is a draft or form of representation of a horizontal section of
+anything, as of building or machinery. Its synonyms are "draft",
+"delineation", "sketch" and "design".
+
+Design:
+
+The term 'design' mean 'features of shape, configuration, pattern or ornament
+applied to any article and appealing to and not dictated solely by the
+function the article has to perform, copyright may be obtained on registration
+for new and original designs' - Great Encyclopaedic Dictionary, Vol.III page
+1168.
+
+26\. The Supreme Court in the case of Commissioner of Customs v. Parasrampuria
+Synthetics Ltd. 2002-(253)-ITR-0274-SC, has analysed the meaning of plan and
+design as follows:
+
+Let us first analyse as to the true grammatical meaning of the words included
+in serial No. 15 to wit: "plan, drawings and designs", "plan" in common
+acceptation means "a drawing or diagram made by projections on horizontal
+plane". The Law Lexicon attributes it to be a design or a sketch and is a
+draft or form of representation and its synonyms are sketch and design. Corpus
+Juris Secundum (vol.70) attributes a meaning in similar vein as "a draft or
+form of representation of a horizontal section of anything, as of machinery; a
+map...a scheme; a project; also a method of action, procedure or arrangement."
+Expression, viz., "design" in popular parlance is used as a synonym with plan
+and includes a sketch. Some times it has also been held to be synonymous with
+"figure". The expression "design" has within its ambit many facets including a
+criminal design which connotes an evil desire. Obviously the exemption
+notification can not possible mean and imply a meaning which can be attributed
+to be an evil one.
+
+The three words "plan, drawing and design" however, convey more or less a
+common attribution and identical meaning....
+
+27\. The term "design" in the Advanced Law Lexicon has been defined to mean:
+
+Design means only the features of shape, configuration, pattern or ornament
+applied to any article by any industrial process or means, whether manual,
+mechanical or chemical, separate or combined, which in the financial article
+appeal to and are judged solely by the eye; but does not include any mode or
+principle of construction or anything which is in substance a mere mechanical,
+and does not include any trade mark as defined in clause (v) of Sub-section
+(1) of Section 2 of the Trade and Merchandise Marks Act, 1958, or propriety
+mark as defined in Section 479 of the Indian Penal Code, A plan or scheme
+conceived in the mind of something to be done; a scheme formed to the
+detriment of another; a drawing or sketch.
+
+The term 'technical' in a broader sense means 'belonging or relating to an art
+or arts; appropriate or peculiar to, or characteristic of a particular art,
+science, profession, or occupation'. But the narrow meaning is 'also of or
+pertaining to the mechanical arts and applied sciences'.
+
+28\. The term "Technical" has been defined in the Advanced Law Lexicon to
+mean:
+
+Technical: Peculiar to a particular art, science or craft (as) technical
+skill; technical school or education, "Technical Work" is a phrase of
+substantially wider import than 'scientific work'. No doubt all scientific
+work may be said to be 'technical', but the converse by no means necessarily
+applies'.
+
+29\. In the present case 'Fugro' compiles the data and process them for error
+correction and deliver it to De Beers in a computer readable media. Using the
+raw input data provided by 'Fugro', the recipient assessee i.e. De Beers using
+further process in software technology (which are not owned or provided by
+'Fugro') generates a report to determine probable targets. Thus the payments
+to 'Fugro' cannot be considered to the payments for technical, plan and design
+much less, for the development and transfer of them. 'Fugro' is engaged in
+providing services relating to collection and processing of data which always
+belonged to 'De Beers'. The purpose of agreement is, for provision of services
+and not for supply or transfer of technical plan or design. The reports and
+maps are only an additional mode of report of data and cannot be construed as
+technical plan or technical design. The payments made to 'Fugro' cannot be
+considered as 'fees for technical services' as such payments are not in
+consideration for the development and transfer of technical plan and technical
+design.
+
+30\. Meanings of the words 'development' and 'transfer'--
+
+The term "development" has been defined in the Advanced Law Lexicon to mean:
+
+The act, process or result of developing or growing or causing to grow; the
+state of being developed" happening. The word 'transfer' means the passage of
+a right from one individual to another. According to the ordinary dictionary
+meaning as appearing in Murrays' Oxford Dictionary, Volume II p.257 transfer
+means "to convey or make over title, right or property by deed or legal
+process
+
+31\. Under Section 2(47) of the Act, the term "transfer", in relation to a
+capital asset, includes:
+
+i) "the sale, exchange or relinquishment of the asset; or
+
+ii) the extinguishment of any rights therein; or
+
+iii) the compulsory acquisition thereof under any law; or
+
+iv) ...
+
+In the case of Sunil Siddharthbhai v. Commissioner of Income-tax Kartikeya 156
+ITR 509(SC), the Hon'ble Supreme Court held that:
+
+In the general sense, the expression "transfer of property" connotes the
+passing of rights in property from one person to another. In one case, there
+may be a passing of the entire bundle of rights from the transferor to the
+transferee.
+
+Under the Transfer of Property Act, 1882, the term "transfer" means any act by
+which a living person conveys property, I present or in future, to one or more
+living persons, or to himself and one or more other living persons; and "to
+transfer property" is to perform such act.
+
+32\. It may be noted that Article 12(5)(b) of the India - Netherlands DTAA
+reads "make available technical knowledge, experience, skill, know-how or
+processes or consist of the development and transfer of a technical plan or
+technical design".
+
+(Emphasis own)
+
+33\. The word used in the above definition is "and" and not "or". Where
+certain provisions are separated by the use of conjunction 'and', those
+provisions are to be read cojointly. Where the intention of the legislature is
+clear, 'and' may be read as 'or' even though the result is less favourable to
+the subject. The use of 'conjunctive' and the disconjunctive or', one for the
+other, is permissible where liberal interpretation would be the intention of
+the legislature or the object of the act. In the present context the words
+'development' and transfer' should be read cqjointly.
+
+34\. As per para 1.1.5 of Agreement between 'De Beers' and 'Fugro', the
+ownership of all information and data was always with 'De Beers' and 'Fugro'
+is bound by confidential clause. When the ownership of data is always with 'De
+Beers', there cannot be transfer of property from 'Fugro' to 'De Beers'.
+'Fugro' has not developed or transferred any technical plan or design to 'De
+Beers' so as to attract Article 12(5)(b) of the India and Netherlands DTAA.
+Thus on this issue also we agree with the findings of the first appellate
+authority. Thus we answer the second question is in the negative, in favour of
+the assessee and against the revenue. In the result all the appeals of revenue
+are dismissed.
+

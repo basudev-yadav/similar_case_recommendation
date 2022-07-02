@@ -1,0 +1,345 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Freescale Semiconductor India ... vs Assessee on 31 October, 2014
+
+    
+    
+                   IN THE INCOME TAX APPELLATE TRIBUNAL
+                        DELHI BENCHES : "I" NEW DELHI
+    
+                     BEFORE SHRI J.SUDHAKAR REDDY, AM
+                          AND SHRI C.M.GARG, JM
+    
+                               IT(TP)A No. 5865/Del/2012
+                                         AY : 2007-08
+    
+     Freescale Semiconductor India P.Ltd.      vs.    DCIT, Circle 8(1)
+     13, Abul Fazal Road                              New Delhi
+     Bengali Market
+     New Delhi 110 001
+    
+     PAN: AAACZ 1978 P
+    
+     (Appellant)
+                             Appellant by
+                                        : Shri S.D.Kapila, Adv.
+                                        Sh. R.R.Maurya, Adv. And
+                                        Sh. Sanjay Kumar, Adv.
+                         Respondent by: Sh. Peeyush Jain, CIT, D.R.
+                             And Shri Yogesh Verma, CIT, DR
+    
+                                     ORDER
+    
+
+PER J.SUDHAKAR REDDY, ACCOUNTANT MEMBER This is an appeal filed by the
+assessee directed against the order of the Ld.CIT(Appeals)-XX, New Delhi dated
+25.9.2012.
+
+2\. Facts in brief:- Freescale Semiconductor India P.Ltd. is a private limited
+company registered in India and is a wholly owned subsidiary of Freescale
+Semiconductor Inc. USA.
+
+The Company was incorporated on March 24, 2005 and provides services mainly to
+its associate enterprises. It has a STPI unit at Noida and another STPI unit
+located at Bangalore on which it is claiming deduction under section It is
+also has an office in Bangalore which provides market of its associated
+enterprises. In the return of income, appellant claimed deduction under
+section lOA of the amounting to Rs.19,32,lO.124/-. The segmental ITA No.
+5865/Del/2012 AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+workings as per the TP report of the software division and Market Support:
+Services division arc given in Table 1 below: Table 1 :
+
+    
+    
+    
+    Description            Software                   Market support         total
+                           development                services
+                           services
+    Operating revenue      1,897,845,346              36,036,693             1,933,882,039
+    (equal to
+    international
+    transactions)
+    Operating costs        1,715,829,585              33,549,556             1,749,379,141
+    Operating Profit       182,015,761                2,487,137              184,502,898
+    (PBIT)
+    Operating Profit to    11.00%                     7.00%                  10.55%
+    cost ratio
+    Number of              18                         7
+    comparable as per
+    TP study
+    OP/TC Margin           13.00%                     11.00%
+    (based on weighted
+    average for three
+    years)
+    
+    
+         The approach adopted by the tax payer:
+    
+
+In the TP study, the appellant created two segments as mentioned in Table 1
+above. Operating Profit/Total Cost (OP/TC) was selected as the Profit Level
+Indicator (PLI) under Transactional Net Margin Method (TNMM) as the most
+appropriate method. The appellant had used 18 comparables in the software
+segment which had a margin of 13% (based on three year's weighted average) and
+7 comparables in Market Support Services segment with a margin of 11% (based
+on three years weighted average) [see Table 1 above]. Therefore, the margin
+earned by the appellant was held to be at arm's length by the TP study.
+
+The approach adopted by the TPO: 5.3. The TPO rejected the comparable analysis
+conducted by the appellant. TPO also gathered information from various
+industry studies to understand the business profile of the industry. TPO
+arrived at his own independent conclusions based on such studies. He rejected
+some of the comparables of the appellant. The TPO conducted a fresh search for
+the comparables. While doing so, TPO used different quantitative filters to
+find a closer set of comparable companies. In the process, TPO used power u/s
+133(6) to gather additional information from some of the  2 ITA No.
+5865/Del/2012 AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+comparable companies. TPO issued a detailed show cause notice to the
+appellant. The appellant replied to such show cause notices. The 1 PO
+considered the reply filed by the appellant before passing the order. TPO used
+single year data and allowed working capital adjustments. The TPO merged both
+the segments of the appellant by stating that the market support service
+segment is not having significant transaction and they are interrelated. TPO
+followed the order of the earlier years of his predecessors so far as clubbing
+of these two segments are concerned. The margins as determined by the TPO are
+given in the Table 2 below:
+
+Description Software development services and market support services segment
+Number of comparables as per TPO 27 OP/TC margin (based on single year 23.28%
+(page no.161 of the TPO data and after working capital order) adjustment)
+
+3\. The Ld.Counsel for the assessee Sri S.D.Kapila submitted that the facts of
+the case of the assessee are similar to the facts of the case of M/s Motorola
+Solutions India Pvt.Ltd.(Motorola for short), which case was adjudicated by
+the Delhi 'I' Bench of the Tribunal in ITA No.5637/Del/2011 vide order dt.
+14.8.2014. He pointed out that the AY involved in the case of the assessee as
+well as in the case of Motorola is AY 2007-08 and FAR of the tested party is
+the same in both cases. He further submitted that the T.P.O. selected the same
+26 comparables in both the cases for the purpose of bench marking. Hence his
+submission is that the comparables picked up by the TPO in both the cases
+being the same, the decision of the Tribunal in the case of Motorola on each
+of these comparables has to be followed in the case of the assessee. He
+submitted that he is not pressing ground no.4 and the second part of ground
+no.2, which pertains to enhancement made by the  3 ITA No. 5865/Del/2012 AY:
+2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+Ld.CIT(Appeals) for the reason that the Ld.CIT(Appeals) has rectified his
+order u/s 154 of the Act.
+
+4\. The Ld.Counsel for the assessee further submitted that, ground no.1 is
+general in nature and ground no.3 also is not pressed. Ground no.11 was also
+not pressed by the Ld.Counsel for the assessee without prejudice to his rights
+to raise this issue during proceedings in future years. The reason for not
+pressing this ground for the current year was smallness of the amount.
+
+Thus this ground is dismissed with a rider that the decision shall not be a
+precedent. All other grounds relate to inclusion of certain comparables by the
+TPO, as upheld by the Ld.CIT(Appeals).
+
+5\. The Ld.D.R. Mr.Peeyush Jain, on the other hand, opposed the contentions of
+the assessee. He submitted that:
+
+> (a) On the issue of employee cost filter, the TPO had laid down that all
+> companies which have employee cost which is greater than 25% of their total
+> revenues would be taken as comparables and this view of the TPO was upheld
+> by the Delhi Bench of the Tribunal in the case of Navisite India Pvt.Ltd.,
+> in ITA no.2329/Del/2012 2013-TII-153-ITAT- DEL-TP. He pointed out that the
+> author of the order in the case of Navisite India Pvt.Ltd. and in the case
+> of Motorola (supra) was the same.
+
+> (b) He relied on the decision of the Delhi 'A' Bench of the Tribunal in the
+> case of Avaya India (P) Ltd. in ITA No. 5150/Del/2010 (2011-TII-139- ITAT-
+> DEL-TP) specifically at para 19 and submitted that it was the TPO in that
+> case who fixed the range of 30% to 60% for picking up comparables with
+> filter of wages to sales ratio and it was only this decision of the TPO
+> which was upheld. He further relied on the case of Vedaris Technology
+> Pvt.Ltd. ITAT Delhi "H" Bench of the Tribunal in  4 ITA No. 5865/Del/2012
+> AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+> ITA 4372/Del/2009 order dt. 31.3.2010 specifically at para 5.3. The sum and
+> substance of his submission is that the Tribunal in its order in the case of
+> Motorola had not considered the Coordinate Bench Order in the case of
+> Navisite (supra) and had wrongly relied on the case of Avaya India (P) Ltd.
+> (supra) as it was a case where the range was picked up by the TPO and not by
+> the Bench of the ITAT. He further submits that if a range has to be applied,
+> then if the employee cost is more than 90%, then the range of + 15% would be
+> an absurd proposition.
+
+> (c) On the decision of the Tribunal in the case of Motorola that certain
+> comparables have to be excluded for the reason that they have created in-
+> house assets resulting in higher profitability, Mr.Jain submits that the
+> position of intangibles by itself can not lead to a conclusion that the
+> comparable should be eliminated. He relied on the decision of the Hyderabad
+> Bench of the Tribunal in the case of Deloitte Consulting India Pvt.Ltd. in
+> ITA 1082, 1084/H/10 vs. DCIT. He further submitted that comparables cannot
+> be eliminated on the ground of high turnover and for this proposition he
+> relied on the judgement of Delhi High Court in the case of Agnity India
+> Technologies (P) Ltd. 262 CTR (Delhi) 291.
+
+> (d) On the issue of elimination of Persistent Systems India Ltd. On the
+> ground that there are extra ordinary circumstances (acquisitions), he argued
+> that if the acquisition or merger is of a company which is in the same line
+> of business, then there should not be any difference and the elimination
+> should not be there. On the exclusion on the ground that there is no
+> credible information u/s 136, he submitted that the matter may be restored
+> to the AO for fresh adjudication. On the criteria for exclusion adopted in
+> the case of Motorola on the filter of related party transaction (hereinafter
+> referred to as RPT) he submitted that the filter adopted by the TPO has to
+> be upheld.
+
+6\. Joining the issue, the Ld.Counsel for the assessee submitted that on
+search, it is revealed that there is no software company which spends more  5
+ITA No. 5865/Del/2012 AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+than 70% towards employees cost and hence the argument of the Ld.D.R.
+
+that 15% range would result in absurd results if employee cost is 90% does not
+hold water. He argued that the range determined by the Bench in the case of
+Motorola is more scientific approach in picking up comparables. He contended
+that the Tribunal has dealt at length on the issue of intangibles and other
+assets used by each of the comparable and after detailed reasoning, came to a
+conclusion that these comparables should be eliminated. On a query from the
+Bench he agreed that in the case where employee cost filter has to be applied,
+the issue if necessary, may be restored to the file of the TPO for
+verification.
+
+7\. Rival contentions heard. On a careful consideration of the facts and
+circumstances of the case, on perusal of material on record, order of lower
+authorities and case laws cited, we hold as follows.
+
+8\. We are bound by the order of the Co-Ordinate Bench of the Tribunal in the
+case of "Motorola"(supra) for the reason that the facts as well as the order
+of the T.P.O. are identical.
+
+8.1. We now consider each comparable by referring to the order of the ITAT in
+the case of "Motorola"(supra).
+
+(i) Accel Transmatic Ltd.:- The Tribunal in the case of Motorola Sales (supra)
+at para 89 restored the issue to the file of the TPO to consider the
+inclusion/exclusion of this comparable depending upon the finding of RPT.
+Consistent with the view taken therein, we restore the matter to the file of
+AO for following the decision of the Tribunal in the case of Motorola (supra).
+
+6
+
+ITA No. 5865/Del/2012 AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+(ii) Avani Cimcon Technologies Ltd:- The Tribunal directed exclusion of this
+comparable for the reason that it own certain softwares developed by it and
+the revenues earned are not merely on account of development of new software
+from scratch but because of utilisation of own software also. It held that the
+asset base of the company could not be compared with that of the tested party.
+Consistent with the view taken by the ITAT in the case of Motorola (supra), we
+direct the TPO to exclude this company from the list of comparables.
+
+(iii) Celestial Labs:- The Tribunal observed that Celestial Labs is mainly
+into software development services, in as much as, R&D facilities have been
+used by it in relation to development of a software for discovery of new
+drugs. It was engaged in bioforma and biotech manufacturing of customised
+I.T.solutions, manufacturing of trucks, and contract research activities. At
+para 93.2 of the ITAT order, the reasons are given as to why this company
+should be excluded from the comparables. Consistent with the view taken
+therein we direct the AO to exclude this comparable
+
+(iv) KALS Information Systems:- At para 94.1 the Tribunal directed the AO to
+exclude this comparable on the ground that there is a difference in the asset
+base of both the companies. We follow the same and direct the AO to exclude
+this comparable.
+
+(v) E-Zest Solutions:- We restore this issue to the file of the TPO to examine
+the reply of the assessee and adjudicate the matter afresh as was done in the
+case of Motorola (supra).
+
+(vi) Flextronic Software Systems Ltd.:- At para 97.2 the Tribunal in the case
+of Motorola (supra) held that the company cannot include a comparable as there
+is a clear contradiction in the contents of the annual report and the
+information obtained u/s 136, hence this comparable has to be excluded for the
+same reason.
+
+(vii) Infosys Technologies Ltd.:- The reasons given in this comparable has to
+be excluded by following the decision of the Jurisdictional  7 ITA No.
+5865/Del/2012 AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+High Court in the case of CIT vs. Agnity India Technologies Pvt.Ltd.(2013) 262
+CTR (Del) 291.
+
+(viii) Ishir Infotech Ltd.:- Consistent with the view taken in Motorola
+(supra) we restore the matter to the file of the AO to provide information
+obtained u/s 133(6) to the assesse and thereafter decide the issue de novo.
+
+(ix) Helios & Matheson Information Technologies Ltd.:- For the reasons given
+while restoring the matter in Asian Infotec Ltd., we restore this comparable
+also to the file of the TPO.
+
+(x) Lucid Software Ltd.:- As the comparable has been excluded by the TPO
+himself for the AY 2008-09 the TPO is directed to exclude the comparable as in
+the case of Motorola (supra).
+
+(xi) Sasken Communication Technologies Ltd.:- The company has to be excluded
+as it owns IPRs and had branded products by following the decision of the
+Tribunal in the case of Motorola (supra) at para
+
+111\.
+
+(xii) Tata Elxis Ltd.:- The Tribunal directed the exclusion of this comparable
+for the reason that the software developed by this company were used as tools
+in development of new softwares at para 113.1 of the order. Consistent with
+the view taken therein, we direct the AO to exclude this comparable.
+
+(xiii) Wipro Ltd.:- For the reasons given while directing exclusion of Infosys
+Ltd., as a comparable we direct the AO to exclude this comparable also.
+
+(xiv) Persistent Systems Ltd.:- This should be excluded on the same grounds on
+which the Ld.CIT(A) has excluded the case of Megasoft.
+
+8
+
+ITA No. 5865/Del/2012 AY: 2007-08 M/s Freescale Semiconductor India Pvt.Ltd.
+
+9\. The sum and substance of our order is that the TPO as well as the AO are
+directed to follow the judgement of "I" Bench of the Tribunal in the case of
+Motorola (supra) and pass consequential order.
+
+10\. In the result the appeal of the assessee is allowed in part.
+
+Order pronounced in the Open Court on 31st October,2014.
+
+    
+    
+                 Sd/-                                                    Sd/-
+    
+            (C.M. GARG)                                       (J.SUDHAKAR REDDY)
+          JUDICIAL MEMBER                                     ACCOUNTANT MEMBER
+    
+    Dated: the 31st October, ,2014
+    
+    *manga
+    
+    
+    
+    
+    Copy of the Order forwarded to:
+     1.    Appellant;
+     2.Respondent;
+    3.CIT;
+     4.CIT(A);
+    5.DR;
+     6.Guard File
+    
+                                                                     By Order
+    
+    
+    
+    
+                                                                  Asst. Registrar
+    
+    
+    
+    
+                                                                                    9
+     
+

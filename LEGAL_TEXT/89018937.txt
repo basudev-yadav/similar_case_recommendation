@@ -1,0 +1,183 @@
+
+
+Delhi High Court
+
+Cit vs Agnity India Technologies Pvt Ltd on 10 July, 2013
+
+Author: Sanjiv Khanna
+
+    
+    
+    $~09
+    *    IN THE HIGH COURT OF DELHI AT NEW DELHI
+    
+                                         Date of decision: 10th July, 2013
+    
+    
+    +                        ITA 1204/2011
+    
+    
+          CIT                                               ..... Appellant
+                             Through     Ms. Suruchi       Aggarwal, sr.
+                             standing counsel.
+    
+    
+                             versus
+    
+    
+          AGNITY INDIA TECHNOLOGIES PVT LTD..... Respondent
+                        Through     Mr. G.C. Srivastava and Ms.
+                        Preeti Bhardwaj, Advocates.
+    
+          CORAM:
+          HON'BLE MR. JUSTICE SANJIV KHANNA
+          HON'BLE MR. JUSTICE SANJEEV SACHDEVA
+    
+    
+    SANJIV KHANNA, J. (ORAL)
+    
+
+This appeal by the Revenue, which pertains to the assessment year 2006-07, in
+the case of Agnity India Technologies Pvt. Ltd. raises a short issue. The
+respondent-assessee is a wholly owned subsidiary of Bay Packets Inc., USA and
+was/is engaged in the business of development of software for the parent
+company in the field of telecommunication. The respondent had filed return of
+income on 30th November, 2006 declaring total income of Rs.8,31,720/-. As
+respondent-assessee had undertaken international transactions with "Associated
+Enterprise" details of which were mentioned in the tax audit report, the
+matter was referred to Transfer Pricing Officer (TPO) to determine the fair
+market value of the international transactions. TPO opined that adjustment of
+Rs.3,73,74,985/- would be justified to bring it in line with arm‟s length
+value. Addition of the aforesaid amount was suggested in the draft assessment
+order which was examined by the Dispute Resolution Panel before whom the
+respondent-assessee had filed objections. Dispute Resolution Panel vide order
+dated 17th June, 2010 directed the Assessing Officer to re- compute the arm‟s
+length value by taking the ratio of operating profit to the total cost at
+25.6%. This resulted in an addition of Rs.1,24,01,451/-.
+
+3\. Before the TPO, the respondent-assessee was asked to re-work the list of
+comparables and the same was reduced to 20. TPO also directed inclusion of
+Infosys Technologies Ltd. in the said list. The TPO in the final analysis has
+taken the comparables as under:-
+
+> "
+    
+    
+                         "S.No. Name                     OP/TC (%)
+    
+                     1          Satyam Computer Service 30.07
+                                Ltd.
+                     2          L&T Infotech Ltd..      11.11
+    
+                     3          Infosys Technologies Ltd. 40.08
+                        Arithmetic mean                                27.08
+    
+                                                                                    "
+    
+    
+
+4\. One of the companies which was included by the TPO was Satyam Computer
+Services Ltd. Dispute Resolution Panel excluded the said company from the
+comparables for obvious reasons.
+
+5\. The tribunal has observed that the assessee was not comparable with
+Infosys Technologies Ltd., as Infosys Technologies Ltd. was a large and bigger
+company in the area of development of software and, therefore, the profits
+earned cannot be a bench marked or equated with the respondent, to determine
+the results declared by the respondent- assessee. In paragraph 3.3 the
+tribunal has referred to the difference between the respondent-assessee and
+Infosys Technologies Ltd. For the sake of convenience, we are reproducing the
+same:- "
+
+    
+    
+    
+    Basic Particular      Infosys Technologies Ltd.              Agnity India
+    
+    Risk Profile          Operate as full-fledged risk taking Operate at minimal risks as
+                          entrepreneurs                       the 100% services are
+                                                              provided to AEs
+    Nature of Services    Diversified-consulting, application Contract Software
+    
+
+design, development, re-engineering Development Services.
+
+    
+    
+                          and maintenance system integration,
+                          package         evaluation      and
+                          implementation and business process
+                          management, etc. (refer page 117 of
+                          the paper book)
+    Revenue               Rs.9, 028 Crores                    Rs.16.09 Crores
+    
+    Ownership        of Develops/owns proprietary products
+    
+
+branded/proprietary like Finacle, Infosys Actice Desk, products Infosys
+iProwe, Infosys mConnect, Also, the company derives substantial portion of its
+proprietary products (including its flagship banking product suite „Finacle‟)
+Onsite Vs. Offshore -As much as half of the software The appellant provides
+only development services rendered by offshore services (i.e., Infosys are
+onsite (i.e., services remotely from India) performed at the customer‟s
+location overseas). And offshore (50.20%) (Refer page 117 of the paper book)
+than half of its service, income from onsite services.
+
+    
+    
+    Expenditure      on Rs.61 Crores                            Rs. Nil (as the 100%
+    Advertising/Sales                                           services are provide to AEs)
+    promotion       and
+    brand building
+    Expenditure      on Rs. 102 crores                          Rs. Nil
+    Research          &
+    Development
+    Other                                                       100% offshore (from India)
+    
+                                                                                          "
+    
+    
+
+6\. Learned counsel for the Revenue has submitted that the tribunal after
+recording the aforesaid table has not affirmed or given any finding on the
+differences. This is partly correct as the tribunal has stated that Infosys
+Technologies Ltd. should be excluded from the list of comparables for the
+reason latter was a giant company in the area of development of software and
+it assumed all risks leading to higher profits, whereas the respondent-
+assessee was a captive unit of the parent company and assumed only a limited
+risk. It has also stated that Infosys Technologies Ltd. cannot be compared
+with the respondent- assessee as seen from the financial data etc. to the two
+companies mentioned earlier in the order i.e. the chart. In the grounds of
+appeal the Revenue has not been able to controvert or deny the data and
+differences mentioned in the tabulated form. The chart has not been
+controverted.
+
+7\. Learned counsel for the appellant Revenue during the course of hearing,
+drew our attention to the order passed by the TPO and it is pointed out that
+based upon the figures and data made available, the TPO had treated a third
+company as comparable when the wage and sale ratio was between 30% to 60%. By
+applying this filter, several companies were excluded. This is correct as it
+is recorded in para 3.1.2 of the order passed by the TPO. TPO, as noted above,
+however had taken three companies, namely, Satyam Computer Service Ltd., L&T
+Infotech Ltd. and Infosys Technologies as comparable to work out the mean.
+
+8\. It is a common case that Satyam Computer Services Ltd. should not be taken
+into consideration. The tribunal for valid and good reasons has pointed out
+that Infosys Technologies Ltd. cannot be taken as a comparable in the present
+case. This leaves L&T Infotech Ltd. which gives us the figure of 11.11 %,
+which is less than the figure of 17% margin as declared by the respondent-
+assessee. This is the finding recorded by the tribunal. The tribunal in the
+impugned order has also observed that the assessee had furnished details of
+workables in respect of 23 companies and the mean of the comparables worked
+out to 10%, as against the margin of 17% shown by the assessee. Details of
+these companies are mentioned in para 5 of the impugned order.
+
+9\. In view of the aforesaid position, we do not think that any substantial
+question of law arises for consideration. The appeal is dismissed.
+
+SANJIV KHANNA, J.
+
+SANJEEV SACHDEVA, J.
+
+JULY 10, 2013 NA
+

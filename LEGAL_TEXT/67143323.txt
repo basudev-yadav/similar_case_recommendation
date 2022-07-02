@@ -1,0 +1,1600 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Ion Trading India Private ... vs Assessee on 7 December, 2015
+
+    
+    
+          IN THE INCOME TAX APPELLATE TRIBUNAL
+              (DELHI BENCH 'I - 1' : NEW DELHI)
+    
+       BEFORE SHRI R.S. SYAL, ACCOUNTANT MEMBER
+                           and
+           SHRI A.T. VARKEY, JUDICIAL MEMBER
+    
+                       ITA No.1035/Del./2015
+                   (ASSESSMENT YEAR : 2010-11)
+    
+    M/s. ION Trading India Private Ltd.,     vs.   ITO, Ward 12(4),
+    A-136, Defence Colony,                         New Delhi.
+    New Delhi
+    
+         (PAN : AAECA4325R)
+    
+         (APPELLANT)                         (RESPONDENT)
+    
+              ASSESSEE BY : Shri Manoj Pardasani, CA
+            REVENUE BY : Shri Amrendra Kumar, CIT DR
+    
+                    Date of Hearing          : 09.09.2015
+                    Date of Pronouncement    : 07.12.2015
+    
+                                    ORDER
+    
+
+PER A.T. VARKEY, JUDICIAL MEMBER :
+
+This appeal arises from an order passed by Income Tax Officer, Ward 12(4), New
+Delhi dated 21.01.2015 u/s 144C(13)/143(3) of the Act in pursuance to
+directions of the DRP  2 ITA No.1035/Del./2015 dated 14.11.2014 u/s 144C(5) of
+the Act and relates to assessment year 2010-11.
+
+2\. The grounds raised by the appellant in this appeal are as under:
+
+> "1. On the facts and in law, the Learned Income Tax Officer, Ward 12(4), New
+> Delhi ("Ld. AO") erred in passing the impugned assessment order dated 21
+> January 2015 pursuant to the directions of the Hon'ble Dispute Resolution
+> Panel ("Hon'ble DRP") and computing the total income of the Appellant for
+> Assessment Year ("AY") 2010-11 at Rs. 30,678,470 as against the returned
+> income of Rs. 353,440, thereby making an adjustment of Rs. 30,325,034 to the
+> Officer-1 (2)value of the international transaction of provision of computer
+> software development services by the Appellant to its Associates Enterprises
+> ("AEs").
+
+> 2\. On facts and in law, the Ld. AO erred in making a reference to the
+> Learned Additional Commissioner of Income Tax, Transfer Pricing Officer-1
+> (2), New Delhi ("Ld. TPO"), inter alia, since he has not recorded an opinion
+> that any of the conditions in section 92C(3) of the Income Tax Act, 1961
+> ("the Act"), were satisfied in the instant case. Accordingly, the order
+> passed by the TPO is without jurisdiction.
+
+> 3\. On facts and in the circumstances of the case and in law, the Ld. TPO
+> erred in not demonstrating that the motive of the Appellant was to shift
+> profits outside India by manipulating the prices charged in its
+> international transactions, which is a pre- requisite condition to make any
+> adjustment under the provisions of Chapter X of the Act.
+
+> 4\. On facts and in law, the Ld. TPO/Ld. AO erred in conducting and the
+> Hon'ble DRP further erred in allowing a fresh benchmarking analysis using
+> "non contemporaneous" data and substituting the Appellant's analysis with
+> the fresh benchmarking analysis on his own conjectures and surmises.
+
+3 ITA No.1035/Del./2015
+
+5\. On facts and in law, the Ld. TPO/Ld. AO and Hon'ble DRP erred in violating
+the provisions of Rule 10B(2) of Income Tax Rules, 1962 ("the Rules") by
+introducing new companies without considering the differences in the functions
+performed, assets employed and risks assumed by such companies vis-à-vis the
+Appellant, thereby resorting to unsubstantiated selection of comparables.
+
+6\. On the facts and in law, the Hon'ble DRP violated the provisions of Rule
+10B(2) of the Rules by rejecting CG-VAK Software & Exports Limited, a
+comparable company selected by the Appellant in the TP documentation by
+modifying the filter of employee cost being less than 25% of turnover as
+proposed by the Ld. TPO to employee cost of less than 75% of turnover; and
+further erred in incorrectly computing the filter ratio at less than 75%
+instead of correct ratio of 79.69% of turnover.
+
+7\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering E-Infochips Bangalore
+Limited as a comparable to the Appellant.
+
+8\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering Infinite Data System
+Private Limited as a comparable to the Appellant.
+
+9\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering Infosys Technologies
+Limited as a comparable to the Appellant.
+
+10\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering Persistent Systems Limited
+as a comparable to the Appellant.
+
+11\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering Sasken Communications
+Technologies Limited as a comparable to the Appellant.
+
+4 ITA No.1035/Del./2015
+
+12\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering Thirdware Solutions Limited
+as a comparable to the Appellant.
+
+13\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred,
+violating provisions of Rule 10B(2) by considering Wipro Technology Services
+Limited as a comparable to the Appellant.
+
+14\. On facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred in
+contravening provisions of Rule 10B(1)(e)(i) by considering the unutilized
+rent and maintenance expenses as expenses incurred in relation to the
+international transaction of the provision of software development services.
+
+15\. On the facts and in law, the Ld. TPO/Ld. AO and the Hon'ble DRP grossly
+erred in not allowing the risk adjustment under Rule 10B(1)(e)(iii) and Rule
+10B(3) to account for differences in the risk profile of the comparable
+companies vis-à- vis the Appellant.
+
+16\. On the facts and in law, the Ld. AO/Ld. TPO and the Hon'ble DRP erred in
+not granting the benefit of reduction/variation of 5 percent from the
+arithmetic mean while determining the arm's length price to the Appellant as
+per the proviso to section 92C(2) of the Act.
+
+17\. On the facts and in circumstances of the case, the Ld. AO erred in
+levying tax at the rate of 40% on the assessed income vis- à-vis applicable
+tax rate of 30%, given the fact that the Appellant is a domestic company
+incorporated under the Companies Act, 1956\.
+
+18\. On the facts and in the circumstances of the case, the Ld. AO erred in
+computing interest under section 234B of the Act.
+
+19\. On the facts and in the circumstances of the case, Ld. AO erred in
+demanding an amount of Rs. 162,976 in relation to tax refunded earlier as this
+amount was never refunded and not received by the Appellant.
+
+5 ITA No.1035/Del./2015
+
+20\. On the facts and in the circumstances of the case, the Ld. AO erred in
+levying interest under section 234A and 234D of the Act.
+
+21\. On the facts and in law, the Ld. AO erred in initiating penalty
+proceedings under section 271(1)(c) of the Act."
+
+3\. Grounds 1 to 15 relate to adjustment of Rs. 3,03,25,034/- to the arm's
+length price of the international transaction of provision of software
+development services provided by the appellant company to its holding company
+M/s ION Trading UK Ltd.
+
+4\. The factual matrix as emanating from the material on record is that the
+appellant company is a wholly owned subsidiary company of M/s ION Trading UK
+Ltd. It is engaged in the business of providing computer software development
+services to its AE on a captive basis. In the instant assessment year, the
+appellant furnished a return of income on 11.10.2010 declaring an income of
+Rs. 3,53,440/-. During the year the appellant had entered into following
+international transaction with its Associated Enterprise (AE):
+
+> Sr. Type of International Method Total Value of No. Transaction Selected
+> transaction 1 Computer Software Transactional 21,82,68,570 Development
+> Services Net Margin Method  6 ITA No.1035/Del./2015
+
+5\. In view of the above, AO made a reference u/s 92CA(1) to the Transfer
+Pricing Officer (TPO) for determining the Arm's Length Price (ALP). In course
+of proceeding before TPO, appellant submitted a TP study report. In the TP
+analysis, appellant selected Transactional Net Margin Method (TNMM) as the
+most appropriate method for benchmarking the international transaction and for
+the purpose of applying TNMM, the assessee company identified itself as the
+tested party. Further, operating profit to operating cost (OP/OC) was
+considered as the profit level indicator (PLI) to demonstrate its adherence to
+the arm's length provisions contained in the Act. The PLI of the assessee was
+calculated at 9.37%; whereas average PLI of the comparables was arrived at
+6.48%. The calculation of the assessee's margin is as under:
+
+    
+    
+                  Particulars         As on March 2010 (Amt. in Rs.)
+               Operating income               22,29,50,213
+                Operating cost                20,38,55,648
+                Operating profit               1,90,94,565
+                   OP/OC                          9.37%
+    
+    
+
+It is to be noted here that while calculating the operating cost of
+Rs.20,38,55,648/-, a deduction of Rs. 82,18,899/- on account of  7 ITA
+No.1035/Del./2015 adjustment of cost relating to rent and maintenance charges
+for under-utilization of capacity was claimed by the appellant.
+
+6\. Furthermore, the appellant had computed the PLI of the comparables by
+selecting a set of 6 comparables and the margin of these was shown to be 6.48%
+using the current year data as under:
+
+> Sr. No. Name of the company Margin for FY 2009-
+
+10
+
+    
+    
+                1         CG- Vak Software & Exports
+                                                                -12.48%
+                                      Ltd.
+                2           Quintegra Solutions Ltd.             -9.42%
+                3           R S Software (India) Ltd.             9.29%
+                4                Tata Elxsi Ltd.                 20.60%
+                5         Thinksoft Global services Ltd.         11.82%
+                6            Zylog Systems Limited               19.08%
+                                    Average                       6.48%
+    
+    
+
+7\. The TPO vide its order dated 22.01.2014, has observed that appellant has
+selected 6 companies as comparables on the basis of the search conducted in
+the public data base Prowess only. Further, TPO applied the following filters:
+
+> i) Companies with RPT greater than 25% of revenue should have been excluded;
+
+> ii) Companies who have less than 75% of the revenue as export sales should
+> have been excluded; and
+
+> iii) Companies whose employee cost to revenue ratio is less than 25% should
+> have been excluded.
+
+8 ITA No.1035/Del./2015
+
+8\. Pursuant to the above, final comparables out of comparables selected by
+the appellant are as under:
+
+Sr. No. Name of the company Remarks
+
+i) Quintegra Solutions This is a suitable comparable but Ltd. the PLI (OP/OC)
+is 0.75% as on 31st March, 2010 and not -9.42%.
+
+ii) R S Software (India) This is a suitable comparable, Ltd. hence accepted.
+
+iii) Tata Elxsi Ltd. This is a suitable comparable, hence accepted.
+
+    
+    
+            iv)   Thinksoft       Global This is a suitable comparable,
+                  services Ltd.          hence accepted.
+             v)   Zylog         Systems This is a suitable comparable,
+                  Limited                hence accepted.
+    
+    
+
+9\. As a further step, based on the above stated filters, search on the
+Capitaline database was also conducted by the TPO and further 18 comparables
+were identified and included in the final list of comparables. As a result, 23
+comparables were selected and, the margin computed as under::
+
+    
+    
+           Sr. No.           Name of the company               OP/OC with
+                                                                  Forex
+             1       Accelya Kale Solutions Ltd.                12.51%
+             2       Akshay Software Technologies Ltd.           -3.91%
+             3       Allgo Embedded                              8.72%
+             4       CTIL Ltd.                                  18.22%
+             5       E-Infochips Bangalore Ltd.                 71.38%
+             6       Evoke Tech                                 18.20%
+             7       E-Zest Solutions                           18.38%
+             8       Infinite Data System Pvt. Ltd.             72.67%
+             9       Infosys Limited                            45.47%
+             10      Kuliza Technologies Private Limited        12.94%
+                                           9                   ITA No.1035/Del./2015
+    
+    
+             11       Larsen & Toubro Infotech Ltd.                 19.76%
+             12       Mindtree Limited (Segment)                    20.47%
+             13       Persistent Systems Limited                    30.15%
+             14       Persistent Systems & Solutions
+                                                                    11.37%
+                      Limited
+             15       Quintegra Solutions Ltd.                      -8.83%
+             16       RS Software (India) Ltd.                      9.07%
+             17       Sasken Communication Technologies
+                                                                    22.65%
+                      Ltd.
+             18       Sonata Software                               32.16%
+             19       Tata Elxsi Ltd.                               17.08%
+             20       Thinksoft Global services Ltd.                11.22%
+             21       Thirdware Solutions Limited                   29.05%
+             22       Wipro Technology Services Limited
+                                                                    63.27%
+                      (Formerly Citi Technologies)
+             23       Zylog Systems Limited                         19.08%
+                      Average                                       23.99%
+    
+    
+    
+
+10\. On the aforesaid basis, the TPO made an adjustment of Rs. 4,46,82,661/-
+in the manner as under:
+
+    
+    
+          Sr. No.                 Particulars                   Amount (Rs.)
+            1.               Total Operating Cost               21,20,74,547*
+            2.        Arm's Length Price at a margin of         26,29,51,231
+                                 23.99%
+            3.      Transfer Price received by the taxpayer     21,82,68,570
+             4.      Shortfall of Transfer Price from ALP      4,46,82,661
+    
+
+*by disallowing deduction of Rs. 82,18,889/- on account of adjustment of cost relating to rend and maintenance charges for under utilization of capacity. 
+
+11\. DRP vide directions dated 14.11.2014 out of the set of 23 comparables
+adopted by the TPO directed for exclusion of one of the comparables, namely,
+Sonata Software Ltd. and also to grant  10 ITA No.1035/Del./2015 working
+capital adjustment. After giving the effect of the aforesaid directions,
+margin of comparables was re-determined at 17.22% on a set of 22 comparables
+in the manner as under:
+
+    
+    
+          Sr. No.          Name of the company               OP/OC with
+                                                                Forex
+             1      Accelya Kale Solutions Ltd.                 7.18%
+             2      Akshay Software Technologies Ltd.          -6.83%
+             3      Allgo Embedded                              2.18%
+             4      CTIL Ltd.                                   7.47%
+             5      E-Infochips Bangalore Ltd.                61.40%
+             6      Evoke Tech                                14.60%
+             7      E-Zest Solutions                          12.75%
+             8      Infinite Data System Pvt. Ltd.            64.96%
+             9      Infosys Limited                           39.83%
+            10      Kuliza Technologies Private Limited         7.71%
+            11      Larsen & Toubro Infotech Ltd.             15.51%
+            12      Mindtree Limited (Segment)                14.46%
+            13      Persistent Systems Limited                  4.80%
+            14      Persistent Systems & Solutions
+                                                               24.70%
+                    Limited
+            15      Quintegra Solutions Ltd.                   -23.63%
+            16      RS Software (India) Ltd.                    5.68%
+            17      Sasken Communication Technologies
+                                                               18.32%
+                    Ltd.
+            18      Tata Elxsi Ltd.                            12.66%
+            19      Thinksoft Global services Ltd.              4.53%
+            20      Thirdware Solutions Limited                22.88%
+            21      Wipro Technology Services Limited
+                                                               56.61%
+                    (Formerly Citi Technologies)
+            22      Zylog Systems Limited                      11.03%
+                    Average                                    17.22%
+    
+    
+
+12\. The Assessing Officer accordingly passed an order under section
+144C(13)/143(3) of the Act determining the adjustment at Rs.3,03,25,034/- and
+as such, income of the appellant was finally  11 ITA No.1035/Del./2015
+assessed at Rs.3,06,78,474/-. The said adjustment has been computed in the
+manner hereunder:
+
+    
+    
+           Sr.                   Particulars                  Amount (Rs.)
+           No.
+           1.    Operational Cost                              21,20,74,547
+           2.    Arm's Length Price at a margin of 17.22%      24,85,93,784
+           3.    Transfer Price received by the taxpayer       21,82,68,570
+           4.    105% of International Transaction             22,91,82,188
+           5.    Proposed Adjustment u/s 92CA                  3,03,25,034
+    
+    
+
+13\. Before us the learned counsel for the appellant made oral arguments and
+also filed written submissions. Both during the course of oral arguments and
+in written submissions, no specific submission have been made viz-a-viz
+grounds 1 to 5 of grounds of appeal. It has been contended that ION Trading is
+engaged in rendering generic, repetitive software development services to its
+AE-ION Trading UK Limited and is therefore characterized as a captive or low-
+risk service provider, compensated on a fixed fee basis. It was further
+submitted that the TPO/DRP/AO have erred in making an adjustment of Rs.
+3,03,25,034/- to the value of the international transaction of provision of
+computer software development services by the appellant to its AE. In support
+of the  12 ITA No.1035/Del./2015 above submission, it has prayed for inclusion
+of the comparable M/s CG-Vak Software and Exports Limited (segmental) and
+exclusion of (i) M/s E-Infochips Bangalore Ltd., (ii) M/s Infinite Data System
+(P) Ltd. (iii) M/s Infosys Ltd., (iv) M/s Persistent Systems Ltd., (v) M/s
+Sasken Communication Technologies Ltd. (vi) M/s Thirdware Solutions Limited
+and (vii) M/s Wipro Technologies Services Limited. in the final set of
+comparables. Apart from the above, it was also prayed that AO/TPO/DRP erred in
+contravening provision of rule 10B(1)(e)(i) by considering the unutilized rent
+and maintenance expenses as expenses incurred in relation to the international
+transaction of the provision of software development services. It was also
+submitted that the authorities below have grossly erred in not allowing the
+risk adjustment under Rule 10B(1)(e)(iii) and Rule 10B(3) to account for
+differences in the risk profile of the comparable companies vis-a-vis the
+appellant. The learned DR has supported the orders of DRP/TPO/AO and contended
+that adjustment made should be sustained and, no interference is warranted.
+
+13 ITA No.1035/Del./2015
+
+14\. We have considered the rival submissions and perused the material placed
+on record. The first and foremost substantive contention raised by the learned
+counsel vis-a-vis Ground 6 of Grounds of Appeal is that DRP violated the
+provisions of Rule 10B(2) of the Rules by rejecting CG-VAK Software Exports
+Limited, a comparable company selected by the appellant in the TP
+documentation by modifying the filter of employee cost being less than 25% of
+turnover as proposed by the ld. TPO to employee cost of less than 75% of
+turnover and further erred in incorrectly computing the filter ratio at less
+than 75% instead of correct ratio of 79.69% of turnover. The TPO had rejected
+the above comparable by holding as under:
+
+> "Rejection of CG-VAK as a comparable by the undersigned is valid for the
+> reasons explained in the show cause notice. Further, the assessee has not
+> submitted any detail to justify that each one of the identified filters are
+> satisfied in this case. Since the assessee company has failed to discharge
+> its onus, the undersigned is constrained, to reject the said company as
+> comparable."
+
+15\. It is seen that the reasons mentioned in the show cause notice vis-à-vis
+the said comparable was that the financials do not reflect the details of
+related party transaction and the other important filters  14 ITA
+No.1035/Del./2015 which have been ignored by the assessee from the final list
+of comparable companies.
+
+16\. Before the DRP the appellant contended as under:
+
+> "CG-VAK Software & Exports Ltd. was incorporated in 1995. The company
+> specializes in consulting services and offshore software development. It is
+> engaged in providing outsourced software product services (product
+> lifecycle, product maintenance, product migration, product testing, tech
+> writing/documentation); custom software services (e-commercie application,
+> website design, client servicer application); testing services; and
+> professional services. The company has three business segments namely
+> software services; BPO services and training. The software services segment
+> has been considered for the purpose of our analysis.
+
+> Further, it is submitted that CG-VAK Software & Exports Ltd. does not fall
+> the 25% related party filter applied by the learned TPO. A working of the
+> same was provided to the TPO vide submission dated 15.1.2014 and has been
+> provided below based on the details available in the Annual Report for FY
+> 2010-11:
+
+> The detailed computation of the related party percentage is as under:
+    
+    
+    
+          Nature of related party transaction                Amount (in
+                                                                INR)
+          Purchase of assets                                    27,07,672
+          Interest receipts                                      7,28,390
+          Interest BPO                                             10,979
+          Salary                                                33,00,000
+          Rent                                                  13,20,000
+          Interest paid on FD                                    4,36,429
+          Total related party transactions (A)                  85,03,470
+          Total income as per Annual Report (B)               6,19,81,460
+          RPT as a % of sales (A/B)                              13.72%"
+                                             15                  ITA No.1035/Del./2015
+    
+    
+    
+
+> 17\. However the DRP upheld the exclusion on the following basis:
+
+> "Having considered the above and the material placed on record, we are of
+> the opinion that the said company does not satisfy the filter applied by the
+> TPO of employee cost less than 75% of turnover and therefore the same cannot
+> be taken as comparable. In view of the above, action of the TPO is upheld."
+
+> 18\. Before us it was submitted that DRP incorrectly applied employee cost
+> filter which was never proposed by the TPO. It was submitted in the profit
+> and loss account, CG-VAK has reported certain "Cost of Services", however,
+> the breakup of the same is not known (to ascertain whether the same includes
+> any employee cost or not). It was further submitted that from the annual
+> report for financial year 2010-11 and financial year 2011-12, it is can be
+> seen that the employee cost was disclosed as cost of services. The relevant
+> extracts from the annual report is given below:
+
+> PROFIT & LOSS STATEMENT FOR THE YEAR ENDED 31ST MARCH  2012 Note 31.3.2012
+> 31.3.2011 (Rs.) No. (Rs.) III Expenditure: 3.03 5,33,80,368 4,73,01,685
+> Employee Benefit Expenses PROFIT AND LOSS ACCOUNT FOR THE YEAR ENDED
+> 31.3.2011 Schedul 31.3.2011 (Rs.) 31.3.2010 (Rs.) e Expenditures 135
+> 4,73,01,685 4,73,59,185 Cost of services  16 ITA No.1035/Del./2015
+
+> 19\. It was also submitted that the company has followed "different
+> nomenclature" in the FY 2009-10, wherein the employee cost is shown as cost
+> of services. The relevant extract from the annual report of the company is
+> reproduced below:
+    
+    
+                                                Schedule   31.3.2010    31.3.2009
+                                                             (Rs.)        (Rs,)
+          Income:
+          Income     from      Software
+          Development,    Services   &
+          Products
+          - Overseas                              12       5,74,87,587 7,16,87,088
+          - Domestic                              13         19,40,663    6,52,093
+                                                           5,94,28,250 7,23,39,181
+          Other Income                            14         25,53,210   72,26,721
+                                                           6,19,81,460 7,95,65,902
+          Expenditure:
+          Cost of Services                        15       4,73,59,185 5,88,05,074
+          Administrative Expenses                 16       1,32,67,939 1,04,53,160
+          Interest                                17         19,16,993   30,47,952
+          Depreciation                                       63,65,886   59,23,335
+                                                           6,89,10,003 7,72,29,521
+          Net Profit/(Loss) for the year                   (69,28,543)   23,36,381
+    
+    
+
+> 20\. It was submitted that since the cost of service/employee cost (i.e.
+> Rs.4,73,59,185) is 79.69% of turnover (i.e. Rs.5,94,28,250) it satisfies the
+> filter applied by the Hon'ble DRP and thus, CG-VAK should be accepted as a
+> comparable to the appellant. Reliance was placed on the following judgments:
+
+17 ITA No.1035/Del./2015
+
+> \- Lam Research India (P) Ltd. vs. DCIT [TS 203-ITAT-2015 (Bang)]
+
+> \- Yodlee Infotech (P) Ld. vs. ITO [TS-465-ITAT-2014 (Bang)]
+
+> \- Cisco System India (P) Ltd. vs. DCIT [TS-246-ITAT-2014 (Bang)]
+
+> 21\. We have considered the submission of the ld. counsel for the assessee
+> and have considered the argument of the ld. DR that the assessee is not
+> producing any product, however, we find that CG-
+
+Vak Software and Exports Limited is not only into computer software but it is
+a product manufacturer too. Since assessee is not into product manufacturing
+and the segmental details cannot be bifurcated from the financial details, we
+find that the assessee and the CG-Vak Software and Exports Limited are not
+comparables. Therefore, we are inclined to uphold the orders of the
+authorities below in rejecting this company as a comparable. We direct
+accordingly.
+
+22\. Now taking up Grounds No.7 to 13 of Grounds of Appeal, the learned
+counsel made his submission for exclusion of comparables selected by TPO. We
+will now consider the merits of the arguments of the parties with regard to
+selection of the these companies as comparables by TPO.
+
+18 ITA No.1035/Del./2015
+
+23\. E-Infochips Bangalore Limited
+
+24\. The learned AR contended that DRP/TPO have erred both in law and on facts
+by considering E-Infochips Bangalore Limited as a comparable to the appellant.
+The learned counsel for the assessee contended that the DRP, however has
+ignored the submissions made by the assessee and upheld the action of the
+Assessing Officer/TPO to include M/s. E-Infochips Bangalore Ltd. in the list
+of final comparables. The appellant has objected to the inclusion of the
+comparable on the ground of functionally not comparable and, abnormal
+deviation in profit margin. The appellant submitted that the functional
+profile of M/s. E-Infochips Bangalore Ltd. is different from that of the
+assessee company. In this regard, he pointed out that the said company is a
+product engineering services provider having a technical expertise in
+software, firmware, hardware, FPGPA, ASIC, Quality testing etc. Its key focus
+area in product engineering services includes conceptualization, Architecture
+and Design, Sustenance and Support, Development, Production and Quality
+testing. Further it focuses on wide array of industries including aerospace,
+security and surveillance, semiconductor,  19 ITA No.1035/Del./2015 medical
+devices, consumer devices, software and retail & E- commerce. It also has its
+IPs and accelerators in software domain namely "Automated Quality Assurance
+TestBorg (Aqua TestBorg) and the same was supported by the screenshot taken
+from the company's website (https://www.einfochips.com/software-ips). He thus
+contended that M/s. E-Infochips Bangalore Ltd. thus is liable to be excluded,
+besides due to functional differences, even on the basis of insufficient
+information available in the public domain from the list of comparables.
+
+25\. We have considered the rival submissions and also perused the relevant
+material on record. The contention raised by the learned counsel for the
+assessee is that the entity M/s. E-Infochips Bangalore Ltd. taken by the
+Assessing Officer/TPO as comparable should be excluded from the list of final
+comparables for the purposes of transfer pricing analysis on the ground of
+functional differences as well as on the ground of insufficient information
+available in respect of the said entity in public domain. In order to support
+and substantiate his contention of functional dissimilarity, the learned
+counsel for the assessee has heavily relied on the  20 ITA No.1035/Del./2015
+contents of the website www.einfochip.com., the print out of relevant portion
+of which is placed on record before us. On the basis of the said contents, he
+has made an attempt to point out that M/s. E-Infochips Bangalore Ltd. is
+functionally different form the assessee company in as much as the said
+company is mainly into development of new products whereas the assessee
+company is mainly providing software development services. It is seen that
+reference to the website of company is not of much help as it may not have
+information which pertained to FY 2009-10. It is possible that these services
+were provided by E-Infochips Ltd. instead of E- Infochips Bangalore Ltd. Also,
+it is possible that provision of these services is a subsequent development.
+Further, many of these services like software, FPGA, ASIC, QA & Testing
+require software engineers only. Hence, the services and personnel required
+are not entirely different. The reference made by the taxpayer is in respect
+of website of E-Infochips Ltd. and not that of E-Infochips Bangalore Ltd.
+After having gone through the website www.einfochip.com., we however find that
+the same is in respect of the entire group of E-Infochips, of which M/s.
+E-Infochips  21 ITA No.1035/Del./2015 Bangalore Ltd. is only a part. The
+functional profile given on the said website thus is that of the entire group
+and not just of the M/s. E-Infochips Bangalore Ltd. The content of the said
+website in our opinion, therefore, cannot be relied upon to ascertain the
+functional profile of M/s. E-Infochips Bangalore Ltd., especially when the
+nature of functions/services given there are materially different from the
+functions/services stated to be rendered by M/s. E-Infochips Bangalore Ltd. in
+its annual report. Even the details of services stated to be rendered by M/s.
+E-Infochips Bangalore Ltd. at different places in its Annual Report are very
+sketchy and it is very difficult to ascertain from the same, exact nature of
+services rendered by the said entity.
+
+26\. A perusal of the order of the DRP/TPO however, shows that no
+finding/observation has been recorded by them on the ground of functional
+differences as well as insufficient data/information available in the public
+domain. It is also worthwhile to note here that the profit margin of M/s.
+E-Infochips Bangalore Ltd. is abnormally high and although the said entity
+cannot be excluded from the list of final comparables merely on the ground of
+high or  22 ITA No.1035/Del./2015 abnormal profits, as held by in the case of
+Maersk Global Centres (India) (P.) Ltd. v. Asstt. CIT 147 ITD 83 and by
+jurisdictional High Court in the case of Chryscapital Investment Advisors
+(India) (P) Ltd. It should trigger further investigation in order to establish
+whether it can be taken as comparable or not. As further held by the Special
+Bench in the case of Maersk Global Centres (India) (P.) Ltd. (supra), such
+investigations should be to ascertain as to whether earning of super profits
+reflects normal business condition or whether it is the result of some
+abnormal condition prevailing in the relevant year. The profit margin of such
+entity in the immediately preceding year(s) may also be taken into
+consideration and the FAR analysis in such cases may be reviewed to ensure
+that the potential comparable earning higher profit satisfies the
+comparability condition. Since this exercise has not been done either by the
+AO/TPO or the DRP in the present case, we are of the view that the matter
+should go back to the Assessing Officer/TPO for fresh consideration. This, in
+our opinion, will also take care of the grievance of the assessee relating to
+the lack of sufficient information in respect of M/s. E-Infochips Bangalore
+Ltd. available  23 ITA No.1035/Del./2015 in the public domain in as much as
+the TPO can obtain such information in the form of relevant schedules of the
+Profit & Loss Account of the said entity as well as the segmental details, if
+any, directly from the said entity.
+
+27\. Following the above judgments, we therefore, set aside the impugned order
+of the Assessing Officer as well as the direction given by the DRP on this
+issue and restore the matter to the file of the Assessing Officer/TPO for
+deciding the same afresh after giving the assessee proper and sufficient
+opportunity of being heard.
+
+28\. Infinite Data System Private Limited
+
+29\. The learned counsel for the assessee further contended that the DRP, has
+completely ignored the submissions made by the assessee and upheld the action
+of the Assessing Officer/TPO to include Infinite Data System Private Limited
+in the list of final comparables. The appellant objected to the inclusion of
+the comparable before TPO on the following grounds:
+
+    
+    
+         i)     Functionally not comparable
+         ii)    Abnormal/Supernormal profits
+         iii)   Significant intangibles
+         iv)    Accepted as a non comparable in previous year by TPO
+                                          24                 ITA No.1035/Del./2015
+    
+    
+    
+    
+
+30\. The DRP upheld the order of TPO as under:
+
+> "The TPO has dealt the issue in para 8,4, of the order and held that the
+> company is providing software development services which is parimaterial
+> with the functions carried on by the assessee. Having considered the
+> material placed on record we find that the company is mainly involved in
+> software services. Therefore we hold that TPO is right in including the same
+> for the purpose of comparability analysis."
+
+31\. Before us the learned AR of the appellant has contended as under:
+
+> "Substantially Related Party Transactions
+
+> \- Company's operations relates to providing services to its sole customer-
+> Fujitsu Services Ltd." (substantially related) which can be substantiated as
+> per the news letter and annual report.
+
+> As per the News Letter Fujitsu entered into a BOT (Built, Operate &
+> transfer) contract with Infinite Computer Solutions (India) Ltd. holding
+> company of Infinite for development of offshore centre in India.
+
+> The contract was signed in July 2008 for period of three years. Infinite
+> have been set up as a separate entity for BOT the Indian Offshore centre of
+> Fujuitsu (Source-http:/www.Indianofline.com/article/newsinfite-computer-
+> solutions-india-suffessfull completes-bot-contract-with fujitsu-
+> services-4020499021_1.html) As per the Annual report The company's
+> operations are predominantly related to providing software technical
+> consultancy services to us sole customer Fujitsu "services Ltd."
+
+25 ITA No.1035/Del./2015
+
+> (Refer page 689 of the Paper Book Volume II)
+
+> b) Functionally not comparable As per Annual Report S(chedule 17) It
+> provides solutions that encompass technical consulting, design and
+> development of software, maintenance, system integration, implementation,
+> testing and infrastructure management services.
+
+> As per Annual Report (Revenue recognition section) It generates revenue
+> primarily from Technical Support & Infrastructure Management services (Refer
+> Page 685 of Paper Book Volume II)
+
+> -Segmental information not available for software design and development.
+
+> -Further, the financial state that more than 10% of the administration
+> expenses & other expenses are towards project implementation expenses, which
+> are different from software development (Refer Page 683 of the Paper book
+> Volume II)
+
+> c) Ld. TPOs approach of using data from Infinite's website as on the current
+> date and drawing comparison thereof with FY 2009010 i.e. 4 years prior to
+> the current year is incorrect.
+
+> (Refer page 70 of the Paper book for TPO's observation)"
+
+32\. On the other hand, the learned DR supported the order of the lower
+authorities regarding the inclusion of the same in the list of comparables. He
+reiterated the contents of the TPO's order which states as under:
+
+26 ITA No.1035/Del./2015
+
+> "It is seen that Infinite is providing following services:- technical
+> consulting, design & development of software, maintenance, systems
+> integration, implementation, testing and infrastructure management services.
+> These services except infrastructure management services have also been
+> refereed as 'technical support services' in Revenue Recognition portion and
+> as 'software technical consultancy services' in Segment Reporting portion of
+> the annual report. All these services are in the nature of software
+> development services.
+
+> .......It can be seen that all the services have been referred primarily as
+> IT services. The objection of the assessee is mainly on verticals of the
+> company. Under TNMM the standards of comparability are relatively relaxed
+> and only broad similarity of functions is required. It is further stated
+> that TNMM can be used with data for companies that are broadly comparable to
+> the taxpayer, as functional differences are likely to be reflected in the
+> level of operating expenses incurred by each company. These expenses are
+> deducted in the calculation of operating profit and are accordingly taken
+> account of in the comparability analysis. It is further seen that this
+> company has been chosen as it is engaged in providing software development,
+> which is broadly similar to the services being provided by the assessee.
+> Since, the assessee is also providing similar services, so this company can
+> be used as a comparable."
+
+33\. We have heard the rival submissions and considered the facts and
+materials on record. After considering the submissions, we are in agreement
+with the conclusion of TPO/DRP held that Infinite is providing following
+services: technical consulting, design & development of software maintenance,
+systems integration, implementation, testing and infrastructure management
+services. These services except infrastructure management services have  27
+ITA No.1035/Del./2015 been referred as "technical support services in revenue
+recognition portion and as 'software technical consultancy services' in
+segment reporting portion of the annual report and thus services are in the
+nature of software development services and having regard to the above it is
+concluded that the Infinite is a functionally similar company to the appellant
+company.
+
+34\. We have gone through the annual report of the appellant company. The said
+company provides solutions that encompass technical consulting, design and
+development of software, maintenance, system integration, implementation,
+testing and infrastructure management services which is functionally similar
+to the appellant company. There is no RPT transaction of the comparable and
+transaction with a sole customer does not constitute a RPT transaction.
+
+35\. Having regard to the above and for the reasons stated above, we uphold
+the conclusion of TPO for inclusion of Infinite Data System Private Limited
+since it is comparable to appellant company.
+
+28 ITA No.1035/Del./2015
+
+36\. Infosys Limited
+
+37\. The learned counsel for the assessee contended that the DRP has
+completely ignored the submissions made by the assessee and upheld the action
+of the Assessing Officer/TPO to include Infosys Limited in the list of final
+comparables and submitted that Infosys Limited cannot be considered as a
+comparable as it is engaged in diversified activities as it has wide spectrum
+of services such as business services, technology services and outsourcing
+services. It was contended that Infosys Limited is engaged in significant
+Research & Development (R&D) that has led to creation of significant
+Intellectual property. It has been further pointed out that as per Annual
+Report of FY 2009-10, the company claims itself as the most reputed and
+admired company in India (Pg. 18 of Director's Report). Further assessee
+contended that Infosys Limited has a turnover of Rs 21,140 crores, which is
+even more than 968 times of that of the assessee. The Ld. Counsel for the
+appellant has placed reliance upon the various decisions, in which Infosys
+Limited has been rejected as a comparable considering the same not  29 ITA
+No.1035/Del./2015 only as a giant company but is also engaged in development
+of various niche products, which are as follows:
+
+> i) 35 taxmann.com 421 (Hyd) Intoto Software India Pvt. Ltd. vs. Asst. CIT
+
+> ii) 40 taxmann.com 173 (Hyd) NTT Data India Enterprise Application Services
+> (P.) Ltd. vs. Asst. CIT
+
+> iii) 38 taxmann.com 306 (Del) Agnity India Technologies (P.) Ltd.
+
+> vs. DCIT
+
+> iv) 38 taxmann.com 166 (Hyd) Virtusa (India) (P.) Ltd. vs. DCIT
+
+38\. The TPO has observed as under:
+
+> "The brand name may have helped Infosys in increasing its number of clients
+> & retention of existing clients and this an increase in its market share,
+> but it has not necessarily resulted in better profit margins. Brand may
+> bring more revenues but not necessarily higher margins....a brand may
+> generate revenue but with a cost compensating any extra benefit, if any
+> derived from such efforts."
+
+> "Assessee had objected on the high turnover of this comparable company which
+> is already discussed in the order. However, TPO has made an analysis in
+> respect of influence of scale of operations on the profitability in the case
+> of Infosys Technologies Ltd. From the year 1997 to 2012 based on the
+> information extracted from the Capitaline Plus database, which shows that
+> there is no positive correlation between the two... Although the turnover of
+> the company has increased 183 times from the year 1997 to 2012, the
+> operating margins has more or less remained the same i.e. ranging between
+> 35% to 51%.... Hence, the taxpayer's argument that companies having large
+> scale of operations have better margins is without any basis, and is
+> therefore liable for rejection."
+
+30 ITA No.1035/Del./2015
+
+39\. The DRP supported the action of the TPO in including this company in the
+final list of comparables by holding as under:
+
+> "The TPO has dealt the issue in para 8.5 of the order and held that the
+> company is providing software development services which is parimateria with
+> the functions carried on by the assessee."
+
+> Having considered the material placed on record we find that the company is
+> mainly involved in software services" Therefore, we hold that TPO is right
+> in including the same for the purpose of comparability analysis."
+
+40\. We have considered the rival submission and perused the material placed
+on record. The said comparable was recently considered by the decision of ITAT
+in the case of Mentor Graphics (Noida) (P) Ltd. 60 taxmann.com 164 wherein
+following the judgment of Jurisdictional High Court in the case of Agnity
+India Technologies vs. ITO ITA No. 3856/2010 (Del), it was held as under:
+
+> "15. We find that Ld. CIT(A) after considering the facts of the case and the
+> submission of the AR observed that with regard to Infosys Technologies Ltd.
+> it was evident from the Annual Report of the company that Infosys
+> Technologies provides much wider range of services, performs extensive
+> functions, undertakes diversified business activities and assumes
+> significant risks as compared to routine software development service
+> providers like the assessee. Further, the company undertakes substantial R&D
+> activities and derives majority of its revenues the sale of proprietary
+> products unlike the assessee. Also, the turnover of the company is
+> significantly higher than that of the appellant and in no manner is
+> comparable to the size/operations of the assessee.
+
+31 ITA No.1035/Del./2015
+
+16\. We note that all the above facts highlight that Infosys Technologies Ltd.
+is a product owner, undertakes substantial advertising/sales promotion and
+brand-building activities and is engaged in significant R&D activities, and is
+very huge in size/volume as compared to the assessee. Hence, it cannot be said
+to be comparable with the assessee. The said proposition has also been
+confirmed by Delhi Tribunal in Agnity India Technologies v. ITO [IT Appeal
+No.3856 (Delhi) of 2010] wherein the Coordinate Bench held as follows :
+
+"Various arguments, as stated earlier, were taken before the DRP which inter-
+alia included rejection of comparable cases; application of arbitrary filter
+of wage to sales ratio; ignoring that the assessee is a limited risk company;
+inclusion of Infosys Technologies Ltd.; and inclusion of Sat yam Computers
+Services Ltd. in spite of the fact that its data is not reliable as publicly
+known. On the basis of these arguments, the DRP excluded the case of Sat yam
+Computers Services Ltd., thereby reducing the arm's length margin to 25.6%. It
+is argued that the case of the assessee is not comparable with Infosys
+Technologies Ltd., the reason being that the latter is giant in the area of
+development of software and it assumes all risks, leading to higher profit. On
+the other hand, the assessee is a captive unit of its parent company in the
+USA and it assumes only limited currency risk. Having considered these points,
+we are of the view that the case of aforesaid Infosys and the assessee are not
+comparable at all as seen from the financial data etc. of the two companies
+mentioned earlier in this order. Therefore, we are of the view that this case
+is required to be excluded. Once that is done, it is the accepted position of
+both the parties that the results of the assessee are in line with the mean
+margin of comparable cases even if no adjustment is made on account of capital
+etc. Therefore, it is held that no adjustment was required to be made to the
+results declared by the assessee company."
+
+11.5 The aforesaid order was upheld by the Hon'ble Delhi High Court after
+taking note of the chart as given below:  32 ITA No.1035/Del./2015 Basic
+Particular Infosys Technologies Ltd. Assessee Risk Profile Operate as full-
+fledged risk Operate at minimal taking entrepreneurs risks as the 100 percent
+services are provided to AEs Nature of services Diversified-consulting,
+Contract software application design, development services development, re-
+
+    
+    
+                       engineering               and
+                       maintenance            system
+                       integration,         package
+                       evaluation                and
+                       implementation            and
+                       business              process
+                       management, etc. (refer
+                       page 117 of the Paper Book)
+    Turnover              20,264 crores                  209.83 crores
+    Ownership          Develops/owns proprietary
+    branded/proprietar products                 like
+    y products         Finacle, Infosys Actice
+                       Desk, Infosys iProwe, Infosy
+                       s Connect.       Also     the
+                       company derives substantial
+                       portion of its proprietary
+                       products     (including    its
+                       flagship banking product
+                       suite „Finacle)
+    Onsite v. Offishore As much as half of the           The appellant provides
+                        software        development      only offshore services
+                        services     rendered      by    (i.e. remotely from
+                        Infosys are    onsite    (i.e.   India)
+                        services performed at the
+                        customer's           location
+                        overseas). And offshore
+                        (50.20 per cent) Refer p.
+                        117 of the Paper Book) than
+                        half of its service, income
+                        from onsite services
+    Expenditure        on Rs. 80 crores                  Rs. Nil (as the 1-
+                                         33                 ITA No.1035/Del./2015
+    
+    
+       advertising/sales                                percent services are
+       promotion       and                              provided to AEs)
+       brand building
+       Expenditure     on Rs. 236 crores                Rs. Nil
+       Research       and
+       Development
+       Other                                            100 per cent offshore
+                                                        (from India)
+    
+    
+
+11.6 On the basis of the above chart, the Hon'ble High Court affirmed the
+conclusion that a captive unit of acomparable company which assumed only a
+limited risk cannot be compared with a giant company in the area of
+development of software who assumes all types of risks leading to higher
+profits. The facts of the appellant are akin and therefore, do not warrant any
+different conclusion. The assessee is also captive service provider to its AE
+and as such, M/s. Infosys Ltd. is not a valid comparable with the assessee
+
+17\. Accordingly, Ld. CIT(A) proposed to exclude this company from comparable
+set of companies. Therefore, the ld. CIT (A) has rightly ordered exclusion of
+the Infosys Technologies Ltd. from the comparable and this impugned order is
+upheld."
+
+41\. Having regard to the above regard to the above judicial pronouncement, we
+hold that Infosys Limited cannot be considered as comparable for the purpose
+of benchmarking international transaction of the assessee.
+
+42\. Persistent Systems Limited
+
+43\. The assessee has sought exclusion of the aforesaid company on the ground
+that this company is a technology company into software product development
+services and is focused mainly on  34 ITA No.1035/Del./2015 three industries
+i.e. Infrastructure & Systems, Telecom & Wireless, Life Science and
+Healthcare, whereas the assessee is operating in finance domain which is
+totally different. It was further submitted that on economy of scales, the
+company Persistent Systems Limited is very large in comparison with that of
+the assessee. It was also submitted that the company has revenue from sale of
+products as well with the software services. It has been submitted that
+segmental break of sales on sale of products and services has not been given
+by the company as the pricing consequently the margin would differ that on
+sale of products and sale of services. Per contra, the learned Departmental
+Representative supported the action of the TPO in including this company in
+the list of comparables.
+
+44\. The TPO has held as under:
+
+> "The company does have some products but as has been brought out above, the
+> product revenue (from IP led businesses) are only 7.2%. Hence, the company
+> is predominantly a software service provider and will be taken as a
+> comparable. Under TNMM, the standards of comparability are relatively
+> relaxed and only broad similarity of functions is required."
+
+45\. The DRP supported the action of the TPO in including this company in the
+final list of comparables by holding as under  35 ITA No.1035/Del./2015 "The
+TPO has dealt the issue in para 8.6 of the order and held that the company is
+providing software development services which is paramateria with the
+functions carried on by the assessee. Having considered the material placed on
+record we find that the company is mainly involved in software services.
+Therefore, we hold that TPO is right in including the same for the purpose of
+comparability analysis."
+
+46\. We have heard the rival submissions and perused and carefully considered
+the material on record. It is seen from the details on record that this
+company i.e. Persistent Systems Ltd., is engaged in product development and
+product design services while the assessee is a software development services
+provider. We find that, as submitted by the assessee, the segmental details
+are not given separately. A Coordinate Bench in the case of Agnity India
+Technologies (P) Ltd. vs. ITO 154 ITD 293 (Del) regarding the said comparable
+has held as under:
+
+> "11. So far as exclusion of three comparables i.e. Larsen and Tourbo
+> Infotech Ltd., Persistent Systems Ltd. and Mindtree Ltd., it is noted that
+> before the CIT(A) the assessee contended that during the financial year
+> 2008-09, it has a turnover of approx. Rs. 14.45 crores which cannot be
+> compared with certain companies having turnover of more than 200 crores.
+> Support was drawn from the following decisions :
+
+> (a) Decision of ITAT in the case of appellant for A.Y. 2006-07 ITA No.
+> 3856/D/2010 A.Y. 2006-07;
+
+36 ITA No.1035/Del./2015
+
+(b) Genisys Integrating Systems (India) (P.) Ltd. v. Dy. CIT [2012] 20
+taxmann.com 715/53 SOT 159 (Bang.)
+
+(c) Centillium India (P.) Ltd. v. Dy. CIT [2012] 23 taxmann.com 34/53 SOT 145
+(Bang.)
+
+(d) Kodiak Networks (India) (P.) Ltd. v. Asstt. CIT [2012] 18 taxmann.com
+32/51 SOT 191 (Bang.)
+
+(e) Actis Advisers (P.) Ltd. v. Dy. CIT [IT Appeal No. 5277 (Delhi) of 2011]
+
+13\. Having considered the rival submissions and perused the material on
+record. We find this issue is no longer res-integra. The Hon'ble High Court
+upholding the decision of Tribunal in the case of the appellant for A.Y.
+2006-07 has held in an order dated 10.7.2013 in ITA No. 1204/2011 in [CIT v.
+Agnity India Technologies (P.) Ltd.[2013] 36 taxmann.com 289/219 Taxman 26
+(Delhi)] that a giant company in the area of development of software which
+assumed all risks leading to higher profits is not comparable with the
+assessee which was a captive unit of the parent company and assumed only a
+limited risk. The Hon'ble High Curt has held as under :
+
+"8. It is a common case that Satyam Computer Services Ltd. should not be taken
+into consideration. The Tribunal for valid and good reasons has pointed out
+that Infosys Technologies Ltd. cannot be taken as a comparable in the present
+case. This leaves L&T Infotech Ltd. which gives us the figure of 11.11%, which
+is less than the figure of 17% margin as declared by the respondent- assessee.
+This is the finding recorded by the Tribunal. The tribunal in the impugned
+order has also observed that the age had furnished details of workables in
+respect of 23 companies and the mean of the comparables worked out to 10%, as
+against the margin of 17% shown by the assessee. Details of these companies
+are mentioned in para 5 of the impugned order. 9. In view of the aforesaid
+position, we do not think that any substantial question of law arises for
+consideration. The appeal is dismissed."
+
+16\. When considering the exclusion of persistent system Ltd, we find no need
+to interfere in the order of the Ld CIT(A) because it  37 ITA
+No.1035/Del./2015 is engaged in development of software product; and this
+company was excluded by the Tribunal in assessment year 2006-2007, which has
+been up held by the Hon'ble High Court, thus the issue about exclusion of
+persistent system Ltd, while making TP adjustments in it's case stands settled
+in view of these decisions in its own case. Therefore we do not find any
+necessity to interfere this company's exclusion.
+
+17\. Having regard to the factual position and respectfully following the
+judgment of the Hon'ble High Court we partly allow the ground raised by the
+revenue and uphold the exclusion of persistent system Ltd, and direct
+inclusion of Larsen & Toubro Infotech Ltd and Mind tree Ltd."
+
+47\. Similar view has also been expressed in the case of Fiserv India (P) Ltd.
+vs. DCIT 60 taxmann.com 345 (Del), it was held as under:
+
+> "12.2 We have considered the rival submission and perused the material on
+> record. The counsel for the assessee has contended that Persistent Systems
+> Ltd. is functionally different from the assessee as the company is into
+> software development services as well as software products unlike the
+> assessee who is a captive service provider. Moreover, no segmental details
+> are available in the annual report. It can be thus derived that the prices
+> may have been influenced. The rationale of applying a related party filter
+> is defended.
+
+> 12.3 The Bangalore Bench of the Tribunal in the case of CSR India (P.) Ltd .
+> v. ITO [2013] 31 taxmann.com 265 , has held as under:
+
+'(i) Turnover Filter 3.3 We have heard the rival submissions and perused the
+materials on record. The TPO had, while selecting the above 26 comparables,
+applied a lower turnover filter of Rs.1 crore but preferred not to apply any
+upper turnover limit. The size of the comparable is an important factor in
+comparability. The ICAI TP  38 ITA No.1035/Del./2015 guidance note has
+observed that the transaction entered into by a Rs.1000 crores company cannot
+be compared with the transaction entered into by a Rs.10 crores company and
+the two most obvious reasons are the size of the two companies and related
+economies of scale under which they operate. The TPO's range had resulted in
+selection of companies as comparable such as Infosys which was 277 times
+bigger than that of the assessee. The Bangalore Bench of the Tribunal in the
+case of M/s. Genisys Integrating Systems (India) Pvt. Ltd. v. DCIT - ITA
+No.1231/Bang/2010 relying on Dun and Bradstreet's analysis had held that
+turnover range of Rs.1 crore to 200 crores is appropriate. The said
+proposition has followed by the earlier Benches of this Tribunal in the
+following cases: (i) M/s. Kodiak Networks (I) Pvt. Ltd. v. ACIT - ITA
+No.1413/Bang/2010; (ii) M/s Genesis Microchip (I) Pvt. Ltd. DCIT - ITA
+NO.1254/Bang/2010; (iii) Electronic for Imaging India Pvt. Ltd - ITA
+NO.1171/Bang/2010; & (iv) M/s. Trilogy E-Business Software India Private Ltd .
+v. DCIT - ITA No.1054/Bang/2011 dated 23.11.2012. 3.3.1 In the case of
+M/s.Genisys Integrating Systems (India) Pvt. Ltd . v. DCIT (supra ), relying
+on Dun and Bradstreet', has observed as under:
+
+"9. .............we find that the TPO himself has rejected the companies which
+are making losses as comparables. This shows that there is a limit for the
+lower end for identifying the comparables. In such a situation, we are unable
+to understand as to why there should not be an upper limit also. What should
+be upper limit is another factor to be considered. We agree with the
+contention of the learned counsel for the assessee that the size matters in
+business. A big company would be in a position to bargain the price and also
+attract more customers. It would also have a broad base of skilled employees
+who are able to give better output. A small company may not have these
+benefits and therefore, the turnover also would come down reducing profit
+margin. Thus, as held by the various benches of the Tribunal, when companies
+which are loss making are excluded from comparables, then the super profit
+making companies should also be excluded. For the purpose of classification of
+companies on the basis of net sales or turnover, we find that a reasonable
+classification has to be made. Dun & Bradstreet is more suitable and
+reasonable. In view of the same, we hold that the turnover  39 ITA
+No.1035/Del./2015 filter is very important and the companies having a turnover
+of Rs.1 crore to 200 crores have to be taken as a particular range and the
+assessee being in that range having turnover of 8.15 crores, the companies
+which also have turnover of 1.00 to 200 crores only should be taken into
+consideration for the purpose of making TP Study."
+
+3.3.2 The above view has been followed in the recent order of the Tribunal in
+the case of Trilogy E -Business (supra ). The relevant findings of the
+Tribunal are extracted as under:
+
+20\. In this regard we find that the provisions of law pointed out by the ld.
+counsel for the assessee as well as the decisions referred to by the ld.
+counsel for the assessee clearly lay down the principle that the turnover
+filter is an important criteria in choosing the comparables. The assessee's
+turnover is Rs.47,46,66,638. It would therefore fall within the category of
+companies in the range of turnover between 1 crore and 200 crores (as laid
+down in the case of Genesis Integrating Systems (India) Pvt. Ltd. v. DCIT, ITA
+No.1231/Bang/2010) . Thus, companies having turnover of more than 200 crores
+have to be eliminated from the list of comparables as laid down in several
+decisions referred to by the ld. counsel for the assessee. Applying those
+tests, the following companies will have to be excluded from the list of 26
+comparables drawn by the TPO viz. Turnover Rs. (1) Flextronics Software
+Systems Ltd. 848.66 crores (2) iGate Global Solutions Ltd. 747.27 crores (3)
+Mindtree Ltd. 590.39 crores (4) Persistent Systems Ltd. 293.74 crores (5)
+Sasken Communication Technologies Ltd. 343.57 crores (6) Tata Elxsi Ltd.
+262.58 crores (7) Wipro Ltd. 961.09 crores. (8) Infosys Technologies Ltd.
+13149 crores".. In view of the above said reasoning and the orders of the
+Benches of Bangalore Tribunal cited supra, the following 8 companies will have
+to be eliminated from the list of comparables selected by the TPO, namely: •
+Flextronics Software Systems Limited; • iGate Global Solutions Limited; •
+Mindtree Limited; • Persistent Systems Limited; • Sasken Communication
+Technologies Limited; • Tata Elxsi Limited; • Wipro Limited; & • Infosys
+Technologies Limited. It is ordered accordingly.' 12.4 Following the aforesaid
+decision of the Tribunal and the judgment of Hon'ble High Court of Delhi in
+the case of Aginity  40 ITA No.1035/Del./2015 Technologies (supra ) we hold
+that Persistent Systems Ltd. should not be regarded as a comparable."
+
+48\. Therefore, following the above judgments we hold that this company i.e.
+Persistent Systems Ltd. ought to be omitted from the set of comparables for
+the year under consideration. It is ordered accordingly.
+
+49\. Sasken Communication Technologies Limited (Sasken)
+
+50\. The assessee has sought exclusion of the aforesaid company on the ground
+that this company has different business model and there is presence of
+intangibles. It has also submitted that, as per Annual Report, the company
+derives revenue from software products, which suggests that the company is a
+product company unlike the assessee. It was further submitted that the company
+has inventories amounting to Rs. 166.55 lakhs and being a software service
+company, it was also provided that should not be holding any inventory in the
+books of accounts. The assessee also contended that company is also actively
+engaged in product development and earns revenue also from sale of software
+products, there were also  41 ITA No.1035/Del./2015 peculiar economic
+circumstances as it underwent restructuring during the year which inflated its
+profit by Rs. 1,519.70 lakhs in addition to other factors affecting its sales
+and margins. Further, the turnover of the company is more than 19 times of the
+appellant. The TPO has held as under:
+
+> "It is seen that this cost (contract staff cost) is insignificant in
+> comparison to employee cost of Rs. 213.46 cr."
+
+> "All software companies have software in their fixed assets. It is only when
+> it is significant and developed by them and is being amortized on sale of
+> software products exceeding 25% of total income, it can be said to be
+> resulting in different income which changes the profile from pure software
+> developer to a company also selling products. It is further seen that this
+> company has been chosen as it is engaged in providing software development,
+> which is broadly similar to the service being provided by the assessee.
+> Since, the assessee is also providing similar services, so this company can
+> be used as a comparable."
+
+51\. The DRP supported the action of the TPO in including this company in the
+final list of comparables by holding as under:
+
+> "The TPO has dealt the issue in para 8.8 of the order and held that the
+> company is providing software development services which is parimateria with
+> the functions carried on by the assessee.
+
+> Having considered the material placed on record we find that the company is
+> mainly involved in software services. Therefore, we hold that TPO is right
+> in including the same for the purpose of comparability analysis."
+
+42 ITA No.1035/Del./2015
+
+52\. We have considered the submission and perused the material placed on
+record. A Coordinate Bench of Tribunal in the case of Tibco Software (India)
+(P) Ltd. vs. DCIT ITA No. 94/PN?2014 dated 10.4.2015, it was held as under:
+
+> "32. By way of Ground of Appeal No.4.5, the appellant has assailed the
+> action of the TPO in excluding Sasken Communications Technologies Ltd. from
+> the final set of comparables. As per the discussion in para 11(viii) of the
+> order of the TPO, it is noticed that the said concern has been excluded on
+> the ground that during the year under consideration it has undertaken
+> business restructuring. The Ld. Representative also pointed out that in the
+> show-cause notice dated 31.10.2012 issued by the TPO another reason has been
+> advanced which is to the effect that the said concern fails the export
+> turnover filter of 75% of the total turnover."
+
+53\. Having regard to the above judgment and since it is evident from record
+that Sasken Communication Technologies Limited is functionally not similar to
+the appellant and also having gone through restricting in the instant year, it
+cannot be treated as comparable to assessee. We order accordingly.
+
+54\. Thirdware Solutions Limited (Thirdware)
+
+55\. The assessee has objected to the inclusion of the said comparable on the
+following ground that the aforesaid company is focused on solutions and
+services in the Enterprise Allocation Space  43 ITA No.1035/Del./2015 (EAS) in
+the Transaction, Analytics, and Collaborative Solution Layers. This includes
+ERP, customer relationship management (CRM), SCM, BI/DW, BPM etc. Thirdware
+offers Application Implementation Services (AIS), Application Development
+Services (ADS) and Application Management-support Services (AMS). It was
+further submitted that it is engaged in development of own software-PAPA and
+has incurred expenses towards import of software service, evidencing
+outsourcing of software services unlike the Applicant company. The TPO has not
+provided any reason for holding Thirdware as a company comparable to the
+Appellant whereas, The DRP while upholding Thirdware as comparable to the
+Appellant company observed as under:
+
+> "The audited report of the company reveals that company is mainly engaged in
+> software development. The majority of income is from software development.
+
+> Having considered the material placed on record we find that the company is
+> mainly involved in software services. Therefore, we hold that TPO is right
+> in including the same for the purpose of comparability analysis."
+
+56\. We have heard the rival submissions and perused and carefully considered
+the material on record. It is seen from the details on record that the
+functions of Thirdware are in contrast with  44 ITA No.1035/Del./2015 the
+assessee which only provides software development in the finance domain as per
+the instruction of its AE. Also, Thirdware has incurred expenses towards
+import of software services, evidencing outsourcing of software services
+unlike the assessee. Since it is also engaged in outsourcing its activities as
+it has incurred expenses towards imports of software services, evidencing
+outsourcing of software services unlike the appellant company. Hence, it is
+functionally not comparable and cannot be treated as a comparable to assessee.
+We order accordingly.
+
+57 Wipro Technology Services Limited (Wipro)
+
+58\. As far as this company is concerned, the arguments of the assessee were
+not only on account of functional dissimilarity but the assessee also raised
+the other objection that there was an extraordinary event during the year.
+Wipro provides program management and third party information security
+assessment services to businesses that outsource technology and operations to
+third party vendors in India, the Philippines, China and the Russian
+Federation. It also offers software quality management, quality assurance, and
+business process management services as well as  45 ITA No.1035/Del./2015
+technology infrastructure support, development and deployment for strategic
+software applications to information technology and business professionals.
+During the year, Wipro Limited (Wipro) has reached an agreement with Citigroup
+Inc. for acquiring all of Citigroup interest in CTS w.e.f. 21 January 2009. On
+21 January 2009, Wipro signed a master service agreement (MSA) with Citigroup
+Inc. for the delivery of technology infrastructure services and application
+development and maintenance services for the period of six years. Without
+prejudice, it was submitted that before 20.01.2009, the Company was part of
+the Citi group and rendered services to various entities of the Citi group
+worldwide. With effect from 21.01.2009, the Company was acquired by Wipro Ltd.
+however, in order giving effect to the directions of Hon'ble DRP, Ld. TPO has
+held that "In the case of M/s Wipro Technology Services Ltd., assessee is
+submitting that the transaction of rendering services by Wipro Technology to
+Citi Group are construed as deemed international transactions as per section
+92B(2) of the Act. However, Annual Report of the company has been perused and
+it is seen from the audited Financial that in RPT  46 ITA No.1035/Del./2015
+schedule it is not considered as an Associated Enterprise. The TPO has not
+provided any reason for holding Wipro as a company comparable to the Appellant
+whereas The DRP while upholding Wipro as comparable to the Appellant company
+observed as under:
+
+> "The audited report of the company reveals that company is mainly engaged in
+> software development. The majority of income is from software development.
+
+> Having considered the material placed on record we find that the company is
+> mainly involved in software services.
+
+> However, the assessee has brought to the notice that Wipro Technologies
+> Service Ltd has RPT of more than 25%. The AO is directed to verify the
+> computation provided by the assessee and if RPT is more than 25% than it
+> should not be included for the purpose of comparability analysis."
+
+59\. We have considered the rival submissions, perused the material on record.
+In our view, Companies that are affected by factors like persistent losses,
+declining sales, extraordinary Income or expense, mergers and acquisitions or
+other such factors which affect the operations of the company substantially
+should not be used as comparables as they will not prove to be good
+benchmarks. Further, while repelling the objection regarding extra-ordinary
+event taking place for this comparable, but for a different reason, i.e. the
+relevant extra ordinary event took place in the preceding Financial  47 ITA
+No.1035/Del./2015 Year i.e. FY 2008-09. However, we concur with the
+submissions advanced by Ld AR that the Director's Report and Notes to Account
+for this comparable are not available in public domain. Ld. DR has not been
+able to controvert this fact. Since sufficient information for this comparable
+is not available, we direct exclusion of this company as a comparable.
+
+60\. Now taking up Ground No. 14, which relates to adjustment of unutilized
+rent and maintenance expenses as expenses incurred in relation to the
+international transaction of the provision of Software development services.
+The assessee contended that as per the rule 10B(1)(e)(i) of Income Tax Rules,
+1962 which details transactional net margin method provides "the net profit
+margin realized by the enterprise from an international transaction entered
+into with an associated enterprise is computed in relation to costs incurred
+or sales effected or assets employed or to be employed by enterprise or having
+regard to any other relevant base". In view of the above, for computing margin
+from an international transaction adjustment claim ought to be allowed.
+
+48 ITA No.1035/Del./2015
+
+61\. The TPO has rejected the contention of the assessee by holding that:
+
+> "The contention of the assessee company is not acceptable on account of the
+> following reasons:-
+
+> a) The assessee has admitted that the expansion was at the behest of the AE
+> only. Since the assets for the anticipated increase in business had
+> allegedly gone unutilized, the compensation thereof should have been borne
+> by the AE and in no case should be charged on the assessee company.
+
+> b) Expenditure on enhancement of business is a routine operating expenditure
+> which is undertaken with the intention of gaining more business. The
+> assessee has done just the same in its case by taking the step of hiring
+> more space. This expenditure cannot be taken to be extra ordinary in nature
+> for the simple reason that it was expended in the hope of gaining business
+> as is done by millions of businesses worldwide and every failure cannot be
+> written off by the tax authorities as being extra ordinary. In this case the
+> assessee has over reached itself in the hurry to get business by committing
+> a sum of money in terms of rental and maintenance charges.
+
+> c) The assessee is required to support its claim for any adjustment with
+> robust data and full details and evidences so as to enable the TPO to
+> examine the claim. The burden is on the assessee whenever it makes a claim
+> and in this case, it has not discharged the burden of proof. These
+> adjustments are being claimed in an adhoc manner. Further, according to
+> assessee since fixed cost remain constant irrespective level of operation
+> and therefore such costs could not be optimally utilized to low level of
+> capacity utilization. In view of this office capacity adjustment in service
+> industry is not applicable as the business model I s cost plus so there is
+> no question of idle capacity in terms of fixed costs assets.
+
+> d) If the taxpayer had seen a sudden spike in the volume o f its work during
+> the year, it would have reaped the benefits of advance planning and
+> foresight. This would have resulted in  49 ITA No.1035/Del./2015 greater
+> profits and better margins owing to its smart moves. However, when the
+> volume of work did not grow as anticipated, it is seeking an adjustment due
+> to the same smart business move. It cannot cut both ways.
+
+> e) Moreover, the method of computing the adjustment is also not correct. Any
+> comparability adjustment in transfer pricing analysis has to be carried out
+> in respect of the comparable companies. In the instant case, the taxpayer
+> has reduced its own employee costs to achieve the desired goal.
+
+62\. We have considered the rival submissions, perused the material on record.
+We uphold the order of Hon'ble DRP, as it has rightly held that as there is no
+objective basis led by the assessee to support its claim; mere submission that
+there was underutilization does not discharge the burden upon the assessee.
+Moreover, the assessee has not given any cogent basis to satisfy the reasons
+for under utilization. Once the assessee is a software service provider to its
+AE then there can be no claim on account of under utilization of capacity as
+it was AE who initiates such expansion. Hence, we reject the ground raised by
+the assessee.
+
+63\. The next issue raising in Ground No. 15 of Grounds of Appeal relates to
+the risk adjustment under Rule 10B(1)(e)(iii) and Rule 10B(3) to account for
+differences in the risk profile of the comparable companies vis-à-vis the
+Appellant.  50 ITA No.1035/Del./2015
+
+64\. The assessee contended that since it is a captive unit, it does not bear
+any entrepreneurial risks. However, while proposing the set of comparables in
+the notice, the Ld. TPO has not understood the risk-free nature of the
+assessee and has failed to consider the full- risk taking profiles of the
+companies selected as comparables.
+
+65\. The AR has highlighted the significance of comparing the level of risks
+between independent comparables and the taxpayer. It was submitted that TPO
+should consider the risk free nature of the taxpayer's operations while
+adjudicating on the transfer prices. Based on the above, ignoring the risk
+profile of the Assessee would be unjust on the part of the revenue. He
+contended that TPO/drip should have appreciated that the intent of the
+transfer pricing legislation in India is to avoid tax evasion and not to cause
+any hardship to the assessee.
+
+66\. In view of and taking due cognizance of all the differentiating factors
+cited above, the assessee contended that an adjustment with regard to the risk
+premium earned by comparable uncontrolled companies is imperative for a fair
+and judicious comparison of the  51 ITA No.1035/Del./2015 transfer prices of
+the international transactions of the Assessee with the arm's length price.
+
+67\. The TPO in its order dated 22.01.2014 has held as under:
+
+> "The assessee hasn't claimed raised Risk Adjustment in its submission.
+> However, it may claim at later stage on account of adjustment commensurate
+> to the risk profile of the assessee. After carefully considering the facts
+> of the case and the submissions of the taxpayer, I am not inclined to accept
+> the assessee's future claim of risk adjustment. Risk adjustment as a general
+> rule cannot be allowed unless it is clearly shown that the comparables had
+> actually undertaken such risk and how the same materially affected their
+> margins. The revised OECD guidelines of 2010 has also stated in Para 3.54 as
+> under:-
+
+> "Ensuring the needed level of transparency of comparability adjustments may
+> depend upon the availability of an explanation of any adjustments performed,
+> the reasons for the adjustments being considered appropriate, how they were
+> calculated, how they changed the results for each comparable and how the
+> adjustment improves comparability. Issues regarding documentation of
+> comparability adjustments are discussed in Chapter V."
+
+> From the above guidelines it can be seen that unless it is shown that how
+> the risk adjustment would change the result of each comparable and how the
+> same would improve the comparability and unless adequate reasons are given
+> for such adjustment, no adjustment can be allowed to the taxpayer. In the
+> present case, except giving proportion of various risks borne, the taxpayer
+> has not shown with evidence as to whether each of the risk was actually
+> undertaken or not by the comparables and if so, how these risks affected
+> each of them and whether such adjustment would improve the comparability.
+> Mechanical adjustment cannot be made to the margins of the comparables
+> without knowing which risk was taken by the entity concerned and how its
+> profitability was affected. Probability of risk and certainty of risk are
+> two different aspects and cannot be equated for the purpose of adjustment.
+> In my view assessee cannot be compared to a risk free security. Even other
+> methodology, whether adhoc adjustment as in  52 ITA No.1035/Del./2015 case
+> of Sony India, CAPM or Sharpe Ratio (which is a measure of the excess return
+> on risk undertaken by an entity investing in a particular asset), as applied
+> by Hyderabad ITAT in the case of ADP Private Ltd, are based on return of
+> capital which is not the PLI adopted by the assessee and the TPO. All this
+> requires robust and reliable data, both for the assessee and the comparables
+> in the absence of which risk adjustment cannot be considered for enhancing
+> comparability."
+
+68\. Further, DRP upheld the view of Ld. TPO by holding as under:
+
+> "We have carefully considered the facts of the case and the submissions of
+> the assessee. As per Rule 10B(2) and 10B(3) of Income Tax Rules, 1962,
+> Indian Transfer pricing provisions prescribe only for "reasonable accurate
+> adjustment" and further adjustment to the margins of comparables can be made
+> only if they enhance comparability. But at the same time the data for the
+> same must be relevant reliable and robust. Risk adjustment as a general rule
+> cannot be allowed unless it is clearly shown that the comparables had
+> actually undertaken such risk and how the same materially affected their
+> margins. The revised OECD guidelines of 2010 has also stated in para 3.54 as
+> under:-
+
+> "Ensuring the needed level of transparency of comparability adjustments may
+> depend upon the availability of an explanation of any adjustments performed
+> the reasons for the adjustments being considered appropriate, how they were
+> calculated how they changed the results for each comparable and how the
+> adjustment improves comparability. Issues regarding documentation of
+> comparability adjustments are discussed in Chapter V."
+
+> Even the various judicial decisions on the issue of adjustments and even
+> OECD guidelines, impresses upon time and again that the adjustment should be
+> "reasonable accurate adjustment".
+
+13.10 From the above guidelines, it can be seen that unless it is shown that
+how the risk adjustment would change the result of each comparable and how the
+same would improve the comparability and unless adequate reasons are given for
+such  53 ITA No.1035/Del./2015 adjustments, no adjustment can be allowed to
+the assessee. In the present case, except pointing out various risks, the
+assessee has not shown with evidence as to whether each of the risk was
+actually undertaken or not by the comparables and if so, how these risks
+affected each of them and whether such adjustment would improve the
+comparability.
+
+13.11 Mechanical adjustment cannot be made to the margins of the comparables
+without knowing which risks were taken by the entity concerned and how its
+profitability was affected. Probability of risk and certainty of risk are two
+different aspects and cannot be equated for the purpose of adjustments. The
+significant of risk depends on its economic significance, likelihood of its
+realization and predictability. All these requires robust and reliable data,
+both for the assessee and the comparables in the absence of which tax
+adjustments cannot be considered for enhancing comparability. Thus the
+objection is rejected.
+
+13.12 In the various judicial pronouncements the risk adjustment has not been
+allowed by the ITATs. Some of these decisions are discussed below:
+
+(a) Vedaris Technology 2010-TII-10-ITAT-Del-TPL: No risk adjustment to be
+allowed even on ad hoc basis particularly when the same has not been
+quantified;
+
+(b) Marubeni India Private Ltd. (2010-TII-36-ITAT-Del-TP) in which it was held
+that as the assessee failed to bring any evidence on record to show that there
+was any difference in risk profiles of comparable companies and since the
+assessee failed to file the details exhibiting risk borne by comparables, no
+risk adjustment can be given, even on ad hoc basis.
+
+(c) ADP Private Limited (2011-TII-44-ITAT-Hyd-TP) wherein the ITAT held that
+there is no thumb rule for allowance of risk adjustment.
+
+(d) Symantec Software Solutions Pvt. Ltd. (2011-TII-60-ITAT- Mum-TP): The ITAT
+held that;
+
+54 ITA No.1035/Del./2015
+
+> (i) Until and unless it is shown that the difference in function and risk
+> results in deflation or inflation of financial results of the comparables,
+> it is not a general rule to grant it as a standard adjustment.
+
+> (ii) The assessee could not show how such difference in risk and functions
+> affected the results of the comparables.
+
+> (e) ST Micro Electronics (2011-TII-63-ITAT-Del-TP): The assessees claim that
+> it was a risk free captive service provider and hence cannot be compared
+> with comparables who were full entrepreneurs was not accepted by the ITAT.
+
+> (f) Exxon Mobil Company India Pvt. Ltd. (2011-TII-68-ITAT- Mum-TP): The ITAT
+> held that since working capital adjustment has been given and the assessee
+> has not worked out the risk adjustment, no adjustment can be granted on this
+> account.
+
+> 13.13 Therefore, for the reasons mentioned above, we decline to interfere
+> with the action of TPO in this regard."
+
+69\. We have considered the rival submissions and perused the material placed
+on record. In our view, where the assessee succeeds in ably demonstrating that
+the comparables finally selected bore relatively more risk than it, then there
+should be no denial of the risk adjustment. If, however, the assessee fails in
+specifically pointing out the extra risks undertaken by the comparables, then,
+of course, there cannot be any question of granting risk adjustment. Under the
+transfer pricing regime, onus is always on the assessee to show the reasons
+for claiming any separate adjustment by pointing out the  55 ITA
+No.1035/Del./2015 differences between it and the comparables. Risk adjustment
+can be allowed provided the assessee places on record some appropriate
+material to demonstrate that the risk undertaken by the comparable companies
+were relatively more than it, warranting downward adjustment in their profit
+rates. Further, the variation in such risks, if any, should be capable of
+quantification on some reasonable and logical basis. Since the ld. AR has
+failed to objectively demonstrate the relatively higher risks undertaken by
+the comparables on an overall basis, we are disinclined to grant any risk
+adjustment. 69.1 In view of the foregoing discussion, we set aside the
+impugned order and remit the matter of determination of ALP of the
+international transaction of 'Provision of IT enabled data conversion
+services' to the file of TPO/AO for a fresh decision in accordance with our
+above observations/directions. Apart from the issues discussed in this order,
+the decision of the TPO on all other aspects of the determination of the ALP
+of this international transaction should be considered as final, as no other
+issue has been agitated before us.
+
+56 ITA No.1035/Del./2015
+
+70\. Ground No. 16: On the facts and in law, the Ld. AO/Ld. TPO and the
+Hon'ble DRP erred in not granting the benefit of reduction/variation of 5
+percent from the arithmetic mean while determining the arm's length price to
+the Appellant as per the proviso to section 92C(2) of the Act.
+
+71\. This issue has been dealt at great length by the TPO/DRP. Both have
+referred to the relevant provisions, circulars and judgments on the issue.
+Accordingly, We do not find any infirmity in the order of the TPO/ DRP in this
+respect and the same is therefore upheld.
+
+72\. In Grounds No. 18 assessee has challenged the levy of interest u/s 234B.
+Since the chargeability of interest u/s 234B will ultimately depend upon the
+income to be determined in accordance with our directions contained
+hereinabove, at this stage it is premature to dwell upon this issue. It is
+open for assessee to raise the issue at the appropriate stage. Similarly,
+Ground Nos. 19 and 20 are consequential in nature.
+
+57 ITA No.1035/Del./2015
+
+73\. Ground No. 21 not connected on merits since the issue emerges when the
+proceedings under section 271(1)(c) are independently initiated. Therefore
+this ground is rejected.
+
+74\. In the result, the appeal is disposed off as above. Order pronounced in
+open court on this 07th day of December, 2015.
+
+    
+    
+                 -sd-                                   -sd-
+            (R.S. SYAL)                           (A.T. VARKEY)
+         ACCOUNTANT MEMBER                      JUDICIAL MEMBER
+    
+    Dated the 07th day of December , 2015
+    TS
+    
+    
+    Copy forwarded to:
+        1.Appellant
+        2.Respondent
+        3.CIT
+        4.CIT(A)
+        5.CIT(ITAT), New Delhi.
+                                                           AR, ITAT
+                                                          NEW DELHI.
+     
+

@@ -1,0 +1,1038 @@
+
+
+Income Tax Appellate Tribunal - Mumbai
+
+Abbott Healthcare P. Ltd, Mumbai vs Acit 2(1)(1), Mumbai on 6 January, 2020
+
+    
+    
+                       THE INCOME TAX APPELLATE TRIBUNAL
+                                "K" Bench, Mumbai
+               Before Shri Shamim Yahya (AM) & Shri Pawan Singh (JM)
+    
+                I.T.A. No. 570/Mum/2018 (Assessment Year 2011-12)
+    
+            M/s. Abbott Healthcare Pvt. Ltd.               DCIT-2(1)(1)
+            Unit-4, Corporate Park           Vs.           Room No. 561
+            Sion Trombay Road                              Aayakar Bhavan
+            Chembur, Mumbai-400 071.                       M.K. Road
+                                                           Mumbai-400 020.
+            (Appellant)                                    (Respondent)
+    
+                 I.T.A. No. 711/Mum/2018 (Assessment Year 2011-12)
+    
+            DCIT-2(1)(1)               M/s. Abbott Healthcare Pvt. Ltd.
+            Room No. 561    Vs.        Unit-4, Corporate Park
+            Aayakar Bhavan             Sion Trombay Road
+            M.K. Road                  Chembur, Mumbai-400 071.
+            Mumbai-400 020.
+            (Appellant)                (Respondent)
+    
+                                   PAN : AAACK3935D
+    
+                    Assessee by           S/Shri Madhur Agarwal,
+                                          Vikas Srivastava &
+                                          Saksham Singh
+                    Department by         Shri Anand Mohan
+                    Date of Hearing       17.10.2019
+                    Date of Pronouncement 06.01.2020
+    
+                                         ORDER
+    
+
+Per Shamim Yahya (AM) :-
+
+These are cross appeals by the assessee and Revenue arising out of the order
+of learned CIT(A) dated 8.11.2017 and pertains to A.Y. 2011-12.
+
+2\. Grounds of appeal raised by the Revenue read as under :
+
+> 1\. "On the facts and in the circumstances of the case and in law, the
+> Id.CIT(A) erred in directing the AO to treat the non-compete fees as
+> deferred revenue expenditure for a period of eight years while the benefit
+> accrued was in capital field for a substantial period of time. "
+
+2
+
+> M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> 2\. "On the facts and in the circumstances of the case and in law, the Id.
+> CIT(A) erred in holding that the provisions of section 43A does not apply in
+> the assessee's case and thereby allowing the depreciation claim of Rs.
+> 76,63,80,975/- disallowed by the AO."
+
+> 3\. "On the facts and in the circumstances of the case and in law, the Id.
+> CIT(A) erred in holding that the foreign exchange gain of capital nature is
+> not to be reduced from the WDV of the capital asset notwithstanding the
+> applicability of section 43A of the IT Act."
+
+> 4\. For these and other grounds that may be urged at the time of hearing,
+> the decision of the CIT(A) may be set aside and that of the AO be restored.
+
+3\. Grounds of appeal raised by the assessee read as under :
+
+> "On the facts and in the circumstances of the case and in law, the learned
+> CIT(A)/Assessing officer has: Transfer pricing grounds
+
+> 1\. Erred in upholding the arm's length price determination of the learned
+> Transfer pricing officer ('TPO') in relation to the international
+> transaction of payment Central Service Charges of Rs.3,87,44,898/- to Rs.
+> 84,79,431/-, thus making an adjustment of Rs.3,02,65,467/-;
+
+> 2\. Erred in not accepting the economic analysis undertaken by the Appellant
+> which was in accordance with the provisions of the Act read with the Rules
+> for establishing the arm's length price of the international transactions
+> and arbitrarily selecting comparable uncontrolled price method as the 'most
+> appropriate method' to benchmark the international transaction;
+
+> 3\. Erred in not accepting the combined transaction/ bundled approach of
+> benchmarking adopted by the Appellant in its transfer pricing documentation
+> and proceeding to determine the arm's length price of international
+> transactions on a standalone basis by rejecting transaction net margin
+> method as the most appropriate method and thereby disregarding the fact that
+> the Appellant had received the services for the purposes of its distribution
+> business;
+
+> 4\. Erred in determining arm's length price for 'Marketing and Strategic
+> Sales Support' and Training and Product Support Services' as 'Nil' without
+> undertaking any comparability analysis in accordance with the Act read with
+> the Rules;
+
+> 5\. Erred in questioning the commercial rationale/ business need of the
+> legitimate business expenses incurred by the Appellant and not restricting
+> the scope of assessment under section 92CA for determining the arm's length
+> price of the international transaction by adopting one of the prescribed
+> methods only;
+
+3
+
+> M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> 6\. Erred in disregarding the documentary evidence submitted, substantiating
+> the benefits received by the Appellant from receipt of such services from
+> its AEs without providing any reasons to support such rejection.
+
+Assessee's appeal :
+
+4\. M/s. Abbott Healthcare Private Limited (in short 'AHPL') is a downstream
+subsidiary of M/s. Abbott Laboratories, USA. It is engaged in distribution of
+healthcare products. 99.99% of AHPL shareholding is held by Abbott Asia
+Holdings Ltd., which in turn is a 100% subsidiary of Abbott Laboratories, USA.
+On the reference to the Transfer Pricing Officer (TPO), the TPO noted that
+AHPL has entered into certain international transactions with its AEs. AHPL
+submitted a Transfer Pricing Study Report, which deals with the nature and
+terms of international transactions and also the functional and economic
+analysis of such transactions. The details of international transactions
+reported by the assessee are as follows:
+
+    
+    
+         Sr.   International Transactions                     Amount in      Method
+         No.                                                  (IN Rs.)
+         1)    Import of spares                                   13,855,754 TNMM
+         2)    Import of finished goods                        3,159,506,638 TNMM
+         3)    Purchase Return                                       127,440 TNMM
+         4)    Sale of Goods                                       2,573,613 TNMM
+         5)    Import of Diagnostic equipments                   197,689,297 TNMM
+         6)    Export of Diagnostic equipments                     2,819,969 TNMM
+         7)    Central Service Charges - cost allocation          38,744,898 TNMM
+         8)    Provision of Business/ market support services    110,376,221 TNMM
+         9)    Reimbursement of expenses (Receipts)                7,990,110     CUP
+         10)   Reimbursement of expenses (Payments)               32,124,472     CUP
+    
+    
+    
+
+Central Service Charges - Cost Allocation Rs.38,744,898/-:
+
+5\. During the year the assessee has made payment of Rs.38,744,898/- to Abbott
+GmbH& Co. KG (AE) as the assessee had entered into service center agreement
+dated 09.11.2005 (supplementary agreement to the main agreement dated
+01.12,1988) with the AE. It was submitted vide letter dated 19.01.2015 that
+during the year, the assessee has been allocated the following sums relating
+to 'Payment for Central Service Charges' viz.:-
+
+4 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+    
+    
+    
+    
+         Nature of the Service                   Amount in Euro   Amount in Indian
+                                                                      Rupees
+         Marketing and Strategic Sales Support   376,667          22,910,414
+         Personnel Support                       11,551           702,549
+         Training arid Product Support           121,071          7,364,053
+         Accounting, Finance and MIS support     127,711          7,776,882
+         Total                                   637,000          38,744,898
+    
+    
+
+> 6\. During tine course of assessment proceedings and vide note sheet entry
+> dated 14-01-2015, the AR of the assessee was asked to furnish details
+> regarding the central service charges paid. He was also asked to furnish the
+> explanation regarding expected/actual benefits, justification regarding such
+> payments being made in an arm's length situation along with the documentary
+> evidence to support the stand. Assessee in response justified the payment of
+> Central services charges on the ground the said transaction is benchmarked
+> by TNMM by comparing the operating results of the assessee's distribution
+> segments with functionally uncontrolled transactions. The Assessing Officer
+> was not convinced. He made transfer pricing adjustment of Rs. 30,265,476/-
+
+by concluding as under :-
+
+> "On the basis of analysis above, it can be concluded that for establishing
+> that the services are actually rendered, the assessee is required to
+> maintain and submit documentation and evidence. The second aspect of intra
+> group services is the quantification of such services in terms of actual
+> expenditure incurred and commensurate benefits derived there from is the
+> subject matter of transfer pricing. The expected benefit must sufficiently
+> direct tangible and substantial which was not produced by the assessee. A
+> comparable independent service recipient, under comparable circumstances,
+> would not be willing to pay for that service. If the has received the
+> service, assessee has to maintain proper documentation. In its letter dated
+> 19-01-2015, the only explanation as regards quantification of the benefits
+> in respect of personnel support services was that the salary cost of one
+> human resource manager and one human resource officer is not incurred by the
+> local affiliate, which based on the understanding made available could be
+> around Rs.25 to 30 lakhs as today's cost as discussed in para 5.7 above and
+> the value of international re packages for Accounting, Finance and MIS
+> Software that was made available and customized to assessee's requirements
+> by Abbott GmbH could be anywhere more than Rs. 1 crore as per today's cost.
+> Accordingly, the arm's length value of payment made towards central service
+> charges (Personnel support and Accounting, Finance and MIS support)is
+> considered as Rs. 8,479,431 /- and therefore adjustment of Rs. 30,265,467 /-
+> to the total income of the assessee is proposed."
+
+5 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+7\. Upon assessee's appeal learned CIT(A) confirmed the TPO's action. He held
+as under :-
+
+> As per the TPO during the year the appellant has allocated following sums
+> relating to "payment for Central Service charge"
+    
+    
+            Nature of the service                       Amount in Euro   Amount in Rs.
+            Marketing and strategic sales support       376,667          22,910,414
+            Personnel Support                           11,551           702,549
+            Training and product support                121,071          7,364,053
+            Accounting finance and MIS support          127,711          7,776,882
+            Total                                       637,000          38,744,898
+    
+    
+    
+
+> The assessee had submitted that payment of central service charges have been
+> benchmarked by TNMM by comparing the operating results of assessee's
+> distribution segments with functionally uncontrolled transactions. The TPO
+> was of the view that the act does not say that TNMM is to be applied at the
+> enterprise level and once TNMM is applied, all the international transaction
+> are at arm's length. So just because TNMM is applied at the enterprise
+> level, it does not automatically follow that each class of transaction
+> including central service charges are at arm's length. The TPO has analysis
+> the Central Service Charge under the CUP method. Reliance was placed in the
+> case of Star India Pvt. Ltd. Vs ACIT (2008-TIOL- 426- ITAT- MUMBAI) wherein
+> it was held that distinctive activities are to be analyzed separately. The
+> TPO also placed reliance in the case of UCB India Pvt. Ltd (317 ITR 292
+> (AT)(MUM) It is seen that the appellant has two product lines. One is
+> pharmaceuticals products and the second is medical healthcare products. The
+> transaction which is presently under discussion is the medical/healthcare
+> business. The appellant is merely a distributor in the above furnished good.
+> The TPO has elaborately discussed in his order that in the third party
+> situation an assessee who is engaged in distribution function will never
+> agree to make such payments as for preparing strategic plans, financial
+> analysis and financial forecasting, marketing research and training support.
+
+> The second question to consider was whether asssseee has been able to lay
+> any evidence to show that these services were in fact rendered by the AE and
+> availed by the assessee. It was submitted that m..... evidences were
+> submitted for the first time during the course of assessment proceedings for
+> AY 2011-12.
+
+> The TPO has submitted that assessee has been able to substantiate to an
+> extent the receipts of services towards personnel support services and
+> accounting, finance and MIS support services based on the documentary
+> evidence provided but has failed to levy any evidence to show that the wide
+> no of services in relations to marketing and strategic sales. This cannot be
+> charged on the distributor who is merely distributing the products. The TPO
+> further contended that comparable independent services recipients, under
+> comparable circumstance would not be willing to pay for that services.
+
+6
+
+> M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> I have gone through the appellant's contentions and have discussed TPO's
+> finding also. It is pertinent to bring to the record that in AY 2007-08,
+> 2008- 09 and 2009-10 the DRP has rejected the appellant's contentions and
+> approved the AO's order in toto.
+
+> During the current year the appellant has maintained that it has maintained
+> documents that services were provided but I am of the opinion that still the
+> proper documentation is not up to mark. In the light of the above discussion
+> the arm's length nature of payment made towards central services charges
+> (personnel support and Accounting, finance and MIS Support) consider at Rs.
+> 84,79,431/- and therefore adjustment of Rs 30,265,467/- to the total income
+> of the appellant is confirmed.
+
+8\. Against this order the assessee is in appeal before us.
+
+9\. We have heard both the counsel and perused the records. Learned Counsel
+submitted that identical transfer pricing adjustment was also done in earlier
+years. He submitted that the matter has travelled to the ITAT in ITA No. 535,
+& 7595/Mum/2012, 1320/Mum/2014 & 1797/Mum/2015 vide common order dated
+30.1.2019 and the ITAT had deleted the transfer pricing adjustment.
+
+10\. Per contra, learned Departmental Representative did not dispute the above
+proposition.
+
+12\. Upon careful consideration, we find that the identical issue was
+considered by the ITAT in assessee's own case in earlier year referred above.
+The conclusion of the Tribunal is gainfully referred as under :-
+
+> 14\. We have heard the rival submissions. At the outset, we find that the
+> assessee pursuant to the Service Centre Agreement had shared the cost
+> towards Central Services Charges in respect of sales and marketing expenses;
+> accounting; finance and MIS support services; training and product support
+> services; and personnel support services. The assessee being participant to
+> the Service Centre Agreement entered into by Abbott GmbH with various Abbott
+> affiliates had to absorb certain costs that were allocated by the group to
+> various participants including the assessee- company. In other words,
+> certain services as detailed in the Service Centre Agreement, which are
+> already reproduced hereinabove, were to be rendered at Abbott GmbH Germany
+> and the cost incurred thereon would have to be shared by all the participant
+> countries including the assessee-company in the ratio of turnover. These
+> services are in the nature of shared services and are therefore customized
+> for the Abbott group. We find that Abbott GmbH allocated the portion of the
+> budgeted expenses on quarterly basis, based on  7 M / s . Ab b o t t H e a l
+> th c a r e P v t. L td .
+
+sales to each AEs to whom the Central Services were rendered. At the end of
+the year, the actual amount was determined based on which the final allocation
+for the year got crystallized. The total cost of services rendered by Abbott
+GmbH in the sum was 33135000 Euros and the assessee's share out of that were
+239000 Euros comprising of costs incurred towards strategic sales and
+marketing support services; training and product support services; accounting
+and finance and MIS support services and personnel support services. We find
+that the assessee had explained the nature of these individual services as
+under:-
+
+> "3.2.1. Strategic Sales and Marketing support Abbott GmbH invites Marketing
+> Manager for upgrading their selling skills. This meetings are generally
+> forums used to interact with Germany and other 'countries Marketing Manager
+> and share their experience of selling which can be replicated in India.
+
+> This becomes more important when AHPL is launching new products. 'The
+> benefits of products as well as positioning are shared with the Marketing
+> managers. These acquired skills are used in India for the benefit of
+> existing customer or potential customer.
+
+> 3.2.2. Training and Product Support services : In this case, service
+> engineers are invited for training during the launch of new instruments as
+> well as for upgradation of existing skills. The service engineer is being
+> familiarized with the product in technical' terms like how the Instruments
+> 'function, how is the preventive maintenance done, how the instruments is
+> installed at customer location, what are the precautions taken for
+> installation etc. and other finer points of the instruments are explained in
+> details. This training is of immense help when the instrument is launched in
+> India.
+
+> 3.2.3. Accounting Finance and MIS support services: ITS (Instrument tracking
+> system), SEAS (Service Equipment Accounting System), DFAIFLEX are few
+> package installed in AHPL. which are being maintained by Abbott GmbH,
+> Germany. ITS system is used to track Instrument location in India whereas
+> SEAS is used to calculate service equipment amortization and DFAIFLEX is
+> used to generate reports by PGN for analysis, control and If necessary take
+> corrective action. It is also a planning tool used to forecast and is also
+> used for MIS. India also uses ADOC (order entry) and FMS (margin tracking)
+> systems.
+
+> 3.2.4. Personnel Support Services:
+
+> HR functioning in Germany comes up with Incentive scheme for sales manager
+> and then they also approve the same."
+
+15\. The ld.TPO determined the arm's length price of sales and marketing
+support services to the tune of 133000 Euros equivalent to Rs.79,04,690 at Rs.
+Nil and made adjustment to the same in transfer pricing order u/s 92CA(2) of
+the Act. We find that the assessee had justified the same in the following
+manner:-
+
+8
+
+> M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> (a) The assessee gets characterized as a normal risk distributor, which has
+> been accepted by the ld.TPO in his order.
+
+> (b) From the risk profile of the assessee, which is not disputed, inventory
+> risk lies with the assessee.
+
+> (c) Since the assessee is bound to sell the imported products from AE in the
+> local market in India, the entire distribution risks also vests with the
+> assessee.
+
+> (d) The expenditure that has been absorbed by the assessee by way of
+> reimbursement to AE, based on gross cost allocation on shared services, were
+> incurred in order to maintain the common methodology, manner of presentation
+> of financial statements, common accounting policies and procedures in
+> respect of various transactions of the group, which would enable smooth
+> consolidation of financial statements at global level; MIS reporting system,
+> common incentive schemes to all the employees of the group in the respective
+> carter, proper training given to the respective employees of the respective
+> participants for marketing the products of the assessee.
+
+16\. In view of the above, we hold that the assessee obviously had to incur
+certain advertisement and marketing expenses for distribution of its products.
+In any case, we also hold that the ld.TPO cannot look into the propriety of
+incurrence of expenses by the assessee. The role of ld.TPO is to see whether
+all transactions carried out by the assessee with its AEs fall within the
+ambit and meaning of international transaction u/s 92B of the Act and that
+whether the same was transacted at arm's length price, for which purpose the
+determination of price should be made in accordance with any of the methods
+prescribed in the statute u/s 92C of the Act. From the Transfer Pricing Study
+Report, the functions performed by supplying AEs and functions performed by
+the assessee are enumerated in detail. One such functions performed by the AE
+to all the participants companies including the assessee-company was marketing
+support services, which admittedly include new product pre-marketing
+activities and training given to the product management team by Abbott Group
+at global level. The training is imparted on the latest techniques and
+practices in marketing, the focus and emphasis is on delivering quality
+products to customers and regular services to them in terms of medical,
+product literature. Apart from this, marketing support services rendered by
+AEs also includes scientific promotion of the products through participation
+in medical meetings, both in India and abroad. Obviously, the AEs at global
+level had to incur expenses for rendering these services, which are meant for
+all participating countries across the globe. Hence, those costs ought to be
+shared by all the participating companies. It is not disputed that the total
+cost incurred by the group and the cost allocation made to assessee-company
+under each head was duly certified by an independent Accountant, who was
+appointed for this specific purpose in accordance with the conditions laid out
+in the Service Centre Agreement. When such costs that had been allocated to
+the assessee- company had been absorbed by making the payment to AEs for the
+services rendered by AEs (which is not disputed by the Revenue before us),
+then the  9 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+action of the lower authorities in determining the arm's length price of such
+services at Rs.Nil is unwarranted.
+
+17\. We also find from one of the functions performed by the assessee- company
+is towards "Market Research and Strategic Marketing". Under this category, the
+assessee carries out marketing functions in respect of the product imported
+from its AEs. Apart from carrying out market study and analysis, the assessee
+carries out competitor analysis, ascertains price data of similar products,
+market trends etc. In addition, the assessee's field force of marketing
+representatives pay field visits to Doctors and participate in medical
+conferences. As regards imports of reagents and diagnostic equipments, the
+assessee leverages on the promotional, scientific and technical material
+developed by Abbott Germany. Additionally, Abbott Germany provides the
+assessee, service engineers with scientific and technical product training and
+other necessary support to enable the assessee's employees market the same
+effectively in India.
+
+18\. Apart from rendering strategic marketing functions, the assessee also
+carries out warehousing and inventory management functions and distribution
+functions in India. Hence, the assessee carries significant risks as a
+distributor in this normal course of distribution process. We find from the
+risk profile of the assessee that the assessee is exposed to significant
+market risks and loss, if any, on account of lower/no demand for product due
+to the change in the market structure and customer needs would have to be
+borne by the assessee. This risk is reduced substantially because of the
+presence of dynamic research programme of Abbott Germany, which provides the
+assessee with a large suite of new products to choose and introduce in India,
+in line with customer requirements. The assessee also has to maintain
+sufficient inventory of traded goods so that the sales are not reduced for
+want of stock. Hence, significant inventory risks coupled with the carrying
+cost of interest also lies with the assessee. This is mitigated by timely
+supply of quality goods by the assessee to the AEs so that the assessee does
+not get into the situation of stock out. The entire group risk arising as a
+result of sales to Indian customers is borne by the assessee. Hence, the
+assessee had to mandatorily leverage and mitigate those risks by providing
+quality products and following consistent practice at par with the global
+practices for which the shared costs were reimbursed to AEs.
+
+12\. Thereafter the Tribunal referred to the decision of the ITAT in the case
+of Firmenich Aromatics India Pvt. Ltd. Vs. ACIT (ITA no. 2590/Mum/2017 for
+A.Y. 2012-13 vide order dated 23.4.2018) and the ITAT order in the case of
+Dresser Rand India Pvt. Ltd. (53 SOT 173). The Tribunal further concluded as
+under :-
+
+> 21\. In view of the above, we hold that the lower authorities were not
+> justified in determining the arm's length price in respect of marketing
+> expenses at Rs. Nil as against the claim of Rs.79,04,690.
+
+10
+
+> M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+22\. With regard to the remaining expenses like -
+
+    
+    
+    (i)   Personnel Expenses            8,000 Euros
+    (ii) Training Expenses             48,000 Euros
+    (iii) Account and Miscellaneous    51,000 Euros.
+    
+    
+
+The ld.TPO had made adhoc disallowance of 25% and held that 75% of the said
+expenditure were at arm's length price. We hold that there is no basis for the
+ld.TPO to arrive at this conclusion when the entire cost allocation sheet duly
+certified by an independent Accountant was very much placed before him for his
+examination. In any case, the ld.TPO cannot make any adhoc disallowance while
+determining the ALP of international transaction. His duty is to determine the
+ALP by following any of the five methods prescribed in section 92C of the Act
+r.w.s. 10B of the I.T. Rules. In this regard, we find that the Hon'ble
+jurisdictional High Court in the case of CIT v. Johnson & Johnson reported in
+ITA No.1030 of 2014 dated 07.03.2017 had held as under:-
+
+> "(d) We find that the impugned order of the Tribunal upholding the order of
+> the CIT(A) in the present facts cannot be found fault with. The TPO is
+> mandated by law to determine the ALP by following one of the methods
+> prescribed in Section 92C of the Act read with Rule 10B of the Income Tax
+> Rules. However, the aforesaid exercise of determining the ALP in respect of
+> the royalty payable for technical knowhow has not been carried out as
+> required under the Act. Further, as held by the CIT(A) and upheld by the
+> impugned order of the Tribunal, the TPO has given no reasons justifying the
+> technical knowhow royalty paid by the Assessing Officer to its Associated
+> Enterprises being restricted to 1% instead of 2%, as claimed by the
+> respondent assessee. This determination of ALP of technical knowhow royalty
+> by the TPO was ad- hoc and arbitrary as held by the CIT(A) and the Tribunal.
+
+> (e) In the above view, the question as proposed does not give rise to any
+> substantial question of law. Thus, not entertained."
+
+23\. In view of the aforesaid factual observations in the light of evidences
+available on record and respectfully following the decision of the Hon'ble
+jurisdictional High Court in the case of Johnson & Johnson (supra), we hold
+that the action of the Revenue in accepting only 75% of the expenses to be at
+arm's length is not correct. Accordingly, we direct the ld.TPO to consider the
+entire 1,07,000 Euro (8,000 + 48,000 + 51,000) in respect of three expenses as
+stated supra, as the expenditure incurred for the purpose of business of the
+assessee and which is determined to be at arm's length and accordingly no
+adjustment in that regard is called for.
+
+24\. We also find that this issue is common in other appeals also for
+assessment years 2007-2008, 2008-2009, 2009-2010 and 2010-2011 with the
+following minor variance, which are tabulated herein below:-
+
+11 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+    
+    
+    
+    
+                Assessment year   Marketing           Personnel Training           Accounting,
+                                  strategic sales     support   and product        finance and
+                                  support                       support            MAM support
+                2008-2009         ALP at NIL
+                2009-2010         ALP at NIL
+                2010-2011         ALP was determined at Rs. 25 lakhs on adhoc basis
+    
+    
+
+> 25\. Our findings given in assessment year 2007-2008 would hold good for
+> other assessment years also, which are in appeal before us. Accordingly, the
+> grounds raised by the assessee with regard to Transfer Pricing Adjustment in
+> respect of these Central Services Charges are allowed for all the assessment
+> years.
+
+13\. We find that since in assessee's own case for earlier years identical
+transfer pricing adjustment has been deleted by the ITAT. It is not the case
+that the facts in the present year are different. It is also not the case that
+Hon'ble Jurisdictional High Court has reversed the decision of the ITAT.
+Hence, following the precedent as above, we set aside the orders of the
+authorities below and decide the issue in favour of the assessee.
+
+14\. In the result, assessee's appeal is allowed.
+
+Revenue's appeal :
+
+Apropos issue of depreciation of non-compete fees.
+
+15\. The Assessing Officer in this case it is noted that the assessee has
+claimed depreciation @ 25% of non-compete fees of Rs. 5,13,54,60,000/- paid as
+part of slump sale agreement. On enquiry in this regard, the assessee
+responded as under :-
+
+> i. A non-compete is a negative right restraining another person from
+> competing. As a part of contractual obligations, if a buyer secures such a
+> right it is clear that he has in fact secured an invaluable right.
+
+> ii. Non-compete right is a "business or commercial right". The fee is in
+> lieu of which the assessee has secured right to carry on business without
+> any competition from Piramal (post-acquisition for 8 years), iii. Such
+> business right is of "similar nature" to know-how, patents, copyrights,
+> trademarks, licences and franchises, iv. Reliance is placed on  12 M / s .
+> Ab b o t t H e a l th c a r e P v t. L td .
+
+> a. CIT vs Ingersoll Rand International Ind. Ltd. [2014] 48 taxmann.com 349
+> (Karnataka High Court) b. Pentasoft Technologies Ltd vs. DCIT [2014] 41
+> taxmann.com 120(Madras High Court) c. Indglobal Corporate Finance (P.) Ltd
+> vs. ITO [2012] 19 ITR (T) 483 (Mumbai - Trib.) d. Schott Glass India Pvt.
+> Ltd. v. DCIT (ITA No. 1698/Mum/2013) e. DCIT vs. Owens Corning Industries
+> (India) P.Ltd. [2014] 511 taxmann.com 276 (ITAT Hyderabad) f. ITO vs.
+> Medicorp Technologies India Ltd. (2009) 122 TTJ 394 (ITAT Chennai) g. ACIT
+> vs. Real Image Tech. (P.) Ltd (2009) 177 Taxmann 80 (ITAT Chennai) h. Serum
+> Institute of India Ltd. vs. ACIT [2012] 147 TTJ 594 (Pune)
+
+16\. However, the Assessing Officer was not convinced. He held that Hon'ble
+Delhi High Court in the case of Sharp Business System vs. CIT (ITA No.
+492/2012) held that the non-compete fees paid by the taxpayer would not be
+allowed as revenue expenditure since the benefit accrued was in capital field
+for a substantial period of time. Further, the non-compete fees are not
+eligible for depreciation under section 32(1)(ii) of the Income Tax Act, 1961
+because only intangible rights enforceable against the world at large would
+qualify for depreciation. In view of the above, the assessee is not entitled
+to claim depreciation on non-compete fees paid. Accordingly, the depreciation
+of Rs. 128,38,65,000/- on non-compete fees is hereby disallowed.
+
+17\. Upon assessee's appeal learned CIT(A) reproduced the assessee's
+submission. Thereafter learned CIT(A) noted the following submission of the
+assessee and made the same ground for allowing assessee's appeal by observing
+as under :-
+
+> "During the course of appellate proceedings the appellant submitted that it
+> had entered into a Business Transfer Agreement (BTA) dated May 21, 2010 with
+> Piramal Healthcare Ltd (Piramal) in order to acquire Piramal's Base Domestic
+> Formulations business on a slump sale basis. It was further  13 M / s . Ab b
+> o t t H e a l th c a r e P v t. L td .
+
+submitted that in this case the seller i.e. Piramal has agreed not to engage
+in competing activities for a period of eight years in India or other emerging
+markets, to ensure that the Appellant can operate the acquired business
+smoothly, without the threat of any direct or indirect competitions from the
+seller. The appellant further contended that section 32(1)(ii) specifically
+mentions certain types of intangible assets( namely Knowhow, patents,
+copyrights, trademarks, license and franchises) it also has a residuary clause
+covering " any other business or commercial rights of similar nature" so
+according to appellant ron compete fees falls under the residuary clause
+Reliance was placed on following case laws
+
+1\. CIT vs. Ingersoll Rand International India Ltd (2014) 227 Taxman 176
+(Karnataka High Court)
+
+2\. Pentasoft Technologies Ltd. Vs DCIT (2014)222 Taxman 209 (Madras High
+Court).
+
+The appellant submitted that without prejudice if you are not in agreement
+with the Appellant's contention that in alternative payments made towards non
+compete fees may be treated a revenue expenses laid out for purpose of the
+business, and allowable in the year in which the expenses was incurred (F.Y.
+2010-11). It further submitted that expenses may be allowed proportionality as
+deferred revenue expenses allowable over a period of eight years. From the
+above analysis it is seen that the appellant's expenditure or non compete fees
+can be claimed as deduction u/s 37(1) of the IT Act.
+
+There are many judgements which do not consider non compete Tees as capital
+expenditure. Relying on the following case laws I am of the considered opinion
+that the appellant can be given deduction u/s 37(1) as deferred revenue
+expenditure allowable for a period of eight years( the relevant period of non
+compete).
+
+Reliance is placed on following case laws - Decision of Hon'ble Mumbai
+Tribunal in Premier Optical (P) Ltd vs ACIT (2008) 120 Taxman 167
+(Mumbai)(MAG) wherein Hon'ble Tribunal held that non compete fees incurred for
+restraining the recipients for a short or limited period to increase
+profitability of the assessee is not a capital expenditure. The Tribunal
+further held that since the expenditure was incurred for five years, the same
+should be allowed over a period of five years. The decision has been followed
+in a Hidelberg Cement India Ltd vs ACIT (2014) 31 ITR(T)582( Mumbai Tribunal).
+
+Orchid Chemicals & Pharmaceuticals Ltd vs ACIT (2011) 7 ITR (T) 601 (Chennai).
+The Tribunal relied on the principles laid down in the decision of the Apex
+Court i in Madras Industrial Investment Corporate Ltd vs ACIT (1997) 225 ITR
+802 (SC) in the context of allowance of deferred revenue expenditure being
+discount on debentures, the Hon'ble Tribunal held that the non compete fee
+paid securing an advantage over a period of years should be allowed as
+deferred revenue expenditure over a period of agreement.
+
+14
+
+M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+Hence relying on the above discussions I direct the AO to treat the non
+compete fees as deferred revenue expenditure for a period of eight years.
+
+The ground of appeal is Allowed."
+
+18\. Against the above order the Revenue is in appeal before us.
+
+19\. Against this order revenue is in appeal before us. We have heard both the
+Counsel and perused the records. We find that the issue in dispute is the
+depreciation/amortisation of the non-compete fee paid. The assessing officer
+has relied upon honourable Delhi High Court decision in the case of Sharp
+business system (supra) and disallowed the claim of the depreciation on the
+ground that the non-compete fee paid was in capital field.
+
+20\. As against the above we note that learned CIT(A)has relied upon case laws
+from honourable Karnataka High Court and honourable Madras High Court as under
+:-
+
+1\. CIT vs Ingersoll rand international ( 227 Taxmann176) Karnataka HC
+
+2\. Pentasoft technologies vs DCIT (222 Taxman 209) Madras HC
+
+21\. In these case laws depreciation/amortisation of the non-compete fee was
+held to be allowable on the ground that as held by honourable Madras High
+Court it strengthens the transfer of IPR and as held by honourable Karnataka
+High Court it fell into the realm of definition under section 32. No decision
+from honourable jurisdictional High Court has been cited before us. In this
+view of the matter honourable Apex Court decision in the case of Vegetable
+Products Ltd. (88 ITR 192) has to be followed. In the said case law honourable
+court had expounded that if two constructions are possible the one in favour
+of assessee should be adopted. Since the decision of the learned CIT(A) is in
+accordance with the ratio arising from the decision of honourable Karnataka
+High Court and honourable Madras High Court as above we do not find any
+infirmity in the same in absence of any direct jurisdictional High Court
+decision on the subject. Hence we uphold the order of ld CIT(A) on this issue
+15 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+Apropos issue of applicability of provision of section 43A :
+
+22\. On this issue the Assessing Officer observed that during the assessment
+year under consideration, foreign exchange gain of Rs. 308,16,00,000/- on
+restatement of purchase consideration payable by assessee to Piramal is
+credited to the profit and loss account in compliance with the Accounting
+Standard 11 - The effects of change in foreign exchange rate' - which provides
+for accounting for a foreign currency transaction denominated in foreign
+currency. The assessee has bifurcated the foreign exchange gain Rs.
+308,16,00,000/- into (a) gain on capital account Rs. 306,55,23,898/- (Fixed
+assets & intangible assets, goodwill) and (b) gain on current account Rs.
+1,60,76,102/- (i.e., inventory, accounts receivable and loans and advances).
+The assessee has offered Rs. 1,60,76,102/- as revenue receipt and offered for
+taxation. However, amount of Rs. 306,55,23,898/- has been treated as capital
+receipt not chargeable to tax. The Assessing Officer asked the assessee to
+justify why the same is not a revenue receipt and alternatively the same
+should not be reduced from the capital cost of asset concerned. The assessee's
+response was noted by the Assessing Officer as under :-
+
+> "In response, the assessee vide letter dated 14.01.2015 submitted that
+> whether a gain accruing to an assessee is a revenue receipt or a capital
+> receipt depends upon whether the gain is in respect of a trading asset or a
+> capital asset. The amount in foreign currency is utilized or intended to be
+> utilized in the course or for a trading purpose!, any gain or loss arising
+> from fluctuation in its value on account of alteration in the rate of
+> exchange would be a trading gain or loss. However, where the underlying is
+> of capital nature, the gain or loss arising from the foreign currency
+> fluctuation will be a capital receipt or loss. Accordingly, the notional
+> gain on reinstatement of the liability to the extent Rs. 306,55,23,898/- is
+> capital in nature, is not taxable.
+
+> With regard to why the foreign exchange gain on re-instatement of 'deferred
+> purchase consideration payable' should not be reduced from capital cost of
+> asset is concerned, the assessee stated that adjustment vis-a-vis foreign
+> exchange gain/(loss) is governed by the provisions of section 43A. For
+> section 43A to be applicable the assessee should acquire the asset from a
+> country outside India. This essential condition is not met in this case as
+> the acquisition of 'base domestic formulation business' by slump sale, is a
+> domestic transaction involving acquisition of assets in India. Therefore
+> provisions of section 43A will not be applicable."
+
+16 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+23\. However, the Assessing Officer was not satisfied. He referred to the
+provisions of section 43A. He noted that the assessee has acquired base
+domestic formulation business. He referred to the business transfer agreement
+entered following some important definition as under :-
+
+> "Business" means the business of researching, developing, formulating,
+> manufacturing, selling, marketing, distributing, importing or exporting
+> generic pharmaceuticals products in finished form (including the Products
+> and the R&D Products) and related services of the base: domestic formulation
+> and mass market branded formulation (Truecare™) businesses of Seller and PHL
+> Pharma Private Limited (including the divisions set forth on Exhibit E) and
+> such businesses are conducted in India and any Emerging Market by Seller and
+> PHL Pharma Private Limited immediately prior to the date of this Agreement
+> (subject to changes prior to Closing permitted in accordance with Section
+> 7.2), but specifically excluding Other Businesses. It is agreed and
+> understood that the Business does not include any Excluded Assets or
+> Excluded Liabilities;
+
+> "Intellectual Property" means all of the following anywhere in the world and
+> all legal rights, title or interest in, under or in respect of the following
+> arising under applicable Law, whether or not filed, applied for, perfected,
+> registered or recorded and whether now or later existing, filed, issued or
+> acquired, including all renewals: (a) all Patents (b) all copyrights,
+> including copyrights in software, copyright registrations and copyright
+> applications, copyrightable works; (c) all mask works, mask work
+> registrations and mask work applications; (d) all Trademarks; (e) all
+> Internet addresses and domain names and web page content relating to the
+> foregoing; (f) all inventions (whether patentable, patented or unpatentable
+> and whether or not reduced to practice); (g) all know-how that is
+> proprietary and confidential and which is not known within the wider
+> pharmaceutical industry, including technical know-how, process know-how,
+> technology, technical data, trade secrets, confidential business
+> information, manufacturing and production processes and techniques,
+> regulatory requirements and information, clinical data and protocols,
+> research and development information ..."
+
+> "Patents" means all national, regional and international patents, patent
+> applications, patent disclosures, utility models, utility model
+> applications, petty patents, design patents and certificates of inventions,
+> and all related re- issues, re-examinations, divisions, revisions,
+> restorations, renewals, extensions, provisionals, continuations and
+> continuations in part, and all registrations and applications for
+> registration of any of the foregoing;
+
+> "Registrations" means the authorizations, approvals, licenses, permits,
+> certificates, or exemptions issued by a Governmental Authority in India, Sri
+> Lanka or Nepal (including: product certifications and rectifications;
+> manufacturing approvals, authorizations and licenses; pricing and
+> reimbursement approvals; and labeling approvals) held by Seller or its.
+> Affiliates immediately prior to the Closing that are required for the
+> research, development, formulation, manufacture, sale, marketing,
+> distribution,  17 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> importation or exportation of the products of the Business in India, Sri
+> Lanka and Nepal.
+
+24\. Thereafter the Assessing Officer referred to certain portion of the
+agreement as under :-
+
+> Article 2 deals with Agreement to Sell and Purchase in which Section 2.1
+> defines the term "Transferred Assets". As per clause (d) to the same it is
+> stated:
+
+> (d) the Contracts, Registrations, Intellectual Property rights and all other
+> assets, rights and properties which Seller acquired from Hoechst Marion
+> Roussel Limited related to the research, development, formulation,
+> manufacture, sale, marketing and distribution of Haemaccel solely within
+> India, Nepal and Sri Lanka.
+
+> Clause (c) to Section 2.5 further states with regard to Intellectual
+> Property:
+
+> (c) Effective as of the Closing, Seller, on behalf of itself and its
+> Affiliates, shall grant to Purchaser and its Affiliates for a fixed-term of
+> eight (8) years, an irrevocable, exclusive (even with respect to Seller and
+> its Affiliates) and royalty-free right and license (with the right to grant
+> sublicenses to distributors, agents and wholesalers (but only to the extent
+> necessary to distribute pharmaceutical products on behalf of Purchaser), and
+> to third party manufacturers (but only to the extent necessary to
+> manufacture on behalf of Purchaser)) to use the Seller Corporate Namejbr
+> purposes of making, luwing made, using, selling, offering to sell, importing
+> or exporting generic pharmaceutical products in finished form in India,
+> Nepal and Sri Lanka; provided, however, that the present license shall not
+> be construed to limit the right of Seller and its Affiliates to use the
+> Seller Corporate Name in the Other Businesses. Seller hereby acknowledges
+> and agrees that Purchaser shall have the right to become the registered user
+> of the Seller Corporate Name within India, Nepal and Sri Lanka and
+> accordingly the Parties liereto shall make the necessary applications to the
+> registrar of Trademarks under the (Indian) Trade Marks Act, 1999 and similar
+> applicable Laws in Nepal and Sri Lanka for and to the intent that Purchaser
+> shall be registered as registered user in respect of the Seller Corporate
+> Name for the purposes contemplated by this Section 2.5(c). Any use by
+> Purchaser or its Affiliates of the Seller Corporate Name is subject to their
+> use of the Seller Corporate Name with the standards of quality in effect for
+> the Seller Corporate Name as of the closing Date. Any goodwill from the use
+> of the Seller Corporate Name by Purchaser and its Affiliates shall inure
+> solely to the benefit of Seller. Purchaser and its Affiliates shall
+> indemnify and hold harmless Setter and its Affiliates for any Losses arising
+> from or relating to the use by Purchaser or any of its Affiliates of the
+> Seller Corporate Name.
+
+> Section 10.6 on Non-competition; Non-solicitation states as below:
+
+> (a) In view of above transactions contemplated by the terms of this
+> Agreement and the acquisition by Purchaser of the goodwill, during the  18 M
+> / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> period commencing on the Closing Date and ending on the eight (8th)
+> anniversary of the Closing Date (or, if not enforceable for such period in
+> any country under the Competition/Investment Laws of such country, for such
+> shorter period as shall be enforceable of such country) (the "Restricted
+> Period"), neither Promoter Group nor Seller shall, and Promoter Group and
+> Seller shall cause their respective Affiliates (and their respective
+> successors and assigns (whether by operation of law or otherwise)), other
+> than, except as otherwise expressly provided below in Section 10.6(b), a
+> Competing Acquiring Person, not to, directly or indirectly: (i) engage in
+> any business that conducts any Purchaser Competing Activities in India
+> and/or any Emerging Market; or
+
+> (ii) own an interest in manage, operate, join, control, lend money or render
+> financial or other assistance to or participate in, as a partner,
+> stockholder, co-venturer, consultant, or otherwise, any Person that is
+> engaged in the business of conducting any Purchaser Competing Activities in
+> India and/or any Emerging Market; ..."
+
+25\. Referring to the above the Assessing Officer held as under :-
+
+> "8.5. From the reading of above definitions and sections, it can be said
+> that the capital assets acquired by the assessee relates to business in
+> India, Nepal, Sri Lanka and Emerging Markets. The Goodwill acquired by the
+> assessee is clearly not an India specific right but it is from country
+> outside India as well. The brand name of Piramal Healthcare goes beyond
+> India. The Intellectual Property rights are defined as worldwide
+> rights/title/interest. The non-compete relates to India and Emerging
+> Markets. There are many other clauses which reinforce the argument.
+
+> As per the provisions of section 43 A, if any payment is made towards the
+> whole or a part of the cost of the asset, then the increase/decrease in
+> foreign exchange, the same has to be reduced from the cost of the asset. The
+> provisions of the section applies to the assessee. The copyrights,
+> trademarks, intellectual property, non-compete fees, etc. are the capital
+> assets which are acquired from a country outside India.
+
+> 8.6. In view of above, the amount of Rs. 306,55,23,898/- is reduced from the
+> cost of the asset on which 25% depreciation has been claimed. Therefore, the
+> effective claim of depreciation reduces by Rs. 76,63,80,975/- and the same
+> is added to the total income of the assessee."
+
+26\. Against the above order the assessee is in appeal before learned CIT(A).
+Learned CIT(A) reproduced the submission of the assessee. Thereafter referring
+to certain portion of the assessee's submission and held that ground of appeal
+is allowed. Learned CIT(A) held as under :-
+
+> "During the course of assessment proceedings the AO noticed that assessee
+> has bifurcated the foreign exchange gain of Rs. 308, 16,00,0007- into (a)
+> gain on capital Amount of Rs 306,55,23,898/- [Fixed assets and intangible
+> assets, goodwill] and (b) gain on current account of Rs. 1,60,76,102/- (i.e.
+> inventory, accounts recoverable and losses and advances).
+
+19
+
+> M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> The appellant during the course of assessment proceedings stated that
+> whether a gain accruing to an assessee is a revenue receipt or a capital
+> receipt depends upon whether the gain is in respect of a trading assets or a
+> capital asset. Further the adjustment vis-a- vis foreign gain/loss is
+> governed by the provisions of section 43A, which are not applicable in the
+> present case as the assessee has not acquired the asset from a country
+> outside India. The AO however relied on the provisions of section 43 A and
+> concluded that the capital assets acquired by the assessee inside India.
+
+> During the course of appellate proceedings the appellant submitted that the
+> AO has adjusted (redirect) the foreign exchange gain of Rs. 306,55,23,898/-
+> from', the cost of asset and has added back Rs. 76,63,80,975/- to the
+> taxable income of the appellant being the alleged excess depreciation (at
+> 25%) claimed by the appellant or the unadjusted cost of assets:
+
+> For applicability of section 43A the following conditions should be
+> satisfied a. The assets was acquired by the assessee in any previous year
+> from a country outside India. In the case of appellant it is seen that the
+> first condition is not fulfilled as the appellant is a tax resident of India
+> and had acquired the business in slump sale basis from personnel which is
+> also an Indian company.
+
+> Hence in the light of above discussions the ground of appeal is allowed.
+> However the AO is directed to verify whether the asset is a trading asset or
+> a capital asset."
+
+27\. Against the above order Revenue is in appeal before us. We have heard
+both the counsel and perused the records. We find that as per section 43A
+relevant provision read as under :-
+
+> "43A. Special provisions consequential to changes in rate of exchange of
+> currency.
+
+> Notwithstanding anything contained in any other provision of this Act, where
+> an assessee has acquired any asset in any previous year from a country
+> outside India for the purposes of his business or profession and, in
+> consequence of a change in the rate of exchange during any previous year
+> after the acquisition of such asset, there is an increase or reduction in
+> the liability of the assessee as expressed in Indian currency (as compared
+> to the liability existing at the time of acquisition of the asset) at the
+> time of making payment--
+
+> (a) towards the whole or a part of the cost of the asset; or
+
+> (b) towards repayment of the whole or a part of the moneys borrowed by him
+> from any person, directly or indirectly, in any foreign currency
+> specifically for the purpose of acquiring the asset along with interest, if
+> any,  20 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+> the amount by which the liability as aforesaid is so increased or reduced
+> during such previous year and which is taken into account at the time of
+> making the payment, irrespective of the method of accounting adopted by the
+> assessee, shall be added to, or, as the case may be, deducted from--
+
+> (i) the actual cost of the asset as defined in clause (1) of section 43; or
+
+> (ii) the amount of expenditure of a capital nature referred to in clause
+> (iv) of sub-section (1) of section 35; or
+
+> (iii) (iii) the amount of expenditure of a capital nature referred to in
+> section 35A; or
+
+> (iv) (iv) the amount of expenditure of a capital nature referred to in
+> clause
+
+> (ix) of sub-section (1) of section 36; or
+
+> (v) the cost of acquisition of a capital asset (not being a capital asset
+> referred to in section 50) for the purposes of section 48, and the amount
+> arrived at after such addition or deduction shall be taken to be the actual
+> cost of the asset or the amount of expenditure of a capital nature or, as
+> the case may be, the cost of acquisition of the capital asset as aforesaid:
+
+> Provided that where an addition to or deduction from the actual cost or
+> expenditure or cost of acquisition has been made under this section, as it
+> stood immediately before its substitution by the Finance Act, 2002, on
+> account of an increase or reduction in the liability as aforesaid, the
+> amount to be added to, or, as the case may be, deducted under this section
+> from, the actual cost or expenditure or cost of acquisition at the time of
+> making the payment shall be so adjusted that the total amount added to, or,
+> as the case may be, deducted from, the actual cost or expenditure or cost of
+> acquisition, is equal to the increase or reduction in the aforesaid
+> liability taken into account at the time of making payment."
+
+28\. From the above we note that the above provision is special provision
+consequential to change in rate of exchange of currency. Learned CIT(A) has
+only referred to aspect that under section 43A its applicability depend upon
+the satisfaction of the criteria that the asset was acquired by the assessee
+from a country outside India. Hence, learned CIT(A) held that since this
+criteria is not fulfilled as person from whom business is acquired is also an
+Indian company hence, he has held that section 43A is not at all applicable.
+In this regard we note that learned CIT(A) in his adjudication has not
+considered the finding of the Assessing Officer that the asset involved in
+slump sale included areas of Nepal, Sri Lanka and other. In this view of the
+matter learned CIT(A)'s finding is not at all sustainable. Since learned
+CIT(A) has not considered all aspect of the reasoning given by the Assessing
+Officer  21 M / s . Ab b o t t H e a l th c a r e P v t. L td .
+
+for making the addition, we deem it appropriate to remit this issue to the
+file of learned CIT(A) to consider them afresh and pass a speaking order on
+this issue. Needless to add the assessee should be granted adequate
+opportunity of being heard.
+
+29\. Before parting we may add that the assessee in its submission has
+referred to the decision of Hon'ble Delhi High Court in the case of CUB Pty
+Ltd. Vs. UOI vide order dated 25.7.2016. Learned CIT(A) in his adjudication
+has neither referred to this decision nor dealt with the aspect of Assessing
+Officer's order that the asset acquired included a reference to Sri Lanka and
+Nepal. However, in this regard, we note that the said decision of Hon'ble
+Delhi High Court was with respect to section 9(1)(i) of the Act. It was not
+rendered in connection with section 43A of the Act. It is settled law that
+decision has to be considered in terms of context in which it is rendered.
+
+30\. In the result, this appeal by the Revenue is partly allowed.
+
+Order has been pronounced in the Court on 06.1.2020.
+
+    
+    
+                         Sd/-                                Sd/-
+                    (PAWAN SINGH)                       (SHAMIM YAHYA)
+                   JUDICIAL MEMBER                   ACCOUNTANT MEMBER
+    
+    Mumbai; Dated : 06/1/2020
+    
+    Copy of the Order forwarded to :
+    
+         1.   The Appellant
+         2.   The Respondent
+         3.   The CIT(A)
+         4.   CIT
+         5.   DR, ITAT, Mumbai
+         6.   Guard File.
+    
+                                                                  BY ORDER,
+                    //True Copy//
+    
+                                                            (Assistant Registrar)
+    PS                                                         ITAT, Mumbai
+     
+

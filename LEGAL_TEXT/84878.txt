@@ -1,0 +1,474 @@
+
+
+Authority Tribunal
+
+Accel Frontline Limited vs Commissioner Of Customs ... on 21 January, 2008
+
+Equivalent citations: 2008 (126) ECC 207, 2008 (152) ECR 207 Tri AAR
+
+Bench: P Reddi, A Sinha, C Saha
+
+RULINGS NEW DELHI CENTRAL EXCISE, CUSTOMS AND SERVICE TAX Ruling No.
+AAR/01(Cus)/2008 in Application No. AAR/06(Cus)/2007 Decided On: 21.01.2008
+Appellants: Accel Frontline Limited Vs.
+
+Respondent: Commissioner of Customs (Airports and Air Cargo) Hon'ble Judges:
+
+P.V. Reddi, J. (Chairman), A. Sinha and Chitra Saha, Members Counsels:
+
+For Appellant/Petitioner/Plaintiff: S. Murugappan, Adv., R. Balaji, Consultant
+and R. Neelakantan, Company Secretary For Respondents/Defendant: A.N. Sharma,
+Jt. CDR Subject: Customs Acts/Rules/Orders:
+
+Customs Act 1962 - Sections 14 and 28H(1); Customs Tariff Act, 1985 - Section
+3, 3(1) and 3(5); Customs Tariff Act, 1975 - Section 3(5); Customs Valuation
+(Determination of Price of Imported Goods) Rules, 1988 - Rules 3, 7A, 9 and
+9(1); Customs Valuation Rules, 1988 - Rule 2; Customs Valuation Rules, 2007
+Cases Referred:
+
+Associated Cement Companies Ltd. v. Commissioner of Customs (2001) 4 SCC 593;
+Tata Consultancy Services v. State of Andhra Pradesh 2004 (178) ELT 22; Creg
+v. Planque (1936) 1 KB 669 Citing Reference:
+
+    
+    
+    
+     
+    
+     *                Mentioned
+     
+    
+     ***            Discussed
+     
+    Associated Cement Companies Ltd. v. Commissioner of Customs.	***
+    
+    Creg v. Planque.						*
+    
+    Tata Consultancy Services v. State of Andhra Pradesh.		***
+    
+    
+     
+    
+    Case Note:  
+    
+
+Customs Advance Ruling Data recovery service Valuation Sections 14, 28H(1) of
+the Customs Act, 1962 Rules 3, 7A, 9 of the Customs Valuation (Determination
+of Price of Imported Goods) Rules, 1988 Notification No. 94/96-Cus dated, 16th
+December, 1996 Applicants are engaged in the business of providing services
+for development of information technology infrastructure and software Data
+which is damaged, worn out and had become faulty, has been exported abroad
+where it has been restored to its original quality and has thereafter been
+reimported The medium on which it was contained has been replaced Agency
+abroad will collect a service fee from the Applicant (1) What will be rates of
+import duties under the relevant Customs Tariff for the data recovered and
+reimported in different media; (2) What will be the assessable value as per
+Section 14 of Customs Act, 1962 for the goods exported from India for recovery
+of data and reimported after recovery of the data Held, data exported, albeit
+in a damaged condition, and recovered data imported, have to be considered as
+the same goods, provided the identity of the data exported and imported is
+established Identity of data does not change because of a change in the
+receptacle on which it is contained Import of the data recovered from the
+defective data exported and reimported after restoration of the original
+quality, cannot be denied duty exemption against Sr.No. 2 of Notification No.
+94/96-Cus. on the ground that the data exported is different from the data
+reimported As reimported HDD will be eligible for duty exemption against
+Sr.No. 2 of Notification No. 94/96-Cus, its assessable value will be
+determined as per column 3 of Sr.No. 2, subject to fulfillment of all
+conditions specified in the latter notification Classification Recorded
+Digital Video Discs and Recorded Hard Disc Drives Customs Tariff Act, 1975
+What is the classification of the said goods Held, Recorded Digital Video
+Discs are classifiable under Heading 8523 40 80 of Customs Tariff Act, 1975
+and Recorded Hard Disc Drives are classifiable under Heading 8471 70 20
+Customs Tariff Act, 1975 JUDGMENT Chitra Saha, Member
+
+1\. M/s Accel Frontline Limited, a joint venture in India (hereinafter
+referred to as the Applicant) have filed this application under Sub-section
+(1) of Section 28H of the Customs Act 1962. They state that they are engaged
+in the business of providing services for development of information
+technology infrastructure and software. In Annexure-I to their application it
+is stated that they propose to provide to customers in India the service of
+data recovery, where the data contained in floppy, hard disc drive or any
+other hardware medium, is damaged or corrupted. The applicant would receive
+the data in a defective medium from specific customers for undertaking the job
+of recovery of data. For effecting such recovery, the damaged/corrupted medium
+containing the data would be exported abroad, where data will be recovered and
+stored in a new medium. The data recovered and recorded on a new medium will
+be sent to India, along with the damaged medium from which the data was
+recovered. For rendering this service of recovering the data, the agency
+abroad will collect a service fee from the applicant. Normally, if the
+recovered data is less than 20GB in size, it will be sent in multiple digital
+video discs (DVDs) which will be provided by the foreign agency to the
+applicant free of charge. If the data is more than 20GB, the same will be
+provided on a hard disc drive (HDD) and the cost of such drive will be billed
+to the applicant. In column 12 of the application they have posed the
+following questions for pronouncement of a ruling by this Authority:
+
+(a) What will be the classification and rates of import duties under the
+relevant Customs Tariff for the data recovered and re-imported in different
+media.
+
+(b) What will be the assessable value as per Section 14 of Customs Act 1962
+for the goods exported from India for recovery of data and re-imported after
+recovery of the data.
+
+The applicant have also claimed that Notification Nos. 24/2005-Cus dt.1.3.05
+and 94/96-Cus dt. 16.12.96, have a bearing on the rates of duty applicable for
+their imports.
+
+2\. In Annexure II containing the applicant's interpretation of law and facts,
+it has been claimed that the media containing the data i.e. DVDs and HDDs are
+classifiable under 8523. It is stated that at the time of sending the
+defective media containing the data to be recovered, no duty is applicable.
+When the recovered data is sent back to India on new DVDs and HDDs, these
+imports are exempted from basic customs duty under notification No. 24/2005
+dated 1.3.05 and attract CV duty of 16 per cent under 85.23 of Central Excise
+Tariff. The applicant have claimed total exemption from customs duty against
+sr.No. 3 of Customs Notification No. 94/2006 dated 16.12.96 for the re-
+importation of the DVDs and HDDs containing the damaged/corrupted data which
+had been exported and are proposed to be re-imported, along with the new media
+containing the recovered data.
+
+3\. On the question of valuation of the imports of DVDs and HDDs containing
+the recovered data, the applicant states that the recovered data contained in
+the medium being for the exclusive use of the owner of the data, will not be
+saleable or marketable to any buyer and will have no commercial value. If any
+value has to be determined for the import, it has to be only for the medium in
+which the data is stored after recovery. In the case of the medium DVD, which
+is supplied to the applicant free of charge, the value has to be fixed on the
+basis of comparable costs of such media in India. When the recovered data is
+sent on any other medium, then the value for such medium would be the
+transaction value, i.e. the price charged by the foreign company from the
+applicant for the medium.
+
+4\. Advance ruling in the application has been sought in respect of
+classification and valuation of the following imports:
+
+(a) New DVDs and HDDs in which the data recovered from the DVDs and HDDs
+exported from India, have been stored;
+
+(b) The DVDs and HDDs containing the corrupted/damaged data which were earlier
+exported from India and from which the data recovery was effected.
+
+5\. The Commissioner of Customs, Chennai (hereafter referred to as the
+Commissioner) has submitted his comments on the application vide his letters
+dated 16.8.07 and 14.9.07. The Commissioner states that imports of the
+damaged/corrupted DVDs and HDDs exported from India for the purpose of
+effecting recovery by an agency abroad, of the data contained therein, can be
+accepted to be a case of re-importation entitled to 'nil' rate of basic and
+additional customs duty against sr.No. 3 of Notification No. 94/96-Cus. dated
+16.12.96, so long as these can be identified to be the same as those exported.
+However, bringing into India of new DVDs and HDDs containing the recovered
+data has to be considered as fresh imports, not eligible for exemption as re-
+importation under Notification No. 94/96-Cus., as in the process of retrieving
+the data, the media on which the data was originally contained has been
+changed. He further states that the recorded DVDs and the HDDs are
+classifiable under 8523 40 80 and 8471 70 20 respectively, under the Customs
+as well as the Central Excise Tariffs. The recorded DVDs and the HDDs attract
+'nil' rate of basic customs duty as per sr.Nos. 15(b) and 8 respectively of
+Notification No. 24/2005-Cus. dated 1.3.05. The above media, i.e., DVDs and
+the HDDs, are liable to 'nil' rate of additional customs duty in terms of
+sr.Nos. 22(c) and 17(c) respectively of Central Excise Notification No. 6/2006
+dated 1.3.06. In respect of special additional duty, while the DVDs are
+totally exempted as per sr.No. 1 of Notification No. 20/006-Cus. dated 1.3.06,
+the HDDs attract a duty of 4 per cent in view of para 2 of the said
+notification, read with sr.No. 17 of Notification No. C.E. 6/2006.
+
+6\. In the comprehensive compilation on the application submitted at the time
+of hearing, the Joint Chief Departmental Representative (JCDR) Shri A.N.
+Sharma has reiterated the above comments of the Commissioner.
+
+With respect to the submissions made by the applicant in the application, Shri
+Sharma has strongly rebutted the claim of the applicant that the data
+contained on the media which is being retrieved, has no commercial value. He
+states that data is a saleable commodity, that a data loss episode can cause a
+company dearly in terms of money and time. In this context, he has filed a
+hard copy of a website named Fundoo Data Web Site which quotes the price at
+which data relating to top companies in different states in India are being
+sold to marketing companies. He asserts that the value of the data has to be
+included in the assessable value of the DVDs and HDDs containing the recovered
+data when they are imported. He states that as the importer in the instant
+case is doing a job work and is procuring from the foreign service provider,
+the data after recovery of the same, on a different media, the value of the
+imports may be determined in terms of Rule 3 read with Rule 7A and Rule 9 of
+the Customs Valuation (Determination of Price of Imported Goods) Rules, 1988.
+In particular, he emphasizes that the following elements mentioned in Rule 9
+should form a part of the assessable value:
+
+(i) commissions and brokerage under Rule 9(1)(a)(i).
+
+(ii) the cost of packing whether for labour or materials in terms of Rule
+9(1)(a)(iii).
+
+(iii) Since corrupted data is a material supplied by the importer/agent,
+therefore, its cost in terms of Rule 9(1)(b)(i) & (iii).
+
+(iv) Any element of cost and profit which the agent/importer/job worker
+charges from the owner of the goods in terms of Rule 9(1)(d)&(e).
+
+7\. Shri Sharma has also drawn attention to a news item appearing in Channel
+Times Staff, Mumbai, March 26, 2007 which mentions that M/s Seagate, Singapore
+International Headquarters Private Limited is to partner with M/s. Accel
+Frontline to provide professional data recovery service in the Indian market.
+The news item goes on to state that Seagate software solution and recovery
+services employing patented technology will enable M/s Accel Frontline service
+engineers to recover data from media, regardless of size or forms that have
+undergone severe physical damage, liquid damage, fire damage, software
+corruption, systems sabotage and accidental file deletion.
+
+Shri Sharma states that the applicant need to disclose their relationship with
+M/s Seagate to determine whether they should be deemed to be related for the
+purpose of Section 14 of the Customs Act, specially since the said news item
+reveals that Seagate and Accel Frontline will be partners.
+
+8\. In response to the issues raised by the JCDR Shri Sharma, the applicant
+vide a communication received on 2.11.07 has made the following submissions:
+
+that the applicant and M/s Seagate are not related persons within the meaning
+of the Customs Valuation Rules 1988/2007; that Rule 2 of the Customs Valuation
+Rules 1988 defines 'related persons' and that the applicant and M/s Seagate do
+not come within the purview of the definition of 'related persons' given in
+this rule. The expression "partners in business" has been used in the news
+item in a commercial sense and not in a legal sense which would lead to the
+two entities becoming related in terms of the Customs Valuation Rules. A copy
+of the agreement proposed to be signed by M/s Accel with M/s Seagate, has boon
+enclosed with the communication;
+
+that the applicant currently propose to deal with recovery of data only from
+hard disks and DVDs.
+
+on the nature of the data being recovered, it has been mentioned that the same
+"is proprietary in nature created by the user and generated within the country
+on account of the fact that no installable software can be re-installed /
+recovered. As an importer in the present case, the applicant does not own the
+data as it is only doing a third party recovery. Also the existing data can be
+of two types. One is self generated in India and the other could be imported.
+Self generated data is not liable for import duty. If the data is imported,
+the same has already suffered duty at the time of original import and cannot
+be liable for duty again."
+
+If any installable software is also there in the defective media sent for
+recovery, the same can only be condemned as no installable software can either
+be recovered or re-installed.
+
+that the value of the invoice raised by M/s Seagate on the applicant is
+inclusive of media costs, packing costs, freight charges etc. The Counsel of
+the applicant also stated that commissions paid, if includible in assessable
+value in terms of the Valuation Rules, will be made part of value on which
+duty is paid.
+
+that the recovered data that has been copied into DVD will not contain any
+sound or visual data.
+
+The above submissions were reiterated during the hearing on 13.11.07 when the
+JCDR was also present.
+
+9\. In the course of the hearing on 13.11.2007, the question was put forward
+to the Counsel of the applicant as to whether they would disclose the nature
+of the data that was being exported and imported to the Customs, in order to
+establish the identity of the data being exported and imported. The Counsel
+stated that they would disclose the nature of the data being exported and
+imported to the assessing Customs Officers.
+
+10\. We have considered the submissions made in the application, as also the
+comments thereon submitted by the Commissioner and his representative. We
+agree with the classifications in the Customs and Central Excise Tariffs put
+forward by the Commissioner i.e.8523 40 80 for the recorded digital video
+discs and 8471 70 20 for the recorded hard disc drives. We also agree that the
+imports of the DVDs and HDDs containing the damaged data, exported for
+recovery of the data contained therein, are exempted from basic customs duty
+and additional duties of customs leviable under Section 3 of the Customs
+Tariff Act 1985, against sr.No. 3 of Notification No. 94/96-Cus. dated
+16.12.96, provided the fact of re-import of the same damaged data is
+established. We also agree that the imports of the hard disc drives and the
+recorded DVDs (not containing any sound or visual data) containing the
+recovered data, are fully exempted from basic customs duty under Notification
+No. 24/2005-Cus. dated 1.3.05 and from additional duty of customs leviable
+under Section 3(1) of the Customs Tariff Act by virtue of Notification No.
+6/2006-CE dated 1.3.06. We further endorse the Commissioner's stand that no
+additional duty of customs on the imports of DVDs, containing the recovered
+data is leviable under Sub-section (5) of Section 3 of the Customs Tariff Act
+by virtue of sr.No. 1 of Notification No. 20/2006-Cus. dated 1.3.06. The
+imports of the hard disc drives containing the recovered data, however,
+attract 4 per cent additional duty leviable under Section 3(5) of the above
+Act as per Notification No. 19/2006-Cus. dtd. 1.3.06 as the exemption under
+Notification No. 20/2006-Cus is not available in view of Para 2 of the latter
+notification.
+
+11\. We however disagree with the Commissioner's contention that benefit for
+re-imported goods under Customs Notification No. 94/96 cannot be extended to
+the imports of the hard discs drives containing recovered data and that these
+should be treated as fresh imports and charged to the 4 per cent additional
+duty of customs under Section 3(5) of the Customs Tariff Act on the full
+transaction value of the goods, as determined under the Customs Valuation
+Rules. The Commissioner states that import of the new medium, DVD or hard disc
+drive, containing the recovered data, cannot be treated as re-import of the
+DVDs/HDDs containing the damaged data exported earlier, since the medium on
+which the data is recorded has been changed. Such an interpretation is
+unacceptable. What is being imported is not an empty medium but one on which
+the recovered data has been engraved and it is this data which determines the
+identity of the imported or exported goods. The JCDR has referred to a web
+site where different rates have been quoted for sale of data relating to
+different clusters of companies in India. Similarly there would be other rates
+for sale of, say, agricultural data relating to production per hectare in
+different states of the country. Different data will have different uses,
+different prices and will cater to the needs of different categories of
+consumers. It is the nature of the data recorded that determines the identity
+of the goods and this identity will not be changed if the medium on which it
+is recorded, changes.
+
+12\. In the case of Associated Cement Companies Ltd. v. Commissioner of
+Customs , the Supreme Court examined the question whether customs duty was
+leviable on technical material supplied in the form of drawings, manuals and
+computer discs etc. and if so, what was the value on which the duty was to be
+paid. In the above context, the apex court made the following observations
+which are relevant:
+
+The value of an encyclopaedia or a dictionary or a magazine is not only the
+value of the paper. The value of the paper is in fact negligible as compared
+to the value or price of an encyclopaedia. Therefore, the intellectual input
+in such items greatly enhances the value of the paper and ink in the aforesaid
+examples. This means that the charge of a duty is on the final product,
+whether it be the encyclopaedia or the engineering or architectural drawings
+or any manual.
+
+" " "
+
+" " "
+
+" " "
+
+It is a misconception to contend that what is being taxed is intellectual
+input. What is being taxed under the Customs Act read with the Customs Tariff
+Act and the Customs Valuation Rules is not the input alone but goods whose
+value has been enhanced by the said inputs. The final product at the time of
+import is either the magazine or the encyclopaedia or the engineering drawings
+as the case may be. There is no scope for splitting the engineering drawing or
+the encyclopaedia into intellectual input on the one hand and the paper on
+which it is scribed on the other.
+
+(emphasis supplied).
+
+13\. In the case of Tata Consultancy Services v. State of Andhra Pradesh , the
+Supreme Court while holding canned software recorded on floppy/CD/hard drives
+to be goods on which sales tax was leviable made the following observations:
+
+A software programme may consist of various commands which enable the computer
+to perform a designated task. The copyright in that programme may remain with
+the originator of the programme. But the moment copies are made and marketed,
+if becomes goods, which are susceptible to sales tax. Even intellectual
+property, once it is put on to a media, whether it be in the form of books or
+canvas (in case of painting) or computer discs or cassettes, and marketed
+would become "goods." We see no difference between a sale of a software
+programme on a CD/floppy disc from a sale of music on a cassette/CD or sale of
+a film on a video cassette/CD. In all such cases, the intellectual property
+has been incorporated on a media for purposes of transfer. Sale is not just of
+the media which by itself has very little value. The software and the media
+cannot be split up. What the buyer purchases and pays for is not the disc or
+the CD. As in the case of paintings or books or music or films the buyer is
+purchasing the intellectual property and not the media i.e. the paper or
+cassette or disc or CD.
+
+(emphasis supplied).
+
+14\. The conclusions emerging from the above pronouncements of the apex court
+which are relevant for the present application are that software recorded on a
+cassette or the encyclopaedia Britannica on a DVD, is identified as software
+or encyclopaedia, that the encyclopaedia recorded on a different make of DVD
+will continue to be identified as encyclopaedia Britannica, that the
+encyclopaedia or the software is a single product whose identity cannot be
+segregated in terms of the intellectual input and the medium in which it is
+stored.
+
+15\. Following the above logic, data recorded on a medium has to be regarded
+as a composite good and it cannot be given a dual identity, once as data, and
+then separately in terms of the medium on which it happens to be recorded. It
+is the nature of the data recorded, that imparts the identity to the goods and
+not the medium on which it is recorded. In the instant case, the data
+exported, albeit in a damaged condition, and the recovered data imported, have
+to be considered as the same goods, provided the identity of the data exported
+and imported is established. The identity of this data does not change because
+of a change in the receptacle on which it is contained. The Commissioner's
+stand that the exported goods i.e. damaged data on DVDs/HDDs are different
+from the imported goods, viz. recovered data contained on new DVDs/HDDs, only
+because the medium on which the data has been recorded has been changed,
+cannot therefore be accepted.
+
+16\. Serial No. 2 of Notification No. 94/96-Cus. dated 16.12.96 provides
+exemption from duty on goods re-imported after repairs abroad. The term
+'repair' has been defined in dictionaries as follows:
+
+Concise Oxford English Dictionary: "restore (something damaged, worn or
+faulty) to a good condition."
+
+The New International Webster's Dictionary and Thesaurus: "to restore to sound
+on good condition after damage, injury, decay etc."
+
+The Judicial Dictionary (13th Edition) compiled by K.J. Aiyer gives the
+following definition of the term:
+
+"The word 'repair' conveys the idea of replacing worn, broken, or lost parts
+in a thing or restoring the thing to a good condition." In Creg v. Planque
+(1936} 1 KB 669, the word 'repair' was taken to mean "the making good of
+defects, including renewal where that is necessary".
+
+It was then observed : "Therefore, whenever a thing or a part from a thing is
+worn out and a new thing is replaced in its place, such replacement of a new
+thing amounts to repair of the thing".
+
+'Repair' thus implies restoring defective, worn out goods to a good condition,
+if need be, by replacement of defective parts. Sr.No. 2 of Notification No.
+94/96-Cus exempts goods exported and re-imported after repairs abroad, from so
+much of basic customs duty and additional customs duties leviable under
+Section (3) of the Customs Tariff Act as is in excess of the amount calculated
+on a value equivalent to the sum total of "the fair cost of repairs carried
+out including cost of materials used in repairs (whether such costs are
+actually incurred or not), insurance and freight charges, both ways." By
+including "cost of materials" in the value on which duty is to be charged in
+case of re-imported goods received back after repairs abroad, the notification
+implies that incorporation of new material in the course of repairs is
+permissible. The cost of repair and materials in the present case will, inter
+alia, include the cost of the DVD/HDD on which the recovered data is recorded
+as also the service charges paid by the applicant for recovery of the data. In
+the instant case, data which is damaged, is worn out and had become faulty,
+has been exported abroad where it has been restored to its original quality
+and has thereafter been re-imported. In the process, the medium on which it
+was contained has been replaced. Incorporation of such new material in the
+process of repair does not make the repaired goods different from what was
+exported, so long as the original nature of the data is restored. In the
+instant case, the data recovered cannot be held to be different from the data
+received simply because the medium has been replaced in the process of
+restating the original quality of the data. We therefore hold that import of
+the data recovered from the defective data exported and re-imported after
+restoration of the original quality, cannot be denied duty exemption against
+sr.No. 2 of Notification Cus.No. 94/96 on the ground that the data exported
+are different from the data re-imported. To avail of the duty exemption for
+the importation under the above notification, the applicant, will however have
+to reveal the nature of the data to the Customs in order to establish that the
+data imported is the same as that exported.
+
+17\. Both the applicant as well as JCDR have made forceful submissions about
+the value to be attached to the data while calculating the assessable value of
+the DVD/HDD when they are re-imported. The applicant's Counsel contends that
+the data being proprietary in nature and created by the user for his own use,
+has no commercial value and therefore cannot be added to the assessable value.
+The JCDR on the other hand, claims that data has value, which needs to be
+included in the assessable value of the DVD/HDD. As we have held that the re-
+imported HDD will be eligible for duty exemption against sr.No. 2 of
+Notification Cus No. 94/96, its assessable value will be determined as per
+column 3 of sr.No. 2 and it is therefore not necessary to take a view on the
+above issue.
+
+18\. To conclude, the classifications under the Customs and Central Excise
+Tariffs and the rates of duty chargeable on the recorded digital video discs
+and hard disc drives proposed to be imported will be as outlined in Para 13.
+The additional duty of customs of 4% leviable under Section 3(5) of Customs
+Tariff Act 1975 read with Notification No. 19/2006-Cus. dated 1.3.2006 on the
+imports of the hard disc drives containing the recovered data, will be charged
+on the value as determined as per column 3 of sr.No. 2 of Notification No.
+94/96-Cus dt. 16.12.96 subject to fulfillment of all conditions specified in
+the latter notification.
+
+Pronounced in the open Court of the Authority on this 21st day of January,
+2008.
+

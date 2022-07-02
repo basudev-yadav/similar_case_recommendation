@@ -1,0 +1,380 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Additional Commissioner Of ... vs Hughes Services (Far East) (P.) ... on 24
+February, 2003
+
+Equivalent citations: 2003 87 ITD 137 Delhi
+
+Bench: K Singhal, K Prasad
+
+ORDER K.C. Singhal, Judicial Member
+
+1\. The only issue which is common to all the appeals relates to the
+interpretation of the provisions of Section 9(1)(11) of Income-tax Act, 1961
+(in short Act).
+
+2\. Briefly stated, the facts are these: The assessee is a non-resident
+company which has been assessed as an agent of various foreign technicians,
+who are non-residents. The assessee-company entered into an agreement with Oil
+& Natural Gas Commission (ONGC) for cementing services of off-shore rigs. For
+executing such contract, the assessee-company employed expatriate personnel of
+various nationalities under the terms of agreements, specimen copy of which is
+placed on record. Such technicians were required to work on off-shore rigs
+continuously for 28 days period and thereafter they were allowed leave for 28
+days during which such employees were required to go back to their respective
+countries (place of origin). The salary for leave period was to be paid
+outside India in foreign currency. The claim of the assessee was that off-
+period salary paid outside India was not taxable in India. This contention of
+assessee did not find favour with the Assessing Officer and accordingly the
+same was taxed under Section 9(1)(ii). However, on appeal, the claim of the
+assessee was allowed by the CIT(A). Aggrieved by the same, the revenue is in
+appeal in all these cases.
+
+3\. The learned DR. Mr. Salil Gupta has vehemently assailed the order of
+CIT(A) by contending that off-period salary is taxable in view of the
+provisions of Explanationto Section 9(1)(ii) as substituted by Finance Act,
+1999 which, according to him, is retrospective in operation, being
+clarificatory/declaratory in nature. It was emphasized by him that the words
+"for removal of doubts, it is hereby declared" used by the legislature show
+that the amendment was made to clarify the legal position and the amendment
+was declaratory in nature and, therefore, the same is applicable to earlier
+years also. In support of this contention, reliance has been placed on the
+Supreme Court judgment in the case of CIT v. Podar Cement (P.) Ltd. [1997] 226
+ITR 625 : 92 Taxman 541. Alternatively, it was contended by him that even the
+old provisions, prior to above amendment, included the off-period salary
+within its ambit. Reliance was placed on certain decisions of the Tribunal.
+
+4\. The above contentions of the learned DR have been strongly opposed by the
+learned Sr. Counsel of the assessee Shri Ganeshan by contending that the
+Explanation as substituted by the Finance Act, 1999 has actually expended the
+scope of Section 9(1)(ii) by including new item of income i.e., the off-period
+salary and consequently, it cannot be considered either as declaratory or
+clarificatory. He also drew our attention to the judgment of Hon'ble Gujarat
+High Court reported as CIT v. S.G. Pgnatale [1980] 124 ITR 391 : 4 Taxman 79
+to illustrate the meaning of the words ' earned in India used in Section
+9(1)(ii). He also relied on number of decisions of the Tribunal wherein it has
+been held that off-period salary paid outside India was outside the scope of
+Section 9(1)(ii). Reliance was also placed on the Board's Circular No. 779
+dated 14-9-1999 which vide paras 5.1 to 5.3 has clearly stated that the
+amendment shall be effective from 1-4-2000 and, therefore, apply to assessment
+year 2000-01 and subsequent assessment years.
+
+5\. Rival submissions of the parties have been considered carefully. The
+question for consideration is whether the remuneration for the off-period
+received by the non-resident foreign expatriate employees outside India is
+taxable under Section 9(1)(ii)of the Act. The income of the non-resident is
+taxable under Section 5(2) of the Act which provides that income of non-
+resident is taxable in India if (a) it is received or is due to be received in
+India; or (b) it accrues or arise or is deemed to accrue or arise to him in
+India. There is no dispute that condition (a) mentioned above is not attracted
+to the present cases since payments were made outside India. It is also not
+the case of the revenue that such income accrue or arise in India. The only
+case of revenue is that such salary is taxable under the deeming provisions of
+Section 9(1)(ii). It is the settled legal position that deeming provisions are
+to be construed very strictly and nobody can be taxed unless his case squarely
+falls within four concerns of the taxing provisions.
+
+6\. Before coming to the contention of ld. DR regarding retrospective
+operation of Explanation substituted by Finance Act, 1999, let us first
+consider the scope of Section 9(1)(ii) as originally enacted and amended from
+time to time in the light of judicial interpretation. Such provisions as
+originally enacted read as under:
+
+Section 9(1): The following incomes shall be deemed to accrue or arise in
+India-
+
+    
+    
+     (1)**        **            **
+      
+    
+    (ii) income which falls under the head "salaries", if it is earned in India.
+     
+    
+    
+
+The interpretation of this Section came up for consideration before the
+Hon'ble Gujarat High Court in the case of S.G. Pgnatale (supra). Since the
+words "earned in India" were not defined in the Act, their Lordships referred
+to Corpus Juris Seccundum Volume 28 page 69 where the word "earned" has been
+construed as "entitled to a sum of money under the terms of contract, implies
+that wages are owing and may carry the meaning of unpaid but does not
+necessarily imply that they are due and payable." They further referred to the
+judgment of Hon'ble Supreme Court in the case of E.D. Sassoon & Co. Ltd. v.
+CIT [1954] 26 ITR 27 wherein their Lordships observed at page 51 as under:
+
+The word 'earned' even though it does not appear in Section 4 of the Act has
+been very often used in the course of the judgments by learned judges both in
+the High Courts as well as the Supreme Court (vide CIT v. Ahmedbhai Umarbhai &
+Co. [1950] 18 ITR 472 (SC) and CIT v. K.R.M.T.T. Thiagaraja Chetty & Co.
+[1953] 24 ITR 525 (SC). It has also been used by the Judicial Committee of the
+Privy Council in Commissioner of Taxation v. Kirk (1900) AC 588. The concept,
+however, cannot be divorced from that of income accruing to the assessee. If
+income has accrued to the assessee it is certainly earned by him in the sense
+that he has contributed to its production or the parenthood of the income can
+be traced to him. But in order that the income can be said to have accrued to
+or earned by the assessee it is not only necessary that the assessee must have
+contributed to its accruing or arising by rendering services or otherwise but
+he must have created a debt in his favour. A debt must have come into
+existence and he must have acquired a right to receive the payment. Unless and
+until his contribution or parenthood is effective in bringing into existence a
+debt or right to receive the payment or in other words a debitum in praesenti,
+solvendum in futuro it cannot be said that any income has accrued to him. The
+mere expression 'earned' in the sense of rendering the services etc., by
+itself is of no avail.
+
+In view of the above judicial interpretation of the word "earned", their
+Lordships of Gujarat High Court held that the words "earned in India" in
+Section 9(1)(ii) included only that income in respect of which debt has been
+created in India for the services rendered in India and mere rendering of
+service in India by itself was of no avail. If the liability to pay arises
+outside India and the payment is also made outside India then the provisions
+of Section 9(1)(ii) could not be invoked. Hence, the salary payable and paid
+outside India by his foreign employer for the services rendered in India was
+held not to be taxable under Section 9(1)(ii).
+
+7\. To nullify the application of the above judgment of Gujarat High Court,
+the legislature inserted Explanation to Section 9(1)(ii) by Finance Act, 1983
+w.e.f. 1-4-1979. The Section after amendment reads as under:
+
+Section 9(1): The following incomes shall be deemed to accrue or arise in
+India-
+
+(ii) income which falls under the head "salaries", if it is earned in India.
+
+Explanation : For the removal of doubts, it is hereby declared that income of
+the nature referred to in this clause payable for service rendered in India
+shall be regarded as income earned in India.
+
+8\. By insertion of the Explanation, the scope of Section 9(1)(ii) was
+enlarged so as to include remuneration payable for services rendered in India
+which otherwise was not includible. Such income became taxable even though it
+was paid outside India. However, another dispute arose as to whether the
+salary payable and paid outside India to non-resident for the period for which
+no services were rendered in India and during which such non-resident was away
+from India to avail leave period could be taxed under Section 9(1)(ii). Some
+benches of the Tribunal took the view that remuneration payable for the off-
+period could not be equated with salary payable for services rendered in India
+and, therefore, non-resident could not be taxed under Section 9(1)(ii).
+However, contrary view has also been expressed by some benches. This dispute
+no more exists now in view of the amendment made by the legislature by
+substituting the Explanation to Section 9(1)(ii) by Finance Act, 1999 w.e.f
+1-4-2000. Section 9(1)(ii) effective from 1-4-2000 reads as under:
+
+Section 9(1): The following incomes shall be deemed to accrue or arise in
+India:-
+
+(ii) income which falls under the head "Salaries", if it is earned in India.
+
+Explanation - For the removal of doubts, it is hereby declared that the income
+of the nature referred to in this clause payable for-
+
+(a) service rendered in India; and
+
+(b) the rest period or leave period which is preceded and succeeded by
+services rendered in India and forms part of the service contract of
+employment, shall be regarded as income earned in India.
+
+The perusal of the above Explanation shows that income of non-resident which
+is to be included in Section 9(1)(ii) has now been divided into two categories
+- (i) services rendered in India; and (ii) rest period or leave period, which
+is preceded and succeeded by services rendered in India. That clearly shows
+that one more item of income has been included in deeming provisions i.e.,
+off-period salary w.e.f. 1-4-2000. At this stage, it would be useful to refer
+para 5.3 of CBDT Circular No. 779 dated 14-9-1999 reported as 240 ITR page 3
+(Statute) wherein it has been clarified that the amendment by Finance Act,
+1999 in Section 9(1)(ii) would apply to assessment year 2000-01 and subsequent
+assessment years. The legislature has not said that salary for services
+rendered in India would include salary for the off-period. On the contrary it
+has added a fresh item of income. That means that both types of incomes are
+different and independent and consequently, it cannot be said that the salary
+payable for services rendered in India would include salary for off-period. In
+our considered opinion, the legislature has clearly enlarged the scope of
+Section 9(1)(ii) by including a new item of income which was not includi-ble
+earlier. One could possibly interpret the amended provisions otherwise if the
+legislature had clarified the meaning of the words "services rendered in
+India" but the legislature in its wisdom has used the word "and" after the
+words "services rendered in India" and added another item of income in a
+separate Clause (b). That, in our opinion, only means that both types of
+income are separate and independent income and the legislature has intended to
+tax, w.e.f. 1-4-2000, the new item of income i.e., salary for the rest period
+or the leave period payable outside India which was not includible prior to
+this amendment.
+
+9\. Now let us examine the contention of the learned DR whether the amendment
+by Finance Act, 1999 was clarificatory/declaratory and, therefore,
+retrospective in operation. Such contention cannot be accepted for the reason
+that the said amendment, in our opinion, cannot be considered either as
+declaratory or clarificatory since it has enlarged the scope of the main
+Section by including new item of income. Normally, the Explanation is inserted
+either to explain the meaning of the words in the main Section or to clarify
+the confusion regarding the meaning of such words. In such cases, no doubt,
+the Explanation can be said to be declaratory or clarificatory having
+retrospective effect. In principle, to that extent, we are in agreement with
+the learned DR. But where the amendment seeks to expand the scope of the main
+Section and affects the rights and obligation of the parties, then such
+amendment cannot be given retrospective effect unless specifically so
+provided. Reference can be made to the decision of Delhi High Court in the
+case of Engineers Impex (P.) Ltd. v. D.D. Sharma [2000] 244 ITR 247 wherein it
+has been held as under:
+
+An Explanation is appended to a Section to explain the meaning of the words
+contained in the Section and normally it is to be read to harmonize with and
+to clear up any ambiguity in the main Section. However, the Explanation to
+Sub-section (1) of Section 194A of the Income-tax Act, 1961, was inserted by
+the Finance Act, 1987, with effect from June 1, 1987 and had widened the scope
+of the main Section and had created an obligation, breach of which entailed
+penalty and criminal prosecution. The Explanation obviously is prospective and
+not retrospective.
+
+At this stage, we may usefully refer to the observations of their Lordships of
+Hon'ble Supreme Court in the case of Aphali Pharmaceuticals Ltd. v. State of
+Maharashtra AIR 1989 SC 2227 wherein in para 32 they have summarized the
+nature and scope of any Explanation. The said para reads as under:
+
+32\. An Explanation, as was found in Bihta Marketing Union v. Bank of Bihar
+AIR 1967 SC 389 : (1967) SCR 848, may only explain and may not expand or add
+to the scope of the original Section. In State of Bombay v. United Motors, AIR
+1953 SC 252 : (1953) SCR 1069, it was found that an Explanation could
+introduce, a fiction or settle a matter of controversy. Explanation may not be
+made to operate as "exception" or "proviso". The construction of an
+Explanation, as was held in Collector of Customs v. G. Dass & Co. AIR 1966 SC
+1577, must depend upon its terms and no theory of its purpose can be
+entertained unless it is to be inferred from the language used. It was said in
+Burmah Shell Oil Ltd. v. Commercial Tax Officer, AIR 1961 SC 315 : (1961) 1
+902, that the Explanation was meant to explain the Article and must be
+interpreted according to its own tenor and it was an error to explain the
+Explanation with the aid of the Article to which it was annexed. We have to
+remember what was held in Dattatraya Govind Mahajan v. State of Maharashtra,
+AIR 1977 SC 915 (928): (1977) 2 SCR 790, that mere description of certain
+provision, such as "Explanation" is not decisive of its true meaning. It is
+true that the orthodox function of an explanation is to explain the meaning
+and effect of the main provision to which it is an explanation and to clear up
+any doubt or ambiguity in it, but ultimately it is the intention of the
+legislature which is paramount and mere use of a lebel cannot control or
+deflect such intention. State of Bombay v. United Motors (supra) laid down
+that the interpretation must obviously depend upon the words used therein, but
+this must be borne in mind that when the provision is capable of two
+interpretations, that should be adopted which fits the description. An
+explanation is different in nature from a proviso for a proviso excepts,
+excludes or restricts while an explanation explains or clarifies. Such
+explanation or clarification may be in respects of matters whose meaning is
+implicit and not explicit in the main Section itself. In Hiralal Ratanlal v.
+State of UP. [1973] 1 SCC 216 (225) : AIR 1973 SC 1034 (1040), it was ruled
+that if on a true reading of an Explanation it appears that it has widened the
+scope of the main Section, effect be given to legislative intent
+notwithstanding the fact that the Legislature named the provision as an
+Explanation. In D.G. Mahajan v. State of Maharashtra (supra) this Court said
+that legislature has different ways of expressing itself and in the last
+analysis the words used alone are repository of legislative intent and that if
+necessary an Explanation must be construed according to its plain language and
+'not on any a priority consideration.
+
+The legal position as summarized above clearly shows that label given to a
+statute is not relevant but it is the intent of the legislature which is
+relevant. So, depending upon the intent of the legislature, an Explanation may
+or may not be declaratory or clarificatory. It may sometimes expand or
+restrict the scope of the main Sections. Therefore, the contention of the
+learned DR that the Explanation of Section 9(1)(ii) should be construed as
+declaration or clarificatory merely because the legislature has used the words
+"For removal of doubts, it is declared", cannot be accepted.
+
+10\. Let us now examine the scope of the Explanation to Section 9(1)(ii). At
+this stage, we may directly refer to the judgment of Hon'ble Kerala High Court
+in the case of CIT v. S.R. Patton [1992] 193 ITR 49 : 65 Taxman 472 where the
+Explanation as originally inserted by Finance Act, 1983 was considered and it
+was held that such Explanation was neither declaratory nor clarificatory as it
+had widened the scope of Section 9(1)(ii) since the nature of income included
+was never within the ambit of main Section. Accordingly, retrospective effect
+could not be given to such Explanation. Since the legislature had given
+retrospective effect only from 1-4-1979, it could not be given prior to
+1-4-1979. Hence, such Explanation could not be applied to Assessment year
+1978-79 or any earlier years. The relevant portion of the above judgment is
+reproduced as under:
+
+We shall proceed to consider the larger question argued before us regarding
+the scope and impact of an Explanation. The mere use of the label
+"Explanation" is not decisive of the true meaning and scope of the provision.
+Ordinarily, the purpose of an Explanation in a statute is to clarify or
+explain or settle any doubt or ambiguity or controversy. It may even widen the
+scope of the main provision in rare cases. The words used along can reflect
+the true intent and they should be construed on their own terms. In this
+regard the context, background and history of the legislation may be looked
+into - See Aphali Pharmaceuticals Ltd. v. State of Maharashtra, AIR 1989 SC
+2227; 4 SCC 378; p. 393, paragraph 33 - wherein the Supreme Court has analysed
+the entire law on the point.
+
+Proceeding further, it was observed as under:
+
+It is evident that the Gujarat High Court did not accept the views of text
+book writers regarding the scope of Section 9(1)(ii) of the Act as it stood,
+before the addition of the Explanation. It was, perhaps, due to the above
+controversy regarding the scope of Section 9(1)(ii) of the Act that the
+Legislature intervened and added the Explanation to Section 9(1)(ii) of the
+Act w.e.f April 1, 1979. In the circumstances, the purchase behind the
+addition of the Explanation was only to clarify and settle the controversy.
+The Explanation was to have effect only from April 1, 1979. We are, therefore,
+of the view that the Explanation to Section 9(1)(ii) of the Act cannot be
+considered to be declaratory nor can it apply to any period anterior to April
+1, 1979.
+
+Similarly, the Explanation as substituted by Finance Act, 1999 cannot be
+considered as declaratory or clarificatory. The Explanation, originally
+enacted remains the same and one more item of income, i.e., off-period salary
+has been added. This clearly shows that scope of main Section has been further
+widened. Further, any statute which saddles any person with liability to pay
+tax cannot be considered as declaratory statute. Therefore, in our considered
+opinion, the Explanation to Section 9(1)(ii) cannot be considered as
+declaratory or clarificatory. This view is also fortified by the fact that
+even the Board Circular (supra) says that amendment is to expand the scope of
+Section 9(1)(ii). That is why the circular specifically says that such
+amendment would apply to assessment year 2000-2001 and subsequent years.
+
+11\. It is the settled legal position that there is legal presumption that
+retrospective effect cannot be given to a statute unless specifically provided
+by the Statute itself. However, this presumption is not applicable to
+declaratory or clarificatory statutes as held by the Hon'ble Supreme Court in
+the case of Podar Cements (P.) Ltd. 's case (supra). So, where the Explanation
+is not declaratory/clarificatory but expands the scope of main Section,
+retrospective effect cannot be given to such Explanation unless specifically
+provided. The Hon'ble Delhi High Court judgment in the case of Engineers Impex
+(P.) Ltd. (supra) supports its proposition. We have already noted that
+legislature itself given retrospective effect to the original Explanation from
+a particular date because it was not declaratory. Otherwise there was no need
+to give retrospective effect. Had the legislature intended to give
+retrospective effect to the Explanation substituted by Finance Act, 1999, it
+could do so. Therefore, it has to be given prospective effect. The Board
+circular rather fortifies this conclusion. Even otherwise, if construction of
+a provision is susceptible of two possible views, the view favourable to
+assessee should be adopted as held by Supreme Court in the case of CIT v.
+Vegetable Products Ltd. [1973] 88 ITR 192 and in case of Union of India v.
+Onkar S. Kanwar [2002] 258 ITR 761 : 125 Taxman 121 (SC).
+
+12\. The judgment of the Hon'ble Supreme Court in the case of Podar Cement
+(P.) Ltd. (supra) relied upon by the learned DR does not help the revenue. In
+that case the Apex Court ruled that the amendment of Section 27 by insertion
+of Clause (iii) simply declared the meaning of the word "owner" which was
+always there even before the amendment. But in the present case before us, the
+meaning of the words "earned in India" was quite different in view of the
+judicial pronouncements as is given by Supreme Court in the case of E.D.
+Sassoon & Co. Ltd. (supra), by Gujarat High Court in the case of S.G. Pgnatale
+(supra) as well as judicial cognizance by Corpus Juris Seccundum. Therefore,
+the present case is a case where Explanation has not declared the existing
+meaning but has enlarged the scope of he main Section and, therefore,
+retrospective effect cannot be given to the amendment made to the Finance Act,
+1999.
+
+13\. In view of the above discussion it is held that prior to amendment by the
+Finance Act, 1999, the words 'earned in India' never included the remuneration
+payable for the rest period or the leave period and, therefore, such salary,
+if paid outside India were not taxable under Section 9(1)(ii). Hence,
+alternate contention of ld. DR is also without force. However, it is clarified
+that if such salary is paid in India then the same would become taxable under
+Section 5(2)(a). In the present case, undis-putedly such salary was payable
+and paid outside India. Accordingly, the same are not taxable in India. The
+orders of the CIT(A) are, therefore, upheld.
+
+14\. In the result, the appeals of the revenue are dismissed.
+

@@ -1,0 +1,871 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Deputy Commissioner Of Income ... vs M/S. Outsource Partners ... on 27
+November, 2020
+
+    
+    
+            IN THE INCOME TAX APPELLATE TRIBUNAL
+                     'C' BENCH : BANGALORE
+      BEFORE SHRI. B.R. BASKARAN, ACCOUNTANT MEMBER
+                                AND
+             SMT. BEENA PILLAI, JUDICIAL MEMBER
+                    IT(TP)A No.77/BANG/2014
+                    Assessment Year : 2009-10
+    
+    
+    The Dy. Commissioner of         M/s Outsource Partners
+    Income Tax,                     International Pvt. Ltd.,
+    Circle-12(2),                   Tower 2D, Phase-I, Vikas
+    Bengaluru.                  Vs. Telecom Ltd.,
+                                    SEZ, Vrindavan Tech
+                                    Village, Deverabeesanahalli,
+                                    Bengaluru-560 087.
+    
+                                       PAN - AAACO 5734 C
+           APPELLANT                         RESPONDENT
+    
+    
+                    IT(TP)A No.110/BANG/2014
+                    Assessment Year : 2009-10
+    
+    
+    M/s Outsource Partners             The Dy. Commissioner of
+    International Pvt. Ltd.,           Income Tax,
+    Tower 2D, Phase-I, Vikas           Circle-12(2),
+    Telecom Ltd.,                Vs.   Bengaluru.
+    SEZ, Vrindavan Tech Village,
+    Deverabeesanahalli,
+    Bengalu
+    ru-560 087.
+    
+    PAN - AAACO 5734 C
+           APPELLANT                         RESPONDENT
+    
+    
+       Revenue by      : Shri Pradeep Kumar, CIT (DR)
+                                     Page 2 of 26
+                                          IT(TP)A No.77 & 110/Bang/2014
+    
+    
+    
+       Assessee by          : Shri K.R Vasudevan, Advocate
+    
+    
+                  Date of Hearing       : 13-10-2020
+                  Date of Pronouncement : 27-11-2020
+                                  ORDER
+    
+
+PER BEENA PILLAI, JUDICIAL MEMBER Present cross appeals has been filed by
+assessee as well as revenue against order passed by Ld.DCIT, Circle 12(2)
+under section 143(3) read with section 144C(13) of the act for assessment year
+2009-10 on following grounds of appeal: ITA No. 110/B/2014 "I. Transfer
+Pricing
+
+1\. The learned Assessing Officer ("learned AO") and the learned Deputy
+Commissioner of Income Tax (Transfer Pricing-II), Bangalore ("Transfer Pricing
+Officer" or the "learned TPO") grossly erred in making an adjustment to the
+transfer pricing of the Appellant with respect to the ITeS services by Rs.
+3,84,85,382.
+
+2\. The learned AO/learned TPO erred in rejecting the Transfer Pricing ("TP")
+documentation maintained by the Appellant on invoking provisions of sub-
+section (3) of 92C of the Act contending that the information or data used in
+the computation of arm's length price is not reliable or correct. In doing so:
+
+2.1. the learned AO/learned TPO erred in rejection of comparability analysis
+carried in the TP documentation and in conducting a fresh comparability
+analysis by introducing various filters in determining the arm's length price.
+
+2.2. the learned AO/learned TPO erred in rejecting companies that are
+comparable to the Appellant while performing the comparability analysis.
+Specifically, the Appellant believes that the following companies should have
+been included as comparable • Lee & Nee Software (Exports) Limited • Caliber
+Point Business Solutions Limit • R Systems International Limited ~7 2.3. The
+learned AO/learned TPO erred in including companies that do not satisfy the V
+test of comparability. Specifically, the Appellant believes that the following
+companies selected as comparable by the learned AO/ learned TPO should be
+rejected.
+
+    
+    
+                                  Page 3 of 26
+                                       IT(TP)A No.77 & 110/Bang/2014
+    
+    
+    
+        *      Infosys BPO Limited
+        *      Accentia Technologies Limited
+        *      Cosmic Global Limited
+       *       Eelerx Services Limited
+    
+
+3\. The learned AO/learned TPO erred in computing mark-up for Alisec
+Technologies Limited by erroneously considering the provision for bad and
+doubtful debts as non- operating in nature.
+
+4\. The learned AO/learned TPO erred in not considering the multiple
+year/prior year financial data of comparable companies while determining the
+arm's length price.
+
+5\. The learned AO/learned TPO erred in using data as at the time of
+assessment proceedings, instead of that available as on the date of preparing
+the TP documentation for comparable companies while determining arm's length
+price.
+
+6\. The learned AO/learned TPO erred in ignoring the limited risk nature of
+the contractual services provided by the Appellant and in not providing an
+appropriate adjustment towards the risk differential, even when the full-
+fledged entrepreneurial companies are selected as comparable companies II. Re-
+computation of deduction under section 1OA of the Act by adjusting the Export
+Turnover and Total Turnover
+
+7\. The learned AO erred in re-computing deduction under section 10A of the
+Act by reducing an amount of Rs. 7,50,000 from the export turnover and total
+turnover which were incurred by the assessee towards telecommunication
+expenses.
+
+8\. The learned AO erred in not appreciating the fact that the
+telecommunication expenses cannot be reduced from the export turnover and
+total turnover as the same is incurred during the course of the normal
+business activity and cannot be separately attributed to the delivery of
+software outside India.
+
+III. Re-computation of deduction under section 10AA of the Act by adjusting
+the Export Turnover and Total Turnover
+
+9\. The learned AO erred in re-computing deduction under section 10AA of the
+Act by reducing an amount of Rs.13,159,696 from the export turnover and total
+turnover which were incurred by the assessee towards telecommunication
+expenses.
+
+10\. The learned AO erred in not appreciating the fact that the
+telecommunication expenses cannot be reduced from the export turnover and
+total turnover as the same is incurred during the course of the normal
+business activity and cannot be separately attributed to the delivery of
+software outside India.
+
+Page 4 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 The appellant craves leave to add, alter,
+rescind and modify the grounds herein above or produce further documents,
+facts and evidence before or at the time of hearing of this appeal.
+
+For the above and any other grounds which may be raised at the time of
+hearing, it is prayed that necessary relief may be provided." ITA No.
+77/B/2014 "1. The directions of the Dispute Resolution Panel are opposed to
+law and facts of the case.
+
+2\. On the facts and in the circumstances of the case the Dispute Resolution
+Panel erred in law in directing the AO to exclude the Broadband charges and
+travel expenses both from the export turnover as well as from total turnover
+for the purpose of computation of deduction u/s 10A, without appreciating the
+fact that the statute allows exclusion of such expenditure only from export
+turnover by way of specific definition of export turnover as envisaged by Sub-
+clause (4) of Explanation 2 below Sub-section (8) of Section 10A and the total
+turnover has not been defined in this Section.
+
+3\. On the facts and in the circumstances of the case the Dispute Resolution
+Panel erred in directing the AO to compute deduction u/s 10A in the above
+manner by placing reliance on the decision of Hon'ble High Court of Karnataka
+in the case of M/s Tata Elxsi Ltd., which has not become final since the same
+has not been accepted by the Department and SLPs are pending before the
+Hon'ble Supreme Court.
+
+4\. On the facts and in the circumstances of the case, as per the directions
+of the Dispute Resolution Panel, whether working capital adjustment can be
+made on the basis of advance received from AEs in absence of debtors and
+inventory in the case of assessee for calculating the cost of working capital
+built in the profit margin.
+
+5\. On the facts and in the circumstances of the case the Dispute Resolution
+Panel is not justified in directing the TPO to adjust the profit margin of the
+assessee for the entire amount of advances received from AE on the ground that
+there is time value for money."
+
+Brief facts of the case are as under:
+
+2\. Assessee is a company and has filed its original return of income for year
+under consideration on 28/09/2009. Subsequently the return was revised on
+09/04/2010 declaring taxable income of Rs.2,5499,721/-. Return was processed
+under  Page 5 of 26 IT(TP)A No.77 & 110/Bang/2014 section 143(1) of the Act
+and was selected for scrutiny. Ld.AO issued notice under section 143(2) and
+142(1), in response to which representative of assessee appeared before Ld.AO
+and filed requisite details as called for.
+
+3\. From the details filed us, Ld.AO observed that assessee had international
+transactions with associated enterprises for more than Rs.15 crores.
+Accordingly as per the provisions of the act reference to transfer pricing
+officer was made for determination of arm's length price of international
+transaction. On receipt of reference under section 92CA of the Act, Ld.TPO
+called upon assessee to file economic details of international transaction in
+Form 3 CEB. From details filed, Ld.TPO observed that, assessee had following
+international transaction with its associated enterprise:
+
+    
+    
+          Type of transaction        Amount Paid         Amount
+                                            (Rs)      Received (Rs)
+    
+      Back Office Services (ITES)                         68,28,43,287
+    
+    Reimbursement of expenses             32,85,609         1,41,15,132
+    
+    
+    
+    
+
+4\. Ld.TPO noted that, assessee operated as an offshore processing Centre for
+its associated enterprise in U.S. and also renders similar services to
+customers in India. It was noted by Ld.TPO that assessee is a part of BPO
+group. Business Process Outsourcing Inc.,Cayman Island, the ultimate holding
+company of the group. Ld.TPO noted that assessee has two units, one in  Page 6
+of 26 IT(TP)A No.77 & 110/Bang/2014 Bangalore and other in Delhi being 100%
+export oriented unit and operates from SEZ.
+
+5\. Ld.TPO noted that assessee used TNMM as most appropriate method and OP/OC
+as PLI to compute its margin at 15.67%. It had used following 8 comparables
+with an average margin of 14.34% on cost.:
+
+    
+    
+    S.No.                    Particulars                      Margin
+    
+    1.       Aditya Birla Minacs Worldwide Ltd
+    
+             Allsec Technologies Ltd
+    2.
+    
+             Cosmic Global Ltd
+    3.
+    
+    4.       Informed Technologies India Ltd
+    
+    5.       R Systems International Ltd.
+    6.       Maple Esolutions Ltd
+    7.       Caliber Point Business Solutions Ltd
+    8.       MSource India Pvt. Ltd.
+    
+    
+    
+
+6\. Assessee thus held its transaction to be at arms length margin.
+
+    
+    
+           Sl.no.       Name of the Company          Margin
+         no
+         1          Infosys BPO Ltd.                 24.41%
+         2          Aditya Birla Minacs Worldwide Ltd. 23.86%
+         3          Microland Ltd.(both segments)    1.53 %
+                                  Page 7 of 26
+                                       IT(TP)A No.77 & 110/Bang/2014
+    
+    
+    
+    
+         4         Allsec Technologies Ltd.              -16.63%
+    
+         5         Accentia Technologies Ltd.             46.40%
+    
+         6        Informed Technologies India Ltd.        22.61%
+         7        Cosmic Global Ltd.                      40.61%
+         8        Eclerx Services Ltd.                    57.46%
+                        AVERAGE PLI                       25.03%
+    
+    7.   Ld.TPO    rejected    the     Transfer   Pricing       documentation
+    
+
+maintained by assessee and by applying various filters and rejected for
+comparables selected by assessee. Ld.TPO carried out fresh search and selected
+a final set of following 8 comparables having average PLI of 25.03%:
+
+8\. Ld.TPO also restricted the working capital adjustment at 0.91% and did not
+grant risk adjustment to assessee. He thus computed the proposed adjustment
+being shortfall at Rs.5,08,97,427/-.
+
+9\. Ld.AO while passing the draft assessment order reworked the exemption
+claimed by assessee under section 10A of the Act. Ld.AO excluded
+telecommunication charges from export turnover. He also rejected the
+submission of assessee that on this issue Hon'ble Karnataka High Court in case
+of CIT vs Tata LXE directed to exclude the same item from the total turnover.
+Ld.AO thus proposed addition of Rs.5,26,08,958/- in the hands of assessee.
+
+Page 8 of 26
+
+IT(TP)A No.77 & 110/Bang/2014
+
+10\. Aggrieved by the addition proposed by Ld.AO assessee objected before DRP.
+
+11\. Before DRP assessee had raised objections in respect of inclusion of
+certain comparables which were rejected. DRP upheld the action of Ld.TPO/AO in
+respect of the addition proposed.
+
+12\. DRP also directed to retained the export turnover and total turnover as
+observed by Ld.AO in the draft assessment order for purposes of computing
+deduction under section 10A of the Act. On receipt of DRP direction, Ld.AO
+passed final assessment order. However, Ld.AO corrected some clerical error in
+mentioning the figure of deduction under section 10A in adopting the export
+turnover and the profit of the undertaking.
+
+13\. Aggrieved by the addition made by Ld.AO in the final assessment order,
+assessee is in appeal before us now.
+
+14\. Ld.AR referred to grounds filed on 12/12/2019. He submitted that, in the
+event following comparables alleged in respective grounds are considered
+assessee would be within the margin as required:
+
+• It has been submitted by Ld.AR that in Ground No.2.2 assessee only wish to
+argue on inclusion of R systems international Ltd • Ld.AR wishes to argue
+exclusion of 4 comparables raised in Ground 2.3. He submitted that 2
+comparables may be considered on functional dissimilarities.
+
+Page 9 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 • Assessee has also raised in Additional Ground
+No.7, wherein, it has been raised that, adjustment on account of difference in
+the rate of depreciation charged by assessee vis-a-vis comparables needs to be
+provided. It is a submission of Ld.AR that with adjudication of these issues
+assessee would be within the margin of +/-5%.
+
+15\. In respect of corporate ground issue being Ground No.7-10 assessee
+submits that revenue is also in appeal in support of the order passed by
+Ld.AO. It has been submitted that this issue is in respect of computation of
+export turnover and total turnover for purposes of deduction to be determined
+under section 10A & 10AA of the Act.
+
+16\. We shall 1st deal with corporate tax issues raised by assessee as well as
+revenue.
+
+17\. Ground No.II-III in assessee's appeal and Ground No.2-5 in revenue's
+appeal are in respect of deduction to be computed under section 10A/AA of the
+Act.
+
+18\. We note that challenged by revenue for excluding communication expenses
+for computing total turnover and export turnover and excluding loss earned
+from non-eligible unit for purposes of 10A deduction.
+
+19\. We note that DRP referred to decision of Hon'ble Karnataka High Court, in
+the case of CIT v. Tata Elxsi Ltd. reported in [2012] 17 taxmann.com 100 held
+that, if any expenditure is excluded from export turnover, then the same needs
+to be excluded from  Page 10 of 26 IT(TP)A No.77 & 110/Bang/2014 total
+turnover as well, accordingly, directing Ld.AO to exclude expenses deducted
+from export turnover from total turnover for computing deduction u/s 10A of
+the Income-tax Act, 1961.
+
+20\. Further in respect of exclusion of loss earned from non- eligible unit
+for computing profits of eligible unit under section 10 A, DRP relied on
+decision of Hon'ble Karnataka High Court in case of and CIT v. Yokogava India
+Ltd. reported in [2012] 21 taxmann.com 154.
+
+21\. We do not find any infirmity in the view taken by DRP as it is supported
+by ratios held by Hon'ble jurisdictional High Court. There is nothing on
+record brought by revenue to establish any distinguishing factors to deviate
+from the ratio of Hon'ble jurisdictional High Court.
+
+22\. Ld.AO however has not computed the same in the manner as directed by DRP.
+
+23\. We therefore direct Ld.AO to follow the ratio laid down by Hon'ble
+jurisdictional High Court in case of CIT v. Yokogava India Ltd. (supra). It is
+also mentioned that this view has been fortified by Hon'ble Supreme Court in
+case of CIT v. HCL Technologies Ltd. reported in (2018) 93 taxmann.com 33 and
+DCIT vs Citrix R&D India private limited reported in (2019) 104 taxmann.com
+85. We therefore allow Ground No.II-III in assessee's appeal and dismiss
+Ground No.2-5 in revenue's appeal.
+
+24\. Assessee's appeal in respect of trans-apprising issues are in respect of
+in exclusion/inclusion of following comparables.
+
+Page 11 of 26
+
+IT(TP)A No.77 & 110/Bang/2014
+
+1\. Assessee in Ground 2.2 seeks inclusion of R.S.Systems international Ltd
+
+2\. Assessee in Ground 2.3 seeks exclusion of Infosys BPO Ltd, Accentia
+Technologies Ltd., Cosmic Global Ltd., and Eclerx Services Ltd.
+
+25\. Before carrying out comparability analysis, it is sine qua non to
+understand functions performed, assets owned and risk assumed by assessee
+under this segment.
+
+A. Functions:
+
+In the TP study placed at page 3837-382 of paper book, it has been stated that
+assessee is an offshore processing Centre of U.S. AE. Assessee has an indie
+genius arm which caters to tax advisors and financial services. It has been
+submitted that it is engaged in BPO activities to the associated enterprises.
+It functions to ensure proper migration of process from client to assessee,
+prepared documentation for the process, provide back office transaction
+processing services to its AE, ensures quality of services, identification of
+manpower requirement, recruitment of manpower and training, assignment of
+qualified professionals on project.
+
+It has been submitted that assessee performs general oversight activities
+which is known "stewardship" activities. B. Asset owned:
+
+Page 12 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 It has been submitted that assessee owns primary
+assets assets for providing back-office services like employees,
+infrastructure and workstations etc. C. Risk assumed.
+
+In TP study it has been submitted that assessee undertakes risk of delivering
+quality product, risk of financing the work capital, risk of appropriately
+trained human skill sets facility risk and communication risk etc. Based upon
+above FAR, assessee has been characterised as a low risk service provider
+providing BPO/ITES services and assuming negligible risk in course of its
+business with some material and supervisory assistance from the associated
+enterprises. We shall now consider the comparables alleged for
+exclusion/inclusion by assessee.
+
+26\. Ground No. 2.2:
+
+Assessee is seeking inclusion of 1 comparable being R Systems International
+Ltd in this ground.
+
+There are 2 more comparables alleged for inclusion however, at the time of
+hearing, Ld.AR submitted that they are not pressed. Accordingly, except for R
+Systems International Ltd., other comparables raised in this ground are not
+adjudicated as not pressed.
+
+R Systems International Ltd.
+
+This comparable has been excluded by Ld.TPO, as it has a different accounting
+period.
+
+Page 13 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 This Tribunal has been taking consistent view
+regarding this comparable. Ld.AR submitted that data for relevant financial
+years can be derived from the quarterly data available on the website of the
+company and therefore this comparable should be included in the finalist. In
+support of his submission, placed reliance on order passed by this Tribunal in
+assessee's own case for preceding assessment year (supra).
+
+Ld. ACIT DR placed reliance on order passed by authorities below.
+
+We have perused submissions advanced by both sides in light of records placed
+before us.
+
+It is noted that this comparable has been restored to Ld.AO/TPO in preceding
+assessment years by this Tribunal in assessee's own case. We direct assessee
+to file the relevant data for financial year from the data available on the
+website so that Ld.AO/TPO can examine the details.
+
+Accordingly we remand this comparable to Ld.AO/TPO for verification and
+inclusion the finalist.
+
+Accordingly this ground stands partly allowed.
+
+27\. Ground No.2.3 Infosys BPO Ltd Ld. AR submitted that this comparable is
+functionally different with that of assessee. It is also been submitted that
+extraordinary events like amalgamation has taken place in case of this
+comparable. Ld. AR submitted that this comparable is a  Page 14 of 26 IT(TP)A
+No.77 & 110/Bang/2014 subsidiary of Infosys Ltd and possesses brand value.
+This comparable has been spending on brand building and advertisement so as to
+enhance is brand over the years. Ld. ar thus submitted that this comparable
+cannot be compared with a captive service provider like that of assessee. On
+the contrary Ld. CIT DR relied on orders passed by authorities below.
+
+We have perused submissions advanced by both sides in light of records placed
+before us.
+
+Admittedly, this company has a huge brand value. We also note that this
+company is a very high turnover and various decisions of coordinate bench of
+this Tribunal has rejected this comparable by applying turnover filter. We
+notice that Ld. TPO had applied comparable less than Rs.1 crore filter for
+excluding certain comparables however has not applied the upper limit for the
+filter. Consistently this Tribunal has been excluding comparables with more
+than 200 crores turnover as not comparable with a captive service provider
+like assessee. On perusal of the order passed by this Tribunal in assessee's
+own case for preceding assessment year, this comparable has been excluded by
+applying turnover filter. There has been no factual changes for year under
+consideration and therefore we do not find any reason to deviate from the
+consistent approach taken by this Tribunal in assessee's own case.
+
+Accordingly, we direct to excluded this comparable.
+
+Page 15 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 Accentia Technologies Ltd.
+
+Ld.AR submitted that, this comparable is functionally different with that of
+assessee as it is engaged in medical transcription, medical coding, billing
+and engaged in healthcare activities. He also submitted that, there has been
+extraordinary event during the years under consideration being acquisition of
+96% stake in M/s oak technologies Inc.. It has been submitted by Ld. ar that
+this comparable is also into software product development. For all the
+relevant segments under which this comparable is generating revenue, there is
+no segmental details available. Ld.AR pointed out from the annual report
+placed at page 32-40 and 60 of paper book that this company has made
+investments and other companies and has entered into strategy tie ups for
+raising long-term funds for expansion of the company. On the contrary,
+Ld.CIT.DR relied on orders passed by authorities below.
+
+We have perused submissions advanced by both sides in light of records placed
+before us. We note that for assessment year 2011- 12, this Tribunal excluded
+this comparable by observing that it operates in a different business strategy
+of acquiring companies for inorganic growth. No doubt that this comparable has
+been acquiring various companies as a matter of its internal strategy for
+expansion thereby causing an extraordinary event which impacts profits of this
+company.
+
+Page 16 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 Following consistent approach taken in
+assessee's own case, we direct Ld.AO/TPO to exclude this comparable from the
+finalist.
+
+Cosmic Global Ltd.
+
+this comparable has been selected by Ld.AO/TPO, however Ld.AR submitted that
+it is engaged in providing services of medical transcription and consultancy,
+translation services and accounts BPO. The Ld.AR submitted that this
+comparable has earned major revenue through translation services. The Ld.AR
+further submitted that this comparable does not satisfy the employee cost to
+sales ratio filter which was considered by Ld.TPO in selecting the
+comparables. He submitted that, minimum threshold of employee cost filter
+should be at least 25% of sales, however in the present comparable it is only
+21.95%. On the contrary Ld. CIT DR submitted that in the preceding years this
+comparable was never objected by assessee for exclusion.
+
+We have perused submissions advanced by both sides in light of records placed
+before us.
+
+Though assessee has submitted in the chart that this comparable is submitted
+to be functionally different, however, before us LdAR could not demonstrate
+how the functions are not similar. In our view, segment that needs to be
+considered in present facts is the BPO segment, that has turnover of Rs. 27.76
+lakhs. The turnover of assessee in the present case is 68.28 Lacs. We note
+that Ld.AR  Page 17 of 26 IT(TP)A No.77 & 110/Bang/2014 has placed reliance on
+decision of e4e Business Solutions India Pvt. Ltd vs DCIT reported in (2016)
+67 taxmann.com 68 , wherein, this comparable was excluded by relying on
+decision of coordinate bench of this Tribunal in case of Lam Research (India)
+(P) Ltd vs DCIT in ITA No. 1437/B/2014 dated 30/04/2014: 11.4Cosmic Global
+Ltd.
+
+The learned AR of the assessee submitted that the assessee raised objection
+against inclusion of this company in the list of comparables before the TPO on
+the ground that this company has major revenue from translation services.
+Therefore, this company is functionally different from the services provided
+by the assessee to its AE. The learned AR of the assessee has referred to the
+Annual report of this company and submitted that that out of the total revenue
+of Rs. 7,37,02,584/-, this company has earned revenue from translation charges
+to the tune of Rs. 6,99,35,756/-. Therefore, substantial part of the revenue
+has been earned from the activity of translation. The learned AR of the
+assessee has further pointed out that even otherwise this company is
+outsourcing the work of translation as it is evident from the profit and loss
+account of this company that an amount of Rs. 3,00,25,326/- has been paid on
+account of translation charges. Thus, learned AR of the assessee has submitted
+that this company cannot be considered as functionally comparable with the
+assessee for the purpose of determining the ALP. In support of his contention,
+he has relied upon the decision of the co-ordinate bench of this Tribunal in
+the case of Lam Research (India) (P.) Ltd. v. Dy. CIT in ITA No.
+1437/Bang/2014 dated 30/4/2015.
+
+(i) On the other hand, learned Departmental Representative has submitted that
+the comparability of this company has been examined by the TPO as well as by
+the DRP. The TPO has rejected the objections raised by the assessee in respect
+of this company by holding that the translation service are in the nature of
+ITeS and therefore, it qualifies all the filters applied by the TPO. He has
+relied upon the orders of the authorities below.
+
+(ii) We have considered the rival submissions as well as the relevant material
+on record. There is no dispute that this company is in the business of
+providing service of medical transcription and consultancy services,
+translations services and accounts BPO. The segmental revenue from the
+operations are given in schedule 8 to the  Page 18 of 26 IT(TP)A No.77 &
+110/Bang/2014 Profit & Loss account which reveals that major revenue of Rs.
+6,99,35,756/- out of total revenue of Rs. 7.37 crores has been earned by this
+company from the activity of translation services. We further note that the
+company has debited an expenditure of more than Rs. 3 crore on account of
+translations charges paid. Thus it is clear that this company is outsourcing
+its services of translation work which is the main activity of this company
+yielding major revenue earned during the year. Thus it is manifest from the
+record that this company is in the entirely different nature of activity and
+cannot be compared with the activity of providing contact centre of the
+assessee to its AE. In the case of Lam Research (India) (P.) Ltd. (supra) the
+co- ordinate bench of this Tribunal had occasion to examine the comparability
+of this company in para. 34 as under:
+
+"34. With respect to Cosmic Global Ltd., Hyderabad bench of ITAT in the case
+of Capital IQ Information Systems (India) P. Ltd., in para 19 of its order,
+had held as under:
+
+Cosmic Global Ltd.
+
+19\. The main objection of assessee with reference to the inclusion of this
+company is with reference to outsourcing of its main activity. Even though
+this company is in assessee's TP study, it has raised objection before the TPO
+that this company's employee cost is less than 21.30% and most of the cost is
+with reference to the outsourcing charges or translation charges, and as such
+this is not a comparable company. The TPO, though considered these
+submissions, rejected the same, on the reason that this does not impact the
+profit margin of the company. Opposing the view taken by the TPO, it is
+submitted that this company cannot be selected as comparable, as M/s. Capital
+IQ Information systems (India) Pvt. Ltd., Hyderabad similar issue was
+discussed by the coordinate Bench of the Tribunal(Delhi) in the case of Mercer
+Consulting (India) P. Ltd. (supra), vide paras 13.2 to 13.3 which read as
+under- 13.2. Now coming to the factual matrix of this case, we find from the
+material on record that outsourcing charges of this case constitute 57.31% of
+the total operating costs. This does not appear to us to be a valid reason for
+eliminating this case from the list of comparables. On going through the
+Annual accounts of Cosmic Global Limited, a copy of which has been placed on
+record, we find that its total revenue from operations are at Rs. 7.37 crore
+divided into three segments, namely, Medical transcription and consultancy
+services at Rs. 9.90 lacs, Translation charges at Rs. 6.99 crore and Accounts
+BPO at Rs. 27.76 lac. The Id. AR has made out a case that  Page 19 of 26
+IT(TP)A No.77 & 110/Bang/2014 outsourcing activity carried out by this company
+constitutes 57% of total expenses. The reason for which we are not agreeable
+with the Id. AR is that we have to examine the revenue of this case only from
+Accounts BPO segment and not on the entity level, being also from Medical
+transcription and Translation charges. When we are examining the results of
+this company from the Accounts BPO segment alone, there is no need to examine
+the position under other segments. The entire outsourcing is confined to
+Translation charges paid at Rs. 3.00 crore, which is strictly in the realm of
+the Translation segment, revenues from which are to the tune of Rs. 6.99
+crore. If this segment of Translation is not under consideration for deciding
+as to whether this case is comparable or not, we cannot take recourse to the
+figures which are relevant for segments other than accounts BPO. Thus it is
+held that this case cannot be excluded on the strength of outsourcing
+activity, which is alien to the relevant segment.
+
+13.3 However, we find this case to incomparable on the alternative argument
+advanced by the Id. AR to the effect that total revenue of the Accounts BPO
+segment of Cosmic Global Limited is very low at Rs. 27. 76 lacs. We have
+discussed this aspect above in the context of CG-VAK's case and held that a
+captive unit cannot be compared with a giant case and thus excluded CG-VAK
+with turnover from Accounts BPO segment at Rs. 86.10 lacs. As the segmental
+revenue of BPO segment of Cosmic Global Limited at Rs. 27. 76 lac is still on
+much lower side, the reasons given above would fully apply to hold Cosmic
+Global Limited as incomparable. This case is, therefore, directed to be
+excluded from the list of comparables. In view of the detailed analysis of the
+coordinate Bench of the Tribunal in the above referred case, in this case also
+we accept the contentions of assessee and direct the Assessing Officer/TPO to
+exclude this comparable for the same reasons.
+
+Accordingly, we direct that Cosmic Global Ltd., also be excluded from the list
+of comparables."
+
+Respectfully following the same we direct Ld. AO/TPO to exclude this
+comparable from the final list.
+
+Eclerx Services Ltd.
+
+Page 20 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 This comparable was selected by Ld.TPO. However
+Ld.AR submitted that this comparable is functionally different as it is
+engaged in high-end services and therefore is not comparable with a captive
+service provider like that of assessee. He submitted that this comparable is
+basically provides services into knowledge process segments and not a back-
+office service provider like that of assessee. He placed reliance on
+observations of coordinate bench of this Tribunal in case of e4e Business
+Solutions India Pvt.Ltd vs DCIT (supra).
+
+On the contrary learn CIT DR placed reliance on orders passed by authorities
+below.
+
+We have perused submissions advanced by both sides in light of records placed
+before us.
+
+We note that coordinate bench of this tribunal in respect of this comparable
+observed as under:
+
+11.2Eclerx Services Ltd.
+
+The learned AR of the assessee has submitted that this company is engaged in
+the high-end services and therefore, this company is basically a KPO and not a
+BPO. He has referred to Annual Report of this company at page 26 of the paper
+book -II and submitted that as it is clear from the Annual Report that this
+company is a knowledge process outsourcing (K. P. O) providing data analytics
+and data process solutions to global enterprise clients. This company supports
+core and complex activities for its clients using proprietary processes and a
+scalable offshore delivery model. This company has access to the capital
+market and therefore, this company is a public listed KPO company in India.
+The company is also engaged in consulting services and process outsourcing as
+well as in the activity of process re- engineering and automation apart from
+middle office and back office support to capital market. Therefore, keeping in
+the diversified high-end services, this company cannot be considered as
+functionally comparable with the assessee. In support of his  Page 21 of 26
+IT(TP)A No.77 & 110/Bang/2014 contention, he has relied upon the decision of
+the Special Bench of the Mumbai Tribunal in the case of Maersk Global Centres
+(India) (P.) Ltd. v. Asstt. CIT [2014] 43 taxmann.com 100/147 ITD 83.
+
+(i) On the other hand, learned Departmental Representative has submitted that
+this company is undisputedly in the business of ITeS and therefore, the
+nomenclature that of KPO will not make it functionally different from the
+assessee. He has relied upon the orders of the authorities below.
+
+(ii) We have considered the rival submissions as well as relevant material on
+record. We find that the company Eclerx Services Ltd. is engaged in
+diversified activity of providing services including analytic services and
+data process solutions to its global clients. The service provided by Eclerx
+Services Ltd., is in various areas including capital market and therefore, the
+services are in the nature of consultancy and end to end support through trade
+centre including trade confirmation, settlement, transaction, maintenance and
+analytic and reporting. Thus it is apparent from the nature of the activity of
+this company that it is not providing a simple service of data processing but
+it is engaged in the activity of providing high-end services involving
+decision making analysis which requires thought process and evaluation of
+various facts and factors. Functional comparability of this company with that
+of simple BPO's service providing company has been examined by the Special
+Bench in the case of Maersk Global Centres (India) (P.) Ltd. (supra) in
+paras.82 & 83 as under :
+
+82\. In so far as M/s eClerx Services Limited is concerned, the relevant
+information is available in the form of annual report for financial year
+2007-08 placed at page 166 to 183 of the paper book. A perusal of the same
+shows that the said company provides data analytics and data process solutions
+to some of the largest brands in the world and is recognized as experts in
+chosen markets-financial services and retail and manufacturing. It is claimed
+to be providing complete businesssolutions by combining people, process
+improvement and automation. It is claimed to have employed over 1500 domain
+specialists working for the clients. It is claimed that eClerx is a different
+company with industry  Page 22 of 26 IT(TP)A No.77 & 110/Bang/2014 specialized
+services for meeting complex client needs, data analytics KPO service provider
+specializing in two business verticals financial services and retail and
+manufacturing. It is claimed to be engaged in providing solutions that do not
+just reduce cost, but help the clients increase sales and reduce risk by
+enhancing efficiencies and by providing valuable insights that empower better
+decisions. M/s eClerx Services Pvt. Ltd. is also claimed to have a scalable
+delivery model and solutions offered that include data analytics, operations
+management, audits and reconciliation, metrics management and reporting
+services. It also provides tailored process outsourcing and management
+services along with a multitude of data aggregation, mining and maintenance
+services. It is claimed that the company has a team dedicated to developing
+automation tools to support service delivery. These software automation tools
+increase productivity, allowing customers to benefit from further cost saving
+and output gains with better control over quality. Keeping in view the nature
+of services rendered by M/s eClerx Services Pvt. Ltd. and its functional
+profile, we are of the view that this company is also mainly engaged in
+providing high-end services involving specialized knowledge and domain
+expertise in the field and the same cannot be compared with the assessee
+company which is mainly engaged in providing low- end services to the group
+concerns.
+
+83\. For the reasons given above, we are of the view that if the functions
+actually performed by the assessee company for its AEs are compared with the
+functional profile of M/s eClerx Services Pvt. Ltd. and Mold-Tec Technologies
+Ltd., it is difficult to find out any relatively equal degree of comparability
+and the said entities cannot be taken as comparables for the purpose of
+determining ALP of the transactions of the assessee company with its AEs. We,
+therefore, direct that these two entities be excluded from the list of 10
+comparables finally taken by the AO/TPO as per the direction of the DRP.
+
+From the above it is clear that this comparable has held to be not comparable
+with a low end BPO company like that of assessee.
+
+Page 23 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 Accordingly we direct Ld. AO/TPO to exclude this
+comparable from final list.
+
+Accordingly this ground stands allowed.
+
+28\. Additional Ground No.7:
+
+Assessee raised Additional Ground No.7, vide application dated August 2016
+wherein, it is submitted that, assessee's assets depreciates at higher rate,
+and therefore necessary adjustment needs to be provided in respect of
+depreciation cost in case of comparables, to bridge disparities between final
+set of comparables and assessee. Admittedly, this issue has been raised before
+this Tribunal for 1st time. Assessee submitted that, there is a significant
+difference in the rate of depreciation cost between assessee and the
+comparables.
+
+It has been submitted by Ld.AR that this issue has been considered by
+coordinate bench of this Tribunal in assessee's own case in IT(TP)
+No.443/Bang/2016, by order dated 31/10/2017 has remanded the issue to
+Ld.TPO/AO for re-examination based on details filed by assessee regarding
+difference in depreciation. This Tribunal also observed that, adjustment on
+account of accelerated depreciation has been granted to assessee in the
+preceding years.
+
+Ld.AR thus prayed for admission of the ground. On the contrary, Ld.CIT DR
+submitted that this issue was never considered by authorities below and no new
+ground could be raised before this Tribunal now.
+
+Page 24 of 26
+
+IT(TP)A No.77 & 110/Bang/2014 We have perused the records and orders passed by
+this Tribunal. ALP needs to be computed by removing differences between
+assessee and comparables, that could have a baring on the cost. In preceding
+years, adjustment on accelerated depreciation had been granted to assessee
+subject to verification. We therefore are of the opinion that though this
+issue has been raised for the first time, it needs to be considered. We are
+therefore admitting this Ground.
+
+We remit this issue for being considered by Ld.AO/TPO. Assessee shall
+demonstrate the difference in rate of depreciation charged in case of assessee
+as well as the comparables. This shall be examined by Ld.AO/TPO and if it is
+found that the rates of depreciation are different between assessee and
+comparables, reasonable depreciation adjustment should be granted. Needless to
+say that proper opportunity of being heard must be granted to assessee.
+
+Accordingly, Additional Ground no.7 raised by assessee stands allowed for
+statistical purposes.
+
+Order pronounced in the open court on 27th Nov, 2020 Sd/- Sd/-
+
+    
+    
+     (B.R BASKARAN)                                   (BEENA PILLAI)
+    Accountant Member                                Judicial Member
+    Bangalore,
+    Dated, the 27th Nov, 2020.
+    /Vms/
+                                Page 25 of 26
+                                     IT(TP)A No.77 & 110/Bang/2014
+    
+    
+    
+    
+    Copy to:
+    1.   Appellant
+    2.   Respondent
+    3.   CIT
+    4.   CIT(A)
+    5.   DR, ITAT, Bangalore
+    6.   Guard file                        By order
+    
+    
+                               Assistant Registrar, ITAT, Bangalore
+                               Page 26 of 26
+                                    IT(TP)A No.77 & 110/Bang/2014
+    
+    
+    
+    
+                                       Date       Initial
+    1.   Draft dictated on            On Dragon              Sr.PS
+    2.   Draft    placed     before    -11-2020              Sr.PS
+         author
+    3.   Draft proposed & placed       -11-2020             JM/AM
+         before    the    second
+         member
+    4.   Draft discussed/approved      -11-2020             JM/AM
+         by Second Member.
+    5.   Approved Draft comes to       -11-2020             Sr.PS/PS
+         the Sr.PS/PS
+    6.   Kept for pronouncement        -11-2020              Sr.PS
+         on
+    7.   Date of uploading     the     -11-2020              Sr.PS
+         order on Website
+    8.   If not uploaded, furnish        --                  Sr.PS
+         the reason
+    9.   File sent to the Bench        -11-2020              Sr.PS
+         Clerk
+    10. Date on which file goes to
+        the AR
+    11. Date on which file goes to
+        the Head Clerk.
+    12. Date of dispatch of Order.
+    13. Draft dictation sheets are       No                  Sr.PS
+        attached
+     
+

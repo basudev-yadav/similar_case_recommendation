@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Data Discovery Anonymization Demo</title>
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!--link href="static/styles.css" rel="stylesheet"-->
+</head>
+
+<body>
+    <div class="container">
+        <h1 align="center">Data Discovery - Anonymization Demo</h1>
+        <div id="nameInput" class="input-group-lg center-block helloInput">
+        <p class="lead"><b>Upload File:</b></p>
+		<form id="form" method="POST" enctype="multipart/form-data">
+      		<input type="file" name="file">
+            <br/>
+      		<input type="submit" value="Upload">
+    	</form>
+        </div>
+        <img src="static/images/loader.gif" id="spinner"  style="display: none; margin-left : 460px; align-content : center;" />
+        <p id="response" class="lead"></p>
+        <hr/>
+        <p align="center"><a href="https://data-discovery-api.mybluemix.net/swagger-ui.html">Data Discovery API</a></p>
+        <p align="center"><a href="https://anu-ie.mybluemix.net/swagger-ui.html">Anu Information Extraction</a></p>
+        <p align="center"><a href="https://anu-datasets.mybluemix.net/">Anu Datasets</a></p>
+        <p align="center"><a href="https://data-discovery-demo.mybluemix.net/healthcare">Data Discovery Healthcare</a></p>
+        <p align="center"><a href="https://data-discovery-demo.mybluemix.net/deidentification">Medical Text De-identification</a></p>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+      $('#form').on('submit', function(e) {
+        $('#spinner').show();
+        // Get form
+        var form = $(this);
+    	var formdata = false;
+    	if (window.FormData){
+        	formdata = new FormData(form[0]);
+    	}
+        e.preventDefault();
+        $.ajax({
+			//method : 'POST',
+            //enctype: 'multipart/form-data',
+			//url: './classiy',
+			//data: formdata
+            //data: {input_text : "Balaji Ganesan is an idiot"}
+            enctype: 'multipart/form-data',
+            url: './anonymize',
+            data: formdata,
+            processData : false,
+            cache       : false,
+            contentType : false,
+            type        : 'POST',
+            success     : function(data) {
+                $('#response').html(data);
+                console.log("SUCCESS : ", data);
+                $('#spinner').hide();
+            },
+            error: function (e) {
+                $("#response").html(e.responseText);
+                console.log("ERROR : ", e);
+                $('#spinner').hide();
+            }
+        });
+      });
+    </script>
+</body>
+
+</html>
+

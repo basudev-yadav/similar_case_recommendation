@@ -1,0 +1,596 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Giesecke & Devrient (India) Pvt. ... vs Dcit, New Delhi on 29 March, 2019
+
+    
+    
+                           In the Income-Tax Appellate Tribunal,
+                                 Delhi Bench 'I-2', New Delhi
+    
+                    Before : Shri Amit Shukla, Judicial Member And
+                          Shri L.P. Sahu, Accountant Member
+    
+                                 ITA No. 2544/Del/2014
+                                Assessment Year: 2009-10
+    
+            Giesecke & Devrient (India)             vs. DCIT, Circle 12(1),
+            Private Ltd, Plot No. 57, Sector-44,        New Delhi.
+            Gurgaon PAN- AABCG 4223D
+            (Appellant)                                  (Respondent)
+    
+                   Appellant by        Sh. Deepak Chopra, Adv.
+                                       Sh. Harpreet Singh Ajmaini, Adv.
+                                       Sh. Rohan Khare, Adv.
+                   Respondent by       Sh. H.K. Choudhary, CIT/DR
+    
+                      Date of Hearing                     08.01.2019
+                      Date of Pronouncement               29.03.2019
+    
+    
+                                           ORDER
+    
+
+Per L.P. Sahu, A.M.:
+
+This appeal by the assessee is directed against the final Assessment Order
+dated 31.03.2009 passed under section 143(3) r.w.s 144C of the Income Tax Act,
+1961 (hereinafter referred to as 'the Act') for the assessment year 2009-10 on
+the following grounds :
+
+Transfer Pricing [Rs. 80,430,576]
+
+1\. On facts and in law, the order under section 143(3) read with section 144C
+of the Act passed by the Ld. AO is void-ab-initio and infructuous and is
+liable to be quashed as the said order is in violation of section 144C(10),
+(13), (5) of the Act, in so far, as it is contradictory to and ignorant of the
+directions issued by the Hon'ble DRP.
+
+SIM Card Assembly Segment [Rs. 69,819,061]  ITA No. 2544/Del/2014 2
+
+2\. On facts and in law, the Deputy Commissioner of Income Tax, Circle 12(1),
+New Delhi ("Ld. AO") [along with the Additional Commissioner of Income Tax,
+Transfer Pricing Officer - 1(2), New Delhi ("the Ld. TPO") - under reference
+from the Ld. AO] erred in determining and the Hon'ble Dispute Resolution Panel
+("Hon'ble DRP") erred in partly confirming the addition of Rs. 69,819,061 to
+the total income of the Appellant on account of the difference in arm's length
+price of the international transactions pertaining to SIM card assembly
+segment of the Appellant.
+
+3\. Without prejudice to Ground 1, on the facts and in law, the order of the
+Ld. AO is erroneous to the extent of not incorporating the binding directions
+of the Hon'ble DRP that the adjustment should be restricted only to the
+transactions with the AEs which results in relief of Rs. 33,095,760, while
+finalizing the order section 143(3) read with section 144C of the Act.
+
+4\. On the facts and in law, the Ld. TPO, Ld. AO and Hon'ble DRP erred in
+computing the profit margin of whole SIM card segment thereby contravening the
+provisions of Rule 10B( 1 )(e)(i) of the Rules which necessitate the
+computation of net profit margin realised by the Appellant only from its
+international transactions with the AEs.
+
+5\. On facts and in law, the Ld. TPO, Ld. AO and the Hon'ble DRP erred in
+applying the profit margin of comparable companies to that of the Appellant
+without taking into account economic & commercial reasons and factual data to
+support the losses incurred in the SIM card assembly segment.
+
+6\. On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP
+grossly erred in not allowing appropriate adjustments in accordance with the
+provisions of Rule 10B(l)(e)(iii) and 10B(3) of the Rules to account for
+difference in working capital employed between the Appellant and the
+comparable companies selected by the Ld. TPO.
+
+Software Development Segment [Rs. 10,611,515]
+
+7\. On facts and in law, the Ld. TPO, Ld. AO erred in determining and the
+Hon'ble DRP erred in partly confirming the addition of Rs. 10,611,515 to the
+total income of the Appellant on account of the difference in the arm's length
+price of international transactions pertaining to software development
+segment.
+
+ITA No. 2544/Del/2014 3
+
+8\. Without prejudice to Ground 1, on the facts and in law, the order of the
+Ld. AO is erroneous to the extent of not incorporating the binding directions
+of the Hon'ble DRP that the working capital adjustment under Rule 10B(l)(e)
+for the purpose of determination of the ALP and the corrected margins of the
+comparables should be considered which results in relief of Rs. 2,158,799
+while finalizing the order section 143(3) read with section 144C of the Act.
+
+9\. On facts and in law, the Ld. AO/ Ld. TPO erred in violating the provisions
+of Rule 10B(2) of the Rules by rejecting certain comparable companies
+identified by the Appellant in its TP documentation using arbitrary reasons/
+filters.
+
+10\. On facts and in law, the Ld. AO/ Ld. TPO erred in violating the
+provisions of Rule 10B(2) by introducing new companies without considering the
+differences in the functions performed, assets employed and risks assumed by
+such companies vis- a-vis the Appellant, thereby resorting to cherry picking
+of comparables.
+
+10.1 Infosys Technologies Ltd. (Functionally not comparable to the Appellant)
+10.2 Sonata Software Limited (Failing filter of related party transactions to
+total sales applied by the Ld. TPO) 10.3 Kals Information Systems Limited
+(Failing filter of employee cost to total sales applied by the Ld. TPO and
+Functionally not comparable to the Appellant) 10.4 Bodhtree Consulting Ltd.
+(Functionally not comparable to the Appellant and a super normal profit making
+company) 10.5 Comp-U-Leam India Ltd. (Functionally not comparable to the
+Appellant)
+
+11\. On the facts and in law, the Ld. TPO and Ld. AO erred in not allowing a
+risk adjustment to the Appellant, thereby contravening the provisions of Rule
+10B( 1 )(e)(iii) of the Rules.
+
+Use of Multiple Year Data
+
+12\. On facts and in law the Ld. TPO, Ld. AO and the Hon'ble DRP erred in
+using the data for the current year (i.e. financial year 2008-09) which was
+not contemporaneous and which was not available in the public domain at the
+time of preparing the TP documentation by the Appellant, thereby grossly
+misinterpreting the requirement of 'contemporaneous' data in the Rules to
+necessarily imply current year data, thereby breaching the principles of
+natural  ITA No. 2544/Del/2014 4 justice and 'impossibility of performance'.
+
+13\. On facts and in law, the Ld. AO erred in determining and the Hon'ble DRP
+erred in confirming the adjustment of Rs. 3,475,925 to the total income of the
+Appellant on account of disallowance of payment of export commission under
+section 40(a)(ia) of the Act.
+
+14\. On facts and in law, the Ld. AO and the Hon'ble DRP erred in concluding
+that the payment of export commission by the Appellant can be treated as
+royalty/ fees for technical services under section 9(1) of the Act.
+
+15\. On the facts and in the circumstances of the case, the Ld. AO erred in
+levying interest under section 234B and 234D of the Act.
+
+16\. On facts and in law, the Ld. AO and the Hon'ble DRP erred on fact and in
+law in initiating penalty under section 271(1 )(c) of the Act.
+
+The Appellant vide its letter dated 17.09.2018 has raised additional grounds
+which are as under:-
+
+Ground 5.1: That the TPO/AO/DRP erred in confirming Karnataka Hybrid Micro
+Devices Ltd. as a comparable without appreciating that the said comparable
+does not fulfill the FAR test.
+
+Ground 5.2: Without prejudice, even otherwise the said comparable was liable
+to be rejected since the TPO himself in the preceding as well as subsequent
+years has rejected the same as not being functionally comparable to the
+Assessee.
+
+2\. The brief facts of the case are that the appellant, Giesecke & Devrient
+India Pvt. Ltd. is a company registered under the Companies Act,1956 and was
+incorporated in 2001 as a 100 percent subsidiary of G&D GmBH with its
+corporate office at Gurgaon. For the year under consideration the Appellant
+was engaged in the business of trading Currency Verification and Processing
+Systems ("CVPS"), assembling and distribution of SIM Cards to the
+telecommunication service providers and in provision of software development
+services to its Associated Enterprises ("AE"). During the impugned year i.e.
+AY 2009-10 the  ITA No. 2544/Del/2014 5 Appellant filed its return declaring
+an income of Rs.14,69,61,812/-. Since the Appellant had entered into various
+international transactions, a reference was made to the Transfer Pricing
+Officer ("TPO") for determination of the arm's length price of the said
+transactions. Details of the international transactions undertaken by the
+Appellant during the year are as follows:-
+
+    
+    
+              S. No.   NATURE OF TRANSACTION                     AMOUNT (In
+                                                                 INR)
+    
+
+1\. Import of CVPS Machines and spare parts 35,97,90,683/-
+
+("Distribution Function")
+
+2\. Import of Raw Material for SIM Card 24,92,08,505/-
+
+("Assembly Function")
+
+3\. Software Development 12,92,00,387/-
+
+    
+    
+                 4.    Sale of SIM Cards                         16,91,24,839/-
+                 5.    Purchase of Fixed Assets                  23,82,038/-
+                 6.    Provision of Installation Services        20,12,946/-
+                 7.    Service Expenses                          1,74,11,881/-
+                 8.    Commission Expenses                       70,98,795/-
+                 9.    Interest on External Commercial           85,73,598/-
+                       Borrowing
+               10.     Repairs and Maintenance                   25,09,155/-
+               11.     Other Expenses                            3,48,70,716/-
+               12.     Reimbursement of Expenses                 72,39,704/-
+              13.      Receipt of Software Services              27,74,401/-
+              14.      Service Charges                           3,61,03,750/-
+              15.      Gurantee Fee paid                         25,94,083/-
+              16.      Recovery of Expenses                      28,03,221/-
+    
+    
+    
+    
+
+The TPO for the above mentioned transactions picked up the transactions of
+Assembly of SIM card segment and the software development segment proposing to
+make adjustments to the same. For the software development segment the
+Appellant declared an OP/OC of 13.14% and selected 24 comparables with an
+average OP/OC of 14.23%. Hence the transaction was claimed to be at arm's
+length. The TPO during the transfer pricing proceedings proceeded to reject 15
+of the 24 comparables selected by the Appellant in its TP study and hence
+accepted  ITA No. 2544/Del/2014 6 only 9 comparables from the list. Further,
+the TPO added 6 additional comparables to the list and the average OP/OC of
+the final 15 comparables was worked out at 22.43% thereby proposing an
+adjustment of Rs.1,06,11,515/-.
+
+2.1 In the Sim Card segment the Appellant declared its OP/OC of 17.40% whilst
+selecting 5 comparables with an average OP/OC of 1.75% . It was submitted
+before the TPO that the loss was owing to various circumstances such as
+initial years of operation, high competition in the market, under utilisation
+of capacities etc. The TPO accepted the benchmarking analysis of the Appellant
+as it is. However, he refused to give adjustment with respect to low sales
+realization due to falling prices, stiff market competition led to decrease in
+prices of chips, under utilization of capacities and regulatory hurdles and
+also proportionate adjustment between AE and non-AE transactions and
+determined the adjustment being the difference between the margin of the
+Appellant as opposed to the comparables at Rs.6,98,19,061/-.
+
+2.2 The AO vide its Draft Order dated 21.02.2013 confirmed the additions as
+proposed by the TPO. Additionally, the AO observed that the Appellant during
+the impugned year had made commission payments to its AE namely Giesecke &
+Devrient Egypt Services LLC ("G&D Egypt"). The Appellant submitted before the
+AO that the said payments were in the nature of commission for forwarding of
+orders and since the services were rendered outside India, being non
+managerial/technical/consultancy in nature, the Appellant was not liable to
+deduct tax at source and hence no disallowance U/S 40( a)(i) of the Income Tax
+Act, 1961 was warranted. The AO however disregarding the submissions of the
+ITA No. 2544/Del/2014 7 Appellant, held that the payment of commission was in
+the nature of "Fee for Technical Services" U/s. 9(1)(vii) of the Act and hence
+made a disallowance of INR 34,75,925/- U/s. 40(a)(i) of the Act. Hence the
+income of the Appellant was assessed as follows:-
+
+    
+    
+              S.No.    Particulars                                AMOUNT (In
+                                                                  INR)
+                 1.    Income as Declared by the Assessee         14,69,61,812/-
+                 2.    Additions :-
+    
+
+3\. Transfer Pricing adjustment . by the TPO 8,04,30,576/-
+
+    
+    
+                 4.    Addition on account of Export              34,75,925/-
+                       Commission
+                 5.    Total Income                               23,08,68,313/-
+                 6.    Rounded Off                                23,08,68,310/-
+    
+    
+    
+
+2.3 Aggrieved with the Draft Assessment Order, the Appellant preferred to file
+objections before the Dispute Resolution Panel ("DRP"). The DRP vide its
+directions dated 24.12.2013 gave partial relief to the Appellant as follows:-
+
+> (i). Contentions against exclusion of comparables in the software segment
+> were rejected.
+
+> (ii). Plea for working capital adjustment was granted
+
+> (iii). Plea regarding correction of margins was acceded to
+
+> (iv). Capacity adjustment for the SIM card segment was rejected.
+
+> (v). Proportionate adjustment in the SIM card segment allowed
+
+> (vi). Corporate tax addition u/s 40(a)(i) was confirmed.
+
+2.4 The AO passed the Final Assessment Order dated 16.01.2014 confirming the
+additions as made in the Draft Order dated 21.02.2013 in complete disregard to
+the DRP Directions dated 24.12.2013. The TPO thereafter passed an appeal
+effect order dated 27.02.2014 whereby the adjustments in the TP segments were
+recalculated as under:-
+
+    
+    
+              S.No.    Descriptions                               Adjustment (In
+                                                                  INR)
+                                                                  ITA No. 2544/Del/2014   8
+    
+    
+                  1.    Software Development Services            1,26,56,171/-
+                  2.    SIM Card Assembly Segment                3,51,35,021/-
+                  3.    Total Rs.                                4,77,91,192/-
+    
+    
+    
+
+Aggrieved with the Final Assessment Order dated 16.01.2014 the Appellant
+preferred an appeal before the Tribunal.
+
+2.5. Thereafter, the Appellant filed a rectification application before the
+TPO pointing out certain calculation errors in the margins of the final set of
+comparables for the Software Development Segment. The TPO vide its order dated
+22.06.2015 acceded to the Appellant's request and recomputed the margins as
+follows thereby reducing the adjustment to Rs.87,93,902/-
+
+    
+    
+               S. No.   Descriptions                             Margin
+                                                                 (OP/OC) %
+                 1.     Akshay Software Technologies Limited     12.90
+                 2.     Bodhtree Consulting Ltd                  67.81
+                 3.     Comp-U-Learn Tech Ltd                    22.28
+                  4     Infosys Ltd.                             39.27
+                  5      Kals Information Systems Ltd.           32.35
+                  6      LGS Global Ltd                          15.70
+                  7     Larsen & Toubro Infotech Ltd             17.92
+                  8     Mindtree Ltd.                            4.25
+                  9     Persistent System Limited                16.83
+                 10      RS Software India Ltd.                  11.06
+                 11     Sasken Communication Technologies Ltd.   15.90
+                 12     Sonata Software Limited                  29.83
+                 13     Tata Elexi Ltd.                          20.29
+                 14     Thirdware Solution Ltd.                  21.04
+                 15     VGL Softech Ltd.                         -14.72
+                         Average                                 20.85
+    
+    
+    
+
+Finally, the AO recomputed the ALP of Software Development Segment as under :
+
+    
+    
+               S. No.   Particulars                              Amount (INR)
+                  1.    Operational cost                         11,41,86,424
+    
+
+2\. Arm's Length Price at margin of 20.85% 13,79,94,290  ITA No. 2544/Del/2014
+9
+
+3\. Price received 12,92,00,388
+
+4\. 105% of price received 13,56,60,407
+
+5\. Adjustment u/s. 92CA 87,93,902 Thus, total adjustment made by the AO in
+both the segments stood as under, which have been challenged by the assessee
+in this appeal :
+
+    
+    
+               S. No.   Description                                  Adjustment
+                  1.    Software Development Services                87,93,902
+                  2.    Sim Card Assembly Segment                    3,51,35,021
+                        Total                                        4,39,28,923
+    
+    
+    
+    
+
+3\. The Appellant is challenging inclusion of 5 comparables by TPO out of the
+above mentioned 15 comparables namely Bodhtree Consulting Ltd., Comp-U- Learn
+Tech Ltd., Infosys Ltd., Kals Information Systems Ltd. and Sonata Software
+Ltd. on the following written submissions made before us :
+
+BODHTREE CONSULTING LIMITED {"Bodhtree"} 11.1. Bodhtree was rejected by the
+Appellant in its TP Study as not being functionally comparable to the
+functional profile of the Appellant. The TPO however disregarded the
+contentions of the Appellant and held that Bodhtree was primarily into
+software development, hence added the same to the final list of comparables.
+(Refer Pg. 23 to 24 of TPO Order).
+
+The said comparable was objected to before the DRP (Refer Pg. 82 to 85 of
+Objections), however, the DRP rejected the Appellant's contentions for
+exclusion of Bodhtree. (Refer Pg.14 of DRP Directions).
+
+The appellant is challenging the exclusion of Bodhtree as a comparable on the
+following points :-
+
+20.1 Functionally Different - It is respectfully submitted that Bodhtree is an
+end to end service provider which provides IT Consulting and product
+engineering services including business activities like data warehousing and
+data management. It has only one segment namely software development, however,
+under one umbrella it is providing open and end to end web solutions, off
+shoring data management, data warehousing, software consultancy, design and
+development of solutions whilst utilising the latest technology. (Refer Pg. 12
+of Annual Report).
+
+ITA No. 2544/Del/2014 10
+
+20.2 Insufficient Segmental Details - Bodhtree deals in wide array of services
+and products there is no segmental data of revenue or costs between the said
+services. (Refer Pg. 28 of the Annual Report) 20.3 Abnormal Growth -
+Additionally, Bodhtree during the impugned year had an abnormal growth of 67%
+in comparison to the preceding year. (Refer Pg. 1 of the Annual Report) 20.4
+Bodhtree follows a different revenue recognition model as compared to the
+Appellant.
+
+20.5 Additionally, it is pertinent to mention that the said comparable has
+been rejected as not being functionally comparable to the Appellant in the
+Appellant's own case for the preceding year i.e. AY 2008-09 by this Hon'ble
+Tribunal vide its order dated 23.08.2018. Hence, there being no change in the
+profile of Bodhtree between AY 2008-09 and 2009- 10, the said comparable is
+liable to be rejected.(Refer Pg. 15 to 20 of the Tribunal Order)
+
+21\. The Appellant would also like to place reliance on the co-ordinate
+bench's decision in the case of Cadence Design Systems (India) Pvt. Ltd. v
+DCIT, ITA No. 2074/Del12014 (for the same assessment year, i.e., AY 2009-10)
+wherein this Hon'ble Tribunal has categorically held that Bodhtree being an
+end to end service provider dealing in software products as well, cannot be
+held to be functionally comparable to a captive software development company.
+The relevant extract of the findings of Tribunal in the case of Cadence Design
+(supra) is reproduced hereunder for ready reference:
+
+"6.4 We have heard the rival submissions and perused the relevant findings
+given in the impugned order as well as the material referred to before us. As
+discussed earlier, the assessee under the provision of software research and
+development services carries out R&D services for its AE for the development
+of software products to its CDS utilizing R&D technology of CDS only. CDS
+specifies R&D services to be performed; products to be developed or used; time
+line for completion and specific result to be achieved. The entire
+conceptualizing of the marketing strategy for sales of its products and
+services, securing of orders of its products are done by CDS and not by the
+assessee. The assessee company is purely a 'captive service provider' and does
+not undertake any kind of marketing or development functions.
+Conceptualization of services and determination of exact scope of work, which
+is to be performed by the assessee, is responsibility of CDS. Even the quality
+control, testing of the products is all done by CDS. Now, if we analyze the
+functions of the assessee, which is purely R&D being a captive unit vis-a-vis
+the functions of Bodhtree, we find that this company is into IT consulting and
+product engineering service and has a wide array of business activities like
+data warehousing and data management. It has only one segment namely, software
+development and being a software solution company, it is engaged in providing
+open and end-to-end web solutions, off shores data management and data
+consultancy design and development solution. Such functions, though may be
+said to be carried out by the AE i.e. Cadence, but it cannot be said that
+similar functions have been performed by the assessee. Even on the risk
+analysis, the comparability fails as assessee is purely risk mitigated company
+as discussed above. We find that there are catena of decisions of various
+Benches of the Tribunal like in case of Cisco Systems India (P.) Ltd. v.
+
+ITA No. 2544/Del/2014 11
+
+Dy. CIT [20I4} 66 SOT 82150 taxmann.com 280 (Bang.), wherein it was held that
+this company is rendering software business of developing software products
+and is providing open and end-to-end web solution, software consultancy and
+design and development of software and the same cannot be held to be
+comparable with the companies, which are purely into software development
+services and not into software products. Apart from that, in the case of
+Fiserv India (P.) Ltd. (supra), this comparable has been excluded after
+considering various decisions of the Tribunal. Coming to the arguments of the
+ld. Sr. D.R. that during the course of search analysis, the assessee too has
+chosen the companies by adopting search criteria of company into 'software
+products' and therefore, the assessee now is precluded from making a
+distinction that software product companies should be excluded. In our
+opinion, such a contention of the ld. Sr. DR cannot be accepted, because
+selection of comparables by using any search criteria is one of the process of
+shortlisting the companies by applying various quantitative and qualitative
+filters in the wide array of companies in the data. Once in the search
+process, certain companies are thrown in the search result, then it is
+incumbent that deep FAR analysis is to be done so as to carry out proper
+comparability analysis with the tested party so as to benchmark and arrive at
+a proper Arm's Length Price. If at the functional level, it is shown that
+functions performed by the assessee is entirely different from the functions
+carried out by the comparable companies, or it does 8 found comparable either
+under risk analysis or assets deployed, then such comparable companies should
+not be excluded from comparability analysis. Accordingly, we hold that
+Bodhtree cannot be included as comparable for benchmarking the assessee 's
+margin. "
+
+22\. Reliance is also placed on the following decisions for the same
+Assessment Year (AY 2009-10) wherein Bodhtree has been excluded as not being
+functionally comparable to a captive software developer.
+
+i. Finserv India Pvt. Ltd. v ITa, [2015] 60 taxmann.com 48 (Delhi-Trib) ii GE
+Convertam EDC Pvt. Ltd. v ACIT, [2017] 79 taxmann.com 408 (Chennai- Trib) iii.
+OSI Systems Pvt. Ltd. v DCIT, [2016] 66 taxmann.com 109 (Hyderabad-Trib) iv.
+Syncheron Technologies Pvt. Ltd. v JCIT, [2016] 71 taxmann.com 245 (Pune-
+Trib)
+
+23\. Hence, it is prayed that in view of the above arguments, Bodhtree cannot
+be taken as a comparable and is liable to be rejected.
+
+4\. On the other hand, the ld. DR submitted that Bodhtree Consulting Ltd. is a
+suitable comparable which has been rightly selected by the TPO. From the
+annual report of the above company, it is clear that the company is engaged
+only in the Software Development Services. In the notes to accounts, the
+auditor has categorically mentioned at Sl. No.5 under the head 'segment
+information' that there is only one segment, i.e., software development
+services. The profit and loss  ITA No. 2544/Del/2014 12 account shows that the
+company has shown revenue from sales only. Inviting our attention to the
+decision of Tribunal in the case of assessee for assessment year 2008-09, the
+ld. DR submitted that the Tribunal though excluded the above comparable from
+the final set of comparables, but has also referred to the decision of Hon'ble
+Delhi High Court in the case of Saxo India (ITA No. 682/2016, wherein it has
+been categorically observed that a company engaged in providing software
+Development service cannot be regarded as a fit comparable to the company
+engaged in providing both software development and software product services.
+In the present case, the assessee as well as Bodhtree Consulting Ltd.
+(Bodhtree) are found engaged only in one segment, i.e., software development
+Services. Nowhere in the annual report or director's report of M/s. Bodhtree,
+is it mentioned that the company is in the development of products. The
+confusion has arisen only on account of the narration mentioned in the Revenue
+segment which has been described as local sales and export sales. The sale
+here denotes income from software development services. Further, there is no
+opening and closing stock inventory of any product in the final accounts of
+the comparable, namely, Bodhtree. Further, ld. DR submitted that in the
+present case, assessee is also engaged in complex software development
+services which includes web services, e-business, communication infrastructure
+(page 357 of the paper book). Further, assessee supports in the entire gamut
+of Government solution business unit, which includes capturing data for ID
+specific identifying characteristics to delivery of personalized cards as per
+page 390 of the paper book which is basically entire gamut of IT services and
+IT scrutiny systems. Further, in the TP study, there is no separation of role
+of assessee and its AE for discharging overall function. Still further, as per
+page 110 of the paper book, which is part of the transfer pricing study, there
+is no separate role of the assessee mentioned under the head software
+development services so as to ascertain what specific services  ITA No.
+2544/Del/2014 13 are performed by the assessee in the overall functions of the
+group. Therefore, this comparable has rightly been included by the TPO.
+
+5\. After hearing both the sides and perusing the entire materials available
+on record, we observe that the segment-wise and product-wise performance of
+Bodhtree as mentioned in director's report is as under :
+
+> "Bodhtree has only one segment, namely, software development. Being a
+> software solutions company, it is engaged in providing open and end-to-end
+> web solutions, Offshoring data management, data warehousing, software
+> consultancy, design and development of solutions, using the latest
+> technologies.
+
+On perusal of Profit and loss account of Bodhtree, the Revenue is generating
+only from sales which is basically service income in absence of any supporting
+figures in respect of separate software product. Further, there is no opening
+and closing figures for any software product/purchase of software product. In
+the entire annual report and Director's report, there is no mention of
+development of product by this company. In the director's report Annexure-3
+page No. 12, it is stated that there is only one segment, namely, software
+development and the company is only a software solution company and is engaged
+in providing open and end-to-end web solutions. This statement further
+supports that the company is not engaged in developing separate software
+product but only in providing software development services and solutions.
+
+5\. As far as veracity of software services provided by Bodhtree, the transfer
+pricing study alongwith annexures have been perused. Transfer pricing
+memorandum is contained from page 100 to 330 of the paper book as per
+annexures of the paper book. On page No. 110 under the software development
+ITA No. 2544/Del/2014 14 segment (para 1.3), there is no specific function
+mentioned in the said segment performed by the assessee vis a vis the group
+functions. For the sake of clarity, the functions under the software
+development services as contained in para 1.3 are reproduced as under :
+
+> 1.3. Software development During FY 2008-09, G&D India has provided software
+> development services to G&D GmbH, Giesecke & Devrient America Inc. ("G&D
+> America") and Giesecke & Devrient Asia Pte. Ltd. ("G&D Asia").
+
+> We compared the net cost-plus mark-up ("NCP Margin") that G&D India derived
+> from its software development function with the arm's-length results
+> achieved by independent companies that perform similar software development
+> functions to those of G&D India. The three-year weighted average NCP margin
+> earned by broadly comparable independent companies range from (-) 1.77
+> percent to 28.52 percent with an arithmetical mean of 14.23 percent.
+
+Further, on pages 164 & 165 of the paper book para 4.3.1, the functions under
+the software development are reproduced as under :
+
+> 4.3. Software Development 4.3.1. Functions G&D India renders software
+> development services to G&D GmbH wherein it develops applications
+> software(s) for G&D GmbH. In this regard, G&D India has entered into a
+> 'software development agreement' effective from December 12, 2005.
+
+> G&D India is primarily engaged in the following software business:
+
+• Development of software for the Smartcard module, which is sold to G&D GmbH.
+The chip set module software is developed as per the general requirements of
+the markets and is primarily developed for G&D GmbH. About 90 percent of the
+total development activity relates to the development of software used as a
+part of the Smartcard module and is sold as a part of the smartcard. The
+software development process for the development of the chip set module is
+further explained the following parts. • Development of application software
+as per the specific requirements of the clients of G&D group. The services are
+offered to G&D GmbH and Giesecke & Devrient Asia Pte. Ltd. also, these
+services are provided to the sim card assembly division of G&D India. This
+accounts for about 10 percent of the total revenue.
+

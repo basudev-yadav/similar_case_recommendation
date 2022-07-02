@@ -1,0 +1,809 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Dcit, Bangalore vs M/S Broadcom Communication ... on 29 October, 2020
+
+    
+    
+           IN THE INCOME TAX APPELLATE TRIBUNAL
+                     'B' BENCH : BANGALORE
+     BEFORE SHRI. B. R. BASKARAN, ACCOUNTANT MEMBER
+                               AND
+             SMT. BEENA PILLAI, JUDICIAL MEMBER
+                   IT(TP)A No.482/Bang/2016
+                   Assessment Year : 2011-12
+    
+    
+    The Dy. Commissioner of         M/s LSI India Research &
+    Income Tax,                     Development Pvt. Ltd.,
+    Circle-1(1)(2),                  (earlier known as M/s
+    Bengaluru.                Vs.   Broadcom Communications
+                                    Tech Pvt. Ltd.,)
+                                    S1, Wipro Electronic City,
+                                    Special Economic Zone,
+                                    Doddathogur Village, Begur
+                                    Hobli, Electronic City,
+                                    Bengaluru-560 100.
+    
+                                    PAN - AACCB 8136 B.
+          APPELLANT                        RESPONDENT
+    
+    
+                       CO No.7/Bang/2017
+                    Assessment Year : 2011-12
+    
+    
+    The Dy. Commissioner of         M/s LSI India Research &
+    Income Tax,                     Development Pvt. Ltd.,
+    Central Circle-1(1)(2),          (earlier known as M/s
+    Bengaluru.                  Vs. Broadcom Communications
+                                    Tech Pvt. Ltd.,)
+                                    S1, Wipro Electronic City,
+                                    Special Economic Zone,
+                                    Doddathogur Village, Begur
+                                    Hobli, Electronic City,
+                                    Bengaluru-560 100.
+                                    PAN - AACCB 8136 B.
+           APPELLANT                        RESPONDENT
+                                     Page 2 of 23
+                                               IT(TP)A No.482/Bang/2016
+                                               CO No.7/Bang/2017
+    
+    
+    
+    Revenue by           : Shri Muzaffar Hussain, CIT (DR)
+    Assessee by          : Shri Sharath Rao, C.A
+    
+    
+                  Date of Hearing                 : 19-10-2020
+                  Date of Pronouncement           : 29-10-2020
+    
+    
+                                      ORDER
+    
+
+PER BEENA PILLAI, JUDICIAL MEMBER Present cross appeals has been filed by
+revenue as well as assessee against final assessment order under section
+143(3) read with section 144C(13) of the Act, dated 18/01/2016 passed by
+Ld.DCIT Circle 1(1)(2) on following grounds of appeal: ITA No. 482/B/2016
+(revenue appeal)
+
+1\. The order of the Dispute Resolution panel is opposed to law and the facts
+and circumstances of the case.
+
+Software development services segment
+
+2\. The DRP erred in directing the AO/TPO to exclude M/s. Acropetal
+Technologies Ltd. and M/s. Larsen & Toubro InfoTech Ltd. from the list of
+comparables, holding them to be functionally dissimilar as they are having
+significant onsite revenues, thereby seeking exact comparability while
+searching for comparable companies of the assessee under TNMM method, whereas
+requirement of law and international jurisprudence require seeking similar
+comparable companies. Also, the nature of activity, i.e. software development
+remains the same, irrespective of the company engaged in providing onsite
+offshore services.
+
+3\. The DRP erred in directing the AO to exclude M/s. Larsen & Toubro infoTech
+Ltd.. and MIs. Acropetal Technologies Ltd,. on the ground that they have
+significant onsite revenue, without appreciating the fact that onsite
+developments of software entails more cost and thereby results in power profit
+margins.
+
+4\. The DRP erred in directing the AO to exclude M/s. Acropetal Technologies
+Ltd., from the list of final comparable also for the reason that clear
+segmental information of the employee cost was not available. Without
+appreciating that proper segmental information was available on prowess
+database as well audited finials.
+
+Page 3 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017
+
+5\. The DRP erred in directing to exclude E-infochips Ltd, from the list of
+comparables holding these no segmental information is available and that it
+fails 75% services revenue filter by not acknowledging the fact that entire
+revenue of the company comes provision of services, and services income being
+100% of its sales, the company qualifies the filter.
+
+6\. The I)RP erred in directing exclusion of M/s. ICRA Techno Analytics Ltd.,
+from the list of comparables on the ground that it is into diversified
+activity and no segmental data is available, without appreciating that the
+basic faction of the company is developing software talons in those and other
+verticals. The company's business of analysis of statistical data of its
+clients before providing software solutions does no render the services to be
+functionally incomparable.
+
+7\. The DRP erred directing to exclude MIs. E-Zest Solutions Ltd. from the
+list of comparables holding it to be functionally uncomparable, thereby by
+seeking exact comparability by imposing condition beyond law whereas
+requirement of law is to acknowledge only those differences that are likely to
+materially affect the margin, the DRP thought to have appreciated that the
+comparable affect the qualified all the qualitative and quantitative filters
+applied by the TPO and in a computer software services, if considered as a
+sector of business, the 15 different lines prevailing in the business can not
+be considered functionally different from each other.
+
+8\. The DRP erred in directing exclusion of M/s. Infosys Technologies Ltd.,
+from the list of companies holding it to be functional incomparable, without
+appreciating that the primary source of income of the comparable is from
+provision of software development services. Also the DRP erred in imposing a
+condition beyond law in seeking exact comparability that are likely to
+materially affect the margin,
+
+9\. The DRP erred in directing the position of law that there could be
+differences between the enterprises compared under TNMM method that are not
+likely to materially affect the price or cost charged or the profits accruing
+to such enterprises.
+
+10\. The DRP erred in directing the AO to exclude M/s. Tata Elxsi Ltd. from
+the list of comparables, holding it to be functionally uncomparable, without
+appreciating the that fact the comparable qualified all the qualitative and
+quantitative filter applied by the TPO and it is a similar comparable company
+and moreover, the requirement of law and international jurisprudence require
+seeking similar comparable company and moreover, the requirement of law and
+international jurisprudence require seeking similar comparable companies while
+searching for comparable companies under TNMM. The DRY has also not
+appreciated that there have been no projects in visual computing labs during
+the relevant previous year. Corporate issue:-
+
+11\. The DRP erred in directing the AO to follow the ratio laid down by the
+Honble court in the case of Tata Elxsi Limited 349 ITR 98 and exclude travel
+and conveyance expenses as well as expenditure on repairs and  Page 4 of 23
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 maintenance, from the total
+turnover also, while computing the deduction u/s 10 A of the l.T Act, Without
+appreciating the fact that there is no provision in section 1 OA that a such
+expenses should be reduced from the total turnover also, as clause (iv) of the
+explanation to section I OA provides that that Such expenses are to be reduced
+only from the export turnover." CO No. 7/B/2017 (by assessee) 1 The directions
+dated December 28, 2015 passed by the Honorable Dispute Resolution Panel
+("DRP") in so far as it relates to the following ground are opposed to law and
+facts of the case. 2 The Honorable DRP and the learned Assessing Officer
+("AO") have erred in upholding the action of the Transfer Pricing Officer
+("TPO") in rejecting the Transfer Pricing ("TP") documentation maintained and
+the detailed benchmarking analysis conducted by the Cross-Objector; 3 The
+Honorable DRP and learned TPO have erred in law and on facts in rejecting the
+use of multiple year data, without considering that the past year data had an
+influence on the determination of arm's length price and that the Cross-
+objector had considered contemporaneous data available at the time when it
+carried out the benchmarking study having regard to the statutory requirement
+to maintain the TP documentation by the specified date;
+
+4 The Honorable DRP and the TPO have erred in law and on facts in undertaking
+a new search and arriving at a fresh set of comparables." Brief facts of the
+case are as under:
+
+2\. Assessee is a company and has filed return of income for year under
+consideration on 30/09/2011 showing total income of Rs.7,65,881/- after
+claiming deduction under section 10 A to the extent of Rs.3,36,39,775/-. The
+case was selected for scrutiny and notice under section 143(2) was issued to
+assessee along with notice under section 142(1). In response to statutory
+notices, representative of assessee appeared before Ld.AO and filed details
+that were examined. Ld.AO observed that during the year, assessee had
+international transaction exceeding Rs.15 crores. Accordingly reference was
+made to the transfer pricing officer for determining arms length price of
+international transaction as per provisions of section 92CA of the Act.
+
+Page 5 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017
+
+3\. On receipt of reference under section 92CA, Ld.TPO called for economic
+details of international transaction between assessee and its AE in Form 3
+CEB. It is noted by us that, assessee was erstwhile known as M/s.Broadcom
+Communications Technologies Pvt.Ltd., which got subsequently merged with LSI
+India Research and Development Pvt.Ltd.
+
+4\. Ld.TPO observed that, assessee had following international transaction
+with its associated enterprise Sl. No. Type of transaction Amount (Rs) 1
+Purchase of Equipments 3,62,95,456/-
+
+2 Provision for SWD services 44,58,74,482/-
+
+5\. Ld.TPO noted that assessee has computed its margin at 13%. It was noted
+that assessee used following 9 comparables for software development services
+rendered by it and applied TNMM as most appropriate method to compute arms
+length of the international transaction by using OP/OC as PLI. Assessee had
+computed the margin of comparable at 10.22%, thereby holding the transaction
+to be at arms length.
+
+Name of company Margin Akshay Software Technologies Ltd.
+
+M/s.CG-VAK Software & Exports Ltd Evoke Technologies Pvt.Ltd Helios & Matheson
+Information Technology Ltd. LGS Global Ltd M/s.LGS Global Ltd.
+
+M/s.Melstar Information Tecnology Ltd.
+
+RS Systems International Ltd RS software (I) Ltd M/s.Sasken Cmmunication
+Technology Ltd Mean 12%  Page 6 of 23 IT(TP)A No.482/Bang/2016 CO
+No.7/Bang/2017
+
+6\. Ld.TPO though agreed with most appropriate method, however, was of the
+opinion that, TP study filed by assessee was unreliable. Ld.TPO thereafter
+applied certain filters and selected following 13 comparables.
+
+    
+    
+         Sl.No                     Company name           Net margin as
+                                                          per TP order
+         1       Acropetal Technologies Ltd.              31.98%
+         2       E Zest Solutions                         21.03%
+         3       E-Infochips Ltd                          56.44%
+         4       Evoke                                    8.11%
+         5       ICRA Techno Analytics Ltd.               24.83%
+         6       Infosys Ltd                              43.39%
+         7       Larsen & Toubro Infotech Ltd             19.83%
+         8       Mindtree Ltd.(Seg.)                      10.66%
+         9       Persistent Systems & Solutions Ltd.      22.12%
+         10      Persistent Systems Ltd.                  22.84%
+         11      R S Software (India)Ltd.                 16.37%
+         12      Sasken Communication Technologies Ltd.   24.13%
+         13      Tata Elxsi Ltd.(Seg.)                    20.91%
+    
+                                Average                   24.82%
+    
+    
+
+7\. It is submitted that, Ld.TPO provided adjustment restricting it to 1.63%
+towards working capital. Ld.TPO also rejected risk adjustment in the hands of
+assessee as no details were provided by assessee to eliminate such material
+effect or differences. Ld.TPO thus computed proposed adjustment being
+shortfall of Rs.4,72,58,655/- in the hands of assessee.
+
+Page 7 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017
+
+8\. Ld.AO while passing draft assessment order, noticed that assessee has
+deducted sum of Rs.73,75,224/- towards expenditure incurred in foreign
+currency on travel and Rs.1,60,25,123/- as expenditure towards repairs and
+maintenance was excluded while computing export turnover for purposes of
+deduction under section 10A of the Act.
+
+9\. Aggrieved by additions made by Ld.AO/TPO, assessee raised objections
+before DRP.
+
+10\. DRP rejected 10 comparables selected by Ld.TPO and restricted to 4
+comparables with average margin of 19.94% as under:
+
+    
+    
+                                      Company name                   Net margin
+               Sl.No                                                 as per TP
+                                                                     order
+               1          Persistent Systems & Solutions Ltd.        22.12%
+               2          Persistent Systems Ltd                     22.84%
+               4.         Mindtree Ltd                               10.68%
+               3          Sasken      Communication     Technologies 24.13%
+                          Ltd.
+                                 Average                             19.94%
+    
+
+11\. DRP allowed working capital to be computed as per actual following
+decision of this Tribunal in case of M/s.Rambus Chip Technologies (I)
+Pvt.Ltd., in IT(TP)A No.23/Bang/2015. DRP also directed to rectify the
+arithmetical mistake if any in computation of adjustment in respect of
+comparables retained.
+
+12\. DRP further allowed sum of Rs.73,75,224/- towards expenditure incurred in
+foreign currency on travel and Rs.1,60,25,123/- as expenditure towards repairs
+and  Page 8 of 23 IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 maintenance,
+while computing export turnover and total turnover for purposes of deduction
+under section 10A of the Act by following decision of Hon'ble Karnataka High
+Court in case of Tata Elxsi reported in [2012] 17 taxmann.com 100. DRP also
+held that losses suffered by non-eligible units cannot be set off against the
+eligible profit by following decision of Hon'ble Karnataka High Court in case
+of CIT vs Yukogava India Ltd reported in (2012) 21 Taxmann.com 154.
+
+13\. On receipt of DRP directions, Ld.AO passed final assessment order by
+making, transfer pricing addition as per proposed adjustment by Ld.TP O.
+
+14\. Aggrieved by order of Ld.AO, revenue is in appeal before us. Assessee
+filed cross objection against the appeal filed by revenue. In revenue's
+appeal, grounds raised pertain to application of "on- site revenue filter" and
+selectively rejecting certain comparables. It has also been alledged that DRP
+excluded E-Infochips Ltd., on the ground of having service income less than
+75% of sales, which is alleged to be contrary to observations of Ld.TPO. It is
+also alleged that certain comparables have been excluded functional
+incomparability. Revenue alleged exclusion of following comparables:
+
+• M/s.Acropetal Technologies Ltd.
+
+• M/s.L&T Infotech Ltd.
+
+• E-Infochips Ltd.
+
+• ICRA Techno Analytics Ltd.
+
+• E zhest Solutions Ltd.
+
+Page 9 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 • Infosys Technologies Ltd.
+
+• M/s.TATA Elxi Ltd.
+
+15\. Other issues alleged by revenue is in respect of corporate tax issue
+challenging exclusion of communication expenses for export turnover and total
+turnover for purposes of computing deduction under section 10A and accepting
+assessee claim of not considering losss from non-eligible unit while computing
+deduction u/s.10 of the Act.
+
+16\. In cross appeal filed by assessee it is observed that assessee challenges
+exclusion of 3 comparables in Ground No.5 on the basis of functional
+dissimilarities, being; • LGS Global Ltd.
+
+• R Systems International Ltd.
+
+• Akshay Software Technologies Ltd.
+
+17\. Assessee challenges exclusion of 2 comparables in Ground No.6 for stating
+that it fails employee filter: • Hellios and Matheson Technology Ltd.
+
+• CG-VAK Software & Exports Ltd.
+
+18\. Assessee challenges inclusion of 2 comparables in Ground No.8 for stating
+that it fails employee filter: • Persistent Systems and Solutions Ltd;
+
+• Persistent Systems Ltd;
+
+19\. Apart from the above referred comparables, Ld.AR has not pressed upon and
+argued any other issues raised in the ground of appeal. Accordingly we are
+restricting our observation in  Page 10 of 23 IT(TP)A No.482/Bang/2016 CO
+No.7/Bang/2017 respect of selected comparables refer to herein above alleged
+by assessee for inclusion/exclusion.
+
+20\. Before we undertake comparability analysis, it's sine qua non to
+understand the FAR of assessee under software development service segment.
+Transfer pricing study report is placed at page 97-229 of paper book.
+
+Functions:
+
+21\. Assessee is submitted to be primarily engaged in the development of VLSI,
+software, embedded software and hardware design solutions to support broadband
+wireless access. The Company provides embedded software and hardware design
+solutions a are incorporated in the chipsets manufactured by its associated
+enterprises. These comprise:
+
+> • Physical layer algorithm development and implementation • Media access
+> controller (MAC) algorithm development and implementation • Design,
+> implementation, and integration of protocol stacks that will enable
+> communication according to the standards approved and authorized by the
+> international community.
+
+22\. The assessee's product offering is to enable the manufacture of a point-
+to-point and point to multi-point broadband communication system.
+
+23\. Assessee has entered into an inter-company agreement for provision of
+software development services to its associated enterprises. For the provision
+of said services, BCTPL is compensated on a cost plus basis.
+
+Page 11 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 Assets Owned:
+
+24\. It has been submitted that assessee owns routine tangible assets like,
+furniture, fixtures, computers etc. It is also submitted that it does not
+possess nor does it develop any non- routine valuable intangibles.
+
+Risk Assumed:
+
+25\. Assessee does not bare any contract and service liability risk as it
+render services solely to AE. It has been submitted that assessee is
+compensated on a cost plus basis and is therefore insulated from the risk of
+under utilisation of capacity. It is also submitted that Foreign exchange
+fluctuation on risk is also vests with AE.
+
+Characterisation
+
+26\. Based on the above, it can be concluded that assessee is bearing
+substantially less than normal risks, as it performs limited functions with
+guidance provided by AE. We first take up appeal filed by revenue in ITA
+No.482Bang/2016 Ground No. 2 -4:
+
+27\. Ld.CIT.DR submitted that, DRP applied applying "on-site revenue filter"
+selectively respect of following comparables: • Acropetal Technologies Ltd •
+L&T Infotech Ltd.,
+
+28\. He submitted that, DRP suo-moto applied on-site revenue filter
+selectively. It was argued that application of a filter determines, kind of
+comparables displayed on database, where  Page 12 of 23 IT(TP)A
+No.482/Bang/2016 CO No.7/Bang/2017 search is carried. Application of filter to
+shortlist companies under particular segment is the second step in transfer
+pricing analysis. It was argued that, once comparables are shortlisted by
+Ld.TPO, DRP suo moto cannot apply any filter to exclude any particular
+comparables. Ld.CIT.DR submitted that, DRP applied "on-site revenue filter"
+and excluded 3 comparables, which is not considered by TPO. He submitted that
+"on-site revenue filter" applied by DRP, neither applied by assessee in
+transfer pricing study nor considered by Ld.TPO, while conducting analysis
+under section 92CA of the Act.
+
+29\. It is contended by Ld.CIT.DR that, entire analysis needs to be revisited
+based on new filter applied by DRP and therefore needs to be remanded to
+Ld.TPO.
+
+30\. On the contrary, Ld.AR submitted that, issue of suo moto application of
+"on-site revenue" filter by DRP has been addressed by coordinate bench of this
+Tribunal in case of Electronics for Imaging India Pvt. Ltd., vs. DCIT for
+assessment year 2011-12 reported in [2017] 85 taxmann.com 124. He further
+submitted that assessee do not have any objection of RS software India Pvt.
+Ltd., to be included.
+
+31\. We have perused submissions advanced by both sides in the light of
+records placed before us.
+
+32\. Main grievance of revenue is in respect of on-site revenue filter applied
+by DRP suo moto selectively, on certain comparables, and excluding them. On
+this, we agree with contention raised by Ld.CIT.DR that a filter cannot be
+applied  Page 13 of 23 IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 once TP
+analysis has been concluded by Ld.TPO However, on perusal of observations
+recorded by DRP, Acropetal Technologies Ltd., L&T Infotech Ltd., was primarily
+excluded on basis of functional dissimilarities and that segmental information
+not being available. DRP further observed that these comparables cannot be
+considered as comparable with low risk bearing contract service provider like
+assessee. Further, Ld.AR relied on decision of coordinate bench of this
+Tribunal in case of Electronics for Imaging India Pvt. Ltd., vs. DCIT for
+assessment year 2011-12 reported in [2017] 85 taxmann.com 124, wherein these
+comparables have been held to be functionally different with a contract
+service provider like assessee.
+
+33\. At this juncture, we note that application of 'suo moto' on site revenue
+filter has been considered by this Tribunal for same assessment year in
+following cases, where DRP excluded same comparables. We also not that, DRP
+therein excluded same set of comparables, based on identical observations: •
+DCIT vs. CGI Information Systems & Management Consultation (P.) Ltd reported
+in [2018] 93 taxmann.com 9 • DCIT Vs Herbalife International India (P.) Ltd
+reported in [2019] 111 taxmann.com 244 • HP decision
+
+34\. We note that under similar circumstances this Tribunal in case of DCIT vs
+CGI Information Systems (supra) observed as under:
+
+Page 14 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 "19. Acropetal Technologies Limited
+- As far as exclusion of this company as a comparable company is concerned, it
+is seen from the Directions of the DRP at paragraph 2.7 at page-9, that this
+company was excluded on the grounds that: (i) the segmental information
+containing the break-up of its export sales and employee costs, was not
+available and it was not possible to ascertain if it passed the export
+earnings and/or employee costs filters; and (ii) a substantial portion of its
+software development activities have been outsourced on sub- contract and it
+could, therefore, not be retained as a comparable. The DRP in directing
+exclusion of this company followed decision of Hyderbad Bench of ITAT in the
+case of Capital IQ Information Systems (India) (P.) Ltd. v. Dy. CIT
+(International Taxation) [2013] 32 taxmann.com 21/57 SOT 14 (URO) (Hyd. -
+Trib.). The DRP also observed that this company was predominantly doing on-
+site development of software and therefore cannot be compared with a company
+which develops software off-shore. One of the filters applied by the TPO was
+that companies where employee costs are less than 25% of turnover cannot be
+regarded as comparable. In the absence of segmental information, it was not
+possible to ascertain as to whether this company passes the test adopted by
+the TPO himself for comparison. The learned DR submitted that the required
+data can be culled out from the information available in the public domain or
+by resorting to a process of calling for information from this company
+u/s.133(6) of the Act. The learned counsel for the Assessee in this regard
+pointed out that the Hon'ble Delhi High Court rejected a similar argument by
+the Revenue in the case of Pr. CIT v. Saxo India (P.) Ltd. [2016] 74
+taxmann.com 88/243 Taxman 411/397 ITR 160. In the circumstances, this company
+was rightly held by the DRP to be not comparable. We are of the view that once
+a company becomes not comparable for the reason that segmental information to
+apply filters, we need not consider any other aspect of comparability. The
+learned counsel for the Assessee made submissions before us that this company
+was rightly directed to be excluded by the DRP on the above basis and further
+contended that even otherwise, this company is not functionally comparable to
+the Assessee. As already stated, we do not wish to go into this aspect as this
+company goes out of comparability on other reasons.
+
+20\. L & T Infotech Ltd.- This company was directed to be excluded by the DRP
+for the following reasons: (i) 48.84% of its total expenses are incurred in
+foreign currency, which includes substantial expenses on sub-contracting,
+indicating that the company has high onsite revenue;
+
+(ii) the TPO has considered the entire revenue from its 3 segments, viz.
+financial services, manufacturing and telecom as was disclosed in its Annual
+Report for FY 2010-11, for the purposes of comparability to the  Page 15 of 23
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 Assessee's software development
+services; and (iii) predominantly engaged in the onsite development of
+software in FY 2010-11. The learned DR submitted before us that the Assessee's
+profile also is similar to the profile of L & T Infotech Ltd. and therefore
+this company should be included as comparable company. He also submitted that
+what is the quantum of on-site revenue has not been spelt out by the DRP. In
+this regard it was argued by him that on-site revenue beyond 25% of the total
+revenue of the company would be beyond the tolerance level and without a
+finding that on-site revenue is more than 25% of the total revenue, this
+company ought not to have been excluded from the list of comparable companies.
+We agree with the submission of the learned DR that for application of on-site
+revenue filter, the DRP ought to have given a finding regarding the quantum of
+revenue from on-site software development. Nevertheless, this company goes out
+of comparability on the ground that the profit margins adopted by the TPO was
+from 3 divisions of the Assessee. We also find, as submitted by the learned
+counsel for the Assessee this company was held to be functionally not
+comparable as it is a market leader and thus enjoys significant benefits on
+account of ownership of marketing intangibles and intellectual property
+rights. Also, in addition to the above, the company owns proprietary software
+products which are developed in- house. Accordingly, the Assessee submits that
+the company is a product company having significant intangibles and is thus
+not comparable to captive software service providers such as the Assessee. In
+this regard the learned counsel for the Assessee has placed reliance on the
+decisions of this Hon'ble Tribunal in Applied Materials (India) (P.) Ltd. v.
+ACIT [Appeal No. 17 (Bang.) of 2016] at para 19 on pages 35-36] and Commscope
+Networks (I) (P.) Ltd. v. ITO [IT (TP) Appeal No. 166 (Bang.) of 2016] at para
+9 on pages 16-17] where the exclusion of the said company from the list of
+comparables in similar circumstances was upheld by this Hon'ble Tribunal. We
+therefore do not find any grounds to interfere with the directions of the DRP
+on exclusion of this company."
+
+35\. Further, Ld.AR alleged that, Acropetal and L&T Infotech are functionally
+not similar with a contract service provider like assessee. This observation
+could not be dislodged by Ld.CIT.DR. We also note that, Acropetal Technologies
+has been held to be into products and that L&T Infotech Ltd has observed that
+RPT is at 18.66% which is beyond the marginal limit of 15% for year under
+consideration, by this Tribunal, in case of Electronics for  Page 16 of 23
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 Imaging India Pvt.Ltd (supra). We
+therefore do not find any infirmity in the view taken by DRP as these
+comparables are even otherwise functionally not similar with assessee.
+Respectfully following the aforesaid decisions, we direct exclusion of
+Acropetal Technologies and L&T Infotech Ltd.
+
+36\. Ground No.5 is against excluding M/s.E-Infochips, by DRP on the ground
+that it fails service income filter.
+
+37\. Ld.CIT DR submitted that Ld.TPO while analysing comparables observed
+that, this company has revenue from software development up to 88%. Submitted
+that per contra, DRP observes that revenue earned by this company is less than
+75%, and therefore cannot be included. She submitted that basis of DRP to hold
+that revenue is less than 75% has not been demonstrated and therefore needs to
+be reconsidered.
+
+38\. Ld.AR placed reliance upon decision of coordinate bench of this Tribunal
+in case of Electronics for Imaging India Pvt.Ltd (supra) wherein, E- Infochips
+Ltd is excluded for failing in service income filter. We have perused
+submissions advanced by both sides in light of records placed before us.
+
+39\. It is observed that this Tribunal in case of Autodesk India Pvt Ltd. vs
+ACIT (supra) excluded E- Infochips Ltd., by following view taken by this
+Tribunal in case of Comscop Network (India) Pvt.Ltd. Limited vs ITO in IT (TP)
+A/Bang/2016 dated 22/02/17 wherein, this company was excluded for reason that,
+there is no segmental information regarding diverse functions performed by
+this company and that there was major fluctuation in its profits,  Page 17 of
+23 IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 which influenced turnover of
+this company. We also note that this Tribunal in case of DCIT vs CGI
+Information Systems (supra) had encountered with an identical situation for
+year under consideration. This tribunal observed as under:
+
+> "24. As far as ground No. 4 raised by revenue is concerned, the said ground
+> of appeal is weak and any event comparability of companies that were
+> excluded by the DRP were on valid grounds contemplated by the relevant
+> statutory provisions of the act and rules. As far as ground No. 5 in
+> revenue's appeal is concerned, the revenue seeks to challenge the exclusion
+> of AE Infotech Ltd. On the ground that it failed direct software service
+> income filter at 75%. At the outset, the assessee submits that E Infotech
+> Ltd was excluded by the DRP on the ground that: (i) no segmental information
+> is regarding its diverse functions is available; (ii) it failed the software
+> service income filter and 75%; (iii) there were major fluctuations in profit
+> and turnover every years which seems to be influenced by
+> extraordinary/peculiar circumstances; and (iv) there is a presence of
+> inventory (page 10 and 11 of the DRP's directions). The revenue, in its
+> appeal has challenged its exclusion only on the 2nd ground. In other words,
+> the revenue has not challenged its exclusion on the other grounds stated
+> hereinabove and thus its exclusion on these grounds have attained finality
+> and cannot be disturbed by this Hon'ble Tribunal. Even otherwise, we are of
+> the view that the DRP rightly arrived at the finding that companies software
+> development service revenue for FY 2010-11 was less than 75% of its total
+> operating revenue for the year. Thus the above action of the DRP in
+> rejecting the above companies correct."
+
+40\. From the above, it is observed by this Tribunal consistently in various
+decisions for A.Y: 2011-12 held that, this company does not satisfy service
+income filter being 75%. We therefore, do not see any reason to set aside this
+company to Ld.TPO. Therefore, respectfully following view taken by coordinate
+bench of this Tribunal in DCIT vs M/s CGI Information Systems and Management
+Consultations Pvt.Ltd. (supra), we direct Ld. TPO to exclude this company.
+
+Accordingly this ground raised by revenue stands dismissed.
+
+Page 18 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 Ground 6-10:
+
+41\. ICRA Techno Analytics Ltd., E-Zhest Solutions Ltd., M/s.Infosys
+Technologies Ltd. and M/s.Tata Elxsi Ltd. It has been submitted by Ld.CIT.DR
+that, DRP erred in directing exclusion of ICRA Techno Analytics Ltd on the
+ground that it is into diversified activity and no segmental details are
+available. In respect of E-Zhest Solutions Ltd., M/s.Infisys Technologies Ltd.
+and M/s.Tata Elxsi Ltd., Ld.CIT DR submitted that DRP excluded them for
+functionally not comparable. He submitted supporting order of Ld.TPO that they
+are predominantly into Software development.
+
+42\. Ld.CIT.DR thus submitted that, these comparables are into SWD and is
+functionally similar with assessee and deserves to be included.
+
+43\. On the contrary, Ld.AR relied on decisions of coordinate bench of this
+Tribunal in case of Applied Material India Pvt.Ltd reported in
+TS-815-ITAT-2015, and GT Nexus Software Pvt.Ltd., Vs. DICT in IT(TP)A
+Nos.31&409/Bang/2016 dated 18/4/2017 for same assessment years, which is
+followed in plethora of other decisions of this Tribunal for exclusion of
+these comparables. He submitted that all these comparables have been excluded
+from DCIT vs. LSI India Research Pvt.Ltd reported in (2017) 83 taxmann.com 357
+for assessment year 2011-12, being the Transferee Company as under:
+
+"9. Now we decide about the remaining six comparables excluded by the DRP and
+other four comparables retained by the DRP for which the assessee is seeking
+exclusion. We find that out of these six comparables excluded by the  Page 19
+of 23 IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 DRP, one comparable i.e. ICRA
+Techno Analytics Ltd. is having RPT in excess of 15% and therefore, for this
+reason alone this company has to be excluded although, the DRP has excluded it
+for a different reason that it is having various activities and the segmental
+data are not available. We hold this exclusion on account of RPT filter. In
+fact, we find that para-8 & 9 of the Tribunal order rendered in the case
+Commscope Networks (India) (P.) Ltd. (Supra) is relevant in respect of
+inclusion/exclusion of nine companies directed to be excluded by DRP and also
+in respect of exclusion of four companies which were retained by DRP but it
+was the contention of the assessee for exclusion thereof. We therefore, re-
+produce para-8 & 9 of the Tribunal order for the sake of ready reference;
+
+"8. We decide the issue of various exclusions and inclusions in these cross
+appeals. Regarding inclusion of 3 comparables out of 9 comparables excluded by
+DRP, we find that when both sides are seeking inclusion of these 3 comparables
+being 1 (Evoke Technologies Pvt Ltd., 2) Mindtree Ltd. (Seg) and 3) R S
+Software (India) Ltd. and their inclusion is proper as per the tribunal order
+rendered in the case of Applied Materials India Pvt. Ltd. v. ACIT as reported
+in TS-815- ITAT - 2016, we reverse the order; of DRP; about exclusion of these
+3 '' comparables and 'direct the AO/TPO to include these three in final list
+of comparables.
+
+9\. Now we decide about the remaining 6 comparables excluded by DRP and 4
+comparables retained by DRP but for which the assessee is seeking exclusion.
+Out of these 6 comparables excluded by DRP, one comparable ICRA Techno
+Analytics Ltd. is having RPT in excess of 15% and therefore, for this reason
+alone, this comparable has to be excluded although DRP has excluded it for a
+different reason that it is having various activities and segmental data are
+not available. We uphold its exclusion on account of RPT filter. Exclusion of
+Acropetal Technologies Ltd. (Seg) is covered in favour of the assessee by the
+same tribunal order rendered in the case of Applied materials India Pvt. Ltd.
+v. ACIT (Supra). Respectfully following the same, we uphold its exclusion.
+Exclusion of 1) e - Zest Solutions Ltd., 2) Infosys Ltd., 3) Larsen & Toubro
+Infotech Ltd., 4) Persistent Systems & Solutions Ltd.,
+
+5) Persistent Systems Ltd., 6) Sasken Communication Technologies Ltd. and 7)
+Tata Ebcsi Ltd. are also covered in favour of the assessee by the same
+tribunal order rendered in the case of Applied Materials India Pvt. Ltd. v.
+ACIT (Supra). Respectfully following the same, we uphold the exclusion of
+these Seven comparables also. Exclusion of E - Infochips Ltd. is covered in
+favour of the assessee by the tribunal order rendered in the case of Saxo
+India Pvt. Ltd. v. ACIT in ITA No, 6148/Del/2015 dated 05.02.2016 Para 10.1 &
+10.2 available at pages 221 to 223. Respectfully following the same, we uphold
+its  Page 20 of 23 IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017 exclusion. In
+this manner, we uphold the exclusion of six comparables excluded by DRP out of
+9 comparables excluded by DRP and exclude 4 comparables retained by DRP and we
+have already held that out of 9 comparables excluded by DRP, 3 have to come
+back being 1.) Evoke Technologies Pvt, Ltd., 2) Mindtree Ltd. (Seg) and 3) R S
+Software (India) Ltd. Now, we decide about LGS Global Ltd. As per the tribunal
+order rendered in the case of Applied materials India Pvt. Ltd. v. ACIT
+(Supra), this is a good comparable and therefore, we direct the A.O. and TPO
+to include this comparable. So, there should be 4 comparables in the final
+list of comparable and on the basis of that, the AO/TPO should work out the
+ALP".
+
+10\. As per the above two paras, reproduced from the order of the Tribunal
+rendered in the case Commscope Networks (India) (P.) Ltd. (Supra), we find
+that in that case, the Tribunal held that out of 9 comparables excluded by
+DRP, 3 have to come back being 1) Evoke Technologies Pvt. Ltd., 2) Mindtree
+Ltd. (Seg) and 3) R S Software (India) Ltd. Out of remaining 10 comparable
+companies selected by TPO, the tribunal in that case excluded. 9 companies
+being 1) ICRA Techno Analytics Ltd., 2) Acropetal Technologies Ltd. (Seg), 3)
+e
+
+\- Zest Solutions Ltd., 4) Infosys Ltd., 5) Larsen & Toubro Infotech Ltd., 6)
+Persistent Systems & Solutions Ltd., 7) Persistent Systems Ltd., 8) Sasken
+Communication Technologies Ltd, and 9) Tata Elxsi Ltd. Hence, in that case,
+only four companies were left in the final list of comparables being J) 1)
+Evoke Technologies Pvt. Ltd., 2) Mindtree Ltd. (Seg) and 3) R S Software
+(India) Ltd. and 4) Larsen & Toubro Infotech Ltd.
+
+44\. From the above, it is observed that ICRA Techno Analytics Ltd., E-Zhest
+Solutions Ltd., M/s.Infosys Technologies Ltd. and M/s.Tata Elxsi Ltd., have
+been consistently excluded by this Tribunal in case of a captive service
+provider like assessee. Further Ld.CIT DR could not establish anything
+contrary to observations of this Tribunal reproduced hereinabove.
+
+45\. Respectfully following aforestated view, we do not find any infirmity in
+exclusion of these comparables by DRP. Accordingly these Grounds raised by
+revenue stands dismissed.
+
+Page 21 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017
+
+46\. Ground No.11 has been challenged by revenue for excluding communication
+expenses for computing total turnover and export turnover and excluding loss
+earned from non-eligible unit for purposes of 10 A deduction.
+
+47\. We note that DRP by following decision of Hon'ble Karnataka High Court,
+in the case of CIT v. Tata Elxsi Ltd. reported in [2012] 17 taxmann.com 100
+held that, if any expenditure is excluded from export turnover, then the same
+needs to be excluded from total turnover as well, accordingly, directing Ld.AO
+to exclude expenses deducted from export turnover from total turnover for
+computing deduction u/s 10A of the Income-tax Act, 1961.
+
+48\. Further in respect of exclusion of loss earned from non- eligible unit
+for computing profits of eligible unit under section 10 A, DRP relied on
+decision of Hon'ble Karnataka High Court in case of and CIT v. Yokogava India
+Ltd. reported in [2012] 21 taxmann.com 154
+
+49\. We do not find any infirmity in the view taken by DRP as it is supported
+by ratios held by Hon'ble jurisdictional High Court. There is nothing on
+record brought by revenue to establish any distinguishing factors to deviate
+from the ratio of Hon'ble jurisdictional High Court.
+
+Accordingly these grounds raised by revenue stands dismissed.
+
+In the result appeal filed by revenue stands dismissed.
+
+Page 22 of 23
+
+IT(TP)A No.482/Bang/2016 CO No.7/Bang/2017
+
+50\. Since revenue's appeal is dismissed, cross objection filed by assessee
+becomes infructuous.
+
+In the result, cross objection filed by assessee also stands dismissed.
+
+Order pronounced in the open court on 29th Oct, 2020 Sd/- Sd/-
+
+    
+    
+     (B. R. BASKARAN)                                   (BEENA PILLAI)
+    Accountant Member                                  Judicial Member
+    
+    Bangalore,
+    Dated, the 29th Oct, 2020.
+    
+    /Vms/
+    
+    
+    Copy to:
+    1.   Appellant
+    2.   Respondent
+    3.   CIT
+    4.   CIT(A)
+    5.   DR, ITAT, Bangalore
+    6.   Guard file                         By order
+    
+    
+                               Assistant Registrar, ITAT, Bangalore
+                               Page 23 of 23
+                                          IT(TP)A No.482/Bang/2016
+                                         CO No.7/Bang/2017
+    
+    
+    
+    
+                                       Date       Initial
+    1.   Draft dictated on            On Dragon              Sr.PS
+    2.   Draft    placed     before    -10-2020              Sr.PS
+         author
+    3.   Draft proposed & placed       -10-2020             JM/AM
+         before    the    second
+         member
+    4.   Draft discussed/approved      -10-2020             JM/AM
+         by Second Member.
+    5.   Approved Draft comes to       -10-2020             Sr.PS/PS
+         the Sr.PS/PS
+    6.   Kept for pronouncement        -10-2020              Sr.PS
+         on
+    7.   Date of uploading     the     -10-2020              Sr.PS
+         order on Website
+    8.   If not uploaded, furnish        --                  Sr.PS
+         the reason
+    9.   File sent to the Bench        -10-2020              Sr.PS
+         Clerk
+    10. Date on which file goes to
+        the AR
+    11. Date on which file goes to
+        the Head Clerk.
+    12. Date of dispatch of Order.
+    13. Draft dictation sheets are       No                  Sr.PS
+        attached
+     
+

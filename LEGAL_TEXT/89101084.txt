@@ -1,0 +1,672 @@
+
+
+Custom, Excise & Service Tax Tribunal
+
+Bioseed Research India Pvt Ltd vs Hyderabad - G S T on 4 December, 2019
+
+Bench: P Dinesha
+
+    
+    
+                                               1
+    
+    
+    CUSTOMS, EXCISE AND SERVICE TAX APPELLATE TRIBUNAL
+                           HYDERABAD
+    
+                             REGIONAL BENCH - COURT NO.I
+    
+    
+                      Service Tax Appeal No. 20335 of 2015
+     (Arising out of Order-in-Original No. HYD-EXCUS-002-37-14-15 dated 20.11.2014
+     passed by the Principal Commissioner of Service Tax, Service Tax Commissionerate,
+     Basheerbagh, Hyderabad)
+    
+    
+     M/s. Bioseed Research India,                                             : Appellant
+     A Division of M/s. DCM Shriram Ltd.,
+     (formerly known as 'M/s. Bioseed Research (India) Pvt. Ltd.'),
+     Plot No. 206, H.No. 8-2-293/82/A/206
+     Road No. 14, Jubilee Hills,
+     Hyderabad - 500 003
+    
+                                              VERSUS
+    
+     The Commissioner of Service Tax,                                         : Respondent
+     Service tax Commissionerate,
+     Basheerbagh, Hyderabad - 500 004
+    
+    
+    
+     APPEARANCE:
+     Shri. S. Ganesh, Senior Advocate
+     Shri. G. Prahlad, Advocate
+     for the Appellant
+    
+     Shri. N. BhanuKiran,Authorized Representative (A. R.)
+     for the Respondent
+    
+    
+     CORAM:
+     HON'BLE MR. P. VENKATA SUBBA RAO, MEMBER (TECHNICAL)
+     HON'BLE MR. P. DINESHA, MEMBER (JUDICIAL)
+    
+                        FINAL ORDER NO. A/31102/ 2019
+    
+    
+                                                           DATE OF HEARING: 20.09.2019
+    
+                                                          DATE OF DECISION: 04.12.2019
+    
+    
+               PER P. DINESHA :
+    
+                      Brief facts relevant for our consideration are that
+               the   appellant   is   inter   alia   engaged    in    developing
+               proprietary parental lines and hybrids based on its
+               proprietary    germplasm       and    licences   the    same    to
+               commercial seed companies who thereafter market the
+                                       2
+    
+    
+    hybrid seeds to farmers. The appellant entered into
+    agreements with various commercial seed companies for
+    the supply of parent seeds to the seed companies for
+    production and marketing of hybrid seeds to be sold in
+    the market and a sample copy of such Licence Agreement
+    has been filed in the Appeal Memorandum at Annexure-3.
+    A close look at the above agreement reveals inter alia
+    that the appellant supplies the commercial seed company
+    with parent/foundation seeds developed by it through
+    research and development; that the parent/foundation
+    seeds comprise of a set of 'male seeds' and a set of
+    'female seeds'; that the buyer, i.e. the commercial seed
+    company, passes it on to its growers, who cultivate and
+    grow those parent seeds into plants and such grown
+    plants could be male or female plants with the female
+    plants    then    being    pollinated;      that   on    account      of
+    pollination, new hybrid seeds are produced which are
+    collected    by   the     growers     and     given     back   to   the
+    commercial seed company, i.e. the buyer, who later on
+    exploits such hybrid seeds by selling them in the open
+    market; that for the parent seeds, the commercial seed
+    company i.e. the buyer would pay the appellant a
+    'Royalty' or 'breeding charges' for supplying the parent
+    seeds, which is a pre-determined percentage of the
+    revenues earned by the buyer after selling the hybrid
+    seeds in the open market, etc.
+    1.2      It is not disputed by any of the parties that the
+    appellant     entered      into     similar     agreements          with
+    independent commercial seed producers wherein the seed
+    companies were also required to pay Royalty or breeding
+    charges at agreed rates.
+    1.3      It is the case of the appellant that none of the
+    parent seeds so developed and licensed by it were
+    registered under the Protection of Plant Varieties and
+    Farmers' Rights Act, 2001('PPV Act' for short)or any other
+    law for the time being in force at the relevant time and
+    during the disputed period i.e. April 2008 to June 2012,
+    the appellant had only applied for registration of certain
+    parent seeds, which were pending with the appropriate
+                                   3
+    
+    
+    authority for registration. It was in       2011 i.e., on
+    21.10.2011 that the appropriate authority did grant
+    registration for one of the applications for registration
+    dated 02.06.2009(for Corn BIO 22027), which was for
+    one of the periods falling within the disputed period.
+    However, it is the case of the appellant that during the
+    period in dispute, there was no sale of that particular
+    variety of Corn after the registration was granted.
+    Subsequently, registrations were granted in respect of
+    various crops on various dates. A tabulation of the same
+    is reproduced hereinbelow for the sake of convenience:
+    
+    
+    Crop          Hybrid              Date applied   Date granted
+    Cotton        BIO 6588-2 BG II    21 Apr 2009
+                  BIO 6007110         10 Jun 2009    23 Aug 2013
+                  BIO 60502IO         06 Oct 2009    14 Oct 2013
+                  BIO 2113-2 BG II    10 Dec 2009
+                  BIO 322-2 BG II     16 Aug 2010
+                  BIO 340-2 BG II     26 Jul 2010
+                  BIO 563-2 BG II     03 Aug 2010
+                  BIO 7215-2 BG II    19 Apr 2011
+                  BIO 847 2 BG II     02 Aug 2011
+                  BIO 842-2 BG II     02 Aug 2011
+                  BIO 6488 BG I       22 Apr 2009
+                  BIO 6488-2 BG II    11 Feb 2009
+                  BIO 6317-2 BG II    20 Mar 2013
+                  BIO 7213-2 BG II    18 Apr 2013
+                  BIO 6317 BG I       21 Apr 2009
+    Corn          BIO 22027           02 Jun 2009    21 Oct 2011
+                  BIO 50265 H         08 Jul 2009
+                  BIO 9544            29 Jun 2012
+    Rice          BIO 404             11 Feb 2009    14 Oct 2013
+                  BIO 4311 BH         25 Mar 2009    14 Oct 2013
+                  BIO 428 H           25 Mar 2009
+    Millet        BIO 448 H           05 Feb 2009    09 Jan 2014
+    Okra          BIO 228 H           24 Jan 2011
+    Tomato        BIOSEED 90          23 Sep 2013
+                  BIOSEED 56          29 Nov 2013
+                  SWADESHI            29 Nov 2013
+    Brinjal       RAJANI (BPV-410)    12 Aug 2013
+                  TRIVENI (BPG-305)   17 Sep 2013
+    Maize         BIO 9544            22 Jun 2012    27 May 2014
+    
+    
+    
+    
+    1.4       The Revenue undertook investigation, during the
+    course of which a letter dated 29.05.2013 was issued
+    calling for balance-sheet for the years 2008-09 to 2012-
+    13 along with the details of Royalty received by the
+                                        4
+    
+    
+    appellant, to which the appellant filed its reply vide letter
+    dated    11.06.2013.       The     Revenue         sought   additional
+    information   vide     their     letter    dated    19.07.2013    like
+    invoices, agreements, etc., which were also furnished by
+    the appellant vide its letter dated 29.08.2013. It is also
+    the case of the appellant that with the introduction of
+    Negative List with effect from 01.07.2012, the appellant
+    started paying Service Tax on the Royalty amounts
+    received by it on and from 01.07.2012 since, according to
+    the appellant, the Royalty was not a part of the Negative
+    List.
+    
+    
+    2.1     The Revenue thereafter issued a Show Cause
+    Notice dated 19.10.2013 inter alia alleging that the
+    appellant was a holder of Intellectual Property Rights
+    (IPR) in respect of the parent seeds supplied by them;
+    that such Intellectual Property Rights were covered in the
+    definition under Section 65 (55a) of the Finance Act,
+    1994, being the right under the Protection of Plant
+    Varieties and Farmers' Rights Act, 2001;that the appellant
+    was supplying parent seeds for commercial exploitation
+    whereby it was providing Intellectual Property Services by
+    permitting the use or enjoyment of the Intellectual
+    Property Rights for consideration in the form of Royalty,
+    etc. It is a fact borne on record that the appellant did file
+    its reply to the above Show Cause Notice inter alia
+    contending that the appellant did not hold any Intellectual
+    Property over the parent seeds supplied during the period
+    in dispute; that therefore, there was no liability under
+    Intellectual Property Services.
+    
+    
+    2.2     Another Show Cause Notice was issued by the
+    Revenue dated 15.05.2014 proposing to demand Service
+    Tax for the period from April 2012 to June 2012 on
+    almost same allegations, seeking to invoke the extended
+    period of limitation under Section 73(1A) of the Finance
+    Act, 1994 and also virtually reiterating the legal position
+    taken in its first Show Cause Notice, to which also the
+    appellant   filed    its   detailed       reply.   The   Adjudicating
+                                       5
+    
+    
+    Authority/Commissioner of Service Tax, Hyderabad, took
+    up the same for adjudication and vide impugned Order
+    dated 20.11.2014, confirmed the proposals contained in
+    both the Show Cause Notices. The Adjudicating Authority,
+    however, has inter alia observed that the appellant was
+    the absolute owner and holder of the Intellectual Property
+    Rights for the parent seeds by virtue of the Licence
+    Agreements; that the registration was not required, but
+    the recognition itself was sufficient; that the Intellectual
+    Property Rights were in fact recognized by the PPV Act
+    and the Rights only conferred an exclusive right and
+    protection from infringement; and that the very filing of
+    application for registration was itself sufficient to construe
+    the appellant as the owner of such rights.
+    2.3       Aggrieved, the present appeal has been filed by the
+    appellant.
+    3.        When the matter was taken up for hearing, Shri. S.
+    Ganesh, Ld. Senior Advocate, and Shri. G. Prahlad, Ld.
+    Advocate, appeared for the assessee-appellant and Shri.
+    N.       BhanuKiran,    Ld.     Departmental        Representative
+    appeared for the Revenue-respondent.
+    
+    4.1       The contentions of the Ld. Senior Advocate for the
+    appellant are briefly summarized below :
+    
+             Section 65 (105) (zzr) of the Finance Act, 1994
+              defines 'taxable service' i.e., Intellectual Property
+              Service to mean service provided or to be provided
+              "to any person by the holder of Intellectual
+              Property Right, in relation to Intellectual Property
+              Service";
+    
+             Section 65 (55a) defines 'Intellectual Property
+              Right' to mean :
+    
+                    "intellectual property right means any right to
+                    intangible    property,   namely,    trade   marks,
+                    designs, patents or any other similar intangible
+                    property, under any law for the time being in
+                    force, but does not include copyright;"
+                                   6
+    
+    
+       The   Commissioner/Adjudicating           Authority   has,
+        without examining the applicability in the proper
+        perspective, simply held that the supply of parent
+        seeds for production and marketing of hybrid seeds
+        would amount to Intellectual Property Services
+        covered under Section 65 (105) (zzr);
+    
+       Section 65 (105) (zzr) requires certain conditions
+        to be satisfied and the mere activity of supplying
+        parent seeds for commercialization is not at all
+        covered;
+    
+       With regard to the condition that the service should
+        be provided by the holder of Intellectual Property
+        Right, he submitted that the appellant was not the
+        holder of Intellectual Property Right. "Right holder"
+        has only been defined under Rule 2 (d) of the
+        Intellectual   Property       Rights   (Imported   Goods)
+        Enforcement Rules, 2007which reads as under :
+    
+              "2. Definitions.
+    
+    
+               .
+    
+
+.
+
+.
+
+(d) " right holder" means a natural person or a legal entity, which according
+to the laws in force is to be regarded as the owner of protected intellectual
+property right, its successors in title, or its duly authorized exclusive
+licensee as well as an individual, a corporation or an association authorized
+by any of the aforesaid persons to protect its rights."
+
+ The requirement of the statute, therefore, is to safeguard the interests of
+the owner of the protected Intellectual Property Rights and the appellant was
+not at all the holder of such rights at the relevant point of time;
+
+7
+
+ That there was no protection to seeds and plant varieties under any specific
+Indian law including the Patents Act, 1970 and therefore, the Protection of
+Plant Varieties and Farmers' Rights Act, 2001 came to be adopted whereunder
+Section 28 mandated registration to confer right;
+
+ Section 24 (6) of the PPV Act specifies the requirement of issuance of
+registration under Section 24 (2) of the same Act subject to payment of fees,
+etc., and not from the date of application;
+
+ Section 23 ibid is just a starting point for making an application with the
+authority provided under that statute whereupon the prescribed authority gets
+such application examined, as prescribed under Section 23 (3) and thereafter,
+the authority may issue directions to the Registrar subject to the authority's
+satisfaction;
+
+ Section 23 (7) further obligates the registration to conditions prescribed
+under Section 15;
+
+ Registration certificate is issued on registration alone under Section 24
+(2) provided an application fulfils the requirement of Section 24 (1);
+
+ With regard to the condition that the Intellectual Property Rights should be
+recognized under any law for the time being in force, the appellant's right to
+the plant varieties under the PPV Act itself was not there, which is conferred
+only upon registration being granted by the competent authority. Therefore,
+for the period in dispute the appellant having not been granted registration,
+the appellant did not enjoy any right under the PPV Act;
+
+ During the disputed period, none of the impugned seeds were registered under
+the PPV Act and the appellant only used standard formats for agreements for
+protecting its trade secrets, etc.  8 4.2.1 Ld. Senior Advocate placed
+reliance on the decision of this very Bench of the Tribunal in the case of
+M/s. Lurgi India International Services Pvt. Ltd. Vs. Commissioner of Central
+Excise, Customs and Service Tax, Hyderabad reported in 2019-TIOL-1351- CESTAT-
+HYDinvolving identical issue wherein the decision of the Mumbai Bench of the
+Tribunal in the case of M/s. Reliance Industries Ltd. Vs. Commr. ofC.Ex. &
+S.T., LTU, Mumbai reported in 2016 (44) S.T.R. 82 (Tri. - Mumbai)has been
+followed.
+
+4.2.2 He further relied on the decisions in the cases of M/s. Puma Ayurvedic
+Herbal (P) Ltd. Vs. Commissioner of C.Ex., Nagpur reported in 2009 (196)
+E.L.T. 3 (S.C.) andM/s.Elite Detectives Pvt. Ltd. Vs. C.S.T., Bangalore
+reported in 2006 (4) S.T.R. 583 (Tri. - Bang.) to contend that the onus of
+proving the alleged classification of service before fastening the appellant
+with the tax liability is on the Revenue, which has not at all been
+established by the Revenue and that therefore, the impugned order is liable to
+be set aside.
+
+4.3.1 Ld. Senior Advocate would further contend that at the most, the
+agreement could be an agreement for transfer of trade secrets provided under
+the confidentiality clause, which per se would not amount to transfer of
+Intellectual Property Law as the trade secrets are not recognized as
+Intellectual Property by any law for the time being in force in India.
+
+4.3.2 In this regard, Ld. Senior Counsel referred to the C.B.D.T.
+clarification vide F. No. B2/8/2004-TRU dated 10.09.2004, the relevant portion
+of which reads as under:
+
+> "09. Intellectual property services (other than copyrights):
+
+> 9.1 Intellectual property emerges from application of intellect, which may
+> be in the form of an invention, design, product, process, technology, book,
+> goodwill etc.  9 In India, legislations are made in respect of certain
+> Intellectual Property Rights (i.e.IPRs) such as patents, copyrights,
+> trademarks and designs. The definition of taxable service includes only such
+> IPRs (except copyright) that are prescribed under law for the time being in
+> force. As the phrase 'law for the time being in force' implies such laws as
+> are applicable in India, IPRs covered under Indian law in force at present
+> alone are chargeable to service tax and IPRs like integrated circuits or
+> undisclosed information (not covered by Indian law) would not be covered
+> under taxable services."
+
+to contend that trade secrets are never recognized as Intellectual Property
+Law in India and that the same are just "undisclosed information"as cited by
+the C.B.D.T. Circular (supra) as an example of Intellectual Property Right not
+covered by any Indian law.
+
+4.4.1 Finally, Ld. Senior Advocate contended that a part of the demand is
+hopelessly barred by limitation, for which the extended period of limitation
+could not be invoked. He explained that the Show Cause Notice dated 19.10.2013
+was issued for the period covering 01.04.2007 to 31.03.2012; that the
+appellant had filed its ST-3 return for the period ending March 2012 on
+20.04.2012 and accordingly, the Show Cause Notice having been issued after
+more than 18 months, is clearly barred by limitation, beyond the normal
+period. Moreover, there was absolutely no suppression of any facts by the
+appellant since the appellant was always under the bona fide belief that there
+was no liability to Service Tax as the appellant did not hold any right; that
+there were series of communications between the Revenue and the appellant
+wherein the queries of the Revenue were answered by the appellant.
+
+4.4.2 In this regard, Ld. Senior Counsel relied on the decisions in the cases
+of M/s. Padmini ProductsVs. Collector of C.Ex. reported in 1989 (43) E.L.T.
+195 (S.C.) and M/s.Anand Nishikawa Co. Ltd. Vs. Commissioner of Central
+Excise, Meerut, reported in  10 2005-TIOL-118-SC-CX.He also placed reliance on
+the following judgements :
+
+(i) Anantpur Textiles Ltd. Vs. C.C.E., Calcutta - 1994 (72) E.L.T. 48 (Tri.);
+
+(ii) Hindalco Industries Ltd. Vs. C.C.E., Allahabad - 2003 (161) E.L.T. 346
+(Tri. - Del);
+
+(iii) Kirloskar Oil Engines Vs. C.C.E., Nasik - 2004 (178) E.L.T. 998 (Tri. -
+Mum.);
+
+(iv) Paro Food Products Vs. C.C.E., Hyderabad - 2005 (184) E.L.T. 50 (Tri. -
+Bang.);
+
+(v) U.T. Ltd. Vs. C.C.E., Calcutta-I - 2001 (130) E.L.T. 791 (Tri. - Kol.);
+
+(vi) Gujrat Intelligence Security Vs. C.C.E., Vadodara -
+
+2010-TIOL-825-CESTAT-AHM.
+
+4.4.3 For the very same reasons, Ld. Senior Advocate submits that there cannot
+be any demand towards penalty under Sections 76, 77 or 78 of the Finance Act,
+1994 and nor could there be any interest under Section 75 that could be
+demanded since the issues involve interpretation of statute/complex legal
+provision inasmuch as the appellant only supplied parent seeds whereas the
+Revenue has held that the services rendered by the appellant were in the
+nature of Intellectual Property Services even though the same were not
+recognized under any law for the time being in force in India. For these very
+reasons, Ld. Senior Advocate submitted that even the provisions of Section 80
+ibid would apply as the appellant has proved its bona fides by showing
+reasonable cause, if at all there were any failures on its part, and
+consequently, would be entitled for waiver of any penalties under Sections 76,
+77 or 78 ibid.
+
+11
+
+5.1 Per contra, Ld. Departmental Representative for the Revenue while
+supporting the findings of the Ld. Adjudicating Authority, put forth various
+contentions, which are inter alia summarized as under :
+
+ The assessee entered into agreements wherein it projected itself as the
+holder of Intellectual Property Rights in respect of parent seeds which are
+covered under Section 65 (55a) ibid., being rights under the PPV Act. The
+assessee-appellant is supplying parent seeds under limited "Royalty bearing"
+licence which tantamounts to the provision of IPR Servicesby permitting the
+use or enjoyment of said IPR for consideration in the form of 'Royalty', which
+is taxable under Section 65 (105) (zzr);
+
+ The activities of the appellant clearly meet the conditions prescribed under
+Section 65 (105) (zzr) for which our attention was invited to paragraph 9.4 at
+page 14 of the impugned order;
+
+ The appellant has not disputed the fact that it was receiving Royalty, as
+shown in their Books, from its customers to whom parent seeds are supplied
+under licence agreement;
+
+ In one of the agreements, the appellant is also shown to have supplied
+confidential information;
+
+ There are various clauses in the licence agreement, a cumulative reading of
+which makes it clear that the assessee are the absolute owners and holders of
+IPRs for the parent seeds for which they have received Royalty;
+
+ The requirements of law are that for the purpose of levy of Service Tax, the
+IPR should be recognized under the law for the time being in force, but there
+is no requirement that such IPRs are to be registered under the provisions of
+law since permitting the use or enjoyment of unregistered  12 IPR is also a
+taxable service. IPRs are protected by various laws from any infringement and
+therefore, registration of such IPRs is only for the purpose of obtaining
+protection from infringements. The levy of Service Tax cannot depend on
+whether an IPR like trademark, design, patent, etc., is registered or not;
+
+ The definition of ' taxable service' also does not require for the purposes
+of levy of Service Tax all the requirements of registration under any law for
+the time being in force and hence, the owner or any other person who holds the
+IPRs that are recognized under any law for the time being in force, provides
+any service in relation to such Intellectual Property Service for which a
+consideration is received in return, shall be liable to Service Tax;
+
+ The IPRs held by the assessee during the period of dispute, which came to be
+transferred temporarily to the customers under licence agreement for a
+consideration in the form of Royalty, is recognized and prescribed under the
+PPV Act. Hence, whether the assessee was holding the IPRs during the disputed
+period or not is not relevant;
+
+ The appellant has filed applications for registration during 2009, 2010,
+2011 and one application in 2012, apart from five such applications during
+2013\. Filing of such applications itself indicates that those rights were
+prescribed under the PPV Act and that the appellant, as owner, had applied for
+registration, which itself is conclusive proof that the appellant owned the
+IPRs even though not registered under the PPV Act, etc. 5.2 Ld. A.R. also
+relied on the 'UPOV Convention' as also various decisions referred to and
+relied upon by the Ld. Adjudicating Authority.
+
+13
+
+6\. We have heard the rival contentions and gone through the documents placed
+on record.
+
+7\. Two facts remain undisputed: (1) The appellant was not holding Right by
+virtue of non-registration (though the same has been held to be not required
+by the authority below) and (2) the appellant was reflecting the consideration
+received as Royalty (paragraph 10 of the impugned order) in its Books of
+Account. Therefore, the only issue to be decided in the peculiar facts and
+circumstances of the case, as pleaded by both the sides, is : "Whether there
+is any liability to Service Tax under Intellectual Property Service on the
+consideration received as Royalty?"
+
+8.1 The relevant Sections of the Finance Act have already been extracted in
+the earlier paragraphs. Section 65 (55a) prescribes, while defining IPR, "any
+right .... under any law for the time being in force" and this has also been
+clarified by the C.B.E.C. vide Circular No. 80/10/2004-S.T. dated 17.09.2004
+(with effect from 10.09.2004). The clarification reads thus :"The definition
+of taxable service includes only such IPRs (except copyright) that are
+prescribed under law for the time being in force. As the phrase 'law for the
+time being in force' implies such laws as are applicable in India, IPRs
+covered under Indian law in force at present alone are chargeable to service
+tax..."
+
+8.2 Section 23 of the PPV Act prescribes the procedure for registration under
+the Act and the issuance of certificate of registration is prescribed under
+Section 24 ibid. Further, Section 28 mandates the conferring of Right. Section
+23 prescribes the detailed procedure requiring the Registrar to first satisfy
+itself with the requirements and thereafter get the application examined and
+only thereafter he shall forward such application with relevant documents to
+the authority under the Act. Finally, it is the authority which issues
+directions to the Registrar or rejects such application under the Act. Once
+the application for registration of a variety is approved  14 i.e., accepted,
+only then the same is registered and the certificate of registration is issued
+in terms of Section 24 and only when such certificate of registration is
+issued under the Act, it shall confer an exclusive right in terms of Section
+28 ibid.
+
+9\. In view of the above, therefore, what is clear is that mere filing of
+application would not lead an applicant anywhere and such applicant would not
+automatically become owner/holder of Right under the Act unless such right is
+conferred in terms of Section 28 after due process as prescribed under the
+said Act. Hence, one of the objections of the Revenue that mere filing is
+sufficient cannot survive.
+
+10.1 The Revenue has mainly referred to the agreements between the appellant
+and its customers and various clauses therein and inter alia observed that the
+appellants are the absolute owners and holders of IPR, by which the appellants
+are fastened with tax liability. To our understanding, any agreement between
+two parties inter se is civil in nature, which only binds the parties thereto
+to the terms or contents therein. Such agreements could also be financial in
+nature whereby consideration is being passed on, however, subject to certain
+acts/omissions/conditions or terms in such agreements. So, any failure on the
+part of one of the parties to such an agreement would only lead to a civil
+dispute, maybe for specific performance or enforcement or recovery, etc. Such
+agreements, therefore, are binding only on the parties who bind themselves
+with the terms and conditions therein and no outsider would ever have or be
+influenced by any of the terms therein. So also, such agreements or clauses
+thereunder cannot have the effect of fastening any tax liability, that too
+under a taxing statute independent of Article 265 of the Constitution of
+India.
+
+10.2 So, to read it in a manner so as to fix tax liability would, in our view,
+be a little too far-fetched. Therefore, to use the agreement and the clauses
+therein just to  15 fasten tax liability may not stand, more so in the absence
+of sanction under the taxing statute; charge to tax could only be from the
+taxing statute and not from the inter se agreements.
+
+11\. Now, coming to the requirements of law, the governing statute is the PPV
+Act, according to which the Right flows from the moment the registration is
+granted. Once the application is filed, procedure follows, which is not just
+an empty formality. The governing statute thus confers and recognizes an
+applicant's right, which thus satisfies the conditions in Section 65 (55a)
+read with Circular No. 80/10/2004 (supra), i.e., the applicant becomes
+holder/owner of Intellectual Property Right prescribed under the relevant Act
+i.e., the PPV Act, which for the time being is in force.
+
+12.1 In this connection, we note the findings of the Mumbai Bench of the
+Tribunal in the case of M/s. Reliance Industries Ltd. (supra) wherein after
+recording the relevant observations of the Co-ordinate Bench of the Tribunal
+in the case of M/s. Tata Consultancy Services Ltd. Vs. Commissioner of S.T.,
+Mumbai reported in 2016 (41) S.T.R. 121 (Tri. - Mumbai), the following
+observations have been made :
+
+> "9.1 We also note that a Co-ordinate Bench of the Tribunal has in the case
+> of TCS v. CST - 2016 (41) S.T.R. 121 (T) taken a view similar to the one
+> taken by us above. The relevant observations of the Tribunal read as under :
+
+> "4. The taxable service under consideration is defined under Section
+> 65(105)(zzr) to mean any service provided or to be provided to any person,
+> by the holder of Intellectual Property Right, in relation to Intellectual
+> Property Service. Intellectual Property Service is defined under Section
+> 65(55b) to mean (a) transferring (temporarily); or (b) permitting the use or
+> enjoyment of, any intellectual property right. And Intellectual Property
+> Right as defined under Section 65(55a) means any right to intangible
+> property, namely, trade marks, designs, patents or any other similar
+> intangible property, under any law for the time being in force, but does not
+> include copyright.
+
+16
+
+> 4.1 Short question to be decided is whether the transfer of technical 'know
+> how' received by the Appellant is a service which may be categorized under
+> "Intellectual Property Right Services". We find that the definition of
+> Intellectual Property Right must be satisfied to term the services received
+> by the Appellant as Intellectual Property Right Services. We find no clue at
+> all in the records as to which type of Intellectual Property Right is being
+> assigned to the "Technical know- how" received by the Appellant. It is
+> obvious from the definition of Intellectual Property Right that the right
+> has to be a specific Right under a specific Law. Examples are given under
+> the definition such as the Trade Mark which is a right provided under "Trade
+> Marks Act". Similarly the right mentioned as 'design' in the definition is a
+> right under the "Designs Act". Therefore we find that the technical know-how
+> received by the Appellant and the royalty payment made by the Appellant to
+> Unisys is nowhere established to result from the use of any Intellectual
+> Property Right.
+
+> 4.2 We may further go on to add that the Intellectual Property Right should
+> be a right under the Indian law. Intellectual Property Right not covered by
+> the Indian laws would not be covered under taxable service in the category
+> of Intellectual Property Right Services. We are fortified in our view by
+> Board Circular F. No. 80/10/2004-S.T., dated 17-9-2004 which clarified that
+> "Intellectual Property emerges from application of intellect, which may be
+> in the form of an invention, design, product, process, technology, book,
+> goodwill, etc. In India, legislations are made in respect of certain
+> Intellectual Property Rights (i.e. IPRs) such as patents, copyrights,
+> trademarks and designs. The definition of taxable service includes only such
+> IPRs (except copyright) that are prescribed under law for the time being in
+> force. As the phrase "law for the time being in force" implies such laws as
+> are applicable in India, IPRs covered under Indian law in force at present
+> alone are chargeable to service tax and IPRs like integrated circuits or
+> undisclosed information (not covered by Indian law) would not be covered
+> under taxable services."
+
+11\. Insofar as the agreement with Investa Technologies S.A.R.L. is concerned
+the same was entered into on 14-8-2004, prior to IPR services being brought
+into the net of service tax w.e.f. 10-9-2004. The service itself having been
+rendered prior to the introduction of the levy, the mere fact that payments
+for  17 the same were made on a staggered basis over a period of time cannot
+be a ground for levying service tax merely with reference to the date on which
+payments were being made. We find that during the relevant period the issue as
+to whether a transaction is leviable to service tax and if so at what rate was
+required to be reckoned with reference to the date when the service was
+rendered and not with reference to the date on which payment is made. The law
+in this regard is settled by the decision of the CESTAT reported in 2008 (10)
+S.T.R. 243 which was affirmed by the Hon'ble Gujarat High Court in the
+Appellant's own case reported in 2010 (19) S.T.R. 807 as also by the Hon'ble
+Delhi High Court in the case of CCE v. Consulting Engineering Services India
+(P) Ltd.2013 (30) S.T.R. 586. As the service in the case of Investa
+Technologies S.A.R.L, was rendered prior to 10-9-2004, the date when the
+taxing entry was brought to the Statute the mere subsequent payment in respect
+of services that are already being rendered cannot be brought to tax with
+respect to the rate applicable on the date on which the payment was effected."
+
+The very same view has been followed by this very Bench of the Tribunal in the
+case of M/s. Lurgi India International Services Pvt. Ltd. (supra).
+
+12.2 The cumulative takeaway from the above orders is that in order to fasten
+the Service Tax liability, the person providing the service (technical
+knowhow) has to be registered with the Patents Authority in India and that if
+the IPR is registered in any foreign country, but is not registered in India,
+the same will not attract the Service Tax.
+
+13\. From the above, we find that on merits, the issue in the case on hand is
+no more res integra and accordingly, hold that the impugned order and the
+demand made thereunder is not sustainable and liable to be set aside, which we
+hereby do.
+
+14.1 In the case on hand, admittedly, the appellant was not having the
+privileges of Right during most part of the disputed period and therefore, the
+requirements of charging Section read with the Board Circular No. 80/10/2004
+(supra) remain largely unsatisfied. Hence, we  18 do not entertain the
+Revenue's plea and have to hold that the demand cannot sustain beyond the
+normal period.
+
+14.2 There is also another reason as to why the demand for the extended period
+cannot be sustained. The Ld. Adjudicating Authority has observed at paragraph
+10 of the impugned order that the consideration was shown as 'Royalty' in the
+Books of Accounts of the appellant. So, this was not something that was
+suppressed or camouflaged so as to give the colour of fraud, suppression, mis-
+representation, etc., for invoking the larger period of limitation.
+
+15\. For the foregoing reasons, the appeal is allowed both on merits as well
+as limitation with consequential benefits, if any, as per law.
+
+(Order pronounced in the open court on 04.12.2019) (P. VENKATA SUBBA RAO)
+MEMBER (TECHNICAL) (P. DINESHA) MEMBER (JUDICICAL) Sdd/vrg
+

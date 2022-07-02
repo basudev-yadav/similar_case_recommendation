@@ -1,0 +1,862 @@
+tid,label,token
+582634,ORG,Bombay High Court
+582634,PERSON,Urmi Juvekar Chiang
+582634,ORG,Global Broadcast News Limited
+582634,DATE,"7 June, 2007"
+582634,DATE,2008
+582634,CARDINAL,400
+582634,DATE,2007
+582634,CARDINAL,981
+582634,DATE,2007
+582634,DATE,"2) 223, 2008"
+582634,CARDINAL,36
+582634,PERSON,A Khanwilkar
+582634,PERSON,A Khanwilkar
+582634,PERSON,Khanwilkar
+582634,CARDINAL,0984
+582634,CARDINAL,1\
+582634,CARDINAL,0985
+582634,CARDINAL,2\
+582634,PERSON,Plaintiff
+582634,ORG,Motion
+582634,CARDINAL,3\
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,CARDINAL,two
+582634,LAW,a) Breach of Confidentiality
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in
+Progress"""
+582634,ORG,Defendants
+582634,WORK_OF_ART,"""Summer Showdown"""
+582634,ORG,CNN
+582634,CARDINAL,4
+582634,PERSON,Plaint
+582634,DATE,about November 2005
+582634,PERSON,Plaintiff
+582634,LOC,Country
+582634,PERSON,Plaintiff
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"Exhibit A
+to the Plaint"
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,Work in Progress
+582634,ORG,"the Film
+Writers Association"
+582634,GPE,Mumbai
+582634,DATE,9th November 2005
+582634,PERSON,Plaintiff
+582634,LAW,Section 2
+582634,LAW,"the
+Copyright Act"
+582634,DATE,1957
+582634,LAW,Act
+582634,ORG,Plaintiff
+582634,LAW,Section 14(c
+582634,ORG,Defendants
+582634,DATE,about March 2006
+582634,ORG,Plaintiff
+582634,ORDINAL,first
+582634,PERSON,Ms.Rasika Tyagi
+582634,ORG,Defendants
+582634,DATE,10th March 2006
+582634,PERSON,Ms.Rasika Tyagi
+582634,ORG,Plaintiffs
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,Work in Progress
+582634,PERSON,"Ms.Rasika
+Tyagi"
+582634,DATE,21st March 2006
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,GPE,Delhi
+582634,ORG,Plaintiff
+582634,PERSON,Mr.Arjun Gaurisaria
+582634,ORG,"Black
+Magic Movies Private Limited"
+582634,WORK_OF_ART,Work in Progress
+582634,ORG,Plaintiff
+582634,PERSON,Ms.Rasika Tyagi
+582634,ORG,Defendants
+582634,PERSON,"Page
+0986"
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,PERSON,Mr.Arjun Gaurisaria
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,PERSON,"Mr.Arjun
+Gaurisaria"
+582634,ORG,Plaintiff
+582634,DATE,19th April 2006
+582634,PERSON,Ms.Rasika Tyagi
+582634,ORG,Defendants
+582634,MONEY,"Rs.10,50,000/-(Rupees Ten"
+582634,CARDINAL,Fifty Thousand
+582634,GPE,Delhi
+582634,PERSON,Ms.Rasika Tyagi
+582634,DATE,"16th May
+2006"
+582634,PERSON,Arjun Gaurisaria
+582634,PERSON,Ms.Rasika Tyagi
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,PERSON,"Mr.Ramchandran
+Srinivasan"
+582634,ORG,the Executive Producer
+582634,PERSON,"Ramchandran
+Srinivasan"
+582634,PERSON,Mr.Rajdeep Sardesai
+582634,ORG,Defendants
+582634,PERSON,Ramchandran Srinivasan
+582634,ORG,Plaintiff
+582634,DATE,24th July 2006
+582634,ORG,Plaintiffs
+582634,ORG,Plaintiff
+582634,PERSON,Rajdeep Sardesai
+582634,ORG,Defendants
+582634,PERSON,Arjun Gaurisaria
+582634,PERSON,Rajdeep Sardesai
+582634,ORG,Defendants
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,DATE,3rd February 2007
+582634,PERSON,Arjun Gaurisaria
+582634,WORK_OF_ART,Work in Progress
+582634,PERSON,Rajdeep Sardesai
+582634,ORG,Defendants
+582634,PERSON,Arjun Gaurisaria
+582634,DATE,15th February 2007
+582634,PERSON,Rajdeep Sardesai
+582634,DATE,17th February 2007
+582634,PERSON,Arjun Gaurisaria
+582634,PERSON,Rasika Tyagi
+582634,ORG,Defendants
+582634,ORG,Work in Progress
+582634,PERSON,Arjun Gaurisaria
+582634,DATE,14th April 2007
+582634,PERSON,Rajdeep Sardesai
+582634,PERSON,Rasika Tyagi
+582634,ORG,Defendants
+582634,ORG,Work in Progress
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"Summer
+Showdown"""
+582634,WORK_OF_ART,the CNN-IBN Television Channel
+582634,CARDINAL,five
+582634,CARDINAL,five
+582634,EVENT,Summer
+582634,ORG,Plaintiff
+582634,DATE,19th May 2007
+582634,EVENT,"Summer Showdown"""
+582634,DATE,14th May 2007
+582634,PERSON,"Page
+0987"
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,WORK_OF_ART,"""Summer Showdown"""
+582634,ORG,Defendants
+582634,CARDINAL,5
+582634,ORG,Defendants
+582634,EVENT,"Summer Showdown"""
+582634,WORK_OF_ART,Para 15 of the Plaint
+582634,EVENT,"Summer Showdown"""
+582634,EVENT,"Summer Showdown"""
+582634,WORK_OF_ART,Para 16
+582634,ORG,Plaint
+582634,ORG,Plaintiffs
+582634,WORK_OF_ART,"""Work in
+Progress"""
+582634,ORG,Defendants
+582634,WORK_OF_ART,"Summer Showdown"""
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,CARDINAL,five
+582634,CARDINAL,four
+582634,ORG,Plaintiffs
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,Work in Progress
+582634,LAW,"Section 51 of the
+Act"
+582634,CARDINAL,6
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Plaintiffs
+582634,ORG,Plaintiffs
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Defendants
+582634,ORG,Plaintiffs
+582634,CARDINAL,7\
+582634,LAW,Page 0988
+582634,ORG,The Division Bench of our High Court
+582634,ORG,"Zee Telefilms
+Ltd."
+582634,ORG,Anr. v. Sundial Communication Pvt. Ltd.
+582634,WORK_OF_ART,Ors.
+582634,CARDINAL,10
+582634,ORG,Court
+582634,CARDINAL,10\
+582634,CARDINAL,21.2
+582634,CARDINAL,721
+582634,ORG,Court
+582634,CARDINAL,8\
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,The Division Bench
+582634,LAW,Para 13
+582634,ORG,CMI Centers for Medical Innovation GMBH
+582634,ORG,Anr.
+582634,ORG,Phytopharm PLC
+582634,DATE,1999
+582634,ORG,Fleet Street Page
+582634,DATE,0989
+582634,CARDINAL,235
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,Plaint
+582634,CARDINAL,two
+582634,ORDINAL,Firstly
+582634,ORDINAL,secondly
+582634,PERSON,Plaintiff
+582634,CARDINAL,two
+582634,ORG,the Division Bench
+582634,ORG,Court
+582634,DATE,Para 10
+582634,ORG,Zee Telefilms
+582634,ORG,Plaintiff
+582634,CARDINAL,four
+582634,ORG,the Division Bench
+582634,ORG,Plaintiff
+582634,ORG,Motion
+582634,CARDINAL,10\
+582634,ORDINAL,first
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"""Work in
+Progress"""
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,WORK_OF_ART,Plaint
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,WORK_OF_ART,Plaint
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,PERSON,Plaintiff
+582634,CARDINAL,11
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,"Page
+0990"
+582634,ORG,the Division Bench of our High Court
+582634,ORG,"Zee
+Telefilms"
+582634,ORDINAL,first
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Plaintiff
+582634,DATE,Para 16
+582634,ORG,the Division Bench
+582634,ORG,Fraser v. Thames Television Ltd.
+582634,DATE,1983
+582634,CARDINAL,2
+582634,CARDINAL,101
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,ORG,Court
+582634,ORG,Court
+582634,PERSON,Plaintiff
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,CARDINAL,12\
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,LAW,Defendant No.1
+582634,LAW,Agreement
+582634,ORG,Plaintiff
+582634,CARDINAL,four
+582634,LAW,"Page
+0991"
+582634,ORG,Plaintiff
+582634,PERSON,"Anil
+Gupta"
+582634,PERSON,Kunal Das Gupta & Ors.
+582634,ORG,the Delhi High Court
+582634,DATE,2002 (97
+582634,ORG,Delhi Law Times
+582634,CARDINAL,257
+582634,LAW,Paragraphs 27 and 29
+582634,WORK_OF_ART,the Judgment of Zee Telefilms
+582634,ORG,the Division Bench of our High Court
+582634,PERSON,Anil Guptas
+582634,ORG,Court
+582634,ORG,"Talbot v. General
+Television Corporation Pvt. Ltd."
+582634,DATE,1981
+582634,WORK_OF_ART,R.P.C.1
+582634,LAW,the Law of Trade Secrets
+582634,PERSON,Robert Dean
+582634,ORG,Court
+582634,ORG,Fraser v. Thames Television
+582634,ORG,Court
+582634,PRODUCT,Terrapin
+582634,ORG,"Builder Supply
+Company"
+582634,ORG,Court
+582634,DATE,Para 39
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,Para 27
+582634,CARDINAL,27\
+582634,DATE,the modern day
+582634,LAW,"Page
+0992"
+582634,CARDINAL,13\
+582634,ORG,Reliance
+582634,ORG,Plaintiff
+582634,ORG,"the Madras
+High Court"
+582634,ORG,The Daily Calendar Supplying Bureau
+582634,ORG,Sivakasi
+582634,ORG,"The
+United Concern"
+582634,ORG,the Apex Court
+582634,ORG,Midas Hygiene Industries P.Ltd.
+582634,ORG,Anr.
+582634,PERSON,Sudhir Bhatia
+582634,ORG,Ors.
+582634,DATE,2004
+582634,CARDINAL,28
+582634,CARDINAL,121
+582634,DATE,Para 5
+582634,ORG,the Apex Court
+582634,LAW,Trade Mark or of Copyright
+582634,PERSON,Mark
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,ORG,Motion
+582634,CARDINAL,14
+582634,ORDINAL,second
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in
+Progress"""
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Plaint
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,the Film Writers Association
+582634,GPE,Mumbai
+582634,DATE,9th November 2005
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,DATE,0993
+582634,DATE,March-April 2006
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Court
+582634,ORG,Court
+582634,ORG,Plaintiff
+582634,CARDINAL,two
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,EVENT,"Summer Showdown"""
+582634,PERSON,Plaintiff
+582634,ORG,Court
+582634,EVENT,Summer Showdown
+582634,CARDINAL,1
+582634,DATE,summer
+582634,CARDINAL,2
+582634,CARDINAL,3\
+582634,CARDINAL,4
+582634,CARDINAL,5
+582634,CARDINAL,6
+582634,DATE,0994
+582634,WORK_OF_ART,"'Work in
+Progress'"
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,CARDINAL,7\
+582634,DATE,5 days
+582634,DATE,a week
+582634,TIME,2-3 minutes
+582634,CARDINAL,one
+582634,CARDINAL,one
+582634,DATE,one day of the week
+582634,TIME,60 minutes
+582634,DATE,Week
+582634,CARDINAL,8\
+582634,CARDINAL,four
+582634,CARDINAL,One
+582634,CARDINAL,10\
+582634,CARDINAL,11
+582634,EVENT,Summer Showdown'
+582634,ORG,CNN-IBN
+582634,CARDINAL,12
+582634,CARDINAL,15
+582634,PERSON,Plaintiff
+582634,LAW,Plaint
+582634,ORG,Defendants
+582634,EVENT,"Summer Showdown"""
+582634,DATE,0995
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Defendants
+582634,WORK_OF_ART,"Summer Showdown"""
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiffs
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Exhibit
+582634,ORG,Court
+582634,ORG,Plaintiff
+582634,CARDINAL,two
+582634,EVENT,Summer Showdown
+582634,CARDINAL,1\
+582634,CARDINAL,2\
+582634,CARDINAL,3\
+582634,CARDINAL,4\
+582634,CARDINAL,four
+582634,CARDINAL,one
+582634,ORG,CNN
+582634,ORG,IBN
+582634,CARDINAL,five
+582634,CARDINAL,four
+582634,CARDINAL,five
+582634,CARDINAL,5
+582634,CARDINAL,6
+582634,DATE,the summer
+582634,GPE,Bangalore
+582634,GPE,Bombay
+582634,GPE,Kolkatta
+582634,GPE,Chennai
+582634,CARDINAL,7\
+582634,CARDINAL,1
+582634,PERSON,Page 0996
+582634,CARDINAL,1
+582634,CARDINAL,8\
+582634,DATE,30 days
+582634,DATE,about four weeks
+582634,DATE,four weeks
+582634,DATE,28 to 30 days
+582634,CARDINAL,2
+582634,CARDINAL,2
+582634,CARDINAL,10\
+582634,CARDINAL,11\
+582634,DATE,the week and day
+582634,DATE,Day and week
+582634,CARDINAL,12
+582634,QUANTITY,2/3 mins
+582634,DATE,daily
+582634,TIME,2/3 minutes
+582634,CARDINAL,13\
+582634,DATE,the end of the week
+582634,TIME,60 mins
+582634,DATE,the month
+582634,CARDINAL,14
+582634,DATE,daily
+582634,DATE,weekly
+582634,CARDINAL,15
+582634,CARDINAL,16
+582634,DATE,the day
+582634,DATE,the day
+582634,CARDINAL,17
+582634,GPE,Chennai
+582634,WORK_OF_ART,"the
+First Affidavit"
+582634,CARDINAL,105
+582634,CARDINAL,18\
+582634,DATE,the end of four weeks
+582634,DATE,the end of four weeks
+582634,CARDINAL,19
+582634,ORG,Broadband
+582634,ORG,Radio
+582634,CARDINAL,16
+582634,ORG,Plaintiff
+582634,PERSON,Page 0997
+582634,ORG,Plaint
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in
+Progress"""
+582634,PERSON,Copinger
+582634,PERSON,Skone James
+582634,ORDINAL,14th
+582634,DATE,Para 2-05
+582634,CARDINAL,two
+582634,CARDINAL,17\
+582634,ORG,Reliance
+582634,LAW,"Paragraphs
+3-10"
+582634,CARDINAL,two
+582634,ORDINAL,first
+582634,ORDINAL,second
+582634,ORDINAL,first
+582634,CARDINAL,18\
+582634,ORDINAL,first
+582634,CARDINAL,two
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,ORG,Defendants
+582634,ORG,the Apex Court
+582634,PERSON,R.G.Anand
+582634,ORG,Delux Films
+582634,WORK_OF_ART,Ors
+582634,LAW,Paragraph 46
+582634,ORG,the Apex Court
+582634,CARDINAL,46
+582634,CARDINAL,1\
+582634,CARDINAL,2\
+582634,CARDINAL,3\
+582634,CARDINAL,One
+582634,CARDINAL,4
+582634,CARDINAL,5
+582634,CARDINAL,two
+582634,CARDINAL,two
+582634,CARDINAL,6
+582634,CARDINAL,7\
+582634,CARDINAL,19
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,"the Division Bench of our High
+Court"
+582634,ORG,Zee Telefilms
+582634,PERSON,Sheldon
+582634,ORG,Metro Goldwyn Pictures Corporation
+582634,DATE,1993
+582634,DATE,81) F 2nd 49
+582634,CARDINAL,two
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,CARDINAL,20\
+582634,LAW,the Notice of Motion
+582634,ORG,Court
+582634,DATE,23rd May 2007
+582634,ORG,Defendants
+582634,ORG,Counsel
+582634,TIME,three minute
+582634,PERSON,Plaintiff
+582634,ORG,Court
+582634,ORG,Defendants
+582634,DATE,24th May 2007
+582634,PERSON,the Counsel of the Defendants
+582634,DATE,23rd May 2007
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,ORG,Plaintiffs
+582634,ORG,Suit
+582634,ORG,Defendants
+582634,DATE,23rd May 2007
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,DATE,24th May 2007
+582634,ORG,Court
+582634,TIME,minutes
+582634,ORG,Page 1000
+582634,ORG,Defendants
+582634,ORG,Court
+582634,DATE,23rd May 2007
+582634,ORG,Court
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Court
+582634,DATE,23rd May 2007
+582634,ORG,Court
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,EVENT,"Summer Showdown"""
+582634,DATE,14th May 2007
+582634,ORG,Plaintiff
+582634,DATE,19th May 2007
+582634,DATE,21st May 2007
+582634,ORG,Plaintiff
+582634,DATE,23rd May 2007
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,CARDINAL,21\
+582634,EVENT,"Summer Showdown"""
+582634,DATE,March-April 2007
+582634,EVENT,Summer
+582634,ORG,Defendants
+582634,EVENT,"Summer Showdown"""
+582634,DATE,March-April 2007
+582634,DATE,Summer
+582634,EVENT,Summer
+582634,EVENT,"Summer Showdown"""
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"the Plaintiff ""Work in Progress"""
+582634,CARDINAL,four
+582634,CARDINAL,one
+582634,EVENT,"Summer
+Showdown"""
+582634,CARDINAL,five
+582634,CARDINAL,four
+582634,CARDINAL,five
+582634,CARDINAL,four
+582634,CARDINAL,five
+582634,CARDINAL,five
+582634,ORG,Plaintiffs
+582634,ORG,Defendants
+582634,WORK_OF_ART,"""Summer Showdown"""
+582634,CARDINAL,two
+582634,PERSON,Plaintiff
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,WORK_OF_ART,"Summer Showdown"""
+582634,PERSON,Hand
+582634,WORK_OF_ART,Judgment
+582634,PERSON,Sheldon
+582634,ORG,Plaintiffs
+582634,ORDINAL,first
+582634,LAW,the Defendants Page 1001
+582634,DATE,summer
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,DATE,the week
+582634,ORG,Defendants
+582634,CARDINAL,22
+582634,ORG,Defendants
+582634,ORG,Plaint
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,DATE,Paragraphs 15 and 16
+582634,PERSON,Plaintiff
+582634,CARDINAL,two
+582634,ORG,Plaintiff
+582634,ORG,Plaint
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Motion
+582634,CARDINAL,two
+582634,PERSON,Plaintiff
+582634,ORG,Plaint
+582634,ORG,Plaintiffs
+582634,WORK_OF_ART,"Work in Progress"""
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiffs
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Summer Showdown"""
+582634,CARDINAL,23\
+582634,ORG,Defendants
+582634,ORG,High Court
+582634,ORG,Star India Pvt. Ltd.
+582634,PERSON,Leo Burnett
+582634,ORG,India) Pvt. Ltd.
+582634,DATE,2003 (27) PTC 81
+582634,CARDINAL,two
+582634,ORG,Court
+582634,LAW,Page 94
+582634,CARDINAL,1002
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,WORK_OF_ART,"""Summer Showdown"""
+582634,CARDINAL,24\
+582634,ORG,Defendants
+582634,ORG,"the Court
+of Appeal of Newzealand"
+582634,ORG,Green v. Broadcasting Corporation
+582634,GPE,New Zealand
+582634,DATE,1989
+582634,CARDINAL,No.16
+582634,CARDINAL,469
+582634,ORG,Apex Court
+582634,ORG,"the
+Division Bench of our High Court"
+582634,ORG,"the Delhi High
+Court"
+582634,CARDINAL,25
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Court
+582634,EVENT,"Summer Showdown"""
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,WORK_OF_ART,"""Citizen Journalist"""
+582634,DATE,December 2005
+582634,LAW,the Right to Information Act
+582634,ORG,Defendants
+582634,EVENT,"Summer Showdown"""
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,CARDINAL,26
+582634,PERSON,Plaintiff
+582634,ORG,Court
+582634,ORG,Plaintiff
+582634,PERSON,Rasika Tyagi
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,Rasika Tyagi
+582634,PERSON,Plaintiff
+582634,PERSON,Rasika Tyagi
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,PERSON,Rasika Tyagi
+582634,PERSON,Rajdeep Sardesai
+582634,PERSON,Plaintiff
+582634,ORG,Court
+582634,ORG,Defendants
+582634,CARDINAL,two
+582634,ORG,Defendants
+582634,PERSON,Rasika Tyagi
+582634,PERSON,Plaintiff
+582634,ORG,Defendants
+582634,CARDINAL,1003
+582634,ORG,Defendants
+582634,ORG,Defendants
+582634,PERSON,Rajdeep Sardesai
+582634,ORG,Plaintiffs
+582634,PERSON,Rajdeep Sardesai
+582634,ORG,Defendants
+582634,ORG,Defendant
+582634,ORG,Plaintiff
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,ORG,Paragraph
+582634,PERSON,Rajdeep Sardesai
+582634,PERSON,Ramchandran Srivinavasans
+582634,PERSON,Plaintiff
+582634,ORDINAL,first
+582634,PERSON,"Rajdeep
+Sardesai"
+582634,PERSON,Ramchandran Srinivasan
+582634,PERSON,"Rajdeep
+Sardesai"
+582634,PERSON,Plaintiff
+582634,PERSON,Rasika Tyagi
+582634,PERSON,Rajdeep Sardesai
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,DATE,February 2007
+582634,EVENT,"Summer Showdown"""
+582634,DATE,"March-
+April 2007"
+582634,DATE,summer
+582634,EVENT,"Summer Showdown"""
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,WORK_OF_ART,Paragraph c(viii
+582634,EVENT,"Summer Showdown"""
+582634,ORG,Defendants
+582634,CARDINAL,27
+582634,ORG,The Counsel for the Defendants
+582634,ORG,Plaintiff
+582634,ORG,Plaintiff
+582634,PERSON,Clock
+582634,ORG,Defendants
+582634,ORG,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,CARDINAL,28\
+582634,PERSON,Plaintiff
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,CARDINAL,29
+582634,PERSON,Plaintiff
+582634,WORK_OF_ART,"""Work in Progress"""
+582634,CARDINAL,30
+582634,LAW,the Notice of Motion
+582634,PERSON,Plaintiff
+582634,LAW,"Page
+1004"
+582634,ORG,this Honble Court
+582634,ORG,Plaintiffs
+582634,WORK_OF_ART,"Work in
+Progress"
+582634,EVENT,Summer Showdown
+582634,ORG,Plaintiffs
+582634,WORK_OF_ART,Plaintiffs
+582634,WORK_OF_ART,"Work in
+Progress"
+582634,PERSON,Plaintiff
+582634,ORG,this Honble Court
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,"Work in
+Progress"
+582634,EVENT,Summer Showdown
+582634,ORG,Plaintiffs
+582634,ORG,Plaintiff
+582634,WORK_OF_ART,Work in Progress
+582634,CARDINAL,31
+582634,ORG,the Notice of Motion
+582634,DATE,23rd July 2007
+582634,ORG,Registry
+582634,DATE,later than 16th July 2007
+582634,ORG,Motion
+582634,CARDINAL,32
+582634,ORG,Court
+582634,ORG,Defendants
+582634,ORG,Court
+582634,LAW,Defendants
+582634,DATE,today
+582634,ORG,Motion
+582634,ORG,Defendants
+582634,DATE,10th June 2007
+582634,ORG,Defendants
+582634,TIME,two to three minutes
+582634,DATE,any given day
+582634,ORG,Defendants
+582634,LAW,the Notice of Motion
+582634,CARDINAL,33\
+582634,ORG,Office

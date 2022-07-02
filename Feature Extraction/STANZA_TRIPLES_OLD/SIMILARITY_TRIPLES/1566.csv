@@ -1,0 +1,808 @@
+tid,label,token
+1566,ORG,Supreme Court of India
+1566,PERSON,Deokinandan Prasad
+1566,ORG,State Of Bihar & Ors
+1566,DATE,"4 May, 1971"
+1566,DATE,1971
+1566,DATE,1971
+1566,CARDINAL,634
+1566,PERSON,C Vaidyialingam
+1566,PERSON,Sikri
+1566,PERSON,S.M.
+1566,PERSON,Mitter
+1566,PERSON,Reddy
+1566,PERSON,"P.
+Jaganmohan"
+1566,PERSON,Dua
+1566,GPE,DEOKINANDAN
+1566,ORG,VAIDYIALINGAM
+1566,GPE,VAIDYIALINGAM
+1566,GPE,"C.A.
+    SIKRI"
+1566,GPE,S.M.
+1566,GPE,CJ)
+1566,GPE,MITTER
+1566,GPE,"G.K.
+    REDDY"
+1566,GPE,"P. JAGANMOHAN
+    DUA"
+1566,GPE,I.D
+1566,DATE,1971
+1566,DATE,1971
+1566,DATE,1984
+1566,LAW,"ACT:
+    Constitution  of India"
+1566,DATE,1950
+1566,LAW,Art. 32-Right
+1566,LAW,property-Petition
+1566,LAW,Bihar  Service	Code
+1566,CARDINAL,76
+1566,LAW,Art. 311
+1566,LAW,Bihar Pension Rules
+1566,CARDINAL,46
+1566,ORG,Education
+1566,ORG,State
+1566,DATE,"September  2, 1953"
+1566,ORG,Public	 Instruction
+1566,DATE,"March 5, 1960"
+1566,ORG,the  Lower  Division
+1566,ORG,"the	 Subordinate
+    Educational Service"
+1566,CARDINAL,two
+1566,DATE,"August 5, 1961"
+1566,PERSON,Munsiff
+1566,DATE,"March 5, 1960"
+1566,DATE,"April  3, 1962"
+1566,DATE,"April 11, 1963"
+1566,DATE,"March 5, 1960"
+1566,DATE,"June 24, 1964"
+1566,ORDINAL,second
+1566,ORG,the High Court
+1566,DATE,"February
+    11,  1965"
+1566,DATE,"August	 5, 1966"
+1566,ORG,"Public
+    Instruction"
+1566,DATE,more than five years
+1566,DATE,"March  1,
+    1960"
+1566,ORG,Government
+1566,DATE,"March  2,
+    1965 under r. 76"
+1566,LAW,the Bihar Service Code
+1566,DATE,58 years of age
+1566,ORG,"the
+    Director  of Public Instruction"
+1566,DATE,"July 18, 1967"
+1566,DATE,"June
+    12,  1968"
+1566,ORG,Public Instruction
+1566,LAW,r. 46 of the Bihar Pension Rules
+1566,LAW,Art. 32
+1566,CARDINAL,1
+1566,DATE,"September 2, 1953"
+1566,DATE,"March 5, 1960"
+1566,ORG,the High  Court
+1566,ORDINAL,second
+1566,DATE,as early as 1953
+1566,CARDINAL,2
+1566,DATE,"August 5, 1966"
+1566,LAW,"r.  76
+    of the Service Code"
+1566,ORG,Government
+1566,CARDINAL,653
+1566,DATE,over five  years
+1566,DATE,over five years
+1566,DATE,"March 10, 1960"
+1566,DATE,"March
+    			    635
+    11,  1960"
+1566,DATE,"March 2, 1965"
+1566,CARDINAL,643C
+1566,DATE,"more	than
+    five years"
+1566,DATE,"March 11, 1960"
+1566,DATE,"August 5, 1966"
+1566,DATE,"August 5, 1961"
+1566,PERSON,Munsiff
+1566,DATE,"April 3, 1962"
+1566,ORG,Department
+1566,DATE,"April  11,	1963"
+1566,PERSON,Munsiff
+1566,DATE,"June 24, 1964"
+1566,DATE,"April	 11,
+    1963  to June 24, 1964"
+1566,DATE,over  5  years
+1566,LAW,"r. 76  of
+    the  Service  Code"
+1566,LAW,the r. 76
+1566,LAW,Art. 311
+1566,DATE,over five years
+1566,LAW,r. 46 of the Pension Rules
+1566,LAW,Art. 311
+1566,PERSON,Jai  Shankar
+1566,ORG,State of Rajasthan
+1566,DATE,1966
+1566,CARDINAL,1
+1566,CARDINAL,825
+1566,CARDINAL,3
+1566,DATE,"June 12, 1968"
+1566,DATE,under r.  46
+1566,LAW,the Pension Rules
+1566,ORG,the State Government
+1566,CARDINAL,46
+1566,ORG,Government
+1566,DATE,"over
+    five  years"
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1968"
+1566,LAW,Art. 31(1
+1566,ORG,State
+1566,LAW,Art. 19
+1566,DATE,"June 12, 1968"
+1566,PERSON,K.   R.	 Erry
+1566,ORG,State of Punjab
+1566,GPE,I.L.R
+1566,DATE,1967
+1566,CARDINAL,279
+1566,CARDINAL,636
+1566,ORG,the Civil Court
+1566,LAW,the Pension Act
+1566,ORG,State
+1566,LAW,Writ Petition No. 217
+1566,DATE,1968
+1566,LAW,"Art. 32
+of the Constitution of India for the enforcement of fundamental rights"
+1566,PERSON,Bishan Narain
+1566,PERSON,B. B. Sinha
+1566,PERSON,S. N. Misra
+1566,PERSON,S. S. Jauhar
+1566,PERSON,K. K. Sinha
+1566,PERSON,B. P. Jha
+1566,LAW,The Judgment of the Court
+1566,PERSON,Vaidialingam
+1566,LAW,Art. 32 of the Constitution
+1566,LAW,Certiorari
+1566,CARDINAL,four
+1566,DATE,"September 2,
+1953"
+1566,DATE,"March 5, 1960"
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1968"
+1566,WORK_OF_ART,a Writ of Mandamus
+1566,DATE,the age of 58
+1566,CARDINAL,four
+1566,DATE,"September 2, 1953"
+1566,DATE,March
+1566,DATE,"5, 1960"
+1566,ORG,Court
+1566,CARDINAL,two
+1566,CARDINAL,two
+1566,DATE,"September 1, 1928"
+1566,ORG,the Patna Practising School
+1566,ORG,"Sub-Inspector of Schools,
+Lower Division"
+1566,ORG,the Subordinate Educational Service
+1566,DATE,"May 31, 1934"
+1566,ORG,"Upper
+Division"
+1566,ORG,the Subordinate Educational Service
+1566,GPE,Seraikella
+1566,LOC,the Singhbhum District
+1566,ORG,the Chhotanagpur Division
+1566,GPE,Bihar
+1566,DATE,"November 1,
+1949"
+1566,ORG,The State of Seriakella
+1566,GPE,Bihar
+1566,ORG,637 Government
+1566,ORG,"the Education
+Department"
+1566,ORG,District
+1566,ORG,Local Boards
+1566,PERSON,Seraikella
+1566,ORG,the Community Project
+1566,DATE,about the end of 1951
+1566,GPE,Purulia
+1566,GPE,Manbhum
+1566,PERSON,Bettiah
+1566,DATE,"about May, 1953"
+1566,ORG,Bettiah
+1566,DATE,"September 2, 1953"
+1566,ORG,Public Instruction
+1566,CARDINAL,one
+1566,PERSON,Kanhaya Lal
+1566,ORG,District Inspector of Schools
+1566,DATE,"September 2, 1953"
+1566,ORDINAL,first
+1566,DATE,"February 6, 1954"
+1566,PERSON,Bettiah
+1566,DATE,"March 16, 1954"
+1566,ORG,the Inquiry Officer
+1566,DATE,"September 22, 1959"
+1566,ORG,The Disciplinary Authority
+1566,DATE,"March 5, 1960"
+1566,ORG,Lower Division of Subordinate Educational Service
+1566,WORK_OF_ART,"Us personal character
+roll"
+1566,ORDINAL,second
+1566,ORDINAL,first
+1566,ORDINAL,second
+1566,ORG,the High Court
+1566,LAW,No. 86
+1566,DATE,1961
+1566,ORG,"the Court of the Munsif,
+III"
+1566,GPE,Patna
+1566,DATE,"March 5, 1960"
+1566,DATE,"September 2, 1953"
+1566,DATE,"March 5, 1960"
+1566,CARDINAL,638
+1566,DATE,"April 11, 1963"
+1566,LAW,No. 132/24
+1566,DATE,1963-64
+1566,ORG,11 Court
+1566,GPE,Patna
+1566,PERSON,Munsif
+1566,DATE,"June 24, 1964"
+1566,LAW,No. 86
+1566,DATE,1961
+1566,LAW,"Second Appeal No.
+640"
+1566,DATE,1964
+1566,ORG,the High Court
+1566,DATE,"May 4, 1967"
+1566,DATE,"September 2, 1953"
+1566,DATE,"March 5, 1960"
+1566,ORG,the High Court
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1968"
+1566,DATE,"March 5, 1960"
+1566,PERSON,Deoghar
+1566,ORG,"the Deputy
+Inspector of Schools"
+1566,DATE,Holi holidays
+1566,DATE,"March 11, 1960"
+1566,GPE,Patna
+1566,DATE,"March 5, 1960"
+1566,GPE,Patna
+1566,DATE,"March 23, 1960"
+1566,DATE,"October 5, 1961"
+1566,WORK_OF_ART,No. 86
+1566,DATE,1961
+1566,DATE,"March 5, 1960"
+1566,ORG,"the Lower
+Division"
+1566,ORG,Subordinate Educational
+1566,ORG,the Upper Division
+1566,ORG,the Subordinate Educational Service
+1566,NORP,Munsif
+1566,GPE,Patna
+1566,DATE,"August 5, 1966"
+1566,ORG,Public Instruction
+1566,DATE,more than five years
+1566,DATE,"March
+1, 1960"
+1566,ORG,Government
+1566,DATE,"March 2, 1965 under r. 76"
+1566,LAW,"of the Bihar Service Code"""
+1566,ORDINAL,third
+1566,DATE,58 years of age
+1566,ORG,"the
+Director of Public Instruction"
+1566,DATE,"July 18, 1967"
+1566,DATE,"June
+12, 1968"
+1566,DATE,"July 18, 1967"
+1566,LAW,r. 46 of the Bihar Pension Rules
+1566,LAW,the Pension Rules)
+1566,ORG,Department
+1566,ORDINAL,fourth
+1566,DATE,"August 5, 1966"
+1566,LAW,Art. 311 of the Constitution
+1566,LAW,Rules
+1566,DATE,over five years
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1968"
+1566,CARDINAL,two
+1566,LAW,"r. 46
+of the Pension Rules"
+1566,LAW,"Arts.
+19(1)"
+1566,LAW,31(1) of the Constitution
+1566,ORG,Education
+1566,DATE,"September 2, 1953"
+1566,DATE,"March 5, 1960"
+1566,ORG,the Patna High Court
+1566,DATE,"March 4, 1967"
+1566,ORDINAL,Second
+1566,CARDINAL,640
+1566,DATE,1964
+1566,DATE,"August 5, 1966"
+1566,DATE,"March 10, 1960"
+1566,DATE,"March 11, 1960\"
+1566,DATE,more than five years
+1566,DATE,"March 1, 1960"
+1566,DATE,"March 1, 1960"
+1566,CARDINAL,640
+1566,DATE,"March 11, 1960"""
+1566,DATE,"March .11, 1960"
+1566,ORG,"the Sub-Divisional
+Educational Officer"
+1566,DATE,"March 11, 1960"
+1566,DATE,"March 5, 1960"
+1566,DATE,5-8-1968
+1566,DATE,more than 5 years
+1566,LAW,rule 76 of Bihar Service Code
+1566,DATE,1952
+1566,ORG,Government
+1566,DATE,5 years
+1566,LAW,article 311
+1566,LAW,"rule 76 of the Bihar
+> Service Code"
+1566,DATE,1952
+1566,LAW,Article 311
+1566,LAW,"Art. 311 of
+the Constitution"
+1566,DATE,"August 5, 1966"
+1566,CARDINAL,76
+1566,LAW,the Bihar Service Code
+1566,DATE,1952
+1566,LAW,"the
+Service Code"
+1566,DATE,over five years
+1566,DATE,"August 5, 1966"
+1566,ORG,Munsif
+1566,ORG,Department
+1566,DATE,"June
+12, 1968"
+1566,ORG,Department
+1566,LAW,r. 46 of the Pension Rules
+1566,DATE,"August 5, 1966"
+1566,DATE,"more
+than five years"
+1566,CARDINAL,641
+1566,DATE,"August 5, 1966"
+1566,ORG,"the
+Assistant Director of Education"
+1566,LAW,rule 76
+1566,DATE,over five years
+1566,DATE,over five years
+1566,ORG,Munsif
+1566,GPE,Patna
+1566,DATE,"August 5, 1966"
+1566,CARDINAL,46
+1566,LAW,"the
+Pension Rules"
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1966"
+1566,DATE,"August
+5, 1966"
+1566,DATE,"June 12, 1968"
+1566,LAW,Art. 32
+1566,DATE,"August 5,
+1966"
+1566,DATE,"June 12, 1968"
+1566,DATE,"August 5, 1966"
+1566,CARDINAL,311
+1566,CARDINAL,one
+1566,CARDINAL,11
+1566,ORG,the Assistant Director of Education
+1566,LAW,Art. 311
+1566,ORG,Court
+1566,LAW,Art. 32
+1566,CARDINAL,642
+1566,DATE,"June 12, 1968"
+1566,CARDINAL,one
+1566,LAW,Arts. 19(1
+1566,LAW,31(1) of the Constitution
+1566,DATE,"June 12, 1968"
+1566,LAW,"r.
+46 of the Pension Rules"
+1566,PERSON,B. P. Jha
+1566,ORG,State
+1566,PERSON,Jha
+1566,DATE,"June 12,
+1968"
+1566,LAW,Pension Rules
+1566,LAW,Arts. 19(1)
+1566,CARDINAL,31
+1566,CARDINAL,1
+1566,DATE,"June 12, 1968"
+1566,DATE,"August 5,
+1966"
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1968"
+1566,ORDINAL,first
+1566,DATE,"August 5, 1966"
+1566,DATE,"August 5, 1966"
+1566,ORG,Public Instruction
+1566,GPE,Bihar
+1566,DATE,Number-7 / 07 / 60 Edn. 3791 Sri Devaki
+1566,PERSON,Nandan Prasad
+1566,ORG,"Sub-Inspector of
+Schools"
+1566,GPE,Deoghhar
+1566,DATE,more than 5 years
+1566,DATE,1-3-60
+1566,ORG,Government
+1566,LAW,2-3-65
+1566,CARDINAL,76
+1566,LAW,"the
+Bihar Service Code"
+1566,PERSON,K. Ahmed
+1566,ORG,Public Instruction Bihar
+1566,CARDINAL,643
+1566,CARDINAL,3791
+1566,GPE,Patna
+1566,DATE,"5th August, 1966"
+1566,PERSON,Sri Devaki
+1566,PERSON,Nandan Prasad
+1566,GPE,New Yarpur
+1566,GPE,Patna
+1566,LAW,Rule 76 of the Service Code
+1566,ORG,the State Government
+1566,ORG,Government
+1566,DATE,five years
+1566,GPE,India
+1566,ORG,Government
+1566,DATE,"over
+five years"
+1566,DATE,over five years
+1566,DATE,"March 11, 1960"
+1566,DATE,"March 11, 1960"
+1566,DATE,more than five years
+1566,DATE,"March 1, 1960"
+1566,DATE,"March 2, 1965"
+1566,DATE,"March 10, 1960"
+1566,DATE,five years
+1566,DATE,"March 2, 1965"
+1566,DATE,more than five years
+1566,PERSON,Bishan Narain
+1566,LAW,No. 86
+1566,DATE,1961
+1566,NORP,Munsif
+1566,GPE,Patna
+1566,CARDINAL,644
+1566,CARDINAL,8
+1566,DATE,"March 10, 1960"
+1566,DATE,"March 11, 1960"
+1566,DATE,"March 10, 1960"
+1566,DATE,"more
+than five years"
+1566,DATE,"March 11, 1960"
+1566,DATE,"March 2, 1965"
+1566,DATE,"more than
+five years"
+1566,DATE,"March 11, 1960"
+1566,DATE,"March 1, 1960"
+1566,DATE,"March 11, 1960"
+1566,DATE,"August 5, 1966"
+1566,DATE,more than five years
+1566,DATE,"August 5, 1966"
+1566,DATE,"March 2, 1965"
+1566,DATE,"August 5, 1966"
+1566,DATE,"August 5, 1966"
+1566,DATE,more than five years
+1566,DATE,"March 11, 1960"
+1566,DATE,"August 5, 1966"
+1566,LAW,r. 76 of the Service Code
+1566,CARDINAL,over five
+1566,DATE,years
+1566,LAW,No. 86
+1566,DATE,1961
+1566,ORG,"the Court of the Munsif
+III"
+1566,GPE,Patna
+1566,DATE,"March 5,
+1960"
+1566,ORG,"the Subordinate
+Educational Service"
+1566,DATE,"September 2, 1953"
+1566,DATE,"August 5, 1961"
+1566,PERSON,Munsif
+1566,DATE,"March 5, 1960"
+1566,ORG,Public Instruction
+1566,DATE,"March 10, 1960 and  645"
+1566,DATE,March 11. 1960
+1566,DATE,"March 5, 1960"
+1566,DATE,"October 13, 1961"
+1566,NORP,Munsif
+1566,GPE,Patna
+1566,ORG,the Director of Public Instruction
+1566,DATE,"October 13, 1961"
+1566,DATE,"October 24, 1961"
+1566,DATE,"November 1, 1961"
+1566,DATE,"April 3, 1962"
+1566,GPE,Munsif
+1566,GPE,Patna
+1566,DATE,"April 11, 1963"
+1566,CARDINAL,86
+1566,DATE,1961
+1566,DATE,"March 5, 1960"
+1566,ORG,"the Subordinate
+Educational Service"
+1566,DATE,"April 18, 1963"
+1566,ORG,Public Instruction
+1566,LAW,No. 86
+1566,DATE,1961
+1566,DATE,"November 27, 1963"
+1566,ORG,the Director of Public Instructions
+1566,ORG,Directorate
+1566,ORG,Government
+1566,ORG,Bhagalpur Division
+1566,ORG,"""Lower Division of Subordinate Educational Service"""
+1566,ORG,State
+1566,PERSON,Munsif
+1566,CARDINAL,86
+1566,DATE,1961
+1566,DATE,"April 11, 1963"
+1566,DATE,"March 5,
+1960"
+1566,ORG,the Lower Division of Subordinate Educational Service
+1566,ORG,an Appellate Court
+1566,PERSON,Munsif
+1566,DATE,"November 27, 1963"
+1566,DATE,"December 6, 1963"
+1566,DATE,"November 27,
+1963"
+1566,PERSON,Munsif
+1566,GPE,Patna
+1566,DATE,"April 11, 1963"
+1566,CARDINAL,646
+1566,DATE,"November 27, 1963"
+1566,ORG,the Director of Public Instruction
+1566,PERSON,Munsif
+1566,ORG,Department
+1566,ORG,Sub-Inspector of Schools
+1566,PERSON,Munsif
+1566,DATE,"March 5, 1960"
+1566,ORG,the Subordinate Judge
+1566,DATE,"June 24, 1964"
+1566,CARDINAL,132/24
+1566,CARDINAL,1963/64
+1566,LAW,Second Appeal No. 640
+1566,DATE,1964
+1566,ORG,the High Court
+1566,DATE,"February 11, 1965"
+1566,DATE,"October 5,
+1961"
+1566,PERSON,Munsif
+1566,DATE,"April 3,
+1962"
+1566,ORG,Department
+1566,DATE,"October 5, 1961"
+1566,DATE,"October 13, 1961"
+1566,DATE,"October 20, 1961"
+1566,DATE,"November 1, 1961"
+1566,DATE,"April 11,
+1963"
+1566,PERSON,Munsif
+1566,ORG,the Appellate Court
+1566,DATE,"June 24, 1964"
+1566,DATE,"the period April 11, 1963, June 24, 1964"
+1566,NORP,Munsif
+1566,DATE,"the period April 11, 1963 to June 24, 1963"
+1566,CARDINAL,647
+1566,DATE,"March 11, 1960"
+1566,DATE,"August 5, 1966"
+1566,DATE,over five years
+1566,DATE,over five years
+1566,DATE,"March 11, 1960"
+1566,DATE,"October 5, 1961"
+1566,PERSON,Munsif
+1566,DATE,"October 5, 1961 to April
+3, 1962"
+1566,DATE,"April 3, 1962"
+1566,DATE,"April 11, 1963"
+1566,PERSON,Munsif
+1566,DATE,"the period April 11, 1963"
+1566,PERSON,Munsif
+1566,DATE,"June 24, 1964"
+1566,DATE,"November 27, 1963"
+1566,ORDINAL,third
+1566,DATE,"June 24, 1964"
+1566,EVENT,the Subordinate Judge
+1566,DATE,"August 5, 1966"
+1566,LAW,r. 76 of the Service Code
+1566,DATE,over five years
+1566,DATE,"the period March
+11, 1960 to August 5, 1966"
+1566,LAW,r. 76 of the Service Code
+1566,DATE,"August 5, 1966"
+1566,LAW,"r. 76 of the Service
+Code"
+1566,DATE,"August 5, 1966"
+1566,LAW,"Art. 311 of
+the Constitution"
+1566,LAW,"Art.
+311"
+1566,LAW,r. 76 of the Service Code
+1566,LAW,"r. 76 of
+the Service Code"
+1566,DATE,five years
+1566,LAW,Art. 311
+1566,ORG,Court
+1566,GPE,Rajasthan
+1566,CARDINAL,1
+1566,ORG,Court
+1566,LAW,Regulation No. 13 of the Jodhpur Service Regulations
+1566,CARDINAL,13
+1566,DATE,one month
+1566,ORG,the State of Rajasthan
+1566,ORG,Court
+1566,LAW,Art. 311
+1566,DATE,over five years
+1566,LAW,r. 46 of the Pension Rules
+1566,LAW,Art. 311
+1566,DATE,"June 12, 1968"
+1566,LAW,r. 46 of the Pension Rules
+1566,DATE,"July 18, 1967"
+1566,DATE,"June 12, 1968"
+1566,LAW,"r. 46 of the
+Pension Rules"
+1566,ORG,Department
+1566,LAW,Rule 46 of the Pension Rules
+1566,CARDINAL,46
+1566,ORG,Government
+1566,ORG,Government
+1566,ORG,Government
+1566,CARDINAL,two-thirds
+1566,CARDINAL,1
+1566,DATE,1966
+1566,CARDINAL,825
+1566,CARDINAL,649
+1566,ORG,Government
+1566,DATE,"August 5, .1966"
+1566,LAW,"r. 76 of
+the Service Code"
+1566,DATE,over five years
+1566,DATE,"August
+5, 1966"
+1566,DATE,over five years
+1566,DATE,"June 12, 1968"
+1566,LAW,r. 46 of the Pension Rules
+1566,CARDINAL,5
+1566,LAW,"the Pension
+Rules"
+1566,ORG,"the Education
+Department of the Bihar 'Education Service"
+1566,CARDINAL,3
+1566,CARDINAL,5
+1566,LAW,Rule 42
+1566,LAW,Chapter VIII
+1566,LAW,Chapter VIII
+1566,CARDINAL,46
+1566,ORG,Government
+1566,CARDINAL,three
+1566,CARDINAL,46
+1566,LAW,Rule 129
+1566,ORG,Government
+1566,LAW,Rule 134
+1566,ORG,Government
+1566,DATE,30 years
+1566,ORG,Government
+1566,LAW,Rule 135
+1566,ORG,Government
+1566,CARDINAL,5
+1566,DATE,less than 25 years
+1566,LAW,Rule 146
+1566,ORG,Government
+1566,CARDINAL,5
+1566,ORG,State
+1566,CARDINAL,650
+1566,LAW,Rules
+1566,ORG,Government
+1566,LAW,Within the Rules
+1566,DATE,"June 12, 1968"
+1566,DATE,"August 5, 1966"
+1566,DATE,"August 5, 1966"
+1566,DATE,"June 12, 1968"
+1566,ORG,Government
+1566,CARDINAL,19
+1566,CARDINAL,1
+1566,CARDINAL,31
+1566,LAW,"(1)
+of the Constitution"
+1566,LAW,Art. 32
+1566,DATE,"June 12, 1968"
+1566,LAW,Arts. 19(1)
+1566,LAW,31(1) of the Constitution
+1566,DATE,"August 5, 1966"
+1566,PERSON,Jha
+1566,ORG,State
+1566,ORG,State
+1566,LAW,Arts. 19(1
+1566,CARDINAL,31
+1566,LAW,Constitution
+1566,LAW,the Pension Rules
+1566,LAW,Rules
+1566,CARDINAL,651
+1566,LAW,Art. 31
+1566,ORG,the Punjab High Court
+1566,GPE,Bhagwant Singh
+1566,ORG,Union of India
+1566,CARDINAL,1
+1566,LAW,"Art. 3 1 (1)
+of the Constitution"
+1566,ORG,State
+1566,WORK_OF_ART,Letters Patent Appeal
+1566,ORG,the Union of India
+1566,ORG,"The Letters Patent
+Bench"
+1566,ORG,Union of India
+1566,PERSON,Bhagwant Singh
+1566,CARDINAL,2
+1566,LAW,Art. 3 1 (1) of the Constitution
+1566,ORG,a Full Bench
+1566,GPE,Punjab
+1566,ORG,"Haryana High
+Court"
+1566,GPE,K. R. Erry
+1566,GPE,The State of Punjab
+1566,CARDINAL,1
+1566,ORG,The High Court
+1566,CARDINAL,two
+1566,ORG,"the same
+High Court"
+1566,ORG,Government
+1566,ORG,Government
+1566,LAW,the relevant Punjab Civil Service Rules
+1566,ORG,State
+1566,DATE,1962 Punjab 503
+1566,DATE,2) I. L. R. 1965 Punjab 1
+1566,DATE,3) I. L. R. 1967
+1566,FAC,"Punjab &
+Haryana 278 652"
+1566,ORDINAL,first
+1566,ORG,Punjab High Court
+1566,ORG,Government
+1566,ORG,Court
+1566,GPE,State of Madhya Pradesh
+1566,PERSON,Ranojirao Shinde
+1566,CARDINAL,1
+1566,CARDINAL,19
+1566,CARDINAL,1
+1566,LAW,31(1) of the Constitution
+1566,ORG,Court
+1566,LAW,Art. 3 1 (1
+1566,ORG,State
+1566,LAW,Art. 19
+1566,CARDINAL,5
+1566,CARDINAL,19
+1566,DATE,"June 12, 1968"
+1566,LAW,Arts. 19(1)
+1566,LAW,"31(1) of the
+Constitution"
+1566,LAW,Art. 32
+1566,LAW,the Pension Act (Act 23 of 1871)
+1566,LAW,a Writ of Mandamus
+1566,ORG,State
+1566,DATE,"September
+2, 1953"
+1566,DATE,"March 5, 1960"
+1566,ORG,"the
+Patna High Court"
+1566,DATE,"May 4, 1967"
+1566,ORDINAL,Second
+1566,CARDINAL,640
+1566,DATE,1967
+1566,DATE,"September
+2, 1953"
+1566,ORG,the High Court
+1566,ORDINAL,second
+1566,DATE,1953
+1566,CARDINAL,1
+1566,DATE,1968
+1566,CARDINAL,489
+1566,CARDINAL,653
+1566,DATE,"August 5, 1966"
+1566,LAW,"r. 76 of the
+Service Code"
+1566,DATE,"June 12, 1968"
+1566,CARDINAL,46
+1566,LAW,the Pension Rules
+1566,ORG,Department
+1566,ORDINAL,first
+1566,GPE,the State of Bihar
+1566,CARDINAL,654

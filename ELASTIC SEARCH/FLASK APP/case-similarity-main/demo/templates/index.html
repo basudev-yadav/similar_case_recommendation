@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Data Discovery Demo</title>
+
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!--link href="static/styles.css" rel="stylesheet"-->
+</head>
+
+<body>
+    <div class="container">
+        <h1 align="center">Data Discovery Demo</h1>
+        <div id="nameInput" class="input-group-lg center-block helloInput">
+        <p class="lead"><b>Enter Text:</b></p>
+        <form method="POST" id="form">
+            <input id="input_text" name="input_text" type="text" class="form-control" aria-describedby="sizing-addon1" value="" /><br/>
+            <p>Example: The 1950s also saw performances by Roy Rogers, Gene Autry, Nat King Cole, Tex Ritter, Sonja Henie, Victor Borge, Liberace, Guy Lombardo, and Patti Page.</p>
+            <p>You can also try short text like: Riddhiman Dasgupta, bganesa1@in.ibm.com, Berthold Reinwald, 9741399040, (555) 253-0000, IBM.</p>
+            <input type="submit" value="Submit"><br/><br/>
+            <input type="submit" value="Try a random sample from our test dataset"><br/><br/>
+        </form>
+        </div>
+        <img src="static/images/loader.gif" id="spinner"  style="display: none; margin-left : 460px; align-content : center;" />
+        <p id="response" class="lead"></p>
+        <hr/>
+        <p align="center"><a href="https://data-discovery-api.mybluemix.net/swagger-ui.html">Data Discovery API</a></p>
+        <p align="center"><a href="https://anu-ie.mybluemix.net/swagger-ui.html">Anu Information Extraction</a></p>
+        <p align="center"><a href="https://anu-datasets.mybluemix.net/">Anu Datasets</a></p>
+        <p align="center"><a href="https://data-discovery-demo.mybluemix.net/healthcare">Data Discovery Healthcare</a></p>
+        <p align="center"><a href="https://data-discovery-demo.mybluemix.net/deidentification">Medical Text De-identification</a></p>
+        <p align="center"><a href="https://data-discovery-demo.mybluemix.net/anonymize">Data Discovery - Anonymization Demo</a></p>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+      $('#form').on('submit', function(e) {
+        $('#spinner').show();
+        var input_text = $('#input_text').val();
+        e.preventDefault();
+        $.ajax({
+          method: "POST",
+          url: './classify',
+          data: {input_text : input_text}
+        })
+        .done(function(data) {
+          $('#input_text').val('');
+          $('#response').html(data);
+          $('#spinner').hide();
+        });
+      });
+    </script>
+</body>
+
+</html>
+

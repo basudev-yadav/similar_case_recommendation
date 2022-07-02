@@ -1,0 +1,1956 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+M/S. Nokia Siemens Networks Pvt. ... vs Acit, New Delhi on 16 February, 2018
+
+    
+    
+                       IN THE INCOME TAX APPELLATE TRIBUNAL
+                         [ DELHI BENCHES: "I - 1" NEW DELHI ]
+    
+    
+                    BEFORE SHRI N.K. SAINI, ACCOUNTANT MEMBER
+                                        AND
+                    SHRI K. NARASIMHA CHARY, JUDICIAL MEMBER.
+    
+    
+                              I. T. Appeal No. 333/Del/2013
+                                 Assessment Year : 2008-09
+    
+    M/s Nokia Siemens Networks India,             Asstt. Commissioner of Income-tax
+    7th floor Building No.9A,              vs    Circle 13(1), New Delhi.
+    Cyber City, Sector 25A, Gurgaon.
+       PAN : AABCS9839H
+         (Appellant)                              (Respondent)
+    
+    
+                  Assessee by : Shri Deepak Chopra, Smt. Rashmi Chopra
+                                S/sh. Amit Srivastava, Harpreet Ajmani, Ankur Goyal
+                Department by : Shri Kumar Pranav, Sr. DR
+                                                  Date of Hearing : 01.02.2018
+                                         Date of Pronouncement :       .02.2018
+    
+                                         ORDER
+    
+
+PER K. NARASIMHA CHARY, J. M. :
+
+Aggrieved by the assessment order dated 30.11.2012 read with the directions
+dated 27.9.2012 issued by the Dispute Resolution Panel - II, New Delhi (for
+short called "learned DRP), assessee preferred this appeal.
+
+2\. Brief facts of the case are that the assessee is in the business of
+manufacturing and trading of telecommunication network equipment and  2
+network design, installation and commissioning. The assessee is also providing
+support services to major telecom and IT service providers besides developing
+telecom software. For the assessment year 2008-09, the assessee filed their
+return of income on 30.9.2008 declaring a total income of Rs.47,08,17,570/-.
+The case was selected for scrutiny. Matter was referred to the Ld. TPO for
+determination of the Armed Length Price of the International Transaction, and
+the Learned TPO by order dated 31.10.2011 determined a sum of
+Rs.38,36,90,639/- as the transfer pricing adjustment u/s 92CA basing on which
+the learned AO made an addition to that effect. Besides this, learned AO made
+the following additions also:
+
+> Disallowance of claim of exemption u/s 10AA to the extent of
+> Rs.15,93,92,715/- Disallowance of excess depreciation claimed on UPS
+> Rs.1,44,75,008 Disallowance of employees contribution to Provident Fund
+> Rs.19,25,243/- Disallowance of TDS recoverable written off Rs.2,83,86,834/-
+    
+    
+         Disallowance of penalty expenses                                    Rs.4000/-
+         Disallowance u/s 40(a)(i)                                           Rs.6,91,99,702/-
+    
+    
+
+> 3\. Assessee carried the matter before the learned DRP. In respect of
+> transfer pricing adjustment, learned DRP excluded one M/s Cybermet Infotech
+> Ltd. from the set of comparables due to which the transfer pricing
+> adjustment had come down to Rs.31,77,69,775/-. In respect of additions on
+> account of corporate issues, learned DRP sustained the addition to the tune
+> of Rs.13,06,80,262/-.
+
+Learned AO completed the assessment by making an addition of Rs.31,77,79,775/-
+on account of transfer pricing adjustment and a sum of Rs.13,06,82,262/- on
+account of corporate tax disallowance and concluded the assessment at
+Rs.91,92,67,610/-. Challenging this, the assessee is in appeal before us.
+
+3
+
+4\. Ground No.1 is general in nature. Ground No.2 to 2.1 relate to the
+depreciation on computer peripherals. Ground No.3 and 3.1 relate to the
+disallowance of TDS receivables written off, Ground No.4 to 4.2 relate to the
+apportionment of common expenses to unit claiming benefit under section 10A of
+the Act. Ground No.5 to 5.4 relate to the disallowance under section 40(a)(i)
+whereas Ground Nos. 6 to 7.6 relate to the transfer pricing issues. Ground
+No.7.7 and 7.8 are not pressed, Ground No.8 in relation of the initiating
+penalty proceedings under section271(1)(c) of the Act is premature and Ground
+No.9 on the aspect of levy of interest under section 234B and 234D of the Act
+and withdrawing interest under section 244A(3) of the Act is consequential in
+nature. Now we shall proceed to adjudicate these aspects.
+
+5\. Coming to Ground No 2 and 2.1, relating to the depreciation on computer
+peripherals, assessee claimed depreciation on the equipment like UPS,
+stabilizer, LAN/WAN, catalyst switches, network switches etc. at 60%. However,
+learned AO disallowed such a claim to an extent of Rs.1,44,75,008/- on the
+ground that they form part of the block of assets under plant and machinery,
+in respect of which depreciation is allowed only at 15%. Basing on the
+decision of the Hon'ble jurisdictional High Court in CIT vs. BSES Yamuna Power
+Ltd. (2013) 358 ITR 47 (Del), assessee argued before the learned DRP that
+these peripherals form an integral part of computer system, and therefore, 60%
+depreciation must be allowed. Learned CIT(A), however, observed that the issue
+of allowability of depreciation on computer peripherals is pending before the
+Hon'ble Supreme Court, and since it did not attain finality, the plea of the
+assessee cannot be entertained.
+
+4
+
+6\. It is the argument of the learned AR that the equipment in respect of
+which the depreciation at 60% is claimed does not function on their own and
+for deriving any functionality they must be connected to the computer
+equipment, as such, they are part and parcel of the computer systems in
+respect of which depreciation at 60% has to be allowed. He placed reliance on
+the decisions reported in BSES Yamuna [2013] 358 ITR 47 (Delhi); Nokia India
+(P.) Ltd. vs. ACIT [2012] 22 taxmann.com 109 (Delhi - Trib.) & [2012] 20
+taxmann.com 810 (Delhi); ACIT vs. Timex Watches Ltd [2016] 71 taxmann.com 177
+(Delhi - Trib.); GE Capital Business Process Management Services (P.) Ltd. vs.
+ACIT [2015] 64 taxmann.com 156 (Delhi - Trib.) in support of his contentions.
+
+7\. In BSES Yamuna (supra) the Hon'ble jurisdictional High Court has held as
+under:-
+
+> "6. We are in agreement with the view of the Tribunal that computer
+> accessories and peripherals such as, printers, scanners and server, etc.,
+> form an integral part of the computer system. In fact, the computer
+> accessories and peripherals cannot be used without the computer.
+> Consequently, as they are the part of the computer system, they are entitled
+> to depreciation at the higher rate of 60 per cent."
+
+8\. In the case of Nokia India (P.) Ltd. (supra), wherein a co-ordinate bench
+of this Tribunal has held as under: -
+
+> "13.1 This issue pertains to claim of depreciation @ 60% on UPS, LAN/WAN
+> equipment, switches, network equipment and visual studio etc.13.2 We find
+> that this issue is squarely covered by the decision of the Hon'ble
+> Jurisdictional High Court in IT Appeal No. 1266 (Delhi) of 2010 in the case
+> of C.I.T. v. BSES Rajdhani Powers Ltd. vide order dated 31.8.2010 wherein it
+> was held that the Court was in agreement with the view of the tribunal that
+> the computer peripherals such as printer, scanner etc. form an integral part
+> of computer system. In fact the computer accessories and peripherals cannot
+> be used without the computer.
+
+5
+
+> Consequently, as they are the part of the computer system, they are entitled
+> to depreciation @ 60%. Respectfully following the above precedent, we set
+> aside the order of the Assessing Officer and decide the issue in favour of
+> the assessee."
+
+9\. It is the further argument of the learned AR that by order dated 14.2.2014
+in CIT vs Birlasoft Ltd. (SLP No.20645 of 2012), the Hon'ble Supreme Court
+dismissed the departmental appeal against the order of the Hon'ble
+jurisdictional High Court in ITA No.71 of 2010 wherein the Delhi High Court
+held that the depreciation on computer accessories and peripherals would be
+admissible at the rate of 60%. Lastly, he brought to our notice that the
+learned DRP while dealing with this aspect in assessee's own case for the AY
+2009-10 and 2010-11 followed this legal position and the department also
+accepted the same.
+
+10\. In view of the above legal position, we find that the equipment forms
+integral part of the computer systems and the assessee is entitled to the
+claim of depreciation at 60% by treating the peripherals as part of block of
+computers. Grounds No.2 and 2.1 are allowed accordingly.
+
+11\. Coming to the disallowance of TDS receivables written off, it is the
+submission of the learned AR that the moment the services are rendered or
+goods are dispatched, revenue is recognized and as and when the payment is
+received, any shortfall thereof is debited to TDS receivables written off
+account. In respect of this amount, neither the TDS certificate is received
+nor were the reasons for such shortfall like any deficiency of service known
+at that time. When the TDS certificate was issued to the assessee in respect
+of the same for TDS credit claim, then the assessee is treating the difference
+of the TDS receivables and the TDS certificate issued, as bad debts and
+writing off such bad debts in their accounts  6 under the provisions of
+36(1)(vii) and claiming the expense under section 36(2) of the Act.
+
+12\. Record reveals that the assessee claimed before the learned AO that the
+expense on account of this written off bad debts has to be allowed or in the
+alternative, the same may be allowed to the assessee as a business loss.
+However, learned AO was of the view that the unclaimed TDS does not form part
+of the P&L account and the assessee has the right to recover the same. In
+first appellate proceedings, assessee claimed to have produced the party wise
+and year-wise break up of TDS recoverable written off supported by the
+undertakings of one of the directors of the company stating that the income
+corresponding to the TDS written off was duly offered to tax. Learned DRP
+stated that there was no evidence of the fact that originally the income was
+offered to tax by way of entries in the books of accounts.
+
+13\. Learned AR placed reliance on the decision of the Hon'ble Apex court in
+TRF Ltd. vs CIT in Civil Appeal No.5293 & 5294 of 2003 and also a circular
+No.12 of 2016 issued by the CBDT pursuant to the order in M/s TRF Ltd.,
+clarifying that the claim for bad debts shall be admissible for taxes, if the
+said sum is written off as irrecoverable in the books of accounts and the
+company should not be required to establish before the tax authorities that
+the debt had become irrecoverable. In support of his contention that the claim
+for TDS recoverable is allowable, assessee placed reliance on the following
+observations of the coordinate bench of this Tribunal in the case of Vertex
+Customer Services India (P.) Ltd. vs. DCIT [2017] 88 taxmann.com 286 (Delhi -
+Trib.),-
+
+7
+
+> "51. AO/DRP have disallowed an amount of Rs. 5,57,358/- being written off
+> advance by the taxpayer on account of TDS recoverable from the vendors and
+> amount recoverable in respect of provident funds paid by the taxpayer for
+> its vendors. The ld. AR for the taxpayer challenging the impugned
+> disallowance contended that excess deduction of TDS and amount recoverable
+> in respect of provident fund by the taxpayer from its vendors was due to
+> mistake committed in the regular course of business and claimed the same as
+> trading loss. AO/DRP disallowed the same that the amount is actually
+> recoverable from the vendors but enough efforts were not made by the
+> taxpayer and as such, it cannot be treated as business losses.
+
+> 52\. We are of the considered view that the disallowance made by the AO/DRP
+> is allowable on two grounds : (i) when the same has become bad debts and
+> written off by the taxpayer and books of account have not been challenged;
+> and (ii) even otherwise, it is trading losses suffered by the taxpayer due
+> to bonafide mistake committed during the regular course of business and as
+> such is allowable business expenditure. So, grounds no.5, 6 & 7 are
+> determined in favour of the taxpayer and disallowance made by the AO/DRP
+> stands deleted."
+
+14\. In view of the above factual and legal position, it has become necessary
+to verify whether the assessee had recognized the income as and when the
+services are rendered or goods are dispatched and subsequently, whether the
+assessee written off the difference amount of deficit payment and the amount
+under the TDS certificate issued, in their books of accounts. It would be
+conveniently verified by the learned AO and if he finds that initially the
+assessee recognized the total invoice amount and subsequently, identified the
+bad debt with reference to the deficit payment by the party and the amount
+under TDS certificate issued. On verification of compliance with these two
+conditions, learned AO will allow this expense. Ground Nos.3 and 3.1 are
+allowed for statistical purposes.
+
+8
+
+15\. Grounds No. 4 to 4.2 are in respect of the allocation of common expenses
+to the unit claiming benefit u/s 10A. It is the argument of the learned AR
+that vide para 5.2, learned AO observed that in the absence of details
+provided by the assessee, travelling expenses of the directors and legal and
+professional expenses incurred by the company, 5% of the total travelling
+expenses which may be relatable to the director's travelling needs to be
+apportioned amongst 10A and non 10A units in the proportion of their turnover.
+It is the argument of the assessee before the learned DRP that the support
+functions were separately maintained for STP unit, as such, all direct costs
+pertaining to STP units were directly charged to the P&L account of the STP
+unit. It was further stated that the common cost have already been apportioned
+on the basis of turnover and the managerial remuneration was incurred on
+directors of telecom division and the said directors have nothing to do with
+the STP unit, as such, the question of allocation does not arise. The DRP did
+not agree with the assessee.
+
+16\. It is argued by the learned AR that direct cost incurred in respect of
+STP unit was charged to STP unit itself and it does not call for any further
+allocation, inasmuch as the directors of the telecom division never performed
+any functions for STP unit.
+
+17\. It is further brought to our notice that in the order of the learned AO
+vide paragraph No.5.3, learned AO committed a mistake by deducting the amount
+allocated to the STP unit from its net profit and instead of doing so, the
+learned AO should have deducted the same from the assessee's operating income,
+because of which instead of going, the profit earned by the STP unit has come
+down. He demonstrated to us that while recomputing the deduction available to
+9 the 10A unit, the AO made the profit of the 10A unit at Rs.15,93,92,715/- as
+the starting point and instead of doing so the AO should have taken the
+revenue of the unit at Rs.85,80,77,527/- and start reducing it from operating
+expenses, in which case the net profit would have been Rs.18,90,37,206/-
+instead of Rs.14,07,77,997/- as reached by the learned AO.
+
+18\. Having gone through the record, we are convinced that the facts of the
+case require the AO to verify whether the recomputation of the deductible
+amount is properly done, in the light of the submission that the deduction of
+the amount allocated to the STP unit's net profit is incorrect and instead of
+the same the learned AO should have deducted the same from the assessee's
+operating income. For this purpose, we remand issue No.4 to 4.2 to the learned
+AO for verification. Grounds Nos. 4 to 4.2 are allowed for statistical
+purposes.
+
+19\. Now coming to Ground No.5 to 5.4, i.e. in respect of the disallowance u/s
+40A(i) of the Act, the learned AO found from para 13.8 to the notes of
+accounts that the assessee had incurred expenditure in foreign currency under
+the head 'royalty' to the tune of Rs.4.25 crores and other to the tune of
+Rs.16.55 crores. There is no dispute in respect of the royalty expenditure.
+The break up figure relating to the other expenditure of Rs.16.55 crore shows
+that out of such amount, an amount of Rs.4,35,81,838/- was in respect of the
+unit claiming deduction under section 10A of the Act, which the Ld. AO
+disallowed, and Rs.12,19,74,482/- was in respect of other business not
+entitled to any tax holiday benefit. Again, out of this Rs.12,19,74,482/-,
+learned AO satisfied with the explanation of the assessee except in relation
+to two expenses. One is Rs.72,74,728/- classified under the head 'Repairs' and
+Rs.1,83,43,136/- under the  10 head 'accruals in respect of projects'.
+Therefore, the dispute under this ground revolves around the deduction of
+Rs.4,35,81,838/- claimed in respect of 10A of the Act, Rs.72,74,728/- in
+respect of repairs and Rs.1,83,43,136/- in respect of accruals in respect of
+projects.
+
+20\. In respect of the deduction of Rs.4,35,81,838/- claimed in respect of 10A
+of the Act, it was the submission of the assessee that the TDS in respect of
+the expenditure incurred by 10A units of the assessee was duly complied and
+even otherwise inasmuch as 10A unit is entitled to 100% deduction u/s 10A of
+the Act, any disallowance u/s 40(a) of the Act will not impact the tax
+liability of such unit. The prayer of the learned AR is that if the
+disallowance is not deleted, the learned AO may be directed to increase the
+corresponding deduction also.
+
+21\. In this regard reliance is placed on the order passed by the Gujarat High
+Court in case of ITO vs. Keval Constructions 354 ITR 013 (guj.) wherein while
+dealing with a similar issue, the court held as under:-
+
+> "5. Having heard counsel on both the questions today in this appeal, we find
+> no error in the Tribunal's ultimate conclusion. Even if a certain
+> expenditure which was incurred by the assessee for the purpose of developing
+> housing project was not allowable by virtue of section 40(a)(ia) of the Act,
+> since the assessee had not deducted the tax at source as required under law,
+> it cannot be denied that such disallowance would ultimately go to increase
+> the assessee's profit from the business of developing housing project.
+> Whatever be the ultimate profit of the assessee as computed even after
+> making disallowance under section 40(a)(ia) of the Act, would qualify for
+> deduction as provided under the law. No question of law, therefore, arises.
+> The tax appeal is dismissed."
+
+22\. Reliance is also placed on the order of the Ahmadabad Income Tax
+Appellate Tribunal ('Tribunal') in the case of DCIT vs. Ascendum Solutions
+India  11 (P.) Ltd. [2017] 86 taxmann.com 114 (Ahmadabad - Trib.) wherein
+while dealing with an identical issue it has been held as under:-
+
+> "6. What has been accepted by the CBDT, as learned counsel rightly points
+> out, is the principle that when a disallowance results in an enhancement of
+> business profits but such an enhancement is revenue neutral inasmuch as
+> related business profits, in totality, are eligible for deduction under
+> chapter VI, such appeals need not be pursued. The reference to Section
+> 40(a)(ia) is no more than illustrative in nature, and what holds good for
+> disallowance under section 40(a)(ia) applies, in principle, equally to
+> disallowance under section 40(a)(i) as well. In this view of the matter, in
+> terms of the CBDT circular (supra), the appeal filed by the Assessing
+> Officer, on this point, is indeed not maintainable. As regards the point
+> made by the learned counsel that the non-deduction of tax at source from
+> payments made to the non-residents must be dealt with at a different level,
+> and bearing in mind the need to protect our tax base, we can only point out
+> that lapses with respect to tax withholding obligations from payments made
+> to non-residents is visited with several type of consequences- disallowance
+> under section 40(a)(i), recovery under section 201, penalty under section
+> 271C and, in certain situations, even prosecution under section 276B. What
+> we are dealing with right now is a limited aspect of the matter having
+> impact on computation of taxable income, and while dealing with this limited
+> aspect of the matter, we must not bother about the considerations which are
+> not germane to this context. As for the present context, the issue raised in
+> the appeal, given the settled legal position, is wholly academic and revenue
+> neutral, and, in the light of the CBDT instructions which bind all the field
+> authorities under section 119 of the Act, cannot be pursued by the
+> appellant. We, therefore, see no need to even deal with the matter on merits
+> in the context of the present proceedings, even as we take on record learned
+> counsel's submission that, even on merits, the issue is now covered in
+> favour of the assessee and that the assessee did not have any obligations to
+> deduct tax at source at all. That aspect of the matter is wholly academic.
+> In view of these discussions, and bearing in mind entirety of the case, we
+> uphold the preliminary objection of the assessee and dismiss this ground of
+> appeal as not maintainable."
+
+23\. In this set of facts and circumstances, we are satisfied that the
+disallowance under section 40(a)(i) of the Act is revenue neutral and the
+learned AO is directed to allow the corresponding deduction to the assessee
+u/s 10A of the Act.
+
+12
+
+24\. Coming to the disallowance of Rs.72,74,728/-, according to the assessee,
+this expenditure represents the purchase of spares from foreign affiliates and
+inasmuch as it constitutes business income to the foreign entity and since
+there is no permanent establishment in India such income cannot be brought to
+tax in India. However, according to the learned AO, this expense represent the
+payments in the nature of FTS attracting TDS.
+
+25\. It is submitted by the learned AR that the assessee filed the copies of
+invoices raised by the aforesaid entities but the learned DRP did not grant
+any relief to the assessee. According to the assessee, these payments were
+made to the nonresident on account of purchase of spare parts. The assessee
+also filed an application for admitting the additional evidence in the form of
+sample invoices evidencing the nature of purchase of spares for repair. Having
+regard to the facts and circumstances of the case and in view of the
+contention of the assessee that no services being received by the assessee
+except the spare parts under the invoices submitted, we are of the considered
+opinion that the material needs to be received in evidence has to be sent to
+the learned AO for verification to decide whether it is the purchase of the
+spare parts or the payments represent FTS. With this view of the matter, we
+allow the additional evidence to be filed and send it to the AO for
+verification.
+
+26\. In so far as the accruals in respect of projects is concerned, the case
+of the assessee is that the said amount represents provisions created in the
+books of accounts in respect of accruals made for various ongoing projects, as
+the invoices in respect of concerned supplies/expenses are not received at the
+end of the year, the same were provided as accrued in the books of accounts,
+immediately upon  13 receipt of the invoice from identifiable parties, tax
+withholding in respect of the said amount is made and credited the same in the
+books of accounts. It is submitted that immediately upon deduction of tax,
+other compliances like issuance of certificate, furnishing of prescribed
+quarterly statements are made.
+
+27\. Learned AO rejected the contentions of the assessee stating that the
+details of nature of services of accruals in respect of projects have not been
+furnished and therefore, it cannot be claimed that these are not for technical
+services. It is the argument of the learned AR that these are the amounts on
+an estimate basis where the parties in respect of various ongoing projects
+were not identified and the invoices in respect of concerned supplies/expenses
+were not received. He further submits that wherever required tax withholding
+made immediately on receipt of invoice from identifiable parties and the
+credit of the same was made in the books of accounts.
+
+28\. In this regard, reliance was placed by the Assessee on the decision of
+this Tribunal in the case of Apollo Tyres Ltd. vs. Deputy Commissioner of
+Income Tax (78 taxmann.com 195) wherein it has been held as under:-
+
+> "12. At the time of hearing before us, learned DR has referred to the above
+> section so as to buttress his argument that tax is to be deducted even if
+> there is provision of the amount payable. The ITAT, Cochin Bench in the case
+> of Abad Builders (P) Ltd. (supra), after considering the above provision,
+> has held that tax is to be deducted even in respect of provision for
+> expenses. However, the ITAT, Chennai Bench in the case of Dishnet Wireless
+> Ltd. (supra) has held that in the case of the year end provision where the
+> party/payee is identifiable, the TDS is to be deducted and where the party
+> is not identifiable, no TDS is deductible. Similar view has been taken by
+> the ITAT Mumbai Bench in the case of Industrial Development Bank of India
+> (supra). After considering the scheme of Chapter XVII- B with regard to tax
+> deduction at source, we agree with the views expressed by ITAT Mumbai Bench
+> and ITAT Chennai Bench. As per the scheme of TDS under  14 Chapter XVII-B
+> Section 199, the credit for the TDS is to be given to the deductee. Thus,
+> the identification of the person from whose account income tax was deducted
+> at source is a pre-requisite condition so as to make the provision for
+> Chapter XVII-B workable. Tax deducted at source is considered to be tax paid
+> on behalf of the person from whose income the deduction was made and,
+> therefore, the credit for the same is to be given to such person. When the
+> payee is not identifiable, to whose account the credit for such TDS is to be
+> given. Section 203(1) lays down that for all tax deductions at source, the
+> tax deductor has to furnish a certificate to the person to whose account
+> such credit is to be given. Therefore, when the tax deductor cannot
+> ascertain the payee who is the beneficiary of a credit of tax deduction at
+> source, the mechanism of Chapter XVII- B cannot be put into service."
+
+29\. It is submitted by the learned AR that by way of additional evidence the
+screen shot of SAP entries for creation of provision for project accruals are
+produced and this evidence clearly establish that year end provisions were
+reversed in subsequent years. It is further submitted that the provision was
+created to follow the matching concept of accounting entries in accordance
+with accounting standards, without actual identity of payees being known. He
+further submitted that there is no dispute from the revenue that the said
+expenses are otherwise allowable for tax purposes. Basing on this, he
+submitted that in the absence of requirement of withholding tax at source, no
+disallowance is warranted under section 40(a)(i) of the Act.
+
+30\. On a careful consideration of the contentions, we are of the considered
+opinion that inasmuch as the payees are not identifiable, it would not be
+possible for the assessee to deposit any TDS even in case of its deduction. We
+are, therefore, deem it just and proper to direct the learned AO has to verify
+from the evidence to be produced by the assessee relating to the creation of
+provisions for project accruals and the year end reversal of such provisions,
+and accordingly to  15 delete the disallowance. This ground is set aside to
+the file of learned AO for verification.
+
+31\. Insofar as the Transfer Pricing issues are concerned, during the
+scrutiny, learned AO observed that the assessee entered into the following
+international transactions:
+
+S. International Transactions Segment Amount (INR) No.
+
+    
+    
+      1       Purchase   of          Raw-materials   and
+                                                                          428,172,674
+              components
+    
+      2       Export of finished goods                                    18,711,838
+    
+      3       Payment of Royalty                                          42,506,831
+                                                           Telecommunicat
+      4       Availing of services                         ion Segment    70,176,029
+    
+      5       Commission Income                                           7,212,421
+    
+      6       Reimbursement of expenses to AEs                            8,402,472
+    
+      7       Reimbursement of expenses by AEs                            23,807,212
+    
+      8       Provision of Software Services                              1,673,082,480
+    
+      9       Availing of services                                        12,363,736
+                                                           Software
+                                                           Segment
+      10      Purchase of software                                        14,567,640
+    
+      11      Reimbursement of expenses by AEs                            112,102,011
+    
+    
+
+32\. Hence, the matter was referred to the Transfer Pricing Officer (for short
+called "TPO") for determination of the arm's length price of the international
+16 transaction. The dispute before the TPO relates only to the software
+segment of the assessee.
+
+33\. Assessee as a tested party has been characterized as provider of software
+development services to its AEs which had used Transactional Net Margin Method
+(TNMM) as the most appropriate method for its benchmarking of international
+transaction. Search for uncontrolled comparables was made using Prowess and
+Capitoline database by the Assessee in its Transfer Pricing Study. Assessee
+had taken 16 comparables in its TP study with an arithmetic mean of 9.71%.
+Assessee computed its profit level indicator (PLI) at 4.26% on cost which was
+falling within the arm's length range of +/-5%.
+
+34\. Learned TPO accepted TNMM as the most appropriate method and also the
+PLI. The limited difference in approach adopted by the TPO and the Assessee
+was with respect to selection of comparables. During the course of assessment
+proceedings, the Assessee submitted updated margins of 14 comparable
+companies.
+
+35\. However, learned TPO rejected 4 comparables selected by the Assessee and
+selected remaining 10 comparables. Further, learned TPO performed a detailed
+analysis and introduced additional 15 comparables, thereby selected a final
+set of 25 comparables with a PLI of 28.16%. Accordingly, transfer pricing
+adjustment of Rs. 38,36,90,639 was made. However, subsequently, as stated
+above, learned TPO in compliance to the directions issued by the Dispute
+resolution Panel (DRP) passed supplementary order wherein Cybermate Infotek
+Limited was excluded from the final set of comparables and made final TP  17
+adjustment at INR 31,77,69,775 in respect of international transaction related
+to provision of software development services.
+
+36\. Assessing Officer ("learned AO") framed assessment and passed final
+assessment order under section 143(3) of the Income Tax Act, 1961 on
+30.11.2011. Assessee is aggrieved by the inclusion of 18 companies which the
+assessee objected, exclusion of three companies which are desired by the
+assessee to be included and non grant of the working capital adjustment.
+
+COMPARABLE COMPANIES SOUGHT TO BE EXCLUDED BY THE ASSESSEE FOR BENCHMARKING OF
+ITS INTERNATIONAL TRANSACTION
+
+37\. Assessee is disputing the inclusion of the following 18 out of 24
+comparables finally selected by the Ld. TPO.
+
+1\. Bodhtree Consulting Limited
+
+2\. Cat Technologies Limited
+
+3\. E-Infochips Bangalore Limited
+
+4\. E-Infochips Limited
+
+5\. FCS Software Solutions Limited
+
+6\. Goldstone Technologies Limited
+
+7\. Helios & Matheson Information Technology Limited
+
+8\. I Gate Global Solutions Limited
+
+9\. Infosys Limited
+
+10\. Kals Information Systems Limited (Segmental)
+
+11\. LGS Global Limited
+
+12\. Larsen & Toubro Infotech Limited
+
+13\. Mindtree Limited
+
+14\. Persistent Systems Limited
+
+15\. Quintegra Solutions Limited
+
+16\. R Systems International Limited (Segmental)
+
+17\. Softsol India Limited
+
+18\. Tata Elxsi Limited (Segmental)  18
+
+38\. We find from the order of the TPO, that the assessee is a wholly owned
+subsidiary of NSNPL, which in turn is a wholly owned subsidiary of Nokia
+Siemens Networks B.V. The company is engaged in the business of manufacturing
+and trading of telecommunication network equipments and network design,
+installation and commissioning. The company also provides support services to
+major telecom and IP service providers. NSNIPL also develops telecom software
+for its AEs. The company's product and solution portfolio comprises Switching,
+Transmission, VoIP. Next Generation Networks like SURPASS, intelligent
+Network, Microwave solutions, Mobile data solutions, 2.5G and 3G networks
+including GPRS, EDGE and UMTS, Radio, Broadband, Access products apart from
+services encompassing related products and systems. We shall now proceed to
+deal with the contentions on either side in detail on the aspect of
+comparability of the disputed entities with the assessee.
+
+39\. At the outset learned DR brought to our notice that out of the 18
+disputed comparables, the assessee had accepted 4 comparables, namely, Helios
+& Matheson Information Technology Ltd., I Gate Global Solutions Ltd, Mindtree
+Limited, Quintegra Solutions Limited for the assessment year 2007-08 and,
+therefore, it is not open for the assessee to dispute such comparables for
+this assessment year.
+
+40\. Learned AR placed reliance on the decision reported in Rampgreen
+Solutions (P.) Ltd. vs. CIT [2015] 377 ITR 533 (Delhi), Chryscapital
+Investment Advisors (India) (P.)Ltd. vs. DCIT [2015] 376 ITR 183 (Delhi) and
+submitted that the functionality of an entity is the key determinative factor
+for its inclusion or exclusion from the list of comparables and there is no
+such thing as estoppel on  19 the ground of assessee accepting the entity as
+functionally comparable in a previous assessment year.
+
+41\. On a careful perusal of the decisions relied upon by the assessee, we
+find ourselves in agreement with the submission that in order to decide the
+comparability of an entity, the key determinative factor is its functionality
+but not the acceptance or rejection by any of the parties. Consent does not
+make an otherwise functionally dissimilar entity, a better comparable. We,
+therefore, find it difficult to reject the objections of the assessee in
+respect of these comparables.
+
+Bodhtree Consulting Limited:
+
+42\. Assessee objects this company on the ground of functional difference and
+non-availability of segmental information. According to the Assessee the
+company is engaged in diversified set of services and segmental data is not
+available. Ld. TPO rejected assessee's contention on the ground that it is
+engaged in software development segment and that this company was accepted by
+the TPO for AY 2007-08, but as a matter of fact this comparable was never
+considered by the TPO in the previous year. Ld. DRP dismissed the objections
+of the assessee.
+
+43\. From Page No 12 of the Paper book containing Annexure II to the
+Directors' report, a part of the annual report of the company, we find that
+this company is engaged in only one segment which comprises of income from
+software development, open and end to end web solutions, software consultancy
+designs and software products; whereas the Assessee is engaged in rendering
+software development services. Under Note 5 "Segmental Information", it is
+stated that  20 the company has only one identifiable reporting segment that
+is software development service, showing that no separate segmental finances
+relating to the software development open and end-to-end web solutions,
+software consultancy designs and software products are available.
+
+44\. It is argued on behalf of the assessee that this company is following a
+different pricing model, as is evident from the annual report to be found at
+paper book page No. 24 that the revenues from software development is
+recognized based on software developed and billed to the client whereas the
+assessee is a captive software developer for its AE's.
+
+45\. Ld. AR placed reliance on a decision of this Tribunal in ITA No.
+6402/DEL/2012 (AY 2008-09) in the case of Aircom International (India) Pvt Ltd
+v DCIT, (2017) 50 CCH 0280 (hereinafter "Aircom") in support of his plea that
+Bodhtree is engaged in providing open and end-to-end web solutions, software
+consultancy, design and development of solutions, using the latest
+technologies and not comparable with the company which is into the business of
+software development and providing related services to its AE. The coordinate
+Bench in the judgment of Aircom (supra) has excluded this comparable company
+by making following observations :
+
+> "15.2. We find from the Annual report of this company that it: "has only one
+> segment, namely, software development. Being a software solutions company,
+> which is engaged in providing open and end-to-end web solutions, software
+> consultancy, design and development of solutions, using the latest
+> technologies." Thus, it can be seen that this company is providing end-to-
+> end solutions and also consultancy which is not the case with the assessee
+> company. Another relevant factor to be noticed is Page 1254 of the paper
+> book, which divulges the significant accounting policies of this company.
+> Under the head 'Revenue recognition', it has been mentioned that: "revenue
+> 21 from software development is recognized based on software developed and
+> billed to clients." As against this, the Schedule forming part of the
+> accounts of the assessee company provides for revenue recognition in the
+> terms: "revenue from software developed is recognized over the contracted
+> period of development on cost plus basis." It can be seen that there is a
+> lot of difference in the revenue and recognition models of the assessee was
+> well as Bodhtree Consulting Ltd. This factor, in addition to the functional
+> dissimilarity as discussed above, makes this company noncomparable with the
+> assessee company. We, therefore, order to exclude it from the list of
+> comparables."
+
+46\. There is no dispute that the Aircom is also into the business of software
+development and providing related services to its AE. We are, therefore, of
+the considered opinion that being a software solutions company which is
+engaged in providing open and end-to-end web solutions, software consultancy,
+design and development of solutions, using the latest technologies, Bodhtree
+company cannot be compared to the assessee which is a captive software
+developer for its AE's.
+
+Cat Technologies Limited:
+
+47\. This company was objected by the assessee on the ground that it is
+engaged in diversified set of services and also that the segmental data is not
+available, but the Ld. that TPO included this company in the set of
+comparables.
+
+48\. From page No. 94 of the paper book where the segmental reporting is
+mentioned, we found that the company is dealing in Medical Transcription,
+Training software development and consultancy services. Further vide Note No.
+7 to the notes on accounts it is stated that the company considered whole of
+India as a single geographical segment. Vide page No. 94 at schedule No. 9,
+the software development and consulting services are clubbed together. No
+separate  22 credentials are available. It's also argued that the annual
+report of the comparable also does not disclose sufficient related party
+disclosures.
+
+49\. Inasmuch as the company is dealing with software development and
+consulting services as well as medical transcription and no separate
+financials in respect of the software development from consulting services are
+available, we are of the considered opinion that this company is not a good
+comparable with the assessee.
+
+E - Infochips Bangalore Limited:
+
+50\. Assessee objected the inclusion of this company on the ground that the
+company was engaged in diversified set of services and segmental data was not
+available. Ld. TPO rejected the said objection stating that there was nothing
+in the annual report to suggest that the company was in the business of
+product engineering and semiconductor design services.
+
+51\. From page No. 116 of the paper book under the caption segment
+information, we find that the company is engaged in software development and
+IT enabled services, but from schedule 8 it is found that both the segments
+are clubbed under the heading 'income from software services'. This clearly
+shows that no separate segmental information is available in respect of
+software development and IT enabled services. Further, it is submitted on
+behalf of the assessee that the Ld. DRP rejected this comparable in respect of
+the year 2010-11 in assessee's own case on the ground of functional
+dissimilarity, and held that the company is engaged in high-end technology
+driven services and product development. We also found from page numbers 111
+and 116 of the paper book  23 that the entity level profitability was taken
+into consideration and no segmental bifurcation of cost is available.
+
+52\. It is not in dispute on behalf of the revenue that the Ld. DRP rejected
+this company as a comparable in respect of the assessment year 2010-11 on the
+ground of functional dissimilarity holding that the company is engaged in
+high- end technology driven services and product development. Having regard to
+this fact coupled with the situation that no segmental data is available in
+respect of the software development and the IT enabled services separately, we
+do not consider this company as a right comparable.
+
+E - Infochips Limited:
+
+53\. Assessee's objection for an inclusion of this company in the set of
+comparables on the ground of diversified set of services and non-availability
+of the segmental data was rejected by the Ld. TPO on the ground that as per
+the annual report the company was only deriving income from software
+development services.
+
+54\. However from a reading of the note 13 of the notes on account found at
+page No. 146 of the paper book, we find that the company is primarily engaged
+in software development and IT enabled services but profit and loss account of
+this company incorporated at page No. 134 of the paper book with a schedule 7
+forming part of profit and loss account at page No. 141 thereof do not show
+any separate segmental data in respect of these two segments.
+
+55\. It is also submitted on behalf of the assessee that this company is also
+engaged in product engineering services and semiconductor design services as
+24 evident from the financial statements. Note No. 16 of the note on account
+shows that this company is engaged in the development and maintenance of
+computer software and also manufacturing EVM and VDB electronic board.
+
+56\. The Assessee is relying on the order passed by this Tribunal in the case
+of Saxo India Ltd v ACIT [2017] 397 ITR 160 (Delhi) in support of his
+contention that a company deriving its income from software development,
+hardware maintenance, information technology, consultancy etc. is not a good
+comparable with the assessee and for excluding this comparable from the final
+set of comparable. It was held as follows:-
+
+> "10.2. After considering the rival submissions and perusing the relevant
+> material on record, we find that the Annual report of this company is
+> available in the paper book with its Profit and loss account at page 1025.
+> Schedule of Income indicates its operating revenue from software
+> development, hardware maintenance, information technology, consultancy etc.
+> Revenue from hardware maintenance stands at Rs. 3.92 crore, which has been
+> considered by the Transfer Pricing Officer himself as sale of products. Such
+> sale of products constitutes 15% of total revenue. There is no segmental
+> information available as regards the revenue from sale of products and
+> revenue from software development segment. As the assessee is simply engaged
+> in rendering software development services and there is no sale of any
+> software products, this company, in our considered opinion, ceases to be
+> comparable. It is obvious that from the common pool of income from both the
+> streams of software products and software services, one cannot deduce the
+> revenue from software services and no one knows the impact of revenue from
+> Products on the overall kitty of profit, which may be significant. Since no
+> segmental data of this company is available indicating operating profit from
+> software development services, we order to exclude this company from the
+> list of comparables."
+
+57\. It is further submitted on behalf of the assessee that Ld. TPO has erred
+in taking the entity level profitability. The sales figure taken by the TPO is
+25 Rs.24.03Crores, which includes the revenue from software services as well
+as income from sale of software products. In the light of same, it is apparent
+that the PLI arrived at by the TPO is incorrect as same does not represent the
+margin of the software segment, as no segmental data is available.
+
+58\. In the light of above, we are satisfied that E-Infochips Limited is
+functionally dissimilar to the Assessee and accordingly it is to be excluded
+from the final set of comparable companies for benchmarking international
+transaction related to software segment.
+
+FCS Software Solutions Limited:
+
+59\. Much against the objections of the assessee, Ld. TPO selected this
+company as a comparable on the ground that it passed all the filters. Ld. DRP
+confirmed the same.
+
+60\. However from page No. 222 of the paper book, we find that this company is
+dealing in IT consulting services, e-learning and digital consulting,
+application support 24/7, and infrastructure management services. However, the
+profit and loss account incorporated at page Nos. 236 and 253 of the paper
+book show that the revenues from all the services are bundled into software
+development and other services. P.1.20 of the notes on account at page No. 266
+of the paper book shows that the financials are on the lines of geographical
+segments like India and the USA, but not on the lines of the functional
+segments. Further, P.2.4 at page No. 268 of the paper book reads that the
+company is engaged in the software consultancy, technical support services,
+e-learning and other related allied  26 services and these services cannot be
+expressed in any generic unit and it is not possible to give the quantitative
+details of sales.
+
+61\. Assessee submitted that a company which is in E-learning and Digital
+Consultancy cannot be compared to a captive software developer like assessee,
+and relied on the order passed by this Tribunal, in case of Tibco Software
+India Pvt. Ltd. v DCIT, [2015] 56 taxmann.com 91 (Pune-Trib), (AY 2008-09) to
+exclude this company from the final set of comparable. This Tribunal, in the
+case of Tibco(supra), ordered to exclude this comparable company by making
+following observations:-
+
+> "24. Moreover, the assessee had referred to the following extract from the
+> Annual Report of the said concern in relation to the E-learning and Digital
+> Consulting before the TPO to say that it is in the nature of IT enabled
+> services:- "E-learning and Digital Consulting Services: US corporations look
+> at E-learning of web / CD based training programs as one of the ways to
+> achieve organizational growth and improved business performance.
+
+> "E-learning helps employees, vendors, and dealers of a company to better
+> their performance and deal with fast-changing environments. E-learning makes
+> training highly efficient, by making it available anytime, anywhere and
+> reduces total cost of training. E-learning is used to train employees,
+> customers and service technicians on product knowledge, concepts,
+> strategies, risk and finance, compliance and technology."
+
+> 25\. Ostensibly, the aforesaid services involve setting up of support
+> centres and remote maintenance, which have been duly categorized as ITES by
+> the CBDT's Circular dated 26.09.2000 itself, which has been reproduced by
+> the TPO in the impugned order. Therefore, even the said segment is not to be
+> included as part of the software development services, as asserted by the
+> assessee. Once the segment of application support and infrastructure
+> management services are removed along with the exclusion of E-learning and
+> Digital consulting segment, then the income of the said concern from
+> software development services falls below 75% of its total income and
+> therefore, it deserves to be excluded even on the basis of the filter
+> applied by the TPO. Thus, on this aspect, assessee succeeds."
+
+62\. Since this company is engaged in a diversified fields and deriving
+revenues from different sources, the functional segmental information in
+respect of  27 revenue and cost is not available, and the information relating
+to the geographical segmentation is not at all helpful for comparison of this
+company with the assessee, we find that FCS Software Solutions Limited is
+functionally dissimilar to the Assessee and accordingly it is to be excluded
+from the final set of comparable companies for benchmarking international
+transaction related to software segment.
+
+Goldstone Technologies Limited:
+
+63\. According to the assessee this company is functionally dissimilar to that
+of the Assessee as it is engaged into application services, product
+enhancement and support services, enterprise application integration, java
+migration and infrastructure management services which nowhere can be said to
+be comparable to the software services rendered by the Assessee to its AE.
+Further, the financial statements lack in providing the segmental results as
+well. On a perusal of the annual report of this company from page numbers 89
+and 290 of the paper book, we find this statement to be true. Further the
+business segment information provided at 9.1 at page number P22 of the paper
+book shows that Goldstone Technologies Ltd., during the year had introduced
+two additional divisions namely, Media and IP TV. Further, as is evident from
+page No. 303 of the paper book, the company had carried inventory of set top
+boxes and movie rights in its balance sheet for the previous year.
+
+64\. Schedule 5-forming part of balance sheet under the head 'investments-
+cost' at page No. 314 of the paper book coupled with Note No. 3 of the notes
+on accounts at page No. 320 of the paper book, shows that during the year
+under consideration, the company has undergone exceptional circumstances as it
+has  28 acquired its wholly owned subsidiary namely, Staytop Systems Inc, USA
+and acquired 51% stake in 4G Informatics Private Limited.
+
+65\. Lastly it is contended on behalf of the assessee that this comparable was
+rejected as a comparable by the learned TPO in Assessee's own case for AY
+2010- 11 owing to functional dissimilarity since the company is engaged in
+rendering ITES services. This assertion on behalf of the assessee is not
+controverted by the Revenue.
+
+66\. Reliance has been placed on order passed by this Tribunal in case of
+Emptoris Technologies India Pvt. Ltd. v DCIT [2016] 67 taxmann.com 279 (Pune -
+Trib.) (AY 2008-09) to the effect that Goldstone Technologies Ltd. was engaged
+in the activities related to Media & IP TV and further, the company had
+carried inventory of set top boxes and movie rights in its Balance Sheet for
+the previous year, and it has to be excluded from the final set of comparable.
+The coordinate Bench in the judgment of Emptoris (supra), ordered to exclude
+this comparable company by making following observations:-
+
+> "17. The learned Authorized Representative for the assessee pointed out that
+> before the DRP, it was pointed out that the said concern Goldstone
+> Technologies Ltd. was engaged in the activities related to Media & IP TV and
+> further, the company had carried inventory of set top boxes and movie rights
+> in its Balance Sheet for the previous year. In addition, the said company
+> had some income from sale of industrial material. Looking at the services
+> provided by the said concern, it is clear that the same are functionally
+> dissimilar to the services provided by the assessee and there is no merit in
+> comparing the results of the said concern while benchmarking the
+> international transaction of the assessee. Accordingly, we direct the
+> Assessing Officer to exclude Goldstone Technologies Ltd."
+
+29
+
+67\. In view of the functional dissimilarity coupled with the fact that there
+were extraordinary events during the year, we find that this company has to be
+excluded from the final set of comparable companies for benchmarking
+international transaction related to software segment.
+
+Helios & Matheson Information Technology Limited:
+
+68\. Assessee objected the inclusion of this company on the ground that it is
+functionally different. However, Ld. TPO included it on the ground that the
+diversified services pointed out by the assessee were part of the software
+development segment and it could not be said that this company was
+functionally dissimilar to the assessee.
+
+69\. The "business and results of operations" to be found on page numbers 376
+and 377 of the paper book clearly show that this company is engaged into
+providing end-to-end services in the healthcare sector and also into the sale
+of software which is quite different from the software services rendered by
+the assessee to its AEs.
+
+70\. Revenue from operations shown under schedule 1 at page No. 415 of the
+paper book show that the income from software sales and services is bundled up
+and the segment reporting at page No. 419 reads that the company is operating
+in a single segment and the risk and reward is the same for the segment in all
+the locations and hence segment reporting is not applicable to the company. It
+is further submitted on behalf of the assessee that, the employee cost filter
+cannot be ascertained from the financials.
+
+30
+
+71\. The Assessee also submitted that the revenue recognition model of this
+comparable is also different from the revenue recognition model of the
+Assessee. According to the revenue recognition policy of the company to be
+found on page 416 of the paper book Annual Reports paper book Vol - II, -
+
+> "revenue from software services and projects comprise income from time and
+> material and fixed price contracts. Revenue from time and material contracts
+> is recognized using percentage of completion method calculated as a
+> percentage of the cost of efforts incurred up to the reporting date to
+> estimated total cost of efforts. Maintenance revenue is recognized over the
+> period of underlying maintenance contracts, interest receipt is recognized
+> on accrual basis. Dividend is recognized on receipt basis.
+
+> Unbilled revenue primarily comprises the revenue recognized in relation to
+> efforts incurred up on fixed price, fixed time frame contracts until the
+> balance sheet date."
+
+72\. Reliance has been placed on order passed by this Tribunal in the case of
+PTC Software (India) Private Limited [2017] 86 taxmann.com 122 (Pune - Trib.)
+(AY 2008-09), wherein, it was found that Helios & Matheson Information
+Technology Ltd. is engaged in rendering ITES including BPO services, Offshore
+delivery, Project management services, etc. and that this company was
+functionally incomparable to software development firms by making following
+observations:-
+
+> "15. The ld. Counsel for the assessee submitted that the third company that
+> should be excluded from the final list of comparables is Helios & Matheson
+> Information Technology Ltd. The said company should be excluded on the
+> ground of functional disparity. The ld. Counsel contended that Helios &
+> Matheson Information Technology Ltd. is engaged in rendering ITES including
+> BPO services, Offshore delivery, Project management services, etc.
+> Therefore, the services rendered by Helios & Matheson Information Technology
+> Ltd. are not comparable to ITS rendered by the assessee. The ld. Counsel
+> submitted that in assessee's own case in assessment year  31 2007-08 the
+> Tribunal has excluded Helios & Matheson Information Technology Ltd. from the
+> list of comparables.
+
+> 16\. On the other hand the ld. DR vehemently defended the findings of TPO in
+> including Helios & Matheson Information Technology Ltd. in the final set of
+> comparables.
+
+> 17\. Both sides heard. Orders of the authorities below perused. We find that
+> the Co-ordinate Bench of the Tribunal in assessee's own case in assessment
+> year 2007-08 have excluded Helios & Matheson Information Technology Ltd.
+> from the final list of comparables for the reasons similar to exclude Kals
+> Information Systems Ltd. The relevant extract of the findings of the order
+> of Tribunal has already been reproduced in para 7 here-in- above. For the
+> sake of brevity and to avoid repetitiveness we are not extracting the same
+> reasons here again. The Hon'ble High Court has confirmed the findings of
+> Tribunal in hold Helios & Matheson Information Technology Ltd. as not
+> comparable on account of functional differences. The ld. DR has not been
+> able to place on record any material to show any change in the facts and
+> circumstances in the assessment year under appeal. Therefore, following the
+> decision of Co-ordinate Bench in assessment year 2007-08 we direct the
+> Assessing Officer/TPO to exclude Helios & Matheson Information Technology
+> Ltd. from the final set of comparables."
+
+73\. Further, assessee also placed reliance on the judgment of Bangalore
+Tribunal in the case of NMS Communication Private Ltd. v DCIT, [2016] 68
+taxmann.com 72 (Bangalore-Trib) in support of their contention that Helios is
+not a good comparable for the assessee which renders captive software
+development service as its main revenue is from sale of software.
+
+74\. In view of the fact that this company was found to have been engaged in
+rendering IT has including BPO services, offshore delivery, project management
+services etc and no segmental information is available, we find it difficult
+to hold that this company could be continued as a good comparable. We,
+therefore, direct the exclusion of this company from the final set of
+comparable companies for benchmarking international transaction related to
+software segment.
+
+32
+
+iGate Global Solution Limited:
+
+75\. On the ground of functional dissimilarity the assessee objected the
+inclusion of this company in the set of comparables, but the Ld. TPO proceeded
+to include the same on the ground that it passed all the filters.
+
+76\. A reading of the segmental reporting to be found at page No. 531 of the
+paper book shows that the company is engaged in providing information
+technology services, contact centre services and IT enabled services,
+delivered to customers globally across the geographies, they were to being
+performed on-site and offshore. A reading of the financials to be found at
+page number 498, 509 and 511 shows that the financial statements lack in
+providing the segmental results. Further, the heading "subsidiaries and joint
+ventures" at page No. 499 and the heading "Merger of iGate Technology Services
+Private Limited" at page No. 507 show that in addition to the same, it is
+pertinent to note that there has been an exceptional event during the year,
+i.e. the company is wholly owned subsidiary iGate Technology Services Private
+Limited has been amalgamated and accordingly, the financials include the
+effect of the same.
+
+77\. Considering the non-availability of the segmental information coupled
+with the fact that that the company has an exceptional event of operations,
+makes this company excludable from the final set of comparable companies for
+the present year under consideration.
+
+Infosys Technologies Limited:
+
+78\. This company is undoubtedly a corporate giant with its large scale of
+operations vis-à-vis the Assessee company; that it had a brand impact to  33
+determine the premium pricing; that it has a different model of revenue
+recognition. It is submitted on behalf of the assessee that this comparable
+has been rejected in Assessee's own case in immediately preceding year, i.e.
+AY 2007- 08 by the Tribunal on account of different risk profile, scale,
+nature of services, revenue ownership of branded/ proprietary products, onsite
+and offshore services etc. This fact is not contradicted by the revenue.
+
+79\. Further, the Assessee has placed reliance on Aircom (supra), in order to
+exclude this comparable company on the basis of its magnitude. The coordinate
+bench has rejected this comparable by making following observations:-
+
+> "17.2. We have considered the rival submissions and perused the relevant
+> material on record. It can be seen that the TPO has included this company in
+> the list of comparables by rejecting the assessee's contentions. The
+> assessee is providing and assigning software services to its AE alone
+> without acquiring any intellectual property rights in the work done by it in
+> the development of software. The Hon'ble Delhi High Court in CIT vs. Agnity
+> India Technologies (P) Ltd. (2013) 219 Taxmann 26 (Del) considered the
+> giantness of Infosys Ltd., in terms of risk profile, nature of services,
+> number of employees, ownership of branded products and brand related
+> profits, etc. in comparison with such factors prevailing in the case of
+> Agnity India Technologies Pvt. Ltd., being, a captive unit providing
+> software development services without having any IP rights in the work done
+> by it. After making comparison of various factors as enumerated above, the
+> Hon'ble Delhi High Court held Infosys Ltd. to be non-comparable with Agnity
+> India Technologies Pvt. Ltd. The facts of the instant case are similar to
+> the extent that the extant assessee is also not owning any branded products
+> and having no expenditure on R&D etc. When we consider all the above factors
+> in a holistic manner, there remains absolutely no doubt that Infosys
+> Technologies Ltd. is not comparable with the assessee company. Respectfully
+> following the judgment of the Hon'ble jurisdictional High Court in Agnity
+> India (supra), we hold that Infosys Technologies Ltd., cannot be treated as
+> comparable with the  34 assessee company. This company is, therefore,
+> directed to be excluded from the list of comparables."
+
+80\. The diversified activities of business, its deployment of capital,
+resources and the brand name make this company not comparable with the
+assessee and, therefore, this company has to be excluded from the final set of
+comparable companies for benchmarking international transaction related to
+software segment.
+
+Kals Information Systems Limited (Segmental)
+
+81\. At the outset it is brought to our notice that this company was
+considered by a coordinate bench of this tribunal in the immediately preceding
+year that is assessment year 2007-08 in assessee's own case and this Tribunal
+rejected this company to be included as a comparable to the assessee.
+
+82\. On a perusal of the order dated 18.5.2016 in ITA No. 5837/Delhi/2011 in
+assessee's own case, we find that this company was considered by this Tribunal
+vide paragraph numbers 37 to 39 and found that the software segment of this
+company also includes revenues from software and training, whereas the
+assessee company is not engaged in imparting any training or selling its
+software products to attract revenue. On this premise, this Tribunal held that
+the finances of this company are not comparable with the assessee company and
+on that ground this company is not a valid comparable.
+
+83\. Further, the Assessee has placed reliance on Aircom (supra), in order to
+exclude this comparable company on the ground that this company consisting of
+STP unit is engaged in software products and development of software and is
+also undertaking training activity of software professionals on online
+projects and not  35 a good comparable. The coordinate bench has rejected this
+comparable by making following observations:-
+
+> "18.3. After considering the rival submissions and perusing the relevant
+> material on record, we find that the entire premise of the TPO's inclusion
+> of this company in the list of comparables is that the software products and
+> training constitute only 4.24% of its revenue. This inference has been drawn
+> on the basis of the information supplied by this company stating: "the use
+> of readymade object laboratories is only to the tune of about (3.4 to 6.96)
+> % in the year 2007-08 to 2008-09 ". We fail to comprehend as to how the
+> above line conveys that the software products' revenue stands at 4.24%. What
+> has been written is that the company's use of the readymade object
+> laboratories is only to the tune of maximum 4.24%. By no imagination this
+> can be construed as revenues from software products. When we peruse the
+> Annual report of this company, which is available in the paper book, it can
+> be seen that there is no such mention of software products revenue limited
+> to 4.24%. On the contrary, it has been mentioned in the Notes to the
+> financial statement that: "the company is engaged in development of software
+> and software products since its inception." The company consisting of STPI
+> unit is engaged in software products and development of software and is also
+> undertaking training activity of software professionals on online projects.
+> Not only the revenues of the segment considered by the TPO also include the
+> revenue from software products, but also from training imparted on
+> commercial basis. It is clear that the assessee is not providing any
+> training under this segment, which has been rather included by the assessee
+> in the second category of the assessee's business, namely, 'Software
+> Deployment, Training, Consultancy and Equipment Rental.' Since the
+> assessee's activity under this segment does not include any revenue from
+> training, but the revenue of Kals Information Systems Ltd., for the purpose
+> of comparison includes income from training, this company ceases to be
+> comparable with the assessee's segment of `Software development services'.
+> Similar view has been taken by the Tribunal in the assessee's own case for
+> the immediately preceding assessment years 2006-07 and 2007-08. Respectfully
+> following the precedents, we hold that Kals Information Systems Ltd. (Seg.)
+> should be expunged from the set of comparables."
+
+36
+
+84\. No change of circumstances is brought to our notice either by the
+assessee ot the revenue, as such we do not find any reason to take a different
+view from the view taken by this Tribunal for the earlier year. We, therefore,
+consequently hold that this company is not a valid comparable to that of the
+assessee and has to be excluded from the final set of comparable companies for
+benchmarking international transaction related to software segment.
+
+LGS Global Limited:
+
+85\. Initially the assessee offered this company as a comparable, but the
+assessee claims to have found that this company is not a comparable and
+wrongly included in the final list of comparable companies. Inasmuch as the
+key determinative factor as far as the inclusion/exclusion of any company from
+the list of comparables is the functionality of an entity, we are of the
+considered opinion that this company has to be considered on the parameters of
+functionality and assessee cannot be prevented from challenging the same.
+
+86\. Page No. 26 of the 9th annual report 2007-08 of this company can be found
+at page No. 935 of the paper book clearly establishes that this company is
+engaged in a multifarious activities including an end to end service provider
+and offers variety of services. It is involved in product evaluation, design &
+development etc. of the products. Further, it also renders BPO services in the
+field of Human Resources, Life Sciences, Legal Services, Supply Chain
+Management, Sales, and Customer Support etc. Further, the financial statements
+lacks in providing the segmental results as well.
+
+37
+
+87\. Further reading of the notes forming part of the accounts vide schedule
+14 incorporated at page No. 971 of the paper book coupled with entries in
+scheduled 5 at page No. 966 thereof show that there is an exceptional
+circumstances during the year, i.e. the company has written off Goodwill,
+which arose on account of merger of Lanco Global Systems Inc.
+
+88\. In view of the vast functional diversity of this company as is evident
+from the "offerings of the LGS service and solution" to be found at page No.
+935 of its annual report coupled with the fact of the exceptional circumstance
+occurred during the year, we are of the considered opinion that this company
+is not a good comparable with the assessee and on that score it has to be
+excluded from the final set of comparable companies for the present year under
+consideration.
+
+Larsen & Toubro Infotech Limited
+
+89\. This company also was originally offered as a comparable by the assessee
+itself but now the assessee is challenging the said company before us.
+Undoubtedly this company is also a corporate giant and a reading of the annual
+report of this company incorporated from page No. 824 of the paper book shows
+that this company is into the manufacturing and product engineering services,
+besides which dealing with banking, financial services, insurance, energy and
+petrochemicals etc. Note No. 18 of the Notes on Account under the heading
+segmental reporting shows that segmental reporting of revenues of this company
+are on the basis of geographical location of the customers, but not on the
+functional segmental. Profit and loss account at page No. 838 of the paper
+book shows that the revenue is bifurcated under the head software development
+services and products on geographical basis like overseas and domestic.
+
+38
+
+90\. In view of the huge capital base, resources and other factors this
+company cannot be a comparable to the assessee and has to be excluded from the
+final list of comparable companies for benchmarking international transaction
+related to software segment.
+
+Mindtree Limited
+
+91\. Assessee sought the exclusion of this company on the ground of functional
+dissimilarity. However Ld. TPO included it on the ground that this company is
+deriving revenue from both software as well as ITES and sufficient segmental
+information is not available in the financial statements. Under the head "the
+business performance", at page No. 1010 of the paper book it is revealed that
+this company is structured into two business units that focus on software
+development R&D services, and IT services. It also offers IT Strategic
+Consulting, Application Development, Data Warehousing and Business
+Intelligence, Application Maintenance, Package Implementation, Product
+Architecture, Design and Engineering, Embedded Software, Technical Support,
+Testing and Infrastructure Management Service.
+
+92\. Further at page No. 27 of the annual report incorporated at page No. 1027
+of the paper book it is mentioned that on 17/12/2007 the company acquired
+hundred percent of the outstanding equity shares of TES PV and Projects
+Solutions Private Limited which was subsequently renamed as Mindtree
+Technologies Private Limited at a total consideration of Rs. 259.7 million
+equivalent to USD 6.55 million. It is further stated that as a consequence of
+this, the revenues of this company as on 31st March 2008 of Rs. 64.80 millions
+has been included in the above revenues for that year.
+
+39
+
+93\. Needless to say the vast functional dissimilarity coupled with the
+extraordinary event of acquisition of equity shares stated above suggests that
+this company is not a good comparable with the assessee and consequently is
+liable to be excluded from the list of comparables.
+
+Persistent Systems Limited:
+
+94\. The Assessee claims to have excluded this company from the list of
+comparables while preparing its TP study on the ground that this company was
+functionally different from the assessee. However, This company was selected
+as comparable by the TPO and the assessee, during the course of TP
+proceedings, opposed the inclusion of this comparable on ground of functional
+dissimilarity but the TPO selected it as the final comparable by rejecting the
+argument of the Assessee and holding that this company is deriving revenue
+from both software as well as products and insufficient segmental information
+is available in the financial statements.
+
+95\. It is evident from a reading of page numbers 1085, 1090, 1136, 1140,
+1154, 1162 & 1183 of the paper book containing the Annual Report of this
+company, that the company is engaged into software product development with
+complete life cycle and is functionally dissimilar to that of the Assessee.
+Further the profit and loss account at page No. 1154 of the paper book shows
+that the income from the sale of software services and products is bundled up,
+the schedule No. 11 forming part of profit and loss account at page No. 1160
+shows the segmentation on the basis of overseas and domestic. Item number 'L'
+at page No. 1166 under the heading "segment reporting policies" reads that the
+company has disclosed the segment information only on the basis of the
+consolidated financial  40 statements which shall be presented together with
+the unconsolidated inertial statements.
+
+96\. Further, in support of their plea that a company which is engaged in
+software development services, but, at the same time is also a software
+product company, is not a good comparable with the assessee, assessee placed
+reliance on Aircom (supra), in order to exclude this comparable company. The
+coordinate bench has rejected this comparable by making following
+observations:-
+
+> "19.2. We have heard the rival submissions and perused the relevant material
+> on record. It can be seen from the information supplied by this company u/s
+> 133(6) of the Act, a part of which has been reproduced in the TPO's order,
+> that this company 'has developed a few of its own products in the area of
+> identity management connectors.' Revenue from product licences stands at
+> Rs.288.93 million as against the revenue from software development services
+> at Rs.4829.57 millions. Though this company is more engaged in software
+> development services, but, at the same time is also a software product
+> company, which is evident from the information supplied by it to the TPO.
+> Thus, the total revenue of the company on entity level also, inter alia,
+> includes revenue from product licences. There is no information available
+> from the Annual report of this company or the data collected by the TPO u/s
+> 133(6) of the Act to divulge the amount of revenue from software development
+> services alone to the exclusion of revenue from product licences. In such
+> circumstances, it is not possible to ascertain the impact of such revenue on
+> the total revenue of this company. As the assessee is not engaged in the
+> sale of any software products, this company on entity level, cannot be
+> considered as comparable. The Delhi Bench of the Tribunal in the case of
+> Toluna India Pvt. Ltd. Vs. ACIT (ITA No.5645/Del/2011, vide its order dated
+> 26.8.2014 has held Persistent Systems Ltd. to be incomparable with Toluna
+> India Pvt. Ltd., also a company engaged in providing software development
+> services to its related parties alone. Similar view has been taken by the
+> Tribunal in Lear Automotive India Pvt. Ltd. Vs. ACIT (ITA No.5612/Del/2011)
+> vide its order dated 22.12.2014. The ld. DR could not point out any
+> distinguishing feature in the factual matrix of the assessee in question and
+> Toluna India Pvt. Ltd., and Lear Automotive India Pvt. Ltd. Respectfully
+> following the precedents, we order for the exclusion of this company from
+> the list of comparables."
+
+41
+
+97\. In view of the functional dissimilarity coupled with the fact of
+nonavailability of the segmental information, while respectfully following the
+decision in Aircom (supra), we hold that this company is liable to be excluded
+from the list of comparables.
+
+Quintegra Solutions Limited:
+
+98\. This company was offered as comparable by the Assessee itself, and there
+was no occasion for the learned TPO to controvert its functional similarity.
+However, The Assessee now contends that Quintegra Solutions Limited is not
+comparable and was wrongly included in the final list of comparable companies,
+on the ground that the company is functionally dissimilar to that of the
+Assessee as the company is engaged in providing end to end solutions and also
+deals in software products as well.
+
+99\. The overview of the company at page No. 1238 of the paper book clearly
+shows that this company is providing a full range of custom IT solutions (such
+as Development, Testing, Maintenance, ACAP, Product Engineering and
+Infrastructure Management Services), Proprietary Software Products and
+Consultancy Services in IT on various platforms and technologies. It also
+shows that this company combines horizontal expertise in IT with its vertical
+experience developed by working in a wide range of industries.
+
+100\. Further, from the table of fixed assets at schedule 5 incorporated at
+page No. 1260 it is clear that there has been an exceptional circumstance
+during the year, i.e. the company has acquired intellectual property rights in
+the nature of copyrights.
+
+42
+
+101\. The Assessee has placed reliance on Aircom (Supra) wherein, this
+comparable has been excluded on account of holding copyrights for the year
+under consideration. Relevant extracts from the order has been reproduced
+hereunder:
+
+> "20.1. The assessee initially treated this company as comparable in its TP
+> documentation. The TPO obtained information from this company which
+> transpired that it was into software development services. The assessee
+> objected to the same by contending that it had certain peculiar economic
+> circumstances. Not convinced with the assessee's submissions and considering
+> the information obtained from this company u/s 133(6) of the Act, the TPO
+> treated it as comparable. The assessee is aggrieved.
+
+> 20.2. Having heard the rival submissions and perused the relevant material
+> on record, we find from the Annual report of this company that it has
+> 'Copyrights' included in its Schedule of fixed assets with the closing
+> written down value at Rs.2.71 crore. This company has its own Software with
+> the closing balance of Rs.2.70 crore. Such software are also appearing in
+> the Schedule of fixed assets of this company on standalone basis. This shows
+> that this company is utilizing its software for rendering software
+> development services. In contrast, the assessee in question is not having
+> any software to be used in rendering software development services. It is,
+> therefore, held that this company cannot be considered as comparable not
+> only because of using its own software, but also having copyrights worth
+> Rs.2.71 crore to be used in its business. These crucial factors are absent
+> in the assessee's case. We, therefore, order for the exclusion of this
+> company."
+
+102\. Precisely for the same reason as stated in the above decision, we are of
+the considered opinion that this company is fit to be excluded from the list
+of comparables.
+
+R Systems International (Seg.)  43
+
+103\. Assessee objected the inclusion of this company in the set of
+comparables on the ground that this company was functionally different from
+the assessee. However, this company was selected as a comparable by the TPO
+and the assessee has argued for its exclusion on the ground that it
+functionally dissimilar to that of the Assessee as this company is engaged in
+the Outsourced Product Development and Customer Support Services. Further, it
+also offers low end BPO Services. Page No. 9 of the annual report of this
+company establishes this fact.
+
+104\. Having regard to the information furnished in the annual report of this
+company vide page numbers 1356, 1362, 1366, 1371, 1378 and 1380 of the paper
+book, we are convinced that that this company is not a pure software service
+provider but is engaged in development and sale of products and on the ground
+excludable from the final set of comparable companies for benchmarking
+international transaction related to software segment.
+
+Softsol India Limited (verifiable)
+
+105\. The Assessee objected this company from the list of comparable while
+preparing its TP study on the ground of related party transactions and also
+basing on the statement in the annual report to the effect that this company
+is a provider of e-commerce, network technology, Internet infrastructure and
+other special technology areas and has diverse client base ranging from large
+customers to small high-tech start-up companies.
+
+106\. Ld. TPO observed that the company at present is in various areas of
+software development industry and what is stated above in the annual report is
+a futuristic statement. Ld. TPO referred to para 2.1 to be found on page No.
+1533 of the paper book to the effect that no inventory is held, since the
+company is  44 engaged in developing software and providing IT solutions. This
+fact evidences that this company is confined only to software development and
+no yet into net work or internet infrastructure. Even the Profit and Loss
+Account to be found at page No. 1536 also shows that other than the other
+income, the company is a deriving income only from software exports. Even the
+Note 15 of the Notes on Account reads that there are no separate reportable
+segments. We do not find any material from the record that this company has
+actually been engaged in the activities like a) business of Software Products
+b) Software Development c) Training Services; and d) manufacture of vide range
+of products or that it provides end to end business solutions.
+
+107\. We therefore find it difficult that this company is functionally
+different from the assessee or that it is not a good comparable for want of
+any segmental information or related party information. We, therefore, find
+that this company has to be retained as a good comparable in the final list of
+comparables.
+
+Tata Elxsi Limited (Segmental)
+
+108\. At the outset it is brought to our notice that in assessee's own case
+for the assessment year 2007-08, a coordinate bench of this Tribunal
+considered the functional similarity of this comparable with the assessee and
+found that this company is not a suitable comparable in view of its different
+functions.
+
+109\. On a perusal of the order dated 18/05/2016 in ITA No. 5837/Delhi/2011 in
+assessee's own case, we found that this aspect of suitability of this company
+and its functional similarity was considered by this Tribunal. Vide paragraph
+No. 51 to 53 this Tribunal reached a conclusion that this comparable company
+is developing  45 hardware and software for embedded products, such as,
+multimedia and other electronics etc and is also making some programs
+developing technology in the form of intellectual property, as such the
+functional profile of the assessee company is not comparable to this company.
+
+110\. Further, the Appellant has placed reliance on Aircom (supra), in order
+to exclude this comparable company. The coordinate bench has rejected this
+comparable by making following observations:-
+
+> "22.2. After considering the rival submissions and perusing the relevant
+> material on record, we find that the TPO has adopted 'Software development
+> and services' segment which, in turn, consists of three sub-segments,
+> namely, Product design services (design and development of hardware and
+> software), Innovation design and engineering (mechanical design with a focus
+> on industrial design) and Visual Computing Labs (Animation and Visual
+> Effects). Since this company offers integrated hardware and packaged
+> software solutions, the same cannot be considered as comparable with the
+> assessee company, which is simply providing software related services. The
+> Tribunal in Toluna India Pvt. Ltd. VS. ACIT (2014) 151 ITD 177 (Delhi) and
+> Motorola Solutions India Pvt. Ltd. (supra), both of which were rendering
+> software development services, has treated this company as functionally not
+> comparable. We, therefore, order for the exclusion of this company from the
+> list of comparables."
+
+111\. No change of circumstances is brought to our notice either by the
+assessee or by the revenue, as such, by respectfully following the reasoning
+of this Tribunal in assessee's own case for the immediately preceding year, we
+conclude that this company is not a suitable one to be continued in the set of
+comparables. We therefore direct the exclusion of this company from the final
+set of comparable companies for benchmarking international transaction related
+to software segment.
+
+46
+
+COMPARABLE COMPANIES SOUGHT TO BE INCLUDED BY THE APPELLANT FOR BENCHMARKING
+OF ITS INTERNATIONAL TRANSACTION CG Vak Software Exports Limited
+
+112\. Assessee selected this company as a comparable. Though the Ld. TPO did
+not dispute the functional similarity of this company with the assessee,
+rejected the same on the ground that this company did not satisfy the employee
+cost filter of 25% and that its expenditure on employees was only 4.41% of the
+total cost. Ld. DRP did not entertain the argument advanced on behalf of the
+assessee that the ld. TPO has erred in not including the cost of services
+which represented the expenditure on salary and owing to this error the
+employee cost has come down to 4.41%.
+
+113\. On this aspect, assessee placed reliance on the order of a co-ordinate
+bench passed in the case of SAIC India (P.) Ltd. vs. DCIT [2016] 71
+taxmann.com 237 (Delhi - Trib.) wherein while dealing with the said comparable
+for AY 2008-09 it has been held as under:-
+
+> "49. Ld. TPO rejected this company as a comparable on the ground that it
+> fails employee cost filter; that employees cost should be more that 25% of
+> the total cost whereas assessee for benchmarking international transaction
+> applied the filter of employees cost more than 25% of the total sales.
+> However, assessee company proved on record that employees cost (cost of
+> service) as percentage of the total revenue of the company is 75.55%. During
+> the course of argument, ld. AR for the assessee has fairly conceded that
+> filter of employees cost more than 25% of total cost is to be applied in
+> this case.
+
+> 50\. Assessee brought on record profit and loss account for the year ending
+> 31.03.2008 lying at pages 771 to 775 wherein in column no.15 cost of
+> services has been duly described. When the filter of employees cost more
+> than 25% of total cost is to be applied of cost of services described in
+> column no.15 at page 774 of Volume IV of paper book, all the cost of  47
+> services are to be treated as salary and this comparable company qualifies
+> for inclusion in the final list o comparables. So, we are of the considered
+> view that this issue is again required to be reconsidered by the TPO by
+> taking into account the cost of services while applying the filter of
+> employees cost of more than 25% of total cost. So, we hereby restore the
+> issue to the TPO to decide afresh by providing opportunity of being heard in
+> the light of the observation made herein before."
+
+114\. Reliance in this regard is placed on another order of the co-ordinate
+bench in the case of Tata McGraw Hill Education (P.) Ltd. vs. ACIT [2016] 69
+taxmann.com 418 (Delhi - Trib.) wherein it has been held as under:-
+
+> "22. As regards CG VAK Software & Exports Ltd., the objections of ld. TPO
+> were that this comparable was functionally not comparable to the tested
+> party as it had employee compensation less than 25% and hence it failed
+> employee cost filter.
+
+> 23\. Before ld. DRP the assessee pointed out that the employee cost (cost of
+> services) as percentage of total revenue of the company was 75.55%. Ld. DRP
+> did not accept the assessee's contention that cost of services should be
+> taken as remuneration to employees by observing that in the annual report of
+> the company there was no expense such as 'salary cost' or 'remuneration to
+> employees' in its P&L A/c. Ld. DRP observed that assessee was drawing
+> conclusions on the basis of unsubstantiated presumptions and whenever there
+> is doubt about the functional comparability, it is better to drop such
+> comparable rather than indulging in presumptions. Ld. DRP did not accept the
+> assessee's contention that some companies may include employee cost as a
+> separate item in their financial statements while others may aggregate it
+> under the expenses such as administrative expenses, sales and marketing
+> expenses etc. Ld. DRP observed that employee cost is always shown as a
+> different line item in the profit and loss account.
+
+> 24\. Ld. counsel submitted that this comparable has been accepted in the
+> case of Kenexa Technologies Pvt. Ltd. (page 254 of the PB). Ld. counsel
+> submitted that this comparable passes the employee cost filter of more than
+> 25% as adopted by ld. TPO. He submitted that the employee cost is 46% of the
+> total cost. In this regard ld. Counsel referred to pages 56 & 57 of the PB,
+> wherein the objections raised before ld. DRP are contained in which it was
+> pointed out that ld. TPO nowhere cited any instances of functional
+> dissimilarity of this company vis-a-vis the assessee. Further, at  48 per
+> page 21 of the annual report of this company, schedule 15 to accounts, cost
+> of services has been shown as under:
+    
+    
+                         Cost of services               Amount (Rs.)
+    
+                                                        2,46,69,456
+                         Cost of services- Overseas
+                                                        1,78,34,926
+                         Cost of services- domestic
+                                                        11,63,991
+                         Transcription charges
+                                                        97,333
+                         Web designing charges
+                                                        8,29,092
+                         Staff welfare
+                                                        3,74,302
+                         Staff training
+                                                        12,04,280
+                         Contribution to PF & ESI
+                                                        38,270
+                         Gratuity
+                                                        1,28,951
+                         Ex Gratia
+                                                        8,66,766
+                         HRD expenses
+                                                        4,72,07,367
+                         Total
+    
+    
+
+> Further, in the annual report of the company, there was no expense, such as
+> salary cost or remuneration to employees.
+
+> 25\. We have considered the submissions of both the parties. We are in
+> agreement with the ld. counsel for the assessee that since there was no
+> separate expenditure shown under the head 'salary/ remuneration', the sub-
+> head 'cost of service', primarily refers to employees cost. The items under
+> this sub-head such as contribution to PF, ESI, gratuity and ex gratia
+> payment clearly shows that all these expenses were towards employees
+> remuneration. We, therefore, restore this matter to the file of TPO to apply
+> the employee filter correctly and if it is found that the employee cost is
+> more than 25% then this comparable is to be included in the list of
+> comparables selected by TPO."
+
+115\. We have gone through the Annual Report of the assessee company for the
+year 2008. In schedule 15 thereof incorporated at Pg. 21 of the hand out  49
+under the head "Cost of services" there is a mentioning of the amounts of Rs.
+2,46,69,456/- & 1,78,34,926/-. Since there is no separate expenditure shown
+under the heading "salary/remuneration", the subhead "cost of service"
+invariably refers to employees cost. In view of the findings of a coordinate
+bench of this Tribunal in SAIC (supra), we find that this cost of service was
+towards employees remuneration. With this view of the matter, we set aside
+this issue to the file of the Ld. TPO/AO to apply the employee cost filter
+correctly and if it is found that the employee cost is more than 25% then this
+comparable is to be included in the list of comparables selected by the Ld.
+TPO.
+
+SIP technologies Limited:
+
+116\. This company selected by the assessee was rejected by the TPO on the
+ground of diminishing revenues. Ld. DRP also held that the companies having
+diminishing revenues/persistent losses for the previous 3 years were
+exceptions and refused to interfere with the findings of the Ld. TPO.
+
+117\. It is submitted by the Ld. AR that this company was accepted as
+functionally comparable to the assessee by the Department as well as by a
+Coordinate Bench of this Tribunal in assessee's own case for the previous
+assessment year of 2007 -
+
+08\. It is argued by the Ld. AR that the diminishing revenue filter is invalid
+for the simple reason that revenue is not a true indicator of the performance
+of company as during its business life cycle owing to changing economic
+conditions, a company could have variation in its revenue pattern over a
+period of time. For example a company with increasing revenues over a period
+of time does not necessarily reflect that it is performing better as the
+corresponding increase in expenses could be higher than revenues and the
+company might still incur losses.
+
+50
+
+Similarly, a company with diminishing revenues over a period of time need not
+imply that the performance of the company is deteriorating as it might still
+have good profit margin on account of cost efficiency i.e. minimizing/
+reducing its expenses. Therefore, the net operating margin of the company with
+increasing revenues over a period of time is a better indicator of the
+performance of the company. Thus it is submitted that excluding companies
+having persistent losses is a more appropriate filter and on this basis,
+assessee himself has excluded companies which have shown persistent losses. It
+is further submitted by the Ld. AR that the Ld. DRP as well as TPO has taken a
+stand that such diminishing revenue goes against the industry trend, that
+there can be nothing farther from the truth as variance in profitability is
+the very essence of business and which more than demonstrates the arm's length
+character prevalent in a free market economy, and it would defy commercial
+logic and rationale, and economic business cycle if every company were to only
+make profits and increase profits year after year. Low profits in some years
+and losses in some years is a business reality. If one were to go with the
+logic assumed by the learned TPO, every company should have increasing
+revenues and the company which has lower profits or returns losses should
+discontinue business operations because it would not represent an arm's length
+nature of business.
+
+118\. Ld. AR submits that this position has now been accepted by the Delhi
+High Court and various benches of this Tribunal. In a recent order passed by
+the co- ordinate bench in case of Aithent Technologies (P.) Ltd. vs. DCIT
+[2016] 74 taxmann.com 214 (Delhi-Trib.) on the adoption of diminishing revenue
+filter it has been held as under:-
+
+51
+
+> "14.3 A careful perusal of the pattern of profit/loss earned by the assessee
+> as per its audited accounts divulges that as against the current year's
+> profit of Rs. 62.39 lac, the earlier years' profit was Rs. 92.74 lac. This
+> manifests that the profit for this year has diminished from the earlier
+> year. When we consider the figures of losses for the financial years 2005-06
+> and earlier years, it comes to light that there were losses right from
+> financial year 2002-03 up to 2005-06. On an overview of the above extracted
+> Table, it can be seen that the assessee's profit is not steady, but, has
+> diminished during the instant year from the preceding year. In such a
+> situation, if we exclude the companies having diminishing profits, it would
+> mean that the companies whose profit pattern is also similar to that of the
+> assessee would face the axe. Doing so would mean excluding the comparable
+> companies from the final tally, which is not appropriate. However, the
+> companies having persistent losses, obviously, cannot be compared with the
+> assessee because it has earned positive income not only in this year, but,
+> in the preceding year as well. We, therefore, hold that the companies having
+> diminishing revenue should not be excluded, but, only the companies having
+> persistent losses should be expelled from the final tally of comparables."
+
+119\. While following the decision of the Hon'ble Delhi High Court in the case
+of Chryscapital Investment Advisors (India) (P.) Ltd. this view has further
+been affirmed by another co-ordinate bench of this ITAT in case of Vestergaard
+Asia (P.) Ltd. vs. DCIT [2017] 88 taxmann.com 313 (Delhi-Trib.) wherein the
+court has observed that :-
+
+> "28. This comparable sought to be included by the assessee was rejected by
+> the TPO on the ground that its revenue is continuously diminishing over the
+> years.
+
+> .....................
+
+> 30\. The Ld. DR on the other hand argued that the revenue of the company has
+> been reducing over a number of years. This fact indicates that the company
+> is undergoing abnormal/exceptional circumstances and therefore its margins
+> cannot be taken as reflecting those of the industry. He vehemently argued
+> that this company should be excluded from the comparability analysis.
+
+> .............
+
+52
+
+> 33\. As regards the argument of diminishing revenue, we note that the
+> reduction of revenue from FY 2009-10 (3.99 crore) to FY 2010-11 (3.98 crore)
+> is approximately Rs. 1 lac. In our view, such a minor difference in revenue
+> cannot be taken to mean that the company is undergoing abnormal
+> circumstances and should be rejected. Even otherwise, if the functional
+> similarity of the company with the assessee is accepted, the same should not
+> be rejected simply because of difference in revenue. Our view is supported
+> by the decision of the Hon'ble Delhi High Court in the case of Chryscapital
+> Investment Advisors (India) (P.) Ltd. (supra), in which it was observed:
+
+> "'33. Such being the case, it is clear that exclusion of some companies
+> whose functions are broadly similar and whose profile - in respect of the
+> activity in question can be viewed independently from other activities-
+> cannot be subject to a per se standard of loss making company or an
+> "abnormal" profit making concern or huge or "mega" turnover company. As
+> explained earlier, Rule JOB (2) guides the six methods outlined in clauses
+
+> (a) to (f) of Ride 10B(1), -while judging comparability. Rule JOB (3j on the
+> other hand indicates the approach to be adopted where differences and
+> dissimilarities are apparent. Therefore, the mere circumstance of a company
+> - otherwise conforming to the stipulations in Rule 10B (2) in all details,
+> presenting a peculiar feature - such as a huge profit or a huge turnover,
+> ipso facto does not lead to its exclusion. The TPO, first, has to be
+> satisfied that such differences do not "materially affect the price...or
+> cost"; secondly, an attempt to make reasonable adjustment to eliminate the
+> material effect of such differences has to be made.'" In light of the above,
+> we direct the TPO to include this company in the list of comparables."
+
+120\. With regards to Revenue's stand that SIP technologies need to be
+rejected on the ground that it suffered losses, it is submitted on behalf of
+the assessee that for the filter of persistent losses to come into play it
+should be shown that the comparable under dispute has incurred losses for
+three preceding years including the assessment year in question. Reliance in
+this regard is placed on the Pune ITAT order in case of Bobst India (P.) Ltd.
+vs. DCIT [2015] 63 taxmann.com 339 (Pune-Trib.) wherein the bench observed
+that a company can be rejected as persistent loss maker only if it has
+incurred losses for more than 3 years. In the  53 present case in the
+immediate preceding year the comparable company has showed operating profit of
+13.90%, thus, as the company has not suffered losses and its functionality has
+not been challenged by the TPO, it becomes clear that there is no valid ground
+to exclude this company as comparable.
+
+121\. On a careful consideration of the factual and legal position, we find
+that this company is a valid comparable to the assessee and, therefore, has to
+be included in the final set of comparables.
+
+Indium Software India Ltd.
+
+122\. This company was selected as comparable by the assessee in its TP study,
+but this company was rejected by the Ld. TPO on the ground that this company
+was engaged in software testing and thus was not functionally comparable to
+assessee.
+
+123\. Ld. AR argued for the inclusion of this company on the ground that
+Indium Software (India) Limited is an STPI unit registered under the Software
+Technology Park of India, and is proven leader in offering testing services
+across a wide range of technologies.. Further the assessee relied on Schedule
+13 of the P&L which shows that Indium software is generating revenue through
+software services. It can be seen that one of the activities undertaken by the
+assessee is testing services for its AEs, which further, corroborates the
+selection of Indium as a comparable.
+
+124\. We have gone through the order of the Ld. TPO and vide paragraph number
+10.5.1 it is recorded that the indium software has been a leading software
+testing/QA services company focusing on independent objective and highly  54
+specialized in software testing. The profit and loss account of this company
+under the head income shows that the revenue is bundled up for both software
+services and training, besides sales of software and other income. In Schedule
+12 of the Profit and Loss Account, software services and training bifurcated
+the income from software services in export and domestic segments. No separate
+financials in the lines of functional segments of software services and
+training are available. Further, software testing is only a part of software
+development in which the assessee is, and software testing cannot be compared
+to the whole segment of development of software.
+
+125\. With this view of the matter we do not find this company to be a good
+comparable to the assessee and on this premise we reject the contention of the
+assessee. Findings of the Ld. TPO and the Ld. DRP are confirmed.
+
+WORKING CAPITAL ADJUSTMENT:
+
+126\. It is submitted on behalf of the assessee that the TPO has not given
+working capital adjustment to account for difference in working capital
+employed by the Assessee. While rejecting the objections raised by the
+assessee, Ld. DRP observed that ".... To carry out the adjustment, the
+availability of relevant information to accurately identify the difference and
+then quantify impact of such difference is a pre-requisite. In this case, we
+only know the amount of working capital deployed by the comparables on the
+first and last day of the accounting period. We have no means to ascertain the
+working capital deployed by the comparables through the year. In fact, the
+working capital adjustment should be computed on the basis daily average of
+working capital deployed by the tested party and each of comparables,
+respectively. The assessee has taken the average of the amount of working
+capital deployed by the comparables on the first and last day of the
+accounting  55 period to compute the working capital adjustment. It is quite
+probable that daily average is substantially difference from the average of
+the amount of working capital deployed by the comparables on the first and
+last day of the accounting period. The adjustment for functional differences
+etc. is to be allowed only if it can be ascertained with reasonable accuracy
+which is impossible in this case because of unavailability of relevant data.
+Therefore, this panel endorses the proposal of the AO to disallow the working
+capital adjustment claimed by the assessee".
+
+127\. Revenue does not dispute the submission on behalf of the assessee that
+the working capital adjustment was given by the TPO in previous assessment
+year (AY 2007-08).
+
+128\. Assessee also relied upon the order of this Tribunal in SAIC India (P.)
+Ltd. v.Deputy Commissioner of Income-tax, Circle 7(1), New Delhi - [2016] 71
+taxmann.com 237 (Delhi - Trib.)/[2016] 181 TTJ 145 (Delhi - Trib.) dealing
+with the similar issue. It was held as follows:
+
+> "53. However, ld. AR contended that identical issue has been decided by the
+> Tribunal in case cited as Qualcom India (P.) Ltd. v. Asstt. CIT [2014] 147
+> ITD 17/[2013] 37 taxmann.com 306 (Delhi - Trib.).
+
+> 54\. Coordinate Bench in the judgment cited as Qualcom India Pvt. Ltd.
+> (supra) determined the issue of working capital adjustment to account for
+> difference in working capital employed by assessee vis-à-vis comparable
+> companies in favour of the assessee by making following observations :--
+
+> "41. Considering the above submissions we concur with the submission of the
+> Ld. DR that the issue raised in ground No. 6 & 7 on account of working
+> capital adjustment and risk adjustment depend upon the fact and
+> circumstances of each case. But at the same time we are of the view that
+> these factors are equally important to consider while selecting comparable
+> companies. In the present case the assessee is engaged in the business of
+> software development and providing marketing services, hence there is no
+> dispute that appropriate adjustment to account for difference in working
+> capital employed by the assessee vis-a-vis the comparable companies for
+> software development services is required to be considered.
+
+56
+
+> Similarly making of suitable adjustments to account for differences in the
+> risk profile of the assessee vis. a vis. the comparable companies for
+> software development services is also required to be considered. Of course
+> these adjustments on account of working capital and risk is to be made after
+> analyzing the case of the assessee since it depends upon the facts of the
+> case of the assessee. The request for such adjustments cannot be summarily
+> rejected unless some analysis of the case of the assessee is made vis-a-vis
+> comparables companies. We thus set aside the matter to the file of the Ld.
+> TPO/AO to consider these aspect of adjustment while deciding the issue
+> afresh vis-a-vis the comparable companies in the business of software
+> development as discussed hereinabove in the present order of the Tribunal.
+> It is needless to mention over here that while considering these aspects
+> opportunity would be given to the assessee to present its case in this
+> regard. The assessee is required to cooperate with the Ld. TPO in furnishing
+> the details, break up, datas, etc. or any other necessary information to the
+> satisfaction of the TPO so that reasonably accurate adjustment, if any, can
+> be made as per Indian Transfer Pricing Law (i.e. Rule 10B (3)(iii)) on
+> account of risk and working capital. Ground No.6 & 7 are thus allowed for
+> statistical purposes."
+
+55\. Identical issue has also been dealt with by the ITAT, Delhi Bench 'E',
+New Delhi in case cited as Nokia India (P.) Ltd. v. Addl. CIT [2012] 51 SOT
+286/20 taxmann.com 810 and determined the issue in favour of the assessee by
+returning the following findings :--
+
+> '5.1 Thus it is the contention of the ld. counsel of the assessee that the
+> TPO while determining the arm's length price of the subject international
+> transaction during assessment year 2006-07 ignored the fact the assessee has
+> been granted the benefit of the working capital adjustment during A.Y.
+> 2005-06 by himself and the fact the same has also been allowed by his
+> predecessors during the transfer pricing assessment proceeding for A.Y.
+> 2002-03 till A.Y. 2004-05 despite the constraints mentioned in the transfer
+> pricing order. Thus, it is the contention of the assessee that there is no
+> change in the business model of the assessee with respect to the provision
+> of contract software development services of the assessee vis-a-vis A.Y.
+> 2005-06, the benefit of working capital adjustment should be allowed to the
+> assessee in the subject year under appeal as well.
+
+57
+
+5.2 Ld. counsel of the assessee has further submitted that Rules 10B(1)(e) of
+the Rules prescribe that at the time of application of Transactional Net
+Margin Method, the net profit margin needs to be adjusted to account for the
+difference if any between the international transaction and comparable
+uncontrolled transactions. The relevant text of the provisions is reproduced
+below for reference:
+
+> "10B Determination of arm's length price under section 92C- (1) For the
+> purposes of sub-section (2) of section 92C, the arm's length price in
+> relation to an international transaction shall be determined by any of the
+> following methods, being the most appropriate method, in the following
+> manner, namely :-
+
+> (a) to (d)** ** **
+
+> (e) transactional net margin method, by which,--
+
+> "(iii) the net profit margin referred to in sub-clause (ii) arising in
+> comparable uncontrolled transactions is adjusted to take into account the
+> differences, if any, between the international transaction and the
+> comparable uncontrolled transactions, or between the enterprises entering
+> into such transactions, which could materially affect the amount of net
+> profit margin in the open market;"
+
+> ........."
+
+The ld. counsel has further submitted that the Hon'ble Delhi, ITAT has also
+upheld the need of making working capital adjustment in following judgments.
+
+Mentor Graphics (Noida)(P.) Ltd. v. Dy. CIT [2007] 109 ITD 101/18 SOT 76
+(Delhi) Sony India (P.) Ltd. v. Dy. CIT [2008] 114 ITD 448 (Delhi) Thus in
+light of the provisions of Rule 10B(1)(e) and the Hon'ble ITAT judgments, it
+has been pleaded to grant the Appellant the benefit of working capital
+adjustment.
+
+5.3 Ld. Departmental Representative on the other hand relied upon the order of
+the TPO.
+
+5.4 The DRP in its order has not dealt with the issue properly and has held
+that for the sake of consistency and to protect the interest of the revenue,
+the adjustment made by the TPO has to be upheld.
+
+58
+
+6\. We have carefully considered the submissions in light of the material
+produced and precedent relied upon. It is an undisputed fact that on the same
+set of facts and in the same business model the assessee has been provided the
+working capital adjustments in the preceding assessment years. Under the
+circumstances, in our considered opinion, it was incumbent upon the TPO to
+consider the same in the current year.'
+
+56\. Keeping in view the fact that the issue in question has been settled in
+the cases cited as Qualcom India (P.) Ltd. (supra) and Nokia India (P.) Ltd.
+(supra) and the fact that assessee in this case is engaged in providing
+software development services to its group companies and to arrive at ALP of
+the international transactions, the ld. TPO / DRP resorted to comparability by
+selecting different sets of comparable companies and after applying the
+various filters, the ld. TPO selected 10 comparable companies as mentioned in
+para 8.7 of his order, the appropriate transfer pricing adjustment can only to
+be made qua the international transaction undertaken by the assessee company
+during the year under assessment on the basis of its comparability vis-à-vis
+comparable companies, by providing working capital adjustment to the assessee
+in view of the provisions contained under Rule 10B(1)(e) also. So, we are of
+the considered view that the matter is required to be restored to the TPO to
+provide the assessee company the benefit of working capital adjustment for
+transfer pricing adjustment."
+
+129\. In view of this legal and factual position , we consider it just and
+proper to direct the Ld. TPO to grant working capital adjustment to account
+for difference in working capital employed by the Assessee and the comparable
+companies.
+
+130\. In the result, appeal of the assessee is allowed in part and for
+statistical purposes.
+
+The order is pronounced in the Open Court on 16th February, 2018.
+
+    
+    
+          Sd/-                                                sd/-
+       ( N.K. SAINI )                                 (K. NARASIMHA CHARY)
+     ACCOUNTANT MEMBER                                 JUDICIAL MEMBER
+     Dated : the 16th February , 2018/ VJ
+                                         59
+    
+    
+    Copy of the Order forwarded to :-
+     1. Appellant;
+     2. Respondent;
+     3. CIT;
+     4. CIT (Appeals);
+     5. DR, ITAT, ND.
+                                             BY ORDER
+    
+                                             ASSISTANT REGISTRAR
+                                         60
+    
+    
+    
+    
+                                                                Date
+    Draft dictated on                                  137.02.2018
+    Draft placed before author                         .02.2018
+    Draft proposed & placed before the second member
+    Draft discussed/approved by Second Member.
+    Approved Draft comes to the Sr.PS/PS
+    Kept for pronouncement on
+    File sent to the Bench Clerk
+    Date on which file goes to the AR
+    Date on which file goes to the Head Clerk.
+    Date of dispatch of Order.
+     
+

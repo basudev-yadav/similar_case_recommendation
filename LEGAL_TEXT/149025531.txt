@@ -1,0 +1,1765 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+M/S Yakult Danone India Pvt. ... vs Dcit, New Delhi on 29 March, 2019
+
+    
+    
+                  IN THE INCOME TAX APPELLATE TRIBUNAL
+                   DELHI BENCHES: Bench I-2 NEW DELHI
+    
+                BEFORE SHRI R.K.PANDA, ACCOUNTANT MEMBER
+                  AND SMT. BEENA A PILLAI, JUDICIAL MEMBER
+    
+    
+                              ITA No. 996/Del/2016
+                                   A.Y. 2011-12
+          Yakult Danone India P Ltd.           D.C.I.T. Circle 27(1)
+               st
+          16, 1 Floor                     vs. New Delhi
+          Community Centre
+          Okhla Industrial Area, Phase I
+          New Delhi
+    
+          PAN: AAACY2585R
+                   (Appellant)                     (Respondent)
+    
+    
+                Assessee by          Sh. Himanshu Sinha, Adv. &
+                                     Ms.Vrinda, Adv.
+    
+                Revenue by          Sh. HK Choudhary, CIT, D.R.
+    
+                Date of Hearing     20/02/2019
+                Date of             29/03/2019
+                Pronouncement
+    
+                                     ORDER
+    
+
+PER BEENA A PILLAI, JUDICIAL MEMBER Present appeal has been filed by assessee
+against final assessment order dated 29/12/15, passed by Ld.AO under section
+143 (3) read with section 144C (4) of the act on following grounds of appeal:
+
+" Grounds The following grounds of appeal are mutually exclusive of and
+without prejudice to each other.
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited General
+Ground of Appeal
+
+1\. That Ld. Assessing Officer ("AO") /Hon'ble Dispute Resolution Panel
+("DRP")/ Ld. Transfer Pricing Officer ("TPO") erred in assessing the loss of
+the Appellant at INR. 267,771,897/- as against returned loss of INR
+337,317,454 under normal provisions of the Act. Transfer Pricing Ground of
+appeals
+
+2\. The Ld.TPO/AO/DRP have erred in making an adjustment under section 92CA
+(3) of the Act without returning a finding about existence of any of the
+circumstances specified in clauses (a) to (d) of sub-section (3) of section
+92C of the Act.
+
+3\. The Ld. TPO/AO/ Hon'ble DRP have erred in computing an adjustment of INR
+6,95,45,557/- to the total income of the Appellant on account of adjustment in
+arm's length price ("ALP") of the alleged international transaction pertaining
+to Advertisement, Marketing and Promotional ("AMP") expenditure entered into
+by the Appellant with its Associated Enterprise ("AE").
+
+4\. The Ld. TPO/ AO/ DRP have erred in holding AMP expenditure as a separate
+international transaction under section 92B of the Act and assuming
+jurisdiction to determine the ALP thereof, when such expenditure represents
+only domestic transactions with unrelated parties and does not satisfy the
+requisites of being an international transaction under section 92B read with
+section 92F(v) of the Act.
+
+5\. The Ld. TPO/ AO has erred in treating expenses incurred by the Appellant
+on account of AMP as an 'international transaction', without considering the
+fact that the Appellant is a full risk bearing licensed manufacturer.
+
+6\. The Hon'ble DRP/Ld. TPO/ Ld. AO erred in not considering that the Gross
+Profit ("GP") rate of the Appellant is very high vis-a-vis comparable
+companies and "remuneration/compensation" for AMP expenses (if warranted) may
+be considered to subsumed in the GP earned from its manufacturing activities.
+
+7\. The Hon'ble DRP/ Ld.TPO/Ld. AO have grossly erred in applying the ratio of
+AMP/GP to determine the Arm's Length Price ('ALP") of the alleged transaction
+of AMP for computing adjustment  2 ITA 996/Del/2016 AY: 2011-12 Yakult Danone
+India Private Limited when the same is not a prescribed method under the
+purview of section 92C of the Act, thereby rendering analysis based thereon as
+illegal, null and void.
+
+8\. The learned TPO/AO/DRP have erred in applying AMP/GP ratio, given the
+fallacies and deficiencies associated therewith, and inferring that AMP
+expenses incurred by the Appellant are "excessive" on that basis by
+considering a set of inappropriate companies as comparable to the Appellant.
+
+9\. Without prejudice to the contention that AMP expenses were incurred for
+the purpose of enhancing sales in India, the learned TPO/AO/Hon'ble DRP have
+grossly erred in considering direct sales expenses like sales promotion and
+selling expenditure as a part of AMP expenses while computing the adjustment
+in relation to the alleged international transaction, as they do not lead to
+brand building.
+
+10\. That the learned TPO/AO/DRP have erred in :
+
+a. Not appreciating the functional profile of the Appellant (according to
+which, incurrence of AMP expenses is an integral part of its roles and
+responsibilities);
+
+b. Re-characterizing the Appellant as a limited risk distributor and requiring
+the Appellant to earn its remuneration in accordance with such re-
+characterized business model;
+
+c. Ignoring the fact that AMP expenses incurred by the Appellant were in
+respect of its own business considerations, were incurred to penetrate the
+market (since the Appellant launched a new unique product i.e.probiotic
+fermented milk)) and any benefits resulting from such expenditure accrue to
+the Appellant and benefit, if any to the AE is purely incidental in nature;
+
+d. Erroneously assuming that the Appellant had rendered services to its AE by
+incurring AMP expenses and holding that it should earn a mark-up on the
+allegedly incurred excessive AMP expenditure.; and  3 ITA 996/Del/2016 AY:
+2011-12 Yakult Danone India Private Limited e. Applying GP/AMP ratio as the
+mark-up percentage for the alleged services provided by the Appellant to the
+AE towards AMP activities.
+
+11\. The learned TPO/ AO/DRP have erred, on facts and circumstances of the
+case.
+
+in:
+
+a. Holding that advertising is done for brand promotion and not for product
+promotion; and b. Computing adjustment thereon, without appreciating that no
+expenditure attributable to brand promotion can be separately identified.
+
+Corporate tax Ground of Appeals
+
+12\. That on facts and in laws, the Ld. AO erred in holding that the appellant
+has furnished inaccurate particulars of income in respect of each item of
+disallowance/ additions and in initiating penalty proceedings under section
+274 read with section 271 (1) (c) of the Act. The appellant craves leave to
+submit such further grounds at or before the hearing of the appeal, so as to
+enable your Honour to decide the appeal according to law."
+
+2\. Brief facts of the case are as under:
+
+Assessee filed its return of income on 29/11/11 declaring loss of
+Rs.33,73,17,454/-, which was processed under section 143 (1) of the Income Tax
+Act, 1961 (the Act). The case was selected for scrutiny and statutory notices
+under section 143(2) of the Act was issued. In response to statutory notices,
+representative of assessee appeared before Ld. AO and filed requisite details
+as called for. 2.1. Ld.AO observed that during year under consideration
+assessee was engaged in business of manufacturing dairy products. From records
+it was further observed that assessee has entered into international
+transactions with associated enterprises  4 ITA 996/Del/2016 AY: 2011-12
+Yakult Danone India Private Limited during year. Ld. AO called for details of
+international transaction and a reference was made under section 92 CE to
+Transfer Pricing Officer (TPO) for determining arm's length price of
+international transaction entered into by assessee with its associated
+concerns. 2.2. Ld.TPO observed that assessee is a joint venture between Yakult
+Honsha of Japan and Group Pay Denon of France with 50:50 shareholding. He
+observed that assessee has been set up to manufacture and sell probiotics milk
+in India. It has also been observed by Ld. TPO that assessee has set up its
+manufacturing facility at Rai, Sonepat (Haryana). It has also been observed
+that assessee commenced its commercial production from 18/12/07. 2.3. Ld.TPO
+records that assessee is a sole manufacturer of Yakult's group products in
+India and performs all business functions relating to sale of such products
+such as identifying customers, negotiating purchase terms, arranging the
+necessary resources, undertaking sales promotion activities etc. 2.4. It has
+also been observed by Ld.TPO that during year assessee entered into following
+international transactions disclosed in form 3 CEB:
+
+    
+    
+    
+    
+    No.    Nature of transaction   Most            Profit          Value of
+                                   Appropriate     Level           transaction:
+                                   Method as per   Indicator       Rs.
+                                   TP study        (PLI) as
+                                                   per TP
+                                                   Study
+    1.     Purchase of raw and TNMM                OP/OC           1,21,02,574
+           packing material
+    2.     Purchase of stores and TNMM                                12,30,252
+           spares
+    
+                                                                                     5
+                                                                ITA 996/Del/2016 AY: 2011-12
+                                                         Yakult Danone India Private Limited
+    
+    
+    3.    Payment of Royalty           TNMM                                13,55,782
+    4.    Reimbursement of             No bench                             5,75,745
+          expenses to AE (in the       marking
+          nature of travelling &       required
+          other expenses)paid
+    5.    Reimbursement of             No bench                            90,66,471
+          expenses by AE (in the       marking
+          nature of travelling &       required
+          other expenses)paid
+    
+    
+    
+
+2.5. Ld.TPO,after calling for various details/explanations/evidences and on
+consideration of same proposed adjustment with respect to AMP expenses
+incurred by assessee as he was of view that assessee has carried out brand
+building activities, for benefit of its AE's, for which assessee has been
+adequately compensated. Ld. AO was of the opinion that assessee do not have
+any right on trademarks and brands/trade name or any other marketing
+intangibles in India and such brands are owned by its AEs outside India and
+therefore expenditure incurred on AMP activities was for advantage of AEs.
+Ld.TPO accordingly applied bright line approach and computed adjustment as
+under:
+
+    
+    
+    Particulars                                              Amount (Rs.)
+    Total expenditure on AMP                                 6,45,14,654
+    Sale of assessee                                         10,19,46,703
+    AMP as a % of sales of assessee                          63.28%
+    
+
+Arm's length level of AMP % (as per the 'bright line') 0.75% Arm's length
+level of AMP expenses 7,64,600 Amount spent in excess of 'bright line' and on
+6,37,50,054 creation of marketing intangible Mark-up (PLR of SBI) 12.25%
+Amount by which the assessee should have been 7,15,65,810 reimbursed by AE  6
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 2.6.
+Aggrieved by proposed AMP adjustment, assessee raised objections before DRP,
+who upheld stand of Ld.TPO regarding AMP being an international transaction.
+However following decision of Hon'ble Delhi High Court in case of Sony Ericson
+Mobile Communication India (P) Ltd vs. CIT reported in (2015) 55 Taxmann.com
+240, DRP directed for exclusion of routine selling and distribution expenses
+while computing AMP of comparables. DRP also directed that only comparables
+where similar expenses have been incurred should be considered while matching
+with assessee, as per direction of Hon'ble Delhi High Court in case of Sony
+Ericson Mobile Communication India (P) Ltd vs. CIT (supra). DRP also directed
+to use Cost Plus method, to calculate markup on excessive AMP expenses as per
+Rule 10(1)(c)(ii) of IT Rules 1963 which is GP/sales of comparable companies
+selected.
+
+Subsequently Hon'ble Delhi High Court in case of Maruti Suzuki India Ltd.,
+Reported in (2015) 64 Taxmann.com 150 in which Hon'ble Court held that AMP
+expenses incurred by Maruti Suzuki India cannot be treated and categorised as
+an international transaction based upon which assessee in present facts of
+case filed application for rectification before DRP. DRP however relied upon
+decision of Sony Ericson (supra) passed by Hon'ble Delhi High Court.
+
+2.7. Finally pursuant to DRP directions, Ld. AO passed impugned assessment
+order incorporating the transfer pricing adjustment proposed by Ld. TPO vide
+order dated 29/12/15 and reduced adjustment to Rs. 6,95,45,557/-.
+
+7
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 2.8.
+Aggrieved by adjustment made by Ld. AO, assessee is in appeal before us now.
+
+3\. It has been submitted that Ground No. 1 is general in nature and therefore
+do not require adjudication.
+
+4\. Ld.Counsel submitted that Ground No. 2-11 are regarding adjustment of Rs.
+6.95 crores made on account of AMP expenses. He submitted that Ld.TPO applied
+bright line test, which was originally sanctioned by Special Bench of this
+Tribunal in case of LG Electronics vs ACIT reported in (2013) 29 Taxmann.com
+300. He submitted that said approach has been overruled by Hon'ble Delhi High
+Court in case of Sony Ericson Mobile Communications India Pvt. Ltd., (supra)
+and Maruti Suzuki India Ltd (supra). Ld.Counsel argued that, bright line test
+method is not the prescribed method under Indian Income Tax laws.
+
+4.1. Ld.Counsel submitted that, assessee incurred AMP expenditure where
+payments have been made to unrelated parties, in respect of its business
+operation in India, to boost its sales in India. It has been submitted that,
+these expenses are incurred to penetrate into market, and to educate consumers
+in India about its novel and niche product. Ld.Counsel placing reliance upon
+chart, submitted that, OP/sales of assessee reduced from -302.45% in financial
+year 2010-11 to -22.67% in financial year 2017-18. It has been submitted that
+assessee is on its way to achieve break-even in the next couple of years.
+
+8
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 4.2. It is
+submitted that, adjustment made by Ld.TPO is not sustainable for various
+reasons. Ld.Counsel submitted following prepositions:
+
+(i) No "international transaction" involved: Placing reliance upon Section
+92B(1) of the Act, Ld.Counsel submitted that 'international transaction' has
+been defined to mean 'transaction' between two or more 'associated
+enterprises', either or both of whom are non-residents, for purchase, sale or
+lease of tangible or intangible property, or provisions of services, etc. He
+submitted that, said section provides that, term 'international transaction'
+would include 'mutual agreement' or 'arrangement' between two or more
+associated enterprises for allocation or apportionment of, or contribution to
+any cost incurred in connection with any benefit or service provided to any
+such enterprise.
+
+(ii) He submitted that section 92B, for a transaction to be termed as
+International transaction, it has to fit into either of two limbs, viz; 
+There must be a transaction and such transaction must be between associated
+enterprises.
+
+or  There should be mutual agreement or arrangement between two or more
+associated enterprises for allocation or apportionment of or contribution to
+any cost or expense incurred in connection with benefit, service or facility
+provided to one or more of the associated enterprises.
+
+9
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 4.3.
+Ld.Counsel submitted that, it is neither the case of Revenue that, there
+existed a mutual agreement or arrangement for allocation or apportionment of,
+nor, any contribution by AEs to any cost or expense incurred by assessee
+towards advertisement, marketing and promotion in India. Ld.Counsel submitted
+that, Ld.TPO can assume jurisdiction to undertake benchmarking of AMP
+expenses, incurred by assessee, under section 92(2) of the Act, only if it
+gives give rise to an international transaction in terms of section 92B. He
+submitted that, facts of case in hand are specific and jurisdiction assumed by
+Ld.TPO to undertake benchmarking of AMP expenses incurred by assessee in
+course of carrying on of its business, cannot be sustained.
+
+4.4. He vehemently submitted that expenditure unilaterally incurred by
+assessee for purposes of its business, cannot give rise to a transaction or
+international transaction, between associated enterprises, so as to be covered
+under section 92B of the Act. He placed reference to Clause (v) of section 92F
+of Act defines term transaction is as under:
+
+"(v) "transaction " includes an arrangement, understanding or action in
+concert. -
+
+(a) Whether or not such arrangement, understanding or action is formal or in
+writing; or
+
+(b)Whether or not such arrangement, understanding or action is intended to be
+enforceable by legal proceeding". (c )It is the case of the applicant that
+unilateral incurring of AMP expenses by the applicant in India does not result
+in any  10 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited
+"transaction", much less an "international transaction", between the
+applicant, on the one hand, and the foreign AE, on the other, so as to invoke
+the transfer pricing regulations 4.5. From a conjoint reading of section 92B
+read with section 92F(v) of the Act, it would kindly be appreciated that
+transfer pricing regulations would be applicable to any transaction", being an
+arrangement, understanding or action in concert, whether formal or writing or
+whether enforceable or not by legal proceedings. He submitted that
+transaction, per se, involves bilateral arrangement or agreement between
+parties. A unilateral action by one of the parties, without any binding
+obligation, in the absence an arrangement, understanding, or action in concert
+(e.g. pre-arranged plan, or design agreed by parties), between parties, cannot
+be termed as a transaction.
+
+4.6. He thus submitted that, in order to construe a transaction, there has to
+be an express arrangement, understanding or action in concert between parties
+which cannot be inferred or implied. 4.7. Ld.Counsel submitted that, in
+present case, AMP expenses had been incurred by assessee unilaterally, at its
+own discretion through unrelated Indian parties, for purpose of its own
+business, in order to cater to local market needs. Such AMP expenditure was
+not incurred at instance of overseas AEs.
+
+4.8. He further submitted that, no material brought on record by Ld.TPO, to
+establish existence an arrangement, understanding or action in concert with
+AEs. He submitted that Ld.TPO held such AMP expenditure unilaterally incurred
+by assessee locally, for and  11 ITA 996/Del/2016 AY: 2011-12 Yakult Danone
+India Private Limited on behalf of it, to be amounting to "international
+transaction" in terms of section 92B, warranting invocation of transfer
+pricing provisions.
+
+4.9. Ld.Counsel placing reliance on decision of Hon'ble Delhi High Court in
+the case of Moser Baer vs. ACIT reported in (2009) 176 Taxmann 473 submitted
+that Ld.TPO therein, placed certain evidence/material on record to show that,
+there existed a mutual arrangement or understanding between parties therein or
+acted in concert, so as to constitute an international transaction. Ld.Counsel
+thus submitted that Ld.TPO in facts of present case, cannot, on basis of
+presumption/surmises, reach to a conclusion that parties herein has been
+acting in concert, or there is an understanding or arrangement between them,
+so as to construe a transaction. He therefore, submitted that in order to
+constitute an international transaction in terms of section 92B of the Act, an
+arrangement, understanding or action in concert must be shown to exist between
+assessee and it's associated enterprises who are non-residents. 4.10.
+Ld.Counsel placed reliance upon decision of Hon'ble Delhi High Court in case
+of Maruti Suzuki India Ltd.,(supra) on the issue of existence of international
+transaction for purpose of making transfer pricing adjustment in relation to
+AMP expense incurred by assessee, wherein Hon'ble High Court observed and held
+as under: "Step wise analysis of statutory provisions
+
+62\. If a step by step analysis is undertaken of Sections 92B to 92F, the sine
+qua non for commencing the transfer pricing exercise is to show the existence
+of an international transaction. The next step is to  12 ITA 996/Del/2016 AY:
+2011-12 Yakult Danone India Private Limited determine the price of such
+transaction. The third step would be to determine the ALP by applying one of
+the five price discovery methods specified in Section 92C. The fourth step
+would be to compare the price of the transaction that is shown to exist with
+the ALP and make the transfer pricing adjustment by substituting the ALP for
+the contract price.
+
+63\. A reading of the heading of Chapter X ["Computation of income from
+international transactions having regard to arm's length price"] and Section
+92 (1) which states that any income arising from an international transaction
+shall be computed having regard to the ALP. Section 92C (1) which sets out the
+different methods of determining the ALP, makes it clear that the transfer
+pricing adjustment is made by substituting the ALP for the price of the
+transaction. To begin with there has to be an international transaction with a
+certain disclosed price. The transfer pricing adjustment envisages the
+substitution of the price of such international transaction with the ALP.
+
+64\. The transfer pricing adjustment is not expected to be made by deducing
+from the difference between the 'excessive' AMP expenditure incurred by the
+Applicant and the AMP expenditure of a comparable entity that an international
+transaction exists and then proceed to make the adjustment of the difference
+in order to determine the value of such AMP expenditure incurred for the AE.
+And, yet, that is what appears to have been done by the Revenue in the present
+case. It first arrived at the 'bright line' by comparing the AMP expenses
+incurred by MSIL with the average percentage of the AMP expenses incurred by
+the comparable entities. Since on applying  13 ITA 996/Del/2016 AY: 2011-12
+Yakult Danone India Private Limited the BLT, the AMP spend of MSIL was found
+'excessive' the Revenue deduced the existence of an international transaction.
+It then added back the excess expenditure as the transfer pricing
+'adjustment'. This runs counter to legal position explained in] CIT v. EKL
+Appliances Ltd. (2012) 345 ITR 241 (Del) which required a TPO "to examine the
+'international transaction' as he actually finds the same." In other words the
+very existence of an international transaction cannot be a matter for
+inference or surmise.
+
+65\. As already noticed, the decision in Sony Ericsson has done away with the
+BLT as means for determining the ALP of an international transaction involving
+AMP expenses.
+
+Revenue's contentions
+
+66\. It is contended by the Revenue that the mere fact that the Indian entity
+is engaged in the activity of creation, promotion or maintenance of certain
+brands of its foreign AE or for the creation/promotion of new/existing markets
+for the AE, is by itself enough to demonstrate that there is an arrangement
+with the parent company for this activity. It is urged that merely because
+MSIL and SMC do not have an explicit arrangement/agreement on this aspect
+cannot lead to the inference that there is no such arrangement or the entire
+AMP activity of the Indian entity is unilateral and only for its own benefit.
+According to the Revenue, "the only credible test in the context of TP
+provisions to determine whether the Indian subsidiary is incurring AMP
+expenses unilaterally on its own or at the instance of the AE is to find out
+whether an independent party would have also done the same." It is asserted:
+"An independent party with a short term  14 ITA 996/Del/2016 AY: 2011-12
+Yakult Danone India Private Limited agreement with the MNC will not incur
+costs which give long term benefits of brand & market development to the other
+entity. An independent party will, in such circumstances, carry out the
+function of development of markets only when it is adequately remunerated for
+the same.
+
+67\. Reference is made by Mr. Srivastava to some sample agreements between
+Reebok (UK) and Reebok (South Africa) and 1C Issacs & Co and BHPC Marketing to
+urge that the level of AMP spend is a matter of negotiation between the
+parties together with the rate of royalty. It is further suggested that it
+might be necessary to examine whether in other jurisdictions the foreign AE
+i.e., SMC is engaged in AMP/brand promotion through independent entities or
+their subsidiaries without any compensation to them either directly or through
+an adjustment of royalty payments.
+
+Absence of a machinery provision
+
+68\. The above submissions proceed purely on surmises and conjectures and if
+accepted as such will lead to sending the tax authorities themselves on a
+wild- goose chase of what can at best be described as a 'mirage'. First of
+all, there has to be a clear statutory mandate for such an exercise. The Court
+is unable to find one. To the question whether there is any 'machinery'
+provision for determining the existence of an international transaction
+involving AMP expenses, Mr. Srivastava only referred to Section 92F (ii) which
+defines ALP to mean a price "which is applied or proposed to be applied in a
+transaction between persons other than AEs in uncontrolled conditions". Since
+the reference is to 'price' and to 'uncontrolled  15 ITA 996/Del/2016 AY:
+2011-12 Yakult Danone India Private Limited conditions' it implicitly brings
+into play the BLT. In other words, it emphasises that where the price is
+something other than what would be paid or charged by one entity from another
+in uncontrolled situations then that would be the ALP. The Court does not see
+this as a machinery provision particularly in light of the fact that the BLT
+has been expressly negatived by the Court in Sony Ericsson. Therefore, the
+existence of an international transaction will have to be established de hors
+the BLT.
+
+69\. There is nothing in the Act which indicates how, in the absence of the
+BLT, one can discern the existence of an international transaction as far as
+AMP expenditure is concerned. The Court finds considerable merit in the
+contention of the Applicant that the only TP adjustment authorised and
+permitted by Chapter X is the substitution of the ALP for the transaction
+price or the contract price. It bears repetition that each of the methods
+specified in S.92C(I) is a price discovery method. S.92C (I) thus is explicit
+that the only manner of effecting a TP adjustment is to substitute the
+transaction price with the ALP so determined. The second proviso to Section
+92C(2) provides a 'gateway' by stipulating that if the variation between the
+ALP and the transaction price does not exceed the specified percentage, no TP
+adjustment can at all be made. Both Section 92CA, which provides for making a
+reference to the TPO for computation of the ALP and the manner of the
+determination of the ALP by the TPO, and Section 92CB which provides for the
+"safe harbor" rules for determination of the ALP, can be applied only if the
+TP adjustment involves substitution of the transaction price with the ALP.
+Rules IOB. IOC and  16 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India
+Private Limited the new Rule 10AB only deal with the determination of the ALP.
+Thus for the purposes of Chapter X of the Act, what is envisaged is not a
+quantitative adjustment but only a substitution of the transaction price with
+the ALP.
+
+70\. What is clear is that it is the 'price' of an international transaction
+which is required to be adjusted. The very existence of an international
+transaction cannot be presumed by assigning some price to it and then deducing
+that since it is not an ALP, an 'adjustment' has to be made. The burden is on
+the Revenue to first show the existence of an international transaction. Next,
+to ascertain the disclosed 'price' of such transaction and thereafter ask
+whether it is an ALP. If the answer to that is in the negative the TP
+adjustment should follow. The objective of Chapter X is to make adjustments to
+the price of an international transaction which the AEs involved may seek to
+shift from one jurisdiction to another. An 'assumed' price cannot form the
+reason for making an ALP adjustment." 4.11. Ld.Counsel placing reliance on
+specific observations by Hon'ble High Court, reproduced herein above,
+submitted that, provisions under Chapter X envisage separate entity concept,
+and there cannot be a presumption that since assessee is a subsidiary of
+associated enterprise, all activities of assessee are dictated by such
+associated enterprises. Merely because associated enterprise has financial
+interest, it cannot be presumed that AMP expense incurred by assessee are at
+the instance, or on behalf of associated  17 ITA 996/Del/2016 AY: 2011-12
+Yakult Danone India Private Limited enterprises. Placing reliance upon view by
+Hon'ble Delhi High Court, Ld.Counsel submitted that initial onus is on Revenue
+to demonstrate through some tangible material that assessee and associated
+enterprise acted in concert and further that there was an agreement to enter
+into an international transaction concerning AMP expenses.
+
+4.12. It was vehemently submitted that Ld.TPO erroneously held that
+performance of Development, Enhancement, Maintenance, Protection and
+Enhancement ('DEMPE') functions by assessee lead to international transaction
+between assessee and associated enterprise, without appreciating that such
+functions are performed by assessee independently, unilaterally and without
+any influence of associated enterprises. It was submitted by Ld.Counsel that
+since DEMPE functions relating to AMP expenses are performed by assessee and
+returns attributed to such functions are also enjoyed by assessee in the form
+of higher sales and profitability, no compensation for AMP expenses incurred
+by assessee is warranted. He placed reliance upon a chart forecasting profits
+in future years. Ld.Counsel at this juncture admitted that, expenses incurred
+by assessee toward advertisement are 60% of the turnover and since its
+inception assessee has been showing losses, which is expected to continue till
+2020. He submitted that assessee is slowly making place in market of pro-
+biotic products, for which expenses has to be incurred towards advertisements
+for long lasting existence.
+
+18
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 4.13.
+Accordingly, he submitted that AMP expenses cannot be regarded as having been
+incurred at the behest of or in concert with the Associated Enterprises.
+
+4.14. It is submitted that Ld.TPO applied Bright Line Test, which has been
+rejected by Hon'ble Delhi High Court in case of Sony Ericsson Mobile
+Communications (supra).
+
+4.15. He thus submitted that, Bright Line Test has no mandate under the Act
+and accordingly same cannot be resorted to for purposes of ascertaining, if
+there exists an international transaction of brand promotion services between
+assessee and associated enterprises.
+
+4.16. He submitted that Hon'ble Delhi High Court in case of Maruti Suzuki
+India Ltd. (supra) held that existence of an international transaction needs
+to be established de hors Bright Line Test. He placed reliance upon following
+decisions of Hon'ble Delhi High Court, which has followed aforestated view:
+Honda Seil Power Products Ltd. Vs. DCIT reported in (2016) 237 Taxmann 304
+Bausch and Lomb Eyecare India Pvt.Ltd. vs. Addl.CIT reported in (2016) 237
+Taxmann 24;
+
+Valvoline Cummins P Ltd. Vs. DCIT (ITA No.527/Del/2016) CIT vs Whirlpool of
+India Ltd reported in (2015) 64 Taxmann.com 324;
+
+Pepsico India Holdings P Ltd. Vs. ACIT (2018) 100 Taxmann.com 159 (Delhi-Trib)
+LOreal India P Ltd. Vs. DCIT (TA No.7714/Mum/2012)  19 ITA 996/Del/2016 AY:
+2011-12 Yakult Danone India Private Limited Goodyear India Ltd. Vs. DCIT (ITA
+No.5650/Del/2011) 4.17. Ld.Counsel submitted that it has been reiterated by
+Hon'ble Court that, Revenue needs to establish on basis of some tangible
+material or evidence that there exists an international transaction of
+provision of brand building service between assessee and associated enterprise
+and in absence of any transaction, there is no question of undertaking any
+bench marking analysis with respect to AMP expenses.
+
+4.18. He thus submitted that, unilateral incurring of AMP expenses by assessee
+in present facts of case, neither gave rise to an international transaction in
+terms of section 92B, nor are covered in section 92(2) of the Act, so as to be
+subjected to arm's length test under Transfer Pricing provisions.
+
+4.19. Economic vs. legal ownership of intellectual property. Ld.Counsel
+submitted that, assessee is a joint-venture between Yakult Japan and Danone
+Singapore. He submitted that there is no economic sense in joint-venture
+incurring huge expenditure in India for benefit of only one party of joint-
+venture. It has been submitted that, both Yakult Japan and Danone Singapore
+are 50:50 shareholders of joint-venture, and any expenditure incurred in India
+would be for the benefit of both parties involved and Danone Singapore, would
+not have allowed assessee to incur excessive AMP spent only for benefit for
+Yakult Japan, as it would lower the share profits which Danone Singapore is
+entitled for. 4.20. It has thus been submitted by Ld.Counsel that all
+decisions made in context of AMP functions within India are undertaken by  20
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited assessee and
+any benefit arising out of same, directly accrues to assessee. It has also
+been submitted that if any benefit are accrued to AEs is indirect, and purely
+incidental. Ld.Counsel submitted that assessee is operating in India since
+2007 and has been exclusively manufacturing and selling pro-biotic products
+within the territory.
+
+4.21. Ld.Counsel argued that AMP expenditure were unilaterally incurred by
+assessee for exploiting brand name 'Yakult' in course of carrying on of its
+business, such expenses cannot be said to be attributed to legal ownership of
+brand, which admittedly vests with overseas AE. He submitted that, the term
+economic ownership of benefits, is characterization of parties upon FAR
+analysis, which is a cardinal principle, for undertaking transfer pricing
+analysis. He submitted that in Transfer Pricing parlance, term 'economic
+ownership' refers to ownership as to economic benefit, pursuant to functions
+performed, assets utilized and risks assumed by respective parties and is to
+be taken into consideration for purpose of transfer pricing analysis.
+
+4.22. He placed reliance upon decision of Hon'ble Delhi High Court in case of
+Sony Ericsson Mobile Communications India P Ltd(supra), in relation to
+aforesaid aspect of economic ownership held, wherein Hon'ble Court observed
+and held as under.
+
+"133. Transfer Pricing Officers have referred to paragraphs 6.36 to 6.39. For
+the sake of completeness, we would quote the said paragraphs from the OECD
+Transfer Pricing Guidelines, which read:
+
+21
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 6.36.
+Difficult transfer pricing problems can arise when marketing activities are
+undertaken by enterprises that do not own the trademarks or trade names that
+they are promoting (such as a distributor of branded goods). In such a case,
+it is necessary to determine how the marketer should be compensated for those
+activities. The issue is whether the marketer should be compensated as a
+service provider, i.e. for providing promotional services, or whether there
+are any cases in which the marketer should share in any additional return
+attributable to the marketing intangibles. A related question is how the
+return attributable to the marketing intangibles can be identified.
+
+6.37. As regards the first issue- whether the marketer is entitled to a return
+on the marketing intangibles above a normal return on marketing activities-
+the analysis requires an assessment of the obligations and rights implied by
+the agreement between the parties. It will often be the case that the return
+on marketing activities will be sufficient and appropriate. One relatively
+clear case is where a distributor acts merely as an agent, being reimbursed
+for its promotional expenditures by the owner of the marketing intangible. In
+that case, the distributor would be entitled to compensation appropriate to
+its agency activities alone and would not be entitled to share in any return
+attributable to the marketing intangible. 6.38. Where the distributor actually
+bears the cost of its marketing activities (i.e. there is no arrangement for
+the owner  22 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited
+to reimburse the expenditures), the issue is the extent to which the
+distributor is able to share in the potential benefits from those activities.
+In general, in arm's length transactions the ability of a party that is not
+the legal owner of a marketing intangible to obtain the future benefits of
+marketing activities that increase the value of that intangible will depend
+principally on the substance of the rights of that party. For example, a
+distributor may have the ability to obtain benefits from its investments in
+developing the value of a trademark from its turnover and market share where
+it has a long-term contract of sole distribution rights for the trademarked
+product. In such cases, the distributor share of benefits should be determined
+based on what an independent distributor would obtain in comparable
+circumstances. In some cases, a distributor may bear extraordinary marketing
+expenditures beyond what an independent distributor with similar rights might
+incur for the benefit of its own distribution activities. An independent
+distributor in such a case might obtain an additional return from the owner of
+the trademark, perhaps through a decrease in the purchase price of the product
+or a reduction in royalty rate.
+
+6.39 The other question is how the return attributable to marketing activities
+can be identified. A marketing intangible may obtain value as a consequence of
+advertising and other promotional expenditures, which can be important to
+maintain the value of the trademark. However, it can be difficult to  23 ITA
+996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited determine what
+these expenditures have contributed to the success of a product. For instance,
+it can be difficult to determine what advertising and marketing expenditures
+have contributed to the production or revenue, and to what degree. It is also
+possible that a new trademark or one newly introduced into a particular market
+may have no value or little value in that market and its value may change over
+the years as it makes an impression on the market (or perhaps loses its
+impact). A dominant market share may to some extent be attributable to
+marketing efforts of a distributor. The value and any changes will depend to
+an extent on how effectively the trademark is promoted in the particular
+market. More fundamentally, in many cases higher returns derived from the sale
+of trademarked products may be due as much to the unique characteristics of
+the product or its high quality as to the success of advertising and other
+promotional expenditures. The actual conduct of the parties over a period of
+years should be given significant weight in evaluating the return attributable
+to marketing activities.
+
+See paragraphs 3.75-3.79 (multiple year data).
+
+134\. The aforesaid paragraphs do not support the Revenue's submission, but
+stipulate the requirement that the owner of the marketing intangible should
+adequately compensate the domestic AE incurring costs towards marketing
+activities by reimbursement of expenses or by sufficient and appropriate
+return. Where the domestic AE is entitled to compensation as a pure
+distributor, it would not be  24 ITA 996/Del/2016 AY: 2011-12 Yakult Danone
+India Private Limited entitled to share in any return attributable to the
+marketing intangible, not being the legal owner. The position may be different
+where there is a long term contract of sole distribution rights of the
+trademarked products, thereby acquiring economic ownership benefit. In some
+cases, where the distributor bears extraordinary> marketing expenses, he would
+be entitled to additional or higher return, through decreased price or
+reduction of royalty rate. The difficulty in attributing advertisement and
+other promotional expenditures towards trademark valuation or towards
+marketing activities, i.e. contributing to manufacture and current income and
+the impracticability of division in the case of such attribution is
+highlighted in paragraph 6.39."
+
+4.23. Ld.Counsel thus submitted that economic ownership of brand 'Yakult'
+rests with assessee and accordingly, assessee cannot be expected to seek
+compensation for expenditure incurred on asset economically owned by it.
+
+4.24. In view of aforesaid, it is respectfully submitted that adjustment on
+account of AMP expenses made by Ld.TPO is not permissible.
+
+5\. On the contrary, Ld.CIT DR submitted that huge spending of AMP expenses
+amounts to brand building and trademark of AEs, and therefore gives benefit to
+AE by enhancing its brand value, which helps AE in achieving sales in other
+territories or otherwise. He submitted that, concept of brand building and
+whether such brand building can be attributed to advertisement and sale
+promotion, thereby benefiting AE, has been discussed in detail by  25 ITA
+996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited Hon'ble Delhi
+High Court in case of Sony Ericson Mobile Communication (P) Ltd (supra). He
+submitted that assessee is paying trademark at 1% of Transfer License
+Agreement, which is placed at page 62 of paper book, apart from Royalty @1% to
+Yakult Japan. He submitted following chart being the rates of royalty payable
+by assessee:
+
+    
+    
+                    Year                        Rate
+     1st  year                                  1.0%
+       nd
+     2 year                                     1.0%
+     3rd year                                   1.0%
+       th
+     4 year                                     2.0%
+     5th year                                   2.0%
+     th
+    
+
+6 year and subsequent years (but subject to 3.0% the proviso to paragraph (a)
+of Article 5) 5.1. Referring to Transfer Pricing order, Ld.CIT DR submitted
+that, apart from trademark fee and royalty fee, assessee is purchasing major
+raw materials for its manufacturing activity, from its AEs, which is reported
+as international transaction. He submitted that AE apart from trademark fee
+and royalty is also deriving benefits by way of selling its products in India.
+Referring to chart of estimated profits filed by assessee, Ld.CIT DR submitted
+that assessee has a gross profit of 70.54% during year and operating loss at
+309% at net level. He submitted that, main reason for such a huge loss is
+sales and distribution expenses and administrative and sales promotion
+expenses incurred by assessee amounting to Rs.3,73,11,582/- and
+Rs.6,45,14,654/- respectively. Ld. CIT DR thus submitted that assessee is
+substantially engaged in business  26 ITA 996/Del/2016 AY: 2011-12 Yakult
+Danone India Private Limited of brand building/trademark for AEs during year.
+It has been submitted that total consumption of raw materials during year
+amounts to Rs.2.59 crores vis-a-vis advertisement expenses amounting to
+Rs.6.45 crore which is 250% of consumption of raw materials. It was thus
+submitted by Ld.CIT DR that there are sufficient materials to hold that there
+is international transaction of AMP functions of assessee under section 92F(v)
+of the Act, as assessee is acting in concert with its AEs for developing its
+brand and popularising its products in India.
+
+6\. We have perused submissions advanced by both sides in light of records
+placed before us.
+
+6.1. Before adverting to main issue, it is sine qua non to understand
+functions performed by assessee, risks assumed and assets used by assessee to
+the transaction.
+
+4.2.2 Functions performed by Yakult Danone India The functions performed by
+Yakult Danone India are:
+
+a) Procurement of raw materials and packing materials: Yakult Danone India is
+primarily engaged in the manufacture and sale of dairy products i.e. probiotic
+milk. The manufacturing plant of the company is located in Sonepat. Hence, it
+is involved in the procurement of raw materials and packaging materials in
+respect of its operations. These materials are procured by Yakult Danone India
+based on sales forecasts and consumption estimates.
+
+b) Production of milk: Yakult Danone India is engaged in preparation of
+probiotic milk from skimmed milk. The main ingredients of the product are
+skimmed milk powder, sugar, glucose, friendly bacteria and water. The bacteria
+is cultured and mixed with other ingredients to prepare the probiotic milk.
+The company is engaged in routine functions of inventory scheduling,
+production scheduling and monitoring as a part of its production operations.
+Yakult Danone India purchases capital equipment from its Group Companies for
+production of milk. These equipments purchased are in the nature of dairy
+machines, machines connected with preparation of milk bottles, lab equipments
+for quality checks, etc.  27 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India
+Private Limited AEs provide technical assistance to the company in connection
+with the construction and operation of Yakult Danone India's plants and for
+the production and sale of probiotic products. Yakult Danone India also
+receives technical assistance from its AEs in form of personnel visiting, on a
+need basis. In consideration of the receipt of such assistance, Yakult Danone
+India in FY 2007-08 paid a royalty to its AEs amounting to 1% of its net
+sales. Apart from the above, for use of the Yakult trademark, Yakult Danone
+India also paid an additional royalty amounting to 1% of its net sales to its
+Group Companies.
+
+c) Sales Promotion: Yakult Danone India deals in the FMCG sector which is
+typically characterized by heavy expenditure on planning and execution of
+sales promotion. Toward this end Yakult Danone India engages in domestic sales
+promotion activities. In line with the global sales strategy, Yakult Danone
+India primarily sells its products through 'Yakult Ladies'. This strategy was
+adopted by Yakult Danone India to help customers fully understand the benefits
+of lactobacilli and bring Yakult products to them every day. Yakult Ladies are
+particularly well-suited for serving housewives in this way as the great
+majority of them are housewives themselves. Delivery of Yakult products is
+performed by Yakult Ladies working through regional marketing companies. These
+Yakult Ladies are provided the required training for sale of the products at
+these centres itself. At the same time, however, these centres also serve as
+places where Yakult Ladies can form strong bonds with co-workers and foster
+new enthusiasm for the important work they do. Apart from this, Yakult
+products are also sold via convenience stores, on the Street or in an office,
+schools, hospitals, and elderly care facilities.
+
+For the sale of the Yakult milk produced, Yakult Danone India's marketing
+activities are concentrated towards periodic advertisement in newspapers,
+conferences, key opinion leaders for recommending the production.
+
+d) Quality Control: Yakult Danone India is responsible for ensuring that the
+products adhere to the quality standards laid down by the Group. These quality
+standards are applicable for both input materials as well as for finished
+goods. Every bottle is tested in Yakult Danone India after production.
+
+e) General Management Functions: Apart from the above, Yakult Danone India
+also undertakes certain general management functions that are carried out by
+any business irrespective of its size and type. These functions (mentioned
+below) are drivers of every business and are indispensable in the economic
+environment:
+
+• Corporate Strategy Determination: All policies relating to various processes
+and issues within Yakult Danone India are determined by its own management
+which continuously monitors the economic environment surrounding the Indian
+entity, assesses their strategic position within the industry and targets to
+comply with the overall longterm corporate goals.
+
+• Finance, Accounting, Treasury, HR and Legal Function: Yakult Danone India is
+responsible for managing its finance, treasury and accounting  28 ITA
+996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited functions. Yakult
+Danone India is also responsible for compliance with all legal/ statutory
+requirements applicable to the Indian entity. It also undertakes its routine
+administration and HR functions.
+
+    
+    
+    4.3     Assets
+    Tangible Assets
+    
+
+Yakult Danone India utilized routine tangible assets for its manufacturing
+operation like plant and machinery, factory building, office equipments,
+furniture and fixtures, computers etc. These assets form a significant part of
+Yakult Danone India's fixed cost base.
+
+Intangible Assets Yakult Danone India does not own any non-routine intangibles
+and accordingly does not own trade secrets or undertake research and
+development activities on its account that would lead to the development of
+non-routine intangibles. 4.4 Risk Analysis Risks are those business factors
+that may expose a company to the possibility of loss or damage. In other
+words, Risk is the probability that a particular adverse event may occur
+during a stated period of time, or may result from a particular challenge. The
+following section discusses the risk borne by Company vis-à-vis Group
+Companies.
+
+Market Risk Market risk arises when a company is subject to adverse sales
+conditions due to either increased competition in the marketplace, adverse
+demand conditions within the market, or the inability to develop markets or
+position products to service targeted customers.
+
+Yakult Danone India is exposed to this risk as it is dependent on market
+patterns and trends, while the Group Companies have relatively lower risk
+relating to Indian operations.
+
+Customer Credit Risk When a company supplies products or services to a
+customer in advance of customer payment, the company runs the risk that the
+customer will fail to make payment. This risk is known as customer credit
+risk. Yakult Danone India is exposed to the risk of non-payment from the
+customers to whom they have sold the products. Group Companies are not exposed
+to this risk with respect to the Indian operations.
+
+Foreign Exchange Risk Exchange rate risk relates to the potential variability
+of profits that can arise because of changes in foreign exchange rates. Such
+risks arise when doing business in any market that is affected by
+international trade and can arise even if a company does not conduct actual
+transactions in a foreign currency. Yakult Danone India deals with its
+Associate Enterprises in foreign currency. It therefore bears the risk of
+adverse movements of the Indian Rupee vis-a-vis the foreign currencies. Since
+the Associated Enterprises receive their payments in their local currency,
+they are not exposed to the risk on this account. Capacity utilisation risk
+29 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited Capacity
+Utilisation Risk refers to the risk that relates to the under-utilisation of
+the existing capacity of the organisation in terms of manufacturing facility/
+service capacity etc. Yakult Danone India is exposed to the risk of under
+utilisation of its capacity. As Yakult Danone India was engaged in commercial
+operations only from December 2007, during the year, it operated at a capacity
+of only 8% of its installed capacity.
+
+The AEs do not bear the capacity utilisation risk with respect to the Indian
+operations.
+
+Manpower risk Manpower is one of the most valuable resources employed by an
+organisation for carrying out its day-to-day operations. The increasing
+competition in the market place combined with other uncontrolled variables
+result in exposure to manpower risk.
+
+Yakult Danone India bears this risk in respect of the India personnel. Yakult
+Danone Group does not bear any risk associated with manpower of Indian
+operations.
+
+Price Risk This risk arises on account of fluctuations of prices in the
+market. As Yakult Danone India competes in the open market it is exposed to
+this risk. Yakult Danone India initiated commercial production of milk in
+December 2007 only. Accordingly to penetrate the market it underpriced its
+bottles by approximately 90%. Thus, in Financial Year 2007-08, the company had
+a high exposure to this risk.
+
+Yakult Danone Group is not directly affected by the competition faced by
+Yakult Danone India, but since it is a major supplier to Yakult Danone India,
+it indirectly bears this risk.
+
+Research and Development Risk It represents the risk that the research
+performed by an enterprise may not be successful.
+
+As Yakult Danone India does not undertake any R&D on its own account, it is
+not exposed to this risk.
+
+R&D is primarily the responsibility of Yakult Danone Group and hence it bears
+all the risks associated with this activity.
+
+Technology Risk This risk arises if the market in which an enterprise operates
+is sensitive to the introduction of new products and variants. In such a case,
+the enterprise may lose potential revenues arising from obsolete
+infrastructure, tools and manufacturing process.
+
+Yakult Danone India does not own the manufacturing technology and relies on
+AEs for constant up-gradation of technology. Accordingly, the Indian entity is
+relatively less exposed to this risk.
+
+As AEs have (over the years) spent considerable amount in developing the
+technology and are also responsible for constant up-gradation of technology,
+they bear significant risk on this account.
+
+30
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited Inventory
+Risk Inventory risk relates to the potential for losses associated with
+carrying finished product inventory. Losses include obsolescence, shrinkage,
+or market collapse such that products are only saleable at prices that are
+inadequate to cover the company's product costs.
+
+All risks associated with inventory management vest with Yakult Danone India.
+AEs are relatively less exposed to this risk.
+
+4.5. Summary of Contribution This section presents a summary of the
+economically relevant contributions of Yakult Danone India and its Group
+Companies participating in inter-company transactions.
+
+The marks in the table denote the contributions made by each enterprise as
+follows.:
+
+    
+    
+             Mark            Explanation
+              -          No or insignificant contribution
+              √         Positive or significant contribution
+    
+    Contribution              Yakult Danone India       Group Companies
+    FUNCTIONS
+    PERFORMED:
+    1. New Product
+    Conceptualisation                 -                            √
+    and Development
+    
+    2. Global                                                          √
+    manufacturing                    -
+    3. Core Global                                                     √
+    Marketing                        -
+    4. Global Quality                                                  √
+    Assurance                        -
+    5. Research &                                                      √
+    Development                      -
+    6. Procurement of
+    Raw Material and                      √                        -
+    Packing Material
+    7. Local production of
+    Milk                                      √                    -
+    8. Local Sales                        √                    -
+    Promotion
+    
+                                                                                               31
+                                                           ITA 996/Del/2016 AY: 2011-12
+                                                    Yakult Danone India Private Limited
+    
+    
+    9. Local Quality              √                     -
+    Control
+    10. General                   √                 -
+    Management
+    Functions
+    RISKS BORNE
+    11. Market Risk               √                 -
+    12.Customer Credit            √                 -
+    Risk
+    13. Foreign Exchange          √             -
+    Risk
+    14. Capacity                  √            -
+    Utilisation Risk
+    15. Man Power Risk            √             -
+    16. Price Risk                √            -
+    17. Research and              -                 √
+    Development Risk
+    18. Technology Risk       -                          √
+    19. Inventory Risk                √                 -
+    ASSETS USED
+    20. Tangible Assets                √                -
+    21. Intangible Assets             -                     √
+    
+    
+    
+    
+    
+
+6.2. Admittedly, assessee is a joint venture between Yakult Honsha of Japan
+and Groupe Danone of France with 50:50 shareholdings. There is no dispute that
+this company has been set up to manufacture and sell Probiotic milk in India.
+In TP study, assessee categorised itself to be a manufacturer of Probiotic
+milk. Admittedly, assessee started its commercial sale in financial year
+2007-08 and made significant losses at operating level during year. It is also
+observed that assessee has entered into Trademark License Agreement and
+Technical Service Assistance Agreement with Yakult Honsha of Japan. Assessee
+is to pay 1% royalty under Trademark License Agreement and 1% under Technical
+Service Assistance  32 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India
+Private Limited Agreement. Assessee has placed agreements at page 61-87 of
+paper book.
+
+6.3. From FAR analysis reproduced herein above, assessee has categorised
+itself to be a full-fledged manufacturer, exposed to all kinds of risks
+associated with carrying out manufacturing activities in India. It is
+submitted that, it does not own any significant intangibles and neither does
+it undertake research and development on this account. It is observed that
+assessee has been importing raw materials, packing materials and capital
+equipments from AEs in respect of production, based upon forecast and
+consumption estimates. The chart relied upon by Ld.Counsel is reproduced
+hereunder:
+
+    
+    
+    Parti-     FY              FY             FY             FY 2013-14     FY               FY               FY                  FY
+    culars     2010-11         2011-12        2012-13                       2014-15          2015-16          2016-17             2017-18
+    Turn-
+    over
+               101,946,703     168,655,834    249,886,433    340,447,002    447,583,394      539,755,838      567,576,484         712,533,646
+    (INR)
+    Advt.
+    &
+               58,677,227      92,979,979     109,965,657    106,072,714    126,091,403      120,140,826      136,003,003         152,093,103
+    Sales
+    Promo-
+    tion
+    (INR)
+    Advt.
+     &
+               57.56%          55.13%         44.01%         31.16%         28.17%           22.26%           23.96%              21.35%
+    Sales
+    Promo-
+    tion (%)
+    Opera-
+    ting '
+               -308,336,160    -287,644,781   -312,736,237   -258,409,919   -244,742,375     -207,468,986     -217,047,723        -161,505,861
+    profit
+    OP/        -302.45%        -170.55%       -125.15%       -75.90%        -54.68%          -38.44%          -38.24%             -22.67%
+    Sales
+    
+    
+    
+    
+    
+
+6.4. Assessee benchmarked purchase of raw materials as international
+transaction, which is duly reported in Form 3CEB and  33 ITA 996/Del/2016 AY:
+2011-12 Yakult Danone India Private Limited also filed transfer pricing
+documentation on which no adverse inference has been drawn by revenue.
+
+6.5. It is observed that assessee engages itself into domestic sales promotion
+activities in line with global sales strategy. Assessee sells its products
+through 'Yakult Ladies' that help customers fully understand benefits of
+lactobacilli, and bring Yakult products to them everyday. It has been
+submitted in transfer pricing study that, these Yakult Ladies are provided
+with required training for sale of product, at these centres itself, where
+these ladies form strong bond with co-workers and foster new enthusiasm for
+important work they do. It has also been submitted that the products are sold
+via convenience stores, on the street or in office, schools, hospitals and
+elderly care facilities. It is also observed that assessee is exposed to
+market risk, customer credit risk, foreign exchange risk, capacity utilisation
+risk, manpower risk and inventory risk.
+
+6.6. From the above, it is clear that all necessary functions of strategizing,
+advertising and marketing activities, its implementation and controlling
+across country is conducted by assessee for market penetration in India. Thus,
+in a way assessee is economic owner of brand, though not the legal owner. As a
+full- fledged manufacturer, assessee has been assuming all risks for promoting
+its sales, and thereby entire profitability is subject to tax in India, and no
+residual profits are enjoyed by AE. It is observed that AE is only paid
+royalty and technical service fee at 1% each of net turnover.
+
+34
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 6.7. Ld.TPO
+concluded that assessee created marketing intangibles only for promotion of
+brand and products of AE. Ld.TPO was of opinion that, as AE recovering AMP
+expenditure incurred by it from assessee, and that AE is controlling AMP
+activity of assessee, indicates that, there was some arrangement between
+assessee and its AE, regarding incurring of AMP expenditure. Ld.TPO, adopted
+bright line test for.
+
+6.8. From Trademark License Agreement and Royalty Agreement, it is observed
+that there is nothing in agreement to suggest any sort of arrangement or
+agreement between assessee and AE towards spending of AMP. In our view this is
+a case where Ld.TPO failed to establish international transaction vis-a-vis
+AMP expenses amounting to brand building and trademarking of AE which helps AE
+in achieving sales in other territories or otherwise.
+
+6.9. The contentions raised by Ld.Counsel as well as Ld.CIT DR has been dealt
+with by Coordinate Bench of this Tribunal in case of PepsiCo India Holdings
+(P) Ltd., VS ACIT reported in (2018) 100 Taxmann.com 159(Del-Trib) as under:
+
+"57. The TPO has also referred to the decision of Hon'ble Delhi High Court in
+the case of Sony Ericsson Mobile Communication India (P.) ltd. to contend that
+mere incurrence of AMP expenditure in respect of brand not owned by the
+assessee has to be treated as international transaction. Such an inference by
+the learned TPO is not tenable in view of the Hon'ble Delhi High Court in the
+judgment in the case of Maruti Suzuki India (P.) Ltd. case (Supra) wherein the
+ratio of  35 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited
+Sony Ericsson judgement has been explained in the following manner: --
+
+"41. Having considered the above submissions, the Court proceeds to analyse
+the decision in Sony Ericsson Mobile Communications India (P.) Ltd. (supra) to
+determine if it conclusively answers the issue concerning the existence of an
+international transaction as a result of incurring of AMP expenditures by an
+Assessee.
+
+42\. As already noticed, the judgment in Sony Ericsson Mobile Communications
+India (P.) Ltd. (supra) does not seek to cover all the cases which may have
+been argued before the Division Bench. In particular, as far as the present
+appeal ITA No. 110 of 2014 is concerned, although it was heard along with the
+batch of appeals, including those disposed of by the Sony Ericsson Mobile
+Communications India (P.) Ltd. (supra) judgment, at one stage of the
+proceedings on 30th October 2014 the appeal was delinked to be heard
+separately.
+
+43\. Secondly, the cases which were disposed of by the Sony Ericsson Mobile
+Communications India (P.) Ltd. (supra) judgment, i.e. of the three Assessees
+Canon, Reebok and Sony Ericsson were all of distributors of products
+manufactured by foreign AEs. The said Assessees were themselves not
+manufacturers. In any event, none of them appeared to have questioned the
+existence of an international transaction involving the concerned foreign AE.
+It was also not disputed that the said international transaction of incurring
+of AMP expenses could be made subject matter of transfer pricing adjustment in
+terms of Section 92 of the Act.
+
+44\. However, in the present appeals, the very existence of an international
+transaction is in issue. The specific case of MSIL is that the Revenue has
+failed to show the existence of any agreement, understanding or arrangement
+between MSIL and SMC regarding the AMP spend of MSIL. It is pointed out that
+the BLT has been applied to the AMP spend by MSIL to (a) deduce the existence
+of an international transaction involving SMC and (b) to  36 ITA 996/Del/2016
+AY: 2011-12 Yakult Danone India Private Limited make a quantitative
+'adjustment' to the ALP to the extent that the expenditure exceeds the
+expenditure by comparable entities. It is submitted that with the decision in
+Sony Ericsson Mobile Communications India (P.) Ltd. (supra) having disapproved
+of BLT as a legitimate means of determining the ALP of an international
+transaction involving AMP expenses, the very basis of the Revenue's case is
+negated."
+
+"68. The above submissions proceed purely on surmises and conjectures and if
+accepted as such will lead to sending the tax authorities themselves on a
+wildgoose chase of what can at best be described as a 'mirage'. First of all,
+there has to be a clear statutory mandate for such an exercise. The Court is
+unable to find one. To the question whether there is any 'machinery' provision
+for determining the existence of an international transaction involving AMP
+expenses, Mr. Srivastava only referred to Section 92F (ii) which defines ALP
+to mean a price "which is applied or proposed to be applied in a transaction
+between persons other than AEs in uncontrolled conditions". Since the
+reference is to 'price' and to 'uncontrolled conditions' it implicitly brings
+into play the BLT. In other words, it emphasizes that where the price is
+something other than what would be paid or charged by one entity from another
+in uncontrolled situations then that would be the ALP. The Court does not see
+this as a machinery provision particularly in light of the fact that the BLT
+has been expressly negatived by the Court in Sony Ericsson Mobile
+Communications India (P.) Ltd. (supra). Therefore, the existence of an
+international transaction will have to be established de hors the BLT.
+
+69\. There is nothing in the Act which indicates how, in the absence of the
+BLT, one can discern the existence of an international transaction as far as
+AMP expenditure is concerned. The Court finds considerable merit in the
+contention of the Assessee that the only TP adjustment authorised and
+permitted by Chapter X is the substitution of the ALP for the transaction
+price or the contract price. It bears repetition that each of the methods
+specified in S.92C (1) is a price discovery method. S.92C (1) thus is explicit
+that the only manner of effecting a TP adjustment is to substitute the
+transaction price with the ALP so  37 ITA 996/Del/2016 AY: 2011-12 Yakult
+Danone India Private Limited determined. The second proviso to Section 92C (2)
+provides a 'gateway' by stipulating that if the variation between the ALP and
+the transaction price does not exceed the specified percentage, no TP
+adjustment can at all be made. Both Section 92CA, which provides for making a
+reference to the TPO for computation of the ALP and the manner of the
+determination of the ALP by the TPO, and Section 92CB which provides for the
+"safe harbour" rules for determination of the ALP, can be applied only if the
+TP adjustment involves substitution of the transaction price with the ALP.
+Rules 10B, 10C and the new Rule 10AB only deal with the determination of the
+ALP. Thus, for the purposes of Chapter X of the Act, what is envisaged is not
+a quantitative adjustment but only a substitution of the transaction price
+with the ALP.
+
+70\. What is clear is that it is the 'price' of an international transaction
+which is required to be adjusted. The very existence of an international
+transaction cannot be presumed by assigning some price to it and then deducing
+that since it is not an ALP, an 'adjustment' has to be made. The burden is on
+the Revenue to first show the existence of an international transaction. Next,
+to ascertain the disclosed 'price' of such transaction and thereafter ask
+whether it is an ALP. If the answer to that is in the negative the TP
+adjustment should follow. The objective of Chapter X is to make adjustments to
+the price of an international transaction which the AEs involved may seek to
+shift from one jurisdiction to another. An 'assumed' price cannot form the
+reason for making an ALP adjustment.
+
+71\. Since a quantitative adjustment is not permissible for the purposes of a
+TP adjustment under Chapter X, equally it cannot be permitted in respect of
+AMP expenses either. As already noticed hereinbefore, what the Revenue has
+sought to do in the present case is to resort to a quantitative adjustment by
+first determining whether the AMP spend of the Assessee on application of the
+BLT, is excessive, thereby evidencing the existence of an international
+transaction involving the AE. The quantitative determination forms the very
+basis for the entire TP exercise in the present case.
+
+38
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited
+
+72\. As rightly pointed out by the Assessee, while such quantitative
+adjustment involved in respect of AMP expenses may be contemplated in the
+taxing statutes of certain foreign countries like U.S.A., Australia and New
+Zealand, no provision in Chapter X of the Act contemplates such an adjustment.
+An AMP TP adjustment to which none of the substantive or procedural provisions
+of Chapter X of the Act apply, cannot be held to be permitted by Chapter X. In
+other words, with neither the substantive nor the machinery provisions of
+Chapter X of the Act being applicable to an AMP TP adjustment, the inevitable
+conclusion is that Chapter X as a whole, does not permit such an adjustment.
+
+73\. It bears repetition that the subject matter of the attempted price
+adjustment is not the transaction involving the Indian entity and the agencies
+to whom it is making payments for the AMP expenses. The Revenue is not joining
+issue, the Court was told, that the Indian entity would be entitled to claim
+such expenses as revenue expense in terms of Section 37 of the Act. It is not
+for the Revenue to dictate to an entity how much it should spend on AMP. That
+would be a business decision of such entity keeping in view its exigencies and
+its perception of what is best needed to promote its products. The argument of
+the Revenue, however, is that while such AMP expense may be wholly and
+exclusively for the benefit of the Indian entity, it also ensures to building
+the brand of the foreign AE for which the foreign AE is obliged to compensate
+the Indian entity. The burden of the Revenue's song is this: an Indian entity,
+whose AMP expense is extraordinary (or 'nonroutine') ought to be compensated
+by the foreign AE to whose benefit also such expense enures. The 'nonroutine'
+AMP spend is taken to have 'subsumed' the portion constituting the
+'compensation' owed to the Indian entity by the foreign AE. In such a scenario
+what will be required to be benchmarked is not the AMP expense itself but to
+what extent the Indian entity must be compensated. That is not within the
+realm of the provisions of Chapter X.
+
+74\. The problem with the Revenue's approach is that it wants every instance
+of an AMP spend by an Indian entity which happens to use the brand of a
+foreign AE to be presumed to involve an international transaction. And this,
+notwithstanding  39 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private
+Limited that this is not one of the deemed international transactions listed
+under the Explanation to Section 92B of the Act. The problem does not stop
+here. Even if a transaction involving an AMP spend for a foreign AE is able to
+be located in some agreement, written (for e.g., the ample agreements produced
+before the Court by the Revenue) or otherwise, how should a TPO proceed to
+benchmark the portion of such AMP spend that the Indian entity should be
+compensated for?
+
+75\. As an analogy, and for no other purpose, in the context of a domestic
+transaction involving two or more related parties, reference may be made to
+Section 40A(2)(a) under which certain types of expenditure incurred by way of
+payment to related parties is not deductible where the AO "is of the opinion
+that such expenditure is excessive or unreasonable having regard to the fair
+market value of the goods." In such event, "so much of the expenditure as is
+so considered by him to be excessive or unreasonable shall not be allowed as a
+deduction." The AO in such an instance deploys the 'best judgment' assessment
+as a device to disallow what he considers to be an excessive expenditure.
+There is no corresponding 'machinery' provision in Chapter X which enables an
+AO to determine what should be the fair 'compensation' an Indian entity would
+be entitled to if it is found that there is an international transaction in
+that regard. In practical terms, absent a clear statutory guidance, this may
+encounter further difficulties. The strength of a brand, which could be
+product specific, may be impacted by numerous other imponderables not limited
+to the nature of the industry, the geographical peculiarities, economic trends
+both international and domestic, the consumption patterns, market behaviour
+and so on. A simplistic approach using one of the modes similar to the ones
+contemplated by Section 92C may not only be legally impermissible but will
+lend itself to arbitrariness. What is then needed is a clear statutory scheme
+encapsulating the legislative policy and mandate which provides the necessary
+checks against arbitrariness while at the same time addressing the
+apprehension of tax avoidance.
+
+76\. As explained by the Supreme Court in CIT v. B.C. Srinivasa Setty [1981]
+128 ITR 294 and PNB Finance Ltd. v. CIT [2008] 307  40 ITA 996/Del/2016 AY:
+2011-12 Yakult Danone India Private Limited ITR 75 in the absence of any
+machinery provision, bringing an imagined international transaction to tax is
+fraught with the danger of invalidation. In the present case, in the absence
+of there being an international transaction involving AMP spend with an
+ascertainable price, neither the substantive nor the machinery provision of
+Chapter X are applicable to the transfer pricing adjustment exercise."
+
+Further in the judgment of Sony Ericsson Mobile Communication (P.) Ltd.
+(supra), the High Court itself has distinguished the cases before it wherein
+there were cases which already themselves had accepted that there exists
+international transaction and there were other set of cases where the assessee
+has disputed the international transaction. This is clear from the following
+passage of the judgment: --
+
+"120. Notwithstanding the above position, the argument of the Revenue goes
+beyond adequate and fair compensation and the ratio of the majority decision
+mandates that in each case where an Indian subsidiary of a foreign AE incurs
+AMP expenditure should be subjected to the 'bright line test' on the basis of
+comparables mentioned in paragraph 17.4. Any excess expenditure beyond the
+bright line should be regarded as a separate international transaction of
+brand building. Such a broadbrush universal approach is unwarranted and would
+amount to judicial legislation. During the course of arguments, it was
+accepted by the Revenue that the TPOs/Assessing Officers have universally
+applied 'bright line test' to decipher and compute value of international
+transaction and thereafter applied 'Cost Plus Method' or 'Cost Method' to
+compute the arm's length price. The said approach is not mandated and
+stipulated in the Act or the Rules. The list of parameters for ascertaining
+the comparables for applying bright line test in paragraph 17.4 and,
+thereafter, the assertion in paragraph 17.6 that comparison can be only made
+by choosing comparable of domestic cases not using any foreign brand, is
+contrary to the Rules. It amounts to writing and prescribing a  41 ITA
+996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited mandatory
+procedure or test which is not stipulated in the Act or the Rules. This is
+beyond what the statute in Chapter X postulates. Rules also do not so
+stipulate. The argument and reasoning in paragraph 17.6 in a way loses focus
+on the main issue and controversy; whether the arm's length price fixed
+between the two AEs is adequate and justified and would have been paid if the
+transaction was between two independent enterprises. The two independent
+enterprises must be two unrelated parties having no connection. It does not
+matter whether the comparables are domestic enterprises or not. However, and
+it is manifest that the comparable should have similar rights, if any, as the
+tested party in the brand name, trademark, etc.
+
+121\. During the course of hearing before us, counsel for the Revenue had
+submitted that paragraph 17.4 should be treated as illustrations and not as
+binding comparables. We would prefer to observe, that an Assessing Officer/TPO
+can go and must examine the question whether the assessee is performing
+functions of a pure distributor or performing distribution and marketing
+functions, in the latter case, he must examine and ascertain whether the
+transfer price takes into consideration the marketing function, which would
+include AMP functions. This would ensure adequate transaction price and hence
+assure no loss of revenue. When the distribution and marketing functions are
+interconnected and reliable comparables are available, arm's length price
+could be computed as a package, if required and necessary by making adequate
+adjustments. When the Assessing Officer/TPO comes to the conclusion that it is
+not possible to compute arm's length price without segregating and dividing
+distribution and marketing or AMP functions, he can so proceed after giving
+justification and adequate reasons. At that stage, he would have apportioned
+the price received or the compensation paid by the foreign AE towards
+distribution and marketing or AMP functions. The TPO can then apply an
+appropriate method and compute the arm's length price of the two independently
+and even by applying separate methods. This will be in terms of the provisions
+of the Act and the Rules and also as per the general principles of
+international taxation accepted and applied universally. On the other hand, as
+42 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited recorded
+by us above, applying 'bright line test' on the basis of parameters prescribed
+in paragraphs 17.4 and 17.6 would be adding and writing words in the statute
+and the Rules and introducing a new concept which has not been recognised and
+accepted in any of the international commentaries or as per the general
+principles of international taxation accepted and applied universally. There
+is nothing in the Act or the Rules to hold that it is obligatory that the AMP
+expenses must and necessarily should be subjected to 'bright line test' and
+the nonroutine AMP expenses as a separate transaction to be computed in the
+manner as stipulated."
+
+58\. Thus, form the plain reading of the aforesaid principles laid down by the
+Hon'ble Jurisdictional High Court, the key sequitur is that:
+
+> (i) International transaction cannot be identified or held to be existing
+> simply because excess AMP expenditure has been incurred by the Indian
+> entity.
+
+(ii) International transactions cannot be found to exist after applying the
+BLT to decipher and compute value of international transaction.
+
+(iii) There is no provision either in the Act or in the Rules to justify the
+application of BLT for computing the Arm's Length Price and there is nothing
+in the Act which indicate how in the absence of BLT one can discern the
+existence of an international transaction as far as AMP expenditure is
+concerned.
+
+(iv) Revenue cannot resort to a quantify the adjustment by determining the AMP
+expenses spent by the assessee after applying BLT to hold it to be excessive
+and thereby evidencing the existence of the international transaction
+involving the AE.
+
+59\. Here in this case also, the TPO has tried to prove the international
+transaction, vis-à-vis, AMP after applying the BLT which now in view of
+settled law by the Hon'ble Jurisdictional High Court, such an approach has to
+be rejected. Hence at the very threshold the  43 ITA 996/Del/2016 AY: 2011-12
+Yakult Danone India Private Limited spending of AMP expenditure by the
+assessee cannot be held to be an international transaction between the
+assessee and its AE.
+
+60\. Another point which has been raised by the Revenue is that, huge spending
+of AMP expenses amounts to brand building and trade mark of the AE, and
+therefore, such a spending gives a benefit to the AE by enhancing its brand
+value which helps the AE in achieving sales in other territories or otherwise.
+This concept of brand building and whether such a brand building can be
+attributed to advertisement and sale promotions and thereby benefitting the
+AE, has been discussed in detail by the Hon'ble High Court in the case of Sony
+Ericsson Mobile Communication (supra) which for the sake of ready reference is
+reproduced hereunder: -- "Brand and brand building
+
+102\. We begin our discussion with reference to elucidation on the concept of
+brand and brand building in the minority decision in the case of L. G.
+Electronics India Pvt Ltd. (supra). The term "brand", it holds, refers to
+name, term, design, symbol or any other feature that identifies one seller's
+goods or services as distinct from those of others. The word "brand" is
+derived from the word "brand" of Old Norse language and represented an
+identification mark on the products by burning a part. Brand has been
+described as a duster of functional and emotional 103 It is a matter of
+perception and reputation as it reflects customers' experience and faith.
+Brand value is not generated overnight but is created ever a period of time,
+when there is recognition that the logo or the name guarantees a consistent
+level of quality and expertise. Leslie de Chematony and McDonald have
+described "a successful brand is an identifiable product, service, person or
+place, augmented in such a way that the buyer or user perceives relevant,
+unique, sustainable added values which match their needs most closely". The
+words of the Supreme Court in Civil Appeal No. 1201 of 1966 decided on
+February 12, 1970, in Khushal Khenger Shah v. Khorshedbann Dabida Boatwala, to
+describe "goodwill", can be adopted to describe a brand as an intangible asset
+being the whole advantage of the reputation and connections formed with the
+customer together with circumstances which make the connection durable. The
+definition  44 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private
+Limited given by Lord MacNaghten in Commissioner of Inland Revenue v. Midler
+and Co. Margarine Ltd. [1901] AC 217 (223) can also be applied with marginal
+changes to understand the concept of brand. In the context of "goodwill" it
+was observed: "It is very difficult, as it seems to me, to say that goodwill
+is not property. Goodwill is bought and sold every day. It may be acquired.
+
+I think, in any of the different ways in which property is usually acquired.
+When a man has got it he may keep it as his own. He may vindicate his
+exclusive right to it if necessary by process of law. He may dispose of it if
+he will--of course, under the conditions attaching to property of that nature
+... What is goodwill? It is a thing very easy to describe very difficult to
+define. It is the benefit and advantage of the good name, reputation, and:
+connection of a business. It is the attractive force which brings in custom.
+It is the one thing which distinguishes an old established business from a new
+business at its first start. The goodwill of a business must emanate from a
+particular centre or source. However, widely extended or diffused its
+influence may be, goodwill is worth nothing unless it has power of attraction
+sufficient to bring customers home to the source from which it emanates.
+Goodwill is composed of a variety of elements. It differs in its composition
+in different trades and in different businesses in the same trade. One element
+may preponderate here and another element there. To analyse goodwill and split
+it up into its component parts, to pare it down as the Commissioners desire to
+do until nothing is left but a dry residuum ingrained in the actual place
+where the business is carried on while everything else is in the all, seems to
+me to be as useful for practical purposes as it would be to resolve the human
+body into the various substances of which it is said to be composed. The
+goodwill of a business is one whole, and in a case like this it must be dealt
+with as such. For my part, I think that if there is one attribute common to
+all cases of goodwill it is the attribute of locality. For goodwill has no
+independent existence. It cannot subsist by itself. It must be attached to a
+business. Destroy the business, and the goodwill perishes with it, though
+elements remain which may perhaps be gathered up and be revived again ..."
+
+45
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited 104 "Brand"
+has reference to a name, trade mark or trade name. A brand like "goodwill",
+therefore, is a value of attraction to customers arising from name and a
+reputation for skill, integrity, efficient business management or efficient
+service. Brand creation and value, therefore, depends upon a great number of
+facts relevant for a particular business. It reflects the reputation which the
+proprietor of the brand has gathered over a passage or period of time in the
+form of widespread popularity and universal approval and acceptance in the
+eyes of the customer. To use words from CTT v. Chunilal Prabhudas and Co.
+[1970] 76 ITR 566 (Cal) ; AIR 1971 Cal 70, it would mean :
+
+"It has been horticulturally and botanically viewed as 'a seed sprouting' or
+an 'acorn growing into the mighty oak of goodwill'. It has been geographically
+described by locality. It has been historically explained as growing and
+crystallising traditions in the business. It has been described in terms of a
+magnet as the 'attracting force'. In terms of comparative dynamics, goodwill
+has been described as the 'differential return of profit'. Philosophically it
+has been held to be intangible. Though immaterial, it is materially valued.
+Physically and psychologically, it is a 'habit and sociologically it is a
+'custom'. Biologically, it has been described by Lord Macnaghten in Trego v.
+Hunt [1896] AC 7 as the 'sap and life' of the business."
+
+There is a line of demarcation between development and exploitation.
+Development of a trade mark or goodwill takes place over a passage of time and
+is a slow ongoing process. In cases of well recognised or known trade marks,
+the said trade mark is already recognised. Expenditures incurred for promoting
+product(s) with a trade mark is for exploitation of the trade mark rather than
+development of its value. A trade mark is a market place device by which the
+consumers identify the goods arid services and their source. In the context of
+trade mark, the said mark symbolises the goodwill or the likelihood that the
+consumers will make future purchases of the same goods or services. Value of
+the brand also would depend upon and is attributable to intangibles other than
+trade mark. It refers to infra-structure, know-how, ability to compete with
+the established market leaders. Brand value, therefore, does not represent
+trade mark as  46 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private
+Limited a standalone asset and is difficult and complex to determine and
+segregate its value. Brand value depends upon the nature and quality of goods
+and services sold or dealt with'. Quality control being the most important
+element, which can mar or enhance the value.
+
+Therefore, to assert and profess that brand building as equivalent or
+substantial attribute of advertisement and' sale promotion would be largely
+incorrect. It represents a coordinated synergetic impact created by assort-
+merit largely representing reputation and quality. There are a good number of
+examples where brands have been built without incurring substantial
+advertisement or promotion expenses and also cases where in spite of extensive
+and large scale advertisements, brand values have not been created. Therefore,
+it would be erroneous and fallacious to treat brand building as counterpart or
+to commensurate brand with advertisement expenses. Brand building or creation
+is a vexed and complexed issue, surely not just related to advertisement.
+Advertisements may be the quickest and effective way to tell a brand story to
+a large audience but just that is not enough to create or build a brand.
+Market value of a brand would depend upon how many customers you have, which
+has reference to brand goodwill, compared to a baseline of an unknown brand.
+It is in this manner that the value of the brand or brand equity is
+calculated. Such calculations would be relevant when there is an attempt to
+sell or transfer the brand name. Reputed brands do not go in for advertisement
+with the intention to increase the brand value but to increase the sales and
+thereby earn larger and greater profits. It is not the case of the Revenue
+that the foreign associated enterprises are in the business of sale/transfer
+of brands.
+
+Accounting Standard 26 exemplifies distinction between expenditure HJ7
+incurred to develop or acquire an intangible asset and internally generated
+goodwill. An intangible asset should be recognised as an asset, if and only
+if, it is probable that future economic benefits attributable to the said
+asset will flow to the enterprise and the cost of the asset can be measured
+reliably. The estimate would represent the set off of economic conditions that
+will exist over the useful life of the intangible asset. At the  47 ITA
+996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited initial stage,
+intangible asset should be measured at cost. The above proposition would not
+apply to internally generated goodwill or brand. Paragraph 35 specifically
+elucidates that internally generated goodwill should not be recognised as an
+asset. In some cases expenditure is incurred to generate future economic
+benefits but it may not insult in creation of an intangible asset in the form
+of goodwill or brand, which meets the recognition criteria under AS-26.
+Internally generated goodwill or brand is not treated as an asset in AS-26
+because it is not an identifiable resource controlled by an enterprise, which
+can be reliably measured at cost. Its value can change due to a range of
+factors. Such uncertain and unpredictable differences, which would occur in
+future, are indeterminate. In subsequent paragraphs, AS-26 records that
+expenditure on materials and services used or consumed, salary, wages and
+employment related costs, overheads, etc., contribute in generating internal
+intangible asset. Thus, it is possible to compute good- will or brand
+equity/value at a point of time but its future valuation would be perilous and
+an iffy exercise.
+
+In paragraph 44 of AS-26, it is stated that intangible asset arising from
+development will be recognised only and only if amongst several factors, can
+demonstrate a technical feasibility of completing the intangible asset: that
+it will be available for use or sale and the intention is to complete the
+intangible asset for use or sale is shown or how the intangible asset generate
+probable future benefits, etc. The aforesaid position finds recognition and
+was accepted in CIT v. B. C. Srinivasa Setty [1981] 128 ITR 294 (SC), a
+relating transfer to goodwill. Goodwill, it was held, was a capital asset and
+denotes benefits arising from connection and reputation. A variety of elements
+go into its making and the composition varies in different trades, different
+businesses in the same trade, as one element may pre-dominate one business,
+another element may dominate in another business. It remains substantial in
+form and nebulous in character. In progressing business, brand value or
+goodwill will show progressive increase but in falling business, it may vain.
+Thus, its value fluctuates from one moment to another, depending upon
+reputation and everything else relating to business, personality, business  48
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited rectitude of
+the owners, impact of contemporary market reputation, etc. Importantly, there
+can be no account in value of the factors producing it and it is impossible to
+predicate the moment of its birth for it comes silently into the world
+unheralded and unproclaimed. Its benefit and impact need not be visibly felt
+for some time. Imperceptible at birth, it exits unwrapped in a concept,
+growing or fluctuating with numerous imponderables pouring into and affecting
+the business. Thus, the date of acquisition or the date on which it comes into
+existence is not possible to determine and it is impossible to say what was
+the cost of acquisition. The aforesaid observations are relevant and are
+equally applicable to the present controversy. It has been repeatedly held by
+the Delhi High Court that advertisement 110 expenditure generally is not and
+should not be treated as capital expenditure incurred or made for creating an
+intangible capital asset. Appropriate in this regard would be to reproduce the
+observations in CTT v. Monto Motors Ltd. [2012] 206 Taxman 43 (Delhi), which
+read:
+
+"4. . . . Advertisement expenses when incurred to increase sales of products
+are usually treated as a revenue expenditure, since the memory of purchasers
+or customers is short. Advertisement are issued from time to time and the
+expenditure is incurred periodically, so that the customers remain attracted
+and do not forget the product and its qualities. The advertisements
+published/displayed may not be of relevance or significance after lapse of
+time in a highly competitive market, wherein the products of different
+companies compete and are available in abundance. Advertisements and sales
+promotion are conducted to increase sale and their impact is limited and felt
+for a short duration. No permanent character or advantage is achieved and is
+palpable, unless special or specific factors are brought on record. Expenses
+for advertising consumer products generally are a part of the process of
+profit earning and not in the nature of capital outlay. The expenses in the
+present case were not incurred once and for all, but were a periodical
+expenses which had to be incurred continuously in view of the nature of the
+business. It was an on- going expense. Given the factual matrix, it is
+difficult to hold that  49 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India
+Private Limited the expenses were incurred for setting the profit earning
+machinery in motion or not for earning profits.". (Also see, CIT v. Spice
+Distribution Ltd., I. T. A. No. 597 of 2014, decided by the Delhi High Court
+on September 19, 2014 [2015] 374 ITR 30 (Delhi) and CTT v. Salora
+International Ltd. [2009] 308 ITR 199 (Delhi).
+
+Accepting the parameters of the "bright line test" and if the said para meters
+and tests are applied to Indian companies with reputed brands and substantial
+AMP expenses would lead to difficulty and unforeseen tax implications and
+complications. Tata, Hero, Mahindra, TVS, Baja], Godrej, Videocon group and
+several others are both manufacturers and owners of intangible property in the
+form of brand names. They incur substantial AMP expenditure. If we apply the
+"bright line test" with reference to indicators mentioned in paragraph 17.4 as
+well as the ratio expounded by the majority judgment in L. G. Electronics
+India Pvt Ltd.'s case (supra) in paragraph 17.6 to bifurcate and segregate the
+AMP expenses towards brand building and creation, the results would be
+startling and unacceptable. The same is the situation in case we apply the
+parameters and the "bright line test" in terms of paragraph 17.4 or as per the
+contention of the Revenue, i.e., AMP expenses incurred by a distributor who
+does not have any right in the intangible brand value and the product being
+marketed by him. This would be unrealistic and impracticable, if not delusive
+and misleading (aforesaid reputed Indian companies, it is patent, are not to
+be treated as comparables with the assessee, i.e., the tested parties in these
+appeals, for the latter are not the legal owners of the brand name/trade
+mark).
+
+112\. Branded products and brand image is a result of consumerism and a
+commercial reality, as branded products "own" and have a reputation of
+intrinsic believability and acceptance which results in higher price and
+margins. Trans- border brand reputation is recognised judicially and in the
+commercial world. Well known and renowned brands had extensive goodwill and
+image, even before they became freely and readily available in India through
+the subsidiary associated  50 ITA 996/Del/2016 AY: 2011-12 Yakult Danone India
+Private Limited enterprises, who are assessees before us. It cannot be denied
+that the reputed and established brands had value and goodwill. But a new
+brand/trade mark/trade-name would be relatively unknown. We have referred to
+the said position not to make a comparison between different brands but to
+highlight that these are relevant factors and could affect the function
+undertaken which must be duly taken into consideration in selection of the
+comparables or when making subjective adjustment and, thus, for computing the
+arm's length price. The aforesaid discussion substantially negates and rejects
+the Revenue's case. But there are aspects and contentions in favour of the
+Revenue which requires elucidation."
+
+60.1 Thus, the Hon'ble High Court after describing the concept of the "brand"
+had made a clear cut demarcation between development and exploitation of brand
+which is either in the form of trademark or goodwill which takes place over a
+passage of time by which its value depends upon and is attributable to
+intangibles other than trademark like, infrastructure, knowhow, ability to
+compete in the established market, lease, etc. Brand value does not represent
+trademark as asset and it is quite difficult to determine and segregate its
+value. Brand value largely depends upon the nature of goods and services sold,
+after sales services, robust distributorship, quality control, customer
+satisfaction and catena of other factors. The advertisement is more telling
+about the brand story, penetrating the mind of the customers and constantly
+reminding about the brand, but it is not enough to create brand, because
+market value of a brand would depend upon how many customers you have, which
+has reference to a brand goodwill. There are instances where reputed brand
+does not go for advertisement with the intention to increase the brand value
+but to only increase the sale and thereby earning greater profits. It is  51
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited also not the
+case here that foreign AE is in the business of sale/transfer of brands. Their
+Lordships have also referred to Accounting Standard 26 which provides for
+computation of goodwill and brand equal value at a point of time but not its
+future valuation or how such an intangible asset will generate probable future
+benefit. Because, the value fluctuates from one moment to other depending upon
+reputation and other factors. Reputation of a brand only enhances the sale and
+profitability and here in this case is only benefitting the assessee company
+when marketing its products using the trade mark and the brand of AE. Even
+otherwise also, the value of the brand which has been created in India by the
+assessee company will only be relevant when at some point of time the foreign
+AE decides to sell the brand, then perhaps that would be the time when brand
+value will have some significance and relevance. But to make any transfer
+pricing adjustment simply on the ground that assessee has spent advertisement,
+marketing expenditure which is benefitting the brand/trademark of the AE would
+not be correct approach. Thus, this line of reasoning given by the TPO is
+rejected.
+
+6.10. Respectfully following the same, we also reject Bright line Test applied
+by Ld.TPO and further hold that, AMP expenditure cannot be considered as
+International transaction in the facts and circumstances of present case.
+
+6.11. Accordingly we allow ground nos. 1- 11 raised by assessee.
+
+52
+
+ITA 996/Del/2016 AY: 2011-12 Yakult Danone India Private Limited
+
+7\. Ground no.12 is in respect of penalty levied by Ld.AO. This ground being
+consequential in nature, do not call for any adjudication.
+
+8\. In the result appeal filed by assessee stands allowed.
+
+Order pronounced in open court on 29th March,2019.
+
+    
+    
+                 Sd/-                                           Sd/-
+       (R.K.PANDA)                                           (BEENA A PILLAI)
+    Accountant Member                                        Judicial Member
+    
+    Dated: 29th March, 2019.
+    
+    
+    Copy   of the Order forwarded to:
+    1.     Appellant
+    2.     Respondent
+    3.     CIT
+    4.     CIT(A)
+    5.     DR
+    6.     Guard File
+    
+    
+    
+                                                  By Order
+    
+    
+    
+    
+                                                 Asst. Registrar
+                                        ITAT, Delhi Benches, New Delhi
+    
+    
+    
+    
+                                                                                          53
+                                                                   ITA 996/Del/2016 AY: 2011-12
+                                                            Yakult Danone India Private Limited
+    
+    
+    
+    
+                                                 Date
+    Draft dictated on
+                                                 18.03.19
+    Draft placed before author                   22.03.19
+                                                 26/03/19
+    Draft proposed & placed before the second
+    member
+    Draft discussed/approved by Second
+    Member.
+    Approved Draft comes to the Sr.PS/PS
+    Kept for pronouncement on
+                &
+    Order uploaded on :
+    File sent to the Bench Clerk
+    Date on which file goes to the AR
+    Date on which file goes to the Head Clerk.
+    Date of dispatch of Order.
+    
+    
+    
+    
+                                                                                            54
+     
+

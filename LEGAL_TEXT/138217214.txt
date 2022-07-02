@@ -1,0 +1,1351 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Cadence Design Systems (India) ... vs Dcit, New Delhi on 5 January, 2018
+
+    
+    
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                      DELHI BENCH: 'I-2', NEW DELHI
+    
+              BEFORE SH. AMIT SHUKLA, JUDICIAL MEMBER
+                                 AND
+                 SH. O.P. KANT, ACCOUNTANT MEMBER
+    
+                             ITA No. 380/Del/2015
+                           Assessment Year: 2010-11
+    
+    M/s. Cadence Design Systems Vs.          DCIT, Circle -5(2), New Delhi
+    (India) Pvt. Ltd., O Floor, Hotel
+    The Suryaa, New Friends
+    Colony, New Delhi
+    PAN : AAACC1138Q
+               (Appellant)                            (Respondent)
+    
+                 Appellant by        Sh. Nageshwar Rao, Adv.
+                 Respondent by       Sh. H.K. Choudhary, CIT(DR)
+    
+                             Date of hearing                13.11.2017
+                             Date of pronouncement          05.01.2018
+    
+                                    ORDER
+    
+
+PER O.P. KANT, A.M.:
+
+This appeal by the assessee is directed against order dated 15/12/2014 of the
+Deputy Commissioner of Income Tax, Circle-5(2), New Delhi (hereinafter
+referred to as "the Assessing Officer") for assessment year 2010-11, which has
+been passed pursuant to the direction of the Ld. Dispute Resolution Panel
+(DRP). The grounds of appeal raised by the assessee are reproduced as under:
+
+"1 The final assessment order dated 15 December 2014 passed by the Deputy
+Commissioner of Income Tax, Circle 5(2) New Delhi ('Learned AO') pursuant to
+the directions of the Hon'ble Dispute Resolution Panel ('DRP'), draft
+assessment order passed by Learned AO and the order dated 11 December 2014
+passed by Additional Commissioner of income Tax,  2 ITA No. 380/Del/2015
+Transfer Pricing Officer-1(3), New Delhi ('Learned TPO'), is bad in law and
+void-ab-initio.
+
+2 That on facts and in law, the Learned AO has erred in computing the total
+income of the Appellant at INR 33,20,95,411 as against the returned income of
+INR 28,10,94,267 by making an upward adjustment of INR 4,89,94,226 and INR
+20,06,918 with respect to transfer pricing ("TP") and corporate tax matters,
+respectively.
+
+Part I - Transfer Pricing Grounds 3 That on facts of the case and in law, the
+DRP/TPO/AO have erred in rejecting the economic analysis undertaken by the
+Appellant by conducting a fresh economic analysis for international
+transaction pertaining to provision of IT back office support services
+("impugned transaction").
+
+4 That on facts of the case and in law, the DRP/TPO/AO have erred in rejecting
+certain companies and adding certain companies to the final set of alleged
+comparable companies on an ad-hoc basis, thereby resorting to cherry picking
+of comparable companies for benchmarking the impugned transaction.
+
+5 That on facts of the case and in law, the DRP/TPO/AO have erred in selecting
+companies in the final set of alleged comparables which have different
+business / operating models as compared to the Appellant for the impugned
+transaction.
+
+6 That on facts of the case and in law, the DRP/TPO/AO erred and vitiated the
+principle of natural justice by not giving due cognizance to the detailed
+analysis and technical arguments submitted by the Appellant in respect of
+certain companies considered/rejected for benchmarking of impugned
+transaction.
+
+7 That on facts of the case and in law, the DRP has grossly erred in giving a
+direction to rectify the arithmetical errors in the computation of the
+operating margins of alleged comparable companies in compliance with the
+Income Tax Act ("the Act") without appreciating that Indian regulations do  3
+ITA No. 380/Del/2015 not enumerate the methodology for computing operating
+margins which may apply to the Appellant. DRP has erred in directing the TPO
+to re-compute margins of alleged comparables using safe harbour rules without
+understanding that:
+
+· Appellant has not applied for being assessed under safe harbor provisions ·
+Safe harbour provisions do not reflect arm's length nature of margins · Safe
+harbour rules cannot be applied retrospectively and are only applicable for
+assessment year ("AY") 2013-14 and AY 2014-15 on specific application by a
+taxpayer 8 That on facts of the case and in law, the DRP/TPO/AO have erred in
+conducting a fresh economic analysis by using arbitrary filters for
+identifying companies comparable to the Appellant. The arbitrary filters
+applied by the TPO and confirmed by the DRP/Assessing Officer inter-alia
+include the following:
+
+· Rejecting companies having turnover less than INR 5 Crores;
+
+· Rejecting companies having different accounting year than that of the
+Appellant;
+
+· Rejecting company having employee cost less than 25 percent of the total
+sales.
+
+· Rejection of companies identified by the Appellant on account of having
+peculiar economic circumstances which are not in line with the industry trend,
+companies which showed diminishing revenue trend; and · Rejecting companies
+having export revenue less than 75 per cent of the operating revenue.
+
+9 That on facts of the case and in law, the DRP/ TPO/AO have erred by
+selecting certain companies which are earning super normal profits as
+comparable to the Appellant for the impugned transaction.
+
+10 That on facts of the case and in law, the DRP/TPO/AO have failed to make
+appropriate adjustments to account for varying risk profiles of the Appellant
+vis-a-vis the alleged comparables for impugned transaction and in the process
+4 ITA No. 380/Del/2015 inter-alia neglected the Indian transfer pricing
+regulations, international guidelines on transfer pricing and judicial
+precedence in this regard.
+
+11 That on facts of the case and in law, the DRP and TPO/AO have erred by not
+considering that the adjustment to the arm's length price, if any, should be
+limited to the lower end of the 5 percent range as the Appellant has the right
+to exercise this option under the second proviso to section 92C(2) of the Act.
+
+12 That on facts of the case and in law, the DRP/ TPO/AO have erred in using
+single year data for financial year ("FY") 2009- 10 of alleged comparable
+companies without considering the fact that the same was not available to the
+Appellant at the time of complying with the transfer pricing documentation
+requirements and disregarding the Appellant's claim for use of multiple year
+data for computing the arm's length price.
+
+13 That on facts of the case and in law, the DRP/TPO/AO have erred in
+erroneously allocating the indirect costs on the basis of the respective
+segmental revenue of the Appellant and re- determined the operating margin of
+the Appellant for the impugned transaction.
+
+14 That on facts of the case and in law, the DRP/AO has erred in confirming
+that AO/TPO has discharged his statutory onus by establishing that the
+conditions specified in clause (a) to
+
+(d) of Section 92C(3) of the Act have been satisfied before disregarding the
+arm's length price determined by the Appellant and proceeding to determine the
+arm's length price.
+
+Part II - Corporate Tax Grounds 15 That on the facts and circumstances of the
+case and in law, the AO/ DRP erred in facts placed on record.
+
+16 That on the facts and circumstance of the case and in law, the AO/ DRP
+erred in holding that the Appellant intentionally debited director's salary to
+non STP unit to reduce its taxable income, without appreciating the operating
+model (cost plus mark-up) of the Appellant.
+
+5
+
+ITA No. 380/Del/2015 17 Without prejudice to grounds 15 and 16 above, the AO/
+DRP erred in not shifting the income linked with director's remuneration cost,
+from non-STP unit to STP unit, based on the operating model of the Appellant.
+
+18 That on the facts and in the circumstances of the case, the Learned AO has
+erred in initiating penalty under section 271(1 )(c) of the Act, as
+consequences of the additions made in the assessment order passed under
+section 143(3) read with section 144C of the Act.
+
+19 That on the facts and in the circumstances of the case, the Learned AO has
+erred in charging interest under section 234B of the Act, as consequence of
+the additions made in the assessment order passed under section 143(3) read
+with section 144C of the Act.
+
+The above grounds of appeal are mutually exclusive & without prejudice to each
+other. The Appellant craves leave to add, amend, vary, omit or substitute any
+of the aforesaid grounds of appeal at any time before or at the time of
+hearing of the appeal.
+
+The Appellant prays for appropriate relief based on the said grounds of appeal
+and the facts and circumstances of the case.
+
+2\. Briefly stated facts of the case are that the assessee company filed its
+return of income on 17/09/2010, declaring total income of Rs.28,10,94,267/-.
+The case was selected for scrutiny and notice under section 143(2) of the
+Income-tax Act, 1961 (in short 'the Act') was issued and complied with. In
+view of the international transactions carried out by the assessee with its
+Associated Enterprises (AEs), the Assessing Officer referred the matter of
+determination of Arm's Length Price (ALP) of international transactions to the
+Ld. Transfer Pricing Officer (TPO). The Ld. TPO vide his order dated
+20/01/2014 under section 92CA(3) of the Act, computed arm's length price (ALP)
+of the international transactions by making adjustment of Rs.21,54,03,221/-.
+On the basis of  6 ITA No. 380/Del/2015 the order of the Ld. TPO, the
+Assessing Officer proposed addition of Rs.21,54,03,221/-. The Assessing
+Officer also proposed reduction in deduction of Rs.20,06,918/- under section
+10A of the Act in view of the re-allocation of director's salary amount in STP
+and non-STP units. The Assessing Officer issued a draft assessment order on
+24.03.2014 proposing above two additions. The assessee filed its objections to
+the draft assessment order before the Ld. DRP. After considering the
+submission of the assessee, the Ld. DRP issued directions on 11/11/2014 to the
+Assessing Officer. The Assessing Officer after incorporating the direction of
+the Ld. DRP, issued final assessment order under section 143(3) read with
+section 144C of the Act on 15.12.2014. Aggrieved with the said order, the
+assessee is in appeal before the Tribunal raising the grounds as reproduced
+above.
+
+3\. The ground Nos.1 and 2 have been stated as general in nature, therefore,
+would get covered while adjudicating the issues raised in other grounds of
+appeal and not required to adjudicate upon specifically.
+
+4\. The ground nos. 3 to 14 are related to transfer pricing adjustment. In the
+case of the assessee, there are two segments i.e. "Software Research &
+Development Service" and "Information Technology (IT) back-office support
+services". In the transfer pricing adjustment, the assessee has pressed before
+us for exclusion and inclusion of certain comparables in IT back-office
+support services only. The issue of exclusion/inclusion of comparables has
+been challenged in ground No. 4, 5, 6 ,8 and 9 only. Other grounds have not
+been pressed before us, thus, balance grounds of transfer pricing adjustment
+are dismissed as infructuous.
+
+5\. Before adjudicating the transfer pricing grounds challenged by the
+assessee, it is relevant to reproduce background of the transfer pricing
+adjustment.
+
+7
+
+ITA No. 380/Del/2015 5.1 The assessee is a wholly-owned subsidiary of 'Cadence
+Design Systems' Inc., USA (in short 'CDS'). The assessee submitted profile of
+the "CDS" Group as well as its own profile before the lower authorities. The
+Ld. DRP has reproduced detailed profile of the group as well as the assessee
+company. According to the submission of the assessee, the "CDS" supplies
+electronic design technologies and services, which assists customers in
+designing high-performance electronic systems and Integrated Circuits (ICs).
+The "CDS" and its group companies are engaged in developing Electronic Design
+Automation (EDA) software and hardware, its sales and also licensing .
+
+5.2 The assessee company was established in India to undertake software
+research and development services, related information technology back-office
+support services and related pre-sales marketing and post sales technical
+support services. According to the assessee, it is a captive contract service
+provider and compensated on a cost plus markup basis for the services rendered
+to its Associated Enterprises (AEs).
+
+5.3 The functions performed by the assessee and the "CDS" with regard to
+identified transactions, which have been reproduced by the Ld. DRP in their
+order, are extracted as under:
+
+> · Conceptualization of services The SPL is generally a 3 Phases, multi step
+> process involving the collaboration among Product Management, Marketing and
+> Product Engineering. The 3 phases of Product Engineering are Product
+> Definition, Product Development and Servicing.
+
+In the Product Definition (Conceptualization) phase, a value proposition and a
+product prototype are developed based on customer feedback from the servicing
+phase, surveys, competitive analysis, the product leader's vision for future
+and CDS's overall vision for the product category. Then, marketing  8 ITA No.
+380/Del/2015 research is performed to test the value proposition and the
+marketing feasibility of a product prototype; The product leadership team and
+product engineers will work with the marketing research team to address
+software engineering issues and technical feasibility. When the prototype is
+finalized the next phase of the lifecycle begins.
+
+The second phase is Product Development, which is a 5 step process involving
+determination of the requirements, design, implementation; verification and
+release. Again, each stage is a collaborative effort among the Product
+Engineering Team, the Marketing Team and Product Management to ensure that the
+product is on track to meet the value proposition framework. Product
+Engineering is a generic term to identify software architecture development,
+design, code development, testing and various other technical services.
+
+The final phase is known as Servicing. In this phase, the marketing team is
+researching and tracking product awareness and perceptions, customer
+satisfaction deployment and user experience. This information is used by the
+product leaders to help determine the concept of the next version of the
+product.
+
+Cadence India's Role in the SPL The most important aspect of determining the
+marketability and profitability of a software product is the decision of
+"what" to develop next. This decision is made at CDS, based on the factors
+described above in the Product Definition Phase ("PDP"). All of the work in
+the PDP is performed outside of India.
+
+Cadence India's role is limited to rendering software research and development
+services to CDS. All decisions regarding Product Definition are made by CDS.
+In particular, all decisions regarding which products to develop, product
+design and how much to invest in such development are made by the CDS. Cadence
+India is involved in rendering software development services as per the
+directions and guidance provided by CDS.
+
+· Marketing and business development  9 ITA No. 380/Del/2015 CDS
+conceptualizes the marketing strategy for the sale of its products and
+services and undertakes functions such as customer lead identification,
+marketing and securing the orders for the products to be developed. As part of
+its marketing function, CDS is involved in the identification of key
+prospective customers and understanding their requirements.
+
+Being a captive unit of CDS, Cadence India does not undertake any marketing or
+business development functions.
+
+· Requirement analysis CDS provides the software module specifications,
+instructions, product specifications for the software to be developed by
+Cadence India. Based on instructions/information provided by CDS, the
+requirements are internally analyzed by Cadence India and converted into
+functions and features of the intended application.
+
+Upon receiving the approval from CDS, the development work is commenced by
+Cadence India.
+
+· Coding, testing and documentation Cadence India undertakes code development
+in accordance with product specifications defined by CDS. The code generated
+is subsequently tested to ensure that functions performed by the code are in
+accordance with the protocol design and standard specifications. Cadence India
+generates and makes available documentation for the software developed and
+transferred. The software "developed by Cadence India is subsequently
+integrated into the final software product by CDS and other Cadence group
+entities.
+
+· Project management Although the day-to-day management of the project is
+undertaken by Cadence India, CDS is responsible for the overall project
+management. CDS regularly conducts meetings to analyse the progress and
+monitors the project plan.
+
+· Quality control, testing and integration  10 ITA No. 380/Del/2015 Cadence
+India is responsible for ensuring that requisite quality/ performance
+standards are complied with while rendering services.
+
+5.4 The assessee reported following international transactions:
+
+International Transactions Method Value (INR) Provision of software research
+and TNMM using development services Operating profit as 1,57,79,32,410 PLI
+Operating Cost TNMM using Provision of IT back office support services
+Operating profit as 42,69,64,705 PLI Operating Cost TNMM using Provision of
+pre-sales marketing and post-
+
+    
+    
+                                                     Operating profit as    34,16,72,056
+     sales technical support services
+                                                     PLI Operating Cost
+                                                        TNMM using
+     Payment of bank guarantee                       Operating profit as        1,60,417
+                                                     PLI Operating Cost
+    
+
+Payment of interest towards foreign currency loan CUP Method 41,07,358
+Purchase of free of cost assets from No benchmarking associated enterprises
+required Receipt of share under Employee Stock Purchase Plan from Cadence
+Design No benchmarking System Inc. required 5.5 The Ld. AO/TPO made adjustment
+only in respect of two transactions as under:
+
+    
+    
+    
+    
+     S.  Nature of international ALP                    ALP             Adjustment
+     No. transaction              determined by         determined      under section
+                                  the assessee          by the TPO      92CA (INR)
+                                  (INR)                 (INR)
+     1.  IT back-office support 42,69,64,705            500492805       73683663
+         services( ITes services)
+     2.  Software research and 1577357496               1719077054      141719558
+         development services
+         Total                                                          215403221
+                                         11
+                                                            ITA No. 380/Del/2015
+    
+    
+    
+    
+
+5.6 During the year under consideration, no adverse inference was drawn by the
+Ld. TPO for pre-sales marketing and post-sales technical support services
+rendered by the assessee.
+
+5.7 As regard to the software research and development service segment , the
+Ld. DRP provided relief to the assessee with regard to the adjustment made by
+the Ld. TPO and due to which, entire adjustment made to software research and
+development service segment stands deleted.
+
+5.8 As regard to IT back-office support services segment, the assessee
+reported that it has rendered services on cost plus margin of 15%. The
+assessee had entered into an agreement with "CDS" under which, the assessee
+was responsible for providing IT back-office support services comprising of
+UNIX/WINDOW administration and support; Internal helpdesk services;
+application document & support; Web development and support and customer
+support. In its transfer pricing study, the assessee accepted TNMM as the most
+appropriate method and determined Profit Level Indicator (PLI) of operating
+profit /operating cost (OP/OC) at 15.00% , which was revised by the Ld. TPO to
+16.23% in view of allocation of depreciation of Palladium Machine. The
+assessee selected 10 comparables with weighted averages margin PLI. The
+comparables selected by the taxpayer are reproduced as under:
+
+> OP/OC (%) as calculated Sl. No. Company Name by the taxpayer 1 CG Vak
+> Software and exports Ltd. 0.53 2 Cosmic Global Limited 16.59 3 Informed
+> Technologies Ltd. 31.46 4 Microgenetics Systems Ltd. 6.49 5 R Systems
+> International Ltd. 7.15 6 Jindall Intellicom Pvt. Ltd. 18.67 7 Omega
+> Healthcare Limited 15.31 E4e Healthcare business services 8 Pvt. ltd. 21.01
+> 12 ITA No. 380/Del/2015 9 Caliber point Business Sol. Ltd. 21.92 10 Axia IT
+> & T Ltd. 13.51 5.9 Ld. TPO rejected seven comparables selected by the
+> assessee as under:
+    
+    
+      Sl. No.             Comparables                         TPO's Comments
+    
+                CG VAK Software and Exports            Fails turnover filter
+      1
+                Limited (Segmental)
+                Informed Technologies Limited          Turnover is less than Rs. 5
+      2                                                crores
+                R Systems International Limited        Financial year ending other
+      3
+                                                       than March 31
+      4         Caliber Point Business Solutions       This comparable has different
+                Ltd                                    financial year ending.
+                                                       Rejected.
+      5         Axis-IT&T Limited.                     It fails export sales filter.
+                                                       Rejected.
+                Omega Healthcare Limited               No annual report is available in
+      6
+                                                       public domain
+      7         Microgenetics System Ltd.              Sales less than 5 crore, fails
+      a                                                turnover filter
+    
+    
+    
+
+> 5.10 Further Ld. TPO used following new comparables:
+
+> SL. No, Company Name 1 Accentia Technologies 2 Eclerx Services Ltd.
+    
+    
+                     3         Fortune Infotech Ltd.
+                     4         Igate Global Solns. Ltd.
+                     5         TCS E Serve Intnl. Ltd.
+                     6         TCS E-Serve Ltd.
+                     7         Infosys BPO
+    
+    
+    
+
+> 5.11 The comparables finally selected by the TPO under IT back-office
+> support service are as under:
+    
+    
+                  SL. No. Company Name                            OP/OC%)
+                                                 13
+                                                                       ITA No. 380/Del/2015
+    
+    
+    
+                1          Accentia Technologies               43.07
+                2          Cosmic Global Limited               18.28
+                3          Infosys BPO Ltd.                    31.46
+                4          Jihdall Intellicom Pvt. Ltd.        18.67
+                5          Eclerx Services Ltd.                55.97
+                6          Fortune Infotech Ltd.               22.8
+                7          . igate Global Solns. Ltd.          24.54
+                8          TCS E Serve Intnl. Ltd.             53.8
+                9          TCS E-Serve Ltd.                    63.38
+                           e4e Healthcare Business services
+                10                                          31.03
+                           Ltd.
+                           AVG                              36.30
+    
+    
+    
+
+> 5.12 The Ld. TPO took current year data for comparison. The Ld. TPO applying
+> average PLI (OP/OC) of 36.30%, computed the adjustment to Rs.7,36,83,663/-.
+
+> 5.13 The Ld. DRP directed to exclude the comparable "E-clarx" and include
+> "Omega" to the set of comparables companies selected by the Ld. TPO. In view
+> of the directions of Ld. DRP, the adjustment to IT back-
+
+office support services has been revised by the Ld. TPO in order giving effect
+dated 11/12/2014 to Rs.4,89,94,226/-. The list of comparables retained in the
+final list of comparables is reproduced as under:
+
+> I.T back Office Support Services Sl. No. Name of the Company F.Y. 2009-10 1
+> Accentia Technologies Limited 38.41% 2 Cosmic Global Limited 19.29% e4e
+> Healthcare Business Services Private 3 Limited 27.22% 4 Fortune Infotech
+> Limited 16.05% 5 iGate Global Solutions Limited 22.38% 6 Infosys BPO Limited
+> 30.32%"
+    
+    
+          7         jindal Intellicom Private Limited                     13.3/7%
+                    Omega Healthcare Management Services                  13.21%
+          8
+                    Private Limited
+          9         TCS e-Serve Limited                                   62.23%
+          10        TCS e-Serve International Limited                     54.13%
+          11        eClerx Services Limited                                 NC
+                                             14
+                                                               ITA No. 380/Del/2015
+    
+    
+    
+                Arithmetic mean                                    29.66
+    
+    
+    
+                      Operating cost             367,082,316
+                      Arm's length margin        29.66%
+                      Ann's length price         475,958,931
+                      Transfer Price             426,964,705
+                      Adjustment                 48,994,226
+    
+    
+    
+    
+    
+
+> 5.14 Before us, Ld. counsel of the assessee argued for exclusion of the four
+> companies included by the Ld. TPO, namely, (i) TCS e-serve International
+> ltd., (ii) TCS e-serve Ltd., (iii) Accentia Technologies Ltd.,
+
+> (iv) Infosys BPO Ltd. and inclusion of the two companies rejected by the Ld.
+> TPO, namely, (i) CG- VAK Software & Exports Ltd (Segmental) and
+
+> (ii) R systems International Limited (Segmental).
+
+5.15 We have heard the rival submission and perused the relevant material on
+record and accordingly, the grounds of the appeal related to
+exclusion/inclusion of comparables are adjudicated as under:
+
+6\. First we take up the issue of exclusion of companies considered comparable
+by the Ld. Transfer Pricing Officer (A) TCS E-serve International Ltd.
+
+6.1 Before us, the Ld. counsel relying on the submission made before the Ld.
+TPO and the Ld. DRP, submitted that due to peculiar economic circumstances,
+the company need to be excluded. He submitted that pursuant to acquisition by
+the Tata Group (page 258-259 of the annual report), there is exceptional rise
+in turnover (173 percent) and profit (283 percent). He further submitted that
+the company was engaged in providing technical services like software testing,
+verification and validation of softwares, transaction processing including
+processing,  15 ITA No. 380/Del/2015 collection, customer care and payments to
+corporate and retail clients of Citigroup and voice-based services (page 3 of
+audited accounts of the company), which are functionally different from ITES
+services rendered by the assessee. According to the Ld. counsel for a variety
+of services rendered, no segment data was available (page 39 of the Annual
+Report of the company). The Ld. counsel further submitted to exclude the
+company on the ground of the deemed related party transactions (RPT).
+According to him, the company provided services to 'Citigroup Global Services
+holding LLC', which was the holding company till 31/12/2008. He submitted that
+services have been continued to be provided under the agreement entered into
+with Citigroup by erstwhile entity during which period the transaction was
+controlled in terms of Chapter X and consequently the terms and condition
+under which services rendered during the appeal continued to be incomparable.
+The Ld. counsel further submitted that the company was having access to 'Tata'
+brand and due to which it was entitled to higher margins associated with the
+use of reputed brand unlike the assessee, who was a captive service provider
+working on cost plus mark-up model.
+
+6.2 The Ld. CIT(DR), on the other hand, submitted that increase in turnover or
+profit cannot be a ground for exclusion of the company. He submitted that
+turnover of the company is in the range of the turnover of the assessee.
+Further, he referred to page 282 of the compilation of the Annual Reports and
+submitted that it is clearly mentioned that the company was engaged in
+providing Information Technology Enabled Services (ITes)/Business Processing
+Outsourcing (BPO) services. The testing, verification and validation of the
+software was done at the time of implementation of software only, and thus, it
+cannot be said that activity of the company is different from the assessee
+company. According to him, there was no requirement of separate segment. On
+the issue of  16 ITA No. 380/Del/2015 deemed RPT, he submitted that TCS Ltd
+has become the holding company w.e.f. 1st January, 2009 and, thus, in the year
+under consideration, the TCS Ltd is the holding company and, therefore,
+transaction of the company with city group clients is no more related party
+transactions. He further submitted that Ld. counsel has not given any evidence
+as the transaction was still governed by the old agreements. On the issue of
+'TATA' brand, he submitted that first of all, 'Tata' brand has not affected
+the PLI of the company. Secondly, the assessee was also using "Cadence" brand.
+Further, he referred to page 281 of the compilation of the Annual Reports and
+submitted that the company incurred only expenses of Rs. 37.38 Lakhs towards
+'Tata' brand equity contribution, which is 0.43% of the total expenses only.
+In view of submission, he stated that action of Ld. DRP in retaining the
+company as comparable was justified.
+
+6.3 We have heard the rival submission and perused the relevant material on
+record. The contention of the Ld. counsel to reject the company as comparable
+on the ground of rise in turnover and profit as compared to last year, is not
+tenable. Under the transfer pricing provisions of the Act, the company is to
+be compared on the basis of FAR (functions carried out, assets employed and
+risk taken). Once the company is found to be comparable in FAR analysis, in
+our opinion rise in turnover or profit compared to earlier year cannot be a
+ground enough for its exclusion from the set of comparables. In normal
+business scenario, there cannot be a fixed rate of growth and fluctuations in
+the growth is normal part of business activity, which cannot be made a basis
+for exclusion of the company from the set of comparables, if otherwise it is
+functionally similar.
+
+6.4 The second contention of the Ld. counsel that company is functionally
+dissimilar, is also not found to be correct. On page 31 of the  17 ITA No.
+380/Del/2015 Annual Report of the company, background and principal activities
+have been mentioned under Schedule 'N' of Notes To Account. The relevant
+extract is reproduced as under:
+
+> "1. Background and Principal activities TCS e-Serve International Limited is
+> engaged in the business of providing Information Technology - Enables
+> Services (ITes)/Business Processing Outsourcing (BPO) services, primarily to
+> Citigroup entities globally. The Company's operations broadly comprise of
+> transaction processing and Technical Services. Transaction Processing
+> includes the broad spectrum of activities involving the processing,
+> collections, customer care and payments in relation to the services offered
+> by Citigroup to its corporate and retail clients. Technical Services involve
+> software testing, verification and validation of software at the time of
+> implementation and data centre management activities."
+
+6.5 Thus, it is evident from the Annual Report of the company for the year
+under consideration that primarily the company is not engaged in software
+development and it was engaged in providing IT enabled services (ITes) only.
+The technical services of software testing, verification and validation the
+software were carried out at the time of implementation of software only and
+are in the nature of back-office support. On perusal of the service agreement
+between "CDS" and the assessee, we find that the assessee was also engaged in
+application development and support, web development etc. The relevant part of
+the agreement which is available on page 871 of the assessee's paper book is
+reproduced as under:
+
+> "Article II SUBJECT MATTER OF THE CONTRACT
+
+> 1\. Authorization: Cadence India is authorized to provide the following
+> services to die company and its affiliates: Back Office IT operations,
+> comprising of UNIX / Windows Administration and Support; Internal  18 ITA
+> No. 380/Del/2015 Helpdesk Services: Application Development & Support; Web-
+> Development & Support (collectively. 'IT Back Office Support') and Customer
+> Support services."
+
+6.6 The Ld. DRP in its order on page 43 has reproduced other pages of the
+Annual Report of the company indicating that the company was engaged in BPO
+services or ITES.
+
+6.7 In view of the comparison of the services rendered by the assessee and the
+services rendered by the company , we are of the opinion that the company
+cannot be rejected on the ground of functional dissimilarity.
+
+6.8 Further, the contention of Ld. counsel to exclude the company on the
+ground of non-availability of segment information is also not tenable as the
+company was functioning in one segment of ITES only. 6.9 The contention of the
+Ld. counsel for exclusion on the ground of deemed RPT is also not acceptable.
+w.e.f. 01/01/2009, the Tata consultancy services Ltd is the holding company of
+the company and thus during the entire period under consideration i.e.
+01/04/2009 to 31/03/2010, the transactions with Citigroup Companies cannot be
+held as related party transactions in the case of the company. We agree with
+the contention of the Ld. CIT(DR), that the assessee has not brought on record
+any evidence that the assessee company continued to provide services to the
+city group companies on the basis of agreements contracted prior to
+01/01/2009. Even if, we consider that the services were provided under a long-
+term contract, still it cannot be deemed a related party transaction in view
+of the change of ownership. 6.10 Further, the contention of Ld. counsel of
+impact of 'Tata' brand on profitability of the company is also not tenable in
+view of the facts the no evidence has been brought on record as how the 'Tata'
+brand has impacted the profitability of the company. Further, the expenditure
+19 ITA No. 380/Del/2015 corresponding to contribution to 'Tata' brand by the
+company, is also very small part (0.43%) of the total operational expenses of
+the company. 6.11 In view of the above discussion, we uphold the finding of
+the DRP in retaining TCS E-serve International Ltd. in the set of comparables.
+
+(B) TCS E-serve Ltd.
+
+7\. The Ld. counsel submitted to exclude the company from the set of
+comparables on the grounds similar to the grounds taken in the case of TCS
+e-serve International Ltd. The Ld. CIT(DR) also repeated same arguments .
+
+7.1 The Ld. counsel submitted that pursuant to the acquisition by 'Tata'
+group, there is increase in revenue of 12.17% and growth in profit before tax
+of 226%. The reasons for excluding a company from set of comparables on the
+basis of turnover or profit has already been rejected by us while examining
+the comparability of TCS e-serve international Ltd. The Ld. counsel further
+submitted that the company is functionally dissimilar with assessee company.
+The Ld. counsel submitted that the company was engaged in providing technical
+services like software testing, verification and validation of software. This
+contention is identical to the contention raised in the case of TCS e-serve
+international Ltd. On perusal of the Annual Report of the company, we find
+that it has rendered services identical to the services rendered by TCS
+e-serve international Ltd. In Schedule 'O' to the notes of account of the
+company, available on page 105 of the Annual Report, the principal activities
+of the company reported are as under:
+
+> "1. Background and principal activities TCS e-Serve Limited is engaged in
+> the business of providing Information Technology - Enables Services
+> (ITes)/Business  20 ITA No. 380/Del/2015 Process Outsourcing (BPO) service,
+> primarily to Citigroup entities globally.
+
+> The company's operations broadly comprise of transaction processing and
+> technical services. Transaction processing includes the broad spectrum of
+> activities involving the processing, collections, customer care and payments
+> in relation to the services offered by Citigroup to its corporate and retail
+> clients. Technical service involve software testing, verification and
+> validation of software at the time of implementation and date centre
+> management activities.
+
+7.2 Thus, we find that the activities of the company are identical to the
+activities of TCS e-serve International Ltd., which are held to be in the
+nature of ITes and functionally similar to the assessee. Accordingly, we hold
+that the company cannot be excluded on the ground of functional dissimilarity.
+
+7.3 The arguments of the Ld. counsel on the issue of non-availability of
+segment information, deemed related party transactions and entity having
+access to Tata brand are identical to the arguments taken in the case of TCS
+e-serve international Ltd. Thus following our finding in the case of
+comparable TCS e-serve international Ltd, we reject these arguments taken in
+respect of TCS e-serve Ltd also. 7.4 In view of the discussion, we uphold the
+direction of the Ld. DRP in retaining, TCS e-serve limited as a valid
+comparable.
+
+(C) Accentia Technologies Ltd.
+
+8\. The Ld. counsel submitted that the company is functionally different from
+the assessee company. He referred to page 4, 5 and 39 of the Annual Report and
+submitted that the company was engaged in diversified services which include
+HRCM (using Saas Model), Knowledge Process Outsourcing (KPO) and Legal Process
+Outsourcing (LPO) and separate segment information for HRCM is not available.
+The Ld. counsel drawn our attention to page 73 of the Annual Report and  21
+ITA No. 380/Del/2015 submitted that the company owns significant intangible
+assets in the form of goodwill, Brands and IPRs, which constitutes 57% of the
+value of assets.
+
+8.1 He further referred to page 79 of the Annual Report and submitted that
+during the year, a company namely, 'Asscent Infoserve Private Limited'
+amalgamated with the company. He further referred to page 37 of the Annual
+Report and submitted that during the year, the company acquired 'IQ Group' of
+companies in the United Kingdom. 8.2 The Ld. counsel submitted that the
+company has been excluded by the Tribunal in assessee's own case in assessment
+year 2009-10, being functionally different and extraordinary events. 8.3 The
+Ld. CIT(DR) submitted that the company is not a software development company
+and it earned its revenue from healthcare information technology management.
+He referred to pages 77 of the Annual Report and submitted that in schedule 8,
+income other than income from coding, interest income and income from exchange
+fluctuations are in the nature of IT enabled services. The Ld. CIT(DR)
+supported the finding of the Ld. DRP that percentage of non-IT enabled
+services was only 15.03%, hence it was predominantly an ITES provider. He
+further referred to pages 39 of the Annual Report and submitted that "Saas" is
+effectively a software application delivery model in which the clients pay to
+access and use software functionally or a network through a hosted web native
+platform operated by the software vendor, either independently or through
+third-party. According to him "SaaS" model mean only 'software as a service'
+and not development of software. 8.4 The Ld. counsel in his rejoinder referred
+to page 39 of the annual report and submitted that the acquisition of the IQ
+group companies UK was a strategic move in the direction to to increase the
+capability of the service delivery to offer the "SaaS" model to its clients.
+The Ld. counsel  22 ITA No. 380/Del/2015 also referred to page 79 of the paper
+book and submitted that the company itself has admitted that in view of the
+amalgamation during the year under consideration, the figures of current year
+were not comparable with those of the previous year.
+
+8.5 We have heard the rival submission and perused the relevant material on
+record. We find that the in assessment year 2009-10 in the case of the
+assessee itself, the company has been excluded by the Tribunal in ITA No.
+2074/Del/2014. The relevant finding of the Tribunal is reproduced as under:
+
+> "14.3 We have considered the rival submissions and also perused relevant
+> finding given in the impugned order. Accentia Technologies Ltd. has two main
+> business areas namely, health care receivable cycle management services and
+> software products for BPOs. It earns substantial part of its income from
+> coding activities which is primarily related to e-software development.
+> Various streams of income shown in the annual report reflects that it has
+> income from medical transcription, billing and collections, income from
+> coding, etc. It is not in dispute that segmental information for each
+> streams of income are not available, therefore, it would be very difficult
+> to benchmark profit margin with the assessee-company, which is only
+> rendering back office support services. Another important fact which is
+> borne out/ from the its annual report is that, during the year under
+> consideration, assessee has acquired business of Oak Technologies Inc. USA
+> which has led to rapid increase in its customer base. Such acquisition
+> definitely has an impact on the trading result and can distort profit
+> margin. Thus, we hold that Accentia Technologies Ltd. cannot be included in
+> the list of final comparables and accordingly, the same is directed to be
+> excluded."
+
+8.6 We note that the company has been excluded on the ground of lack of
+segment information of various streams of income and events of acquisition of
+companies. We find that in the year under consideration also the income
+derived by the company is from various streams  23 ITA No. 380/Del/2015
+including medical transcription; Billings and collection, income from coding
+etc and no segmental information of each of the streams are available.
+Similarly, the company has itself mentioned in the Annual Report that due to
+acquisitions of companies during the year, its results were not comparable
+with the earlier year.
+
+8.7 Thus, in view of the identical facts during the year under consideration,
+respectfully following the decision of the Tribunal in assessment year
+2009-10, we hold that company cannot be included in the set of comparables and
+accordingly, we direct the AO/TPO to exclude it from the set of comparables.
+
+(D) Infosys BPO Ltd.
+
+9\. The Ld. counsel referred to page 135 of the Annual Report and submitted
+that the company was engaged in rendering wide array of services including
+customer service outsourcing, finance and accounting, knowledge services,
+human resource outsourcing, legal process outsourcing, sales and fulfillment,
+sourcing and procurement, banking and capital outsourcing, media outsourcing,
+energy outsourcing, retail etc, which cannot be compared with the services of
+back-office support attended by the assessee. According to him, no segmental
+data of different functional activity is reported in the Annual Report. He
+further referred to page 177 of the Annual Report and submitted that the
+company has incurred heavy expenses of Rs. 69.16 lakhs for brand building and
+advertising, which is assisted in earning high profit, whereas no such
+expenses were incurred by the assessee. The Ld. counsel further referred to
+page 203 of the Annual Report and submitted that the company was having a
+turnover of Rs.1,126.66 crores, whereas the assessee was having revenue of
+42.70 crores from provision of IT back- office support services. He further
+referred to page 115, 116 and 233 of  24 ITA No. 380/Del/2015 the Annual
+Report and submitted that the company has acquired 'McCamish Systems LLC'
+during the year under consideration, which has impacted the profitability of
+the company.
+
+9.1 Ld. CIT(DR), on the other hand, submitted that all the activity reported
+might be in different verticals but the function carried out falls under the
+category of BPO or ITES only. He submitted that the company in the profit and
+loss account has reported its revenue from business process management
+services, which being ITES segment, no separate reporting for different
+verticals was required ,for selecting the company as comparable. On the issue
+of high brand value expenses, the Ld. CIT(DR) supported the finding of the Ld.
+DRP that the assessee has not brought on record any evidence of AMP
+expenditure incurred by the company resulted into higher profit. On the issue
+of large scale of operation, the Ld. CIT(DR) submitted that the turnover of
+the assessee was in the comparable range of the turnover of the company and it
+was not too low as compared to the comparable company. On the issue of
+acquisition of McCamish Systems LLC, the Ld. CIT(DR) submitted that the
+assessee has not demonstrated any effect on the PLI of the company. He further
+referred to page 121 of the Annual Report of the company and submitted that
+only member's interest had been purchased and there is no merger or demergers
+due to acquisition. He submitted that due to purchase of members interest in
+the said LLC, actually there was a loss and it has not increased the profit of
+the company. Accordingly, he submitted that the assessee failed to demonstrate
+increase in profit due to this event of acquisition. 9.2 We have heard the
+rival submission and perused the relevant material on record. We note from
+page 7 of the Annual Report of the company that it was established in April
+2002 as the business process outsourcing subsidiary of the Infosys
+technologies Ltd. The Annual  25 ITA No. 380/Del/2015 Report further mentioned
+that it is among the top 10 third-party BPO company in India according to the
+ranking of National Association of software and service companies (NADDCOM).
+Thus, the contention of the Ld. counsel that the company provided wide array
+of the services, is not relevant as far as the function of BPO carried out by
+the company are similar to the functions carried out by the assessee. When,
+the assessee itself has characterized its activity as BPO, in such
+circumstances, the functions of the company cannot be held as the dissimilar.
+9.3 With regard to contention of the Ld. counsel of high brand value expenses
+on brand building and advertising amounting to Rs.69,16,780/- , we find that
+the total expenses on brand building in advertisement constituted 0.1% of the
+total turnover and which is insignificant. Further we agree with the
+contention of the Ld. CIT(DR) that the assessee has not brought on record any
+evidence that such expenditure has resulted into higher profit to the
+comparable company. Thus we reject the contention of the Ld. counsel of having
+impact of higher brand value expenses on the profitability of the company.
+
+9.4 On the issue of large scale operations of the company, we find that
+company was having turnover of Rs.1,126.63 crores as against Revenue of
+Rs.42.70 crores reported by the assessee from provision of IT back- office
+support services. The turnover of the companies 26.38 times the turnover of
+the assessee. In our opinion, turnover of the company cannot be a ground for
+rejecting a comparable until and unless, there is wide variation. Accordingly,
+this contention of the Ld. counsel of the assessee for excluding the company
+as comparable, is also rejected. 9.5 Further, the Ld. counsel objected the
+inclusion of the company on the ground of acquisition of Maccamish Systems
+LLC. Before the Ld. DRP also the assessee failed to adduce any evidence as how
+the merger had impacted the profitability of the company. Further, we have  26
+ITA No. 380/Del/2015 observed from page 13 of the Annual Report of the
+company, which reads as under:
+
+> "Consequent to the purchase of Members Interest in McCanmish Systems LLC
+> ("McCamish"), Infosys BPO has become the sole member of McCamish with effect
+> from December 4, 2009. During the period from December 4, 2009 to March 31,
+> 2010 the company generated revenue of Rs.38.02 Crore with a loss of Rs.17.67
+> Croes................."
+
+9.6 Thus, it is evident that acquisition of McCamish Systems LLC has
+contributed revenue of Rs. 38.02 crores and loss of Rs. 17.67 crores,
+therefore, there is no increase in exceptional profit due to acquisition of
+the said LLC. Thus, the contention of the Ld. counsel of having increase in
+the profitability due to acquisition, is not tenable. 9.7 In view of the above
+discussion, we uphold the direction of the Ld. DRP to retain the 'Infosys BPO
+Ltd.' as a valid comparable for back- office support service transaction
+
+10\. Now, we take up the request of the assessee for inclusion of the two
+comparables .
+
+(A) CG VAK Software and Exports Ltd.
+
+11\. The Ld. counsel submitted that company has been rejected by the Ld. TPO
+on the basis of inappropriate turnover filter. According to him, the turnover
+of the company was Rs.5,94,28,000/- as reported on page 490 of the compilation
+of the Annual Report. He further submitted that the company also qualifies
+employee cost to operating cost filter. He referred to page 176 of the paper
+book and submitted that employee cost of the company was 76.73%. He further
+submitted that the company has been included as comparable in assessee's own
+case in assessment year 2009-10 by the Tribunal relying on the Delhi High
+Court ruling in the  27 ITA No. 380/Del/2015 case of 'Chryscapital Investment
+Adviser India Private Limited Vs. DCIT in ITA No. 417/2014 wherein it was held
+the turnover cannot be reason for rejecting a functionally similar company.
+11.1 Ld. CIT(DR), on the other hand, relying on the finding of the Ld. DRP,
+submitted that during the year under consideration the company was mainly
+involved into software development and revenue from ITES/BPO service was only
+14% i.e. 83 lakhs and, thus, the turnover of the BPO segment was extremely
+small as compared to the turnover of the assessee. According to the Ld.
+CIT(DR), as per the contention of the Ld. counsel the total turnover of the
+assessee company was more than Rs. 5 crore, but the turnover of the BPO
+segment was only 82.78 Lacs, thus it fails the turnover filter of Rs. 5 crore.
+11.2 We have heard the rival submission and perused the relevant material on
+record. We find that in the assessment year 2009-10 also the turnover of the
+company was less than Rs.1 crore, however, the Tribunal in ITA No.
+2074/Del/2014 for the assessment year 2009-10 in the case of the assessee
+directed the TPO to include the company as a comparable company. The relevant
+finding of the Tribunal is reproduced as under:] "18.3 We have heard the rival
+submissions and perused the relevant finding given in the impugned order. The
+main reason for not including this company is that its turnover is less than
+Rs.1 crore. So far as exclusion of this comparable on basis of turnover filter
+criteria of less than Rs.1 crore, we find that, first of all, it was a
+comparable chosen by the assessee and at the time of selection process the
+assessee as stated had not applied any turnover filter for accepting or
+rejecting the comparables. Once the turnover filter has not been applied at
+the quantitative level then comparability has to be done on qualitative level
+based on FAR analysis. If on FAR analysis it is found that there are
+differences on account of either assets deployed, risk assumed materially
+affecting the cost or margin then only comparability analysis fails in such
+cases. Further, under the TNMM, the comparability of an international
+transaction with an  28 ITA No. 380/Del/2015 uncontrolled transaction is to be
+seen with reference to functions performed after taking into assets employed
+and the risk assumed. While reckoning the comparability analysis under TNMM,
+the main emphasis is into net margin realized on the transactions undertaken
+and not the price of the product or services. The transfer pricing rules under
+Rule 10B and 10C also contemplate for eliminating the material effects and to
+make reasonably accurate adjustment for eliminating the differences on account
+of such material effects. Mere circumstance of a company which otherwise
+confirm to the comparability analysis in terms of Rule 10B(2) and (3), huge
+profit or huge turnover ipso facto does not lead to its exclusion unless and
+of course it is shown that turnover or huge profit is on account of factor
+leading to a different results in FAR analysis. We find that the Honhle Delhi
+High Court in the case of Ciyscapital Investment Advisors India Pvt. Ltd. vs.
+DCIT (supra) after detailed analysis of rule 10B(3), same principle has been
+reiterated that if the company is functionally comparable then same cannot be
+rejected on the basis of turnover. The Hon'ble High Court in its very detailed
+judgment wherein it was required to answer, whether the comparable can be
+rejected on the ground that they have high profit margin as compared to the
+assessee in TP analysis, has also dealt upon the turnover factor in detail and
+reiterated that if the company is functionally comparable then same cannot be
+rejected on the basis of turnover. Thus, following the ratio laid down by the
+Hon'ble Delhi High Court, we hold that the company cannot be held to be
+incomparable simply on the ground of low turnover, unless it is demonstrated
+that the assets and risk are completely different and are incomparable. Thus,
+we direct the TPO to include CG Vak Software And Exports Ltd. as a comparable
+company."
+
+11.3 Since in the year under consideration also the Ld. DRP has rejected the
+company on the ground that it does not fulfill the turnover criteria of five
+crore, respectfully, following the finding of the Tribunal (supra), we set
+aside the direction of the Ld. DRP and direct the AO/TPO to include 'CG Vak
+Software and exports Ltd' (segment) as a comparable company.
+
+29
+
+ITA No. 380/Del/2015 R Systems International Ltd.
+
+12\. The Ld. counsel referred to pages 522, 523 and 611 of the compilation of
+the Annual Report and submitted that the company was engaged in providing IT
+solutions and BPO services, which being functionally similar to the
+transaction of the assessee under consideration. He further submitted that
+filter of different financial year applied by the Ld. TPO is not an
+appropriate filter. The Ld. counsel submitted that the company has been
+included as comparable by the Tribunal in assessee's own case for assessment
+year 2009-10, wherein relying on the ruling of the Hon'ble Punjab and Haryana
+High Court in CIT versus Mercer Consulting India Private Limited (ITA No. 101
+of 2015), it is held that if the audited quarterly results can be used to
+compute margin for the year ending on March 2009, then company should be
+included in the final set of comparables. 12.1 The Ld. CIT(DR), on the other
+hand, relied on the finding of the Ld. DRP in para-6.5.2 of their order and
+submitted that it is very difficult to carryout adjustment, assumptions,
+classification etc of the comparable to bring the transaction at par with the
+international transaction and therefore, such comparable should be eliminated
+from the set of comparables.
+
+12.2 We have heard the rival submission and perused the relevant material on
+record. We find that the Ld. DRP in para-6.5.2 of their order has given
+finding on the principle whether comparable having different financial year
+should be considered or not. The relevant finding of the Ld. DRP is extracted
+as under:
+
+"6.5.2 DRP Findings:
+
+The issue of Comparables maintaining accounts in terms of period other than
+the financial year has befen considered by this Panel as under:
+
+30
+
+ITA No. 380/Del/2015
+
+1\. So far as the issue of requirement of data pertaining to the F.Y.
+
+as provided in rule 10B{4) is concerned, the submission of taxpayer that there
+is no impediment in law to use data even if the comparables do not maintain
+their accounts in terms of financial year, the same is correct. However, Rule
+10B{4) is not to be read in isolation. This rule has been provided for the
+purpose of determination, analysis and benchmarking of international
+transaction with an appropriate comparable in uncontrolled transactions for
+the purpose of determination of Arm's Length Price (ALP). So, the determining
+factors as identified by this Panel are:
+
+i. Whether the taxpayer/the Department will be able to identify an
+Uncontrolled comparable to benchmark an international transaction of the
+taxpayer who is maintaining data and accounts in terms of financial year.
+
+ii. Whether the taxpayer/ the Department will be able to carry out such
+adjustments so as to make the uncontrolled transactions materially identical
+with that of the taxpayer if such comparable is not maintaining its accounts
+financial year wise.
+
+iii. Whether the taxpayer/ the Department will be able to apply such filters
+to be applied to publicly available data so as to bring out only those
+companies which are broadly functionally similar to that of the taxpayer if
+the comparable is not maintaining its account financial year wise.
+
+2\. In cases of companies, the data in respect of which are available publicly
+and which maintain accounts other than in terms of the financial year,
+following adjustments are required to be ' carried out in order to bring the
+data at par with that of the taxpayer:
+
+i. Apportion the data from preceding or subsequent period so as to make data
+equivalent to the financial year available for comparison with the
+international transaction.
+
+31
+
+ITA No. 380/Del/2015 ii. While apportioning such data, adequate care needs to
+be taken so that the Profit Level Indicators are computed comparably.
+
+3\. For the determination of profit level indicators, certain entries having
+bearing on the cost and income are- interest, provisions, losses/ gains on
+account of foreign exchange, etc, which normally as per the business practice
+are accounted for at the end of the accounting year. Under both the
+situations, whether the data pertaining to the period prior to the accounting
+year or subsequent to the accounting year are integrated with the relevant
+portion of the accounting year of the comparable, the same gives a lopsided
+picture of the accounts so far as the financial year data is concerned. Since,
+there is no requirement as per company law or as per accounting standards that
+the data pertaining to a particular quarter needs to be closely
+compartmentalized by providing for various provisions etc. for each quarter,
+the validity of such data for the purpose of comparability will be a matter of
+question mark. Also, some of the companies provide for depreciation at the end
+of the accounting period. Apportionment of such depreciation on pro- rata
+basis to a particular quarter or month will be a difficult proposition.
+
+4\. Most important many of the companies maintaining accounts other than on
+financial year basis do not keep such data in public domain. Such
+inaccessibility of vital information in public domain may not render the
+comparison the warranted judicious effect creates a hurdle wherein the effort
+required to search for such comparables data for the financial year is not
+commensurate with the result.
+
+5\. In addition, in order to reach at such uncontrolled comparables, the
+taxpayer as well as the TPOs apply certain filters in accordance with the
+provisions of Rule 10B. For e.g. the filter of export income/ realization is
+applied for comparison of an international transaction involving export of
+goods and services; filter of related party transaction is applied for the
+purpose of identifying only those comparables which are functioning in a
+relatively uncontrolled environment. It is difficult to apportion information
+required for applying such filters if the accounting period is not congruent
+to the accounting period of the taxpayer. In order to carry out FAR analysis,
+taxpayers and the TPOs  32 ITA No. 380/Del/2015 apply the filter of networth.
+Generally, networth of a company is determined on the last day of the
+accounting year. Therefore, apportionment of data will again lead to lopsided
+indicator for comparability analysis.
+
+6\. Rule 10C(2)(c) provides for the requirement of "the availability, coverage
+and reliability of data necessary for application of the method." In the light
+of the discussions made in the above paragraphs, the reliability of such data
+is a question mark and as such the requirement of the rule will not be
+fulfilled if the comparable does not maintain its accounts in terms of
+financial
+
+7\. It will also be very difficult to carry out adjustments, assumptions,
+classifications, etc, of such comparables to bring the transactions at par
+with the international transactions in such situations.
+
+In view of the above, the question as referred to in para 1 above cannot be
+justifiably answered to treat the comparables maintaining accounts in terms of
+period other than the financial year to be treated as uncontrolled transaction
+for the purpose of determination of ALP. The Panel, therefore, rejects the
+objection of the taxpayer on this account."
+
+12.3 However, we note that the Tribunal in ITA No. 2074/Del/2014 for
+assessment year 2009-10 in the case of the assessee itself has held the
+company as comparable despite being different financial year. The relevant
+finding of the Tribunal is reproduced as under: "19.2 We have heard rival
+submissions and also perused the relevant finding given in the impugned order.
+This comparables company has been rejected not on the ground of functionality
+albeit on the ground that it is following the financial year accounting from
+January to December (i.e. calendar year). Though a comparable company
+following a different financial year may not be generally taken for
+comparability analysis, however, if financial data is available for all the
+quarters including January to March and it is otherwise possible to determine
+the value of the transaction as well as the profitability during the
+corresponding period, then it suffices the comparability criteria. Because,
+ultimately the core point in comparability analysis is to benchmark the margin
+of a given period of a comparable uncontrolled transaction with controlled
+transaction. If the financials of the corresponding period is available then
+it  33 ITA No. 380/Del/2015 cannot be rejected simply on the ground that it
+has a different financial year. As brought out on record by the Ld. Counsel
+before us submitted that the audited accounts of R- Systems for the year
+ending 31.12.2008 and for the quarter starting from 31.01.2008 to 31.03.2009
+is available and once such an audited statement is available, then the
+proportionate working for 31.03 2009 can easily be deduced. If there are no
+major incident of factors disturbing the profit margin in that quarter, whose
+results are being worked out and the transactions of the Company are carried
+out in the normal course of business, then we do not find any reason to reject
+the comparable out rightly on the aforesaid ground. The working of PLI based
+on audited accounts as incorporated above clearly clinches the point. The
+Hon'ble P&H High Court in CIT Vs. M/s. Mercer Consulting India Pvt. Ltd., in
+the context of R-Systems only had made a very important observation which
+reads as under:-
+
+"27. The TPO excluded the case of R-Systems International Limited from the
+list of comparables. The ITAT included the same. The Transfer Pricing Officer
+excluded the case of R- Systems International Limited on the ground that it
+follows the calendar year i.e. 1st January to 31st December for maintaining
+its annual account whereas the accounting year of the assessee is 1st April to
+31st March. The Transfer Pricing Officer followed an order passed by the
+Mumbai Bench of the Tribunal in ACIT v. Hapag Lloyd Global Services Ltd. 2013-
+TH-68-ITATMUM-TP in which it had been held that a company with a different
+financial year ending cannot be compared.
+
+28\. We are unable to agree with the decision of the Transfer Pricing Officer
+and of the DRP that affirmed it. The view taken by the Tribunal commends
+itself to us. It is not the financial year per se that is relevant. Even if
+the financial years of the assessee and of another enterprise are different it
+would make no difference. If it is possible to determine the value of the
+transactions during the corresponding period, the purpose of comparables would
+be served. The question in each case is whether despite the financial years of
+the assessee and of the other enterprise being different, the financials of
+the corresponding period of each of them are available. If they are, the
+Transfer Pricing Officer must refer to the corresponding period of both the
+entities in determining whether the two are comparable or not for the purpose
+of determining the ALP.
+
+29\. As noted by the Tribunal, the audit accounts ofR System International
+Ltd. for the year ending 31.12.2008 had been given under one column and the
+data for the quarter ending 31.03.2009 and 31.03.2008 (both audited) had been
+given in two other columns. Thus, as rightly held by the Tribunal, if from the
+yearly data ending 31.12.2008, the results of the quarter ending 31.03.2008
+are excluded and if the results for the quarter ending 31.03.2009 are
+included, it is possible to obtain the data for the financial year 01.04.2008
+to 31.03.2009.
+
+34
+
+ITA No. 380/Del/2015
+
+30\. This view is not contrary to Rule 10(B)(4) which reads as under:-
+
+"10B(4) The data to be used in analysing the comparability of an international
+transaction shall be the data relating to the financial year in which the
+international transaction has been entered into."
+
+31\. The Rule does not exclude from consideration the data of an entity merely
+because its financial year is different from the financial year of the
+assessee. What the Rule requires is that the data to be used in analyzing the
+financial results of an uncontrolled transaction with an international
+transaction shall be the data relating to the financial year in which the
+international transaction has been entered into. Thus, so long as the data
+relating to the financial year is available, it matters not, if the financial
+year followed is different. In the case before us the data relating to the
+relevant financial year of R-Systems International Limited is available.
+
+32\. We are, therefore, entirely in agreement with the decision of the
+Tribunal that if the data relating to the financial year in which the
+international transaction has been entered into is directly available from the
+annual accounts of that comparable, the same cannot be held as not passing the
+test of sub-rule (4) of Rule 10 B."
+
+Thus, respectfully following the judgment of Hon'ble High Court, we hold that
+this company should be accepted as comparable company for the purpose of
+benchmarking the assessee's margin."
+
+12.4 Since in the year under consideration also the company has been rejected
+on the ground of different financial year, but the relevant data for the
+concerned financial year can be deducted from the data available from the
+Annual Reports and thus in the facts and circumstances of the case,
+respectfully following the finding of the Tribunal (supra), we set aside the
+direction of the Ld. DRP and direct the AO/TPO to include the company in the
+set of comparables.
+
+13\. As far as the issue of working out margin of the comparable for the
+period from 01/04/2009 to 31/03/2010 is concerned, the Hon'ble High Court of
+Punjab and Haryana in Mercer Consulting India Private Limited (supra) in the
+context of 'R system' observed that if from the data ending on 31/12/2008, the
+result of the quarter ending 31/03/2008 are excluded and if the results for
+the quarter ending 31/03/2009 are included, it is  35 ITA No. 380/Del/2015
+possible to obtain the data for the financial year 01/04/2008 to 31/03/2009.
+The Hon'ble High Court further observed that said view is not contrary to Rule
+10(B)(4) of Income Tax Rules, 1962. Since the Tribunal (supra) in assessment
+year 2009-10 in the case of the assessee has followed the decision of the
+Hon'ble Punjab and Haryana High Court in Mercer Consullting India Private
+Limited (supra), We feel it appropriate to restore this issue to the Ld.
+AO/TPO for computation of margin of the company for the period from 01/04/2009
+to 31/03/2010 from the adjusted data of relevant years. The assessee is
+directed to provide relevant audited accounts of the company.
+
+14\. Accordingly, the grounds of the appeal related to transfer pricing
+adjustment are allowed partly for statistical purpose.
+
+15\. The corporate issues raised in ground numbers 15 to 17, relate to
+allocation of directors remuneration between STP unit and non-STP unit. Before
+us, both the parties admitted that this matter had come for consideration
+before the Tribunal in the assessee's own case in assessment year 2008-09 in
+ITA No. 39/Del/2013 order dated 20/05/2016, wherein the matter has been
+remanded back to the file of the AO for fresh examination.
+
+15.1 We have gone through the decision of the Tribunal and the relevant
+finding, and find that this precise issue has been dealt by the Tribunal in
+assessee's own case. We also find that the Tribunal in assessment year 2009-10
+in ITA No. 2074/Del/2014 following the decision of the Tribunal in assessment
+year 2008-09 has restored the matter back to the file of the Assessing
+Officer. The relevant observation of the Tribunal in ITA No. 39/Del/2013 for
+assessment year 2008-09 is reproduced as under:
+
+36
+
+ITA No. 380/Del/2015 "26.1 After going through the decision of the Tribunal
+and the relevant finding given in the impugned order, we find that this
+precise issue has been dealt by the Tribunal in the assessee's own case. The
+relevant observation of the Tribunal is reproduced hereunder:-
+
+"14. In support of the grounds i.e. Ground Nos. 6 to 8, the Learned AR
+submitted that the Assessing Officer has erred in not correctly verifying the
+record submitted during the course of assessment proceedings contrary to DRP
+directions. He was not justified in disallowing income-tax holidays claimed by
+the assessee in respect of STP unit hi its 8th year of operation. The
+authorities below have also erred in allocating director's remunerations
+between STP unit and non-STP units by ignoring the facts placed on record and
+holding that the assessee intentionally debited director's salary to non-STP
+units to reduce its taxable income without appreciating the operating model
+being followed by the assessee. The Learned AR submitted that assessee's STP
+unit has its own finance/operational team which is responsible for the day to
+day affairs/functioning of the said unit. The directors of the assessee have
+no active involvement on the affairs of STP units. All cost related STPI unit
+and non- STPI unit of assessee were being booked into irrespective unit and no
+apportionment was required/done for any other cost. He submitted further that
+assessee was operating on cost + mark up arrangements with its overseas group
+companies. Under the said arrangement, the assessee was entitled to receive
+pre- agreed mark up on cost incurred by it. Allocating cost from non- STP unit
+to STP unit will result in reducing the cost based for the assessee, which
+will eventually lead to lower taxable income. Thus, the reason provided by the
+Assessing Officer for making the adjustment does not stand correct in the case
+of assessee. The Learned AR submitted that in the subsequent years 2009-10 and
+2010-11, the claimed deduction under sec. 1OA was allowed. He referred page
+Nos. The Learned AR also tried to point out typographical and arithmetical
+errors in the working of the disallowance under sec. 10A of the Act by the
+Assessing Officer at page Nos. 6 to 8 of the assessment order.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  37 ITA No.
+380/Del/2015
+
+19\. Considering the above submissions, we find that in the case of CTT vs.
+Western Outdoor Interactive (P) Ltd. (supra), the Hon'ble High Court has been
+pleased to hold that benefit of deduction under sec, 10A is available for a
+particular number of years on satisfaction of certain conditions under
+provisions of the Act and unless relief granted for first assessment year in
+which claim is made and accepted, the Assessing Officer cannot withdraw relief
+for subsequent years, Undisputedly, it is 8th year of the claim of deduction
+under sec. 1 OA of the Act made by the assessee and it has been allowed in
+earlier years and in subsequent remaining two assessment years, i.e. 2009-10
+and 2010-11. Before the ITAT, as discussed above, the Learned AR has tried to
+meet out the objections raised by the Assessing Officer in making the
+disallowance of the claimed deduction. In brief, the submission of the
+assessee against the objection of the Assessing Officer that the assessee has
+intentionally debited directors' salary to non-STP units to reduce its taxable
+income, the submission of the assessee remained that the assessee maintains
+its account in a manner that costs relating to STP and non-STP units are
+booked in the respective units; MD responsible for establishing/leading
+strategic R&D partnership and R&D central operations functions for NOIDA site
+where major portion ofR&D work was carried out; director financed responsible
+for finance and accounting, legal, tax and company secretarial compliance
+functions at Noida; STP unit at Bangalore since has its own core management
+staff and each person is responsible for their areas, the cost of such
+personnel are debited to their undertaking only; and appellant operates own
+cost plus model, hence, increase in cost in non-STPI unit will result in
+increase in Revenue and, therefore, results in increase in tax liability.
+Against the objection of the Assessing Officer that separate books of account
+are not maintained, the submissions of the assessee remained that as per the
+provisions of law, there is no requirement of maintaining separate books of
+account for a unit eligible to claim deduction under sec. 10A of the Act; and
+that it is the 8 year of claim of deduction under sec. IOA of the Act and the
+claim of deduction under sec. 1OA of the Act only needs to be seen in first
+year. Against the objection of the Assessing Officer that additions shown in
+block of computers is not in agreement with records maintained in computers,
+the submissions of the assessee remained that as per fixed assets schedule
+provided to the Assessing Officer total addition in computer made during
+financial year 2007-08 in STP unit was  38 ITA No. 380/Del/2015 Rs. 32,05,095;
+in the assessment order, the Assessing Officer stated that as per details
+provided to him,addition made in block of computer was of Rs.31,73,495 which
+is against the facts on record; the Assessing Officer compared alleged
+additions of Rs.31,73,495 with details extracts from SAP and wrongly concluded
+that amounts do not match. The Learned AR in his above submissions has pointed
+out as to how the Assessing Officer has committed mistake in coming to the
+conclusion that amounts do not match. The Learned AR submitted that total
+addition made to block of computers as per SAP details after correcting above
+mistakes made by the Assessing Officer is Rs.32,05,095 which matches with
+fixed assets scheduled submitted to the Assessing Officer during assessment
+proceedings. Against the objection of Assessing Officer that invoices raised
+in US dollars are not verifiable with amounts recorded in books as some
+amounts is in INR, the submission of the assessee remained that all the
+details on account of service income was furnished before the Assessing
+Officer; invoices are usually raised in USD, however, if there is. an
+adjustment entry to be passed, same is passed in INR in the ledger account;
+and audit adjustment entry was passed by auditor for financial year 2007-08;
+bonus expenses pertaining to financial year 2008-09 inadvertently considered
+by Cadence India as cost for financial year 2007-08 and as the assessee
+operates on a cost plus model invoice on such cost was raised already in
+financial year 2007-08; etc. The grievance of the assessee in this regard also
+remained that the Assessing Officer has not followed DRP's directions. It was
+submitted that as per directions issued by the DRP, the Assessing Officer was
+directed to rectify the details of accounts submitted by the assessee with
+regard to additions in the computer account and differed Revenue. Keeping in
+view these material submissions of the assessee, we set aside the matter to
+the file of the Assessing Officer to verify the above submissions and decide
+the issue afresh in view of the decision of Hon'ble Bombay High Court in the
+case of CIT vs. Western Outdoor Interactive Pvt. Ltd. (supra). The ground Nos.
+6 to 8 are thus allowed for statistical purposes."
+
+26.2 Thus, respectfully following the earlier year's precedence, we also
+remand back this issue to the file of the Assessing Officer with similar
+directions and to be decided in the same manner.
+
+39
+
+ITA No. 380/Del/2015 Accordingly, grounds No. 20 to 22 are treated as allowed
+for statistical purposes."
+
+15.2 Thus, respectfully following the earlier years precedence, we accordingly
+set aside the direction of the Ld. DRP and restore the issue back to the file
+of the Assessing Officer with similar directions and to be decided in the same
+manner. Accordingly, grounds No. 15 to 17 of the appeal are treated as allowed
+for statistical purpose.
+
+16\. In the result, appeal of the assessee is allowed partly for statistical
+purposes.
+
+The decision is pronounced in the open court on 5th Jan., 2018.
+
+    
+    
+                Sd/-                                         Sd/-
+        (AMIT SHUKLA)                                    (O.P. KANT)
+      JUDICIAL MEMBER                               ACCOUNTANT MEMBER
+    Dated: 5th January, 2018.
+    RK/-(D.T.D)
+    Copy forwarded to:
+    1.     Appellant
+    2.     Respondent
+    3.     CIT
+    4.     CIT(A)
+    5.     DR
+                                                       Asst. Registrar, ITAT, New Delhi
+     
+

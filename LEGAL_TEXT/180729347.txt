@@ -1,0 +1,533 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+M/S Lam Research India Pvt Ltd , ... vs Deputy Commissioner Of Income Tax ...
+on 3 February, 2021
+
+    
+    
+            IN THE INCOME TAX APPELLATE TRIBUNAL
+                         'B' BENCH : BANGALORE
+        BEFORE SHRI. CHANDRA POOJARI, ACCOUNTANT
+                         MEMBER
+                                  AND
+              SMT. BEENA PILLAI, JUDICIAL MEMBER
+                    IT(TP)A No.2490/Bang/2017
+                     Assessment Year : 2013-14
+    
+    
+    Lam Research (India) Pvt.          The Dy. Commissioner of
+    Ltd.,                              Income-tax,
+    Maruthi Infotech Center,           Circle-4(1)(1),
+    2nd Floor, A Block,            Vs. Bengaluru.
+    11/1 and 21/1,
+    Amarjyothi Layout,
+    Inner Ring Road,
+    Bengaluru-560 071
+    
+    PAN - AABCN 2063 Q
+           APPELLANT                          RESPONDENT
+    
+    
+        Appellant by       : Shri Darpan Kirpalani, Advocate
+        Respondent by      : Smt. Muzaffar Hussain, CIT (DR)
+    
+    
+               Date of Hearing           : 19-01-2021
+               Date of Pronouncement     : 03-02-2021
+    
+    
+                          ORDER
+    
+
+PER BEENA PILLAI, JUDICIAL MEMBER:
+
+Present appeal has been filed by assessee against final assessment order dated
+22/09/2017 passed by Ld.DCIT Circle 4 (1) (1), Bangalore for assessment year
+2013-14 on following grounds of appeal:
+
+Page 2 of 14
+
+IT(TP)A No.2490/Bang/2017 "Based on the facts and circumstances of the case
+and in law, Lam Research (India) Private Limited (hereinafter referred to as
+Appellant'), respectfully craves leave to prefer an appeal against the
+assessment order passed by the learned Assessing Officer [hereinafter referred
+to as the learned AO] under section 143(3) read with section 1440 of the
+Income-tax Act., 1961 (the Act') on the following grounds:
+
+1\. The learned AO/Transfer Pricing Officer ('TPO') and the learned DRP have
+erred, in law and in facts, by making an addition of Rs 1,36,50,206 to the
+total income of the Appellant on account of adjustment to the arm's length
+price of the software development services transaction entered into by the
+Appellant with its associated enterprise;
+
+2\. The learned AO / TPO and the learned DRP have erred, in law and in facts,
+by not accepting the economic analysis undertaken by the Appellant in
+accordance with the provisions of the Act read with the Income Tax Rules, 1962
+('Rules'), conducting a fresh economic analysis for the determination of the
+ALP in connection with the impugned international transaction, and holding
+that the Appellant's international transaction is not at arm's length;
+
+3\. The learned AO / TPO have erred, in law and in facts, by exercising his
+powers under section 133(6) of the Act to obtain information which was not
+available in public domain and relying on the same for comparability purposes;
+
+4\. The learned AO / TPO and the learned DRP have erred, in law and in facts,
+by determining the arm's length margin/ price using data pertaining only to FY
+2012-13 which was not available to the Appellant at the time of complying with
+the transfer pricing documentation requirement;
+
+5\. The learned AO/TPO and the learned DRP have erred, in law and facts by
+rejecting certain comparable companies considered by the Appellant in the
+comparability analysis by applying different quantitative and qualitative
+filters:
+
+i. The learned AO I TPO and the learned DRP have erred, in law and in facts,
+by rejecting certain comparable companies identified by the Appellant for
+having different accounting year (i.e. companies having accounting year other
+than March 31 or companies whose financial statements were for a period other
+than 12 months); ii. The learned AO I TPO and the learned DRP have erred, by
+rejecting certain comparable companies identified by the Appellant using
+employee cost greater than 25% of the total revenues as a comparability
+criterion; iii. The learned AO / TPO and the learned DRP have erred, in law
+and in facts, by rejecting certain comparable companies identified by the
+Appellant using export earnings greater than 75% of the sales as a
+comparability criterion;
+
+iv. The learned AO I TPO and the learned DRP have erred, in law and in facts,
+in applying only the lower cap on the turnover filter of Rs.1 crore and not
+applying any upper cap for the comparability criterion;
+
+Page 3 of 14
+
+IT(TP)A No.2490/Bang/2017
+
+6\. The learned AO/ TPO and the learned DRP have erred, in law and in facts,
+by accepting rejecting companies based on unreasonable comparability criteria;
+
+7\. The learned AO / TFO and the learned DRP have erred, in law and in facts,
+by providing an adverse working capital adjustment without appreciating the
+fact that the Appellant is a captive service provider;
+
+8\. The learned AO / TPO and the learned DRP have erred, in law and facts, by
+not making suitable adjustments to account for differences in the risk profile
+of the Appellant vis-à-vis the comparable companies;
+
+9\. The learned AO has erred, in law and facts, by not considering the Self-
+Assessment Tax amounting to Rs.4,78,1 11 paid by the Appellant;
+
+10\. The learned AO has erred, in law and facts, in imposing interest under
+section 234B and section 2340 of the Act;
+
+11\. The learned AO has erred, in law and in facts, by initiating penalty
+proceedings u/s 271(1)(c) of the Act.
+
+The Appellant submits that each of the above grounds is independent and
+without prejudice to one another.
+
+The Appellant craves leave to add, alter, amend, vary, omit or substitute any
+of the aforesaid grounds of appeal at anytime before or at the time of hearing
+of the appeal, so as to enable the Hon'ble Tribunal to decide on the appeal in
+accordance with the law."
+
+Brief facts of the case are as under:
+
+2\. The Assessee in engaged in the business of provision of Software
+Development Services (SWD services), to its wholly owned holding company. In
+terms of the provisions of section 92A of the Act, the Assessee and its wholly
+owned holding company were Associated Enterprises ("AEs"). In terms of
+sec.92B(1) of the Act, the transaction of providing SWD Services and ITeS were
+"international transaction" i.e., a transaction between assessee and the
+associated enterprise, the details of which are as under:
+
+> Amount Received (in Amount Paid (in Particulars Rs.) Rs.) Software
+> Development Services 1874,28,190  Page 4 of 14 IT(TP)A No.2490/Bang/2017 IT
+> Enabled Services / EDS (CAD/CAM) (Including SAP Implementation services)
+> 1704,78,609 Reimbursement of Expenses 49,044 Recovery of expenses 4,36,224
+
+3\. In terms of ITES services there has been no dispute between revenue and
+assessee. The only disputed segment is software development service segment.
+
+4\. Ld.TPO observed that assessee had following functions under the software
+development service segment: 2.2. Functional Analysis of the Taxpayer:
+
+Software development services:
+
+• Lam India is engaged in the rendition of software development services to
+Novellus US. It assists with the design, development, and improvement of
+Novellus products.
+
+• Novellus US. ("SDG US") is responsible for developing the embedded software
+that in Novellus Group products that comprise the semiconductor chip marketing
+machinery. It focuses on three distinct areas in software development,
+comprising of:
+
+1\. Software related to equipment;
+
+2\. Software for proteus graphic user interface group; and
+
+3\. Product specific software.
+
+• Lain India also supports the testing of the Software Product builds made by
+the SDG US/India.
+
+• SPS Group is engaged in providing on-line product support to customers of
+Novellus machinery in the US, Japan, Korea, Taiwan and Europe. IT Enables
+(CAD/CAM) Services • Lam India is engaged in rendering IT enabled services in
+the nature of CAD/CAM, to Novellus US.
+
+• Lam India provides technical resolutions for QNs and supports Novellus US in
+creating ACOs in Wind-chill PLM system, based on design change requirements.
+
+• Lam India supports Novellus US in terms of engineering documentation using
+CAD tools like pro/Engineer, Auto CAD and Interlink for specific engineering
+tasks based on the requirements of Novellus US. • Lam India has also entered
+into an agreement with Novellus US to render SAP maintenance and enhancement
+services.
+
+5\. The Ld.TPO observed that assessee has used TNMM as most appropriate method
+with OP/OC as PLI. It computed its  Page 5 of 14 IT(TP)A No.2490/Bang/2017
+margin at 13.96%.Assessee used following 7 comparables with an average of
+13.78%.
+
+    
+    
+                SI.No             Name of the Company       Weighted
+                                                            Average
+                                                                CA)
+                   1    Akshay Software Technologies
+                        Limited
+    
+    
+    
+    
+                                                                  4.45%
+                   2    Helios & Matheson Information
+    
+    
+                                                                  15.78%
+                   3    RS Software (India)
+    
+                        Limited                                   15.67%
+                   4    Spry resources India Pvt. ltd.,
+    
+    
+    
+    
+                                                                  21.01%
+                   5    Thinksoft Global Services Limited
+    
+                                                                     6.34%
+    
+    
+    
+    
+                   6    ID B I Intech Ltd., (Information
+                        Technology)
+                                                                  15.78%
+                   7    Mindtree Limited (I T Services)
+    
+                                                                          .
+                        Average                             13.78%
+                                           Page 6 of 14
+                                                     IT(TP)A No.2490/Bang/2017
+    
+    
+    
+    
+    6.   Ld.TPO          did     not      approve       the   selection   criteria   of
+    
+
+comparables by assessee. The Ld.TPO on his own identified five companies as
+comparable with the Assessee company and worked out the average arithmetic
+mean of their profit margins as follows:
+
+    
+    
+                      Name of the taxpayer                     OP/OC
+            1 SI. No.  CG-VAK Software Exports Ltd               20.45%
+            2          I C R A Techno Analytics Ltd.             17.10%
+            3           Larsen & Toubro Infotech Ltd.            26.06%
+            4           Mindtree Ltd. (Seg)                      20.23%
+            5           Persistent Systems Ltd.                  28.27%
+            6           R S Software (India) Pvt Ltd             17.41%
+            7           Tech Mahindra Ltd (Seg)                  21.90%
+                Unadjusted average margin                        21.63%
+    
+    
+    
+    
+
+7\. The Ld.TPO proposed the adjustment to ALP being shortfall at
+Rs.1,36,50,206/-.
+
+8\. The Assessee filed objections before the Disputes Resolution Panel (DRP)
+against the draft assessment order passed by the Ld.AO wherein the addition
+suggested by the Ld.TPO as adjustment to ALP was added to the total income of
+the assessee by the Ld.AO. The Assessee filed objections before the DRP and
+the DRP gave certain directions. Based on the directions of the DRP, the Ld.AO
+passed the final order of assessment. To the extent the Assessee did not get
+relief from the DRP, the assessee has preferred appeal before this Tribunal.
+
+9\. At the time of hearing, the Ld.AR submitted that grounds 6(i), 6.2 & 7
+were only pressed.
+
+Page 7 of 14
+
+IT(TP)A No.2490/Bang/2017
+
+10\. The Ld.AR submitted that Grounds 9-11 were consequential in nature.
+
+Accordingly arguments were raised only in respect of following grounds
+adjudicated herein above. Ground No. 6.1:
+
+11\. Ld.AR submitted that except for CG Vak software exports Ltd and ICRA
+Techno Analytics Ltd, other comparables have been disputed by assessee on
+turnover filter. It has been submitted that Ld.TPO while applying the turnover
+filter failed to apply the upper limit of Rs.200 crores. He thus submitted
+that, following comparables have turnover more than 200 crores and therefore
+deserves to be excluded:
+
+> RS software (India) Pvt.Ltd.
+
+> Mindtree Ltd.
+
+> Larsen and Toubro Infotech Ltd.
+
+> Persistent Systems Ltd.
+
+> Tech Mahindra Ltd.
+
+12\. On the contrary, Ld.CIT.DR relied on orders passed by authorities below.
+
+13\. We have perused submissions advanced both sides in light of records
+placed before us.
+
+14\. One of the arguments by the assessee before the Ld.TPO as well as DRP was
+that these companies had turnover which was in excess of Rs. 200 crores and
+therefore these companies cannot be regarded as a comparable in the case of
+the assessee whose turnover was only Rs. 18 crores. The Ld.TPO as well as
+Page 8 of 14 IT(TP)A No.2490/Bang/2017 DRP took the view that the functional
+comparability of the companies were alone to be seen and turnover was not an
+important criterion. In ground No. 5(iv), the assessee has challenged the
+order of DRP in holding that higher turnover is not a relevant criterion for
+disregarding a company, when it is functionally found to be comparable. The
+question boils down on application of turnover filter in choosing comparable
+companies. As far as excluding the companies on the basis of turnover is
+concerned, the issue has been settled in several decisions of the Tribunal and
+has been elaborately discussed by this Tribunal in the case of Autodesk India
+(P.) Ltd. v. Dy. CIT [2018] 96 taxmann.com 263. This Tribunal in case of
+Autodesk India (P.) Ltd. v. Dy. CIT (supra) decision after review of entire
+case laws on the subject, considered the question, whether companies having
+turnover more than 200 crores to 500 crores has to be regarded as one category
+and those companies cannot be regarded as comparables with companies having
+turnover of less than 200 crores, the Tribunal held as follows:-- "17.7 We
+have considered the rival submissions. The substantial question of law
+(Question No. 1 to 3) which was framed by the Hon'ble Delhi High Court in the
+case of Chryscapital Investment Advisors (India) Pvt. Ltd., (supra) was as to
+whether comparable can be rejected on the ground that they have exceptionally
+high profit margins or fluctuation profit margins, as compared to the Assessee
+in transfer pricing analysis. Therefore as rightly submitted by the learned
+counsel for the Assessee the observations of the Hon'ble High Court, in so far
+as it refers to turnover, were in the nature of obiter dictum. Judicial
+discipline requires that the Tribunal should follow the decision of a non-
+jurisdiction High Court, even though the said decision is of a non-
+jurisdictional High Court. We however find that the Hon'ble Bombay High Court
+in the case of CIT v. Pentair Water India Pvt. Ltd. Tax Appeal No. 18 of 2015
+Page 9 of 14 IT(TP)A No.2490/Bang/2017 judgment dated 16-9-2015 has taken the
+view that turnover is a relevant criterion for choosing companies as
+comparable companies in determination of ALP in transfer pricing cases. There
+is no decision of the jurisdictional High Court on this issue. In the
+circumstances, following the principle that where two views are available on
+an issue, the view favourable to the Assessee has to be adopted, we
+respectfully follow the view of the Hon'ble Bombay High Court on the issue.
+Respectfully following the aforesaid decision, we uphold the order of the DRP
+excluding 5 companies from the list of comparable companies chosen by the TPO
+on the basis that the 5 companies turnover was much higher compared to that
+the Assessee.
+
+17.8 In view of the above conclusion, there may not be any necessity to
+examine as to whether the decision rendered in the case of Genisys Integrating
+(supra) by the ITAT Bangalore Bench should continue to be followed. Since
+arguments were advanced on the correctness of the decisions rendered by the
+ITAT Mumbai and Bangalore Benches taking a view contrary to that taken in the
+case of Genisys Integrating (supra), we proceed to examine the said issue
+also. On this issue, the first aspect which we notice is that the decision
+rendered in the case of Genisys Integrating (supra) was the earliest decision
+rendered on the issue of comparability of companies on the basis of turnover
+in Transfer Pricing cases. The decision was rendered as early as 5-8-2011. The
+decisions rendered by the ITAT Mumbai Benches cited by the learned DR before
+us in the case of Willis Processing Services (supra) and Capegemini India Pvt.
+Ltd. (supra) are to be regarded as per incurium as these decisions ignore a
+binding coordinate bench decision. In this regard the decisions referred to by
+the learned counsel for the Assessee supports the plea of the learned counsel
+for the Assessee. The decisions rendered in the case of M/S.NTT Data (supra),
+Societe Generale Global Solutions (supra) and LSI Technologies (supra) were
+rendered later in point of time. Those decisions follow the ratio laid down in
+Willis Processing Services (supra) and have to be regarded as per incurium.
+These three decisions also place reliance on the decision of the Hon'ble Delhi
+High Court in the case of Chriscapital Investment (supra). We have already
+held that the decision rendered in the case of Chriscapital Investment (supra)
+is obiter dicta and that the ratio decidendi laid down by the Hon'ble Bombay
+High Court in the case of Pentair (supra) which is favourable to the Assessee
+has to be followed. Therefore, the decisions cited by the learned DR before us
+cannot be the basis to hold that high turnover is not relevant criteria for
+deciding on comparability of companies in determination of ALP under the
+Transfer Pricing regulations under the Act. For the reasons given above, we
+uphold the order of the CIT(A) on the issue of application of turnover filter
+and his action in excluding companies by following the ratio laid down in the
+case of Genisys Integrating (supra)."
+
+Page 10 of 14
+
+IT(TP)A No.2490/Bang/2017
+
+15\. In the light of the aforesaid decision of the Tribunal, comparables
+sought for exclusion in Ground No.6.1 raised by the assessee is allowed.
+
+Accordingly this ground stands allowed partly . Ground No. 6.2
+
+16\. Assessee seeks inclusion of only 1 comparable being, Akshay Software
+Technologies Ltd. It has been submitted that, the Ld.TPO and DRP accepted this
+comparable in the final list in previous years, however for the year under
+consideration the same has been excluded. Ld.AR placed reliance on coordinate
+bench of this Tribunal in case of M/s NXP India Pvt Ltd. vs DCIT in IT(TP)A
+No. 692 & 2861/B/2017 for assessment year 2012-13 and 2013-14.
+
+17\. On the contrary, the Ld.CIT.DR submitted that DRP for excluding this
+comparable during the year under consideration has held that the on-site
+revenue filter of this comparable is less than 75% and hence rejected it from
+the finalist. He submitted that in the preceding years this observation was
+not recorded by the authorities below and hence factually cannot be considered
+identical.
+
+18\. In the reply by the Ld.AR, it was submitted that is in the decision
+relied in case of M/s NXP India Pvt Ltd. vs DCIT (supra) this Tribunal had
+analysed this aspect of on-site revenue filter in the following manner:
+
+Page 11 of 14
+
+> IT(TP)A No.2490/Bang/2017 "IV Akshay software technologies Ltd
+
+> 32\. It was rejected by the TPO for the reason that the function of this
+> company appears to be more in the nature of support services and I T enabled
+> services. However this company is engaged in providing professional
+> services, implementation, support and maintenance of ERP products and other
+> services. These are nothing but software development services, as is evident
+> from the notes forming part of financial statements which is placed in paper
+> book at page 1825. Further the revenue from software services accounts for
+> 99.45% of the total revenue of the company is evident from the financial
+> statements placed on record of paper book at page No. 1831. Being so, we
+> direct TPO to consider this company as comparable to assessee's case while
+> selecting the comparables."
+
+19\. Based on the above observation the objection raised by DRP cannot be
+upheld.
+
+Accordingly we direct Ld. AO/TPO to consider this comparable the finalist.
+
+20\. Ground No. 7 alleged by assessee is against providing negative working
+capital adjustment without appreciating the fact that assessee is a captive
+service provider. The grievance of the assessee is with regard to negative
+working capital adjustment carried out by the Ld.TPO which was confirmed by
+the DRP. It is the plea of the assessee that though the Ld.TPO has observed
+that the Assessee has a healthy margin, the Ld.TPO has erred in making an
+adjustment towards working capital and the DRP further erred in upholding the
+same.
+
+Page 12 of 14
+
+IT(TP)A No.2490/Bang/2017
+
+21\. It was submitted that Working capital adjustment is made for the time
+value of money lost when credit time is given to the customers. The Assessee
+however does not bear any risk and has no working capital contingencies. The
+Assessee has not incurred any expenses for meeting the working capital
+requirement. The Assessee is running the business without any working capital
+risk as compared to the comparables. The Assessee does not bear any market
+risk as the services are provided only to Tavant US. Therefore, requirement
+for adjustment of negative working capital does not arise.
+
+22\. The Ld.AR placed reliance on decision of coordinate bench of this
+Tribunal in assessee's own case reported in (2020) 120 taxmann.com 122 and Lam
+Research India (P.) Ltd. v. Dy. CIT in [IT Appeal Nos. 1473 & 1385 (Beng.) of
+2014, dated 30-4-2015], Tivo Tech (P.) Ltd. v. Dy. CIT [2020] 117 taxmann.com
+259, and Dy. CIT v. Software AG Bangalore Technologies (P.) Ltd. [IT Appeal
+No. 1628 of 2014, dated 31-3-2016], where it has been held that negative
+working capital adjustment shall not be made.
+
+23\. We have considered the rival submissions. We find that in the case of Lam
+Research India (P.) Ltd. (supra) and Software AG Bangalore Technologies (P.)
+Ltd. (supra) passed by this Tribunal, it has been held that negative working
+capital adjustment shall not be made in case of a captive service provider as
+there is no risk and it is compensated on a total cost plus basis. We
+therefore direct Ld.TPO to compute the ALP in accordance with  Page 13 of 14
+IT(TP)A No.2490/Bang/2017 the directions contained in this order after
+affording assessee opportunity of being heard.
+
+Accordingly ground No. 7 raised by assessee stands allowed for statistical
+purposes.
+
+Ground No. 9-11 are consequential in nature and therefore do not require
+adjudication.
+
+24\. Assessee has not pressed ground 1-4, ground 5 (i)-(iii), ground 6.1 (c )&
+(g) and ground 6.2 (b)-(j) and ground 8. Accordingly these grounds stands
+dismissed. In the result appeal filed by assessee stands partly allowed as
+indicated hereinabove.
+
+Order pronounced in the open court on 3rd February, 2021 Sd/- Sd/-
+
+    
+    
+    (CHANDRA POOJARI)                                      (BEENA PILLAI)
+    Accountant Member                                     Judicial Member
+    Bangalore,
+    Dated, the 3rd February, 2021.
+    
+    /Vms/
+    Copy to:
+    1.   Appellant
+    2.   Respondent
+    3.   CIT
+    4.   CIT(A)
+    5.   DR, ITAT, Bangalore
+    6.   Guard file                            By order
+    
+    
+                                 Assistant Registrar, ITAT, Bangalore
+                              Page 14 of 14
+                                         IT(TP)A No.2490/Bang/2017
+    
+    
+    
+    
+                                       Date       Initial
+    1.   Draft dictated on            On Dragon              Sr.PS
+    2.   Draft    placed     before    -2-2021               Sr.PS
+         author
+    3.   Draft proposed & placed       -2-2021              JM/AM
+         before    the    second
+         member
+    4.   Draft discussedapproved       -2-2021              JM/AM
+         by Second Member.
+    5.   Approved Draft comes to       -2-2021              Sr.PS/PS
+         the Sr.PS/PS
+    6.   Kept for pronouncement         -2-2021              Sr.PS
+         on
+    7.   Date of uploading     the     -2-2021               Sr.PS
+         order on Website
+    8.   If not uploaded, furnish        --                  Sr.PS
+         the reason
+    9.   File sent to the Bench        -2-2021               Sr.PS
+         Clerk
+    10. Date on which file goes to
+        the AR
+    11. Date on which file goes to
+        the Head Clerk.
+    12. Date of dispatch of Order.
+    13. Draft dictation sheets are       No                  Sr.PS
+        attached
+     
+

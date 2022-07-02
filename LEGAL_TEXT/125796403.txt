@@ -1,0 +1,435 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Moet Hennessy India Pvt. Ltd., ... vs Acit, New Delhi on 9 April, 2019
+
+    
+    
+         IN THE INCOME TAX APPELLATE TRIBUNAL
+              (DELHI BENCH 'I-2' : NEW DELHI)
+    
+         BEFORE SHRI KULDIP SINGH, JUDICIAL MEMBER
+                            AND
+       SHRI PRASHANT MAHARISHI, ACCOUNTANT MEMBER
+    
+                        ITA No.85/Del/2015
+                   (ASSESSMENT YEAR : 2010-11)
+    
+    M/s. Moet Hennessy India Private Ltd.,     vs.     ACIT, Circle 5(1),
+    Unit No.1903, Tower 2, 19th Floor,                 New Delhi.
+    Indiabulls Financial Centre,
+    Senapati Bapat Marg, Elphinstone Road,
+    Mumbai - 400 013.
+    
+          (PAN : AACCM4079L)
+        (APPLICANT)                                  (RESPONDENT)
+          ASSESSEE BY : Shri Sumit Mangal, Advocate
+                        Shri Saksham Singhal, CA
+          REVENUE BY : Shri H.K. Choudhary, CIT DR
+                        Ms. Nimita Pandey, Senior DR
+    
+                      Date of Hearing :   27.03.2019
+                      Date of Order :     09.04.2019
+    
+                            ORDER
+    
+
+PER KULDIP SINGH, JUDICIAL MEMBER :
+
+The Appellant, M/s. Moet Hennessy India Private Ltd. (hereinafter referred to
+as 'the taxpayer') by filing the present appeal sought to set aside the
+impugned order dated 13.11.2014 passed by the AO in consonance with the orders
+passed by the ld. DRP/TPO under section 143 (3) read with section 144C of the
+2 ITA No.85/Del/2015 Income-tax Act, 1961 (for short 'the Act') qua the
+assessment year 2010-11 on the grounds inter alia that :-
+
+> "1. On the facts and in the circumstances of the case and in law, the
+> Assistant Commissioner of Income-tax - Circle 5(1) ('AO')/ Transfer Pricing
+> Officer (TPO')/ Dispute Resolution Panel ('DRP') erred in confirming the
+> adjustment of Rs.7,12,19,145 by holding that the Appellant ought to have
+> received reimbursement for "alleged excessive" Advertising, Marketing and
+> Promotion ('AMP') expenses from its Associated Enterprises. ('AEs').
+
+> 2\. On the facts and circumstances of the case and in law, the AO / TPO/ DRP
+> erred in:
+
+> a) disregarding the fact that the premium profits earned by the Appellant
+> compensated for the allegedly excessive AMP expenses, if any, incurred by
+> it;
+
+> b) disregarding the transfer pricing policy of the Moet Group wherein Moet
+> India is provided with an agreed contribution margin which clearly indicates
+> that Moet Group funds the AMP expenses of Moet India;
+
+> c) misinterpreting or placing incorrect reliance on the international
+> guidance in relation to the 'marketing intangibles' from Organisation for
+> Economic Co-operation and Development ('OECD'), US TP Regulations and
+> Australian Tax Office ('ATO') and relying on several erroneous/ factually
+> incorrect and contradictory statements/ observations in the Transfer Pricing
+> (TP') order, which are not relevant to the instant case, only in order to
+> justify an otherwise inappropriate and unwarranted TP adjustment;
+
+> d) incorrectly holding the AMP expenses incurred by the Appellant to be
+> "excessive" on the basis of a "bright line limit" arrived at by deriving a
+> distorted and incorrect set of comparable companies;
+
+> e) by holding that a mark-up of 15% ought to be earned by the Appellant in
+> respect of the "alleged excessive" AMP expenses, without any basis;
+
+> f) in following the decision of the Hon'ble Special Bench in the case of LG
+> Electronics (152 TTJ 273) (Del) (5B) without appreciating the fact that the
+> said decision was rendered in the context of licensed manufacturer and hence
+> not applicable to the distributor.
+
+3 ITA No.85/Del/2015
+
+> The Appellant therefore prays that the aforesaid adjustment be deleted.
+
+> 3\. Without prejudice to the above, on the facts and in the circumstances of
+> the case and in law, the AO / TPO/ DRP erred in considering expenses such as
+> discounts, rebates, commission, trade component cost, trade incentives, etc.
+> for computing the AMP spend ratio of the Appellant."
+
+2\. Briefly stated the facts necessary for adjudication of the controversy at
+hand are : Moet India, the taxpayer held 99% by Champagne Moet & Chandon,
+France ('CMC') and 1% by Jas Hannessy & Co., France ('JHC'). CMC is one of the
+leading producers of Champagne, which is a sparkling wine manufactured in the
+Champagne region of France. JHC is a leading producer of Cognac (spirits).
+
+3\. The taxpayer is into the business of importing and distributing different
+kinds of wines and spirits and executing (ex-bonded) warehouse sales in India.
+The taxpayer undertakes marketing and sales promotion of products in its
+trading portfolio and is assisted by its Associated Enterprises (AE) in
+carrying out this function. The taxpayer imports advertising and promotional
+material from its AE such as wine glasses, menu holders etc. to be given as
+complimentary products to its customers.
+
+4\. During the year under assessment, the taxpayer entered into international
+transactions with its AE as under :-
+
+    
+    
+                                         4                    ITA No.85/Del/2015
+    
+    
+    
+    
+    Sr. Nature of Transaction     Method used Amount              MHIPL's
+    No.                           by assessee                     Operating
+                                   Method   PLI                   Margin/Sales
+    1.   Purchase of finished                       189,956,058
+                                            OP/
+         goods                     TNMM                           7.72%
+                                            Sales
+    2.   Sale of finished goods                     7,66,15,647
+    3.   Reimbursement          of CUP                8,353,558
+         expenses
+                                                                  -
+    4.   Recovery of expenses      CUP                  604,740
+                    Total                           275,530,003
+    
+    
+    
+    
+
+4\. Ld. TPO has accepted all the aforesaid international transactions at arm's
+length, however disputed the Advertisement, Marking and Promotional (AMP)
+expenses by noticing that the taxpayer has incurred huge AMP expenditure and
+beneficiary of the efforts of the taxpayer is its AE because of the increase
+in the brand value significantly. TPO also taken the view that the taxpayer
+has created marketing intangibles in favour of the taxpayer.
+
+5\. Declining the contentions raised by the taxpayer that any benefit that AE
+may have drawn is incidental in nature as the brand taxpayer has received from
+its AE has no intrinsic value, TPO after using "Bright Line Method" selected 5
+comparables with average of AMP/Sales at 4.678% as against average of taxpayer
+at 13.34% and has also added mark-up of 15% on AMP spent and calculated the
+AMP expenses as under :-
+
+5 ITA No.85/Del/2015
+
+    
+    
+          Arm's length margin for markup :          15%
+           Total revenue of the assessee                   499,154,634
+           Arm's length price of AMP expenses (%)              0.935%
+           Arm's length AMP expenses (A)                     46,67,096
+           AMP expenses incurred by the assessee (B)        66,596,787
+    
+
+Expenditure incurred on creation of intangibles 6,19,29,691 (B) - (A) Mark up
+@ 15% 92,89,454 Arm's length value of AMP expenses 71,219,145
+
+6\. The taxpayer carried the matter before the ld. DRP by way of filing
+objections, who has confirmed the arm's length value of AMP expenses at
+Rs.712,19,145/- proposed by the TPO. Feeling aggrieved, the taxpayer has come
+up before the Tribunal by way of filing the present appeal.
+
+7\. We have heard the ld. Authorized Representatives of the parties to the
+appeal, gone through the documents relied upon and orders passed by the
+revenue authorities below in the light of the facts and circumstances of the
+case.
+
+8\. Undisputedly, assessee is a distributor exposed to routine risks
+associated with carrying out the business of distribution of wine and spirits.
+It is also not in dispute that the ld. TPO has recognised the taxpayer as a
+distributor. It is also not in dispute that the taxpayer is not the owner of
+the brand. It is also not in dispute that the TPO has followed LG Electronics
+India Pvt. Ltd. vs. ACIT (2013) 29 taxmann.com 300 (Delhi)(SB) and used the  6
+ITA No.85/Del/2015 "Bright Line Test" to determine the arm's length value of
+AMP expenses.
+
+9\. The ld. TPO noticed that the AMP expenditure of the taxpayer is 13.34% of
+sales as against 0.935% of sale for the comparable, thus incurred huge
+expenses of Rs.66,596,787/- on the sale of Rs.499,154,634/-. Following the LG
+Electronics India Pvt. Ltd. (supra), the ld. TPO applied 'cost plus method'
+for determining the ALP of international transaction of brand building for its
+AE.
+
+10\. We are of the considered view that firstly LG Electronics India Pvt. Ltd.
+(supra) decided by the Special Bench of the Tribunal applying the "Bright Line
+Test" in order to decide the issue if AMP expenditure by the taxpayer is
+international transaction leading to the brand building of its AE has since
+been overruled by the Hon'ble Delhi High Court in Sony Ericsson India Pvt.
+Ltd. v. CIT (2015) 374 ITR 118 (Del.) and subsequently in Maruti Suzuki India
+Ltd. v. CIT (2016) 328 ITR 210 (Del.) has categorically held that BLT is not a
+valid basis for determining the existence of international transaction or for
+that matter for computing the ALP of such international transaction involving
+AMP expenses, the order of TPO passed by making BLT as basis of the ALP
+adjustment is not sustainable in the eyes of law.  7 ITA No.85/Del/2015
+
+11\. Ld. AR for the taxpayer brought to our notice that the issue in
+controversy in the present appeal is a covered one in taxpayer's own case for
+AY 2009-10 decided in ITA No.1906/Del/2014 decided by order dated 23.08.2018,
+which fact has not been controverted by the dl. DR for the Revenue.
+
+12\. Ld. TPO in order to arrive at the decision that AMP expenditure incurred
+by the taxpayer is an international transaction for which reimbursement should
+have been received by the taxpayer by making following observations :-
+
+> "2. It is seen from audited financial of the assessee company that a sum of
+> Rs.6,18,37,549/- has been incurred by it on advertisement and sales
+> promotion (AMP) which amounts to 26.94% of the total sales of the assessee
+> company. It is proposed that the AMP expenditure incurred by the assessee
+> should be considered as an international transaction for which reimbursement
+> should have been received by the assessee as it leads to creation of
+> marketing intangible for the AEs and not for the business purposes of the
+> assessee.
+
+> 2.1 It has been mentioned Para 4.3.3 of the transfer pricing report that
+> "MHIPL does not own any significant intangible and does not undertake any
+> significant Research and Development on its account that leads to the
+> development of nonroutine intangibles. MHIPL uses the trademark, know-how,
+> technical data software, quality standard etc., developed/owned by CMC. All
+> companies of the group leverage from these intangibles for continued growth
+> in revenues and profits. Accordingly, MHIPL does not own any significant
+> non-routine intangibles."
+
+2.2 From the quantum of the advertisement and sales promotion expense incurred
+by the assessee it is apparent that the assessee is involved in the promotion
+of a Brand which is not owned by it. It is doing it for the benefit of the
+Brand Owner i.e. the foreign AE CMC, France, hence, it should have been paid
+for the services being provided by it. However, no agreement between the
+assessee and the AE for the promotion of the brand has been filed. The
+transfer pricing regulations require that it is  8 ITA No.85/Del/2015 not the
+'form' but the overall arrangement/substance of the transactions that must be
+kept in mind.
+
+Section 92F(v) of the Income-tax Act states: "transaction includes an
+arrangement, understanding or action in concert, whether or not such
+arrangement, understanding or action is formal or in writing;" Similarly, Rule
+10B(2)(c) states:
+
+"the contractual terms (whether or not such terms are formal or in writing) of
+the transactions which lay down explicitly or implicitly how the
+responsibilities, risks and benefits are to be divided between the respective
+parties to the transactions;"
+
+2.3 Above provisions read with the well established doctrine of 'substance
+over form' (applied by the Courts in numerous judicial decisions) indicate
+that transfer pricing regulations are to be applied keeping in mind the
+overall scheme of the taxpayer's business arrangement.
+
+2.4 In view of the discussions in the foregoing paragraphs I am of the
+considered view that the expenditure incurred on AMP by the assessee and
+thereby promoting the brand/trade name owned by CMC, France, the AE is an
+international transaction and the same has neither been reported in Form 3CEB
+nor has been benchmarked in transfer pricing study, I am of the considered
+view that the onus which was on the assessee to benchmark the international
+transaction relating to the expenditure incurred on AMP has not been
+discharged. I therefore propose to benchmark the transactions relating to
+"AMP".
+
+2.5 It has already been stated in the foregoing paragraphs that the
+expenditure on AMP has been incurred to promote the brand/trade name owned by
+CMC, France, the AE and such expenditure has resulted into brand building and
+increased awareness of the products bearing such brands/trade names. I am of
+the considered view that the expenditure incurred by the assessee company is
+for the advantage of its AE, since the brand/trade name is owned by the AE. In
+such a situation the assessee company should have been suitably compensated by
+the AE. However the assessee has not received any payment in this regard from
+the AE. Therefore it is clear that the assessee has not been suitably
+compensated by the AE in respect of the expenditure incurred by it (the
+assessee) on Advertising and Sales Promotion expenses (AMP) to penetrate the
+market and to increase the sales by promoting the brand name."  9 ITA
+No.85/Del/2015
+
+13\. From the aforesaid observations of the ld. TPO, we have gathered that the
+TPO has treated the AMP expenditure as international transactions merely on
+the ground that the taxpayer has incurred huge expenses on AMP spent and has
+made comparison with (i) IFB Agro Inds. Ltd.; (ii) Rajasthan State Ganganagar
+Sugar Mills Ltd.; (iii J.L. Morison (I) Ltd.; and (iv) Lotus Herbals Ltd.
+having AMP expenses/sales of 1.32%, 0.55%, 7.32% & 9.50% respectively as
+against taxpayer's AMP expenditure of 18.14% of the total sales. We are of the
+considered view that highest AMP expenses per se cannot be a ground to infer
+that there was an international transaction.
+
+14\. The taxpayer has given details of expenses in the nature of AMP expenses,
+available at page 205 of the paper book, which are as under :-
+
+    
+    
+          Sr.No.                 Nature of expenses               Amount
+          1        Advertising exp                                   130,125
+          2        Cost of DJ @ Ricks for Belvedere                   24,000
+          3        Music Band Payment                              1,097,845
+          4        Display charges at events                          96,137
+          5        Employee Claim for A&P Expenses                    66,267
+          6        Event Organiser                                    49,635
+          7        Event/Sponsorship Expenses                      4,905,212
+          8        Incentive                                       2,680,690
+          9        Launch of BV Promotion evening @ F Bar            125,000
+          10       Merchanding                                       274,871
+          11       Rent Contract for visibility                      919,440
+          12       Towards Printing of invites BV Beat Nights         49,588
+          13       Towards visit of Regional Brand Ambassador         77,796
+          14       Visibility                                      6,758,964
+                   Total                                          17,255,570
+                                      10                   ITA No.85/Del/2015
+    
+    
+    
+    
+    
+
+15\. The taxpayer also brought on record the fact that the AMP expenses
+considered by the TPO i.e. Rs.90.551.831/- include distribution expenses of
+Rs.23,955,044/- which are also required to be excluded by computing the
+AMP/sales ratio of the taxpayer. It is also the case of the taxpayer that it
+has incurred Rs.66,596,787/- towards AMP expenses merely for creating
+awareness of the product and not for its brand building.
+
+16\. From the order passed by the ld. TPO/DRP/AO, it is undisputedly proved on
+fact that the facts in the case at hand are identical to taxpayer's own case
+for AY 2009-10 decided by the coordinate Bench of the Tribunal and has not
+undergone any change in its business model. Coordinate Bench of the Tribunal
+in taxpayer's own case decided the issue in controversy in favour of the
+taxpayer by deleting the ALP adjustment on account of AMP expenses by
+returning following findings :-
+
+> "9. On a careful consideration of all these factors, including the
+> inconsistency in the approach of the AO/TPO with respect to the AMP
+> expenditure being in the nature of an international transaction as
+> expenditure incurred on behalf of the assessee, including the quantum and
+> nature of expenditure and including lack of any material to suggest that
+> there was "an arrangement, understanding or action in concert" with respect
+> of the expenditure incurred by the assessee and including the fact that, in
+> our considered view, the expenditure incurred by the assessee was in nature
+> of bonafide business expenditure in furtherance of its legitimate business
+> interests, we are of the considered view  11 ITA No.85/Del/2015 that there
+> is no legally sustainable basis for the TPO coming to the conclusion that
+> there was an international transaction, under section 92B, on the facts of
+> this case. It was only on the basis of bright line test that the impugned
+> ALP adjustment was made but that approach has already been negatived by
+> Hon'ble Courts above. We see no reasons to remit the matter to the file of
+> the TPO, as is prayed for by the learned Departmental Representative. A
+> remand to the assessment stage cannot be a matter of routine; it has to be
+> so done only when there is anything in the facts and circumstances to so
+> warrant or justify. In any case, there are direct judicial precedents from
+> Hon'ble jurisdictional High Court which clearly suggest that the matter
+> regarding existence of international transaction under section 92B, as far
+> as possible, should be decided at the level of Tribunal itself. In the case
+> of Bacardi India (supra), Their Lordships, inter alia, have observed as
+> follows:
+
+> 5\. Having heard learned counsel for the parties, the Court finds that the
+> case before the ITAT was argued at length and the views of the TPO as well
+> as the Dispute Resolution Panel ('DRP') were already available to the ITAT.
+> Arguments were advanced on the strength of judgments of this Court in Sony
+> Ericsson Mobile Communications India Pvt. Ltd. vs. Commissioner of Income
+> Tax (2015) 374 ITR 118 (Del.) as well as a string of subsequent judgments
+> beginning with Maruti Suzuki India Ltd v. CIT, (2016) 381 ITR 117.
+
+> 6\. Nevertheless, the main reason that weighed with the ITAT to remand the
+> matter to the TPO was that the TPO did not have the benefit of the above
+> decisions of this Court when the order was initially passed by the TPO. That
+> can hardly be a ground for remanding the entire matter to the TPO. In fact,
+> this was anticipated by this Court in Sony Ericsson Mobile Communications
+> India Pvt. Ltd.(supra). In para 193 of that judgment, it cautioned that the
+> ITAT should not simply remand the matter to the TPO but examine it itself,
+> particularly when the facts have already been analysed and considered and no
+> new facts have emerged in the meanwhile.
+
+> 7\. In the present case, all the facts necessary for the ITAT to form an
+> opinion on the issues before it  12 ITA No.85/Del/2015 concerning the AMP
+> expenditure were already before it. In the circumstances, the remand to the
+> TPO of the entire matter for a decision afresh appears to be unwarranted.
+> The assessee thus succeeds in this appeal.
+
+> 10\. In the present case, no new facts have emerged and all the facts
+> brought to record, during the course of the assessment proceedings, donot
+> indicate legally sustainable basis for coming to the conclusion that there
+> was an internal transaction in respect of AMP expenses incurred by the
+> assessee. We are, therefore, of the considered view that the plea of the
+> assessee, on the peculiar facts of this case, does indeed deserve to be
+> upheld that there is no material on record to hold that there was an
+> international transactions, in terms of the provisions of Section 92B, nor
+> any material has been brought on record to even remotely suggest so and,
+> therefore, that there is no good reason to remit the matter to the
+> assessment stage for building a case afresh. Respectfully following the
+> binding judicial precedents, we delete the impugned ALP adjustment which was
+> made solely on the basis of bright line test. The plea of the learned
+> counsel was indeed well taken and merits acceptance. The impugned ALP
+> adjustment of Rs.6,64,70,841, accordingly, stands deleted."
+
+> 17\. Following the decision rendered by the coordinate Bench of the Tribunal
+> in taxpayer's own case for AY 2009-10 and in view of the decision rendered
+> by the Hon'ble Delhi High Court in Sony Ericsson India Pvt. Ltd. and Maruti
+> Suzuki India Ltd. v. CIT (supra), the Revenue has failed to discharge the
+> onus to prove the international transactions between the taxpayer and its AE
+> and only thereafter ALP of international transactions involving AMP expenses
+> can be computed.
+
+13 ITA No.85/Del/2015
+
+18\. In the instant case, there is not an iota of material apart from applying
+the Bright Line Test and by taking the view that the taxpayer had incurred
+huge AMP/sales expenses to the tune of 18.14%, no cogent material is there to
+treat the incurring of AMP expenses as international transaction more
+particularly when basis for treating the AMP expenses as international
+transactions i.e. BLT is not sustainable method. So, following the binding
+judicial precedents, impugned ALP adjustment on account of AMP expenses is
+ordered to be deleted. Consequently, appeal filed by the taxpayer is allowed.
+
+Order pronounced in open court on this 9th day of April, 2019.
+
+    
+    
+            Sd/-                                       sd/-
+    (PRASHANT MAHARISHI)                          (KULDIP SINGH)
+     ACCOUNTANT MEMBER                           JUDICIAL MEMBER
+    
+    Dated the 9th day of April, 2019
+    TS
+    
+    
+    Copy forwarded to:
+         1.Appellant
+         2.Respondent
+         3.CIT
+         4.CIT
+         5.CIT(ITAT), New Delhi.                            AR, ITAT
+                                                           NEW DELHI.
+     
+

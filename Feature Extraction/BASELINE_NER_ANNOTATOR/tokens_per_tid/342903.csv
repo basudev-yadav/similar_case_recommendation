@@ -1,0 +1,453 @@
+tid,label,token
+342903,city,Bombay
+342903,city,BOMBAY
+342903,city,Delhi
+342903,city,Poona
+342903,city,Lawrence
+342903,city,Ramban
+342903,city,Dehu
+342903,city,Jammu
+342903,city,New Delhi
+342903,city,Cochin
+342903,city,Calcutta
+342903,city,Madras
+342903,location,Bombay
+342903,location,BOMBAY
+342903,location,Delhi
+342903,location,Poona
+342903,location,Lawrence
+342903,location,Ramban
+342903,location,Dehu
+342903,location,Jammu
+342903,location,New Delhi
+342903,location,Cochin
+342903,location,Calcutta
+342903,location,Madras
+342903,location,India
+342903,location,Travancore-Cochin
+342903,location,Punjab
+342903,location,Maharashtra
+342903,location,Unfit Sub Park
+342903,location,Col Rao
+342903,location,Poona-Bombay Road
+342903,location,Sind
+342903,location,Lonnavala
+342903,location,Devichand
+342903,location,Fit - Park
+342903,location,Barsay
+342903,location,Depot
+342903,location,Shrinivasan
+342903,location,Avatarsingh
+342903,location,Shed
+342903,location,Talegaon
+342903,location,Khemchand
+342903,location,Road
+342903,location,Road Depot
+342903,location,Kashmir
+342903,location,Delhi State
+342903,location,Jogendrasingh
+342903,location,Shed No
+342903,location,Darekar
+342903,location,Talegaon - Dabhade Road
+342903,location,subbarao
+342903,location,k. bench
+342903,location,k. dayal
+342903,location,raghubar
+342903,location,india
+342903,location,purushottam
+342903,location,dattareya
+342903,location,pangarkar
+342903,location,the state of bombay
+342903,location,sind
+342903,location,lonnavala
+342903,location,bombay
+342903,location,delhi
+342903,location,kochhar
+342903,location,d.o.d.
+342903,location,shrinivasan
+342903,location,ramban
+342903,location,talegaon
+342903,location,h. s
+342903,location,the state of jammu
+342903,location,kashmir
+342903,location,the central
+342903,location,new delhi
+342903,location,dattatreya
+342903,location,madras
+342903,location,calcutta
+342903,location,the state of delhi
+342903,location,union territory
+342903,location,w. slaney
+342903,location,sarwan singh
+342903,location,saighal
+342903,location,darekar
+342903,location,d. 0
+342903,organization,Trial-Criminal Misconduct-Army
+342903,organization,Special Police
+342903,organization,Central Government
+342903,organization,High Court
+342903,organization,Inspector of Police
+342903,organization,LSB
+342903,organization,Purushottam
+342903,organization,State of Bombay
+342903,organization,Ltd
+342903,organization,Ghaio Mall & Sons
+342903,organization,Delhi Special Police
+342903,organization,Rishbud & Inder Singh
+342903,organization,State
+342903,organization,High Court of Bombay
+342903,organization,Dehu Vehicle Depot
+342903,organization,Southern Command
+342903,organization,Kit Stores
+342903,organization,Dehu Ordnance Depot
+342903,organization,Barrack Office
+342903,organization,Military Stores
+342903,organization,Dehu Vehicles Depot
+342903,organization,Crimi
+342903,organization,Legislature
+342903,organization,No Court
+342903,organization,Ministry of Home Affairs
+342903,organization,Minstry of Home Affairs
+342903,organization,Home Ministry
+342903,organization,Ministry
+342903,organization,Bombay Government
+342903,organization,Home Department
+342903,organization,State Government
+342903,organization,Gas Plant Manufacturing Co
+342903,organization,Rampur -RRB- Ltd
+342903,organization,Federal Court
+342903,organization,State This Court
+342903,organization,Finance
+342903,organization,The State of Delhi
+342903,organization,General of Police
+342903,organization,The High Court
+342903,organization,Court in Sarwan Singh
+342903,organization,Board of Officers
+342903,organization,Bombay High Court
+342903,organization,Court
+342903,organization,Baskerville
+342903,organization,supreme court of india
+342903,organization,the state of bombay
+342903,organization,the central government
+342903,organization,the high court
+342903,organization,a court martial
+342903,organization,the inspector of police
+342903,organization,naik
+342903,organization,j. k. gas plant manufacturing co. ltd.
+342903,organization,the delhi special police establishment
+342903,organization,the government of bombay
+342903,organization,establishment
+342903,organization,state of delhi
+342903,organization,the state of punjab
+342903,organization,the bombay high court
+342903,organization,subba rao
+342903,organization,the state of maharashtra
+342903,organization,the high court of bombay
+342903,organization,depot
+342903,organization,the station commandant
+342903,organization,ordnance
+342903,organization,southern command
+342903,organization,the kit stores
+342903,organization,the bombay lonavala disposal syndicate
+342903,organization,kit stores
+342903,organization,the unfit park of the depot
+342903,organization,lawrence
+342903,organization,the return stores sub-depot
+342903,organization,nos. 1 to 4
+342903,organization,dehu ordnance depot
+342903,organization,kochhar
+342903,organization,the station commandants
+342903,organization,the special judge
+342903,organization,civilian group
+342903,organization,civilian stores keeper
+342903,organization,the military stores
+342903,organization,civilian group officer
+342903,organization,civilian store keeper
+342903,organization,government
+342903,organization,military stores
+342903,organization,military
+342903,organization,the dehu road depot
+342903,organization,high court
+342903,organization,state
+342903,organization,court
+342903,organization,act
+342903,organization,army
+342903,organization,the court of
+342903,organization,a high court
+342903,organization,chapter
+342903,organization,legislature
+342903,organization,union
+342903,organization,central
+342903,organization,the govt. of india
+342903,organization,the government of india
+342903,organization,the ministry of home affairs
+342903,organization,the minstry of home affairs
+342903,organization,the home ministry
+342903,organization,the inspector general of police
+342903,organization,special police establishment
+342903,organization,ministry
+342903,organization,the bombay government
+342903,organization,the government of bombay home department
+342903,organization,the federal court
+342903,organization,j. k. gas plant manufacturing co.
+342903,organization,rampur ltd.
+342903,organization,the king- emperor
+342903,organization,the state of travancore-cochin
+342903,organization,secretariat
+342903,organization,ghaio mall & sons
+342903,organization,the state of delhi
+342903,organization,finance
+342903,organization,government of delhi state
+342903,organization,the inspector-general of police of that establishment
+342903,organization,the inspector- general of police
+342903,organization,the state government
+342903,organization,the special police establishment
+342903,organization,a state government
+342903,organization,avatarsingh
+342903,organization,unfit sub park
+342903,organization,the board of officers
+342903,organization,a board of officers
+342903,organization,board
+342903,organization,barsay
+342903,organization,avatarsing
+342903,country,India
+342903,person,e. g. barsay
+342903,person,k subbarao
+342903,person,subbarao
+342903,person,l
+342903,person,p. joseph john
+342903,person,h.n. rishbud
+342903,person,inder singh
+342903,person,held
+342903,person,sarwan singh
+342903,person,m.h. chhatrapati
+342903,person,ravindra narain
+342903,person,o. c. mathur
+342903,person,j. b. dadachanji
+342903,person,b.k. khanna
+342903,person,d. gupta
+342903,person,ram lal anand
+342903,person,s. n. anand
+342903,person,b.s. gheba
+342903,person,rao
+342903,person,sindhi
+342903,person,brig
+342903,person,wilson
+342903,person,barsay
+342903,person,col
+342903,person,nag
+342903,person,pratap singh
+342903,person,lawrence
+342903,person,capt
+342903,person,pratap singh.
+342903,person,kochhar
+342903,person,avatar singh
+342903,person,saighal
+342903,person,ramchand gangwani
+342903,person,devichand
+342903,person,khemchand
+342903,person,nos. 4
+342903,person,bhagwan parshuram
+342903,person,maj
+342903,person,avatarsingh
+342903,person,shed no. 48
+342903,person,kapoor
+342903,person,jamadar kundanlal
+342903,person,the orderly officer
+342903,person,havaldar pillay
+342903,person,godse
+342903,person,ramban
+342903,person,jamadar jogendrasingh
+342903,person,poona
+342903,person,d. u. v.
+342903,person,h. s. kochhar
+342903,person,avatarsingh seva singh
+342903,person,w. s. saighal
+342903,person,ramchand pahlajrai gangawani
+342903,person,deviprasad ramchand gangawani
+342903,person,khemchand ramchand gangawani
+342903,person,h. s. kochbar
+342903,person,ramchand pahalajrai gangawani
+342903,person,amin
+342903,person,nos. 5
+342903,person,shri h. s. kochhar
+342903,person,sd. m. gopala menon
+342903,person,dharambir
+342903,person,jog naik
+342903,person,bose
+342903,person,j.
+342903,person,kharkar
+342903,person,rajpramukh
+342903,person,dattatreya moreshwar pangarkars
+342903,person,p. w. 36
+342903,person,jog
+342903,person,h. n. rishbud
+342903,person,gajendragadkar
+342903,person,shri lawrence
+342903,person,mehendiratta
+342903,person,sharma
+342903,person,nos. 1
+342903,person,lawrence major barsay
+342903,person,suryawanshi
+342903,person,g. k. pillay
+342903,person,jamadar lachmansing
+342903,person,jogendrasingh
+342903,person,rambhan
+342903,person,wagh
+342903,person,diwate
+342903,person,darekar
+342903,person,yakubsaheb
+342903,person,hatnolkar
+342903,person,no. 4
+342903,person,fernandez
+342903,person,avatarsing
+342903,person,d. o. d.
+342903,law,criminal trial-criminal misconduct-army
+342903,law,special judge-jurisdiction-sanction for prosecution
+342903,law,delhi-legality- conspiracy-public servants
+342903,law,legality of charge-approver-corroboration-prevention of corruption act
+342903,law,a-army act
+342903,law,-criminal law amendment act
+342903,law,9-constitution
+342903,law,the army act
+342903,law,rule 3 made under s. 549 code of criminal procedure
+342903,law,the criminal law amendment act
+342903,law,952
+342903,law,the code of criminal procedure
+342903,law,any other law
+342903,law,article 77 of the constitution
+342903,law,the provisions of art. 77
+342903,law,s. 5a prevention of corruption act
+342903,law,criminal appeal no. 2
+342903,law,criminal appeal no. 254
+342903,law,criminal appeals nos. 255
+342903,law,the judgment of the court
+342903,law,no. 1
+342903,law,shed no. 26
+342903,law,section 120-b
+342903,law,the indian penal code
+342903,law,section 51
+342903,law,section 52
+342903,law,the prevention of corruption act
+342903,law,section 34 of the indian penal code
+342903,law,this act 205
+342903,law,section 51d of the prevention of corruption act
+342903,law,section 52 of the said act
+342903,law,section 381 or 411 of the indian penal code
+342903,law,s. 120-b
+342903,law,s. 52 of the prevention of corruption act
+342903,law,b. 34 of the indian penal code
+342903,law,s. 109 of the indian penal code
+342903,law,s. 51
+342903,law,s. 109
+342903,law,s. 381
+342903,law,s. 411 of the indian penal code
+342903,law,indian penal code
+342903,law,criminal appeal no. 81
+342903,law,act
+342903,law,offence 27 210
+342903,law,s. 125 of the act
+342903,law,section 2
+342903,law,the army act. section 3ii
+342903,law,this act
+342903,law,s. 3viii
+342903,law,code
+342903,law,chapter vi
+342903,law,sections 34 to 68
+342903,law,section 69
+342903,law,s. 69 of the act
+342903,law,the act. under s. 125
+342903,law,a. 1261 of the act
+342903,law,section 125
+342903,law,s. 2 of the act
+342903,law,s. 52 of the act
+342903,law,s. 52
+342903,law,the act by the. force of s. 69 of the act
+342903,law,the provisions of s. 126 of the act
+342903,law,s. 1261
+342903,law,s. 549 of the code of criminal procedure
+342903,law,this code
+342903,law,court-martial
+342903,law,s. 61 of the criminal law amendment
+342903,law,section 62
+342903,law,the code of criminal procedure 1898 v of 1898
+342903,law,section 81
+342903,law,the code of criminal procedure 1898 act v of 1898
+342903,law,the provisions of the code of criminal procedure
+342903,law,the court of the special judge
+342903,law,s. 9 of the said act
+342903,law,xxxii of the code of crimi- nal procedure 1898 act v
+342903,law,the court of a special judge were a court of
+342903,law,the local limits of the jurisdiction of the high court
+342903,law,217
+342903,law,s. 81 of the act
+342903,law,r. 3 of the rules framed under s. 549
+342903,law,section 8 of the criminal law amendment
+342903,law,chapter xxi
+342903,law,section 81 of the criminal law amendment
+342903,law,section 7 of the criminal law amendment act
+342903,law,any other law the offences specified in subsection 1 of section 6
+342903,law,a special act
+342903,law,the general act
+342903,law,a general act
+342903,law,the general act of that conferred under the special act
+342903,law,s. 52 of the army act
+342903,law,s. 61 of the criminal law amendment act
+342903,law,s. 7 of the said act
+342903,law,b. 6 of the said act
+342903,law,s. 6 of the criminal law amendment act
+342903,law,section 6
+342903,law,s. 61 of the prevention of corruption act. under s. 61a of the prevention of corruption act
+342903,law,no court
+342903,law,section 161 or section 164
+342903,law,section 165 of the indian penal code
+342903,law,under subsection 2 of section 5 of this act
+342903,law,section 197 of the criminal procedure code act v of 1898
+342903,law,section 61a of the prevention of corruption act
+342903,law, 1947 ii of 1947
+342903,law,art. 77 of the constitution
+342903,law,1 of art. 77
+342903,law,the general clauses act
+342903,law,article viz. art. 166
+342903,law,s. 3 of the preventive detention act
+342903,law,art. 1661 of the constitution
+342903,law,constitution
+342903,law,state government
+342903,law,by order of the governor of bombay
+342903,law,the preventive detention act
+342903,law,article 166
+342903,law,art. 311 of the constitution
+342903,law,art. 166
+342903,law,art. 166 of the constitution
+342903,law,1 1947 f.c.r. 141
+342903,law,art. 1661
+342903,law,article 77
+342903,law,art. 772 of the constitution
+342903,law,section 5a of the prevention of corruption act
+342903,law,the code of criminal procedure.
+342903,law,section 161
+342903,law,section 165 or section 165a
+342903,law,under sub-section 2 of section 5 of this act
+342903,law,the prevention of corruption second amendment act
+342903,law,s. 6 of the delhi special police establishment act
+342903,law,section 5 of that act
+342903,law,s. 6 of that act
+342903,law,section 6 of the delhi special police establishment act
+342903,law,letter 227 no. 5042/4
+342903,law,a. 6 of the delhi special police establishment act
+342903,law,the delhi special police establishment act
+342903,law,228 the prevention of corruption act
+342903,law,section 120a
+342903,law,1 of the prevention of corruption act
+342903,law,no. 1 under s. 52 of the prevention of corruption act
+342903,law,no. 4 under s. 109 of the indian penal code
+342903,law,under s. 52 of the said 229 act
+342903,law,the criminal procedure code
+342903,law,s. 52 of the said act
+342903,law,art. 136 of the constitution
+342903,law,nos. 1 to 4
+342903,law,r. v. baskerville
+342903,law,nos. 2 and 3
+342903,law,ex. 151
+342903,law,shed no. 48 to shed no. 17
+342903,norp,sikhs

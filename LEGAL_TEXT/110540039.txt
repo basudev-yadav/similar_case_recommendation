@@ -1,0 +1,610 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Nikon India Pvt. Ltd., Gurgaon vs Dcit, Circle- 3(1), Gurgaon on 14 December,
+2020
+
+    
+    
+                                             1                       ITA No. 5146/Del/2017
+    
+    
+                        IN THE INCOME TAX APPELLATE TRIBUNAL
+                            DELHI BENCH: 'I-2' NEW DELHI
+    
+                   BEFORE SHRI ANIL CHATURVEDI, ACCOUNTANT MEMBER
+                                         AND
+                      MS SUCHITRA KAMBLE, JUDICIAL MEMBER
+    
+                        ITA No. 5146/DEL/2017 ( A.Y 2011-12)
+    
+           Nikon India Pvt. Ltd.                  Vs   DCIT
+           Plot No. 71,                                Circle-3(1)
+           SEctdor-32, Institutional      Area,        2nd Floor, HSIIDC Building,
+           Gurgaon, Haryana                            Vaniyjaya Nikunj, Udyog
+           PIN 122001                                  Vihar, Gurgaon, Haryana
+           AACCN5100F
+            (APPELLANT)                                (RESPONDENT)
+    
+                       Appellant by       Sh. Vishal Kalra, Adv & Sh.
+                                          Ankit Sahni, Adv
+                       Respondent by      Sh. Mritunjoy Baranwal, Sr.
+                                          DR
+    
+                         Date of Hearing               06.11.2020
+                         Date of Pronouncement         14.12.2020
+    
+                                           ORDER
+    
+
+PER SUCHITRA KAMBLE, JM This appeal is filed by the assessee against the order
+dated 10/07/2017 passed by the Assessing Officer u/s 144C(3) read with Section
+143(3) of the Income Tax Act, 1961 for Assessment Year 2011-12.
+
+2\. The grounds of appeal are as under:-
+
+> 1\. That on the facts and circumstances of the case and in law, the AO has
+> erred in assessing the total income of the Appellant under section 143(3)
+> read with section 144C and 254 of the Act, for the relevant assessment year
+> at INR 16,66,11,280 as against the returned income of INR 12,35,25,748.
+
+> 2\. That on the facts and circumstances of the case and in law, the AO /
+> Transfer Pricing Officer ("TPO") have erred in making an adjustment of INR
+> 4,30,85,529 to the arm's length price ("ALP") of (alleged) international  2
+> ITA No. 5146/Del/2017 transaction of Advertisement, Marketing and Promotion
+> ("AMP") expenditure holding the same to be not at ALP, applying the
+> intensity approach.
+
+> 3\. That on the facts and circumstances of the case and in law, the order
+> dated May 16, 2017 passed by the TPO is non-est and invalid since the TPO
+> rectified its order dated November 10, 2016 giving effect to the directions
+> of the Hon'ble Tribunal without specifying the mistakes (which is apparent
+> from records) in that order and without considering objections of Appellant.
+
+> 4\. That on the facts and circumstances of the case and in law, the impugned
+> order passed by the AO / TPO is bad in law as it has concluded existence of
+> 'international transaction' without discharging onus to prove existence of
+> an agreement, understanding or arrangement between the Appellant and the AE
+> for incurrence of AMP expenditure.
+
+> 5\. That on the facts and circumstances of the case and in law, the order of
+> the TPO is non-est and invalid as the TPO has computed ALP of AMP
+> expenditure (alleged international transaction) simultaneously on
+> substantive as well as protective basis which is against the contours of
+> transfer pricing.
+
+> 6\. That on the facts and circumstances of the case and in law, the AO / TPO
+> have grossly erred in applying Bright Line Test ('BLT') to propose transfer
+> pricing adjustment amounting to INR 30,99,61.631, on protective basis,
+> without appreciating that BLT has been rejected by the Hon'ble Tribunal vide
+> its order dated July 15, 2016 (in first round ) thus the order is bad in law
+> and void-ab-initio.
+
+> Notwithstanding and without prejudice;
+
+> 7\. That on the facts and circumstances of the case and in law, the AO /
+> TPO. have erred in not allowing the benefit of (+/-) 5% as per second
+> proviso to section 92C(2) of the Act.
+
+> 8\. That on the facts and circumstances of the case and in law, the AO / TPO
+> erred in not granting quantitative / economic adjustments while quantifying
+> arm's length price of the alleged international transaction of AMP
+> expenditure.
+
+> 9\. That on the facts and circumstances of the case and in law, the AO have
+> erred in levying / charging interest under sections 234B and/or 234C of the
+> Act.
+
+> Each of the above grounds are independent and without prejudice to the other
+> grounds of appeal preferred by the Appellant."
+
+3\. Nikon India Private Limited (the assessee company) is a wholly owned
+subsidiary of Nikon Corporation, Japan ("Nikon Japan"). The assessee company
+is inter-alia engaged in import, sales and distribution for Nikon Imaging
+products in India through network of local distributors. For the  3 ITA No.
+5146/Del/2017 relevant Assessment Year ("AY"), the assessee company filed its
+return of income on September 21, 2011 declaring income of Rs. 12,35,25,748/-.
+The case of the assessee company was selected for scrutiny under section 143
+(3) of the Act. During the relevant Assessment Year 2011-12 the assessee
+company had following 'international transactions' with its Associated
+Enterprise (AE), which were duly reported in Form 3CEB and TP Study.
+
+INTERNATIONAL TRANSACTIONS:
+
+    
+    
+    
+    
+         S. No.    International        Transfer     Pricing Amount (in INR)
+                   Transaction          Method
+         1         Purchase       of    Resale Price Method 366,11,59,289
+                   products Spares,     ("RPM")
+                   promotional and
+                   Other Supplies
+    
+         2         Purchases       of                          49,14,626
+                   Fixed Assets
+    
+         3         Service   Support                           1,59,95,179
+                   Income               Transactional Net
+                                        Margin Method
+         4         Commission                                  23,41,67,614
+                   Income
+    
+         5         Purchase of Fixed                           28,94,378
+                   Assets
+    
+         6         Cost                                        4,61,95,300
+                   Reimbursements       Comparable
+                   Received             Uncontrolled   Price
+                                        Method
+         7         Cost                                        37,99,998
+                   Reimbursements
+                   Paid
+    
+    
+    
+    
+
+These transactions were accepted to be at arm's length price (ALP) by the
+Transfer Pricing Officer ("TPO") / Assessing Officer. The TPO, vide order
+dated 06.01.2015 observed that the assessee company was incurring excessive
+Advertisement, Marketing and Promotion Expenditure (AMP) for development  4
+ITA No. 5146/Del/2017 of the brand owned by its foreign AE, therefore such
+excessive AMP expenditure would amount to 'international transaction'.
+Consequently, adjustment of Rs. 68,50,65,162/- was made by the TPO by applying
+Bright Line Test (BLT). Further, the TPO had included direct selling and
+distribution expenditure within the ambit of AMP expenditure. The Assessing
+Officer passed a draft assessment order dated 20.02.2015 in conformity with
+the order of the TPO and determined the total income of the assessee company
+at Rs. 80,85,90,910/- as against the returned income of Rs. 12,35,25,748/-.
+The assessee company filed objections dated 26.03.2015 against the said draft
+order before the Dispute Resolution Panel (DRP). The DRP vide order dated
+30.09.2015 rejected the objections of the assessee company and upheld the
+adjustment proposed in relation to AMP expenditure. Pursuant to the directions
+of the DRP, the TPO passed order giving effect to the directions of DRP on
+04.11.2015 without excluding direct selling / distribution expenditure from
+the ambit of AMP. Thus, the TPO enhanced transfer pricing adjustment from Rs.
+68,50,65,162/- to Rs. 75,02,87,734/-. The final assessment order was passed by
+the Assessing Officer on 13.11.2015, determining income as under:
+
+    
+    
+                 Particulars                            Amount (INR)
+        Returned income under the normal provisions     12,35,25,748
+        of the Act
+        Add: TP Adjustment pursuant to directions of    75,02,87,734
+        DRP
+    
+    
+    
+
+Aggrieved by the assessment order, the assessee company preferred an appeal
+before the Tribunal. The Tribunal, vide order dated 15.07.2016 set aside the
+assessment order/transfer pricing order and remanded the issue back to the
+AO/TPO for afresh determination of existence of an international transaction
+of AMP expenditure and determination of ALP of the international transaction
+in case the same exists. Further, the Tribunal directed to exclude direct
+selling / marketing expenses from the ambit of AMP expenditure. Being
+aggrieved, both  5 ITA No. 5146/Del/2017 the assessee company as well as
+Revenue authorities have filed appeals before the Hon'ble Punjab & Haryana
+High Court which are duly admitted. Pursuant to directions of the Tribunal,
+the TPO issued a notice dated 03.10.2016 thereby seeking reply to detailed
+questionnaire in relation to AMP expenditure of the assessee company. The
+assessee company, vide, submissions dated 08.11.2016, filed a detailed reply
+highlighting following points:  AMP expenditure incurred by the assessee
+company is solely for its own benefit and any benefit arising/accruing to AEs
+on its account is purely co-incidental in nature;
+
+ The AEs have no role/ decision-making powers in respect of the assessee
+company;
+
+ Marketing function of the assessee company is independent, and the AEs does
+not exercise any control over the same;
+
+ There is no written/oral arrangement between the assessee and its AEs, under
+which it is required to incur a minimum marketing expenditure.
+
+The TPO, after considering the said submissions and following the Tribunal
+directions, passed an order dated 10.11.2016, wherein, TPO deleted the TP
+adjustment stating the following:
+
+> Order Giving Effect to the Directions of the Hon'ble ITAT, New Delhi The
+> Hon'ble ITAT, New Delhi vide his order dated 15.07.2016 has set aside the
+> case and the matter is restored to the file of TPO/AO for fresh
+> determination of question as to whether there exists an international
+> transaction of AMP expenses. The selling expenses directly incurred in
+> connection with sales not leading to brand promotion, should not be brought
+> within the ambit of AMP.
+
+> Therefore, in view of the direction of the Hon'ble the ITAT, the earlier
+> adjustment of Rs. 75,02,87,734/- is being revised to Nil.
+
+Thereafter, the TPO issued a notice dated 15.03.2017, stating that the order
+of  6 ITA No. 5146/Del/2017 the TPO has encountered certain discrepancies and
+accordingly, the assessee company was requested to show-cause why the earlier
+order dated 10.11.2016, be not amended as per the TP order for Assessment Year
+2010-11. A response was filed by the assessee company in this regard vide
+submissions dated 30.03.2017 and it was elaborately submitted that the said
+order could not be rectified under Section 154 of the Act. Notwithstanding it
+was also submitted that even if an intensity adjustment is carried out, then
+also, the ALP of the international transaction of the assessee company are at
+arm's length. The TPO passed another order dated 16.05.2017 under Section
+92CA(3) read with Section 254 of the Act. The TPO vide above stated subsequent
+order dated 16.05.2017 re-determined the adjustment relating to AMP
+expenditure on substantive as well as protective basis, as under:
+
+Basis Method for benchmarking Adjustment u/s 92CA read with Section 254 of the
+Act (in INR) Substantive AMP intensity adjustment 4,30,85,529 (which falls
+(without granting benefit of +/- within 5% range) 5% as per proviso of Section
+92C(2) of the Act) Protective BLT (already discarded by 30,99,61,631Court
+Hon'ble Delhi High) Pursuant to the above, the Assessing Officer passed the
+final order dated July 10, 2017 under Section 143(3) read with Section 144C
+and Section 254 of the Act.
+
+4\. Being aggrieved by the assessment order, the assessee company has filed
+this appeal before us.
+
+5\. The Ld. AR submitted that Ground No. 3 is a legal ground that the latter
+order dated May 6, 2017 passed by the Transfer Pricing Officer ("TPO") is non-
+
+7 ITA No. 5146/Del/2017
+
+est and invalid. The TPO has rectified its earlier order dated November 10,
+2016, which was passed to give effect to the directions of the Tribunal vide
+order dated July 15, 2016, arising out of ITA No. 6314/ Del/ 2015, without
+specifying the mistake apparent from record. The Ld. AR submitted that the
+Tribunal vide order dated July 15, 2016 had restored the matter regarding
+alleged excessive incurrence of AMP expenditure is whether an international
+transaction and benchmarking the same if it is at first place held it to be an
+international transaction, for de-novo adjudication / benchmarking in light of
+the recent jurisprudence of the Hon'ble Delhi High Court and various decisions
+of the Hon'ble Benches of the Tribunal. In line with the same the TPO vide
+order dated November 10, 2016 deleted the adjustment on account of
+Advertisement, Marketing and Promotion Expenditure ("AMP") as alleged
+international transaction. Before passing of the appeal effect order dated
+November 10, 2016, the TPO had issued a show cause notice dated September 26,
+2016 (received on October 10, 2016); calling for the details as to why AMP
+expenditure should not be treated as an international transaction and the
+economic analysis for benchmarking the said alleged international transaction.
+The assessee vide submissions dated November 8, 2016 filed detailed objections
+in respect to the above-mentioned questionnaire. The TPO after taking into
+consideration, the submissions filed and also the earlier submissions /
+documents on record, passed an appeal effect order dated November 10, 2016
+determining the ALP of the alleged incurrence of excessive AMP expenditure as
+an international transaction Nil. In other words, no adjustment was proposed
+on account of the said alleged international transaction. Thereafter, the TPO
+issued a show-cause notice dated March 15, 2016\. In the said notice, the TPO
+stated that there are certain discrepancies in the order dated November 10,
+2016 and therefore, why the said order should not be rectified in terms of the
+transfer pricing order passed for AY 2010-11. Meaning thereby, the TPO
+intended to make transfer pricing adjustment on account of alleged excessive
+AMP expenditure as an international transaction on substantive basis using
+intensity method and bright line method on  8 ITA No. 5146/Del/2017 protective
+basis, as was done in AY 2010-11 in the second round of proceedings (i.e.,
+post remand by the Tribunal). The Ld. AR pointed out that nowhere in the
+above-mentioned rectification notice, proposing rectification of the earlier
+order the TPO has given reasons as to what were the mistakes apparent from
+record which form the basis for rectifying that earlier order; besides
+summarily stated that there are certain discrepancies. At the outset, it may
+be pointed out that from the perusal of the impugned rectification notice, it
+is apparent that the TPO has used the term "certain discrepancies", which
+clearly shows that even if there were any mistakes, termed as "discrepancies"
+the same were debatable and were beyond the purview of section 154 of the Act.
+As per section 154 of the Act, only mistakes apparent from records can be
+rectified and not debatable mistakes or discrepancies. The Ld. AR submitted
+that law is no longer res integra on rectification of mistakes apparent from
+record and its only the mistakes which are non-debatable can be rectified
+under section 154 of the Act. The Appellant in response to the said
+rectification show-cause notice, filed submissions dated March 30, 2017. The
+Ld. AR pointed out that the TPO does not have any jurisdiction to rectify the
+order dated November 10, 2016. The Ld. AR further pointed out that on the
+facts and circumstances of the case and in law there was no mistake apparent
+from record and as to why the order of the AY 2010-11 (passed in second round)
+should not be followed. The assessee, in summary stated before the TPO that
+
+(i) AY 2010-11, being the first year of adjustment on account of AMP
+expenditure, the Tribunal based on the jurisprudence available at that point
+of time, i.e., LG Electronics, Special Bench LG Electronics India Pvt. Ltd.
+vs. ACIT (2013) 152 TTJ (Del) 273 (SB), which had upheld incurrence of alleged
+excessive AMP expenditure as an international transaction and it was only for
+the purposes of computing the transfer pricing of the alleged international
+transaction that the matter was remanded back to the AO / TPO. In the instant
+AY, however, the legal challenge is to whether alleged excessive incurrence of
+AMP Expenditure is an international transaction and the computation of
+transfer pricing of alleged international transaction was  9 ITA No.
+5146/Del/2017 remanded back to the file of the AO / TPO. In other words, in AY
+2010-11, it was limited remand to benchmark, whereas in AY 2011-12, the whole
+issue has been remanded back. The TPO before passing of the subsequent order
+dated May 16, 2017 making transfer pricing adjustment on account of alleged
+excessive AMP expenditure as an international transaction, neither
+independently dispose the objections filed by the assessee to the above-
+mentioned rectification show-cause notice, nor were they considered while
+passing the later transfer pricing order and also nowhere, in the later TP
+order it has been mentioned that the earlier order stands rectified for the
+reasons as may have been considered / culled out by the TPO. In other words,
+TPO being aware of the position that debatable claims/ additions/
+disallowances do not come within the purview of section 154 of the Act, chose
+to remain silent and passed a non-speaking TP order dated May 16, 2017. The
+Ld. AR submitted that when the earlier order has not been rectified or
+reversed in the subsequent TP order passed by the TPO, two transfer pricing
+orders for the same assessment year cannot co-exist. The same is undisputed
+from the subsequent order dated May 16, 2017, passed by the TPO that not only
+the TPO has ignored the submissions of the assessee filed against
+rectification notice issued section 154, but was also not diligent enough to
+mention the earlier TP order dated November 10, 2016 stands modified/
+rectified. Nowhere in the of the order, an averment/ reference has been made
+to the earlier TP order, making it apparent that the lower authorities were
+well aware that rectification of the earlier TP order would not stand the test
+of assumption of jurisdiction under section 154 of the Act, as the mistake (if
+any, though there was none on the facts and circumstances of the instant case)
+sought to be rectified was debatable chose to conveniently ignore the earlier
+TP order. In view of the above, the Ld. AR submitted that; (a) the subsequent
+TP order dated May 16, 2017 is bad in law and void ab-initio and (b) in any
+case as per the admittance of the lower authority vide order dated November
+10, 2016, which still exists as on date, no transfer pricing adjustment on
+account of alleged incurrence of excessive AMP expenditure as international
+transaction is  10 ITA No. 5146/Del/2017 warranted.
+
+6\. On merit, as regards to Ground No. 4 relating to whether AMP is an
+international transaction, the Ld. AR submitted that the AO / TPO have gravely
+erred in interpreting that the AMP expenditure incurred by Nikon India towards
+third parties in India, accounts for brand building activities in India and
+that Nikon India should be remunerated for carrying out such brand building
+activities for its AEs. The assessee company strongly contests that the
+marketing activities performed by Nikon were for the need and benefit of Nikon
+India and not for the purpose of benefit/ on behalf of its AEs. Nikon India
+has incurred expenditure on AMP to cater to local market needs. Such AMP was
+neither incurred at the instance of overseas AE nor was there any mutual
+agreement or understanding or arrangement as to the allocation or contribution
+by the AE towards reimbursement of expenses incurred by the domestic company
+for its business purposes. Further, onus to prove the existence of a mutual
+agreement between the AEs for incurring AMP expenditure has been placed on the
+revenue by Maruti Suzuki India Ltd vs. CIT [2016] 381 ITR 117 (Delhi). The TPO
+has not brought, on record, any iota of evidence to substantiate that there
+has been an understanding between the domestic company and its AE to:
+
+\- incur AMP expenditure on behalf of AE and its reimbursement thereof;
+
+\- develop (if any created) / transfer of marketing intangibles, in the course
+of incurrence of such expenditure; and
+
+\- make payment for rendering marketing development services or other allied
+activities.
+
+AMP expenditure can, at best, be termed as unilateral endeavour by the
+domestic company for achieving higher sales / retaining market share and any
+alleged benefit to AE would be merely incidental which cannot at all be
+brought under the umbrella of 'international transaction' as referred to in
+section 92B of the Act. The TPO in its order could not prove any such separate
+arrangement/ agreement existed, hence the domestic transactions does not fall
+11 ITA No. 5146/Del/2017 under the ambit of Section 92B(2) of the Act. The TPO
+has simply placed reliance on the decision of the Delhi High Court in the case
+of Sony Ericsson Mobile Communications India P. Ltd. vs. CIT: [2015] 374 ITR
+118 (Delhi) and stated that the expenditure incurred by the assessee company
+is excessive, thus, is an international transaction. There is no
+understanding, what so ever in the agreement to depict that Nikon India is
+incurring excessive expenditure owing to any arrangement between Nikon India
+and its AE with the intention to promote the brand of foreign AE in India. The
+expenses incurred by the assessee company are required in the routine course
+of business to increase the sale of its products within India. It is clear
+that assessee company's marketing efforts only cater for promoting the
+products that it deals in, solely with an intention to boost its sales in
+India. The marketing decisions taken by Nikon India are independent and not
+controlled or driven by the AEs. The Ld. AR, in this regard, draws attention
+of the Bench to the following judgments of the Hon'ble High Court and Tribunal
+wherein, it was held that AMP is not an International transaction under the
+purview of Section 92 the Act:  Maruti Suzuki India Ltd vs CIT(A)[2016] 381
+ITR 117(Delhi)  Honda Siel Power Products (ITA No. 346/2015)  Baush & Lomb
+Eyecare (India)(P) Ltd. Vs. ACIT(2016) 381 ITR 227 (Delhi)  Whirlpool of
+India Vs. DCIT (TS-622-HC-2015(Del)-TP)  Moet Hennessy India Pvt. Ltd Vs.
+ACIT 2018 173 ITD 55 (Delhi-Trib)  Sennheiser Electronics India (P) Ltd Vs
+ACIT [2019] 101 taxmann.com 326 (Delh-Trib)  Goodyear India Ltd. Vs. DCIT
+(ITA No. 5650/Del/2011, 6240/del/2012 and 916/Del/2014)  PepsiCo India
+Holdings Pvt. Ltd (ITA No. 1334/Chandi/2010, 1203/Chandi/2011, 2511/Del/2013,
+1044/del/2014 & 4516/del/2016 Ays 2006-07 to 2010-11  Honda Siel Power
+Products Ltd. Vs. DCIT ITA No. 1579/Del/2017 Assessment Year 2012-13  Widex
+India P. Ltd (TS_60-ITAT-2017 (CHANDI)-TP)  12 ITA No. 5146/Del/2017  Loreal
+India Pvt. Ltd. Vs. DCIT(ITA 7714/Mum/2012)  Heinz India Pvt. Ltd. ITA No.
+7732/MUM/2010  Thomas Cook India Ltd. (ITA No. 1261 & 1238/Mum/2015) In light
+of the above decisions, it is clear that since, TPO / AO has not brought any
+evidence on record to show that there exists an arrangement, the AMP
+expenditure of the assessee company cannot be considered as an international
+transaction. There is no shred of evidence that justifies the TPO's argument
+that Nikon India is incurring AMP expenses at the behest of its AE on the
+basis of some mutual arrangement. In view of the above, the said AMP expenses
+incurred by the assessee company cannot be held to be an international
+transaction. The Ld. AR submitted that without considering the submissions of
+the assessee company and without pointing out what mistakes (which are
+apparent from records) have crept-in the said order, the TPO rectified the
+earlier order which is against. The Ld. AR further pointed out that the said
+order was passed solely on the basis of change in opinion and not based on any
+mistake apparent. Further, it was passed without the mention of the previous
+order dated 10.11.2016.
+
+7\. The Ld. DR submitted that the order passed under Section 154 of the Act is
+valid and there was a mistake apparent in respect of order giving effect to
+the directions of the Tribunal in order dated 10.11.2016 passed by the TPO.
+The Ld. DR further submitted that the assessee has incurred huge AMP
+expenditure to develop marketing intangible to promote the trademark/Brand
+name owned by its AE. The AE has received benefit in the form of enhanced
+brand value in India and increased sales of their products. The Ld. DR relied
+upon the order of the TPO and submitted that the AMP expenditure constitutes
+an "International Transaction" within the meaning of Section 92B(1) of the
+Act. The Ld. DR pointed out the amendments made by Finance Act, 2012 to
+Section 92B of the Act which added an explanation, wherein it was stated that
+the international transaction shall include the purchase, sale, transfer,
+lease or use of intangible property, including the transfer of ownership or
+the provision  13 ITA No. 5146/Del/2017 of use of licenses, franchises,
+customer list, marketing channel, brand, commercial secret, know-how,
+industrial property right, exterior design or practical and new design or any
+other business or commercial rights of similar nature. The explanation further
+described intangible property as marketing related intangible assets, such as,
+trademarks, trade names, brand names, logos. Thus, the legislative intention
+has been clarified by these amendments. The transfer pricing regulations also
+require that it is not only the form but the overall arrangement/substance of
+the transactions that must be kept in mind. Thus, the TPO righty held that AMP
+expenditure are international transaction within the meaning of Section 92B(1)
+of the Act. The Ld. DR relied upon the decision of the Tribunal in case of M/s
+Olympus Medical Systems India Pvt. Ltd. vs. DCIT being ITA No. 7414/Del/2018
+order dated 27.03.2019.
+
+8\. We have heard both the parties and perused all the relevant material
+available on record. The Tribunal vide order dated 15.07.2016 held as under:
+
+> "19. We have heard the rival submissions and perused the relevant material
+> on record. The ld. AR tried to harp on certain agreements and other
+> documents to buttress his point that there was no international transaction
+> on account of AMP expenses in terms of the judgment in the case of Whirlpool
+> (supra). On perusal of the order of the TPO, it emerges that there is no
+> discussion about any of these documents. Since the TPO held AMP expenses to
+> be an international transaction, he did not have any occasion to consider
+> these documents in the light of the judicial view now available for
+> consideration. Respectfully following the Tribunal orders of co-ordinate
+> benches, placed on record by the ld. DR, we are of the considered opinion
+> that it would be in the fitness of things if the impugned order is set aside
+> and the matter is restored to the file of TPO/AO for a fresh determination
+> of the question as to whether there exists an international transaction of
+> AMP expenses. If the existence of such an international transaction is not
+> proved, the matter will end there and then, calling for no transfer pricing
+> addition. If, on the other hand, the international transaction is found to
+> be existing, then  14 ITA No. 5146/Del/2017 the TPO will determine the ALP
+> of such an international transaction in the light of the relevant judgments
+> of the Hon'ble High Court, after allowing a reasonable opportunity of being
+> heard to the assessee. In doing so, the selling expenses directly incurred
+> in connection with sales not leading to brand promotion, should not be
+> brought within the ambit of AMP expenses. This view taken by the Special
+> Bench of the Tribunal in the case of LG Electronics India Pvt. Ltd. vs. ACIT
+> (2013) 152 TTJ (Del) 273 (SB) has been upheld by the Hon'ble Delhi High
+> Court in the case of Sony Ericson Mobile Communications (India) Pvt. Ltd.
+> vs. CIT (2015) 374 ITR 118 (Del.) The contention of the ld. DR that SLP has
+> been admitted against the exclusion of selling expenses from the ambit of
+> AMP expenses in the case of Amadus India Ltd., does not alter the legal
+> position prevailing as on today."
+
+As per the directions of the Tribunal, the TPO vide order dated 10.11.2016
+passed the following order:
+
+"Order Giving Effect to the Directions of the Hon'ble ITAT, New Delhi The
+Hon'ble ITAT, New Delhi vide his order dated 15.07.2016 has set aside the case
+and the matter is restored to the file of TPO/AO for fresh determination of
+question as to whether there exists an international transaction of AMP
+expenses. The selling expenses directly incurred in connection with sales not
+leading to brand promotion, should not be brought within the ambit of AMP.
+
+Therefore, in view of the direction of the Hon'ble the ITAT, the earlier
+adjustment of Rs. 75,02,87,734/- is being revised to Nil."
+
+But on 15/3/2017, the TPO issued Show Cause Notice relating to rectification
+of order dated 10/11/2016 thereby asking why earlier order passed for
+Assessment Year 2011-2 be not amended as per order passed for Assessment Year
+2010-11. It is pertinent to note that while remanding back the question as to
+whether there exists an international transaction of AMP expenses, the  15 ITA
+No. 5146/Del/2017 Tribunal in Assessment Year 2011-12 categorically held that
+if the existence of such an international transaction is not proved, the mater
+will end there and then, calling for no transfer pricing addition. Firstly, we
+must looked into the relevant Section for rectification of order passed by the
+Assessing Officer/TPO. Section 154(1A) of the Income Tax Act, categorically
+reads as under:-
+
+> "Section 154 .....................
+
+> (1A) Where any matter has been considered and decided in any proceeding by
+> way of appeal or revision relating to an order referred to in sub- section
+> (1), the authority passing such order may, notwithstanding anything
+> contained in any law for the time being in force, amend the order under that
+> sub- section in relation to any matter other than the matter which has been
+> so considered and decided.
+
+> ..........................."
+
+Thus, Section 154(1A) lays down that rectification can be done for any matter
+other than the matter considered and decided in appeal/revision. Thus, whene
+any matter had been considered and decided in any proceeding by way of appeal
+or revision, rectification of such matter cannot be done by TPO/Assessing
+Officer under Section 154 of the Income Tax Act, 1961. The said position is
+clear in terms of Section 154(1A) of the Act wherein it has been laid that
+where any matter has been considered and decided in any proceedings by way of
+appeal or revision relating to an order referred to in sub section (1), the
+authority passing such order, may notwithstanding anything contained in any
+law for the time being in force, amend the order under that sub section in
+relation to any matter other than the matter which has been so considered and
+decided. The order of the Appellate Tribunal having become final and after the
+final decision of the Appellate Tribunal, the Revenue could not initiate fresh
+assessment proceedings, as the order of the Tribunal was binding on the
+Revenue. It was noted that various High Court had expressed a similar view.
+Thus, the questions which are expressly raised before or decided by the
+appellate or revisional authority cannot be re-agitated and no rectification
+proceedings will be maintainable in respect thereof, under section  16 ITA No.
+5146/Del/2017 154 of the Income Tax Act, 1961, before the TPO/Assessing
+Officer in the garb of amending his/her own order. Thus, the assumption of
+jurisdiction by the TPO/AO u/s 154 is bad in law and void ab intio. Therefore,
+the assessment order passed by the Assessing Officer on 10.07.2017 is also bad
+in law and void ab initio, thus, the Assessment order is set-aside. Hence,
+Ground No. 3 is allowed. Since the legal ground raised in Ground No. 3 itself
+goes to the root of the legality of assessment order, there is no need to
+entertain the grounds raised in consonance with the merit of the case. Hence,
+appeal of the assessee is allowed.
+
+9\. In result, appeal of the assessee is allowed.
+
+Order pronounced in open court on this 14th Day of December, 2020.
+
+    
+    
+             Sd/-                                                     Sd/-
+     (ANIL CHATURVEDI)                                         (SUCHITRA KAMBLE)
+    ACCOUNTANT MEMBER                                           JUDICIAL MEMBER
+    
+    Dated : 14/12/2020
+    R. Naheed
+    
+    Copy forwarded to:
+    
+    1.                          Appellant
+    2.                          Respondent
+    3.                          CIT
+    4.                          CIT(Appeals)
+    5.                          DR: ITAT
+    
+    
+    
+    
+                                                          ASSISTANT REGISTRAR
+                                                             ITAT NEW DELHI
+                              17                        ITA No. 5146/Del/2017
+    
+    
+    
+    
+    Date of dictation                                  14.12.2020
+    
+    Date on which the typed draft is placed before     14.12.2020
+    the dictating Member
+    
+    Date on which the typed draft is placed before     14.12.2020
+    the Other Member
+    
+    Date on which the approved draft comes to the      14.12.2020
+    Sr. PS/PS
+    
+    Date on which the fair order is placed before      14.12.2020
+    the Dictating Member for pronouncement
+    
+    Date on which the fair order comes back to the     14.12.2020
+    Sr. PS/PS
+    
+    Date on which the final order is uploaded on       14.12.2020
+    the website of ITAT
+    
+    Date on which the file goes to the Bench Clerk     14.12.2020
+    
+    Date on which the file goes to the Head Clerk
+    
+    The date on which the file goes to the Assistant
+    Registrar for signature on the order
+    
+    Date of dispatch of the Order
+     
+

@@ -1,0 +1,587 @@
+
+
+Delhi High Court
+
+Cit vs Ekl Appliances Ltd on 29 March, 2012
+
+Author: R.V. Easwar
+
+    
+    
+    *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+    
+    +      I.T.A. Nos.1068/2011 & I.T.A. Nos.1070/2011
+    
+                                             Reserved on: 22nd February, 2012
+    %                                     Date of Decision: 29th March, 2012
+    
+           CIT                                             ..... Appellant
+                                 Through:      Mr. Kamal Sawhney, Sr.
+                                               Standing Counsel and Mr. Amit
+                                               Shrivastava, Advocate
+    
+                          versus
+    
+           EKL APPLIANCES LTD                             ..... Respondent
+    
+    
+                       Through:                Mr. V.P. Gupta, Mr. Bassant
+                                               Kumar and Mr. Anuj Bansal,
+                                               Advocates.
+    
+    CORAM:
+    HON'BLE MR. JUSTICE SANJIV KHANNA
+    HON'BLE MR. JUSTICE R.V. EASWAR
+    
+    
+    
+    
+    1. Whether Reporters of local papers may be allowed to see the judgment?
+    2. To be referred to the Reporters or not ?        Yes
+    3. Whether the judgment should be reported in the Digest?         Yes
+    
+    R.V. EASWAR, J.:
+    
+
+In these appeals filed under Section 260A of the Income Tax Act, 1961 („Act‟,
+for short) the Commissioner of Income Tax challenges the common order passed
+by the Income Tax Appellate ITA Nos.1068 & 1070/2011 Page 1 of 25 Tribunal
+(„Tribunal‟, for short) on 11.02.2011 for the assessment years 2002-03 and
+2003-04.
+
+2\. The appeals arise this way. The assessee is a public limited company
+engaged in the business of manufacturing of refrigerators, washing machines,
+compressor and spares thereof and also trading all these items and microwaive
+ovens, dish washers, cooking ranges, air conditioners and spares thereof. In
+respect of the assessment years 2002-03 and 2003-04, it filed returns of
+income declaring losses amounting to ` 148,23,80,117/- and ` 1,14,59,660/-
+respectively. The Assessing Officer noticed that there were international
+transactions entered into by the assessee during the relevant previous years
+and accordingly invoked the provisions of Section 92CA(3) of the Act and
+referred the question of determination of the Arms Length Price („ALP‟, for
+short) to the Transfer Pricing Officer („TPO‟, for short). The TPO examined
+the matter in considerable detail and noticed that AB Electrolux, Sweden held
+76% of the assessee‟s equity as on 31.03.2002 and out of the balance, 26% was
+held by the local joint venture partners and the balance 18% was held by the
+public. He noted that the turnover of the assessee for the assessment year
+2003-04 amounted to ` 440.97 crores including trading sales of ` 48.29 crores
+pertaining to goods partly imported from the associated enterprises and also
+purchased ITA Nos.1068 & 1070/2011 Page 2 of 25 locally. The major
+international transactions undertaken by the assessee were also noticed by him
+and he has listed the same at page 2 of the order passed by him on 20.03.2006
+under Section 92CA (3) of the Act. It is noticed from the order that there are
+13 types of international transactions entered into by the assessee in the
+previous relevant year 2003-04. The TPO accepted all of them to be Arm‟s
+Length Transactions, except the payment of brand fee/ royalty of `
+3,42,97,940/-. The corresponding figure for the assessment year 2002-03 is `
+3,99,51,000/-. We may clarify that the revenue has filed before us the order
+passed by the TPO for the assessment year 2003-04 on 20.03.2006, but the order
+passed by the TPO for assessment year 2002-03 has not been made available.
+This, however, is not material because it is common ground that the facts and
+the controversy arising in both the assessment years are the same so far as
+the ALP is concerned. Reverting to the order of the TPO, he considered the
+payment of brand fee/ royalty by the assessee to the associated enterprise
+namely AB Electrolux, Sweden under an agreement dated 01.10.1998 to be
+unjustified.
+
+3\. It is necessary to narrate the order of the TPO on this aspect in some
+detail in order to appreciate the precise controversy. We have already noted
+that the brand fee payment was made under an agreement dated 01.10.1998. The
+assessee was to pay brand fee at ITA Nos.1068 & 1070/2011 Page 3 of 25 the
+rate of 0.50% of the net sales under the brand name of "Kelvinator". The
+payment was to be made to M/s. White Consolidated Inc. of Ohio, USA. However,
+the payment of the fee was waived till 01.01.2002 as advertising and launch
+support. On 27.09.2002, the agreement was modified to give effect to the new
+name of M/s. White Consolidated INC. It was thereafter known as Electrolux
+Home Products INC. The modified agreement also recognized the amalgamation of
+Electrolux Voltas Pvt. Ltd. with Electrolux Kelvinator Ltd. Another change
+made in the agreement was to change the brand fee to 1% of the net sales. The
+agreement was to remain in force till 31.12.2008. It was under this agreement
+that the assessee paid ` 3,42,97,910/- as brand fee for the assessment year
+2003-04 and ` 3,99,51,000/- for the assessment year 2002-03.
+
+4\. The TPO obtained the financial statements of the assessee since the
+commencement of commercial production and examined the same and set out the
+crucial figures in the form of following table: -
+
+    
+    
+                 Year          Profit/ (loss)   Turnover    Brand fee/
+                                  (Rs.)           (Rs.)    Royalty (Rs.)
+    
+            1996-97              (23.4) cr        68 cr        3 lac
+    
+            1997-98              (17.2) cr       215 cr       3.27 cr
+    
+            1998-99              (8.19) cr       312 cr       6.78 cr
+    
+    
+    
+    
+    ITA Nos.1068 & 1070/2011                                  Page 4 of 25
+             1999-2000           2.75 cr      298 cr    7.23 cr
+    
+            2000-01            (39.5) cr     314 cr    6.64 cr
+    
+            2001-02            (149.8) cr    481 cr    5.08 cr
+    
+            2002-03            (195.1) cr.   428 cr    3.42 cr
+    
+    
+    
+    
+
+5\. From the figures shown above the TPO noticed that the assessee has been
+incurring huge losses year after year except for the financial year 1999-2000
+and considering the perpetual losses, "the payment of royalty to the Associate
+Enterprise did not appear justified, as the technical knowhow/ brand fee
+agreements with A.E. had not benefited the assessee company in achieving
+profits from its operations". The TPO further noted that the assessee itself
+stopped the payment from 01.10.1998 till 01.01.2002 and thus "the
+justification for payment of brand fee during the year under reference becomes
+questionable".
+
+6\. Having reached the aforesaid conclusion, the TPO called upon the assessee
+to submit the justification for the payment of brand fee. The assessee
+submitted a detailed reply raising the following points:
+
+> (i) The payment of brand fee should be examined on merits for each year;
+
+ITA Nos.1068 & 1070/2011 Page 5 of 25
+
+> (ii) The Associated Enterprise („A.E.‟, for short) had received similar
+> brand fee from M/s. Fisher and Paykel Industries Limited, an unrelated party
+> in New Zealand, and this transaction was comparable with the assessee‟s
+> transaction with the A.E. and thus there cannot be any doubt regarding
+> genuineness of the ALP;
+
+> (iii) The transaction was certified by M/s. Ernst and Young, the
+> certification firm of global repute, who has stated that the fee paid by the
+> assessee is lower than the uncontrolled brand fee;
+
+> (iv) The allowance of brand fee as expenditure does not depend on the
+> profitability of the concern, but on the utility of the brand name and the
+> technical knowhow in respect of which the payment is made. The payment may
+> not immediately result in profits but since the company is in business with
+> the motive to earn profit, it has to incur all such expenditure that would
+> be in the interest of its business. The brand fee payment is a legitimate
+> expenditure which, had it not been incurred, would have seriously affected
+> the operations of the assessee. It would have hampered the availability of
+> the brand name "Kelvinator".
+
+ITA Nos.1068 & 1070/2011 Page 6 of 25
+
+> (v) It was due to availability of the brand name that the assessee was able
+> to achieve substantial increase in its turnover as shown in the table set
+> out above. Had it not been for the brand name there would have been more
+> losses because of higher fixed cost coupled with lower sales.
+
+7\. The TPO considered the reply of the assessee containing the justification
+for the payment of brand fee. He conceded that there was an increase in the
+turnover but observed that it has not resulted in any profit to the assessee.
+According to him, despite the payment of the brand fee for several years, the
+assessee has not been able to make a turnaround. He further held that the fact
+that the A.E. had charged similar brand fee from another company in New
+Zealand did not prove that the price paid by the assessee for obtaining the
+use of the brand name and the technical knowhow represented the ALP. He was of
+the view that the assessee had to demonstrate the actual benefit derived by it
+by using the brand name which it had failed to do. The continuous losses
+according to the TPO showed that the assessee did not benefit in any way from
+the brand fee payment. For these reasons, the TPO held that the brand fee
+payment made by the assessee to the A.E. was unjustified and the ALP of the
+transactions should be taken as nil. He accordingly held that the brand fee
+ITA Nos.1068 & 1070/2011 Page 7 of 25 payment of ` 3,42,97,940/- should be
+added back to the total income of the assessee.
+
+8\. A similar order would appear to have been passed by the TPO for the
+assessment year 2002-03 also by which the brand fee/ royalty payment on `
+3,99,51,000/- was added back to the income of the assessee.
+
+9\. Under Section 92CA (4) of the Act, the Assessing Officer is bound by the
+directions given by the TPO in respect of the ALP. Accordingly, the Assessing
+Officer, for both the years under appeal disallowed and added back the brand
+fee/ royalty payment made by the assessee to the A.E. while completing the
+assessments under Section 143(3) of the Act.
+
+10\. The assessee preferred appeals to the CIT (Appeals) in respect of both
+the assessment years and questioned the determination of the ALP and the
+disallowance of the brand fee/ royalty payment. The appeal for the assessment
+year 2002-03 was disposed of vide order dated 27.07.2009 whereas the appeal
+for the assessment year 2003- 04 was disposed of by the order dated
+27.11.2009. Though, two separate orders have been passed by the CIT (Appeals),
+the reasoning and conclusions are the same. We, therefore, proceed to notice
+the findings of the CIT (Appeals) in a consolidated manner.
+
+ITA Nos.1068 & 1070/2011 Page 8 of 25
+
+Before the CIT (Appeals) the assessee would appear to have raised several
+objections including the objection to the reference made to the TPO which
+according to the assessee was done mechanically by the Assessing Officer. On
+this point the CIT (Appeals) found himself unable to agree with the assessee‟s
+objections, having regard to the judgment of this Court in the case of CIT v.
+Bankam Investment Ltd. (1994) 208 ITR 52. Thereafter he addressed the question
+whether the TPO was right in rejecting the economic analysis of the
+transaction undertaken by the assessee for the determination of the ALP vis-a-
+vis payment of royalty/ brand fee, in a situation where losses were being
+incurred continuously by it. He noted the assessee‟s economic analysis in
+great detail and recorded the following findings for the assessment year
+2002-03: -
+
+> (i) The assessee was forced to upgrade its technology with the advent of
+> tough competition from makers of frost free refrigerators and large number
+> of entrants in the refrigerator market. Once the technology was upgraded by
+> clearing the usage of technical knowhow for payment of brand fee/ royalty
+> the assessee was able to reduce the losses to a significant extent.
+> Therefore, the claim of the TPO that by securing the use of the technical
+> knowhow the assessee did not benefit was not correct;
+
+ITA Nos.1068 & 1070/2011 Page 9 of 25
+
+> (ii) There was significant increase in the operating losses on account of
+> the increase in the employees‟ cost, finance charges, administrative
+> expenses, depreciation and installed capacity. In this regard the
+> comparative statement filed by the assessee to show the expenses over a
+> period of 5 years, the assets acquired during the aforesaid period, the
+> loans incurred over the said period, etc. was examined by the CIT (Appeals)
+> who found that the statement supported the claim of the assessee regarding
+> huge increase in the costs/ expenses. He also found that the acquisition by
+> the assessee of other companies such as Intron Ltd. and Electrolux India
+> Ltd. had also contributed to the losses;
+
+> (iii) From the schedule of unsecured loans furnished in the form of table
+> over the period between 1999 to 2002, it is found that there was huge
+> increase of financial costs from ` 5.12 crores in 1997 to 41.10 crores in
+> 2002. This was solely on account of the increase in the unsecured loan from
+> ` 15.89 crores to ` 397.92 crores in the year 2002;
+
+> (iv) Similarly, there was increase in the depreciation costs from ` 6.03
+> crores in 1997 to ` 67-88 crores in 2002 on ITA Nos.1068 & 1070/2011 Page 10
+> of 25 account of increase in the gross block of the assets from ` 46.81
+> crores in 1997 to ` 326.23 crores in 2002;
+
+> (v) The figures furnished by the assessee showed that though it was deriving
+> gross profit from the operations, it was suffering losses due to expenses
+> and other factors. The losses show significant reduction after technical
+> upgradation in the year 2000. Therefore, it would not be inappropriate to
+> state that the assessee started deriving significant monetary benefits due
+> to the technical upgradation received under the collaboration agreement with
+> the A.E.;
+
+> (vi) The OECD guidelines on Transfer Pricing Regulations require that
+> business strategies are relevant for determining the comparability of prices
+> between controlled and uncontrolled transactions. The TPO has disregarded
+> the business and commercial realities and strategies and has acted in a
+> mechanical manner ignoring the economic circumstances surrounding the
+> transaction;
+
+> (vii) It is not open to the TPO to question the judgment of the assessee as
+> to how it should conduct its business and regarding the necessity or
+> otherwise of incurring the expenditure in the interest of its business. It
+> is entirely the choice of the assessee ITA Nos.1068 & 1070/2011 Page 11 of
+> 25 as to from whom it contemplates to source its technology or technical
+> knowhow and as to what steps should be taken to meet the competition
+> prevalent in the market and to stave off the competitors. This is the domain
+> of the businessman and the TPO has no say in the matter. As held by the
+> Supreme Court in S.A. Builders Ltd. v. CIT (2006) 289 ITR 26 (SC) the
+> Revenue cannot justifiably claim to place itself in the arm chair of
+> businessman or in the position of the Board of Directors and assume the role
+> to decide how much is the reasonable expenditure having regard to the
+> circumstances of the case.
+
+In respect of the assessment year 2003-04 more or less the same findings were
+recorded by the CIT (Appeals). In fine, he held that the royalty/ brand fee
+payment for acquisition of use of technical knowhow was incurred for genuine
+business purposes and should be allowed even if the assessee had suffered
+continuous losses in the business. The losses are partly due to internal and
+external factors and according to the CIT (Appeals) it is difficult to
+"subscribe to the TPO's view that if there was financial crunch then the
+appellant should have discontinued to payment to the A.E. on Brand Fee and the
+payment of royalty on acquisition of technical knowhow/ brand fee has not
+resulted in any financial benefit to the appellant".
+
+ITA Nos.1068 & 1070/2011 Page 12 of 25
+
+11\. Thus for both the assessment years under appeal the CIT (Appeals) decided
+the issue in favour of the assessee. The Revenue preferred appeals before the
+tribunal for both the years. ITA No.4878/Del/2009 was the appeal for the
+assessment year 2002-03. The Tribunal after noticing the facts and the rival
+contentions in some detail, agreed with the decision of the CIT (Appeals) that
+the royalty/ brand fee payment was justified and held that the TPO was totally
+wrong in disallowing the same on the footing that the assessee suffered
+continuous losses.
+
+12\. For the assessment year 2003-04, the Revenue‟s appeal in ITA
+No.421/Del/2010 was dismissed by the Tribunal which held that the brand fee/
+royalty payment cannot be disallowed by the TPO while determining the ALP. In
+doing so, the Tribunal followed its decision for the assessment year 2002-03
+in the appeal filed by the department in ITA No.4878/Del/2009.
+
+13\. In ITA Nos.1068/2011 and 1070/2011 before us the Revenue has challenged
+the decision of the Tribunal by which it upheld the decision of the CIT
+(Appeals) deleting the disallowance of brand fee/ royalty payment for the
+assessment years 2003-04 and 2002-03 respectively while computing the ALP.
+
+ITA Nos.1068 & 1070/2011 Page 13 of 25
+
+14\. On the submissions made by both the sides, the following substantial
+questions of law are framed: -
+
+ASSESSMENT YEAR 2003-04 "Whether on the facts and in the circumstances of the
+case and on a proper interpretation of Section 92CA of the Act and Rule
+10B(1)(a) of the Income Tax Rules, 1962, the Tribunal was right in confirming
+the order of the CIT (Appeals) deleting the disallowance of the brand fee/
+royalty payment of ` 3,42,97,940/- made by the assessee to its Associated
+Enterprise, while determining the Arm‟s Length Price"? ASSESSMENT YEAR 2002-03
+"Whether on the facts and in the circumstances of the case and on a proper
+interpretation of Section 92CA of the Act and Rule 10B(1)(a) of the Income Tax
+Rules, 1962, the Tribunal was right in confirming the order of the CIT
+(Appeals) deleting the disallowance of the brand fee/ royalty payment of `
+3,99,51,000/- made by the assessee to its Associated Enterprise, while
+determining the Arm‟s Length Price"?
+
+15\. It seems to us that the decision taken by the Tribunal is the right
+decision. The TPO applied the CUP method while examining the payment of brand
+fee/ royalty. The CUP method which in its expanded form is known as
+"comparable uncontrolled price" method is provided for in Rule 10B(1)(a) of
+the Income Tax Rules, 1962. It is one of the methods recognised for
+determining the ALP in relation to an international transaction. Rule 10B(1)
+says that for the ITA Nos.1068 & 1070/2011 Page 14 of 25 purposes of Section
+92C(2), the ALP shall be determined by any one of the five methods, which is
+found to be the most appropriate method, and goes on to lay down the manner of
+determination of the ALP under each method. The five methods recognized by the
+rule are (i) comparable uncontrolled price method (CUP), (ii) re-sale price
+method, (iii) cost plus method, (iv) profit split method and (v) transactional
+net marginal method (TNMM). The manner by which the ALP in relation to an
+international transaction is determined under CUP is prescribed in clause (a)
+of the sub-rule (1) of Rule 10B. The following three steps have been
+prescribed: -
+
+> "(a) comparable uncontrolled price method, by which,
+
+> (i) the price charged or paid for property transferred or services provided
+> in a comparable uncontrolled transaction, or a number of such transactions,
+> is identified;
+
+> (ii) such price is adjusted to account for differences, if any, between the
+> international transaction and the comparable uncontrolled transactions or
+> between the enterprises entering into such transactions, which could
+> materially affect the price in the open market;
+
+> (iii) the adjusted price arrived at under sub- clause (ii) is taken to be an
+> arm's length price in respect of the property transferred or services
+> provided in the international transaction;"
+
+ITA Nos.1068 & 1070/2011 Page 15 of 25
+
+16\. The Organization for Economic Co-operation and Development („OECD‟, for
+short) has laid down "transfer pricing guidelines" for Multi-National
+Enterprises and Tax Administrations. These guidelines give an introduction to
+the arm‟s length price principle and explains article 9 of the OECD Model Tax
+Convention. This article provides that when conditions are made or imposed
+between two associated enterprises in their commercial or financial relations
+which differ from those which would be made between independent enterprises
+then any profit which would, but for those conditions, have accrued to one of
+the enterprises, but, by reason of those conditions, if not so accrued, may be
+included in the profits of that enterprise and taxed accordingly. By seeking
+to adjust the profits in the above manner, the arm‟s length principle of
+pricing follows the approach of treating the members of a multi-national
+enterprise group as operating as separate entities rather than as inseparable
+parts of a single unified business. After referring to article 9 of the model
+convention and stating the arm‟s length principle, the guidelines provide for
+"recognition of the actual transactions undertaken" in paragraphs 1.36 to
+1.41. Paragraphs 1.36 to 1.38 are important and are relevant to our purpose.
+These paragraphs are re-produced below: -
+
+ITA Nos.1068 & 1070/2011 Page 16 of 25
+
+> "1.36 A tax administration's examination of a controlled transaction
+> ordinarily should be based on the transaction actually undertaken by the
+> associated enterprises as it has been structured by them, using the methods
+> applied by the taxpayer insofar as these are consistent with the methods
+> described in Chapters II and III. In other than exceptional cases, the tax
+> administration should not disregard the actual transactions or substitute
+> other transactions for them. Restructuring of legitimate business
+> transactions would be a wholly arbitrary exercise the inequity of which
+> could be compounded by double taxation created where the other tax
+> administration does not share the same views as to how the transaction
+> should be structured. 1.37 However, there are two particular circumstances
+> in which it may, exceptionally, be both appropriate and legitimate for a tax
+> administration to consider disregarding the structure adopted by a taxpayer
+> in entering into a controlled transaction. The first circumstance arises
+> where the economic substance of a transaction differs from its form. In such
+> a case the tax administration may disregard the parties' characterization of
+> the transaction and re-characterise it in accordance with its substance. An
+> example of this circumstance would be an investment in an associated
+> enterprise in the form of interest-bearing debt when, at arm's length,
+> having regard to the economic circumstances of the borrowing company, the
+> investment would not be expected to be structured in this way. In this case
+> it might be appropriate for a tax administration to characterize the
+> investment in accordance with its economic substance with the result ITA
+> Nos.1068 & 1070/2011 Page 17 of 25 that the loan may be treated as a
+> subscription of capital. The second circumstance arises where, while the
+> form and substance of the transaction are the same, the arrangements made in
+> relation to the transaction, viewed in their totality, differ from those
+> which would have been adopted by independent enterprises behaving in a
+> commercially rational manner and the actual structure practically impedes
+> the tax administration from determining an appropriate transfer price. An
+> example of this circumstance would be a sale under a long-term contract, for
+> a lump sum payment, of unlimited entitlement to the intellectual property
+> rights arising as a result of future research for the term of the contract
+> (as previously indicated in paragraph 1.10). While in this case it may be
+> proper to respect the transaction as a transfer of commercial property, it
+> would nevertheless be appropriate for a tax administration to conform the
+> terms of that transfer in their entirety (and not simply by reference to
+> pricing) to those that might reasonably have been expected had the transfer
+> of property been the subject of a transaction involving independent
+> enterprises. Thus, in the case described above it might be appropriate for
+> the tax administration, for example, to adjust the conditions of the
+> agreement in a commercially rational manner as a continuing research
+> agreement.
+
+> 1.38 In both sets of circumstances described above, the character of the
+> transaction may derive from the relationship between the parties rather than
+> be determined by normal commercial conditions as may have been structured by
+> the taxpayer to avoid or minimize tax. In such cases, the totality of its
+> terms ITA Nos.1068 & 1070/2011 Page 18 of 25 would be the result of a
+> condition that would not have been made if the parties had been engaged in
+> arm's length dealings. Article 9 would thus allow an adjustment of
+> conditions to reflect those which the parties would have attained had the
+> transaction been structured in accordance with the economic and commercial
+> reality of parties dealing at arm's length."
+
+17\. The significance of the aforesaid guidelines lies in the fact that they
+recognise that barring exceptional cases, the tax administration should not
+disregard the actual transaction or substitute other transactions for them and
+the examination of a controlled transaction should ordinarily be based on the
+transaction as it has been actually undertaken and structured by the
+associated enterprises. It is of further significance that the guidelines
+discourage re-structuring of legitimate business transactions. The reason for
+characterisation of such re-structuring as an arbitrary exercise, as given in
+the guidelines, is that it has the potential to create double taxation if the
+other tax administration does not share the same view as to how the
+transaction should be structured.
+
+18\. Two exceptions have been allowed to the aforesaid principle and they are
+(i) where the economic substance of a transaction differs from its form and
+(ii) where the form and substance of the transaction are the same but
+arrangements made in relation to the ITA Nos.1068 & 1070/2011 Page 19 of 25
+transaction, viewed in their totality, differ from those which would have been
+adopted by independent enterprises behaving in a commercially rational manner.
+
+19\. There is no reason why the OECD guidelines should not be taken as a valid
+input in the present case in judging the action of the TPO. In fact, the CIT
+(Appeals) has referred to and applied them and his decision has been affirmed
+by the Tribunal. These guidelines, in a different form, have been recognized
+in the tax jurisprudence of our country earlier. It has been held by our
+courts that it is not for the revenue authorities to dictate to the assessee
+as to how he should conduct his business and it is not for them to tell the
+assessee as to what expenditure the assessee can incur. We may refer to a few
+of these authorities to elucidate the point. In Eastern Investment Ltd. v.
+CIT, (1951) 20 ITR 1, it was held by the Supreme Court that "there are usually
+many ways in which a given thing can be brought about in business circles but
+it is not for the Court to decide which of them should have been employed when
+the Court is deciding a question under Section 12(2) of the Income Tax Act".
+It was further held in this case that "it is not necessary to show that the
+expenditure was a profitable one or that in fact any profit was earned". In
+CIT v. Walchand & Co. etc., (1967) 65 ITR 381, it was held by the Supreme
+Court that in applying the test of commercial ITA Nos.1068 & 1070/2011 Page 20
+of 25 expediency for determining whether the expenditure was wholly and
+exclusively laid out for the purpose of business, reasonableness of the
+expenditure has to be judged from the point of view of the businessman and not
+of the Revenue. It was further observed that the rule that expenditure can
+only be justified if there is corresponding increase in the profits was
+erroneous. It has been classically observed by Lord Thankerton in Hughes v.
+Bank of New Zealand, (1938) 6 ITR 636 that "expenditure in the course of the
+trade which is unremunerative is none the less a proper deduction if wholly
+and exclusively made for the purposes of trade. It does not require the
+presence of a receipt on the credit side to justify the deduction of an
+expense". The question whether an expenditure can be allowed as a deduction
+only if it has resulted in any income or profits came to be considered by the
+Supreme Court again in CIT v. Rajendra Prasad Moody, (1978) 115 ITR 519, and
+it was observed as under: -
+
+> "We fail to appreciate how expenditure which is otherwise a proper
+> expenditure can cease to be such merely because there is no receipt of
+> income. Whatever is a proper outgoing by way of expenditure must be debited
+> irrespective of whether there is receipt of income or not. That is the plain
+> requirement of proper accounting and the interpretation of Section 57(iii)
+> cannot be different. The deduction of the expenditure ITA Nos.1068 &
+> 1070/2011 Page 21 of 25 cannot, in the circumstances, be held to be
+> conditional upon the making or earning of the income."
+
+It is noteworthy that the above observations were made in the context of
+Section 57(iii) of the Act where the language is somewhat narrower than the
+language employed in Section 37(1) of the Act. This fact is recognised in the
+judgment itself. The fact that the language employed in Section 37(1) of the
+Act is broader than Section 57(iii) of the Act makes the position stronger.
+
+20\. In the case of Sassoon J. David & Co. Pvt. Ltd. v. CIT, (1979) 118 ITR
+261 (SC), the Supreme Court referred to the legislative history and noted that
+when the Income Tax Bill of 1961 was introduced, Section 37(1) required that
+the expenditure should have been incurred "wholly, necessarily and
+exclusively" for the purposes of business in order to merit deduction.
+Pursuant to public protest, the word "necessarily" was omitted from the
+section.
+
+21\. The position emerging from the above decisions is that it is not
+necessary for the assessee to show that any legitimate expenditure incurred by
+him was also incurred out of necessity. It is also not necessary for the
+assessee to show that any expenditure incurred by him for the purpose of
+business carried on by him has actually resulted in profit or income either in
+the same year or in any of the subsequent years. The only condition is that
+the expenditure should ITA Nos.1068 & 1070/2011 Page 22 of 25 have been
+incurred "wholly and exclusively" for the purpose of business and nothing
+more. It is this principle that inter alia finds expression in the OECD
+guidelines, in the paragraphs which we have quoted above.
+
+22\. Even Rule 10B(1)(a) does not authorise disallowance of any expenditure on
+the ground that it was not necessary or prudent for the assessee to have
+incurred the same or that in the view of the Revenue the expenditure was
+unremunerative or that in view of the continued losses suffered by the
+assessee in his business, he could have fared better had he not incurred such
+expenditure. These are irrelevant considerations for the purpose of Rule 10B.
+Whether or not to enter into the transaction is for the assessee to decide.
+The quantum of expenditure can no doubt be examined by the TPO as per law but
+in judging the allowability thereof as business expenditure, he has no
+authority to disallow the entire expenditure or a part thereof on the ground
+that the assessee has suffered continuous losses. The financial health of
+assessee can never be a criterion to judge allowability of an expense; there
+is certainly no authority for that. What the TPO has done in the present case
+is to hold that the assessee ought not to have entered into the agreement to
+pay royalty/ brand fee, because it has been suffering losses continuously. So
+long as the expenditure or payment has been demonstrated to have been ITA
+Nos.1068 & 1070/2011 Page 23 of 25 incurred or laid out for the purposes of
+business, it is no concern of the TPO to disallow the same on any extraneous
+reasoning. As provided in the OECD guidelines, he is expected to examine the
+international transaction as he actually finds the same and then make suitable
+adjustment but a wholesale disallowance of the expenditure, particularly on
+the grounds which have been given by the TPO is not contemplated or
+authorised.
+
+23\. Apart from the legal position stated above, even on merits the
+disallowance of the entire brand fee/ royalty payment was not warranted. The
+assessee has furnished copious material and valid reasons as to why it was
+suffering losses continuously and these have been referred to by us earlier.
+Full justification supported by facts and figures have been given to
+demonstrate that the increase in the employees cost, finance charges,
+administrative expenses, depreciation cost and capacity increase have
+contributed to the continuous losses. The comparative position over a period
+of 5 years from 1998 to 2003 with relevant figures have been given before the
+CIT (Appeals) and they are referred to in a tabular form in his order in
+paragraph 5.5.1. In fact there are four tabular statements furnished by the
+assessee before the CIT (Appeals) in support of the reasons for the continuous
+losses. There is no material brought by the revenue either before the CIT
+(Appeals) or before the Tribunal or ITA Nos.1068 & 1070/2011 Page 24 of 25
+even before us to show that these are incorrect figures or that even on merits
+the reasons for the losses are not genuine.
+
+24\. We are, therefore, unable to hold that the Tribunal committed any error
+in confirming the order of the CIT (Appeals) for both the years deleting the
+disallowance of the brand fee/ royalty payment while determining the ALP.
+Accordingly, the substantial questions of law are answered in the affirmative
+and in favour of the assessee and against the Revenue. The appeals are
+accordingly dismissed with no order as to costs.
+
+(R.V. EASWAR) JUDGE (SANJIV KHANNA) JUDGE MARCH 29, 2012 hs ITA Nos.1068 &
+1070/2011 Page 25 of 25
+

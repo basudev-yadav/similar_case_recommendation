@@ -1,0 +1,498 @@
+tid,label,token
+91088,ORG,Bombay High Court
+91088,ORG,Tata Engineering & Locomotive Co.
+91088,DATE,"14
+February, 1979"
+91088,DATE,1979
+91088,PERSON,Chandurkar
+91088,PERSON,Desai
+91088,PERSON,M Chandurkar
+91088,CARDINAL,1\
+91088,CARDINAL,two
+91088,CARDINAL,two
+91088,DATE,"October 3, 1955"
+91088,DATE,"April 11, 1956"
+91088,ORG,M/s. Tata Locomotive and Engineering Co. Ltd.
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,GPE,India
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,Telco
+91088,GPE,Tatanagar
+91088,ORG,Grant to Telco
+91088,GPE,India
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Daimler Benz
+91088,NORP,Indian
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,NORP,Indian
+91088,NORP,German
+91088,CARDINAL,2\
+91088,ORG,M
+91088,ORG,"Daimler
+Benz"
+91088,DATE,the period of the first five years
+91088,ORG,Daimler Benz
+91088,DATE,the first five years
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,PERCENT,1%
+91088,NORP,Indian
+91088,PERCENT,50%
+91088,PERCENT,1 1/2%
+91088,NORP,Indian
+91088,PERCENT,50%
+91088,PERCENT,7 1/2%
+91088,DATE,annual
+91088,ORG,Telco
+91088,ORG,Telco
+91088,CARDINAL,3\
+91088,ORG,Telco
+91088,ORG,Mercedes Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,MONEY,Rs. 80 lakhs
+91088,DATE,10 years
+91088,DATE,15 years
+91088,DATE,"April 1, 1954"
+91088,DATE,six months'
+91088,DATE,"March 31, 1969"
+91088,ORG,Telco
+91088,ORG,Tata_Mercedes Benz
+91088,CARDINAL,36
+91088,ORG,Telco
+91088,CARDINAL,24
+91088,CARDINAL,4
+91088,NORP,Belgian
+91088,ORG,Societe Anonyme Usiness Emile Henricot
+91088,ORG,"""M/s. Henricot"""
+91088,ORG,Telco
+91088,LOC,Europe
+91088,GPE,Telco
+91088,ORG,M/s. Henricot
+91088,ORG,Telco
+91088,PERSON,Henricot
+91088,ORG,Grant
+91088,ORG,Telco
+91088,GPE,India
+91088,ORG,the Telco Steel Foundry
+91088,PERSON,Henricot
+91088,ORG,the Telco Steel Foundry
+91088,GPE,Henricot
+91088,NORP,Belgian
+91088,NORP,Indian
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,the Telco Steel Foundry
+91088,ORG,Telco
+91088,GPE,Henricot
+91088,ORG,Telco
+91088,ORG,Telco
+91088,CARDINAL,5
+91088,ORG,M/s. Henricot
+91088,DATE,"April 11, 1956"
+91088,CARDINAL,two million
+91088,CARDINAL,"five hundred thousand (2,500,000"
+91088,NORP,Belgian
+91088,DATE,the first five years
+91088,CARDINAL,four
+91088,DATE,quarterly
+91088,ORDINAL,first
+91088,DATE,"the 1st day of
+September"
+91088,CARDINAL,one thousand nine hundred and fifty-five
+91088,CARDINAL,five million
+91088,CARDINAL,"one hundred and sixty-six thousand six hundred and
+sixty-six (5,166,666"
+91088,NORP,Belgian
+91088,DATE,the three years
+91088,DATE,"the
+first five years"
+91088,CARDINAL,four
+91088,DATE,quarterly
+91088,ORDINAL,first
+91088,DATE,the 1st day of September
+91088,CARDINAL,one thousand nine hundred and sixty
+91088,CARDINAL,6
+91088,DATE,year 1959-60
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,"Daimler
+Benz"
+91088,ORG,M/s. Henricot
+91088,CARDINAL,1\
+91088,ORG,Daimler Benz
+91088,CARDINAL,"29,59,608"
+91088,CARDINAL,2\
+91088,CARDINAL,"2,99,158"
+91088,CARDINAL,7\
+91088,ORG,M/s. Henricot
+91088,GPE,Henricot
+91088,NORP,Belgian
+91088,NORP,Indian
+91088,ORG,Telco
+91088,ORG,Telco
+91088,CARDINAL,30
+91088,DATE,two years
+91088,ORG,Telco
+91088,NORP,Indian
+91088,ORG,Henricot
+91088,ORG,Telco
+91088,NORP,Indian
+91088,ORG,M/s. Henricot
+91088,ORG,Telco
+91088,DATE,year
+91088,CARDINAL,"1,69,926"
+91088,CARDINAL,8\
+91088,DATE,year 1959-60
+91088,ORG,Telco
+91088,ORG,ITO
+91088,PERSON,Moolgaonkar
+91088,ORG,Telco
+91088,ORG,ITO
+91088,ORG,AAC
+91088,ORG,ITO
+91088,CARDINAL,"29,59,608"
+91088,CARDINAL,"2,99,158"
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M/s. Henricot
+91088,CARDINAL,10\
+91088,ORG,ITO
+91088,ORG,AAc
+91088,ORG,"the
+Income-tax Appellate Tribunal"
+91088,ORG,Tribunal
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M/s. Henricot
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,DATE,15 years
+91088,ORG,Tribunal
+91088,ORG,Tribunal
+91088,ORG,Tribunal
+91088,ORG,M/s. Henricot
+91088,ORG,Tribunal
+91088,ORG,M/s. Henricot
+91088,ORG,M
+91088,ORG,Henricot
+91088,ORG,M/s. Henricot
+91088,ORG,Tribunal
+91088,ORG,Tribunal
+91088,ORG,Henricot
+91088,ORG,Telco
+91088,PERSON,Henricot
+91088,ORG,Tribunal
+91088,CARDINAL,three
+91088,ORG,Tribunal
+91088,CARDINAL,11
+91088,PERSON,Joshi
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M/s. Henricot
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,GPE,India
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,Tatanager
+91088,PERSON,Joshi
+91088,ORG,Daimler Benz Motor
+91088,ORG,M/s. Daimler Benz
+91088,ORG,Reliance
+91088,CARDINAL,3
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,GPE,India
+91088,CARDINAL,12\
+91088,CARDINAL,17
+91088,CARDINAL,18
+91088,CARDINAL,17
+91088,LAW,Clauses (18)
+91088,CARDINAL,17
+91088,ORG,Telco
+91088,ORG,Daimler Benz
+91088,DATE,annual
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,LAW,clause 34
+91088,DATE,"an initial period of fifteen
+years"
+91088,DATE,"April 1, 1954"
+91088,DATE,"March 31, 1969"
+91088,LAW,"Sub-
+clause"
+91088,CARDINAL,2
+91088,CARDINAL,34
+91088,DATE,six months'
+91088,LAW,"clause
+36"
+91088,ORG,Telco
+91088,CARDINAL,24
+91088,CARDINAL,13\
+91088,DATE,15 years
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,DATE,a long period of 15 years
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,PERSON,Henricot
+91088,ORG,M
+91088,PERSON,Henricot
+91088,DATE,nine years
+91088,CARDINAL,14
+91088,CARDINAL,two
+91088,PERSON,Moolgaonkar
+91088,ORG,ITO
+91088,ORG,ITON
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M/s. Henricot
+91088,ORDINAL,first
+91088,CARDINAL,two
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORDINAL,first
+91088,PERSON,Moolgaonkar
+91088,ORG,ITO
+91088,CARDINAL,two
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M/s. Henricot
+91088,CARDINAL,1
+91088,CARDINAL,15
+91088,PERSON,Moolgaonkar
+91088,ORG,Telco
+91088,ORG,Henricot
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Daimler Benz
+91088,PERSON,Moolgaonkar
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,Telco
+91088,CARDINAL,16
+91088,ORG,ITO
+91088,PERSON,Moolgaonkar
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,CARDINAL,9
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,PERSON,Moolgaonkar
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,CARDINAL,1
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,"Group ""B"""
+91088,ORG,Telco
+91088,GPE,Tatanagar
+91088,ORG,Grant to Telco
+91088,GPE,India
+91088,ORG,Daimler Benz
+91088,CARDINAL,17
+91088,ORG,ITO
+91088,PERSON,Moolgaonkar
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Daimler Benz
+91088,ORG,ITO
+91088,ORG,Telco
+91088,ORG,ITO
+91088,CARDINAL,18\
+91088,PERSON,Henricot
+91088,PERSON,Moolgaonkar
+91088,PERSON,Henricot
+91088,PERSON,Moolgaonkar
+91088,ORG,ITO
+91088,GPE,India
+91088,GPE,U.K.
+91088,PERSON,Henricot
+91088,CARDINAL,19
+91088,PERSON,Moolgaonkar
+91088,ORG,Telco
+91088,ORG,General Steel Castings
+91088,GPE,U.S.A
+91088,CARDINAL,20\
+91088,ORG,Telco
+91088,ORG,ITO
+91088,ORG,Telco
+91088,PERSON,Moolgaonkar
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,"Daimler
+Benz"
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,PERSON,Moolgaonkar
+91088,ORG,ITO
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Daimler Benz
+91088,DATE,15 years
+91088,ORG,Telco
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,ORG,Telco
+91088,PERSON,Moolgaonkar
+91088,DATE,the present day
+91088,DATE,these days
+91088,CARDINAL,21\
+91088,PERSON,Henricot
+91088,ORG,M/s. Henricot
+91088,ORG,M
+91088,ORG,Daimler Benz
+91088,PERSON,Henricot
+91088,PERSON,Moolgaonkar
+91088,GPE,U.K.
+91088,GPE,U.S.A.
+91088,CARDINAL,22\
+91088,ORG,Telco
+91088,ORG,Daimler Benz
+91088,ORG,M
+91088,PRODUCT,Henricot
+91088,CARDINAL,23\
+91088,ORG,the Supreme Court
+91088,ORG,CIT
+91088,ORG,Ciba of India Ltd
+91088,DATE,1968
+91088,CARDINAL,69
+91088,CARDINAL,692
+91088,ORG,the Supreme Court
+91088,NORP,Swiss
+91088,NORP,Swiss
+91088,ORG,the Supreme Court
+91088,NORP,Swiss
+91088,DATE,"a period of
+five years"
+91088,ORDINAL,third
+91088,NORP,Swiss
+91088,NORP,Swiss
+91088,ORG,the Supreme Court
+91088,ORG,"Ciba of India
+Ltd.'s"
+91088,CARDINAL,24
+91088,ORG,Ciba of India Ltd.
+91088,ORG,Antifriction Bearings Corporation Ltd.
+91088,DATE,1978
+91088,CARDINAL,114
+91088,CARDINAL,25
+91088,ORG,the Calcutta High Court
+91088,ORG,CIT
+91088,ORG,Hindusthan General Electrical Corporation Ltd
+91088,DATE,1971
+91088,DATE,81 ITR 243
+91088,ORG,"the
+Calcutta High Court"
+91088,CARDINAL,26
+91088,PERSON,Joshi
+91088,ORG,the Madras High Court
+91088,ORG,CIT v. Southern Structurals Ltd
+91088,DATE,1977
+91088,DATE,110 ITR 890
+91088,NORP,British
+91088,NORP,British
+91088,NORP,British
+91088,LAW,Clause 4
+91088,ORG,The Madras High Court
+91088,ORG,the Madras High Court
+91088,LAW,clause 2
+91088,ORG,"Fenner Woodroff &
+Co. Ltd."
+91088,DATE,1976
+91088,CARDINAL,102
+91088,CARDINAL,27\
+91088,ORG,Fenner Woodroffe & Co. Ltd.
+91088,DATE,years
+91088,ORG,The High Court
+91088,ORG,Ciba Company's
+91088,ORG,the High Court
+91088,ORG,"Ciba
+Pharma"
+91088,ORG,Ciba Basle
+91088,ORG,the Madras High Court
+91088,ORG,Ciba Pharma
+91088,DATE,"the period of
+five years"
+91088,ORG,"the Madras
+High Court"
+91088,ORG,Ciba of India Ltd
+91088,ORG,The Madras High Court
+91088,ORG,Fenner Woodroffe & Co.'s
+91088,DATE,1976
+91088,LAW,102 ITR 665 (Mad)
+91088,DATE,"a period of ten
+years"
+91088,DATE,the period of ten years
+91088,GPE,Ciba
+91088,ORG,Fenner Woodroffe & Co.'s
+91088,DATE,1976
+91088,CARDINAL,102
+91088,CARDINAL,665
+91088,CARDINAL,28\
+91088,ORG,Daimler Benz
+91088,ORG,Southern Structurals Ltd
+91088,DATE,1977
+91088,DATE,110 ITR 890
+91088,ORG,Fenner Woodroffe & Co.'s
+91088,DATE,1976
+91088,CARDINAL,102
+91088,CARDINAL,665
+91088,CARDINAL,29
+91088,ORG,Telco
+91088,CARDINAL,30

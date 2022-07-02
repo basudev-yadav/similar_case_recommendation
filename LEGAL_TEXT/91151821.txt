@@ -1,0 +1,1047 @@
+
+
+Income Tax Appellate Tribunal - Mumbai
+
+Lionbridge Technologies Private ... vs Assistant Commissioner Of Income ... on
+15 June, 2018
+
+    
+    
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                       MUMBAI BENCH "K" MUMBAI
+    
+         BEFORE SHRI MAHAVIR SINGH (JUDICIAL MEMBER) AND
+             SHRI N.K. PRADHAN (ACCOUNTANT MEMBER)
+    
+                           MA No. 75/MUM/2018
+                         (ITA No. 1291/Mum/2017)
+                         Assessment Year: 2012-13
+    
+             Lionbridge Technologies            Asst. Commissioner of
+             Pvt. Ltd.                    Vs.   Income Tax-15(2)(1)
+             3rd floor, Reliable Tech           Room No. 403, 4th floor,
+             Park Off. Thane-Belapur            Aayakar Bhavan, M.K.
+             Road Airoli                        Road,
+             Navi Mumbai-400078.                Mumbai-400020.
+              PAN No. AABCT3380Q
+             Appellant                            Respondent
+    
+                      Assessee by         : Mr. Paras Savla, AR
+                      Revenue by          : Mr. Saurabh Deshpande, Sr. DR
+    
+               Date of Hearing            : 23/03/2018
+             Date of pronouncement        : 15/06/2018
+    
+    
+                                        ORDER
+    
+
+PER N.K. PRADHAN, AM By this Miscellaneous Application (MA), the
+applicant/assessee seeks rectification of the mistake apparent from record/set
+aside/recall of the order of the Tribunal dated 07.11.2017 in ITA No.
+1291/Mum/2017 (hereafter referred as 'the Order'). Cybermate Infotek Ltd is
+referred here as 'CIL'. We begin with the contentions of the applicant. Then
+we proceed to give reasons in response to it.
+
+Contentions of the Applicant
+
+2\. The applicant files a written submission dated 30.01.2018 submitting that
+certain inadvertent mistakes have crept in the order Lionbridge Technologies 2
+MA No. 75/Mum/2018 dated November 7, 2017 and therefore the order of the
+Tribunal may be rectified and be recalled.
+
+1\. It is stated that the following are the mistakes apparent on record as
+regards the important facts and circumstances which give rise to the present
+MA :
+
+> a. Mistake of not following judicial precedents: It is stated that the ITAT
+> Bench has failed to follow the decision of the jurisdictional High Court and
+> the applicant's own order for a previous year. (Para 6.1.1 and 6.1.2 of the
+> Order) b. Mistake of not adjudicating on all arguments out forth by the
+> applicant: It is stated that that the applicant had submitted various
+> arguments for exclusion of one company selected by the Transfer Pricing
+> Officer.
+
+However, the ITAT has failed to adjudicate on all the arguments submitted by
+the applicant. (Para 4.1 and Para 6 of the order) c. Deciding on arguments not
+put forth at the time of hearing (Para 6.1 and 6.2-6.2.3 of the order) d.
+Mistake of not passing a speaking Order and passing contradictory statements
+within the same order (Para 6.1.3 and 6.3 of the order) e. Mistake that the
+Counsel argued only exclusion of Cybermate Infotek Ltd. (Para 2 of the order)
+Then the following facts have been mentioned at para 4-10 of the above written
+submission:
+
+Lionbridge Technologies 3 MA No. 75/Mum/2018
+
+2\. The applicant is a captive service provider and Is engaged in the
+provision of routine, low-end software development and related services to its
+associated enterprises ('AEs'). It provided localization software services,
+including e-learning, content development and user support services.
+Localization services involve taking a product and making it linguistically
+and culturally appropriate to the target locale. Content development includes
+updating and management of clients' localized software and web content.
+Application maintenance includes minor modifications and changes, maintenance
+of already existing software depending on the customer's requirements. It was
+remunerated for its services at cost plus mark-up of 16.37%.
+
+3\. For the impugned year, the applicant selected Transactional Net Margin
+Method ('TNMM'J as the most appropriate method. The profit level indicator
+that was selected was Net Profit/Operating Cost ('OP/OC'). As per its Transfer
+Pricing Study Report, the margin of the applicant was 16.87%, and the weighted
+average margin of the 9 companies selected by it as comparable was 13.73%,
+while the single- year average margin of the 9 companies was 15.95%. Since the
+margin of the applicant was higher than the average margin of the companies,
+the applicant submitted that the international transactions entered into by it
+were at arm's length.
+
+4\. The companies selected by the Applicant in its Transfer Pricing Study
+Report were as under:
+
+    
+    
+           Sr. No.                  Company name         Operating Margin
+                                                             (OP/TC)
+    
+          1.         Akshay Software Technologies Ltd.        9.87%
+    
+          2.         CG VAK Software &Exports Ltd.           16.18%
+    
+          3.         CybermateInfotek Ltd.                   56.97%
+                                                                           Lionbridge Technologies 4
+                                                                            MA No. 75/Mum/2018
+    
+    
+              4.        Firstobject Technologies Ltd.                       0.93%
+    
+              5         Gold stone Technologies Ltd.                        11.01%
+    
+              6         RS Software (India) Ltd.                            15. 21%
+    
+              7.        R Systems International Lid.                        1.72%
+    
+              8.        Virinchi Technologies Ltd.                          12.98%
+    
+              9.        Ybrant Digital Ltd. (Formerly known as LGS          18.70%
+                        Global Lid.)
+    
+                                         Average Margin                     15.95%
+    
+    
+    
+    
+    
+
+5\. During the course of the transfer pricing assessment proceedings, the
+Transfer Pricing Officer ('TPO') contended that outsourcing cost incurred by
+the applicant was not a pass-through cost and had to be included in the
+operating cost of the applicant. Accordingly, the TPO determined that the
+margin of the applicant at 14.33%. With regard to companies selected in the TP
+Study Report, the TPO rejected 4 companies and retained 5 companies and added
+5 new companies. The average margin of the final set of 10 companies was
+computed by the TPO as 22.62% and he proposed an adjustment of
+Rs.7,09,24,015/-.
+
+6\. The final set of companies selected by the learned TPO were as under:
+
+    
+    
+    Sr. No.                       Company name                       Operating Margin
+                                                                         (OP/TC)
+    
+    1         Akshay Software Technologies Ltd.                           9.87%
+    
+    2.        CybermateInfotek Ltd,                                      56.97%
+    
+    3.        RS Software (India) Ltd.                                   15.21%
+    
+    4.        Virinchi Technologies Ltd.                                 12.98%
+                                                                      Lionbridge Technologies 5
+                                                                       MA No. 75/Mum/2018
+    
+    E.    Ybrant Digital Ltd. (Formerly known as LGS Global Ltd.)   18.70%
+    
+    6.    Acropetal Technologies Ltd. (IT seg)                      13.54%
+    
+    7.    Aspire Systems Ltd.                                       22.17%
+    
+    8.    Indium Software Ltd.                                      28.95%
+    
+    9.    Persistent Systems Ltd.                                   26.94%
+    
+    10.   Zylog Systems Ltd.                                        30.70%
+    
+                                    Mean                            22.62%
+    
+    
+    
+    
+    
+
+7\. The applicant preferred an appeal before the Dispute Resolution Panel
+('DRP'). The DRP upheld the order of the TPO and consequently, theAssessing
+Officer ('AO'J made an addition of Rs.7,09,24,015/-in the final order passed
+u/s 143(3) r.w.s 144C(13) of the Income-tax Act, 1961 ('Act').
+
+8\. A further appeal was preferred by the applicant before the ITAT.
+
+9\. It is stated that the matter was posted for hearing on August 10, 2017.On
+the said date, the Hon'ble Members initially adjourned the matter to August
+17, 2017 due to other lengthy stay granted appeals, which were to take time.
+However, at around 12.00 noon, after other matters got heard, the applicant's
+matter was called out for hearing. The Counsel, in reply to the inquiry of the
+Hon'ble Members, stated that that matter may take long if all grounds were
+argued, but if the Bench was convinced on exclusion of one comparable (namely,
+Cybermate Infotek Ltd.) selected by the TPO, then the appeal would be in
+favour of the applicant and the remaining grounds would be academic in nature.
+The Hon'ble Bench proceeded to hear the appeal and the matter was considered
+as heard on August 10, 2017, after hearing on the Counsel on one comparable
+only. However, the Counsel Lionbridge Technologies 6 MA No. 75/Mum/2018
+submitted a brief chart which included arguments for all comparable companies.
+
+10\. It is stated that during the course of hearing, the applicant, through
+its Counsel, Mr. Paras S. Savla, submitted a chart encapsulating its arguments
+for the said appeal. Broadly, the chart contained arguments on exclusion of
+incomparable companies, inclusion of comparable companies and incorrectly
+considering pass-through costs as operating costs while computing the margin
+of the applicant.
+
+11\. It is further stated that in the aforesaid order dated November 7, 2017,
+it has been held that CybermateInfotek Ltd is functionally comparable to the
+applicant and has been correctly retained by the TPO. Further, the Bench
+refrained from adjudicating on any other ground raised by the appellant.
+
+12\. The applicant submits that the said order is fraught with the following
+mistakes, which are apparent on record, and hence submits that the order be
+recalled or rectified accordingly.
+
+13\. The applicant had relied on Bombay High decision in case of CIT v PTC
+Software (I) (P.) Ltd. [2016]75 taxmann.com 31 (Bom), wherein at paragraph 10
+the Hon'ble Court has held that a company engaged in selling software products
+is functionally different from a company rendering software development
+services.
+
+14\. The applicant thereafter relied on Mumbai Tribunal case in its own case
+for earlier year i.e. Lionbridge Technologies (P.) Ltd. v. ITO [2015] 64
+taxmann.com461 (Mum) wherein at paragraph 82, the Hon'ble Tribunal has held
+that the applicant is into software Lionbridge Technologies 7 MA No.
+75/Mum/2018 development and cannot be compared with a company engaged in
+software products.
+
+15\. The above decisions make it clear that that a company which is into
+products is not functionally comparable to a company which purely develops
+software and renders only software development services. Both the
+abovementioned decisions make it amply clear that product development cannot
+be compared to software development services.
+
+16\. Relying on the above judicial principles, the applicant stated that the
+facts of Cybermate Infotek Ltd. ('Cybermate') fell within the teeth of Bombay
+High Court decision and Mumbai Tribunal decision and hence was not comparable.
+
+17\. Further it is stated that the applicant explained as under:
+
+> Cybermate - functionally Not Comparable:
+
+> a. As per the Annual Report of Cybermate, it was into the business of
+> providing Custom built Software Development, product development and IT
+> services. It had developed over 39 products, including HEALSOFT, aHospital
+> Management Software. The Annual Report also listed down 12 other products.
+> However, the applicant was a low-end software developer and did not own any
+> products. Hence, the applicant was hence not comparable to Cybermate.
+
+> b. Further, the company also reported "Intangible Assets under Development"
+> and also capitalized "Web Development Expenses" in its Balance Sheet, The
+> company had intangibles, while the Assessee did not own any intangible
+> assets.
+
+> Lionbridge Technologies 8 MA No. 75/Mum/2018 Low Employee Cost:
+
+> c. The percentage of employee cost to total operating cost of Cybermate was
+> only 11.10%, however, the applicant's corresponding percentage of employee
+> cost was 48%. This implied that Cybermate was not a service oriented
+> company, while the Assessee was one. Reliance was placed on the judgment of
+> the Hon'ble Delhi High Court In Rampgreen Solutions Pvt. Ltd. v. CIT [2015]
+> 377 ITR 533 (Delhi HC), wherein it has been held that companies which have a
+> less percentage of employee cost may be outsourcing most of their activity
+> and hence not comparable to a company which develops in-house.
+
+18\. It is stated that the matter was considered as heard on August 10, 2017,
+after hearing on the Counsel on this one comparable only. However, In the
+order, the Hon'ble Tribunal has used the words services and products
+interchangeably and further that the services / products rendered and
+functions undertaken by the Applicant and Cybermate fall broadly in similar
+domain and are hence comparable.
+
+19\. It is further stated that in page 7, paragraph 6.1.1 of the order, the
+Tribunal has observed that in PTC Software (I) (P)Ltd. (supra), it was held
+that companies having same financial year have to be compared and the services
+rendered by KPO and LPO are inherently different from nature of services
+rendered by a BPO. The Tribunal held that in the present case, the data for
+the same financial year has been used for comparability analysis.
+
+Lionbridge Technologies 9 MA No. 75/Mum/2018 The applicant submits that the
+Tribunal has relied on the wrong paragraph of the High Court decision and
+hence consequently come to an incorrect conclusion. The applicant had relied
+on findings on Question No.(ii) raised before the High Court. It was for the
+principle that a company, which owned and sells software products, was not
+comparable to a company which renders software services to its holding
+company. It is emphasized that in the above order, the Bench has referred to
+only the headnote of the said judgment which does not refer to all the
+questions raised before the High court. The Tribunal missed to refer to page
+6, paragraph 10(a) to (d) wherein it has been held that KALS Information
+Solutions Ltd., a company which was engaged in the business of selling
+software products, was not comparable to a company into software services.
+
+20\. It is also stated that the jurisdictional High Court in the case of PTC
+Software (I) (PJ Ltd. (supra) has clearly held that a company, which earns
+income out of software products, is not comparable to a company into software
+development services. Reference of wrong question and not following the
+decision of the jurisdictional High Court amounts to mistake apparent from
+record and hence may be rectified. Various courts have held that a lower court
+should follow the principle of precedence and follow the order of a higher
+jurisdictional court and not following the same is a mistake apparent on
+record and ought to be rectified.
+
+21\. Also it is stated that similarly, in page 8, paragraph 6.12 of the order,
+the Tribunal has observed that in Lionbridge Technologies (P.) Ltd. (supra),
+Cybermale was not a comparable in those assessment years i.e. AY 2009-10 and
+2010-11. However, in earlier year, the Lionbridge Technologies 10 MA No.
+75/Mum/2018 principle has been decided, though albeit for a different
+comparable. The applicant had relied on the order of the Tribunal in its own
+case for the proposition that a company which is into software products is not
+comparable to it, which is solely into software development. In the said
+earlier year decision, on page 13, paragraph 25, page 22, paragraph 73 and
+page 25, paragraph 82, has clearly held that the applicant was not into
+software products and cannot be compared to a company which is into sale of
+software products.
+
+22\. It is argued that in the impugned order date November 7, 2017, the Bench
+has held that the services / products and functions rendered by the applicant
+and Cybermate fall broadly in similar domain and are hence comparable in
+nature. As submitted above, Cybermate is a company into selling software
+product. The impugned order is completely contradictory to the order of the
+Hon'ble Tribunal in the applicant's own case for AY 2009-10 and 2010-11, more
+so when there are no change in facts or in law. It has been held in numerous
+judgments that a court has to follow its own order for an earlier year, unless
+there has been change in facts or in law, and not following the same will be a
+mistake apparent on record. Inadvertently, there is a gross violation of
+settled principles of jurisprudence and may be rectified.
+
+23\. The applicant submits that the Bench has repeatedly and interchangeably
+used the phrase "services/products" are functionally comparable in the
+impugned order. This is in blatant contradiction of the jurisdictional High
+Court and the order of the Tribunal for the previous year. The activities in
+the nature of services and products are entirely different from each other and
+cannot be compared at all.
+
+Lionbridge Technologies 11 MA No. 75/Mum/2018
+
+24\. Through the above written submission, the applicant would like to submit
+that the action of not following the jurisdictional High Court and the Hon'ble
+Tribunal's own order for the preceding years, is a mistake apparent on record
+and has to be rectified.
+
+Mistake of not adjudicating on all arguments put forth by the Applicant:
+
+25\. The applicant had argued that Cybermate was not comparable to it,
+because:
+
+> a. It was functionally different; it was into custom built software
+> development, product development and IT services. As seen from the
+> financials, it developed over 39 products, including HEALSOFT, whereas the
+> applicant was not into product development (Page 211, 215 of Paper Book
+> filed on July 3, 2017) b. It did not provide segmental information on
+> software development activity (Page 243 of Paper Book filed on July 3, 2017)
+> c. It developed intangibles, whereas the applicant did not do so (Page 231,
+> 238 of Paper Book filed on July 3, 2017) d. Its percentage of employee cost
+> to total cost was only 11.10%, whereas that of the applicant was 48.38%.
+> (Refer to calculation filed at the time of hearing).
+
+26\. The applicant submits that the Tribunal in the impugned order has not
+dealt with other contentions of the applicant. The order has failed to
+adjudicate on the contentions of the applicant that Cybermate was into product
+development and owned more than 39 products, it developed intangibles and
+lastly, that its percentage of employee cost Lionbridge Technologies 12 MA No.
+75/Mum/2018 was much lower than that of the applicant. It has merely held that
+the applicant and Cybermate were functionally comparable.
+
+27\. It is stated that at the time of hearing, the applicant had placed
+reliance on the decision of the Hon'ble Delhi High Court m the case of
+RampgreenSolutions Pvt. Ltd. (supra), which has held in page 19, paragraph 38
+that a business model where services are rendered by employing own employees
+and using one's own infrastructure would have a different cost structure as
+compared to a business model where services are outsourced and consequently,
+such companies having different business models cannot be compared with each
+other.
+
+28\. It is further submitted that in fact, in the impugned order dated
+November 7, 2017 the decision of Rampgreen Solutions Pvt. Ltd.(supra), has
+been quoted for the proposition that though TNMM is less sensitive to
+dissimilarities, a higher product and functional similarity would strengthen
+the efficacy of a method. However, the Tribunal failed to take into cognizance
+of the fact that Rampgreen Solutions Pvt. Ltd. (supra) had itself excluded a
+company due to functional dissimilarity i.e. not having sufficient percentage
+of employee cost. The decision was relied upon by the applicant for the
+principle of percentage of employment cost is a relevant factor to decide
+comparability.
+
+29\. It is further submitted that the Tribunal in its order dated November 7,
+2017 has simpliciter held that the applicant and Cybermate are functionally
+comparable since both its activities are broadly similar. The Hon'ble Tribunal
+in the impugned order has selectively dealt with only one out of four
+arguments of the applicant. It has neither dealt with other arguments of the
+applicant on Lionbridge Technologies 13 MA No. 75/Mum/2018 Cybermate, nor has
+it distinguished the judgments referred to by the applicant. Not adjudicating
+various arguments raised by the applicant amounts to mistake apparent on
+record and hence may be rectified.
+
+Mistake of not passing a Speaking Order:
+
+30\. The applicant submits that the Tribunal in its order dated November 7,
+2017, vide paragraph 6.1.1 and 6.1.3 has simpliciter held that the applicant
+and Cybermate are functionally comparable since both its activities are not
+broadly similar. This has been reiterated in paragraph 6.1.4 and 6.4.
+
+31\. It is stated that however, the Tribunal has not given reasons for its
+ratio. In page 7, paragraph 6, it states the functions of the applicant and
+Cybermate and then in paragraph 6.1.1, on page 8, it holds that they are
+comparable since their activities fall under in similar domain. The Tribunal
+has not passed a speaking order on how a company like Cybermate. Which is into
+product development, inter alia, is comparable to the applicant, which is
+purely into low-end routine software development and localization services. It
+has not distinguished the decisions relied upon by the applicant nor has it
+given reasons for its conclusion.
+
+32\. It is further stated that the Tribunal ought to passed a speaking order
+dealing with the contentions raised by the applicant. This amounts to mistake
+apparent on record and hence may be rectified.
+
+Decision on arguments not put forth at the time of hearing:
+
+33\. It is submitted that the Tribunal in page 9-10, paragraph 6.2- 6.2.3 has
+held that Cybermate and the Applicant are comparable since they have similar
+revenue recognition policy in their notes to accounts Lionbridge Technologies
+14 MA No. 75/Mum/2018 in their financial statements. The applicant does not
+recollect any such argument taken by its Counsel or the Department's
+Representative relying upon the revenue recognition policy of the Applicant
+and Cybermate.
+
+34\. It is further stated that in page 7, paragraph 6.1., it has been stated
+that as per the Hon'ble Supreme Court in Padmausundara Rao v. State of TN 255
+ITR147, a court should rely on a decision only after discussing how it are
+factually relevant to a case. This case was not quoted at the time of hearing
+by either the Counsel or the Department, and was not referred to at the time
+of hearing. If fact applying the principle, Bombay High Court decision in case
+of PTC Software (supra) should have been considered in totality.
+
+35\. It is stated that as per section 254(1) of the Act, the Hon'ble Tribunal
+has to pass an order after giving an opportunity of being heard to both the
+appellant and respondent. In case the Hon'ble Bench wishes to rely on any
+decision which was not referred to at the time of hearing, then an opportunity
+to rebut the same ought to have been given to the applicant. This is the basis
+of principle of natural justice and an action of denying the applicant the
+same is bad in law and ought to be rectified.
+
+Mistake of passing Contradictory Statements within the Same Order
+
+36\. It is further stated that in page 8, paragraph 6.1.3 of the order, the
+Hon'ble Bench has relied on Rampgreen Solutions Pvt. Ltd. (supra) to hold
+that:
+
+> "Comparability analysis by TNMM method may be less sensitive to certain
+> dissimilarities between the tested party and the comparables. However,
+> Lionbridge Technologies 15 MA No. 75/Mum/2018 that cannot be the
+> consideration for diluting the standards of selecting comparable
+> transactions/entities. A higher product and functional similarity would
+> strengthen the efficacy of the method in ascertaining a reliable ALP.
+> Therefore, as far as possible, the comparables must be selected keeping in
+> view the comparability factors as specified. Wide deviations in PLI must
+> trigger further investigations/analysis."
+
+37\. It is also stated that in page 10, paragraph 6.3 the Hon'ble Bench has
+relied on Maersk Global Centres (India) (P.) Ltd. v. ACIT (2014) 147ITD 83
+(Mumbai-SB), wherein it was held that "the Tribunal observed that the net
+profit indicators such as 'operating profit to operating cost or total cost or
+total sales are less affected by transactional differences, and the same being
+more tolerant to some functional differences controlled and uncontrolled
+transactions, broad functionality can be taken consideration for selecting to
+potential comparators when TNMM is applied."
+
+38\. It is stated that relying Maersk Global Centres(supra), the Hon'ble Bench
+held in paragraph 6.3 that "TNMM request only broad functional and
+product/services comparability. TNMM is less dependent on product
+comparability and functional comparability than the traditional transaction
+methods."
+
+39\. The applicant submits that the Hon'ble Bench in one paragraph has
+referred to the judgment of the Hon'ble Delhi High Court in Ramgreen(supra),
+which had held that though TNMM is broad based, a higher product and
+functional similarity would strengthen the efficacy of the method to determine
+the arm's length price, while subsequently, the Hon'ble Bench relies on the
+decision of Hon'ble Mumbai Bench in the case of Maersk (supra), and held that
+TNMM does not require product comparability. This is an apparent incongruity
+which Lionbridge Technologies 16 MA No. 75/Mum/2018 necessitates the order to
+be rectified. In fact, the Hon'ble Delhi High Court in paragraph 34, page 18,
+of Ramgreen (supra) has specifically overruled Maersk (supra) on certain
+aspects, and has held that even in TNMM, all companies broadly into
+Information Technology Enabled Services cannot be compared and one has to look
+at the specific services being rendered by each of them.
+
+40\. It is stated that since there are contradictory observations within the
+same order it may be rectified.
+
+Mistake that the Counsel argued only exclusion of CybermateInfotek Ltd.:
+
+41\. The applicant submits that in page 2, paragraph 2 of the said order of
+the Hon'ble Tribunal, it has been stated that the Applicant's Counsel argued
+only against the exclusion of CybermateInfoteck Ltd. Consequently, the Bench
+has restricted to adjudicate only on the said company.
+
+42\. The applicant submits that the matter was posted for hearing on August
+10, 2017. On the said date, the matter was initially adjourned to August 17,
+2017 due to other lengthy stay granted appeals, which were to take time.
+However, at around 12.00 noon, after other matters got heard, the applicant's
+matter was again called out for hearing. The Counsel, in reply to the inquiry
+of the Hon'ble Members, stated that that matter may take long if all grounds
+were argued, but if the Bench was convinced on exclusion of one comparable
+selected by the TPO, then the appeal would be in favour of the applicant and
+the remaining grounds would be academic in nature. The Hon'ble Bench proceeded
+to hear the appeal and the matter was considered as heard on August Lionbridge
+Technologies 17 MA No. 75/Mum/2018 10, 2017, after hearing on the Counsel on
+one comparable only. However, the Counsel submitted a brief chart which
+included arguments for all comparable companies.
+
+43\. The applicant would like to rely on the chart submitted at the time of
+hearing, which contained the applicant's contentions on all the grounds of
+appeal. Affidavit of the counsel, is herewith attached, to confirm the facts
+enumerated in above-mentioned paragraph 11. Other grounds were never mentioned
+as "not pressed". In fact, to support the contentions the brief chart was
+filed for all the grounds.
+
+44\. The applicant prays that the observation in paragraph 2 of the said order
+of the Tribunal be rectified.
+
+45\. The applicant finally submits that the Hon'ble Bench has stated on page
+11 that the order has been pronounced in open court on November 7, 2017. The
+applicant would like to bring on record that on November 7, 2017, being a
+Tuesday, no notice was put up to inform about the pronouncement of orders in
+open court.
+
+46\. Thus the applicant submits that a. rectify the mistake apparent on record
+of order dated November 7, 2017 and grant the relief prayed for in the appeal
+by passing appropriate order.
+
+b. in the alternative, the order dated November 7, 2017 may be set
+aside/recalled and the appeal may be decided afresh by giving reasonable
+opportunity.
+
+c. any other relief which the Hon'ble Bench deems fit and proper considering
+the facts of the applicant.
+
+Lionbridge Technologies 18 MA No. 75/Mum/2018
+
+3\. Along with the MA, the Ld. counsel of the assessee files a copy of the
+decision in CIT v. PTC Software (I) (P) Ltd. (2016) 75 taxmann.com 31 (Bom),
+Rampgreen Solutions (P) Ltd. v. CIT (2015) 60 taxmann.com 355 (Del),
+Lionbridge Technologies (P) Ltd. v. ITO (2015) 64 taxmann.com 461 (Mumbai-
+Trib). These decisions were referred to and relied upon by the Ld. counsel
+during the course of hearing before the Tribunal on 10.08.2017.
+
+4\. The Ld. counsel also relies on the decision in Safari Mercantile (P) Ltd.
+v. ITAT (2016) 73 taxmann.com 287 (Bom), Hinduja Global Solutions Ltd. (2015)
+59 taxmann.com 456 (Bom) and ACIT v. Saurashtra Kutch Stock Exchange Ltd.
+(2008) 173 Taxman 322 (SC).
+
+5\. The Ld. counsel of the assessee files an affidavit dated 30.01.2018
+containing the following:
+
+> 1\. "That the company Lionbridge Technologies Pvt. Ltd., had appointed me to
+> represent their case before the Hon'ble Income-tax Appellate Tribunal.
+
+> 2\. That the appeal bearing number 1291/M/2017 was fixed for hearing before
+> the Tribunal at 'K' Bench on August 10th, 2017.
+
+> 3\. That I appeared for the Appellant, M/s Lionbridge Technologies Private
+> Limited on the said date.
+
+> 4\. That the Tribunal initially adjourned the matter to August 17, 2017 due
+> to other lengthy stay granted appeals, which were to take time. However, at
+> around 12.00 noon, after other matters got heard, the Applicant's matter was
+> called out for hearing. That in reply to the inquiry of the Hon'ble Members,
+> I stated that that matter may take long if all grounds were argued, but if
+> the Bench was convinced on exclusion of one comparable selected by the TPO,
+> then the appeal would be in favour of the Applicant and the remaining
+> grounds would be academic in nature. The Hon'ble Bench proceeded to hear the
+> appeal and the Lionbridge Technologies 19 MA No. 75/Mum/2018 matter was
+> considered as heard on August 10, 2017, after hearing only on one comparable
+> only. However, I submitted a brief chart which included arguments for all
+> comparable companies for the convenience of the bench.
+
+> 5\. That the appeal was deposed of vide order dated November 7, 2017.
+
+> 6\. That in paragraph 2 of the said order it has been stated that during the
+> course of hearing, I had submitted that I would argue only against the
+> exclusion of one company being M/s, Cybermale Infotek Ltd. That the above
+> observation is incorrect. I had submitted the brief chart which contained
+> arguments for all the comparable companies. I say that whatever is stated
+> hereinabove is true to the best of my knowledge and believe the same to be
+> true."
+
+6\. On the other hand, the Ld. DR submits that the said Order has been passed
+by the Tribunal on the basis of hearing on 10.08.2017 and the materials filed.
+Thus he supports the above order.
+
+Analysis & Reasons for the Decision
+
+7\. We have heard the rival submissions and perused the relevant materials on
+record. We discuss below the above decisions relied on by the Ld. counsel.
+
+7.1 In PTC Software (I) (P) Ltd. (supra), the assessee was engaged in
+providing information technology (IT) services and IT enabled services of its
+holding company. Assessee determined the Arms Length Price (ALP) on adoption
+of Transaction Net Margin Method (TNMM) and determined the profit level
+indicator (PLI) in respect of the IT Services Segment at 14.02% while
+arithmetic mean of the PLI of comparable companies was 10.70%. Similarly, in
+respect of its IT enabled Services its PLI was determined at 14.23% while the
+arithmetic mean of the PLI of the comparable cases was 10.51%. As the PLI of
+the assessee was Lionbridge Technologies 20 MA No. 75/Mum/2018
+higher/favourable than that of the comparables, no transfer pricing adjustment
+was called for in terms of its transfer pricing study. Thus the consideration
+received from its holding company in respect of IT Services and in respect of
+IT enabled services was at ALP. According to the TPO, on comparison with
+appropriate comparables, the ALP in respect of its IT services was determined
+at Rs.105 crores and in respect of IT enabled services was determined at
+Rs.6.73 crores. This resulted in the TPO passing order u/s 92CA(3) determining
+the upward adjustment of international transaction at Rs.10.38 crores. The DRP
+did not disturb the proposed adjustment. The Tribunal set aside the order to
+the extent it related to international transactions and restored the issue to
+the AO to determine the transfer price adjustment in terms of directions
+containing in the order of the Tribunal.
+
+On revenue's appeal, the Hon'ble High Court held that (i) a company engaged in
+sale of software products was incomparable to the assessee which was engaged
+in providing IT services to its holding company, (ii) data to be used for
+comparability analysis should be of same financial year in which international
+transactions were entered into by the assessee-company, (iii) company engaged
+not only in IT enabled Services but also in providing agency services by way
+of outsourcing its work to third party vendors, was functionally different
+from the assessee, (iv) services rendered by KPO and LPO are inherently
+different from nature of services being rendered by BPO, (v) when income
+earned from BPO operations was 87% of total revenue earned by comparable, BPO
+operation by comparable being similar to that rendered by assessee, it could
+not be excluded from comparable list.
+
+Lionbridge Technologies 21 MA No. 75/Mum/2018 7.2 In Rampgreen Solutions (P.)
+Ltd. (supra), the assessee was engaged in providing voice based customer care
+services to the clients of its AEs. It also rendered call centre services
+which fell within the broad description of information technology enabled
+services. In consideration for the services, the AE remunerated the assessee
+by payment of all costs incurred by the assessee plus a mark up of 15% of the
+costs. The assessee chose 8 comparable entities and arithmetic average of the
+operating profit margins of the said comparables was computed at 15.74%.
+According to the assessee, its PLI was within the acceptable range as
+indicated under the second proviso to section 92C and no adjustment was
+required. The TPO identified a different set of comparable companies for the
+purpose of determining the ALP and computed the average operating profit
+margin of the comparable companies at 28.96% on the basis of the average
+operating profit margin of 11 companies selected and computed the TP
+adjustment. On appeal, the DRP confirmed the said order. The assessee appealed
+against the final assessment order on the ground that two comparables, namely
+e-Clerx and Vishal could not be considered as comparable entities as the said
+companies were engaged in the business of Knowledge Process Outsourcing (KPO)
+and thus could not be included as comparables. The Tribunal rejected the
+assessee's contention and held that both e-Clerx and Vishal were engaged in
+providing ITeS and once a service fell within that category, then no sub-
+classification of the segment was permissible. The Tribunal also held that KPO
+is a term given to the branch of BPO services where apart from processing of
+data, knowledge is also applied. The assessee's objection that the said two
+companies had abnormally high Lionbridge Technologies 22 MA No. 75/Mum/2018
+profits and thus ought to be excluded as comparables was also rejected.
+
+On assessee's appeal, the Hon'ble High Court held that (i) though entities
+rendering voice call center services and a KPO service provider employ IT-
+based delivery systems, but characteristic of services, functional aspects,
+business environments, risks and quality of human resource employed are
+materially different; and thus benchmarking international transactions on
+basis of comparison of PLI of KPO service providers with PLI of Voice Call
+Centres would be unreliable and possibly flawed, (ii) a company engaged in
+data analytic, data processing services, pricing analytic, sales and marketing
+support and product data management cannot be compared to a company providing
+voice call customer care services to its AE, (iii) a company outsourcing most
+of its work to other service providers cannot be compared to company where
+services are rendered by employing own employees, (iv) where supernormal
+profits indicate a functional dissimilarity or dissimilarity with respect to a
+feature that has a material bearing on profitability, it would be necessary to
+undertake further analysis to eliminate possibility of high profits resulting
+on account of any material dissimilarity between the tested party and chosen
+comparable, (v) while using TNMM, search for comparables may be broadened by
+including comparables offering services/products which are not entirely
+similar to controlled transaction/entity if functions performed by tested
+party and selected comparable entity are similar including assets used and
+risks assumed and difference in services/products offered has no material
+bearing on profitability.
+
+Lionbridge Technologies 23 MA No. 75/Mum/2018 7.3 In Lionbridge Technologies
+(P.) Ltd. (supra), the assessee- company was engaged in business of providing
+contract software development services to its AEs. The assessment years were
+2009-10 and 2010-11. The Tribunal held (i) where related party transaction of
+a company was more than 25%, said company would be excluded from final set of
+companies comparable to assessee, (ii) a software product manufacturer could
+not be comparable, (iii) a company engaged in business of providing Geospatial
+Information System Services needed to be excluded from set of comparables,
+(iv) a global company that was specializing in software product and technology
+innovation and utilizing its product engineering processes to develop
+solutions for its customers who were players in technology, telecommunication,
+life science, healthcare, banking and consumer products sectors and outsourced
+software product development services and was deriving its revenues primarily
+come sale of software services and software products, it could not be
+comparable, (v) a company that provided end to end business solutions that
+leverage cutting-edge technology, thereby enabling clients to enhance business
+performance as also provided solutions that span entire software life cycle
+encompassing technical consulting, design, development, re-engineering,
+maintenance, systems integration, package evaluation and implementation,
+testing and infrastructure management services; and additionally, it also
+offered software products for banking industry and it had a strength of about
+one lakh employees as against approximately 4,600 employees of assessee, it
+was not functionally comparable, (vi) where a company was engaged into
+development of software and software products and segmental information
+regarding its software Lionbridge Technologies 24 MA No. 75/Mum/2018
+development segment was not available, this company was incomparable with the
+assessee.
+
+8\. The Ld. counsel files a copy of the decision in Safari Mercantile (P) Ltd.
+v. ITAT (2016) 73 taxmann.com 287 (Bom), Hinduja Global Solutions Ltd. (2015)
+59 taxmann.com 456 (Bom) andACIT v. Saurashtra Kutch Stock Exchange Ltd.
+(2008) 173 Taxman 322 (SC).
+
+8.1 In Safari Mercantile (P) Ltd. (supra), the AO passed an order u/s 140A(3)
+holding assessee as an assessee-in-default for failure to partially pay the
+self-assessment tax along with interest. He passed an order imposing a penalty
+u/s 221. On appeal, the said penalty was set aside by the CIT(A) on the ground
+that the AO had not issued a proper demand notice u/s 156 before taking action
+to impose penalty u/s 221. On further appeal, the Tribunal allowed the
+revenue's appeal on the ground that the tax which was not paid was undisputed
+and no reasonable cause for not paying the tax was made out. The assessee
+filed a miscellaneous application u/s 254(2) before the Tribunal for
+rectification of the Tribunal's order on the ground that there was error
+apparent on record as the assessee's contention regarding non-service of the
+demand notice u/s 156 before taking action u/s 221, though raised before the
+Tribunal had not been considered. This application was dismissed by the
+Tribunal. For the reason that no submission with regard to non-service of a
+demand notice before imposing a penalty u/s 221 upon the assessee was made
+during the hearing of the appeal. The assessee filed a writ petition
+challenging the order of the Tribunal in the High Court which allowed the
+petition holding that the finding recorded by the Tribunal that the plea
+regarding non-service of the demand notice was not raised before the Tribunal,
+could not sustain.
+
+Lionbridge Technologies 25 MA No. 75/Mum/2018 Accordingly, the writ petition
+was allowed. The impugned order passed by the Tribunal in rectification
+application was set aside and the Tribunal was directed to dispose of the
+application on merits. The Tribunal as per the order of the High Court heard
+the rectification application filed by the petitioner and dismissed it on
+consideration of the statutory provisions in the context of judgments. On
+writ, the Hon'ble High Court held (i) no appeal is entertained by the High
+Court from an order passed by the Tribunal dismissing application for
+rectification u/s 254(2) and (ii) rejection on merits of contentions of
+parties by Tribunal on a substantial question of law is subject to statutory
+right of appeal u/s 260A which cannot be bypassed by dealing with merits in an
+application for rectification.
+
+8.2 In Hinduja Global Solutions Ltd. (supra), the issue before the Tribunal
+was regarding disallowance made on account of claim for deduction u/s 10A.
+This very issue was covered in favour of the petitioner-assessee by the
+decision of the Tribunal for the assessment year 2005-06 in the assessee's own
+case. The department before the Tribunal also accepted the position. In spite
+of the agreed position between the parties, the Tribunal by the impugned order
+yet remanded this very issue to the AO for fresh examination/determination. On
+writ, the petitioner-assessee had informed that the appeal for the subsequent
+year was scheduled to come up before the Tribunal and for assessment year
+2010-11, the date has yet to be fixed by the Tribunal. The petitioner-assessee
+seriously apprehended, and views not unjustifiably that the Tribunal, while
+dealing with the assessee's appeal for the subsequent years may also restore
+the issue to the AO for de novo examination disregarding the earlier order.
+All this would happen without the Tribunal at any Lionbridge Technologies 26
+MA No. 75/Mum/2018 point of time considering for what reason is its own order
+for the AY 2005-06 in respect of the petitioner on identical facts, did not
+correctly to decide the dispute. The Hon'ble High Court held (i) to correct
+the approach the Tribunal that the Court is constrained to exercise its
+extraordinary jurisdiction and set aside the impugned order of the Tribunal
+and restore it to the Tribunal for fresh consideration and disposal on merits,
+after addressing itself to its earlier order passed for the assessment year
+2005-06 in respect of the petitioners on merits. As far as the other issues
+decided by the impugned order, on merits, are concerned, it is open to the
+parties to adopt such remedies as are available to them in law, (ii) the
+impugned order is set aside to the extent it has restored the issue of the
+petitioner's claim of deduction u/s 10A to the Assessing Officer. The above
+issue is restored to the Tribunal for fresh disposal, in light of above.
+
+8.3 In Saurashtra Kutch Stock Exchange Ltd (supra), the assessee, a stock
+exchange, made an application for registration u/s 12A of the Act. Pending the
+application, it filed nil return claiming exemption u/s
+
+11\. The return was processed u/s 143(1)(a). Subsequently, a notice was issued
+to the assessee u/s 154 to show cause why exemption granted u/s 11 should not
+be withdrawn. Meanwhile, the Commissioner granted registration to the
+assessee. The AO, however, rejected the claim of exemption u/s 11. On appeal,
+the Commissioner (Appeals) upheld the order of the AO. The Tribunal also
+upheld the order of the Commissioner (Appeals). The assessee filed an
+application u/s 254(2) stating that decision of the jurisdictional High Court
+in Hira Lal Bhagwati v. CIT (2000) 246 ITR 188 (Guj) had not been brought to
+notice of the Tribunal and, thus, there was a 'mistake apparent from record'
+which required rectification. The Tribunal allowed the Lionbridge Technologies
+27 MA No. 75/Mum/2018 application and, accordingly, recalled its order. On
+writ, the High Court upheld the order of the Tribunal recalling its earlier
+order. On appeal by the revenue, the Hon'ble Supreme Court held at para 47 the
+following :
+
+> "In the present case, according to the assessee, the Tribunal decided the
+> matter on October 27, 2000. Hiralal Bhagwati was decided few months prior to
+> the decision, but it was not brought to the attention of the Tribunal. In
+> our opinion, in the circumstances, the Tribunal has not committed any error
+> of law or of jurisdictional in exercising power under sub-section (2) of
+> section 254 of the Act and rectifying "mistake apparent from the record".
+> Since no error was committed by the Tribunal in rectifying the mistake, the
+> High Court was not wrong in confirming the said order. Both the orders,
+> therefore, in our opinion, are strictly in consonance with law and no
+> interference in called for".
+
+9\. Now we would examine the submissions made in the MA. It is stated that the
+Bench has not followed the decision in PTC Software (I) (P) Ltd. (supra),
+Rampgreen Solutions (P.) Ltd. (supra), Lionbridge Technologies (P.) Ltd.
+(supra).
+
+9.1 At para 6.1.1 of the Order, it has been mentioned that in PTC Software (I)
+(P.) Ltd. (supra) it has been held that (i) data to be used for comparability
+analysis should be the same financial year in which international transactions
+were entered into by the tested party and
+
+(ii) services rendered by KPO and LPO are inherently different from nature of
+services being rendered by BPO.
+
+Also it is clearly stated in the Order that the data for the same financial
+year 2011-12 has been used for comparability analysis. Also the
+services/products and functions rendered by the appellant and CIL fall broadly
+in similar domain.
+
+Lionbridge Technologies 28 MA No. 75/Mum/2018 9.2 At para 6.1.3 of the Order,
+it has been mentioned that in Rampgreen Solutions Pvt. Ltd. vs. CIT (2015) 377
+ITR 0533 (Del.), the Hon'ble Delhi High Court has held that 'Comparability
+analysis by TNMM method may be less sensitive to certain dissimilarities
+between the tested party and the comparables. However, that cannot be the
+consideration for diluting the standards of selecting comparable
+transactions/entities. A higher product and functional similarity would
+strengthen the efficacy of the method in ascertaining a reliable ALP.
+Therefore, as far as possible, the comparables must be selected keeping in
+view the comparability factors as specified. Wide deviations in PLI must
+trigger further investigations/analysis.' Also it has been clearly mentioned
+below para 6.1.3 of the Order that the services/product and functions rendered
+by the appellant and CIL fall broadly in similar domain.
+
+9.3 Further, it is mentioned at para 6.1.2 of the Order that in Lionbridge
+Technologies (P.) Ltd. (supra), CIL was not a comparable during the relevant
+assessment year 2009-10 and 2010-11.
+
+During the course of hearing, the Ld. counsel relied on the order of the
+Tribunal in assessee's own case for the AY 2009-10 and AY 2010-11. We find
+that CIL was not a comparable during the above assessment years. Therefore, it
+would not be advisable to draw conclusion from AY 2009-10 and AY 2010-11 for
+AY 2012-13.
+
+In the Income Tax Act, each year is a self-contained separate period. In CIT
+v. Sanjeev Woollen Mills (2003) 264 ITR 68, 75 (Bom), Kotak Mahindra Finance
+Ltd. v. DCIT (2004) 265 ITR 114, 119 it has Lionbridge Technologies 29 MA No.
+75/Mum/2018 been held that under the income-tax law, each year constitutes a
+separate unit.
+
+In M.M. Ipoh v. CIT, (1968) 67 ITR 106, 118 (SC), it has been held that the
+assessment and the facts found are conclusive only in the year of assessment:
+the findings on questions of fact may be good and cogent evidence in
+subsequent years, when the same question falls to be determined in another
+year, but they are not binding and conclusive.
+
+Admittedly, in Lionbridge Technologies (P.) Ltd. (supra), CIL was not a
+comparable during the relevant assessment year 2009-10 and 2010-11. Therefore,
+the instant case is distinguishable from the above order of the Tribunal
+relied on by the Ld. counsel.
+
+Thus, there is no mistake on our part in relying on the judgment of the
+Hon'ble Supreme Court in Padmasundra Rao v. State of T.N. 255 ITR 147 (SC)
+wherein it has been held that circumstantial flexibility, e.g. one additional
+or different fact, may make a world of difference between conclusions in two
+cases.
+
+10\. There is no dispute on the ratio laid down in Safari Mercantile (P) Ltd.
+(supra).
+
+10.1 In Hinduja Global Solutions Ltd. (supra), it has been held that where in
+earlier appeal and issue is decided by Tribunal in favour of the assessee and
+in subsequent appeal, same issue in assessee's own case is remanded to the AO
+for fresh determination, such order of Tribunal is to be set aside.
+
+As delineated hereinbefore, in Lionbridge Technologies (P.) Ltd. (supra), CIL
+was not a comparable during the relevant assessment year Lionbridge
+Technologies 30 MA No. 75/Mum/2018 2009-10 and 2010-11. Therefore, the instant
+case is distinguishable from the above decision relied on by the Ld. counsel.
+
+10.2 In Saurashtra Kutch Stock Exchange Ltd. (supra), it has been held that
+non-consideration of a decision of jurisdictional High Court or of Supreme
+Court can be said to be a 'mistake apparent from record' which can be
+rectified u/s 254(2).
+
+In the instant case, we have discussed the order of the Hon'ble Bombay High
+Court in PTC Software (I) (P.) Ltd. (supra) at para 6.1.1 of the Order and
+found that the data for the same financial year 2011-12 has been used for
+comparability analysis. We have mentioned therein that in present case the
+services/products and functions rendered by the appellant and CIL fall broadly
+in similar domain. Thus there is no question of non-consideration of a
+decision of the Hon'ble jurisdictional High Court.
+
+11\. Now we proceed to address the other submissions made in the MA that there
+is mistake in the order in not adjudicating on all arguments put forth by the
+applicant, deciding on arguments not put forth at the time of hearing, mistake
+in not passing the speaking order and passing contradictory statements in the
+same order and mistake that the Ld. counsel argued only exclusion of CIL.
+
+During the course of hearing on 10.08.2017, the Ld. counsel submitted that he
+would argue only against the inclusion of CIL by the Assessing Officer (AO).
+Because of the above submission by the Ld. counsel, we restricted our
+discussion to the case of CIL only. The submission made by the Ld. counsel has
+been summarized by us at para 4, 4.1, 4.2, 4.3 and 4.4 of the Order. The
+submission of the Ld. DR Lionbridge Technologies 31 MA No. 75/Mum/2018 has
+been summarized at para 5 of the Order. Having heard the rival submissions and
+perused the relevant materials on record, we have noted the facts about the
+nature of business as borne out of the Paper Book (P/B) filed by the
+appellant. At page 24 of the P/B, we find that LB India (the assessee)
+provides low-end routine, software development and localisation services to LB
+Group. LB Group companies undertake the project with overseas customers and
+part of the project (software development/localisation) are outsourced by LB
+Group to LB India. This has been stated at para 1.2.1 of the 'Transfer Pricing
+Study Report' filed by the appellant.
+
+At page 211 of the P/B filed by the appellant, we find that CIL is engaged in
+the business of providing custom built software development, product
+development and IT services to customers in domestic and overseas locations.
+
+Then we have referred to 'Revenue recognition' followed by the appellant and
+CIL at para 6.2 to understand closely the nature of business. It means when
+the revenue should be recognised in the profit and loss account and also
+states the circumstances in which revenue recognition can be postponed.
+Generally speaking, revenue means gross inflow of cash, receivable and other
+considerations arising in the course of ordinary activities of an enterprise
+such as (i) the sale of goods, (ii) rendering the services, (iii) use of the
+enterprise resources by others yielding interest, dividend and royalties.
+
+We have also noted at para 6.2 of the Order the 'Revenue recognition' which is
+a part of 'Significant Accounting Policies' followed by the assessee and CIL.
+
+Lionbridge Technologies 32 MA No. 75/Mum/2018 Revenue recognition of the
+appellant has been mentioned in 'Note-15' (p.10 of the P/B), which reads as
+under:
+
+> "The Company derives its Revenues primarily from rendering Software
+> development, Localisation and other related services. Income from services
+> is recognised based on the contractual arrangement with the customer in the
+> period in which such services are rendered."
+
+> The revenue recognition of CIL reads as under:
+
+> "Revenue from the software development on time and material contracts is
+> recognised based on the software developed and billed in accordance with the
+> terms and specific contracts. Revenue from a fixed price contract is
+> recognized on the basis of milestones achieved in the performance of the
+> contracts on a percentage completion basis." (p.234 of the P/B).
+
+In view of the nature of business conducted by the appellant (p.24 of the P/B)
+and CIL (p.211 of the P/B) read along with 'Revenue recognition' which is a
+part of 'Significant Accounting Policies' followed by the appellant (p.10 of
+the P/B) and CIL (p. 234 of the P/B), we came to a finding that the
+services/products and functions rendered by the appellant and CIL fall broadly
+in similar domain.
+
+We refer here to para 6.2.1, 62.2 and 6.2.3 of the Order.
+
+We have also relied at para 6.3 of the Order, on the decision of the Special
+Bench of the Tribunal in Maersk Global Centres (India) (P.) Ltd. v. ACIT
+(2014) 147 ITD 83 (ITAT Mumbai-SB), wherein it is observed that the net profit
+indicators such as 'operating profit to operating cost or total cost or total
+sales' are less affected by transactional differences, and the same being more
+tolerant to some functional differences between controlled and uncontrolled
+Lionbridge Technologies 33 MA No. 75/Mum/2018 transactions, broad
+functionality can be taken into consideration for selecting to potential
+comparables when TNMM is applied.
+
+Thus TNMM request only broad functional and product/services comparability.
+TNMM is less dependent on product comparability and functional comparability
+than the traditional transaction methods.
+
+Unlike Resale Price Method (RPM) and Comparable Uncontrolled Price (CUP), TNMM
+involves comparison of margins at net profit level, not at gross profit level.
+TNMM is a transactional profit method; not a traditional transactional method
+like CUP or RPM.
+
+12\. What is rectifiable u/s 254(2) is a mistake which is apparent from
+record. In the instant case, there is no mistake apparent from record.
+
+12.1 A mistake apparent on the record must be an obvious mistake and not
+something which can be established by a long drawn process of reasoning on
+points on which there may be conceivably two opinions. A decision on a
+debatable point of law is not a mistake apparent from the record. This view is
+supported by the decision of the Hon'ble Supreme Court in T.S. Balaram, ITO v.
+Volkart Bros., (1971) 82 ITR 50 (SC), Master Construction Co. P. Ltd. v. State
+of Orissa, AIR 1966 SC 1047, Karam Chand Thapar & Bros. (Coal Sales) Ltd. v.
+State of U.P. (1976) Tax LR 1921, 1927 (SC) and CCE v. ASCU Ltd., (2003) 9 SCC
+230,
+
+232\. To sum up, the nature of business of the appellant (p.24 of P/B) and CIL
+(p.211 of P/B) coupled the 'Revenue recognition' (p.10 of P/B) and CIL (p.234
+of P/B) led us to a finding that the services/products and functions rendered
+by the appellant and CIL fall broadly in similar Lionbridge Technologies 34 MA
+No. 75/Mum/2018 domain. In view of the above facts, we have upheld the order
+of the AO in including CIL as a comparable. We found that CIL included by the
+appellant as a comparable initially still remained to be a valid comparable
+later on included by the TPO/AO as the services/products and functions
+rendered by the appellant and CIL fall broadly in similar domain. As there is
+no mistake apparent from record, the MA filed against the inclusion of CIL is
+dismissed.
+
+13\. We find there is no irregularity in pronouncing the order on 07.11.2017
+as mentioned at para 47 of the MA.
+
+14\. We are concerned with the submission of the applicant at para 11 of the
+MA that "if the Bench was convinced on exclusion of one comparable (namely,
+Cybermate Infotek Ltd.) selected by the TPO, then the appeal would be in
+favour of the applicant and the remaining grounds would be academic in
+nature." Taking into account the facts and circumstances of the case, we
+recall our order dated 07.11.2017 for the limited purpose of adjudicating the
+other comparables adopted by the TPO/AO and the DRP and the other grounds of
+appeal filed by the appellant and accordingly, the Registry is directed to fix
+the case to be heard by a regular Bench.
+
+15\. In the result, the present MA is partly allowed to the extent indicated
+above.
+
+Order pronounced in the open Court on 15/06/2018 Sd/- Sd/-
+
+    
+    
+          (MAHAVIR SINGH)                      (N.K. PRADHAN)
+          JUDICIAL MEMBER                   ACCOUNTANT MEMBER
+    Mumbai;
+    Dated: 15/06/2018
+    Rahul Sharma, Sr. P.S.
+                                            Lionbridge Technologies 35
+                                             MA No. 75/Mum/2018
+    
+    Copy of the Order forwarded to :
+    1. The Appellant
+    2. The Respondent.
+    3. The CIT(A)-
+    4. CIT
+    5. DR, ITAT, Mumbai
+    6. Guard file.
+                                          BY ORDER,
+    //True Copy//
+                                       (Dy./Asstt. Registrar)
+                                          ITAT, Mumbai
+     
+

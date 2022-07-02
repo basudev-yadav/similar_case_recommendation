@@ -1,0 +1,2538 @@
+
+
+Competition Commission of India
+
+Antitrust - Section 26(6) ... vs M/S Aci Worldwide Solutions ... on 13
+January, 2015
+
+    
+    
+                        COMPETITION COMMISSION OF INDIA
+                                Case No. 52 of 2013
+    
+    
+    In Re:
+    
+    
+    Financial Software and Systems Private Limited    Informant
+    
+    
+    And
+    
+    
+    M/s ACI Worldwide Solutions Private Limited       Opposite Party No. 1
+    
+    
+    M/s ACI Worldwide Incorporated, Florida, USA      Opposite Party No. 2
+    
+    
+    M/s ACI Worldwide (Asia) Pvt. Limited, Singapore Opposite Party No. 3
+    
+    
+    CORAM
+    
+    
+    Mr. Ashok Chawla
+    Chairperson
+    
+    
+    Mr. S. L. Bunker
+    Member
+    
+    
+    Mr. Sudhir Mital
+    Member
+    
+    
+    Mr. Augustine Peter
+    Member
+    
+    
+    Mr. U. C. Nahta
+    Member
+    
+    
+    
+    
+    C. No. 52 of 2013                                    Page 1 of 80
+        Appearances:
+    
+    
+       For the Informant: Shri Ramji Srinivasan, Sr. Advocate
+                             Shri G.R. Bhatia, Advocate
+                             Shri Vardhan Tulsian, Advocate
+                             Ms. Deeksha Manchanda, Advocate
+                             Ms. Jahnavi Mitra, Advocate
+    
+    
+       For the Opposite Parties: Shri Amitabh Kumar, Advocate
+                                   Shri Gautam Shahi, Advocate
+                                   Ms. Lagna Panda, Advocate
+                                   Ms. Ela Bali, Advocate
+    
+    
+                                         Final Order
+    
+    
+    1. M/s Financial Software and Systems Private Limited (hereinafter, the
+       'Informant'/'FSS') has filed the information in the instant case, under section
+       19(1)(a) of the Competition Act, 2002 (hereinafter, the 'Act') against M/s ACI
+       Worldwide Solutions Private Limited (hereinafter, the 'Opposite Party No.
+       1'), M/s ACI Worldwide Incorporated, Florida, USA (hereinafter, the
+       'Opposite Party No. 2') and M/s ACI Worldwide (Asia) Pvt. Limited,
+       Singapore (hereinafter, the 'Opposite Party No. 3') [collectively hereinafter,
+       the 'Opposite Parties'/'ACI'], inter alia, alleging contravention of provisions
+       of sections 3 and 4 of the Act in the matter.
+    
+    
+    2. Facts
+
+, in Brief 2.1 The Informant is stated to be a private limited company
+incorporated under the Companies Act, 1956 and operating in the areas of
+electronic payment, financial transaction processing solutions and services.
+It has been a technology partner, system integrator and co-innovator for
+several leading banks to transform their payment systems, increase operational
+efficiencies  C. No. 52 of 2013 Page 2 of 80 and launch new business
+processes. The Informant caters to the specific needs of the banks through its
+two business divisions i.e., FSS Technologies and FSSNeT. FSS Technologies
+provides services to the clients including systems integration, offshore
+development, product sustenance, project management and implementation,
+upgrade and migration services, product testing and certification, application
+testing, onsite technical support and 24/7 global helpdesk support. FSSNeT
+offers payment processing services across all delivery channels including
+Automated Teller Machine ('ATM'), Point of Sale ('POS') terminals, internet
+and mobile with authorization by the banks. It provides services such as card
+management, merchant management, internet payment gateway, mobile banking &
+mobile payment, reconciliation & settlement, financial inclusion, a bouquet of
+value added services and ATM management services on a pay-per-use model
+including leasing ATM and site management.
+
+2.2 The Opposite Party No.1 is a company incorporated under the Companies Act,
+1956 and is a wholly owned subsidiary of the Opposite Party No. 2 (a NASDAQ
+listed public company) engaged in the business of developing 'BASE24' software
+for electronic payment solutions that enable card-based payment transactions.
+The Opposite Party No. 3 is a company incorporated under the laws of
+Singapore. All the Opposite Parties have been described as affiliate/ group
+entities. The Opposite Parties are stated to be engaged in the business of
+developing BASE24, a transaction processing switch software ('Electronic Fund
+Transfer (EFT) Switch'), which according to the informant enables an ATM or
+POS terminal to communicate with the relevant bank's core banking network.
+
+2.3 As per the information, all banks and financial institutions which desire
+to provide ATM, POS, mobile banking and internet banking services require EFT
+Switch/ switch software and at present about 77% of ATMs and about 80% of POS
+terminals in India operate on BASE24 software. It is further submitted that
+BASE24 software (and other comparable software) requires  C. No. 52 of 2013
+Page 3 of 80 modifications to enable banks to offer additional value added
+services through ATMs and POS devices. It is stated that the relationship
+between ACI and the banks which are using BASE24 software ('ACI Banks') is
+governed by a license agreement that provides the right to ACI Banks to use
+and to customize the modules of the BASE24 software.
+
+2.4 The Informant provides software modification and customization services to
+ACI Banks. The Informant and ACI are stated to have had a long standing
+relationship, starting from FSS acting as a re-seller for ACI for BASE24
+software in India in 1991, and then in 1998 becoming a distributor and service
+provider for BASE24 software in India through various International
+Distribution Agreements ('IDA'). During the currency of distribution
+agreement, certain disputes arose between FSS and ACI sometime in 2007-08. On
+16 June 2008, ACI proposed a new arrangement whereby ACI terminated the
+distribution agreements with FSS; ACI license agreements between FSS and
+existing ACI Banks in India were to be assigned to ACI India; and ACI was to
+endorse FSS as a provider of services in respect of BASE24 software to ACI
+Banks in India and FSS would be able to directly deal with ACI Banks or via
+ACI India.
+
+2.5 Thereafter, FSS and ACI initiated legal proceedings before the Hon'ble
+High Court of Madras at Chennai and the Singapore International Arbitration
+Centre ('SIAC'). Subsequently, the disputes were settled through negotiations
+leading to a Settlement and Release Agreement ('SRA') on 17th February 2010
+between them whereby FSS and ACI agreed to settle all disputes; the
+distribution agreements between FSS and ACI stood terminated; from 01.04.2010,
+both ACI and FSS would have had the right to provide professional services,
+including implementation and customer modification services to all ACI Banks;
+and till 31.03.2011, FSS was to serve as ACI's 'preferred services partner'
+for ACI products i.e., BASE24.
+
+C. No. 52 of 2013 Page 4 of 80
+
+2.6 Pursuant to the terms of the SRA, FSS and ACI made a joint presentation to
+all ACI Banks whereby FSS transitioned from a distributor to a system
+integrator; ACI continues to provide support on the core product i.e., BASE24
+software through its helpdesk services and on-site documentation; FSS
+continues to provide support on such customization; BASE24 software and the
+services around the software are two different products/ services; and if a
+module license requires customization, then ACI Banks would have the 'option
+to ask ACI or FSS to do it.
+
+2.7 It is the case of the Informant that during the period 2010-11, ACI took
+the position that it would not allow FSS to continue to provide system
+integration/ other services in respect of the BASE24 software. However, in a
+meeting held on 08.06.2011, ACI Banks stressed that it was their prerogative
+to choose 'the production support (on-site support) and service partner'. On
+21.06.2011, in a meeting of ACI Banks and ACI, it was informed to ACI Banks
+that ACI would allow the banks to take 'professional services (including
+implementation and customization)' only through ACI or their authorized third
+party provider excluding FSS. However, ACI Banks opposed the said action
+stating that ACI has no capability to provide the support services and
+submitted that since 95% of ATMs in India are connected to BASE24 switch they
+cannot afford any risk to their operations.
+
+2.8 Subsequently, on 14.07.2011, a meeting between ACI Banks, ACI and FSS was
+held wherein ACI agreed to give its consent to ACI Banks to use FSS or third
+party for customers' specific modification to BASE24 software for a period of
+6 months. Then, in August, 2011, ACI wrote to ACI Banks stating that it would
+provide consent to use FSS services for doing customizations on BASE24
+software for a period of 24 months ending July 13, 2013.
+
+2.9 But, in February, 2013 ACI made a presentation before ACI Banks stating
+that after 13.07.2013 it would not provide consent to any third party to
+access, modify or customize the existing BASE24 application as it had launched
+ACI  C. No. 52 of 2013 Page 5 of 80 enhanced support program ('ACI ESP') under
+which it would provide services to ACI Banks similar to those being provided
+by FSS. In May, 2013, ACI sent letters to each ACI Banks communicating its
+decision that it would not allow to banks to use FSS or any other third party
+to provide customizations services on BASE24 software beyond July, 2013.
+
+2.10 Based on the above averments and allegations, the Informant has alleged
+that ACI has abused its dominant position under section 4 of the Act by not
+allowing ACI Banks to choose a service provider of their choice; imposing
+unfair condition in the purchase or sale of goods or services through
+exclusive supply arrangements with ACI Banks; directing ACI Banks not to avail
+the integration services of FSS, thereby restricting the provision of services
+of customization and modification in respect of software for electronic
+payment systems i.e., the downstream market; using its dominance in the
+upstream market of software for electronic payment systems to gain entry in
+the downstream market of provision for services of customization and
+modification in respect of software for electronic payment systems; and
+limiting and restricting the technical or scientific development in the
+market.
+
+2.11 The Informant has also alleged contravention of the provisions of section
+3(4) of the Act by ACI. As per the Informant, ACI is restricting its customer
+banks from dealing with any third party in respect of providing services of
+customization and modification of ACI products amounting to refusal to deal.
+It is alleged that the restriction imposed by ACI causes or is likely to cause
+an appreciable adverse effect on competition ('AAEC') in the downstream market
+in India as it would lead to foreclosure of competition in the downstream
+market and also result in creation of entry barriers and driving existing
+competitors out of the downstream market. It is also alleged that ACI seeks to
+impose tie-in arrangements with ACI Banks by tying the upstream market of
+software with the downstream market of services. Hence, this arrangement by
+ACI causes or is likely to cause AAEC in the market.
+
+C. No. 52 of 2013 Page 6 of 80
+
+3\. After giving a thoughtful consideration to the facts of the case as given
+in the information, the Commission vide its order under section 26(1) of the
+Act dated 04.09.2013 stated that prima facie the conduct of ACI was in
+contravention of provisions of sections 3 and 4 of the Act and needed
+investigation by the Director General ('DG').
+
+4\. Further, after considering the application for interim relief, the
+Commission vide its order dated 11.02.2014, granted interim relief to the
+Informant under section 33 of the Act. Consequently, the Opposite Parties were
+restrained from implementing the condition imposed on ACI Banks that they
+would not take service of the Informant for customization of electronic
+software being supplied by the Opposite Parties, till the final disposal of
+the information.
+
+5\. ACI filed an appeal before Hon'ble Competition Appellate Tribunal
+('COMPAT') against the said order of the Commission and the Hon'ble COMPAT
+vide its orders directed the DG to complete the investigation and the
+Commission to pass the order within the time periods provided by the Hon'ble
+COMPAT.
+
+6\. DG's Investigation 6.1 The DG submitted the investigation report to the
+Commission on 20.06.2014. DG has investigated the matter covering the alleged
+infraction of provisions of sections 3(4) and 4 of the Act in the matter. The
+following paragraphs briefly highlight the findings of DG.
+
+6.2 Based on the analysis of the facts gathered during the course of
+investigation, the DG identified 'the market for Electronic Fund Transfer
+(EFT) switch/ switch software in India (Upstream market)' and 'the market for
+provision of services in respect of customization and modification of EFT
+software (professional services) in India (Downstream market)' as the relevant
+markets in this case.
+
+C. No. 52 of 2013 Page 7 of 80
+
+6.3 The DG has considered ACI Inc, ACI Asia and ACI India as a 'group' in
+terms of Explanation (b) under section 5 of the Act. Accordingly, the position
+of dominance of ACI in the relevant market has been examined in the DG report.
+Having examined the factors under section 19(4) of the Act, the DG has found
+ACI to be in a dominant position in the relevant market for EFT Switch/ switch
+software in India i.e., in the upstream market.
+
+6.4 Based on the analysis of the facts, evidences, submissions of the parties,
+DG found that ACI had imposed unfair and discriminatory conditions on ACI
+Banks in contravention of section 4(2)(a)(i) of the Act and had limited the
+provision of professional services in contravention of section 4(2)(b)(i) of
+the Act. Further, it was found that the conduct of ACI resulted in denial of
+market access to FSS and other third party service providers in the downstream
+market in violation of section 4(2)(c) of the Act. The DG also found that the
+alleged act of ACI making the contract subject to acceptance of supplementary
+conditions was in contravention of section 4(2)(d) of the Act. Further, it is
+reported that due to the alleged act of ACI, technical and scientific
+development in the downstream market is likely to be adversely affected in
+violation of section 4(2)(b)(ii) of the Act. The DG also reported that ACI
+used its dominance in the upstream relevant market to enhance its presence in
+the downstream relevant market amounting to a violation of section 4(2)(e) of
+the Act.
+
+6.5 Based on the analysis of the provisions of License Agreement and facts
+gathered during the investigation, the DG found that the restrictions imposed
+by ACI do not satisfy the 'reasonable restrictions test' required to balance
+the conflicting interest in a business relationship. It is observed in the DG
+report that ACI under the garb of Intellectual Property Rights ('IPR')
+protection restricted its competitors in downstream market with the intention
+to reinforce its own position. The DG investigation also revealed that ACI
+entered into anti-competitive agreements viz., 'tie-in-arrangement', 'refusal
+to deal' and  C. No. 52 of 2013 Page 8 of 80 'exclusive supply', with ACI
+Banks in terms of explanation (a), (b) and (d) to section 3(4) of the Act. The
+DG found that these agreements have AAEC in markets in India.
+
+6.6 The DG also identified and analysed the role of the employees of ACI/
+persons responsible for the said anti-competitive conduct.
+
+7\. The DG report was considered by the Commission in its ordinary meeting
+held on 30.07.2014 and the Commission decided to send a copy of the non-
+confidential version of the DG report to the Informant, the Opposite Parties
+and the concerned employees for filing their replies/ objections. Accordingly,
+the parties filed their replies/ objections to the DG report.
+
+8\. Objections/ Replies of ACI 8.1. ACI has submitted that the DG has
+erroneously concluded that the relevant product market to be the 'market for
+EFT Switch' without considering the substitutes available in the market,
+factors provided in section 19(7) of the Act, and universe of inter-connected
+electronic payment systems. While defining the relevant product market,
+without carrying out SSNIP test/ hypothetical monopolist test or questioning
+ACI Banks on substitutability, it has been reported by the DG that there are
+no substitutes for EFT Switch and customization thereof. Further, while
+defining the relevant product market DG has failed to evaluate transactions
+processed by National Payments Corporation of India ('NPCI'); mobile phone/
+mobile banking transactions; transactions by hosted providers such as FSSNeT,
+AGS, Prizm, TCPSL, C- edge, Euronet, FIS, ElectraCard, YCS, etc.; transactions
+processed by leading card issuers such as Citibank, HSBC, Standard Chartered,
+etc.; transactions processed by VISA and MasterCard; e-commerce transactions
+processed for emerging players such as Flipkart, Myntra, etc. As per ACI, the
+above said transactions pose sufficient competitive constraints in EFT Switch
+/ switch software market.
+
+C. No. 52 of 2013 Page 9 of 80
+
+8.2. It has been submitted that 'electronic retail payments system' would be
+more appropriate representation of the narrowest relevant product market for
+conducting competition analysis in the present matter. The DG erroneously
+concluded that the relevant geographic market is restricted to India without
+considering the factors provided in section 19(6) of the Act, competition from
+imports, export potential, and international electronic payments. It has been
+submitted that although the relevant geographic market for certain elements of
+services, typically the ones which require physical presence of the service
+provider, may be limited to India; the relevant geographic market for EFT
+Switches, which is essentially a software product capable of electronic
+transmission is global.
+
+8.3. Relying on the report of 'Microeconomic Economics Consulting & Research
+Associates Inc' it has been submitted by the Opposite Parties that the DG's
+report does not delineate the relevant market on the basis of a benchmark
+method for evaluating demand substitutability. Consequently, important
+substitutes to EFT Switch / switch software are excluded. Rather, the
+narrowest anti-trust product market definition would be the 'market for
+electronic retail payment systems'. Furthermore, the geographic scope of the
+relevant market is not limited to India since EFT Switch providers face
+competitive constraints from outside India.
+
+8.4. The erroneous market definition and reliance on unverified data furnished
+by the Informant has led the DG to conclude that the Opposite Parties are
+dominant without considering the buyers (actual and potential) in the narrowly
+defined relevant market, inability of the Opposite Parties to act independent
+of its customers and ease of entry and switching evidenced by migration of
+customers from one switch to another.
+
+8.5. A correct delineation of the anti-trust market necessary for assessing
+the alleged conduct in this case would conclusively demonstrate that ACI is
+not  C. No. 52 of 2013 Page 10 of 80 dominant in the market and neither has
+market power to act independently of competitive forces nor has the ability to
+adversely affect competitors or consumers or the relevant market in its
+favour. Even on the basis of the artificially narrow relevant market as
+defined by DG, ACI is not dominant if transaction volumes of other users of
+EFT Switch (ignored in the market share calculations by the DG) are taken into
+account.
+
+8.6. It has been submitted that a correct relevant market definition would
+have revealed that there is no issue of dominance in EFT Switch/ switch
+software market as defined by the DG, given the fact that there is ongoing
+entry by competitors and migration to substitutable switches by customers. For
+example, neither the role of NPCI operating the National Financial Switch
+('NFS') nor the Indian Post Office (licensing of EFT Switch from Euronet and
+considerable market share/ power in EFT Switch and related software) has been
+taken into account by the DG. In addition, it has been submitted that
+competition from established and viable firms/ entrants such as ElectraCard,
+Euronet, YCS ad FIS switches has not been analyzed by DG. The switching of
+ACI's customers to other switch software suppliers and new contract between
+some of the aforementioned switch software suppliers and different banks are
+but some of the developments that have/ and are continuing to take place in
+the market.
+
+8.7. It has been submitted that the dynamics of competition prevailing in the
+market are further evidenced by the declining market share of ACI (even in
+terms of the over stated and incorrectly measured market shares attributed to
+ACI by DG). In conducting competition assessment, especially in regard to
+market dominance, competition authorities worldwide attach considerable
+significance to the changes or trends in the market shares of the firm in
+question. Declining market shares are generally construed as being indicative
+of increased competition and lack of market power.
+
+C. No. 52 of 2013 Page 11 of 80
+
+8.8. It has been submitted that the DG has without independent verification
+accepted the market analysis of the Informant. It has been further submitted
+that banks are not the only customers of EFT Switches, and other financial and
+non-financial institutions also buy EFT Switches. For example, Euronet has
+licensed its switch 'Arkansys' to the NPCI for operating the NFS. Further, it
+is submitted by ACI that the DG has failed to consider the transactions done
+through 'internet gateway' and 'mobile banking' while calculating its market
+share. The DG has relied merely on the Informant's submission to conclude that
+internet gateway transactions constitute 2% of the total transactions and
+hence, such transactions have been excluded while undertaking the analysis. It
+has been submitted that not only has the DG blindly placed reliance on the
+submissions of the Informant, but has also not given an opportunity to ACI to
+rebut such evidence/ data.
+
+8.9. It has also been submitted that other segments of the payment and
+settlement systems such as ATM networks, card payment network, cross border
+money transfer, pre-paid payment instruments, white label ATM operators would
+also require EFT Switches and are a part of the actual/ potential customer
+base for EFT Switches. This has been entirely ignored by the DG resulting in
+gross error in calculating market shares. ACI has stated that there is no
+regulatory restriction on sale of EFT Switches in India hence, there is no
+reason for ignoring buyers of EFT Switches while analysing the market power of
+EFT Switch suppliers in the relevant market. By placing reliance on incorrect/
+insufficient information, the DG incorrectly determined the relevant market
+and wrongly concluded that the Opposite Parties are dominant.
+
+8.10. As per ACI, it has low market shares even if only few of the components
+of the market were to be considered. On the basis of available data, it is
+submitted that the market share of ACI during financial years 2011-12 to
+2013-14 (upto Feb) is less than 40% and on the basis of source of spend, its
+market share in 2013 is less than 24%.
+
+C. No. 52 of 2013 Page 12 of 80
+
+8.11. ACI has claimed that it is a very small player in a broader relevant
+market which includes: card lifecycle management software; merchant life cycle
+management software; wholesale payment processing software for NEFT and RTGS
+payments; payments initiation software through various channels like mobile
+internet and phone banking; retail payments switch software (such as BASE24);
+Interchange software including VISA, MasterCard, NPCI; bill payments software;
+fraud monitoring software; and payments infrastructure monitoring software. It
+is stated that in the presence of giant players like VISA and MasterCard in
+the relevant product market, the question of ACI being dominant does not
+arise. Further, ACI is not dominant in terms of estimated business share in IT
+and switch software spends. It is submitted that transaction based market
+assessment is not appropriate given that license fee is bilaterally negotiated
+between switch owners and the customers. Banks report the number of
+transactions to ACI on the basis of which fee is calculated at the agreed rate
+per transaction. Therefore, it would be appropriate to arrive at the share of
+total business on the basis of revenue of the parties.
+
+8.12. It has been submitted that assessing market power on the basis of number
+of banks licensed to or revenue earned by ACI is a better and accurate
+indicator of the market power and hence, the DG erred in considering number of
+transactions to undertake market power assessment. Moreover, an EFT Switch
+like BASE24 software is installed on the bank server and not on ATMs and POS
+terminals. ATMs and POS terminal operate on their own software which allows
+them to communicate with banks. Hence, market power of EFT Switch developer
+like ACI can be assessed by the number of banks which take a license for or
+are connected to such EFT Switches. It has been submitted that as on July,
+2014, while NFS was connected to 320 banks, BASE24 was connected to only 12
+banks.
+
+C. No. 52 of 2013 Page 13 of 80
+
+8.13. As regards the number of ATMs, it has been submitted that NFS manages
+more than 90% of inter-bank ATM transactions in the country and was connected
+to 1,55,000 ATMs as of February 2014 whereas, as per the DG report, ACI's
+BASE24 was connected to 98,670 ATMs by that time. The volume of transactions
+of banks using BASE24 software is significantly less compared to the NFS
+approved volume of transactions. In this context, it has been submitted that
+the DG has wrongly attributed 439 crore transactions to ACI for the period of
+30.04.2013 to 28.02.2014 on account of the fact that not all ACI Banks used
+BASE24 for their POS transactions. As a matter of fact, only HDFC and ICICI
+use BASE24 for its POS operations.
+
+8.14. It has been stated by ACI that the DG has failed to analyse the
+downstream market where the Informant enjoyed monopoly from the time it became
+a distributor of ACI until 2013. The entry and increased competition in the
+downstream market was largely facilitated by ACI so as to provide its
+customers greater choice of alternative service providers.
+
+8.15. It has been submitted that the DG has ignored the fact that ACI has not
+been able to operate independent of competitors or consumers and wrongly
+concluded that banks do not have countervailing buying power.
+
+8.16. As per the Opposite Parties, the DG has wrongly concluded that there are
+huge financial and technical constraints in migrating to other software. In
+order to arrive at this erroneous conclusion the DG has relied on the
+statements of few banks while he ignored the responses of Kotak Mahindra Bank,
+Oriental Bank of Commerce and Royal bank of Scotland.
+
+8.17. It is submitted that the DG has ignored the nature and degree of
+vertical integration of competitors of ACI in the market. The Opposite Parties
+are the only EFT Switch suppliers who have outsourced the systems integration,
+customization and modification of its proprietary BASE24 EFT Switches to  C.
+No. 52 of 2013 Page 14 of 80 the Informant whereas all the other EFT Switch
+suppliers perform the same services in-house.
+
+8.18. ACI has submitted that since it is not dominant in the relevant market,
+even in the incorrectly narrow anti-trust market as delineated by the DG, the
+issue of abuse of dominant position does not arise.
+
+8.19. On the findings of DG in regard to contravention of different provisions
+of sections 3(4) and 4 of the Act, it has been submitted that the DG has
+investigated the matter without appreciating the prevailing industry practice,
+the objective justification for ACI's conduct, nature of dispute with the
+Informant and threat to the IPRs of ACI. It is submitted that the DG has
+erroneously accepted the allegation that ACI tried to foreclose the downstream
+market. On the contrary, its intention is to open up the downstream market to
+other players and break the monopoly of the Informant.
+
+8.20. As per ACI, the DG has erroneously concluded contravention of section
+4(2)(a)(i) of the Act on the basis of ACI's advice to its banks to refrain
+from using the Informant for customization services amounts to an unfair
+condition. Rather, many ACI Banks have continued to use the services of the
+Informant for customization for a period even after expiry of the deadline.
+Also, the DG has erroneously concluded that ACI has abused its dominant
+position by limiting the access of third party service providers to downstream
+market by deterring new entry and thereby limiting technical and scientific
+development in contravention of sections 4(2)(c) and 4(2)(b)(i) of the Act.
+ACI has stated that DG's assessment in this regard is based on recycled
+arguments and untenable presumptions. The DG has failed to analyze the
+downstream market of the vertical integrated service suppliers. It is stated
+that ACI is not only entering the market itself but is also sponsoring entry
+of several new entrants and creating competition for the benefit of customers.
+The willingness for entry by Mphasis, TCS, Wipro, CTS indicates the  C. No. 52
+of 2013 Page 15 of 80 prospect of greater competition on part of the third
+party professional services' market.
+
+8.21. It has been submitted that the DG has erroneously concluded
+contravention of section 4(2)(e) of the Act as ACI seeks to leverage its
+dominant position in the upstream market to support itself in the downstream
+market. Assuming the DG's finding that ACI is dominant in the upstream market
+is correct; the finding suffers from the lack of concrete mechanism showing
+how ACI could leverage position from the upstream to downstream market. The
+Opposite Parties have submitted that the Informant has tried to foreclose the
+market by carrying out customization work without adequate documentation. In
+the absence of complete documentation of customization, it is extremely
+difficult for any other entity to provide such services to the banks. In light
+of the aforesaid, it has been submitted that it is the Informant which is
+trying to foreclose the market and not the Opposite Parties.
+
+8.22. It has been submitted that DG has erroneously concluded that ACI has
+contravened section 3(4) read with Section 3(1) of the Act. It is submitted
+that ACI is not preventing any third party (other than the Informant) from
+providing customization services. Further, the requirement of prior consent of
+the Opposite Parties for third party customization is a reasonable restraint
+under section 3(5)(i) of the Act and the same is de facto applied by other
+switch software suppliers in India. It has been further submitted that the DG
+has concluded that there is AAEC without even analyzing the factors provided
+in section 19(3) of the Act. This finding is not established even if it is
+assumed that ACI is dominant in the upstream market based on the facts
+considered by the DG.
+
+8.23. The Opposite Parties have contended violation of IPRs and breach of
+contractual obligations by the Informant. It has been submitted that the DG
+has stated that the issues related to the alleged violation of IPRs does not
+fall within the ambit of the examination of abusive conduct under the Act.
+
+C. No. 52 of 2013 Page 16 of 80
+
+However, the DG, relying solely on the submissions made by Informant,
+concluded that the allegations of IPR violation as contended by the Opposite
+Parties do not stand established.
+
+9\. Replies/ Objections of the Informant 9.1 The Informant in its response to
+DG report has agreed with the findings of the DG with regard to delineation of
+the relevant markets as the market for the provision of EFT Switches/ switch
+software in India (upstream market) and the services provided in relation
+thereto (downstream market).
+
+9.2 The Informant in its rejoinder to the replies of ACI has submitted that
+while both Interchange switch and EFT Switch are switch software, their
+functions vary significantly and as such cannot be considered as
+substitutable. It has been submitted that EFT Switch enables card-based
+transactions through various frontend devices (such as ATMs, POS devices,
+mobiles and internet payment gateways) deployed by a bank and acts as a
+middleware between the devices on the one side and the core banking host of
+the bank on the other. The customer transactions would emanate from the
+frontend devices deployed by the banks. When any transaction is attempted at a
+particular bank's device, EFT Switch relays the transaction to the core
+banking host of the bank to get the authorization for the transaction.
+
+9.3 An Interchange or ATM sharing network uses a switch merely to facilitate
+routing of transactions between EFT Switches of two banks. However, EFT Switch
+of a bank facilitates a card-based transaction between a bank and its
+customers through the frontend devices like ATM, POS and payment gateways and
+it also facilitates authentication of such customer transaction. Therefore,
+Interchanges like, VISA, MasterCard or NFS and ATM sharing networks like
+Cashtree, Cashnet and BANCS only route transactions between two banks and
+unlike EFT Switches, Interchange switches do not authenticate the customer
+transactions. Thus, it is wrong to conclude that these  C. No. 52 of 2013 Page
+17 of 80 Interchanges and ATM Networks exercise any competitive constraints or
+even operate in the same relevant market.
+
+9.4 With respect to NFS, it has been submitted that NFS facilitates routing of
+ATM transactions through inter-connectivity between the banks' switches
+thereby enabling the bank customers to utilize any ATM of a connected bank.
+Thus, it is an Interchange switch which enables inter-bank ATM transaction
+enabling customers of one bank to use the ATM of another bank and is not the
+same as an EFT Switch and the same has been accepted by ACI. The Ministry of
+Finance, in the Report of the Key Advisory Group of the Payments Systems in
+India, has also recognized NFS as an Interchange switch used by banks.
+
+9.5 The Informant has submitted that the substitutability under the Act has to
+be determined from the demand perspective, keeping in mind the functional
+relation between the product characteristics and its end use. With respect to
+substitutability, the Informant has relied upon the decision of the European
+Court of Justice ('ECJ') in the case. Hoffman La-Roche v. Commission of
+European Communities. The Informant has submitted that products that have
+materially different characteristics and are not functionally interchangeable,
+cannot be regarded as a part of the same market. The end use of the product is
+the most important feature to determine the interchangeability and to examine
+whether they form a part of the same relevant market. As per the Informant,
+EFT Switch performs distinct functions and has no functional
+interchangeability with an Interchange switch as contended by ACI.
+
+9.6 It has been submitted that the broader product market definition being
+suggested by ACI viz., market for electronic retail payment systems is
+erroneous both in law and on facts. It is submitted that the relevant product
+market has to be determined from the perspective of what is regarded as
+interchangeable by the customer i.e., the banks in the instant case. The
+functions being performed by EFT Switch cannot be performed by any other
+electronic retail payment system. In fact, the two are completely distinct  C.
+No. 52 of 2013 Page 18 of 80 products which cannot be taken to constitute the
+same relevant market. Since the services being provided by an Interchange
+switch are not functionally interchangeable with an EFT Switch, the same
+cannot be stated to be substitutes.
+
+9.7 The Informant has submitted that mobile phone transactions processed
+through EFT Switch; transactions processed by leading card issuers such as
+Citibank, HSBC, and Standard Chartered processed by EFT Switch of the relevant
+bank have been considered by the DG. Transactions through e- commerce portals
+(such as Flipkart, Myntra, IRCTC, etc.) can be discharged through a payment
+gateway or internet banking. As per the Informant, such transactions are
+either already included in the assessment provided by the DG or wholly
+unconnected with EFT Switches. As regards the entry of the Indian Post Office,
+the Informant has submitted that the entry of the Indian Post Office is merely
+a proposed entry and thus cannot be said to have any impact on ACI's market
+share during the period under investigation.
+
+9.8 The Informant has stated that the alternate market definition i.e., the
+market of software for electronic payment systems as provided by ACI is
+misplaced because different software are not substitutes, the suppliers of
+these different software are different and consumers do not necessarily demand
+these software together.
+
+9.9 It is submitted that the submissions of ACI with respect to switching
+costs are grossly misplaced and counter intuitive. It has been submitted that
+the industry is characterized by relatively high costs for banks to migrate
+from one EFT Switch to the other, in addition to the risk involved in doing
+so.
+
+9.10 The Informant has submitted that hosted switch software is nothing but an
+EFT Switch like BASE24, Postilion etc. and these have already been included in
+the definition of relevant product market as defined by the DG.
+
+C. No. 52 of 2013 Page 19 of 80
+
+9.11 It has been submitted that the DG's findings on the dominance of ACI are
+based on a comprehensive analysis of the factors mentioned in section 19(4) of
+the Act. As per the Informant, the DG's calculations of the market share are
+based on the correct indicators, including the volume of transactions and the
+number of ATMs/ POS devices serviced by ACI.
+
+9.12 As per the Informant, the DG has correctly noted that ACI's conduct
+contravened section 4(2)(a)(i) of the Act since ACI imposed unfair conditions
+on ACI Banks by preventing them from obtaining professional services from
+parties other than ACI through the conditions included in its license
+agreement. Further, it has been submitted that after due consideration of the
+evidence placed on record, the DG correctly concluded that ACI's conduct
+contravened section 4(2)(b)(i) of the Act by preventing the Informant and
+other third parties from providing professional services and thereby limiting
+the availability of services from parties other than ACI. As per the
+Informant, the DG has correctly concluded that ACI's conduct contravened
+section 4(2)(b)(ii) of the Act by limiting the technical or scientific
+development relating to services in downstream market to the prejudice of the
+consumers. In addition to above, the Informant is in agreement with the
+findings of DG report that ACI has contravened the provisions of section
+4(2)(c) of the Act because it effectively denied access to the downstream
+market to all of its competitors through the onerous conditions imposed
+through its license agreements with ACI Banks. It has been submitted that the
+DG correctly concluded that ACI's conduct contravened section 4(2)(d) of the
+Act as ACI imposed supplementary obligations through the license agreements.
+The Informant also agreed with the findings of DG that the conduct of ACI is
+in contravention of the provision of section 4(2)(e) of the Act as it is
+leveraging its dominance in the upstream market to enter the downstream
+market.
+
+9.13 As per the Informant, the DG has correctly concluded that by compelling
+ACI Banks using BASE24 software to necessarily procure services in relation
+thereto from ACI, ACI imposed a tie-in arrangement on consumers which is  C.
+No. 52 of 2013 Page 20 of 80 in violation of section 3(4)(a) of the Act. It
+has been contended that the DG rightly noted that this condition amounts to an
+exclusive supply agreement and thus falls within the mischief of section
+3(4)(c) of the Act. As per the Informant, the DG has correctly concluded that
+such conduct of ACI is likely to cause AAEC in the relevant downstream market
+through the creation of entry barriers in the market, foreclosure of market
+and driving out existing competitors from the market. It has been submitted
+that the DG, after due consideration of the evidence provided, correctly
+concluded that ACI cannot avail the exemption under section 3(5) of the Act in
+relation to protection of its IPRs.
+
+9.14 It has been stated by the Informant that the DG considered the prevalent
+industry practices on the basis of the submissions made by third parties,
+including ACI's competitor-suppliers of EFT Switches and also the consumers of
+EFT Switches and thereby defined the relevant market accordingly. The
+Informant has submitted that ACI has constantly attempted to hide behind the
+ongoing legal dispute between FSS and ACI even though the said legal dispute
+is purely contractual and has no bearing on the proceedings before the
+Commission.
+
+9.15 The Informant has denied that the market share of ACI represents a
+downward trend. The analysis performed by the DG clearly demonstrates that
+ACI's market share has more or less remained constant, further it is also
+apparent that ACI has retained all its customer banks. In any event, even if
+there is any fluctuation in the market share of ACI, it is negligible and does
+not impact ACI's position in the market. It has been further submitted that
+the ongoing trends in the market clearly demonstrate that ACI continues to
+enjoy its position of strength in the market, since all its major customers,
+barring two banks with lesser transactions, have continued to avail services
+from ACI and have also upgraded their BASE24 software on a regular basis. It
+is stated that despite all of ACI's claims about occupying a weak position in
+the market, customers are entirely dependent on it as evidenced by their  C.
+No. 52 of 2013 Page 21 of 80 continuance with BASE24 despite the software
+being in its sunset phase, the increase in the price of the services being
+offered by ACI in the downstream market, the existence of alternative
+products, and ACI's callous attitude towards its customers.
+
+9.16 The Informant has submitted that even for the sake of assumption that
+ACI's argument is correct, the POS terminals deployed by HDFC and ICICI alone,
+constitute around 52% of the total number of POS terminals deployed in India.
+The Informant has denied that the DG has excluded any significant customer
+base from its analysis.
+
+9.17 It has been submitted that ACI has sought to mislead the Commission by
+stating that BASE24 software does not support internet payment gateway
+transactions and mobile payment transactions. The Informant has submitted that
+such transactions are processed through EFT Switches of the banks for
+authorization. For clarity, SBI's and HDFC's, internet gateway transactions
+and mobile payment transactions are processed through their respective BASE24
+Switch for authentication. Resultantly, these transactions belonging to ACI
+Banks would be attributed to BASE24. Therefore, even if one includes such
+transactions in the market share assessment, ACI's market share would only
+increase since the transactions are routed through its BASE24 Switch.
+
+9.18 It has been submitted that ACI has calculated its market share wrongly by
+including number of transactions conducted through Interchange switches like
+NPCI and MasterCard and VISA, transactions through IRCTC, internet banking
+transactions, mobile banking transactions, EFT/ NEFT transactions, electronic
+clearing services transactions, RTGS transactions, payment gateway
+transactions, phone banking and call centre transactions, MasterCard and VISA
+transactions due to IRCTC, etc.  C. No. 52 of 2013 Page 22 of 80 9.19 It has
+been submitted by the Informant that the total share of revenue spent by a
+customer on an EFT Switch is not a correct determinant of market share of an
+entity. The fee charged by different switches may vary and be based on
+different parameters, implying that the evaluation on the basis of the share
+of the revenue would fail to provide the correct picture. The Informant has
+submitted that the transaction based model is in fact the most appropriate
+method to determine the market share. Further, even if the transaction based
+method is not found to be appropriate the DG has also calculated the market
+share based on the number of ATMs and POS devices powered by ACI's BASE24
+software.
+
+9.20 The Informant has submitted that in so far as NFS and other such
+Interchange switches are concerned, taking them into account for the purposes
+of market share calculations is grossly incorrect. Hence, the alleged
+reduction in the market share of ACI on account of greater prominence of NFS
+and other such Interchange switches is without any merit and cannot be
+accepted.
+
+9.21 It has been submitted that it would be incorrect to state that ACI has
+been attempting to inject competition in the market in as much as it has
+merely sub- contracted the services to other players who are in fact
+controlled by ACI.
+
+9.22 In regards to switching cost, the Informant has submitted that Kotak
+Mahindra Bank, despite being a small-sized bank with about 961 ATMs as on
+March 2013 took nearly a year to successfully switch from BASE24 to Electra.
+Further, SBI could not successfully migrate from BASE24 to Opus successfully
+and thus is currently utilizing both switches. Even Punjab National Bank and
+Indian Bank scraped their RFPs after SBI's failure to migrate.
+
+9.23 The Informant has submitted that ACI has provided a list of services
+provided by the NPCI such as the RuPay Scheme, Immediate Payment Service,
+Aadhar Enabled Payment System and Aadhar Payment Bridge  C. No. 52 of 2013
+Page 23 of 80 System and argued that each of these services should be
+considered as independent transactions for the purpose of calculating the
+market share. The Informant has submitted that these services are not
+'substitutes' of EFT Switches in any sense of the word. In addition, the
+Informant has submitted that IMPS transactions are inter-bank electronic
+instant mobile money transfer which is provided by the NPCI. It has been
+submitted that such transactions are processed through EFT Switch of the
+relevant bank itself.
+
+9.24 The Informant has submitted that the submissions made by ACI that NFS/
+IRCTC/ Flipkart and other transactions be included as EFT transactions is a
+deliberate attempt to mislead the Commission.
+
+9.25 The Informant has denied that ACI has been infusing competition in the
+market with intent to break monopoly enjoyed by FSS. The Informant has
+submitted that ACI categorically admitted that it has in fact restricted FSS's
+access to downstream market by way of impositions on ACI Banks not to avail
+services from FSS. It has been submitted that ACI Banks only contracted with
+FSS for provision of services out of choice rather than any compulsion. The
+Informant has submitted that ACI outrightly prohibited ACI Banks from availing
+services from FSS through enforcement of consent clause in its license
+agreement with customer banks. It has been further submitted that ACI
+individually wrote to ACI Banks prohibiting them from availing any services
+from FSS. Additionally, ACI also threatened certain banks with termination of
+their license agreement for availing services from FSS. Thus, the downstream
+market has been fully foreclosed as far as the Informant is concerned.
+
+9.26 The Informant has submitted that ACI's competitors, barring YCS, do not
+at all compel their customers to avail services only from them. ACI has
+misrepresented the facts by stating that Mphasis has been providing services
+to Bank of Baroda since 2006. It has been submitted that Mphasis is merely a
+sub-contractor of ACI and can hardly be considered as a competitor in the
+market.
+
+C. No. 52 of 2013 Page 24 of 80
+
+9.27 The Informant has supported the finding of the DG holding ACI in
+contravention of section 3(4) read with section 3(1) of the Act. The
+downstream market stands effectively foreclosed to all third parties other
+than ACI and its subcontracted partners through the consent clause which
+bestows ACI with enormous discretion in deciding who may provide professional
+service. It has been submitted that the DG correctly concluded that the
+restriction imposed by ACI can hardly be considered reasonable, given that it
+effectively ousts all competition from the downstream market. It has been
+contended that the unreasonableness of this restraint is particularly acute
+given the existence of other reasonable means to protect its IPRs, including
+technical measures such as SDKs and also contractual measures which vest the
+rights to the IPRs in ACI.
+
+10\. Issues and Analysis 10.1 Having given due consideration to facts of the
+case, the investigation report of the DG, the detailed written and oral
+submissions made by the Informant and ACI, the Commission observes that the
+following issues need to be determined in order to arrive at a conclusion in
+the matter:
+
+Issue No. I: Whether ACI has contravened the provisions of section 4 of the
+Act?
+
+Issue No. II: Whether ACI has contravened the provisions of section 3(4) read
+with section 3(1) of the Act?
+
+Determination of Issue No. I: Whether ACI has contravened provisions of
+section 4 of the Act?
+
+Determination of Issue No. I requires deliberation on the following sub-
+issues:
+
+(i) Determination of the relevant market.
+
+(ii) Assessment of the position of dominance of ACI in the relevant market.
+
+C. No. 52 of 2013 Page 25 of 80
+
+(iii) Examination of the conduct of ACI in terms of section 4 of the Act, in
+case it is found to be in a dominant position in the relevant market.
+
+10.2 Before discussing the specific issue at hand, it would be appropriate to
+briefly describe the process and technology involved in various card-based
+transactions. For instance, ATM card-based transactions can be classified into
+the following two broad categories, based on the ATM being used and the
+cardholder's bank.
+
+a) On-Us - When a card of the issuing bank (Bank 'A') is used on its own ATM,
+the EFT Switch of Bank 'A' authenticates the transaction after routing it to
+the core banking network of Bank 'A'.
+
+b) Off-Us/ Remote-On-Us - When a card of Bank 'A' is used on an ATM of another
+bank i.e. the acquiring bank (Bank 'B'), EFT Switch of Bank 'B' routes it to
+the ATM Network/ Interchange, whose EFT Switch in turn routes it to the EFT
+Switch of Bank 'A'. The EFT Switch of Bank 'A' authenticates the transaction
+after routing it to its core banking network. The transaction is then routed
+back by the EFT Switch of Bank 'A' to the ATM Network/ Interchange EFT Switch
+which routes it to the EFT Switch of Bank 'B'. In such transactions, multiple
+EFT Switches are activated to complete the transaction; those of the acquiring
+bank, ATM Network/ Interchange and of the issuing bank.
+
+This transaction when viewed from the acquiring bank's perspective is called
+an Off-Us transaction and when viewed from the issuing bank's perspective is
+known as a Remote-On-Us transaction.
+
+Therefore, while all such transactions utilize the core banking network of
+Bank 'A', in Off-Us/ Remote-On-Us transactions, the EFT Switches of Bank 'B'
+and the ATM Network/ Interchange are also utilized. Hence, each of these  C.
+No. 52 of 2013 Page 26 of 80 transactions use at least one EFT Switch and
+desirable feature(s) of the EFT Switch/ switch software may be used based on
+the specific operational requirement/ stage of the transaction.
+
+(i) Relevant Market Determination 10.3 As per section 2(r) of the Act,
+'relevant market' means the market, which may be determined by the Commission
+with reference to the relevant product market or the relevant geographic
+market or with reference to both. Further, the term 'relevant product market'
+has been defined in section 2(t) of the Act as a market comprising all those
+products or services, which are regarded as interchangeable or substitutable
+by the consumer, by reason of characteristics of the products or services,
+their prices and intended use. The term 'relevant geographic market' on the
+other hand has been defined in section 2(s) of the Act to mean a market
+comprising the area in which the conditions of competition for supply or
+demand of goods or provision of services are distinctly homogenous and can be
+distinguished from the conditions prevailing in the neighboring areas.
+
+10.4 In order to determine the relevant product market, the Commission, in
+terms of the factors contained in section 19(7) of the Act, is required to
+give due regard to all or any of the following factors viz., physical
+characteristics or end use of the goods, price of goods or service, consumer
+preferences, exclusion of in-house production, existence of specialized
+producers and classification of industrial products. Similarly, in order to
+determine the relevant geographic market, the Commission, in terms of the
+factors contained in section 19(6) of the Act, is required to give due regard
+to all or any of the following factors viz., regulatory trade barriers, local
+specification requirements, national procurement policies, adequate
+distribution facilities, transport costs, language, consumer preferences and
+need for secure or regular supplies or rapid after sales services.
+
+C. No. 52 of 2013 Page 27 of 80
+
+10.5 The DG in its investigation report has delineated two relevant markets
+viz. 'the market for EFT Switch/ switch software in India (upstream market)'
+and 'the market for provision of services in respect of customization and
+modification of EFT software (professional services) in India (downstream
+market)'.
+
+10.6 The DG has distinguished the upstream market from the downstream market
+taking into account the different suppliers and different practices in these
+markets. The relevant geographic market in case of both the upstream and
+downstream markets has been defined as India.
+
+10.7 ACI in its submissions has contended that the relevant product and
+geographic markets as defined by the DG are incorrect, stating that while
+defining the relevant market the DG has not considered the substitutes
+available in the market, the benchmark method for evaluating demand
+substitutability (SSNIP Test), factors provided in section 19(7) of the Act
+and the universe of inter-connected electronic payments.
+
+10.8 ACI has argued that the DG has considered only banks as customers of EFT
+Switch and ignored other customers of EFT Switches such as financial
+institutions and other payments and settlement systems. ACI also contended
+that the DG failed to recognize other suppliers of EFT Switch such as Euronet
+(Euronet has licensed its EFT Switch Arkansys to NPCI which operates the NFS).
+
+10.9 Further, ACI also submitted that other segments of the payment and
+settlement systems such as ATM networks, card payment networks, cross border
+money transfer, prepaid payment instruments and white label ATM operators also
+require EFT Switches. Also, transactions processed by NPCI; mobile phone/
+phone banking transactions; transactions by hosted service provider such as
+FSSnet, AGS, Prizm, TCPSL, C-edge, Euronet, FIS, ElectraCard, YCS etc.;
+transactions processed by leading card issuers such as Citibank, HSBC,
+Standard Chartered among others; transactions processed by  C. No. 52 of 2013
+Page 28 of 80 VISA and MasterCard; e-commerce transactions processed for
+emerging players such as Flipkart, Myntra and others are a part of the same
+relevant product market. Accordingly, ACI contended that market for electronic
+retail payment systems should be considered as the relevant product market in
+this case.
+
+10.10 With respect to the relevant geographical market, ACI argued that the DG
+erroneously restricted the market to India instead of global, without
+considering the factors provided in section 19(6) of the Act, competition from
+imports, export potential and international electronic payments. Furthermore,
+in doing so, the DG has also erred in simultaneously analyzing both the
+upstream and the downstream markets and concluding that the relevant
+geographic market is restricted to India. ACI based its arguments on factors
+such as absence of regulatory trade barriers, no local specification
+requirements, no national procurement policy, adequate distribution facilities
+across the world, no transport cost, no language change in the software in
+different geographies, consumer preference not being related to geographical
+area and the fact that significant amount of after sale services can be
+provided online and the same do not require physical presence. ACI has given
+examples of its competitors, Lusis and FIS, which though located outside
+India, provide their software licenses to customers in India. ACI also
+contended that MasterCard and VISA payment systems provide services in India
+while their EFT Switches are based across the world and their services in
+India are not restricted to their switches in India, if any. Finally, ACI also
+argued that its own customers use their Indian switch for transactions taking
+place outside India.
+
+10.11 The Informant, however, has agreed with the DG's findings on the
+relevant market, stating that the DG with sufficient clarity and rational
+justification has found that none of the services provided by ACI are
+interchangeable with peripheral services as such services cannot substitute an
+EFT Switch in terms of functionality. According to the Informant, an EFT
+Switch enables card- based transactions through various frontend devices (such
+as ATMs POS  C. No. 52 of 2013 Page 29 of 80 devices, mobiles and internet
+payment gateways) deployed by a bank, whether directly or indirectly, and acts
+as a middleware between the devices on the one side and the core banking host
+of the bank on the other. When any transaction is attempted at a particular
+bank's device, the EFT Switch relays the transaction to the core banking host
+of such bank to get the authorization for the transaction. Further, VISA,
+MasterCard, NFS and ATM sharing networks like Cashtree, Cashnet and BANCS are
+ATM Network/ Interchange switches which are used to route transactions between
+two banks and do not authenticate the customer transactions like ACI's EFT
+Switch.
+
+10.12 Further, as per the Informant, services provided by an ATM Network/
+Interchange switch are functionally not interchangeable with an EFT Switch and
+hence the same cannot be regarded as a substitute. Moreover, EFT Switches are
+not interchangeable with other electronic modes of payments such as internet
+banking, RTGS, NEFT etc. The customer of EFT Switches are by and large banks
+(mainly through ATMs and POS) and the relevant market of electronic retail
+payment system is taken from the perspective of end consumers' (i.e public in
+general) substitutability.
+
+10.13 As per the Informant, mobile phone transactions and hosted services are
+processed through EFT Switches of the relevant bank and the same have been
+taken into account by the DG while defining the relevant market.
+
+10.14 Also, on the aspect of the relevant geographic market, the Informant in
+agreement with the DG, refutes the contention of the Opposite Parties that the
+geographic spread of the market extends beyond the territory of India on the
+grounds that (a) the Indian regulatory framework is different than other
+countries; (b) banks demand EFT Switches for use in India only; and (c) the
+service providers have physical presence in India for installation and
+customization.
+
+10.15 Having perused the findings contained in the DG report as well as the
+submissions of both ACI and the Informant with regard to the relevant market
+C. No. 52 of 2013 Page 30 of 80 definition, the Commission's observations on
+this sub-issue are recorded in the following paragraphs.
+
+10.16 The Commission notes that ACI in its submissions to the DG as well as to
+the Commission has contended that 'the market for electronic retail payment
+systems' should be considered as the relevant product market in this matter.
+The DG in its findings notes that the function of an EFT Switch is to provide
+a communication mechanism amongst different components of an electronic fund
+transfer system such as ATMs, POS terminals and core banking systems. The DG
+considered ACI's submissions with respect to other components of the
+electronic payment systems such as card lifecycle management software, fraud
+monitoring software etc. and found that apart from the basic EFT Switch there
+are other complementary software modules used along with EFT Switch/ switch
+software for enabling card-based transactions. For instance, life cycle
+management software helps to manage all aspects of the life of a card from
+application to account closure; fraud monitoring software issues alerts after
+detecting suspicious account and transaction activity etc. The DG found that
+none of these software can replace the switch software in terms of
+functionality, but provide additional features and complement the functions of
+an EFT Switch. It was further observed by the DG that the presence of
+peripheral software as mentioned by ACI is not mandatory for banks to operate
+EFT Switch. The DG concluded that an EFT Switch performs a specific function
+which cannot be performed by any of the other payment software mentioned by
+ACI as each of them performs a distinct function and cannot be used
+interchangeably.
+
+10.17 The Commission is of the view that the DG has correctly found that the
+other components of the electronic payment systems/ peripheral software only
+complement an EFT Switch and cannot substitute the same. The Commission as
+such rejects ACI's market definition i.e., the market for electronic retail
+payment systems as electronic payment system is an umbrella term including
+different modes of payment which have different characteristics and different
+C. No. 52 of 2013 Page 31 of 80 costs associated to the final consumers.
+Therefore, the Commission is of the opinion that the market for EFT Switch/
+switch software is the relevant upstream product market in this case.
+
+10.18 Having said that, the Commission finds it imperative to point out that
+although the DG has correctly found EFT Switch/ switch software to constitute
+a distinct relevant product, the DG has limited the market analysis for EFT
+Switch/ switch software to the switch software used by banks for communicating
+with their core banking network alone. On this count, the Commission differs
+from the DG's understanding of the relevant product market (upstream).
+
+10.19 This is also evident from its analysis of market dominance wherein the
+DG only investigates those competitors of ACI, which provide EFT Switch/
+switch software to banks, as detailed in the later part of this order.
+
+10.20 The Commission notes that definitional clarity on what constitutes EFT
+Switch/ switch software is critical for the correct determination and
+understanding of the relevant market in the present case.
+
+10.21 The Commission is of the view that EFT Switch/ switch software, such as
+BASE24 software of ACI, is an interface between card-based frontend systems
+such as an ATM, POS terminal, online payment gateways etc. and the core
+banking network of the bank which issues the card. However, to complete card-
+based transactions of the Off-Us/ Remote On-Us kind described above, there are
+other interfaces that also use EFT Switches.
+
+10.22 In addition to the interface between the card-based frontend systems and
+the core banking network, EFT Switches also interface with national ATM
+networks (such as NFS operated by NPCI, Cashtree, Cashnet, BANCS etc.) and
+international card networks such as VISA, MasterCard etc. for ATM/ POS sharing
+arrangements.
+
+C. No. 52 of 2013 Page 32 of 80
+
+10.23 From the submissions made by non-ACI banks to the DG, the Commission
+observes that Banks such as Barclays Bank, DBS, Deutsche Bank, HSBC and
+Standard Chartered Bank use Arkansys switch provided by Euronet. It is noted
+that NFS operated by NPCI also uses the Arkansys switch licensed by Euronet.
+It is evident from the above that EFT Switch/ switch software is capable of
+performing both (a) authenticating and (b) routing transactions. In view of
+the above, the Commission is of the opinion that the DG has incorrectly
+analyzed the market to include only EFT Switch/ switch software used by banks
+for communicating with their core banking network for authenticating and not
+those used by ATM Network/ Interchanges in the relevant market of EFT Switch/
+switch software.
+
+10.24 The Commission notes that EFT Switch/ switch software is capable of both
+authentication and routing and a bank/ ATM Network/ Interchange may choose to
+use either or both features depending on their requirements. The Commission
+notes EFT Switch/ switch software used by banks to process various
+transactions is capable of carrying out both routing (when it communicates
+with the ATM Network/ Interchange) and authentication (when it communicates
+with the core banking network of the bank).
+
+10.25 The Informant has sought to argue that an EFT Switch facilitates
+electronic retail transaction of a bank through ATMs, POS terminals, mobiles
+and internet payment gateways and authenticates the customer transactions
+whereas an ATM Network/ Interchange switch uses the switch to merely
+facilitate routing of transactions between EFT Switches of two banks and
+therefore the two are not substitutable.
+
+10.26 The Commission observes that the Informant has tried to draw a specious
+distinction between EFT Switches used by banks (as an interface with the core
+banking network and ATM and POS etc.) and EFT Switches used by  C. No. 52 of
+2013 Page 33 of 80 ATM Network/ Interchanges based purely on the features of
+an EFT Switch/ switch software that they choose to use i.e. authenticating or
+routing or both.
+
+10.27 ACI has also argued that the DG has erroneously considered only banks as
+its customers of EFT Switch/ switch software and ignored other customers of
+EFT Switch/ switch software such as financial institutions, payment and
+settlement systems, and other suppliers such as Euronet. ACI has submitted
+that the DG failed to include other segments of the payment and settlement
+systems would also require EFT Switches and would thereby form part of the
+actual/ potential customer base for EFT Switches, in the market definition of
+EFT Switch/ switch software.
+
+10.28 The Commission has therefore, examined the submissions of the Parties to
+determine whether such components, which were not taken into consideration by
+the DG, should be included as part of the relevant market:
+
+ATM networks ACI has contended that ATM networks in India such as NFS,
+'CashTree', 'BANCS' and 'Cashnet' amongst which NFS is the largest also
+require EFT Switches for processing transactions.
+
+As discussed above, the Commission is of the view that the switch software
+employed by ATM Network/ Interchange would also be part of the said relevant
+market as both ATM Network/ Interchanges and banks essentially use an EFT
+Switch for either routing or authenticating or both. However, the relevant
+market analysis undertaken by the DG does not include the ATM Network/
+Interchange switches.
+
+C. No. 52 of 2013 Page 34 of 80
+
+Cross Border Money Transfer ACI contended that cross border transfer service
+is an electronic transfer of funds from one bank account to another, where the
+beneficiary of the funds resides outside the payee's country and therefore
+these transactions should also be made a part of the relevant product market.
+
+The Commission observes that there are multiple channels via which cross
+border money transfers may take place and an EFT Switch may or may not be used
+in each such channel. Even if such transactions are processed through EFT
+Switches, such switches may reside outside India and would not be considered
+as part of the relevant market in the present case. ACI apart from making a
+bald submission has not provided any details to substantiate its claim.
+Therefore, the Commission is not inclined to accept this contention of the
+Opposite Parties.
+
+NEFT and RTGS Transaction The Commission accepts the submissions by the
+Informant that NEFT transactions are processed by the banks through the RBI
+settlement system which is similar to the cheque clearing mechanism. The
+Commission observes that NEFT and RTGS transactions do not use EFT Switch/
+switch software for processing such transactions. Hence, NEFT and RTGS
+transactions are not relevant. Therefore, the DG has correctly excluded NEFT
+and RTGS transactions from the relevant market of EFT Switch/ switch software
+market in India.
+
+White Label ATM Operators The Commission notes that the RBI has permitted non-
+banking entities to set up, own and operate ATMs to accelerate the growth and
+penetration of ATMs C. No. 52 of 2013 Page 35 of 80 in the country. These ATMs
+would provide banking services to customers of banks in India, based on the
+cards issued by banks.
+
+In view of the above, the Commission observes that in order to process the
+transaction white label ATMs would also require EFT switch/ switch software to
+route the transaction to the respective shared ATM network of the banks.
+However, while transactions processed through a white label ATM have been
+taken into account by the DG, the DG has failed to take into account the
+switch used by white label ATMs for routing the transactions to an issuing
+bank. This is due to the fact that the understanding of the DG of the relevant
+market is restricted only to EFT Switch/ switch software used on the core
+banking network for authenticating only and all routing by EFT Switches in the
+white label ATM Network/ Interchange have been ignored.
+
+Mobile phone/ mobile banking The Commission observes that these transactions
+are processed through EFT Switches of the concerned issuing bank only if the
+architecture of such banks' mobile banking system is based on the use of
+debit/ credit card. The Commission further observes that such transactions
+processed through mobile banking would form part of the relevant market.
+However, such transactions account for a small percentage of the total volume
+of transactions.
+
+Transactions processed by leading card issuers such as Citibank, HSBC,
+Standard Chartered The Commission observes that these transactions are also
+carried out through EFT Switches of the relevant bank and in fact, the data on
+all such counts has been considered by the DG.
+
+C. No. 52 of 2013 Page 36 of 80
+
+Transactions by hosted service providers such as FSSnet, AGS, Prizm, TCPSL,
+Euronet, Electracard, YCS etc. The Commission notes that these transactions
+also use an EFT Switch and have been taken into account by the DG.
+
+Transactions processed by VISA and MasterCard The Commission is of the view
+that these transactions are routed through EFT Switches of the banks to the
+international switches of VISA and MasterCard, which are deployed outside the
+territory of India. Therefore, the transactions on the international switches
+would not form part of the relevant market.
+
+Transactions through Internet Payment Gateways The DG in its investigation
+report has found that transactions through internet gateways are also
+processed through EFT Switches. However, such transactions account for only 2%
+of the total transactions served through switch software.
+
+E-commerce transactions processed by emerging players such as Flipkart, Myntra
+and others The Commission observes that these e-commerce portals are merchant
+establishments that do retailing on the Internet as opposed to physical
+merchants who have POS terminals of the banks at their establishments.
+Therefore, the transactions carried on these e-commerce portals are routed
+through payment gateways, which have already been accounted for by the DG.
+
+C. No. 52 of 2013 Page 37 of 80
+
+Card Payment Networks Payment card network consists of electronic payment
+systems, which is used to accept, transmit, or process transactions made by
+payment cards (debit or credit) in order to transfer information or funds
+among issuers, acquirers, merchants and card users. The Commission is of the
+view that a card payment network is an entire ecosystem whose components have
+been discussed above and therefore, have already been considered in the
+analysis of the relevant product market.
+
+10.29 With respect to the relevant downstream market, the DG has reported that
+EFT Switches need to be customized/ modified in order to suit Indian buyers
+and to meet specific requirement of each bank for which many specialized firms
+such as FSS, TCS, Cognizant, Mphasis and Wipro etc. are engaged. These
+services may be carried out either in-house by banks or could be provided by
+the developers of EFT Switch/ switch software themselves or by third parties.
+Usually, the license agreements entered into by and between EFT Switch/ switch
+software developers and the buyers have provisions for the licensee to
+outsource the aforementioned services to third parties. Such customization/
+modification services are required throughout the entire life of switch
+software on an ongoing basis depending on the value added services sought to
+be provided as well as the various regulatory requirements put in place from
+time to time.
+
+10.30 ACI has argued that the DG has ignored the nature and degree of vertical
+integration of competitors of ACI in this market. It is submitted that the
+Opposite Parties are the only EFT Switch suppliers who have outsourced the
+systems integration, customization and modification of its proprietary BASE24
+EFT Switches to the Informant whereas all the other suppliers perform the same
+services in-house.
+
+10.31 The Commission notes that ACI, a first mover in the upstream market, had
+allowed third party provisioning of customization and modification of EFT  C.
+No. 52 of 2013 Page 38 of 80 Switch/ switch software. Competitors of ACI such
+as FIS and Euronet are providing a vertically integrated product i.e. EFT
+Switch/ switch software along with the associated customization and
+modification due to efficiency considerations. However, as per the facts
+gathered during the course of the investigation and oral hearings of the
+parties, a significant number of players exist in the relevant downstream
+market. Therefore, presently, two separate markets do exist, with respect to
+EFT Switch/ switch software and provision of services of customization and
+modification of EFT Switch/ switch software.
+
+10.32 The Commission further notes that even though EFT Switch suppliers other
+than ACI provide customization and modification of their software in-house,
+most have not restricted their buyers from procuring these customization and
+modification services from third parties. Therefore, in view of the above, the
+Commission cannot accept the contention of the Opposite Parties with respect
+to EFT Switch/ switch software market and the customization and modification
+of EFT Switch/ switch software being part of one systems market. Thus, the
+Commission is in consonance with the findings of the DG, that the relevant
+downstream product market would be 'the provision of services with respect to
+customization and modification of EFT Switch/ switch software'.
+
+10.33 On the relevant geographic market, the DG has found that the IDA entered
+into by between ACI and the Informant had defined the territory as India.
+Further, it has been observed that the pricing policy and other terms and
+conditions of EFT Switch/ switch software suppliers also vary across countries
+depending on the market conditions, currency and the regulatory environment,
+etc. Also, the entities from which the banks are licensing EFT Switch are
+required to provide product distribution installation, Annual Maintenance
+Contract (AMC) and product support services either directly or through other
+entities. It is also revealed from the DG report that the conditions of supply
+and demand for EFT Switch in India are distinct from  C. No. 52 of 2013 Page
+39 of 80 those in other countries. Moreover, the market conditions for
+provision of professional services for switch software vary in India vis-a-vis
+other countries.
+
+10.34 The Commission notes that the pricing policies and the terms and
+conditions in various licensing agreements differ from country to country.
+Further, ACI's competitors like Lusis, FIS are present in the Indian market
+and provide licenses to their customers. Therefore, the Commission cannot
+accept the Opposite Parties' contention that even though its competitors are
+located outside India, they provide their software licenses to customers in
+India. Owing to the distinct regulatory requirements in different countries
+and the other factors discussed above, the Commission agrees with the DGs
+findings on the relevant geographic market. In view of the above, the relevant
+geographic market in case of the upstream market as well as the downstream
+market is India.
+
+10.35 Based on the above discussion on the relevant products and relevant
+geographic market, the Commission observes that the relevant markets in the
+instant case are as follows:
+
+i. The market for EFT switch/ switch software in India (relevant upstream
+market).
+
+ii. The provision of services with respect to customization and modification
+of EFT Switch/ switch software in India (relevant downstream market).
+
+(ii) Assessment of the position of Dominance of ACI in the Relevant Market
+10.36 The Commission having determined the relevant markets proceeds to deal
+with the issue of dominance. Explanation (a) to section 4(2) provides that the
+underlying principle in assessing dominant position of an enterprise is linked
+with the concept of market strength, which allows an enterprise to operate
+independently of competitive forces prevailing in the relevant  C. No. 52 of
+2013 Page 40 of 80 market and affect the competitors or consumers or the
+relevant market in its favour.
+
+10.37 While inquiring whether an enterprise enjoys a dominant position or not,
+the Commission is required to give due regard to all or any of the factors as
+provided under section 19(4) of the Act such as market share of the
+enterprise; its size and resources; size and importance of its competitors;
+its economic power including commercial advantages over competitors; vertical
+integration of the enterprise or sale or service network of such enterprise;
+dependence of consumers; whether monopoly or dominant position acquired as a
+result of any statute or by virtue of being a government company or a public
+sector undertaking or otherwise; entry barriers including barriers such as
+regulatory barriers, financial risk, high capital cost of entry, entry
+barriers, technical entry barriers, economies of scale, high cost of
+substitutable goods or services for consumers; countervailing buying power;
+market structure and size of market; social obligations and social costs;
+relative advantage by way of contribution to the economic development, by the
+enterprise enjoying a dominant position; and any other factor.
+
+10.38 Considering the aforementioned factors, the DG found ACI is in a
+dominant position in the relevant market of EFT Switch/ switch software in
+India as defined in the report. As per the DG, since ACI was following a
+Transaction Based Pricing (TBP) for licensing of BASE24 software, under which
+the license fee is linked to the number of transactions projected to be
+processed through the BASE24 software, the volume of transactions that take
+place through each EFT Switch/ switch software would be the most appropriate
+indicator for calculating the respective market strength/ share of the
+supplier of BASE24 software in the relevant market. Furthermore, it was also
+observed by the DG that a bank with a larger network of ATMs and POS would be
+processing more transactions through the switch software as compared to a bank
+with a smaller network and accordingly the  C. No. 52 of 2013 Page 41 of 80
+number of ATMs and POS that are linked to switch software would be relevant
+while determining the market share.
+
+10.39 ACI has argued that the erroneous market definition, reliance on
+unverified data/ information as furnished by the Informant and non-inclusion
+of all actual and potential buyers in the relevant market has led the DG to
+reach the erroneous conclusion regarding ACI's position of dominance. ACI's
+submissions essentially rest on the contention that dominance was found by the
+DG owing to an artificially narrow market defined in the report.
+
+10.40 ACI has argued that even if the Commission were to accept the DG's
+narrow market definition, by taking the transaction volumes of other users of
+EFT Switch/ switch software into account, ACI's market share would diminish.
+ACI has contended that the DG has not taken into account the other buyers of
+EFT Switch/ switch software such as NPCI (operating the NFS by licensing EFT
+Switch of Euronet), the Indian Post Office (licensing EFT Switch of Euronet),
+competition from viable firms such as ElectraCard, Euronet, YCS, FIS switches
+and the transactions done through the 'internet gateway' and 'mobile banking'.
+ACI has further contended that the DG has also failed to note the declining
+market share of ACI, which is an indicator of increased competition in the
+relevant market.
+
+10.41 ACI has submitted that other segments of the payment and settlement
+systems such as ATM networks, card payment networks, cross border money
+transfer, pre-paid payment instruments and white label ATM operators also
+require EFT Switches and are part of the actual/ potential customer base for
+EFT Switches. However, this aspect has been ignored by the DG resulting in
+wrong assessment of market shares of ACI. It is contended that major
+components of the relevant market include card lifecycle management software;
+merchant life cycle management software; wholesale payment processing software
+for NEFT, RTGS payments; payments initiation software through various channels
+like mobile internet and phone banking; retail payments switch software (such
+as BASE24);
+
+C. No. 52 of 2013 Page 42 of 80
+
+ATM Network/ Interchange software including VISA, MasterCard, NPCI; bill
+payments software; fraud monitoring software; and payments infrastructure
+monitoring software.
+
+10.42 As per ACI, in presence of giants like VISA and MasterCard in the
+relevant product market, the question of dominance does not arise. Further, it
+was submitted that ACI is not dominant in terms of estimated business share in
+IT and switch software.
+
+10.43 ACI has further contended that the transaction based market assessment
+as adopted by the DG is not appropriate given that the license fees are
+bilaterally negotiated between switch owners and customers. Since, banks
+report the projected volume of transactions to ACI on the basis of which fee
+is calculated at an agreed rate per transaction, it would be appropriate to
+arrive at the share of total business on the basis of revenue of the parties.
+ACI submits that its market share during financial years 2011-12 to 2013- 14
+(up to February) is less than 40% and from a source of spend perspective its
+market share would be less than 24% in 2013. ACI has suggested that assessing
+the market power on the basis of number of banks licensed to or revenue earned
+by ACI would be a better and accurate indicator of its market power. With
+regard to the number of banks licensed, it was submitted that as on July 2014
+NFS was connected to 320 banks whereas BASE24 was connected to only 12 banks.
+Therefore, it was argued that ACI would not be dominant either in terms of the
+revenue earned or in terms of the number of banks licensed by it.
+
+10.44 It was also argued that ACI was not in a position to function
+independently of customers and competitors and that the DG has wrongly
+concluded that the banks do not have countervailing buying power and there are
+constraints for the banks to migrate to other EFT Switches. Further, it has
+been submitted that compared to ACI, Euronet was found to be a much larger
+player in the relevant market defined by the DG and a direct competitor of
+ACI. For instance, NPCI, runs the largest electronic fund  C. No. 52 of 2013
+Page 43 of 80 transfer system in India by the name of NFS (licensed by
+Euronet), and is a master switch for all inter-bank ATM transactions. NFS
+manages more than 90% of inter-bank ATM transactions in the country and is
+connected to 1,55,000 ATMs as of February 2014 whereas, ACI's BASE24 was
+connected to 98,670 ATMs by that time. It was also contended that NFS approved
+170.5 crore transactions during January 2014-July 2014 whereas the banks
+directly using BASE24 software have recorded substantially lesser transactions
+when compared to NFS approved transactions during April 2013-February 2014.
+ACI has argued that the DG has wrongly attributed 439 crore transactions to
+ACI for the period between 30.04.2013 to 28.02.2014 as not all ACI banks use
+BASE24 switch software for their transactions. As a matter of fact, only HDFC
+and ICICI use BASE24 for their POS transactions. ACI has claimed that there
+are numerous transactions on NPCI, which are routed through the NFS (using
+Euronet's Arkansys switch). In case, all these transactions are considered, it
+is submitted that Euronet/ NFS will be a larger player as compared to ACI. In
+addition, ACI has also argued that many banks in India use hosted EFT
+Switches, which are typically provided by third parties including the
+Informant.
+
+10.45 On the other hand, the Informant has agreed with the findings of the DG
+on the issue of ACI's dominance in the upstream relevant market and has
+submitted that DG's calculations of market share are based on correct
+indicators such as volume of transactions and the number of ATM/ POS devices
+serviced by ACI. As per the Informant, the DG has also taken into
+consideration other channels such as mobile phone transactions processed
+through the EFT Switch of the relevant bank; hosted services that use an EFT
+Switch; transactions processed by leading card issuers using the EFT Switch of
+the relevant bank such as Citibank, HSBC and Standard Chartered; and internet
+payment gateway transactions. It is stated by the Informant that e-commerce
+portals are not part of the relevant market and the substitutes for EFT
+Switch/ switch software alleged by ACI are in  C. No. 52 of 2013 Page 44 of 80
+nature of delivery channels, which work through EFT Switch. ATM Network/
+Interchange switches such as NFS, VISA and MasterCard are in no way
+functionally interchangeable with EFT Switches as used by ACI Banks.
+
+10.46 With respect to NFS, the Informant has submitted that it is an ATM
+Network/ Interchange switch and its role is limited to connecting inter-bank
+transactions. Since the transaction itself passes through the EFT Switch of
+the relevant bank in any case, there is no question of counting these switches
+again. With regard to the inclusion of other channels such as internet
+gateway, mobile banking and payment gateway transactions while arriving at the
+market share, it has been submitted that such transactions are ultimately
+routed through and processed by the concerned bank's EFT Switch. With
+reference to the Indian Post Office, it has been contended that the entry of
+the Indian Post Office is merely a proposed entry and thus cannot be said to
+have any impact on ACI's market share. It is contended by the Informant that
+there exists high switching cost for the banks to migrate from one EFT Switch
+to another EFT Switch. With respect to ACI's contention regarding its
+declining market share, the Informant has stated that the market share of ACI
+has more or less remained constant as found by the DG and its customers are
+entirely dependent on it.
+
+10.47 The Informant contended that EFT Switch and the various delivery
+channels, which use an EFT Switch, are different. ATM Networks such as
+CashTree, Cashnet are similar to ATM Network/ Interchange switches, which
+provide ATM sharing services by interconnecting EFT Switches of different
+banks. It is submitted that all cross border money transfers need not
+necessarily be through an EFT Switch. Such transactions can also be
+facilitated through mobiles connected to an EFT Switch. The Informant has
+stated that a Pre-paid Instrument (PPI) is essentially a card with a specific
+economic value attached to it, which may be electronically encashed by its
+holder through an ATM/ POS/ payment gateway. It has to be used on any of the
+frontend devices of the banks such as ATM/ POS/ payment gateway  C. No. 52 of
+2013 Page 45 of 80 and merely constitutes one of the delivery channels, which
+operates using EFT Switch. On white label ATMs, it is submitted that these are
+ATM devices operated by non-banking institutions. Since these ATMs are
+operated through third party vendors, they would need to establish technical
+connectivity with the existing bank network and the transaction would be
+facilitated through the EFT Switch of the bank whose debit card is being used.
+Hence, such transactions are captured in the RBI's data on ATM transaction of
+the relevant bank whose card is used on the white label ATM as considered by
+the DG while calculating market share. Moreover, as of February 2014, the
+number of white label ATMs in India is around 2200 as compared to 1, 50,008
+ATMs and would have little impact on the dominance of ACI.
+
+10.48 The Informant has argued that ACI has calculated its market share by
+wrongly expanding the relevant market by including the number of transactions
+being conducted through Interchange switches, IRCTC, internet banking, mobile
+banking, EFT/ NEFT, Electronic Clearing Services, RTGS, payment gateway, phone
+banking and call centres, etc. 10.49 The Informant has contended that the
+total share of revenue spent by a customer on an EFT Switch is not a correct
+determinant of the market share of an entity. The fee charged by different
+switch vendors may vary and may be based on different parameters, implying
+that the evaluation on the basis of the share of the revenue will fail to
+provide the correct picture. It is stated that the transaction-based model is
+in fact the most appropriate method to determine the market share.
+
+10.50 The Commission has considered the submissions of both the Informant and
+ACI as well as the findings of the DG on the issue of ACI's dominance. As
+mentioned above, the Commission is of the view that although the DG has
+delineated the relevant upstream market as the market for EFT Switch/ switch
+software in India it has failed to take into account the presence of other
+buyers of EFT Switch/ switch software in the relevant market for  C. No. 52 of
+2013 Page 46 of 80 different transaction operations other than for core
+banking transaction requirements of the issuing bank, while examining ACI's
+dominance in the market. The DG has assessed dominance only with respect to
+EFT Switch/ switch software used by banks for the purpose of authentication,
+which is largely the segment of the market in which ACI has a presence.
+Further, by narrowing the market to EFT Switches used by banks' core banking
+network to authenticate alone in the assessment of dominance the DG has
+further sliced the market and pigeonholed it to the segment of the market in
+which the Opposite Parties operate. The Commission is of the view that the
+relevant market defined is wider than EFT Switch/ switch software used by
+banks alone. It is the market for EFT Switch/ switch software in India
+irrespective of the features of the EFT Switch that are used by the customer.
+The Commission believes that assessing dominance in such a narrow
+understanding of the relevant market, would be fallacious and lead to
+incorrect results.
+
+10.51 The DG's analysis of dominance in terms of the factors as provided under
+section 19(4) of the Act and the Commission's observations on the same are
+recorded in the subsequent paragraphs.
+
+Market share of the enterprise While assessing the dominance of ACI, the DG
+has looked into the market share of EFT Switch/ switch software manufacturers
+in the relevant upstream market. In doing so, it has relied upon the volume of
+transactions processed by EFT Switch/ switch software of the issuing bank as
+the appropriate indicator. The DG was of the opinion that the volume of
+transactions processed by EFT Switch/ switch software and number of ATMs, POSs
+linked through an EFT Switch are the correct indicators of respective market
+shares. The DG report observes that ACI follows the TBP for the license fee
+determination. In TBP license fee is linked to the number of transactions
+projected to be processed through BASE24  C. No. 52 of 2013 Page 47 of 80
+software. Therefore, the DG concluded that the volume of transactions that
+take place through each switch software would be the most appropriate
+indicator of the respective market share. While computing the same, the DG has
+relied upon the volume of transactions as recorded by the RBI.
+
+The Commission notes that the projected number of transactions that will be
+routed through the switch software, are utilized to determine the capacity of
+the switch software to be provided to the customer. It is also observed that
+the license fee is not determined exclusively by projected transactions to be
+routed through EFT Switch/ software. Further, the license fee is negotiated
+between ACI and ACI Banks even under the TBP model.
+
+The Commission further observes that a significant volume of transactions
+constitute Off-Us card-based transactions through ATMs and POS terminals for
+the years 2011-12, 2012-13 and 2013-14. However, the RBI data used by the DG
+does not classify the card-based transactions into On- Us, Remote On-Us and
+Off-Us. Further, the said data also does not capture the process of routing of
+each transaction by the number of switches that needs to be activated to
+complete the transaction, all of which are EFT Switches. The Commission
+observes that the said data has been compiled to arrive at the volume of
+transactions taking place in the payment and settlement system and is not
+indicative of the number of times an EFT Switch is actually activated during
+the course of one transaction, both for authentication and for routing. This
+data would be an inadequate and incomplete measure of the market share and
+reliance on such data would lead to an erroneous assessment of ACI's
+dominance.
+
+The Commission further notes that to widen the retail electronic payment
+system, RBI has undertaken measures to interlink the network of one bank's
+ATM/ POS with others and in this process has facilitated the emergence of
+different inter-bank ATM networks such as CashTree, Cashnet, BANCS including
+the creation of a master switch, NFS maintained by NPCI. As noted earlier by
+the Commission EFT Switch/ C. No. 52 of 2013 Page 48 of 80 switch software
+used by banks and ATM Network/ Interchanges is a part of the same relevant
+market. Therefore, the use of an EFT Switch in an ATM Network/ Interchange
+feature via the aforementioned inter-bank ATM networks should also be taken
+into account while assessing the dominance of the Opposite Parties.
+
+Finally, the Commission also observes that the said data only covers financial
+transactions and as such does not include non-financial transactions provided
+by the banks through their ATMs and processed through their EFT Switch such as
+balance enquiry, mini-statement recovery etc. Furthermore, these transactions
+might be undertaken within the card issuing bank's own network or through
+other banks networks (i.e. Off-Us/ Remote-On-Us transactions) in which case,
+it would necessitate the activation of inter-bank switches such as of NFS
+using the Euronet EFT Switch/ switch software.
+
+Size and importance of competitors The Commission notes that the DG in its
+analysis has considered ECS, BPC, FIS, Euronet and YCS as suppliers in the
+relevant market of EFT Switch/switch software in India apart from ACI.
+However, the DG has failed to recognize other competitors such as those
+supplying switch software to ATM Network/ Interchange etc. Furthermore,
+although the DG has noted Euronet as ACI's competitor, it has limited
+Euronet's market share analysis to EFT Switch/ switch software licensed/
+hosted to banks and not to other consumers such as NPCI and other ATM sharing
+networks.
+
+C. No. 52 of 2013 Page 49 of 80
+
+The economic power of the enterprise including commercial advantages over
+competitors It was noted by the DG that ACI has the advantage of the first
+mover into the relevant market and that there are huge financial and technical
+constraints in migrating to other software as submitted by various ACI Banks.
+
+The Commission, however, observes that at the point of sale of EFT Switch/
+switch software there are enough competitive options such as Electra, Euronet
+or ACI, available to the customers of EFT Switch/ switch software. Once any of
+the suppliers' EFT Switch/ switch software is purchased and customized/
+modified, the buyer would face some migration issues. Thus, such constraints
+are not peculiar to the BASE24 software and cannot by themselves be taken to
+give ACI a commercial advantage over its competitors. Further, it is evident
+from material on record that some banks have in fact changed their EFT Switch
+supplier.
+
+Dependence of consumer on the enterprise With respect to the dependence of
+customers of EFT Switch/ switch software on the suppliers of EFT Switch/
+switch software, the Commission observes that the DG, due to its erroneous
+understanding of the relevant market, has limited itself to the dependence of
+banks on EFT Switch/ switch software suppliers and has not considered the
+dependence of other buyers in the market such as ATM Network/ Interchanges on
+their supplier.
+
+With respect to dependence of ACI Banks on ACI, the Commission observes that
+although ACI Banks have been using the BASE24 software for several years and
+have made huge investment in this regard and do face limited constraints in
+migrating to other software, migration to other switch software is possible
+and is happening in the industry. This indicates that the C. No. 52 of 2013
+Page 50 of 80 present case involves a product which once purchased and further
+customised would take some planning before migration to another product. The
+facts have also shown that switching and migration are happening in the
+industry through planned obsolescence.
+
+In this regard, it is noted that as per the replies received by the DG from
+ACI Banks such as Royal Bank of Scotland, Oriental Bank of Commerce (OBC),
+HDFC and Kotak Mahindra have stated that there are no constraints in changing
+from one EFT Switch to another. It is important to note that Kotak Mahindra
+has successfully shifted from BASE24 to Electra, Further, OBC has recently
+empanelled alternate vendor for providing EFT Switch, and the process of
+migration from existing switch has already begun. Furthermore, Bank of
+Maharashtra successfully migrated to FIS switching solution from a hosted
+solution. In such a market, it may be appropriate to consider the inter-
+generational nature of competition that firms in the relevant market face not
+only from the other players coming out with alternate products, but also from
+constant upgrade demands from their current installed base of customers.
+
+Countervailing buying power The DG noted that on account of commercial and
+risk considerations, most ACI Banks have minimal countervailing buying power
+and banks are apprehensive of shifting to alternate switch software due to
+commercial and risk considerations. Furthermore, the extent of bank's
+dependence is evident from the fact that despite having serious reservations
+with regard to the decision of ACI to not grant them consent to avail
+professional services of FSS, most of them did not migrate to other switch
+software.
+
+In this regard, it is noted that ACI Banks have continued to use the
+Informant's services for customization in spite of ACI's requests to refrain
+from doing so. Further, given that changing EFT Switch suppliers is feasible,
+the fact that ACI Banks chose to stay with ACI may not in itself C. No. 52 of
+2013 Page 51 of 80 show the lack of countervailing buying power. Furthermore,
+given that ACI's current customers include some of the largest banks in the
+country such as SBI and ICICI it would be reasonable to expect that such
+customers may be able to exercise some amount countervailing power vis-a-vis
+EFT switch providers.
+
+10.52 It is also pertinent to point out that parties have submitted that
+BASE24 software has been declared to be in the 'sunset phase' and that no
+further research and development is being conducted vis-à-vis the BASE24
+software.
+
+10.53 As already observed, the DG while assessing the market share of ACI has
+limited itself to the volume of transactions processed through an EFT Switch
+using frontend devices such as ATMs, POS terminals, internet payment gateways.
+In doing so, the DG has not taken into account the various users of EFT
+Switch/ switch software thereby limiting itself to a segment of the relevant
+market. Further, the DG has failed to recognize that in an Off-Us/ Remote-On-
+Us transaction, multiple switches get activated for one transaction i.e. of
+the acquiring bank, the ATM Network/ Interchange and the issuing bank.
+Therefore, a market share analysis based on the volume of transactions, as
+captured in the RBI data, would not give a true picture of the number of times
+a switch gets activated.
+
+10.54 Taking cognizance of the aforesaid discussion, the Commission observes
+that the material on record does not sufficiently establish that ACI operates
+independently of competitive forces prevailing in the relevant market or can
+affect competitors or consumers or the relevant market in its favour. As the
+dominance of ACI has not been established, the issue of abuse of dominant
+position does not arise.
+
+10.55 Resultantly, the Commission finds that based on the factual matrix of
+this case, the conduct of ACI need not be examined. Accordingly, no case of
+C. No. 52 of 2013 Page 52 of 80 contravention of the provisions of section 4
+of the Act is made out against ACI in the present matter.
+
+Determination of Issue No. II: Whether ACI has contravened of the provisions
+of section 3 (4) of the Act?
+
+10.56 The Informant has alleged that ACI was restricting ACI Banks from
+dealing with any third party in respect of providing services of customization
+and modification of BASE24 EFT switch which amounts to refusal to deal under
+section 3(4) of the Act and such arrangements cause or are likely to cause
+AAEC in the market for customization and modification in India as it would
+lead to foreclosure of competition in the market by creating barriers to entry
+and by driving existing competitors out of this market. It has been alleged
+that ACI seeks to impose tie-in arrangements with ACI Banks by tying the
+market of EFT switch/ switch software with the market of services. It is
+averred by the Informant that such an arrangement would result in definite
+foreclosure of the services market, ousting existing players and creating
+entry barriers hence causing appreciable adverse effect in the market.
+
+10.57 In its assessment under section 3(4) of the Act, the DG has examined the
+agreements between ACI and its customer banks and has found that the
+arrangement entered by ACI with ACI Banks would not be exempt from the
+applicability of section 3(4) of the Act. With specific clauses of section
+3(4) the DG found that:
+
+ The combined reading of clauses of the agreement (between ACI and ACI Banks)
+with ACI's decision to not grant consent to third parties including FSS beyond
+July 2013 amounted to a refusal to deal agreement within the meaning of
+section 3(4)(d) of the Act.  ACI's stipulation to its BASE24 customers to
+obtain professional services only from it or entities authorized by it
+amounted to a  C. No. 52 of 2013 Page 53 of 80 exclusive supply agreement as
+provided under section 3(4)(b) of the Act.
+
+ The agreement between ACI and its customers de facto amounted to a tie-in
+arrangement since it put a condition on the licensee to avail professional
+services from ACI along with the license for BASE24 software and this fell
+within the ambit of section 3(4)(a) of the Act.
+
+10.58 The DG found that the agreement entered by ACI with ACI Banks had AAEC
+under section 3(4) after taking into account the factors given under section
+19(3) of the Act.
+
+10.59 ACI has contended that the DG's conclusion in this regard is erroneous
+and has stated that it is not preventing any third party, other than the
+Informant, from providing customization services and the requirement of its
+prior consent for third party customization was a reasonable restraint under
+section 3(5)(i) of the Act. Further, such requirement for prior consent is de
+facto applied by other switch software suppliers in India. As per ACI, the
+Informant is not foreclosed from the market, but is active with a dominant
+position as a third party supplier of professional service, as a number of
+customer banks replied that there are no constraints felt by them with respect
+to discontinuation of customization services provided by Informant. Further,
+ACI has contended that the DG without analyzing the factors provided in
+section 19(3) of the Act has wrongly concluded that there will be 'appreciable
+adverse effect on competition'.
+
+10.60 ACI further submitted that customization services are only one part of
+the services market. A restriction on customization services can cause AAEC
+only if customization services form substantial part of the market. It is
+contended that the market definition of the DG does not actually evaluate
+whether the services market is segmented according to the part of services
+supplied by vertically integrated suppliers and that by third parties. ACI
+urged that the DG has ignored the portion of the market supplied by  C. No. 52
+of 2013 Page 54 of 80 vertically integrated switch software suppliers who de
+facto provide bulk of the customization and modification services to their
+customers. Further, the DG has not provided anything about the revenues of all
+the competitors in the services market and factual basis for not considering
+progress and innovation in the said market supplied by third party services as
+well as in- house capacity to undertake customization and modification.
+
+10.61 The Informant on the other hand has supported the findings of the DG in
+this regard. The Informant submitted that ACI has categorically admitted that
+it foreclosed the services market to FSS and FSS is not the only party to whom
+the market is foreclosed. The said market stands effectively foreclosed to all
+third parties other than ACI and its subcontracted partners, through the
+consent clause which bestows ACI with enormous discretion in deciding who may
+provide professional service. It was further submitted that ACI is incorrect
+in stating that other competitors' contracts contain similar consent
+obligations since the response of ACI's competitors have clearly demonstrated
+otherwise. As per the Informant, the DG has correctly concluded that the
+restriction imposed by ACI can hardly be considered reasonable, given that it
+effectively ousts competition from the services market.
+
+10.62 The Informant has stated that it is only being able to provide services
+to ACI Banks currently because of the interim order passed by the Commission
+which is preventing ACI from foreclosing the downstream market to FSS and
+other third parties. Further, the Informant has stated that there is no merit
+to ACI's claim that customer banks did not feel any constraints upon the
+discontinuation of FSS's services.
+
+10.63 The Informant has put forth that the DG was correct to reject ACI's
+argument that its restriction to ACI Banks fell within the IPR exemption under
+section 3(5) of the Act. It is submitted that the DG carefully considered the
+restriction and more reasonable alternatives, including technical and
+contractual safeguards that were available to ACI. It was  C. No. 52 of 2013
+Page 55 of 80 further submitted that the rationale offered by ACI for imposing
+these restrictions was the protection of BASE24 source code. However, FSS
+already has access to BASE24 source code through its own BASE24 license for
+providing FSSNet services to banks.
+
+10.64 The Informant has contended that the DG's conclusions in relation to the
+AAEC caused by ACI's conduct were arrived on the basis of a well- rounded
+analysis of the impact of ACI's conduct. The DG took into account the various
+factors used to determine AAEC including the effects on the consumers, who are
+tied down by ACI's conduct because of the switching costs, and the effects on
+competitors wishing to enter the services market. It is submitted that the DG
+also considered the overall impact ACI's conduct was likely to have on
+competition in the market and also the scientific and technical progress in
+the market. It was also submitted that services market is not marked by
+vertical integration in so far as ACI's competitors are concerned. In any
+event, the market share assessment is limited to an analysis of the market
+share in the market of EFT Switch/ switch software, and not the market for
+services.
+
+10.65 Having considered the opposing contentions of both the Parties to the
+matter as well as the findings of the DG, the Commission observes that in
+order to determine whether the agreement as examined by the DG between ACI and
+its consumer banks would fall within the ambit of section 3(4) of the Act, it
+would first have to analyze whether the parties to the agreement are in a
+vertical relationship or not.
+
+10.66 Section 3(4) of the Act lays down that any agreement amongst enterprises
+or persons at different stages or levels of the production chain in different
+markets, in respect of production, supply, distribution, storage, sale or
+price of, or trade in goods or provision of services, including- (a) tie-in
+arrangement; (b) exclusive supply agreement; (c) exclusive distribution
+agreement; (d) refusal to deal; (e) resale price maintenance, shall be an  C.
+No. 52 of 2013 Page 56 of 80 agreement in contravention of sub-section (1) if
+such agreement causes or is likely to cause AAEC in India.
+
+10.67 The Commission examines each the violations found by the DG against ACI
+under section 3(4) below:
+
+ Refusal to deal under section 3(4)(d): The DG has found that a combined
+reading of clauses of the agreement (between ACI and ACI Banks) with ACI's
+decision to not grant consent to third parties including FSS beyond July 2013
+amounted to a refusal to deal agreement within the meaning of section 3(4)(d)
+of the Act.
+
+The Commission is of the view that the DG has examined the agreement between
+ACI and ACI Banks wherein ACI Banks are the buyers/ consumers and would not be
+part of the production chain. Accordingly, this agreement does not fall within
+the purview of section 3(4) of the Act.
+
+ Exclusive supply agreement under section 3(4)(b): The DG has found that
+ACI's stipulation to its BASE24 customers to obtain professional services only
+from it or entities authorized by it amounted to a exclusive supply agreement
+as provided under section 3(4)(b) of the Act.
+
+As noted above, since ACI Banks are the buyers/ consumers and are part not of
+the production chain, this agreement also does not fall within the purview of
+section 3(4) of the Act.
+
+ Tie-in arrangement under section 3(4)(a): The DG has found that the
+agreement between ACI and its customers de facto amounted to a tie- in
+arrangement since it put a condition on the licensee to avail professional
+services from ACI along with the license for BASE24 software and this fell
+within the ambit of section 3(4)(a) of the Act.
+
+C. No. 52 of 2013 Page 57 of 80
+
+Given that ACI Banks are the buyers/ consumers and are not part of the
+production chain, the Commission is of the view that this agreement also does
+not fall within the purview of section 3(4) of the Act.
+
+10.68 In view of the above, the Commission finds no contravention of section
+3(4) read with section 3(1) of the Act is made out against ACI in the present
+matter.
+
+10.69 Accordingly, the Commission concludes that no contravention of the
+provisions of section 3(4) read with section 3(1) and section 4 of the Act has
+been established in the present case.
+
+10.70 The Secretary is directed to inform the parties accordingly.
+
+Sd/-
+
+(Ashok Chawla) Chairperson Sd/-
+
+(Sudhir Mital) Member Sd/-
+
+(Augustine Peter) Member Sd/-
+
+(U. C. Nahta) Member New Delhi Date: 13-1-2015  C. No. 52 of 2013 Page 58 of
+80 Dissenting Note Per Mr. S. L. Bunker, Member
+
+1\. I have perused the final order passed by the majority of members of the
+Commission in this matter, holding that ACI has not contravened any of the
+provisions of either section 3 or section 4 of the Act on the grounds detailed
+in the said order.
+
+2\. While concurring with the findings of the majority order to the extent
+that the agreements between ACI and the customer banks may not fall within the
+ambit of agreements as provided in section 3(4) of the Act, I differ, for the
+reasons recorded in this note, with the majority decision that ACI is not
+dominant in the market for EFT Switch / switch software in India (upstream
+market) and no case of contravention of provisions of section 4 is made out.
+
+3\. As the majority order records the facts related to the information,
+findings of the DG investigation report and replies/ objections of the parties
+in response to the DG report in detail, the same are not repeated here for the
+sake of brevity, unless context requires otherwise.
+
+4\. In this case the following relevant markets have been delineated by the DG
+in this matter:
+
+(i) The market for Electronic Fund Transfer (EFT) switch/switch software in
+India (relevant upstream market).
+
+(ii) The provision of services with respect to customization and modification
+of EFT Switch /switch software in India (relevant downstream market).
+
+C. No. 52 of 2013 Page 59 of 80
+
+5\. The DG has rightly considered ACI Inc, ACI Asia and ACI India as a 'group'
+in terms of explanation (b) under section 5 of the Act and has examined the
+position of dominance of ACI group in the relevant market. Having examined the
+factors outlined under section 19(4) of the Act, the DG has found ACI to be in
+a dominant position in the relevant market for EFT Switch / switch software in
+India i.e., in the upstream market.
+
+6\. It is further noted that having found ACI dominant in the relevant
+upstream market, the DG also found, after analysing the facts, evidence and
+submissions of the parties, that ACI had imposed certain unfair and
+discriminatory conditions on ACI Banks in contravention of section 4(2)(a)(i)
+of the Act and has limited the provision of professional services, thereby
+amounting to violation of section 4(2)(b)(i) of the Act. Further, it was found
+that the conduct of ACI resulted in denial of access to FSS and other third
+party service providers in the downstream market in violation of section
+4(2)(c) of the Act. The DG also found that the alleged act of ACI amounts to
+making the contract subject to acceptance of supplementary conditions which is
+in contravention of section 4(2) (d) of the Act. Further, DG has concluded
+that due to the alleged act of ACI, technical and scientific development in
+the downstream market is likely to be adversely affected leading to
+infringement of section 4(2)(b)(ii) of the Act. The DG also reported that ACI
+used its dominance in the upstream relevant market to enhance its presence in
+the downstream relevant market amounting to violation of section 4(2)(e) of
+the Act.
+
+7\. The majority order, disagreeing with the findings of DG, held that in the
+relevant upstream market i.e., in the market for EFT Switch / switch software
+in India ACI is not a dominant player and since ACI is not in a dominant
+position, its conduct is not liable to be examined under the provisions of
+section 4 of the Act.
+
+C. No. 52 of 2013 Page 60 of 80
+
+8\. It has been vehemently argued by ACI and agreed to in the majority order
+of the Commission, that Interchange Switch and EFT Switch are substitutable
+products and they form part of the same relevant market. This factor has been
+one of the key determinants in the analysis done in majority order in arriving
+at the conclusion that ACI is not dominant in the relevant market.
+
+9\. Keeping in mind the findings recorded by the DG and detailed submissions
+made by the parties in this regard, I am of the opinion that because of the
+reasons recorded below Interchange Switch and EFT Switch constitute distinct
+product markets:
+
+9.1 The relevant product market in the instant case, as defined by the DG, is
+the market of EFT Switch / switch software. As borne out from the analysis of
+the facts and material available in the DG report, an EFT Switch is
+essentially central software which connects the core banking system of a bank
+on with various end devices or delivery channels such as ATM, POS, internet
+payment gateway. However, an EFT Switch is primarily used by the banks for
+enabling transactions through their end devices and as such the customer base
+remains restricted to banks.
+
+9.2 An Interchange Switch facilitates inter-bank transaction by recognizing
+the issuing bank (i.e., the bank which has issued the card to a customer) and
+routes the transactions accordingly to the issuing bank for authorization.
+Interchange comes into operation only where the acquiring bank or the merchant
+bank (i.e., the Bank which has installed the POS terminal at a merchant
+location) and issuing bank are not the same and it enables identification of
+the host server. The EFT Switch on the other hand facilitates authentication
+and authorization of card based transactions including the transactions which
+are routed by the Interchanges. The EFT Switch is hence involved in all card
+based transactions C. No. 52 of 2013 Page 61 of 80 and enables the ATM/ POS
+terminal to connect with the host server. Without the EFT Switch of a bank,
+the Interchange Switch does not serve any purpose. As such, the functionality
+of an Interchange Switch is very different from that of an EFT Switch being
+used by the banks.
+
+9.3 It may be noted that an Interchange Switch has limited involvement in
+certain circumstances, viz., where the acquiring bank/ merchant bank and
+issuing bank are not the same, and it would thus not be appropriate to equate
+it with an EFT Switch.
+
+9.4 As regards the contention that since the same software is used in both EFT
+Switches and Interchange Switches, they form part of the same market it is
+relevant to note that:
+
+(i). End use of the product is necessary to determine the relevant market and
+when the same product being put to different end uses, it would constitute
+separate product markets. Hence, an Interchange Switch would be in a different
+market than an EFT Switch.
+
+(ii). An EFT Switch is installed by individual banks for enabling card based
+transactions. An Interchange Switch on the other hand is used by a independent
+third party entity for e.g., MasterCard and VISA or governmental agency e.g.,
+NPCI or a network of banks e.g., Cashtree and Cashnet. The nature of demand
+and supply, pricing strategies, competitive scenario, functionality as well as
+the end use of the software differ completely in EFT and Interchange Switches,
+thereby indicating that even though an EFT Switch and an Interchange Switch
+might operate on similar software, they constitute two different relevant
+markets. From the above discussion, it is clear that these C. No. 52 of 2013
+Page 62 of 80 two different kinds of consumers would constitute two different
+relevant markets in the instant case.
+
+(iii). The fact that despite the existence of NFS which uses an Interchange
+Switch, banks require EFT Switches indicates that the two switches are not
+interchangeable and there exists no demand side substitutability for the two.
+Banks' demand for EFT Switches is clearly evidenced from the fact that banks
+specifically require EFT Switch/ Switch software which is compatible with
+Interchange interfaces. This is also evidenced from the fact that various
+banks are upgrading their EFT Switch software to enhance their capability to
+process more ATM/ POS transactions despite the presence of various
+Interchanges.
+
+9.5 In the context of defining the relevant product market it may also be
+noted that section 2(c) of the Payment and Settlement Act, 2007 defines,
+'electronic funds transfer' as:
+
+> transfer of funds which is initiated by a person by a way of an instruction,
+> authorization or order to a bank to debit or credit an account maintained
+> with that bank through electronic means and includes point of sale
+> transfers, automated teller machine transactions, direct deposits or
+> withdrawals of funds....
+
+9.6 In view of the above, an EFT Switch is one which receives instructions
+through the devices (e.g. ATM, POS etc.), routes them to the core banking
+system of a bank, and then returns the response from the core banking systems
+to the devices. Hence, it performs the function of processing and authorizing
+transfer of funds, as directed by the end customer, through electronic means.
+
+C. No. 52 of 2013 Page 63 of 80
+
+9.7 An Interchange Switch merely enables identification of the host server and
+directs the transaction to the relevant EFT Switch. Given that it does not
+perform the function of transferring and authorizing funds, it is not an EFT
+Switch.
+
+9.8 Further, the DG has reported that under the present regulatory framework,
+the EFT Switch / switch software is beneficial only to those institutions
+which have been licensed by RBI to deploy ATMs and POSs. Further, if such an
+entity is not a banking institution licensed by RBI then it needs to connect
+their switch to any bank's switch for the purpose of settlement.
+
+9.9 In view of the regulatory regime, as discussed above, banks as users of
+EFT Switch constitute a separate class and the market strength of the
+suppliers of EFT Switches need to be seen keeping this distinctive feature in
+view. Therefore, even if it is assumed for the sake of argument (as has been
+stated in the majority order) that entities like NPCI and ATM sharing networks
+like CashTree etc., are also using EFT Switches similar to those of banks, the
+analysis of market structure and consequently dominance of ACI as found by the
+DG will not be impacted in any manner.
+
+9.10 Different licensing models are followed in licensing of EFT Switches and
+Interchange Switches. The fact that Interchange Switch and EFT Switch belong
+to two separate product markets and are different products is also evidenced
+by licensing models of the two switches. Euronet which has licensed its switch
+Arkansys to NPCI for the NFS, in its reply to the DG dated 23.05.2014 has
+stated that license fee charged for licensing the software is a one-time
+license fee. This is different from an EFT Switch where the license fee is
+usually determined on the basis of volume of transactions or number of
+devices. By way of illustration, ACI, OPS and FIS link their license fee to
+volume of transactions or C. No. 52 of 2013 Page 64 of 80 number of devices.
+This clearly demonstrates that even in the industry Interchange and EFT Switch
+are treated as different products. In any event, since Arkansys operates as
+Interchange Switch for NPCI, it would not be correct to include it within the
+customer base of an EFT Switch. Therefore, market share calculations based
+upon inclusion of Interchange Switches in the relevant product market would
+provide a distorted view of the market.
+
+9.11 ACI has contended that since NFS is connected to a large number of ATMs
+of banks and all inter-bank ATM transactions between these banks are routed
+through NFS, failure to take the same into account has led to an incorrect
+determination of ACI's dominance. In this regard it is relevant to note that
+not all banks are members of NFS and their transactions would be routed
+through MasterCard and/ or VISA. It is also relevant to note that NFS is
+involved only in ATM transactions and POS transactions are routed through
+MasterCard and VISA only which use BASE24.
+
+9.12 If Interchange and EFT Switch are considered to be in the same market,
+the calculation of market share would proceed on a different basis. The reason
+for DG using the volume of transactions to indicate the market share is that
+the volume of transactions provides an appropriate indicator of market share
+for identical transactions. If Interchange and EFT Switch are considered to be
+a part of the same market, volume of transactions ceases to be an appropriate
+indicator in as much as the nature of the transaction processed by the EFT and
+the Interchange Switches are not identical and resultantly have differing
+economic values. In this situation, it would be illogical to equate the value
+of the two transactions. Even if Interchange Switch is involved for processing
+the inter-bank transactions, RBI for the purpose of assessing the transactions
+happening in the country, treats such transaction as a single C. No. 52 of
+2013 Page 65 of 80 transaction belonging to the bank whose card is used in the
+ATM/POS terminal of other bank.
+
+9.13 In any event, there is no available data to enable market share
+calculations when transactions are divided in this manner. The DG adopted the
+volume of transactions/ number of devices connected to an EFT Switch as the
+appropriate indicator of market shares since the DG was considering equal and
+like transactions. As explained earlier, Interchange Switches are not licensed
+on the same model as EFT Switches. Since the licensing of Interchange Switches
+is not at all linked to the volume of transactions/number of connected
+devices, it would be inappropriate to calculate market share inclusive of
+Interchange Switches on this basis. ACI has failed to furnish any viable
+methodology to determine market shares upon inclusion of Interchange Switches
+in the relevant market.
+
+9.14 If the contention of ACI that Interchange Switches belong to the same
+relevant product market as EFT Switch and market shares were calculated in the
+same manner are accepted, it would lead to an extremely unsound and imprecise
+market share calculation. It would lead to invariably considering the same
+transaction twice sometimes (for instance, an inter-bank transaction would be
+incorrectly attributed to both the EFT Switch and the Interchange Switch) and
+provide skewed market share results with double counting of significant number
+of transactions.
+
+9.15 Based on above discussion it is evident, in terms of section 2(t) of the
+Act, that on all three counts, viz., functionality, price and intended use,
+the EFT Switch and Interchange Switch cannot be termed as substitutable
+products.
+
+9.16 Lastly, even on the website of ACI (http://www.aciworldwide.com) EFT
+Switch and Interchange Switch are shown as different products.
+
+C. No. 52 of 2013 Page 66 of 80
+
+While EFT Switch BASE24 is categorized as a product under the head 'payment
+processing', Interchange is placed under the head 'payment clearing and
+settlement'.
+
+10\. Accordingly, it is my view, the DG had correctly delineated the upstream
+relevant market and I differ with the understanding of the same as detailed in
+the majority order. With respect to the relevant downstream market, I agree
+with the decision of the majority that there exists a separate market for
+customisation and modification services.
+
+11\. However, I differ with the majority order in regards to the conclusion on
+the assessment of the position of dominance of ACI in the said upstream
+relevant market and the reasoning supplied thereof.
+
+12\. To asses whether an enterprise enjoys a dominant position or not in the
+relevant market, due regard to all or any of the factors stated under section
+19(4) of the Act is to be given. Such factors include market share of the
+enterprise; size and resources of the enterprise; size and importance of the
+competitors; economic power of the enterprise including commercial advantages
+over competitors; vertical integration or sale or service network of the
+enterprise; dependence of consumers on the enterprise; whether monopoly or
+dominant position acquired as a result of any statute or by virtue of being a
+Government company or a public sector undertaking or otherwise; entry barriers
+including barriers such as regulatory barriers, financial risk, high capital
+cost of entry, marketing entry barriers, technical entry barriers, economies
+of scale, high cost of substitutable goods or service for consumers;
+countervailing buying power; market structure and size of market; social
+obligations and social costs; relative advantage, by way of contribution to
+the economic development, by the enterprise enjoying a dominant position; and
+any other factors.
+
+C. No. 52 of 2013 Page 67 of 80
+
+13\. I have considered the rival submissions and the views expressed in the
+majority order on the issue of dominance of ACI in the relevant upstream
+market. Differing with the views expressed in the majority order, I am in
+agreement with the findings of the DG that ACI is a dominant player in the
+relevant upstream market of EFT Switch / switch software in India. In the
+earlier part of the note I have already held that EFT Switch and Interchange
+Switch are two different products and cannot be part of the same relevant
+market.
+
+14\. Considering the nature of the relevant market, the DG has appropriately
+assessed the market shares of the players on the basis of volume of
+transactions through each EFT Switch / switch software and the number of ATMs
+and POS terminals of the bank linked through each switch software. Based on
+the number of transactions that took place through the switch software, it is
+reported by the DG that the annual market share of ACI in the relevant market
+during financial years 2011-14 was in the range of 67% -74%. In terms of total
+number of ATMs and POSs that are linked through the switch software, during
+financial year 2011-14, the market share of ACI in the relevant market was in
+the range of 84% - 86%. In regards to ACI's contention that market share
+should be measured on the basis of number of banks licensed to EFT Switch
+software or revenue earned, I observed that the market share calculated on the
+basis of number of banks does not represent the economies of business involved
+and also does not account for variations in the size of banks and the
+underlying devices as well as consumers that BASE24 serves thus, the
+contention is not tenable. Further, it is observed from the DG report that ATM
+and POS terminals that use EFT Switch / switch software to facilitate payments
+through internet gateway constitutes nearly 2% of total transactions served
+through switch software that does not affect the market share of ACI much in
+the relevant market.
+
+C. No. 52 of 2013 Page 68 of 80
+
+15\. In consonance with the DG findings, I am of the view that Interchange
+Switches are not functionally interchangeable with an EFT Switch and the
+market shares assessment by the DG are based on correct indicators such as
+volume of transactions and number of ATMs, POS devices serviced by ACI. The DG
+took into account all the transactions of users of EFT Switches. The
+contention of ACI that volume of transactions conducted through NFS should
+have been considered by the DG while considering the volume of transactions
+ought to be rejected. It may be noted that NFS is an Interchange Switch and
+the role of NFS is limited to connecting inter-bank transactions. Since such
+transactions pass through the EFT Switch of the relevant bank, there is no
+point in counting these transactions twice and internet payment gateway
+transactions and mobile payment transactions are ultimately routed through and
+processed by concerned bank's EFT Switch. Further, it is observed that
+submission of the Informant that the total share of revenue spent by a
+customer on an EFT Switch is not a correct determinant of market share of an
+entity is correct. The fee charged by different switches may vary and be based
+on different parameters, implying that the evaluation on the basis of the
+share of the revenue will fail to provide the correct picture. Thus, in my
+view the transaction based model is the most appropriate method to determine
+the market share.
+
+16\. While analysing the factor pertaining to size and resources of ACI, the
+DG has reported that ACI is a multinational company having business in various
+jurisdictions with nearly 2596 customers and USD 1.68 billion assets and USD
+864.9 million revenue as on 31.12.2013. From the DG investigation, it is
+revealed that though companies such as ElectraCard, BPC Banking Technologies,
+Lusis Payments (Lusis), FIS, Euronet Worldwide and Yalamanchili Software
+Exports Limited (YCS) etc., are operating in the relevant market as
+competitors of ACI, their presence is insignificant compared to ACI. ACI has
+not been able C. No. 52 of 2013 Page 69 of 80 to show that the above findings
+of the DG are not factually correct. Therefore, I am in agreement with the
+findings of DG in this regard.
+
+17\. As regards, the factor relating to economic power of the enterprise
+including commercial advantages over competitors, it is noted that ACI has the
+advantage of the first entrant into the relevant market and presence of high
+switching cost restrict the licensee banks of ACI to move to the competitors
+of ACI. The DG correctly noted that the licensee banks of ACI have been using
+the BASE24 software for many years and BASE24 software is considered as robust
+and reliable software.
+
+18\. I also concur with the findings of DG with regard to dependence of
+consumers on ACI. The licensee banks of ACI have been using the BASE24
+software for several years and have made huge investment in this regard. The
+licensee banks of ACI had submitted before the DG that they are heavily
+dependent on the ACI for switch software and face technical and financial
+constraints in migrating to another software. The relevant extracts of the
+responses of some of the banks before DG may be note worthy:
+
+(i) "Yes, there are challenges and risk in shifting from one payment platform
+which is already evolved over one decade. Over one decade, payment system in
+India has grown in leaps and bounds. Starting with Master and VISA gateway,
+NFS came into existence, the Indian financial switch setup by NPCI. With
+launch and deployment of RuPay card and roll out of IMPS payments, all banks
+including us have done huge customization on BASE24 switch. A substantial
+investment is already made by us in creating the payment system. A change in
+the switch will require migration of customization to the new platform.
+Porting the existing customization to a new platform will involve substantial
+cost which is a duplication of work & avoidable expenditure. With a loaded
+customization, a migration will add to C. No. 52 of 2013 Page 70 of 80 further
+complexity. Further, large number of ATMs and card present (CP) and card not
+present transactions (CNP) happening on 24X7 basis, any scheduled or
+unscheduled downtime may lead to loss of transaction and reputational loss.
+Shifting the existing setup & products from BASE24 switch into new switch may
+raise Migration risk, Operation risk, cost factor & performance issue". -
+Union Bank of India
+
+(ii) "Shifting from one switch software to switch software requires
+customization in the new software for all the existing functionalities which
+is prone to commercial and business continuity risk". - State Bank of India
+
+(iii) "Presently BASE24 switch is very critical application with a complex
+setup running. ATM operations on 24 hours for our domestic and 8 international
+territories. Shifting from BASE24 to any other switch application involves
+high time, efforts for migration and cost impact, risk of disruption of
+operations providing banking services in addition to reputation and regulatory
+risks". - Bank of Baroda
+
+(iv) "BASE24 is a highly reliable switch with the facility/features to handle
+high volumes. Other switches may not be capable of exhibiting such efficiency
+considering the transaction volumes. Migration of customizations onto another
+switch will be an elaborate and time- consuming task lasting 12-18 months
+which may impact banking operations considering the extent of customizations
+required to bring it on par with our present set up". - ICICI Bank
+
+(v) "Data migration from BASE24 is a challenge since the whole debit card data
+resides in the switch. This may even lead to re-issuing entire card base which
+would be very costly". - Federal Bank C. No. 52 of 2013 Page 71 of 80
+
+19\. On countervailing buying power, it is noted that EFT business of the
+leading banks in India has been developed on ACI's BASE24 software. On account
+of the commercial and risk considerations, most of these banks are
+apprehensive of shifting to alternate switch software. I am also of the view
+that the factor of countervailing buying power is relatable to the consumers
+of an enterprise whose dominance is being inquired into. In this regard, I
+note that in the given facts and circumstances, ACI Banks do not possess
+sufficient countervailing buying power to support the finding of the majority.
+
+20\. According to a new release dated 24.01.2014 on the website of ACI, ACI
+has been recognized as Industry Leader in Ovum's Payment Switching Vendor
+Assessment. All assertions of ACI not being dominant are liable to be rejected
+in view of such apparent claims of dominance. (Available at:
+
+http://investor.aciworldwide.com/releasedetail.cfm?ReleaseID=821014 )
+
+21\. Additionally, ACI's contention that Euronet is the largest player solely
+on the basis that it powers NFS is unsustainable. There are colossal levels of
+customer dependence on ACI, as established by the enormous switching costs
+which have made it impossible for existing ACI customers to shift to other
+switches due to the costs and technical complexities surrounding such a
+migration. Notably, Oriental Bank of Commerce which floated a Request for
+Proposal to migrate to a different switch specifically required the proposers
+to have previously effected a switch from BASE24 to its own switching
+software. In view of this, it would be incorrect to conclude that customers
+(it is vital to note that ACI serves a large chunk of customers of EFT
+Switches, including some of the larger banks operating in India) are able to
+operate independently of ACI.
+
+C. No. 52 of 2013 Page 72 of 80
+
+22\. Thus, I agree with findings of DG in regards to assessment of the
+position of dominance of ACI and hold that ACI is in a dominant position in
+the relevant upstream market i.e., the market for EFT Switch / switch software
+in India as defined by the DG.
+
+23\. Having determined that ACI is in a dominant position in the relevant
+upstream market of EFT Switch / switch software in India, I now proceed to
+examine the alleged abusive conduct of ACI in terms of the provisions of
+section 4 of the Act.
+
+Examination of the Alleged Abusive Conduct of ACI
+
+24\. As stated above in this note, the DG found that ACI had abused its
+dominant position in contravention of various provisions of section 4 of the
+Act.
+
+25\. Section 4(1) states that no enterprise shall abuse its dominant position
+and section 4(2), inter alia, states that there shall be an abuse of dominant
+position under sub-section (1), if an enterprise: (a) directly or indirectly,
+imposes unfair or discriminatory- (i) condition in purchase or sale of goods
+or service; or (ii) price in purchase or sale (including predatory price) of
+goods or service; or (b) limits or restricts- (i) production of goods or
+provision of services or market therefore; or (ii) technical or scientific
+development relating to goods or services to the prejudice of consumers; or
+(c) indulges in practice or practices resulting in denial of market access in
+any manner; or (d) makes conclusion of contracts subject to acceptance by
+other parties of supplementary obligations which, by their nature or according
+to commercial usage, have no connection with the subject of such contracts; or
+(e) uses its dominant position in one relevant market to enter into, or
+protect, other relevant market.
+
+C. No. 52 of 2013 Page 73 of 80
+
+26\. The Informant has alleged that ACI has abused its dominant position by
+not allowing ACI banks to choose a service provider of their choice; imposing
+unfair conditions in the purchase or sale of goods or services through
+exclusive supply arrangements with ACI banks; by directing the ACI banks not
+to avail the integration services of FSS. As per the Informant, ACI is
+restricting the provision of services of customization and modification in
+respect of software for electronic payment systems, using its dominance in the
+upstream market of software for electronic pament systems to gain entry in the
+downstream market of provision for services of customization and modification
+in respect of software for electronic payment systems, and limiting and
+restricting the technical or scientific development in the market. The
+Informant is essentially aggrieved by the decision of ACI to restrict ACI
+Banks from dealing with FSS or any third party with respect to customization
+services beyond 13.07.2013.
+
+27\. The DG found that ACI had imposed unfair and discriminatory conditions on
+the ACI banks in contravention of section 4(2)(a)(i) of the Act, and has
+limited the provisions of professional services, thereby amounting to
+violation of section 4(2)(b)(i) of the Act. It is also found that the conduct
+of ACI resulted in denial of access to FSS and other third party service
+providers in violation of section 4(2)(c) of the Act and the said act of ACI
+amounts to making the contract conditioned to acceptance of supplementary
+conditions in breach of section 4(2)(d) of the Act. Further, the DG has found
+that due to the acts of ACI, the technical and scientific development in the
+downstream market is likely to be adversely affected, leading to infringement
+of section 4(2)(b)(ii) of the Act. The DG also found that ACI used its
+dominance in the upstream relevant market to enhance its presence in the
+downstream relevant market amounting to violation of section 4(2)(e) of the
+Act.
+
+C. No. 52 of 2013 Page 74 of 80
+
+28\. ACI controverted the above findings of the DG and argued that the DG has
+erroneously concluded that ACI's advice to its customer banks to refrain from
+using the customization services of the Informant or others amounts to an
+unfair condition in contravention of section 4(2)(a)(i) of the Act. As per
+ACI, many of its customer banks have continued to use the services of the
+Informant for customization even after expiry of the deadline date i.e.,
+13.07.2013. ACI contended that it has not limited the access to third party
+service providers in the downstream market by deterring new entry or limited
+the technical and scientific development in contravention of section
+4(2)(b)(i) and 4(2)(c) of the Act.
+
+29\. It is contended by ACI that they are not only entering the market
+themselves but are also sponsoring entry of several new entrants and creating
+competition for the benefit of customers. The willingness to enter the
+downstream market by Mphasis, TCS, Wipro, CTS and others is based on an
+economic evaluation that there is the prospect of greater competition for
+third party professional services in the downstream market. It was also urged
+by that the development of technology is accelerated rather than impeded and
+there is a greater scope for innovation, as more and more enterprises gain
+expertise in this domain.
+
+30\. As per ACI, the DG has erroneously concluded that ACI seeks to leverage
+its dominant position in the upstream market to support itself in the
+downstream market. It was submitted that assuming that the DG's finding that
+ACI is dominant in the upstream market is correct; the finding suffers from
+the lack of concrete mechanism showing how ACI could leverage position from
+the upstream to downstream market. Further, ACI has argued that it is the
+Informant which tried to foreclose the market by carrying out customization
+work without adequate documentation. In the absence of complete documentation
+of C. No. 52 of 2013 Page 75 of 80 customization, it is extremely difficult
+for any other entity to provide such services to the banks.
+
+31\. However, the Informant has accepted the DG findings and stated that ACI's
+conduct is in contravention of section 4(2)(a)(i), 4(2)(b)(i), 4(2)(b)(ii),
+4(2)(c), 4(2)(d) and 4(2)(e) of the Act.
+
+32\. I have perused the findings of the DG and the objections of the ACI and
+the Informant in this regard. Having analyzed the provisions of the license
+agreement relating to professional services for BASE24 software customers, it
+is found that prior permission from ACI is necessary on the part of customer
+banks to obtain professional services from third parties. It is observed that
+for several years till 2010-11, licensee banks of ACI were obtaining these
+professional services from the Informant which was also distributor of ACI.
+However, in 2011, ACI gave notice to all its ACI banks that it would provide
+consent for obtaining these professional services from the Informant only till
+13.07.2013.
+
+33\. It is also noted that most of the licensee banks of ACI have been using
+BASE24 continuously for several years and during this time they were obtaining
+professional services for BASE24 software from the Informant. ACI then took
+the decision not to allow the Informant to continue to provide these services.
+From the submission of licensee banks of ACI before the DG, it is observed
+that these banks were aggrieved by the decision of ACI to not allow them to
+obtain professional services from the Informant and other third parties. On
+several occasions they expressed their apprehensions and concerns in this
+regard and the likely adverse effects.
+
+34\. From the letter dated 04.08.2011, written by ACI to its licensee banks
+stating that "for upgrades, ACI would be willing to provide exceptional C. No.
+52 of 2013 Page 76 of 80 consent, after jointly (with the bank) evaluating the
+possibility of undertaking these services either directly or with another
+third party" and presentation made by ACI to its licensee banks in February,
+2013, it is revealed that ACI intended to provide modification and
+customization services under its program named as Enhanced Support Program
+(ACI ESP). Further, from the letter dated 21.05.2013 written by ACI to Andhra
+Bank, emails exchanged between PNB and ACI, emails exchanged between ICICI and
+ACI etc., it is observed the intention of ACI is to undertake professional
+services for BASE24 services itself. Also, it is observed that ACI sought to
+enter into the downstream market by using the provision in the license
+agreement, which requires the banks to seek its consent, and to exclude any
+third party service provider including the Informant from the market. I am in
+agreement with the DG's findings in this regard and of the opinion that the
+said conduct of ACI amounts to abuse of its dominant position in violation of
+provisions of section 4(2)(e) of the Act i.e., use of its dominant position in
+the relevant market of EFT Switch / switch software in India to enter into and
+strengthen its position in the downstream market. Further, DG has found that
+ACI has made the license agreement for BASE24, subject to acceptance by banks
+of supplementary obligation of obtaining its professional services in
+infringement of the provisions of section 4(2)(d) of the Act. On this count
+too, I am in agreement with the DG report. ACI, by denying its licensee banks
+the option of procuring modification and customisation services from the
+Informant or any third parties, has compelled the said banks to avail such
+services from it along with the BASE24 software. This is nothing but making
+the conclusion of contracts of EFT Switch subject to acceptance by banks of a
+supplementary obligation which has no connection with the subject of the
+contract.
+
+35\. It is noted from the DG report that ACI has entered into independent
+contractor agreement with Concerto Software Systems Private Limited, C. No. 52
+of 2013 Page 77 of 80 TCS Consultancy Services Limited, Cognizant Technology
+Solutions and Mphasis Limited for providing the modification and customisation
+services to its licensee banks with different terms and conditions for each
+agreement. Under each of these agreements, these entities are providing
+services as sub-contractor of ACI for specific tasks and rates determined by
+ACI. It is further observed from the DG report that even though ACI allows
+certain sub-contractors to provide services in the downstream market, its
+licensee banks are left with no choice regarding selection of vendor for
+providing professional services in the downstream market and have to rely on
+ACI only. As such by denying its licensee banks of an option to avail
+professional services directly from the Informant or any other vendor,
+discriminatory conditions have been imposed by ACI leading to violation of
+section 4(a)(i) of the Act. I am in agreement with DG findings in this regard.
+
+36\. It is also observed from the DG report that the costs to be incurred by
+Banks for switching over to alternate software are very high. In such a
+situation, licensee banks of ACI do not have any effective choice with respect
+to selection of vendor for professional services and have to rely on ACI for
+the same. The contentions of ACI are not found to be convincing as ACI clearly
+communicated to ACI banks that post July, 2013, it would not allow third
+parties to provide these professional services. Thus, under the garb of taking
+responsibility it deprived its licensee banks of any alternate choice. I agree
+with the findings of DG that the said conduct of ACI is in contravention of
+section 4(2)(b)(ii) of the Act.
+
+37\. It is observed that ACI's decision to not grant consent to any third
+party including the Informant for provision of such services along with sub
+contracting arrangement entered with the providers of these services, has
+allowed ACI to enter and strengthen its position in the downstream market of
+provision of professional services. Because of the said decision of ACI, the
+existing players like the Informant have C. No. 52 of 2013 Page 78 of 80 been
+denied market access to the downstream market. I am in agreement with the DG
+that the said conduct of ACI is in contravention of section 4(2)(c) of the
+Act. Also, the said conduct of ACI would act as a hindrance for other service
+providers in the downstream market to invest and innovate. Thus, the said
+conduct of ACI also amounts to limiting technical and scientific development
+relating to professional services in infringement of section 4(2)(b)(ii) of
+the Act.
+
+38\. In this regard, I also note that the Commission vide its interim order
+restrained ACI after being satisfied that (a) ACI was dominant in the relevant
+market and (b) the conduct of ACI in restricting the choice of ACI Banks for
+availing the services of third parties including the Informant for
+customization and modification of BASE24 software appeared to be in
+contravention of section 4 of the Act. Thereafter, the DG after conducting a
+detailed investigation reaffirmed the opinion of the Commission in its orders
+under section 26(1) and section 33 of the Act. After perusing the submissions
+of the parties made before the Commission, I do not find any reason or
+additional facts that support a different conclusion in the final order.
+
+39\. Accordingly, in agreement with the findings of DG, I am of the opinion
+that the ACI, through its conduct, has contravened the provisions of sections
+4(2)(a)(ii), 4(2)(b)(i), 4(2)(b)(ii), 4(2)(c), 4(2)(d) and 4(2)(e) of the Act.
+The first issue is decided accordingly.
+
+40\. Having regard to all these factors, a penalty on ACI at the rate of 5% of
+C. No. 52 of 2013 Page 79 of 80 its average turnover based on the financial
+statements filed by ACI (as shown in the table below) is to be imposed.
+
+    
+    
+    
+    
+     S. No      Name        of   Turnover/receipts    Turnover/rec      Turnover/re     Avera      5%       of
+                the Party        in year Ended on     eipts in year     ceipts     in   ge         Average
+                                 31.03.2011 (Rs. in   Ended        on   year Ended      Turno      turnover
+                                 crore)               31.03.2012        on              ver/rec    (Rs.     in
+                                 (rounded off)        (Rs. in crore)    31.03.2013      eipts      crore)
+                                                      (rounded off)     (Rs.       in   (Rs.       (rounded
+                                                                        crore)          in         off)
+                                                                        (rounded        crore)
+                                                                        off)            (roun
+                                                                                        ded
+                                                                                        off)
+     1          ACI              60.43                76.27             134.35          90.35      4.52
+    
+    
+    
+    
+                                                                                                          Sd/-
+                                                                                        (S. L. Bunker)
+                                                                                                  Member
+    New Delhi
+    Date: 13-1-2015
+    
+    
+    
+    
+    C. No. 52 of 2013                                                              Page 80 of 80
+     
+

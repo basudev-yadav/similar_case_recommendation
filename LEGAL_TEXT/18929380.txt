@@ -1,0 +1,1038 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+M/S Indecomm Global Services ... vs Deputy Commissioner Of Income Tax ... on
+28 August, 2019
+
+    
+    
+                                                    IT(TP)A No.185(B)/2018
+                                     1
+    
+    
+    
+              IN THE INCOME TAX APPELLATE TRIBUNAL
+                 BANGALORE BENCHES : "B", BANGALORE
+    
+      BEFORE SHRI J. SUDHAKAR REDDY, ACCOUNTANT MEMBER
+                             AND
+    
+                SMT.BEENA PILLAI, JUDICAL MEMBER
+    
+                        ITA No.185(Bang)/2018
+                      (Assessment Year : 2012-13)
+    
+    M/s Indecomm Global Services (India) Pvt.Ltd.,
+    11-12/1, 4th Floor, Maruthi Infotech Center Block A,
+    Amarjyothi Layout, Off.Intermediate Ring Road,
+    Domlur, Bangalore
+    PANNo.AABCB6817E                                          Appellant
+                                       Vs
+    The Deputy Commissioner of Income tax,
+    Cirle-3(1)(1), R.No.227,2nd Floor,
+    BMTC Building, 80ft Road, 6th Block,
+    Koramangala,
+    Bangalore-560 095                                      Respondent
+    
+              Appellant by : Shri K.R.Vasudevan, Advocate
+              Revenue by : Shri R.N.Siddappaji, Addl.CIT
+    
+                    Date of hearing : 17-07-2019
+          Date of pronouncement :     28-09-2019
+                                ORDER
+    
+
+PER BEENA PILLAI, JUDICIAL MEMBER :
+
+Present appeal has been filed by assessee against order dated 23/11/17 passed
+by Ld. CIT (A)-3, Bangalore for assessment year 2012-13 on following grounds
+of appeal:
+
+IT(TP)A No.185(B)/2018  2 The grounds mentioned hereinafter are without
+prejudice to one another.
+
+A. Transfer Pricing
+
+1\. The learned Assessing Officer ("learned AO"), learned Transfer Pricing
+Officer ("learned TPO") and the Honourable Commissioner of Income Tax
+(Appeals) ["Hon'ble CIT(A)"] has grossly erred in law and facts of the case in
+proposing a transfer pricing adjustment under Section 92CA of the Income-tax
+Act, 1961("the Act") towards the provision of software development and IT
+enabled services by the Appellant.
+
+2\. The learned AO/learned TPO/Hon'ble CIT(A) has erred in rejecting the TP
+documentation maintained by the Appellant by invoking provisions of sub-
+section (3) of 92C of the Act.
+
+3\. The learned AO/learned TPO/Hon'ble CIT(A) has erred in rejecting
+comparability analysis carried in the TP documentation and in conducting a
+fresh comparability analysis by introducing various filters while determining
+the Arm's Length Price ("ALP").
+
+4\. IT Enabled Services ("ITeS") Segment:
+
+4.1 The learned AO/learned TPO/Hon'ble CIT(A) has erred in not considering the
+previous two years financial data of the comparable companies while
+determining the ALP.
+
+4.2 The learned AO/learned TPO/Hon'ble CIT(A) has erred in not applying the
+upper limit on turnover while selecting the comparable companies.
+
+4.3 The learned AO/learned TPO/Hon'ble CIT(A) has erred in applying different
+financial year ending filter while selecting the comparable companies.
+
+4.4 The learned AO/learned TPO/Hon'ble CIT(A) has erred in completely relying
+on the unaudited data requisitioned and consequently obtained by taking
+recourse to the provisions of Section 133(6) of the Act.
+
+4.5 The learned AO/learned TPO/Hon'ble CIT(A) has erred in applying export
+earning filter of 75% instead of IT(TP)A No.185(B)/2018  3 25% of the total
+sales, leading to a narrower comparable set.
+
+4.6 The learned AO/learned TPO/Hon'ble CIT(A) has grossly erred in not
+rejecting the following companies from the list of comparable companies.
+
+ Universal Print Systems Ltd.
+
+ Infosys BPO Ltd.
+
+ TCS E-Serve Ltd.
+
+ BNR Udyog Ltd.
+
+ Excel Infoways Ltd.
+
+4.7 The learned AO/learned TPO/Hon'ble CIT(A) has grossly erred in rejecting
+companies that ought to have been included as comparables:
+
+ ICRA Online Ltd.
+
+ Tech Process Solutions Ltd.
+
+ Cameo Corporate Services Ltd.
+
+ Crystal Voxx Ltd.
+
+ Informed Technologies India Ltd.
+
+4.8 The learned CIT(A) while aptly confirming the functional similarity of
+Accentia Technologies Ltd. with the Appellant, erred in:
+
+ stating that if the comparable company gets excluded by higher Appellate
+authorities in the Appellant's appeal for AY 2011-12 on the ground of
+functional dissimilarity, the same would apply to the year under consideration
+and would thereby require exclusion of the comparable in AY 2012-13.
+
+ not considering the fact that transfer pricing requires examining the
+profile of the comparable companies year on year basis and that the ruling of
+one Assessment year cannot automatically apply to another Assessment Year, 4.9
+The learned AO/learned TPO/Hon'ble CIT(A) has erred in allowing negative
+working capital adjustment to the ITES segment of the Appellant.
+
+4.10 The learned AO/learned TPO/Hon'ble CIT(A) has erred in not allowing
+appropriate adjustment towards to the risk differential existing between the
+appellant vis-à-vis independent comparable companies.
+
+IT(TP)A No.185(B)/2018  4 5.1 The learned AO/learned TPO/ Hon'ble CIT(A) has
+erred in re-characterizing the loans & advances and receivables outstanding as
+on 31 March 2012 as a loan given to the AEs by the Appellant.
+
+5.2 The learned AO/learned TPO has erred in arbitrarily imputing interest on
+the outstanding balances from the AEs for more than six months with an
+interest rate of 16.85 percent.
+
+5.3 The learned AO/learned TPO/learned CIT(A) has erred in ignoring the fact
+that the Appellant followed the same credit/interest policy on the balance
+receivable from the Non-AEs as well.
+
+5.4 The learned CIT(A) has erred in imputing interest on the outstanding
+balances from the AEs for more than 30 days and in directing the learned
+AO/learned TPO to work out the adjustment on account of interest on such
+outstanding amounts.
+
+5.5 The learned CIT(A) has erred in ignoring the fact that the credit period
+provided in relation to outstanding receivables as on 31 March 2012 to Non-AEs
+are greater than that of AEs.
+
+5.6 Without prejudice to the argument of the Appellant in Ground no. 4.9
+above, the learned AO/learned TPO/learned CIT(A) has erred in imputing the
+interest on receivable outstanding as 31 March 2012 when the learned TPO had
+already done the negative working capital adjustment to the companies proposed
+as comparable by adjusting the difference in the credit period between the
+Appellant and those comparables.
+
+5.7 Without prejudice to the argument of the Appellant in Ground no. 4.9, the
+learned AO/learned TPO/learned CIT(A) has erred in imputing the interest on
+receivable balances specifically arising out of provision of software
+development services by Indecomm India when the learned TPO post considering
+the working capital adjusted margins of comparable companies had already
+concluded the operating margin of Indecomm India with respect to such services
+is at arm's length.
+
+6.The learned AO has erred in in levying interest U/s 234B Section 234C of the
+Act, which is consequential in nature to the above grounds of appeal.
+
+IT(TP)A No.185(B)/2018  5 The appellant craves leave to add, alter, rescind
+and modify the grounds herein above or produce further documents, facts and
+evidence before or at the time of hearing of this appeal.
+
+For the above and any other grounds which may be raised at the time of
+hearing, it is prayed that necessary relief may be provided.
+
+2\. Brief facts of the case are as under:
+
+Assessee filed its return of income on 30/11/12 declaring total income of
+Rs.18,86,56,470/-. The case was selected for scrutiny and notice under section
+143(2) was served upon assessee in response to which representative of
+assessee appeared before Ld.AO and filed requisite details as called for.
+Ld.AO observed that assessee is engaged in the business of Software
+Development and Information Technology Enabled Services and that assessee
+entered into international transaction with its associated enterprise. A
+reference was accordingly made to Ld.TPO under section 92CA of the Act. Upon
+receipt of reference, Ld.TPO called upon assessee to file economic details of
+international transaction entered into by assessee in Form-3CEB. Ld.TPO
+observed that assessee had following international transaction:
+
+    
+    
+                    International Transaction                    Value (INR)
+       Software and related services                                    52,82,25,923
+       IT enabled services                                              19,75,88,112
+       Reimbursement of expenses                                             16,96,997
+       Recovery of expenses                                              2,49,64,340
+       Balance of receivable                                            36,33,20,298
+    
+    
+    
+    
+
+It has been submitted that Ld.TPO disputed arms length price determined by
+assessee for ITeS segment, the details of which are as under.
+
+IT(TP)A No.185(B)/2018  6 ITeS Segment:
+
+2.1 Assessee used TNMM as most appropriate method with PLI as OP/OC and
+determined margin of assessee at 16.39%. Assessee selected following 9
+comparables with an average margin of 12.50% and thus held the transaction
+with AE under this segment to be at arms length.
+
+    
+    
+                                                              Unadjusted average
+              #                          Company Name
+                                                               margin - 3 years
+             1.         Informed Technologies India Limited                14.00%
+             2.         Jindal Intellicom Limited                          13.27%
+             3.         Accentia Technologies                              24.99%
+             4.         ICRA Online Ltd.                                   24.01%
+    
+             5.         Cameo Corporate Services Ltd.                      10.06%
+             6.         In House Productions                               10.33%
+             7.         Cosmic Global                                      11.27%
+             8.         Wisec Global Ltd.                                   0.14%
+             9.         Techprocess Solutions Ltd.                          4.40%
+                        Arithmetic Mean                                    12.50%
+    
+
+2.2 Ld.TPO rejected analysis carried out by assessee and undertook fresh
+search by applying various filters and shortlisted following 10 comparables
+with an average margin of 28.11%:
+
+    
+    
+     #             Company Name
+    
+     1.   Accentia Technologies Ltd.                                           11.75%
+    
+     2.   Universal Print Systems Ltd.                                         52.46%
+    
+     3.   Informed Technologies Ltd.                                               6.08%
+    
+     4.   Infosys BPO Ltd.                                                     36.30%
+    
+    P5.   Jindal Intellicom Ltd.                                                   -0.05%
+    
+     6.   Microgenetic Systems Ltd.                                            19.61%
+    
+     7.   TCS E-Service Ltd.                                                   63.69%
+    
+     8.   BNR Udyog Ltd.                                                       41.58%
+    
+     9.   Excel Infoways Ltd.                                                  29.79%
+    
+    10.   E4E Healthcare Services Pvt. Ltd.                                    19.85%
+    
+          AVERAGE                                                              28.11%
+    
+    
+
+He thus proposed an adjustment of Rs.2,74,17,877/- under ITeS.
+
+IT(TP)A No.185(B)/2018  7 2.3 Ld.TPO further computed interest on receivables
+exceeding 6 months at 16.85% and proposed adjustment being interest chargeable
+at Rs. 39, 72, 148/-.
+
+Thus total adjustment proposed by Ld. TPO was as under ITES Rs.2,74,17,877/-
+
+    
+    
+    Interest chargeable                                  Rs. 39,72,148/-
+    Total adjustment                                       Rs.3,13,90,025/-
+    
+    
+
+3\. Aggrieved by proposed adjustment, assessee preferred appeal before Ld.CIT
+(A) who upheld view of Ld.TPO.
+
+4\. Aggrieved by order of Ld. CIT (A) assessee is in appeal before us now.
+
+Ld.AR submitted that Ground No. 1-3 are general in nature and therefore do not
+require any adjudication.
+
+Ground No.4 - 4.10 are in respect of in appropriate comparables
+excluded/included by Ld. CIT (A). Ld.AR placed before us a chart wherein
+assessee seeks to exclude/include following comparables: Comparables sought to
+be excluded:
+
+ Universal Print Systems Ltd (segmental) (BPO)  Infosys BPO Ltd  TCS
+E-Serve Ltd  BNR Udyog Ltd (segment) (medical transcription)  Excel Infoways
+Ltd (segmental) (IT) (BPO) Comparables sought for inclusion  Informed
+Technologies India Ltd Before we undertake the fact comparable it a analysis
+it is sine qua non to understand functions performed assets owned and risk
+assumed by assessee under ITeS segment:
+
+Functions IT(TP)A No.185(B)/2018  8 In TP study, it has been submitted that
+assessee provides back- office support services to its AE.
+
+Assessee provides routine back and support services in the mortgage industry
+vertical. It is recorded in TP study that assessee is entrusted with job of
+calculating fees for various zones after taking into consideration specific
+regulations of particulars state and other para meters. The fee calculator is
+inbuilt in the system and assessee is required to only input specific para
+meters into the system to calculate the fees. The TP study also reports that
+mortgage division verifies various deeds and documents required in mortgage
+process for clients based in USA. It is submitted that client sends across
+scanned documents were verification to AE, which are then uploaded on server
+of the AE. Assessee is then required to login to the server and verify the
+same. All server and applications are based out of AEs office in USA. In the
+tabular form the TP study reports that assessee carries out executing the work
+under guidelines of AE. Assessee is also involved in identification of
+manpower requirement, recruitment of manpower. Assets employed It has been
+submitted that assessee do not own any non-routine intangibles and accordingly
+does not own trade secrets or undertake research and development activities on
+its account that would lead to development of non-routine intangibles.
+Intangible assets employed by assessee are furniture and fixtures vehicles,
+case of its equipments, computers and accessories and electrical fittings etc.
+Risks assumed IT(TP)A No.185(B)/2018  9 Assessee provides services on a cost
+plus model and is not affected by factors such as non availability of markets
+of for rendering services, reliability of customers, fluctuations in demand
+etc. The primary risk market lies with the AE, as it is responsible for
+providing final services to end customer. Assessee is though responsible for
+quality of services to be delivered to its AE and has to meet specifications
+laid down by AE in the work order, however AE bears final responsibility of
+quality of services towards the client. Thus, it has been submitted that
+assessee do not even bear any service risk.
+
+Thus assessee has been characterised under this segment as a contract service
+provider rendering routine back office services and bearing minimal risk with
+assured returns from its AE. Based upon the above FAR analysis of assessee, we
+shall consider comparables alleged by assessee for exclusion/inclusion.
+
+Comparables sought to be excluded:
+
+1\. Universal Print Systems Ltd (segmental) (BPO) Assessee sought to exclude
+this comparable for the reason that, it fails employee cost filter and has
+insufficient company information. It is also been submitted that, functionally
+this company is providing integrated print solution to its customers and does
+not provides routine ITeS services like that of assessee. It has been
+submitted that this company is not a captive service provider like that of
+assessee and has products sale as well as services sale, which is evident from
+page 335 of paper book (Index for Annual Reports).
+
+IT(TP)A No.185(B)/2018  10 4.1 Ld.CIT DR placed reliance upon orders of
+authorities below and submitted that this comparable is functionally
+comparable with that of assessee.
+
+5\. We have heard submissions advanced by both sides in light of record placed
+before us. On perusal of annual report of this company placed in paper book,
+we are of considered opinion that this comparable is basically into sale of
+products and services unlike a captive service provider such as assessee, who
+works on cost plus basis, providing services only to its AE's. It is also
+observed that this comparable is basically providing BPO services from its
+Prepress units. In written submission filed, assessee placed reliance upon
+decision of this Tribunal in case of Zyme Solutions Pvt Ltd., vs ACIT reported
+in (2019) 101 taxman.com 292, wherein this comparable has been excluded by
+observing as under:
+
+10.4 We heard rival submissions and perused the material on record. The issue
+of comparability of Universal Print Systems Ltd. with that of the assessee-
+company has been duly considered by TPO after referring to information
+contained in Annual Report. The relevant findings of the TPO had not been
+countenanced by learned AR of the assessee. However, the issue of
+comparability of Universal Print Systems Ltd. has also been considered by the
+co-ordinate bench of this Tribunal in the case of CGI Information Systems &
+Management Consultants Pvt. Ltd. (supra) wherein it was held as follows:
+
+'47. The next submission of the learned counsel for the Assessee was with
+regard to exclusion of 2 comparable companies from the list of 7 comparable
+companies that remain after the order of the DRP. The first comparable company
+sought to be excluded is Universal Print Systems Ltd. This company was chosen
+as a comparable company by the TPO. In reply to the proposal of the TPO to
+include this company as a comparable company, the Assessee vide its letter
+dated 22.12.2015 had pointed out its objections to including this company as a
+comparable company. A IT(TP)A No.185(B)/2018  11 copy of the said objection is
+at page-785 of the Assessee's paper book. The Assessee pointed out that the
+OP/TC of this company as worked out by the TPO at 59.40% was wrong and
+unallocated costs as per the annual report should be allocated to BPO segment
+and if that is done then the OP/TC of this company will be only 51.80%. The
+Assessee further pointed out (Page 764 of paper book) that the TPO had applied
+revenue filter of more than 75% being from non-financial service income. The
+Assessee pointed out that the percentage of income from ITES was only 21.63%
+of the total revenue from operations of this company as per its annual report.
+The Assessee also pointed out that in the Pre-press BPO segment this company
+was providing integrated print solutions to its customers, which includes
+scanning, design/layout, trapping, hand-outlined clipping path and image
+masking and magazine and catalogue publishing. The Assessee submitted that the
+aforesaid services are not in the nature of ITES. The Assessee pointed out
+that as per the safe harbour rules introduced by the CBDT ITES has been
+defined as business process outsourcing services provided mainly with the
+assistance or use of information technology. It was also submitted that this
+company does not satisfy the definition of ITES as contained in Rule IOTA(e)
+of the Rules. Since use of information technology is absent .in the various
+services provided by this company, it cannot be regarded as ITES company. The
+Assessee also submitted that this company fails the employee cost filter. The
+employee cost filter requires that the employees cost incurred by the company
+must be more than 25% of its revenue.
+
+48\. The TPO at page-20 of his order has dealt with the above objections by
+observing as follows:
+
+(a) Pre-Press BPO unit provides back office support services.
+
+(b) This company has four major segments viz., Repro, Label Printing, Offset
+Printing and pre-press BPO. The employee cost of pre-press BPO was more than
+25% of the revenue from pre- press BPO and therefore the employee cost filter
+is satisfied in the case of this company.
+
+(c) On the service revenue filter viz., the requirement that a comparable
+company must have revenue from rendering services of more than 75% of its
+total revenue, the TPO again held that the pre-press BPO segment's entire
+income is from services and therefore this objection is not to be accepted
+IT(TP)A No.185(B)/2018  12
+
+49\. On objections by the Assessee before the DRP, the DRP confirmed the
+action of the TPO. One of the objection before the DRP was that this company
+did not figure in the list of companies engaged in ITES. On this objection the
+DRP held that though this company did not figure in the list of companies in
+ITES in the main search of capital line and prowess database but on a
+segmental search these two companies satisfied the requirement of being
+considered as companies engaged in providing ITES.
+
+50\. Aggrieved by the directions of the DRP, the Assessee is in appeal before
+the Tribunal. The learned counsel for the Assessee reiterated submissions that
+were made before the TPO/DRP. In particular it was submitted that the service
+revenue filter was applied by the TPO himself at the entity level and on such
+search this company was not regarded as engaged in providing ITES. At this
+stage the TPO ought to have dropped this company as a comparable company
+because this filter has to be applied at the entity level and not at the
+segmental level. The learned DR submitted that if the service revenue filter
+is applied at the segmental level there can be no objection by the Assessee.
+She relied on the order of the DRP/TPQ.
+
+51\. The requirements of Rule 10B(1)(2) & (3) of the Rules in the matter of
+comparability of companies under TNMM needs to be seen. The same reads as
+follows:
+
+"10B. (1) For the purposes, of sub-section (2) of section 92C, the arm's
+length price in relation to an international transaction shall be determined
+by any of the following methods, being the most appropriate method, in the
+following manner, namely:--
+
+(a) to (d)
+
+(e) transactional-margin method, by which,
+
+(i) the net profit margin realised by the enterprise from an international
+transaction entered into with an associated enterprise is computed in relation
+to costs incurred or sales effected or assets employed or to be employed by
+the enterprise or having regard to any other relevant base;
+
+(ii) the net profit margin realised by the enterprise or by an unrelated
+enterprise from a comparable uncontrolled transaction or a number of such
+transactions is computed having regard to the same base;
+
+IT(TP)A No.185(B)/2018  13
+
+(iii) the net profit margin referred to in sub-clause (if) arising in
+comparable uncontrolled transactions is adjusted to take into account the
+differences, if any, between the international transaction and the comparable
+uncontrolled transactions, or between the enterprises entering into such
+transactions, which could materially affect the amount of net profit margin in
+the open market;
+
+(iv) the net profit margin realised by the enterprise and referred to in sub-
+clause (i) is established to be the same as the net profit margin referred to
+in sub-clause (iii);
+
+(v) the net profit margin thus established is then taken into account to
+arrive at an arm's length price in relation to the international transaction.
+
+(2) For the purposes of sub-rule (1), the comparability of an international
+transaction with an uncontrolled transaction shall be judged with reference to
+the following, namely:--
+
+(a) the specific characteristics of the property transferred or services
+provided in either transaction;
+
+(b) the functions performed, taking into account assets employed or to be
+employed and the risks assumed, by the respective parties to the transactions;
+
+(c ) the contractual terms (whether or not such terms are formal or in
+writing) of the transactions which lay down explicitly or implicitly how the
+responsibilities, risks and benefits are to be divided between the respective
+parties to the transactions;
+
+(d) conditions prevailing in the markets in which the respective parties to
+the transactions operate, including the geographical location and size of the
+markets, the laws and Government orders in force, costs of labour and capital
+in the markets, overall economic development and level of competition and
+whether the markets are wholesale or retail (3) An uncontrolled transaction
+shall be comparable to an international transaction if--
+
+(i) none of the differences, if any, between the transactions being compared,
+or between the enterprises entering into such transactions are likely to
+materially affect the price or cost charged or paid in, or the profit arising
+from, such transactions in the open market;
+
+IT(TP)A No.185(B)/2018  14 or
+
+(ii) reasonably accurate adjustments can be made to eliminate the material
+effects of such differences."
+
+52\. There appears to be no bar in the Rules referred to above to considering
+segmental data under TNMM because the comparison is of "net profit margin
+realized by the enterprise from an international transaction" with the "net
+profit realized from a comparable uncontrolled transaction". Therefore
+comparison is of similar transaction. When segmental information is available
+and is not disputed, it cannot be argued that filters have to be applied at
+entity level. It cannot be argued that when the TPO himself applied the
+filters at the entity level he was not entitled to apply the filters at
+segmental level. As we have already stated if clear segmental information is
+available the filters can be applied at the segmental level in TNMM. Therefore
+the objection with regard to this company failing the employee cost filter and
+service revenue filter in our view was rightly rejected by the TPO and DRP. It
+is however seen that this company has four segments viz., Repro. Label
+Printing, Offset Printing and Pre-press BPO. Whether the label printing and
+offset printing segments supplement the functions performed in the Pre- press
+BPO segment has to be seen. We therefore set aside the order of the DRP in
+this regard and remand for fresh consideration by the TPO the comparability of
+this company. In terms of Rule 10B(3) of the rules the profit margins of Pre-
+Press BPO have to be adjusted taking into account the fact that two other
+segments supplement the pre- press BPO segment. If such adjustment cannot be
+reasonably or accurately made then this company has to be excluded from the
+list of comparable companies. The TPO for this purpose can use his powers u/s.
+133(6) of the Act to get required details from this company. As far as the
+argument that this company fails functional comparability, we find that none
+of the objections raised by the Assessee in this regard about lack of
+information about allied services performed by the pre-press BPO segment of
+this company and the break-up of the revenue from such allied services have
+been dealt with specifically by the TPO or DRP. Since the comparability of
+this company is being remanded to be TPO for consideration of adjustments as
+mentioned above, the objection with regard to functional comparability should
+also be looked into by the TPO in the remand proceedings on the basis of
+materials which he may gather u/s. 133(6) of the Act, The Assessee should be
+given opportunity of being heard by the TPO before the issue is decided by the
+TPO.' IT(TP)A No.185(B)/2018  15 Respectfully following the decision, we
+remand this comparable to the file of the TPO/AO for fresh adjudication on the
+above lines. Respectfully following aforesaid decision, we remand this
+comparable to file of Ld.AO/TPO, for fresh adjudication, on the basis of
+directions reproduced hereinabove. Needless to say that proper opportunity
+shall be granted to assessee as per law.
+
+Accordingly we set aside this comparable back to Ld.TPO.
+
+2\. Infosys BPO Ltd.
+
+Assessee objected for inclusion of this comparable primarily on the basis of
+functional incompatibility and presence of intangibles. It has been submitted
+that this company owns huge brand and not a fit comparables for company like
+assessee, who provide captive service to its AE's.
+
+Ld.CIT DR opposed the exclusion and placed reliance upon orders passed by
+authorities below.
+
+6\. We have perused submissions advanced by both sides in the light of the
+records placed before us. Assessee placed reliance upon decision of this
+Tribunal in case of Zyme Solutions Pvt Ltd., vs ACIT vide order dated 28/06/19
+in ITA (TP) a No. 1661/Bang/2016, wherein this comparable has been excluded by
+observing as under:
+
+'5. We have heard the rival submissions on the comparability of Infosys BPO as
+a comparable company. The Delhi ITAT in the case of Baxter India Pvt. Ltd. Vs.
+ACIT ITA No.6158/Del/2016 for AY 2012-13 in the case of a company rendering
+ITES such as the Assessee, vide order dated 24.8.2017 Paragraph 23 held that
+Infosys BPO is not comparable with a company rendering ITES for the following
+reasons:- "23. In so far as exclusion of Infosys BPO Ltd. is concerned, we
+find from the submissions made by the assessee before the Assessing
+Officer/TPO/DRP is that Infosys BPO Ltd. is predominantly into areas like
+Insurance, Banking, Financial Services, Manufacturing and Telecom which are in
+the niche areas, IT(TP)A No.185(B)/2018  16 unlike the assessee. Further it
+was also submitted that the Infosys BPQ Ltd. comprises brand value which will
+tend to influence its business operation and the pricing policy thereby
+directly impacting the margins earned by the Infosys BPO Ltd.. We find the
+submissions of the ld. counsel for the assessee before TPO/DRP that in order
+to maintain the brand image of Infosys BPQ Ltd. in the market, the company
+incurs substantial selling and marketing expenditure whereas the assessee
+being a contract service provider does not incur such expenses to maintain its
+brand has not been controverted by them. Further, Infosys BPO Ltd. being a
+subsidiary of Infosys has an element of brand value associated with it. This
+can be further confirmed by the presence of brand related expenses incurred by
+Infosys BPO Ltd. Further, Infosys BPO Ltd. has acquired Australian based
+company M/s Portland Group Pty Ltd. during financial year 2011-12. They
+provide sourcing and category management services in Sydney, Australia.
+Therefore, this company also failed the TPO's own filter of rejecting
+companies with peculiar circumstances. In view of the above i.e. functionally
+not comparable, presence of brand and extraordinary event that has taken place
+during the year on account of acquisition of Australian based company, we are
+of the considered opinion that Infosys BPO Ltd. should not be included in the
+list of comparables. We accordingly direct the Assessing Officer/TPO to
+exclude Infosys BPO Ltd. from the list of comparables for the purpose of
+computing the average margin."
+
+It was also brought to our notice that the Hon'ble Delhi High Court in ITA
+No.260/2018 in the appeal filed by the Revenue against the aforesaid order
+dismissed the appeal at the admission stage observing that rationale given by
+the ITAT for exclusion was correct. In view of the aforesaid decision, we
+direct exclusion of Infosys BPO from the list of comparable companies chosen
+by the TPO. From above, it is clear that this company is functionally not
+comparable with captive service provider.
+
+Respectfully following the same we direct this company to be excluded from the
+list of comparables.
+
+3\. TCS e-Serve Ltd.
+
+Ld.AR submitted that this company has been objected by assessee for its
+functional dissimilarity as it renders both BPO and KPO IT(TP)A No.185(B)/2018
+17 services without segmental reporting. It is submitted that this company
+owns huge brand of TATA group and has also incurred brand related expenses and
+therefore cannot be accepted to be compared with a captive service provider
+like assessee. Ld.CIT DR on the contrary opposed its exclusion and placed
+reliance upon orders passed by authorities below.
+
+7\. We have perused submissions advanced by both sides in light of records
+placed before us. Assessee placed reliance upon following decisions in support
+of its argument for exclusion of this comparable:
+
+ Zyme Solutions Pvt Ltd. vs ACIT (supra)  Baxter India Pvt. Ltd vs ACIT
+reported in (2017) 85 Taxmann.com  285 (Delhi-Trib)  PCIT vs BC Management
+Services Pvt. Ltd. reported in TS-948- HC-
+
+ 2017 (Del)-TP It is observed that this comparable has been excluded by this
+Tribunal. Assessee placed reliance upon decision of this Tribunal in case of
+Zyme Solutions Pvt Ltd., vs ACIT reported in (2019) 101 taxman.com 292, by
+observing as under:
+
+"11.3 We have heard rival submissions and perused material on record. The
+issue of comparability of this company was considered by the co-ordinate bench
+of Tribunal in the case of XLHealth Corpn. India (P.) Ltd. (supra). The
+relevant findings of the Tribunal are as under:
+
+> " . . . We have heard the rival submissions and perused the material on
+> record. From the perusal of the Annual Report of this entity placed at page
+> Nos. 583 to 678 of paper book, at page No. 604 it is stated as under.
+
+> "2. COMPANY OVERVIEW IT(TP)A No.185(B)/2018  18 Your Company, along with its
+> subsidiary companies - TCS e-Serve International Limited and TCS e-Serve
+> America Inc., is primarily engaged in the business of providing Business
+> Process Services (BPO) for its customers in Banking, Financial Services and
+> Insurance domain. The Company's operations include delivering core business
+> processing services, analytics & insights (KPO) and support services for
+> both data and voice processes.
+
+> Your Company is an integral part of the Tata Consultancy Services' (TCS)
+> strategy to build on its 'Full Services Offerings' that offer global
+> customers an integrated portfolio of services ranging from IT services to
+> BPO services.
+
+> The Company provides its services from various processing facilities, backed
+> t) a robust and scalable infrastructure network tailored to meet clients'
+> needs. A detailed Business Continuity Plan has also been put in place to
+> ensure the services are provided to the customers without any disruptions."
+
+> Thus, this company is also stated to be a K n o wl e d g e Process
+> Outsourcing and therefore for reasons stated by us wh ile dealing with this
+> issue of comparability of the company Infosys BPO Ltd. shall equally hold
+> good and th e r e f o r e we d ir e c t th e A O / T P O to e x c l u d e th
+> is c o mp an y from : list of compar ables.' Since the appellant company is
+> into lo w end BPO, it cannot be compared with KPO service provider.
+
+11.4 Respectfully following the decision of the co-ordinate bench of Tribunal,
+we direct for exclusion this company from the list of comparable". It has been
+observed that this company is into high-end KPO services and an assessee
+rendering low end BPO services cannot be compared with it. Further, this
+company has been excluded due to absence of segmental information.
+
+Respectfully following aforesaid decision, we direct Ld.TPO to exclude this
+company from the list of comparables.
+
+IT(TP)A No.185(B)/2018  19
+
+5.BNR Udyog Ltd. (segmental) Ld.AR submitted that this company fails RPT
+filter and also fails export filter applied by Ld.TPO. It is submitted that
+this company is into medical transcription, coding, business support services
+and e- governance projects and therefore functionally not similar with that of
+assessee.
+
+Ld. CIT DR however contended that this company is compared only for segment of
+medical transcription and therefore should not be excluded. She placed
+reliance upon decision of this Tribunal in case of Mobily Infotech India (P)
+Ltd vs DCIT reported in (2018) 97 taxman.com 2 in support.
+
+8\. We have perused submissions advanced by both sides in the light of the
+records placed before us.
+
+Assessee is challenging functional dissimilarity of this company with that of
+assessee as it is into medical transcription. We have our reservation to
+consider medical transcription services to be one of KPO services. In our
+considered opinion medical transcription services is basically back-office
+services provided by graduates who are trained for short period of 6 months to
+one year. These are short crash courses undertaken by graduates who are
+trained to understand and speak English. There is no value addition in the
+services rendered by people in medical transcription. To our understanding,
+basically these people who carry out medical transcription services are
+trained to understand language spoken by doctors, outside India to whom
+medical reports of patience are sent for expert opinion. Medical
+transcriptionist simply reproduces opinion expressed by Doctor, which is then
+communicated to the patients.
+
+IT(TP)A No.185(B)/2018  20 It is observed from annual report placed at page
+223 of paper book (Index to Annual Reports) that this company has segmental
+information of medical transcription and revenue earned under this segment is
+Rs.147.40 Lacs. It is also been observed that various other decisions by co-
+ordinate Benches of this tribunal has remanded this comparable back to Ld.TPO,
+for proper analysis and fresh consideration. We draw support for same from
+Indegene (P) Ltd vs ACIT reported in (2017) 85 Taxmann.com 60, wherein it has
+been held as under:
+
+"9.3.1. We have heard the rival contentions and perused and carefully
+considered the material on record including the judicial pronouncements cited.
+From the details on record we observe that while the assessee has contended
+that the services rendered by this company M/s TCS E-serve Ltd are high end
+KPO services, it has not brought out as to which of these are the services
+that would come under technical services. On the other hand, w also notice
+that that the TPO has held all the services rendered by the assessee to be BPO
+services with any proper analysis. In this factual matrix of the case, we find
+that on similar facts, the co-ordinate Bench o ITAT Bangalore in the case of
+Indegene (P) Ltd., (supra) has remanded the matter of comparability of this
+company to the file of the TPO for fresh consideration. In view of the factual
+matrix of the case on hand, as laid out above and following the decision of
+the co-ordinate Bench in the case of Indegene (P) Ltd. (Supra) which is also
+rendered on similar facts, we deem it appropriate to remand the matter of the
+comparability of this company, TCS E-serve Ltd. To the file of the TPO for
+fresh consideration in the light of out abov observations. Needless IT(TP)A
+No.185(B)/2018  21 to add, the TPO shall afford the assessee adequate
+opportunity of being heard and to file details/submissions in this regard. It
+is also been observed that similar view has been taken by decision of this
+Tribunal in case of M/s Nielson Sports India Pvt.Ltd., Vs ACIT in IT(TP)A
+No.196(B))/2017 vide order dated 28- 06-2019.
+
+Respectfully following the same, we set aside this comparable back to Ld.TPO
+for considering it afresh. Needless to say that proper opportunity shall be
+granted to assessee as per law. Accordingly we set aside this comparable back
+to Ld.TPO
+
+6\. Excel Infoways Ltd. (segmental) This comparable selected by Ld.TPO is
+alleged to be functionally not comparable with assessee, as it is handling
+business relations and managing customer relationships. It has been submitted
+by Ld.AR that this comparable fails employee cost filter.
+
+Ld.CIT DR however contended that this company is compared only for segment of
+medical transcription and therefore should not be excluded. She placed
+reliance upon decision of this Tribunal in case of Mobily Infotech India (P)
+Ltd vs DCIT reported in (2018) 97 taxman.com 2 in support.
+
+9\. We have perused submissions advanced by both sides in light of records
+placed before us. Annual report of this company is placed at page 273 of paper
+book (Index for Annual Reports). In the Significant Accounting Policies
+reported at page 308 of paper book, it is observed that these companies
+operating businesses are organized and managed separately, according to nature
+of business and services provided with each segment, representing different
+strategic business unit. Note 15 at page 312 to refers to revenues IT(TP)A
+No.185(B)/2018  22 from operations under the head information technology/BPO
+related services separately. It is observed that the function performed by
+this company as reported at page 285 reveals that it is engaged in business of
+providing customer care services and handling client business relations on
+their behalf by maintaining relation with customers and also providing
+services by assisting in managing the workflow and updating the records. It is
+observed that this Tribunal in case of Zyme Solutions Pvt Ltd., vs ACIT vide
+order dated 28/06/19 in ITA (TP) a No. 1661/Bang/2016, this comparable is
+excluded by observing as under: "The third and last company that is sought to
+be excluded from the list of comparable companies is Exclusion of Excel Info
+Ltd. The Tribunal had retained this company as a comparable company in its
+original order. The assessee sought exclusion of this company on the ground
+that this company was functionally different from the assessee company and the
+employee cost to the revenue was less than the threshold limit of 25% and that
+there were peculiar economic circumstances which impacted the profit margin of
+this company thereby rendering this company as not comparable company. The
+Tribunal while adjudicating of exclusion of this company in paragraph 14.3 of
+its order held that on application of employee cost filter that the Assessee
+has failed to show as to how the findings of the TPO and DRP are not correct.
+
+2\. The assessee has pointed out certain facts with regard to employee cost
+and diminishing revenue of this company which takes it out of the
+comparability and these aspects have not been considered by the Tribunal in
+its order. On the above objections in the MA, the Tribunal held as follows:-
+"8. We have examined the contents in the misc. petition and we find that there
+has been omission to consider the application of employee cost filter by the
+Tribunal though attention of the Bench was invited to relevant pages pointed
+out in the misc. petition. We do not however agree with the assessee that
+functional comparability of this company has not been examined by the Tribunal
+in paragraph 14.4. The Tribunal has come to the conclusion that this company
+is a ITeS company and that cannot be reviewed in the misc. application.
+However there has been omission to IT(TP)A No.185(B)/2018  23 adjudicated
+exclusion of this company on account of extraordinary events. We therefore
+recall the order of the Tribunal to the limited extent of examining of the
+employee cost filter and the presence of extraordinary events on warranty
+exclusion of this company."
+
+3\. We have heard the rival submissions on the exclusion of this company on
+the basis of extraordinary events that occurred during the relevant previous
+year which had impact on the profit margin of this company and therefore
+rendering this company from being chosen as a comparable company. The Delhi
+ITAT in the case of BT e-Serve (India) Ltd. Vs. ITO ITA No.6690/Del/2016 for
+AY 2012-13 order dated 19.6.2018 considered the comparability of this company
+and came to the conclusion in paragraph 5.4 of its order that there was
+abnormal volatility of revenue of this company from 2009-10 to 2014-15 and
+therefore this company should not be regarded as comparable company.
+Respectfully following the aforesaid decision, we direct exclusion of the
+aforesaid company from the list of comparable companies chosen by the TPO.
+
+It is observed from order passed by Ld.TPO at page 10 that assessee objected
+this company that employee cost filter being more than 25% has not been
+examined by Ld.TPO. It is observed that in decision of coordinate bench of
+Delhi Tribunal in case of Baxter India Pvt.Ltd vs ACIT reported in (2017) 85
+Taxmann.com 285 this comparable failing employee cost filter has been analyzed
+as under:
+
+Further, from the order of the TPO we find he has obtained the employee cost
+and the sale for the ITES segment by exercise of his powers u s. 133(6).
+wherein the said company has allocated entire employee cost to IT - BPO
+segment with no allocation to Infra Activity segment which accounts to 49% of
+Excel's total revenue. In our opinion. it is highly impractical that no
+employee has been hired by Excel for Infra Activity segment. We. therefore.
+find merit in the argument of the Id. counsel for the assessee that the
+information provided as per section 133(6) by Excel Infoways Ltd. is
+unreliable and should not be used to compute employ ee cost for ITES segment.
+The Delhi Bench of the Tribunal in the case of Motorola Solutions India (P.)
+Ltd. v. Assts. CIT[2014] 48 taxmann.com 24842015] 152 ITD 158 (Delhi) has held
+that a company should be rejected as comparable IT(TP)A No.185(B)/2018  24 in
+case there is contradiction in the facts or data sourced from annual report
+and as per the information gathered u/s. 133(6). In view of above discussion,
+we hold that Excel Infoways Ltd. cannot be considered as comparable and should
+be excluded from the list of comparables. We hold and direct accordingly".
+
+From the above observation by coordinate bench, objection raised by Ld.CIT DR
+stands clarified, as this company for year under consideration made a
+statement under 133 (6) regarding allocating entire employee cost to IT-BPO
+segment, with no allocation to other segment, which amounts to almost 49% of
+its total revenue during the year under consideration. At this stage, we
+clarify that, we are not inclined to express our opinion regarding functional
+similarities/dissimilarity of this company with that of present assessee
+before us and the same is kept open to be considered in an appropriate case.
+
+We therefore agree with contention raised by assessee regarding this
+comparable not satisfying employee cost filter. Respectfully following
+aforestated decision of Delhi Tribunal reproduced hereinabove, we direct
+Ld.TPO to exclude this comparable from the final list.
+
+Comparable sought for inclusion:
+
+7\. Informed Technologies India Ltd.
+
+It has been submitted by Ld.AR that this company is functionally comparable
+with that of assessee and submits that it passes through all filters applied
+by Ld.TPO. It has been submitted that this comparable was included by Ld.TPO
+which was acceptable to assessee. However DRP directed to exclude the same, as
+there was no segmental detail available.
+
+IT(TP)A No.185(B)/2018  25 Ld.CIT DR however placed reliance upon order of DRP
+and supported its exclusion due to non-availability of segmental information.
+
+10\. We have perused submissions advanced by both sides in the light of the
+records placed before us. It is observed that this comparable has been not
+disputed for functional dissimilarity by DRP. However, observation that
+segmental information are not available needs to be verified.
+
+We are therefore of considered opinion that, this comparable needs to be set-
+aside to Ld.TPO for verification afresh. Needless to say that assessee shall
+be granted proper opportunity as per law to represent its case.
+
+Accordingly we set aside this comparable back to Ld.TPO Accordingly grounds
+4-4.10 stands allowed as indicated above. Ground 5- 5.7 is in respect of
+interest on receivables outstanding amounting to Rs.36,33,20,298/- in relation
+to transaction with AE. From TP study, it is observed that payments to
+assessee are not contingent upon payment received by AEs from their respective
+customers. Further Ld.Counsel submitted that working capital adjustment
+undertaken by assessee includes the adjustment regarding the receivables and
+thus receivables arising out of such transaction have already been accounted
+for. Alternatively, he submitted that working capital subsumes sundry
+creditors and therefore separate addition is not called for. Ld.TPO computed
+interest on outstanding receivables at the rate equal to 13.85 % PLR (SBI base
+rate) +300 basis points. It has been argued by Ld.Counsel that authorities
+below disregarded business/commercial arrangement between the assessee and its
+IT(TP)A No.185(B)/2018  26 AE's, by holding outstanding receivables to be an
+independent international transaction.
+
+Ld.Counsel placed reliance on decision of Delhi Tribunal in Kusum Healthcare
+Pvt.Ltd vs. ACIT reported in (2015) 62 Taxmann.com 79, deleted addition by
+considering the above principle, and subsequently Hon'ble Delhi High Court in
+Pr. CIT vs. Kusum Health Care Pvt. Ltd. (2017) 398 ITR 66 (Del), held that no
+interest could have been charged as it cannot be considered as international
+transaction. He also placed reliance upon decision of Delhi Tribunal in case
+of Bechtel India vs DCIT reported in (2016) 66 taxman.com 6 which subsequently
+upheld by Hon'able Delhi High Court vide order dated 21/07/16 in ITA No.
+379/2016, also upheld by Hon'ble Supreme Court vide order dated 21/07/17, in
+CC No. 4956/2017. It has been submitted by Ld.Counsel that outstanding
+receivables are closely linked to main transaction and so the same cannot be
+considered as separate international transaction. He also submitted that into
+company agreements provides for extending credit period with mutual consent
+and it does not provide any interest clause in case of delay. He also argued
+that the working capital adjustment takes into account the factors related to
+delayed receivables and no separate adjustment is required in such
+circumstances.
+
+11\. On the contrary Ld.CIT DR submitted that interest on receivables is an
+international transaction and Ld.TPO rightly determined its ALP. In support of
+his contentions, he read out relevant parts of DRP's direction, in which Panel
+relying upon decision of Delhi Tribunal order in Ameriprise India Pvt. Ltd.
+vs. ACIT (2015- TII-347-ITAT-DEL-TP) held that interest on receivables is an
+international transaction and the transfer pricing adjustment is IT(TP)A
+No.185(B)/2018  27 warranted. He stated that Finance Act, 2012 has inserted
+Explanation to Section 92B, with retrospective effect from 1.4.2002 and sub-
+clause (c) of clause (i) of this Explanation provides that:
+
+(i) the expression "international transaction" shall include--
+
+> ...... (c) capital financing, including any type of long-term or short-term
+> borrowing, lending or guarantee, purchase or sale of marketable securities
+> or any type of advance, payments or deferred payment or receivable or any
+> other debt arising during the course of business;....' .
+
+12\. Ld.CIT DR submitted that expression 'debt arising during the course of
+business' refers to trading debt arising from sale of goods or services
+rendered in course of carrying on business. Once any debt arising during
+course of business is an international transaction, he submitted that any
+delay in realization of same needs to be considered within transfer pricing
+adjustment, on account of interest income short charged or uncharged. It was
+argued that insertion of Explanation with retrospective effect covers
+Assessment Year under consideration and hence under/non- payment of interest
+by AEs on debt arising during course of business becomes international
+transactions, calling for computing its ALP. He referred to decision of Delhi
+Tribunal in Ameriprise (supra), in which this issue has been discussed at
+length and eventually interest on trade receivables has been held to be an
+international transaction. Referring to discussion in said order, it was
+stated that Hon'ble Delhi Bench in this case noted a decision of the Hon'ble
+Bombay High Court in the case of CIT vs. Patni Computer Systems Ltd., (2013)
+215 Taxmann 108 (Bom.), which dealt with question of law:
+
+IT(TP)A No.185(B)/2018  28
+
+(c) `Whether on the facts and circumstances of the case and in law, the
+Tribunal did not err in holding that the loss suffered by the assessee by
+allowing excess period of credit to the associated enterprises without
+charging an interest during such credit period would not amount to
+international transaction whereas section 92B(1) of the Income-tax Act, 1961
+refers to any other transaction having a bearing on the profits, income,
+losses or assets of such enterprises?' He pointed out that while answering the
+above question, Hon'ble Bombay High Court noticed that amendment to section
+92B has been carried out by Finance Act, 2012 with retrospective effect from
+1.4.2002. Setting aside view taken by Tribunal, Hon'ble Bombay High Court
+restored the issue to file of Tribunal for fresh decision in light of
+legislative amendment. It was thus argued that non/under-charging of interest
+on excess period of credit allowed to AEs for realization of invoices, amounts
+to an international transaction and ALP of such international transaction has
+to be determined by Ld.TPO. In so far as charging of rate of interest is
+concerned, he relied on decision of the Hon'ble Delhi High Court in CIT vs.
+Cotton Naturals (I) Pvt. Ltd (2015) 276 CTR 445 (Del) holding that currency in
+which such amount is to be re-paid, determines rate of interest. He,
+therefore, concluded by summing up that interest on outstanding trade
+receivables is an international transaction and its ALP has been correctly
+determined. We have perused the submissions advanced by both the sides in the
+light of the records placed before us.
+
+This Bench referred to decision of Special Bench of this Tribunal in case of
+Special Bench of ITAT in case of Instrumentation Corpn.
+
+IT(TP)A No.185(B)/2018  29 Ltd. v. Asstt. DIT in ITA No. 1548 and 1549 (Kol.)
+of 2009, dated 15- 7-2016, held that outstanding sum of invoices is akin to
+loan advanced by assessee to foreign AE., hence it is an international
+transaction as per explanation to section 92 B of the Act. We also perused
+decision relied upon by Ld.Counsel. In our considered opinion, these are
+factually distinguishable and thus, we reject argument advanced by Ld.Counsel.
+
+Alternatively, it has been argued that working capital adjustment subsumes
+sundry creditors. In such situation computing interest on outstanding
+receivables and lones and advances to international transaction would amount
+to double taxation. Hon'ble Delhi Tribunal in case of Orange Business Services
+India Solutions Pvt. Ltd. vs. DCIT in ITA No. 6570/Del/2016 vide its order
+dated 15.2.2018 has observed that:
+
+"There may be a delay in collection of monies for supplies made, even beyond
+the agreed limit, due to a variety of factors which would have to be
+investigated on a case to case basis. Importantly, the impact this would have
+on the working capital of the assessee would have to be studied. It went on to
+hold that, there has to be a proper inquiry by the TPO by analysing the
+statistics over a period of time to discern a pattern which would indicate
+that vis-à-vis the receivables for the supplies made to an AE, the arrangement
+reflected an international transaction intended to benefit the AE in some way.
+Similar matter once again came up for consideration before the Hon'ble Delhi
+High Court in Avenue Asia Advisors Pvt. Ltd. vs. DCIT (2017) 398 ITR 120
+(Del). Following the earlier decision in Kusum Healthcare (supra), it was
+observed that there are several factors which need to be considered before
+holding that every receivable is an international IT(TP)A No.185(B)/2018  30
+transaction and it requires an assessment on the working capital of the
+assessee. Applying the decision in Kusum Health Care (supra), the Hon'ble High
+Court directed the TPO to study the impact of the receivables appearing in the
+accounts of the assessee; looking into the various factors as to the reasons
+why the same are shown as receivables and also as to whether the said
+transactions can be characterized as international transactions."
+
+In view of the above, we deem it appropriate to set aside the impugned order
+on this issue and remit the matter to the file of the Assessing Officer/TPO
+for deciding it in conformity with the above referred judgment. Needless to
+say, the assessee will be allowed a reasonable opportunity of being heard in
+such fresh proceedings. Accordingly these ground raised by assessee stands
+allowed for statistical purposes.
+
+Ground No. 6 is in respect of interest under section 230 4B and C which is
+consequential in nature and therefore do not require adjudication.
+
+13\. In the result appeal filed by assessee stands allowed partly for
+statistical purposes.
+
+Order pronounced in the open court on 28-08-2019 Sd/- Sd/-
+
+    
+    
+    (J.SUDHAKAR REDDY)                                   (BEENA PILLAI)
+    ACCOUNTANT MEMBER                                 JUDICIAL MEMBER
+    Dated: the 28th August, 2019.
+    *am
+                                            IT(TP)A No.185(B)/2018
+                                      31
+    
+    Copy of the Order forwarded to:
+    1.Appellant;
+    2.Respondent;
+    3.CIT;
+    4.CIT(A);
+    5. DR
+    6. ITO (TDS)
+    7.Guard File
+                                                      By Order
+    
+                                                Asst.Registrar
+     
+

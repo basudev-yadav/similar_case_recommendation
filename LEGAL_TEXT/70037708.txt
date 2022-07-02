@@ -1,0 +1,2122 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Bechtel India Pvt. Ltd., New Delhi vs Assessee on 14 October, 2015
+
+    
+    
+    ITA No.882/D/2014
+    Asstt.Year: 2009-10
+    
+                     IN THE INCOME TAX APPELLATE TRIBUNAL
+                            DELHI BENCH `I' NEW DELHI
+    
+             BEFORE SHRI S.V. MEHROTRA, ACCOUNTANT MEMBER
+                                   AND
+               SHRI CHANDRA MOHAN GARG, JUDICIAL MEMBER
+    
+                               I.T.A.No.882/Del/2014
+                              Assessment Year : 2009-10
+    
+    
+    Bechtel India Pvt. Ltd.,        vs          DCIT,
+    418, Naurang House,                          Circle-2(1),
+    21, K.G. Marg,                               New Delhi.
+    New Delhi.
+    (PAN: AAACB0298A)
+     (Appellant)                         (Respondent)
+                 Appellant by: S/Shri S.D. Kalipa, R.R.Maurya, Praveen Sharma,
+                 Sanjay Kumar, Advocates
+            Respondent by : S/Shri Ravi Jain, CIT DR, Subhakant Sahoo, Sr. DR
+                                   Date of last hearing: 12.10.2015
+                               Date of pronouncement: 14.10.2015
+                                   ORDER
+    
+
+PER CHANDRAMOHAN GARG, J.M.
+
+This appeal by the assessee has been preferred against the order of DCIT,
+Circle 2(1), New Delhi dated 6.1.2014 passed u/s 143(3) r/w section 144C of
+the Income Tax Act, 1961 (for short the Act) in pursuance to the directions of
+the Dispute Resolution Panel-I (DRP), New Delhi dated 26.11.2013 u/s 144C(5)
+of the Act for AY 2009-10.
+
+2\. In the beginning of the argument, ld. Counsel appearing for the assessee
+submitted that the assessee does not want to press ground no. 1, 2, 3.6, 3.7,
+3.8  1 ITA No.882/D/2014 Asstt.Year: 2009-10 and 4, therefore, we dismiss the
+same as not pressed. Remaining grounds for adjudication read as under:-
+
+> "3. That on facts and circumstances of the case and in law, the Ld. AO/Ld.
+> TPO/Ld. Dispute Resolution Panel ("DRP") erred in making an addition of Rs.
+> 57,46,70,024/- to the returned income of the Appellant by re-computing the
+> arm's length price of the international transactions under section 92 of the
+> Act. Thus, in passing the order, the Ld. AO/Ld. TPO/Ld. DRP erred in:
+
+> 3.1 Rejecting the comparable companies set adopted by the Appellant in its
+> transfer pricing documentation on the basis of additional/modified
+> quantitative filters which lacked valid and sufficient reasoning.
+
+> 3.2 Ignoring the comparable set proposed by Appellant as a result of fresh
+> benchmarking study without assigning any reasoning.
+
+> 3.3 Accepting companies which were functionally not comparable to the
+> Appellant in terms of Functions, Assets and Risk profile.
+
+> 3.4 Including companies with high/supernormal margins in the comparable set
+> adopted.
+
+> 3.5. Including government held enterprises in the final comparable set
+> adopted.
+
+> 3.6 Not providing the benefit of economic adjustment on account of
+> difference in working capital profile and thus not following the binding
+> directions of Hon'ble DRP.
+
+> 3.7 Denied the benefit of economic adjustments on account of difference in
+> risk profile in arriving at the arm's length mean margin.
+
+> 3.8 Considered reimbursements as part of the operating cost and recomputed
+> the profit margin of the Appellant. Further, the Ld. TPO did not follow a
+> consistent approach by not considering reimbursement received as part of
+> operating revenue on the same principle. Further, the Ld. DRP has not given
+> its directions against the specific plea raised by the Appellant on the said
+> issue.
+
+> 5\. That in the facts and circumstances of the case and in law, the Ld. AO
+> erred in disallowing the loss of INR 21,80,46,325/- incurred by the assessee
+> on re-measuring the foreign exchange forward contract i.e. 'Mark to Market
+> Losses' as on balance sheet date.
+
+2
+
+ITA No.882/D/2014 Asstt.Year: 2009-10 5.1 That the Ld. AO erred in holding
+that the Mark to Market losses in respect of re-measuring the foreign exchange
+forward contract as on balance sheet date are notional and contingent in
+nature.
+
+5.2 That the Ld. AO erred in placing reliance on Instruction No. 3/2010 dated
+23 March 2010 issued by the Central Board of Direct Taxes, as this instruction
+is issued with respect to assessees trading in forex-derivatives. Also, the
+instruction is issued after the year under consideration. Thus, accordingly
+the same is not applicable to the assessee. Further, the said this Instruction
+is ultra vires to the scope of section 119 of the Income-tax Act, 1961 being
+prejudicial to the interest of the assessee.
+
+5.3 That the Ld. AO erred in holding that Mark to Market losses in respect of
+re-measuring the foreign exchange forward contract as on balance sheet date is
+not allowable as the forward contracts have not been taken for the purpose of
+business on raising of export invoice but taken without due exposure.
+
+5.4 That the Ld. AO erred in disregarding the order passed by the Hon'ble
+Delhi Bench of the Income Tax Appellate Tribunal in the Appellant's own case
+for the assessment year 2008-09 reported as Bechtel India (P.) Ltd. vs. ACIT
+[2013] 33 taxmann.com 213 wherein the mark to market losses in respect of
+foreign exchange forward contracts as on the balance sheet date was allowed to
+the Appellant.
+
+6\. That the Ld. AO has erred in charging interest under section 234B, 2340
+and 244A of the Act amounting to INR 13,40,39,006.
+
+7\. That on the facts and in the circumstances of the case and in law, the Ld.
+AO has erred in initiating penalty proceedings under section 271(1)(c) of the
+Act."
+
+Ground no. 3 to 3.5 of the assessee
+
+3\. Apropos these grounds, we have heard arguments of both the sides and
+carefully perused the relevant material placed on record.
+
+4\. Ld. Counsel of the assessee submitted that the ld. DRP and the AO erred in
+making an addition of Rs. 57,46,70,024 to the returned income of the  3 ITA
+No.882/D/2014 Asstt.Year: 2009-10 assessee by recomputing ALP of the
+international transaction u/s 92 of the Act. Ld. Counsel further contended
+that the TPO was not justified in rejecting the comparable companies set
+adopted by the Appellant in its transfer pricing documentation on the basis of
+additional/modified quantitative filters which lacked valid and sufficient
+reasoning. Ld. Counsel further contended that the TPO was not correct in
+ignoring the comparable set proposed by Appellant as a result of fresh
+benchmarking study without assigning any reasoning and accepting companies
+which were functionally not comparable to the Appellant in terms of Functions,
+Assets and Risk profile. Ld. counsel vehemently contended that TPO/DRP and the
+AO were incorrect on facts and in law in including companies with
+high/supernormal margins in the comparable set adopted for benchmarking
+impugned transaction of the assessee and in including government held
+enterprise in the final comparable set adopted for benchmarking international
+transaction of the assessee and for making impugned said addition to the
+returned income of the assessee by recomputing the ALP of the alleged
+international transaction u/s 92 of the Act.
+
+5\. Ld. Counsel further elaborated the background and factum of the case and
+submitted that the assessee company is a captive service provider, providing
+engineering design and related services to its Associated Enterprises (AEs) to
+support the overseas office's turnkey project execution. Referring to Paper
+Book pages 382-481, ld. Counsel submitted that as per brief overview of the
+academic analysis conducted in the TP study, a provision of engineering design
+4 ITA No.882/D/2014 Asstt.Year: 2009-10 related service revenue was Rs.43.46
+crore and by applying Transactional Net Margin Method (TNMM), the appellant's
+PLI was 12.57% by taking OP/OR as PLI after undertaking adjustment for ideal
+capacity and foreign exchange fluctuation and after considering the margin of
+comparable in TP study i.e. - 4.49%, the final adjustment was captured as
+Rs.6,22,45,957/-, whereby the TPO proposed margin of 32.47% without providing
+adjustment towards working capital, risk and ideal capacity. Ld. Counsel
+further pointed out that after ld. DRP ruling, the margin after providing
+working capital adjustment was 15.34% wherein risk and ideal capacity
+adjustment was not provided by DRP/TPO for making impugned addition.
+
+6\. Ld. Counsel of the assessee reiterating its written submissions dated
+17.6.2015 spread over 7 pages submitted that in the Transfer Pricing study,
+the assessee selected 7 comparables while the TPO accepted that the assessee
+is in the business of providing engineering support services and accepted TNMM
+as MAM and OP/TC as PLI the assessee as a tested party. Ld counsel submitted
+that the assessee mainly disputes selection of Certification Engineers
+International Ltd. (CEIL) and NTPC Electrical Supply CO. Ltd. (NTPCES) without
+any basis and the DRP has considered the issue of Related Party Transaction
+(RPT) even though specific objections were raised by the assessee. Ld. counsel
+further pointed out that the TPO applied this filter mechanically by taking
+into account monetary transaction between the holding company and CEIL by
+ignoring various non-monetary benefits like free or level-basis of  5 ITA
+No.882/D/2014 Asstt.Year: 2009-10 office facilities and secondments of
+employees by the holding company. Ld. Counsel contended that in the case of
+NTPCES, ld. DRP failed to note that this company does not even discuss RPT in
+its relevant annual report and it is pertinent to note that Schedule 9 of
+annual report clearly states that the amount payable to NTPC under the head
+current liability as on 31.3.2009 was Rs.12.87 crores which alone is 18% of
+its operating revenue.
+
+7\. Ld. Counsel further pointed out that while evaluating comparables of these
+two impugned companies, the DRP has ignored the material difference in
+functional, geographical location of party and related party transaction (RPT)
+and the sole criteria adopted by the ld. DRP for treating NTPCES and CEIL as
+suitable comparables is only with Bechtel India Private Ltd. These two
+companies employ high-end technological and engineering resources and
+personnel. Ld. Counsel vehemently contended that the DRP erred in analyzing
+the function of these entities in terms of resources employed and failed to
+consider the wide variation in skills and qualification of employees. In the
+light of broad functional profile of these companies which cannot be held as
+comparable for benchmarking international transaction of the present assessee
+company for the year under consideration, ld. Counsel pointed out that if
+these companies viz. CEIL and NTPCES are deleted from the final set of
+comparables, then the international transaction of the assessee would fall
+within the ambit of zero adjustment and, therefore, the same may kindly be
+deleted from the final set of comparables adopted by the ld. TPO/DRP and AO.
+Ld.  6 ITA No.882/D/2014 Asstt.Year: 2009-10 counsel in the written
+submissions submitted a table highlighting the difference between the assessee
+company and the impugned comparable i.e. NTPCES and CEIL which is being
+reproduced below for the sake of clarity and transparency in our findings:-
+
+    
+    
+    Sr.                   Bechtel India           NTPCES                                 CEIL
+    No.                                         Pg. 810/Vol.IV                     Pg. 765/Vol.-IV
+    1.     Operating      Rs. 178.36 Cr.        Rs.71.72 Cr.                   Rs. 24.75 Cr.
+           Revenue
+    2.     Status         Private          Government company 100%             Government Company. Till
+                          company-         subsidiary of National Thermal      1994, it was a division of
+                          incorporated     Power Corporation (NTPC),           Engineers India Ltd. (EIL), (
+                          in 1994 as       which is a Government               a government company)
+                          100%             company.                            from     which    it    was
+                          subsidiary of                                        demerged as a 100%
+                          Bechtel                                              subsidiary company.
+                          Corporation,
+                          USA.
+    3.     Function                        As per website NTPC. Com:
+                                           The company was formed on
+                                           August 21, 2002. It is a wholly
+                          Rendering        owned subsidiary company of
+                          Engineering a    NTPC with the objective of          Third Party Inspection
+                          support          making a foray into the             (TPI), & Certification olf
+                          service          business of distribution and        equipment supplied by
+                          including        supply of electrical power, as a    vendors and fabrication or
+                          related          sequel to reforms initiated in      installation  work       of
+                          design and       the power sector.            The    Contractors of       ONGC
+                          drawings as      company was also mandated           under a MOU between EIL
+                          per              to take up consultancy and          & ONGC dt. 11/4/1985 on
+                          specifications   other assignments in the area       nomination basis. (Ref. Pg.
+                          of     foreign   of     Electrical    Distribution   765-773, 803-805/Vol.-IV).
+                          AEs.             Management System. (Copy of         Terms of MOU are not
+                                           screenshot at Annexure 1A)          known. Also carries on
+                                           As per Schedule 17 of AR (pg.       similar TPI & Certification
+                                           843 of Vol.-IV/AR) The              work independently for
+                                           company is operating in a           other PSUs.
+                                           single segment, that is,
+                                           providing consultancy, project
+                                           management and supervision
+                                           services."
+                                           Extracts from AR:
+                                           It executes turnkey contracts
+                                           for XIth Plan electricity supply
+                                           projects entrusted/awarded to
+    
+                                                     7
+     ITA No.882/D/2014
+    Asstt.Year: 2009-10
+    
+                                       it by government companies
+                                       and Departments. Has JV for
+                                       retain distribution of power in
+                                       Kerala.
+                                       It is "Entrusted the work of
+                                       rural electrification of 4107
+                                       villages" Pan India Rural
+                                       electrification under Rajiv
+                                       Gandhi Grameen Vidyutikarna
+                                       Yojana        (RGGVY)-Achieved
+                                       electrification of 4107villages
+                                       execution of Turn Key Projects,
+                                       providing        third      party
+                                       inspection services. JV for
+                                       retail distribution of power &
+                                       Project             Management
+                                       Consultancy to Discoms and
+                                       Power generating companies.
+                                       Its functional profile is similar
+                                       to Bechtel USA, holding
+                                       company (Pg.1/DRP order).
+                                       The           contracts/projects
+                                       'entrusted' (Pg. 811/Vol.- IV).
+                                       (Ref. Pg. 810-812, 835-838,
+                                       843/Vol.-IV.)
+    4.     Geographical International- Domestic customers-Nil export Domestic             customers-
+           Market        100%                                            Insignificant export of
+                         exporter of                                     service.
+                         service.
+    5.     Forex         Yes           Nil                               Insignificant Forex earning
+           Fluctuation                                                   3.75%       of     operating
+           Risk                                                          revenue. (Schd. 3(3) at pg.
+                                                                         803/Vol.-IV
+    6.     RPT (DRP has 100%           1)RPT not reported in A.R
+           failed     to               Transactions      mainly     with 1)RPT declared are only
+           consider                    related       parties     (other monetary         transactions
+           objection)                  Government Company/Govt. with Holding Co. only
+                                       Departments)                      (19.60%) Transactions with
+    
+
+Schd. 9 of A.R current Liability other AEs like ONGC, IOCL
+
+i)"Amount payable to NTPC etc. not quantified, (Pg.
+
+    
+    
+                                       Ltd. Rs. 12.87 crores (Pg. 215/Vol-II/DRP
+                                       835/IV.)                          submission)
+                                       ii) Schd. 17, Notes on
+                                       Accounts:                         SCHEDULE J
+                                       "5) All the employees of the
+                                       company are on secondment (Notes on accounts)
+                                       from the Holding Company,
+                                                                         "5) The jobs awarded by
+                                       "9) The common services
+                                                                         ONGC on nomination
+                                       being utilized by the Company
+                                                                         basis are being governed
+                                       for it's office at NOIDA are
+                                                                         by the MOU signed
+                                       provided without any charges
+                                                                         between EIL & ONGC
+    
+                                                   8
+     ITA No.882/D/2014
+    Asstt.Year: 2009-10
+    
+                                    by the Holding Company. "(Pg.      dated 11/4/1985.
+                                    844/Vol-IV)
+                                    All employees on secondment        6) The company has a
+                                    from NTPC at cost.                 Memorandum               of
+                                    Benefits received from Holding     Understanding          with
+                                    company not monetised in the       Engineers India Ltd. (The
+                                    A.R.                               Holding Company) for
+                                    Revenues        are       from     providing         manpower
+                                    Government          companies/     services, office space and
+                                    Departments, which must be         facilities etc. The MOU
+                                    considered as related parties.     provides level basesd fixed
+                                    Reliance placed on ITAT order      man hour/man-day rates
+                                    in Thyseen Krupp Pg. 678 at        for       EIL    employees,
+                                    694/Vol-III.             Note:     inclusive of overheads and
+                                    Contracts/projects for rural       fixed annual cost towards
+                                    electrification schemes        '   space, infrastructure and
+                                    entrustesd'/ sanctioned to         facilities etc. provided by
+                                    NTPCES under Rajiv Gandhi          EIL.
+                                    Vidyutidaran Yojana are not
+                                    awarded under open tender          The company also has a
+                                    as per CVC Circular dt.            Memorandum               of
+                                    3/3/2007.                          Understanding          with
+                                                                       Engineers India Limited for
+                                                                       providing       manpower
+                                                                       services to EIL at actual
+                                                                       cost plus 10% margin."
+    
+                                                                       CEO's salary paid by EIL.
+    
+                                                                       Ref. (804/Vol-IV)
+    
+                                                                       Note: Contracts awarded
+                                                                       to CEIL by ONGC on
+                                                                       'nomination basis' under
+                                                                       MOU with EIL are not
+                                                                       entered into open tender
+                                                                       as per CVC Circular dated
+                                                                       3/3/2007.
+    
+    
+    
+    
+    
+
+8\. First of all, we find it appropriate to consider the comparability of
+NTPCES and CEIL with the assessee company i.e. Bechtel India Pvt. Ltd. As per
+aforesaid contention of the assessee, both these companies are not a suitable
+comparable for benchmarking international transaction of the assessee Bechtel
+9 ITA No.882/D/2014 Asstt.Year: 2009-10 India Pvt. Ltd., therefore, the AO/TPO
+may be directed to delete the same from the final set of comparables. Ld.
+Counsel also pointed out that after deletion of these impugned comparables,
+the international transaction of the assessee company would fall within 5% + -
+limit and there would be no requirement of making any transfer pricing
+adjustment to the returned income of the assessee.
+
+9\. Replying to the above, ld. DR contended that for AY 2009-10, the TPO/AO
+rightly held that impugned two companies are suitable comparable for
+benchmarking international transaction of the assessee company as functional
+profile of these companies are similar to the assessee company and mere
+pointing out some micro differences do not lose the title of comparability
+with the assessee company. Ld. AR also contended that the assessee company
+rendering engineering design, project support including design as per
+specification of foreign AE and impugned two companies NTPCES and CEIL are
+also rendering services in the similar field, therefore their suitability and
+comparability cannot be challenged on the frivolous and petty grounds.
+Adjudication of comparability of NTPCES with the assessee company
+
+10\. On careful consideration of above submissions of both the sides, we find
+it appropriate to consider the issue of comparability of NTPCES and CEIL one
+by one with the assessee company Bechtel India Pvt. Ltd. Ld. Counsel
+reiterating its written submissions and comparability table therein submitted
+that the assessee company is a private company incorporated in 1994 as 100%
+subsidiary of Bechtel Corp USA. Elaborating the functional profile of the  10
+ITA No.882/D/2014 Asstt.Year: 2009-10 assessee company, ld. Counsel submitted
+that the main function of the assessee company is rendering engineering
+support services by way of preparing and supplying designs and drawings as per
+the specifications of the foreign AEs i.e. Bechtel Corporation USA. Ld.
+Counsel further pointed out that the assessee company is securing operating
+revenue of Rs.178.36 crore from its 100% export of services to its AE having
+forex fluctuation risk and 100% related party transactions (RPT) and DRP has
+failed to consider these important factual aspects while rejecting the
+objections of the assessee company to the comparability of NTPCES.
+
+11\. Ld. Counsel further pointed out that NTPCES is a 100% government owned
+company subsidiary to the National Thermal Power Corporation (NTPC). Ld.
+Counsel further pointed out that NTPCES was formed on 21.8.2002 is wholly
+owned subsidiary of NTPC with the objective of making a foray into the
+business of distribution and supply of electric power as a sequel to reforms
+initiated in the power sector. Ld. Counsel also submitted that NTPCES was also
+mandated to take up consultancy and other assignments in the area of electric
+distribution management system and the company is also operating in a single
+segment of providing consultancy, project management and supervision services.
+
+12\. Ld. Counsel further pointed out that NTPCES executed turnkey contracts
+for XIth Plan electricity supply projects entrusted/awarded to it by
+government companies and departments under joint venture for retaining
+distribution of  11 ITA No.882/D/2014 Asstt.Year: 2009-10 power in Kerala. Ld.
+counsel further pointed out that this company was also entrusted the work of
+rural electrification of 4107 villages under Rajiv Gandhi Grameen Vidutikarana
+Yojana (RGGVY) for achieving electrification of these villages and execution
+of Turn Key Projects providing third party inspection service. Ld. Counsel
+also pointed out as per page observations in the DRP order, NTPCES also got
+joint venture assignment for retail distribution of power management
+consultancy to DISCOMs and power generating company. Ld. counsel also pointed
+out that NTPCES has all domestic customers specially government companies and
+department having no export services and the same cannot be held as comparable
+with the assessee company having 100% export of services outside India to its
+AE only.
+
+13\. Ld. Counsel also pointed out that the assessee company is having 100% RPT
+with its AE whereas RPT of NTPCES has not been reported in the annual report
+and this company has undertaken transaction mainly with the related parties
+such as government companies and government departments. Ld. Counsel also
+pointed out that as per annual report of the NTPCES during the financial
+period under consideration the amount of Rs.12.87 crore was payable to the
+NTPC Ltd. and as per notes on account, all the employees of NTPCES are on
+settlement from the holding company and the NTPCES was utilising common
+services for its office at Noida provided without any charges by the holding
+company. Ld. Counsel vehemently contended that all the employees of NTPCES are
+on secondment from the holding company at cost and benefits  12 ITA
+No.882/D/2014 Asstt.Year: 2009-10 received from holding NTPCES are not
+monetised in the annual report. Placing reliance on the judgment of ITAT in
+the case of Thyseen Krupps India (Pvt.) Ltd. vs ACIT (2013) 33 Taxman.com 107
+(Mumbai Tribunal). Ld. Counsel submitted that when a comparable has two
+segments and its revenue from comparable segment is complete in itself and is
+not influenced by inter-segment revenue, comparability in such a case has to
+be examined at segmental level and not entity level. Ld. counsel also pointed
+out para 12.8.1 and 12.8.2 of the order of the ITAT in the case of Thyseen
+Krupps (supra) and submitted that if related party transactions are much more,
+then the filter of 25%, is not a suitable comparable and therefore, the order
+for the exclusion of the same would be appropriate.
+
+14\. Ld. counsel of the assessee pointed out that TPO was not correct in
+applying the filters by taking companies whose income is less than Rs.5 crore
+as the analysis would not lead to a proper comparability and moreover their
+low cost/sales base makes their result unreliable. Ld. counsel also pointed
+out that companies whose revenue from engineering support services is less
+than 75% of the total operative revenue should be excluded. The ld. Counsel
+also pointed out that the ld. DRP in its order dated 16.12.2014 for AY 2005-06
+has concluded that NTPCES is not functionally comparable with the assessee
+Bechtel India. He took us through operative para at pages 5-6 of the DRP order
+(supra).
+
+13 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+15\. Replying to the above, ld. DR pointed out that business profile of the
+assessee company as taxpayer recorded by the DRP in para 3 page 2 of the DRP
+order and submitted that the assessee company has less complex o NTPCES and
+CEIL operations and was accordingly selected as a tested party for the TP
+analysis. Ld. DR supporting the observations of the DRP submitted that NTPCES
+is into services requiring high end technology and engineering advances,
+therefore, this company is functionally quite similar to the assessee
+Bechtell. Ld. DR also pointed out that as per annual report of the NTPCES the
+assessee company also has similar functional profile, therefore, the DRP was
+right in upholding the conclusion of the TPO in this regard wherein NTPCES was
+included in the final set of comparables.
+
+16\. On careful consideration of above submissions of both the sides, we note
+that the business and functional profile of assessee company as tax payer, as
+noted by the DRP reads as under:-
+
+> "Business Profile of Bechtel India as per taxpayer:
+
+> • Bechtel Corporation, USA ('hereinafter referred to as Bechtel USA') set up
+> a subsidiary company in India viz BIPL in April 1994 to render engineering
+> support service in respect of engineering designs and drawings, BIPL
+> executes engineering designs and drawings for various overseas group
+> entities to support the overseas offices' turnkey project execution.
+
+Presently, BIPL undertakes engineering design and related services for its
+overseas group companies. ' • The development of the Arm's length Price
+('ALP') by the taxpayer recognizes that BIPL performs contract engineering
+design services for its group companies. BIPL leverages on all the valuable
+intellectual Property ('IP') Right  14 ITA No.882/D/2014 Asstt.Year: 2009-10
+('IPRs') [know-how, copyrights, etc] and other commercial processes,
+methodologies, etc. belonging to its AEs. Further, the Group is involved in
+complex operations of marketing, bidding for projects, providing turnkey
+solutions, project management and adhering to delivery timelines. BIPL
+provides engineering design services exclusively to its overseas AEs. Based on
+above, BIPL has less complex operations, bears lesser share of risks and was
+accordingly selected as the tested party for the analysis ."
+
+In view of rival submissions of both the sides, at the very outset, we note
+that the assessee Betchell India (BIPL) is a private company incorporated in
+India in April 1994 as Bechtell Corporation, USA. Admittedly and undisputedly,
+as per business and functional profile of the assessee company, the assessee
+company is rendering support services of engineering design and drawing,
+execution of engineering designs and drawing for various overseas group
+entities to support the overseas offices in turnkey project execution. The
+assessee company also undertakes engineering design and relates services for
+its overseas group companies. From the aforesaid business and functional
+profile it is amply clear that the assessee company performs contract
+engineering design services for its group companies. BIPL leverages on all the
+valuable intellectual Property ('IP') Right ('IPRs') and other commercial
+processes, methodologies, etc. belonging to its AE i.e. Bechtell Corporation
+USA. The DRP has also recorded that the entire Group is involved in complex
+operations of marketing, bidding for projects, providing turnkey solutions,
+project management and adhering to delivery timelines. The assessee company
+only provides engineering design services exclusively to its overseas AEs and
+the assessee has less complex operations, bears lesser share of risk.
+
+Ld. DR has not disputed and could not demolish this fact that as per website
+of NTPC.com the NTPCES is a wholly owned subsidiary company of NTPC with the
+objective of making a foray into the business distribution and supply of
+electrical power as a sequel to reform initiated in the power sector. We
+further note that undisputedly NTPCES was also mandated to take up consultancy
+and other assignments in the area of electrical distribution management
+system. From page 843 of volume 4 of assessee's paper book, NTPCES is
+operating in a  15 ITA No.882/D/2014 Asstt.Year: 2009-10 single segment i.e.
+providing consultancy, project management and supervision services.
+
+However, ld. DR has pointed out that except micro dissimilarities the main
+business and functional profile of the assessee company is quite similar to
+NTPCES but he could not demolish this factum that the NTPCES executed turnkey
+contracts for 11th plan electricity supply projects awarded to it by the
+Government companies and electrical departments which also includes activity
+of distribution of power in Kerala. Undisputedly, the NTPCES was also provided
+work contract of rural electrification of 4107 villages, execution of turnkey
+projects and also provided third party inspection services. While the NTPCES
+is also rendering services for retail distribution of power and management
+consultancy to DISCOMs and other power generating companies, then its
+functionality with the asessee company cannot be held as comparable. We are
+also not in agreement with the conclusion of the DRP/TPO that the functional
+profile of NTPCES is similar to Bechtell Corporation USA i.e. holding company
+because we have to compare comparability of assesee company and not its
+holding company.
+
+Turning to the issue of geographical markets of both the companies,
+undisputedly assessee company having international transactions only with AE
+exporting 100% services to Bechtell Corporation USA whereas the NTPCES has nil
+exports having 100% domestic customers who are government companies and
+departments. We cannot also ignore this fact that the assessee Bechtell has
+100% related party transaction with its AE and RPT have not been reported in
+the annual report of the NTPCES. It cannot be ignored that the contracts
+purchased for rural electrification schemes essential to NTPCES under Rajiv
+Gandhi Grameen Vidutikarana Yojana (RGGVY) were not awarded under open tender
+as per CVC Circular dated 3.3.2007 and on specific query from the Bench. Ld.
+DR could not point out any fact demolishing this factum.
+
+When we consider the ratio laid down by ITAT Mumbai in the case of
+Thyssenkrupp India (P) Ltd. vs ACIT (Mumbai) we note that the ITAT Mumbai has
+categorically held that when the related party transactions are much more than
+the filter of 25%,  16 ITA No.882/D/2014 Asstt.Year: 2009-10 then the same
+should be excluded. The relevant observations of the Tribunal at page 694 read
+as under:-
+
+"12.8.1 Next is the case of Engineers India Limited, which was included by the
+TPO at his own. The learned Counsel for the assessee contended that this case
+should be ignored because it is a Government Undertaking. It was further
+pointed out that most of its customers of the 'Turnkey project division' are
+related parties, being, other Public Sector Undertakings, which is much more
+than the filter of 25%. The learned Departmental Representative, however,
+accentuated that the TPO was right in including this case in the list of
+comparables.
+
+12.8.2 We find it as undisputed that Engineers India Limited is a Government
+company. It has several segments which also include Turnkey project'. Page 700
+of the paper book is a copy of annual report of Engineers India Limited on
+turnkey project. It can be seen that the revenue has arisen from completing
+Paraxylene Plant of IOCL and further that company is engaged in execution of
+other unit of IOCL's Panipat Naphtha Cracker Project. In our considered
+opinion, this case should not have been included in the list of final
+comparables for two reasons. First reason is that profit motive is not a
+relevant consideration in case of Government undertakings. Many Government
+Undertakings even operate on losses in furtherance of the social obligations
+of the government. The second reason is that Engineers India Limited earned
+income from turnkey project by successfully completing the project of IOCL and
+other Public Sector Undertakings. In that sense of the matter, the related
+party transactions are much more than the filter of 25%. We, therefore, order
+for the exclusion of this case from the list of comparables."
+
+17\. In view of proposition laid down by the ITAT, Mumbai, we observe that in
+that case, Engineers India Ltd. earned income from turnkey projects by  17 ITA
+No.882/D/2014 Asstt.Year: 2009-10 successfully completing the project of IOCL
+and other public sector undertaking and the related party transaction were
+much more than the filter of 25%, therefore, the order for exclusion of
+Engineers India Ltd. was passed by the Tribunal. In the present case, the
+NTPCES was sheltered by its holding company NTPCES and government companies
+and departments awarded/entrusted various projects/contracts for rural
+electrification, distribution of power and project management consultancy,
+therefore, NTPCES loses the tag of comparability with the assessee Bechtell
+India. We also find it appropriate to mention that it cannot be ignored that
+the NTPCES is also enjoying settlement of all employees from the holding
+company NTPCS at cost and the benefits received from the holding company and
+related party transactions (RPT) are not monetised in the annual report and in
+absence of specific data in this regard, NTPCES cannot be held as comparable
+with the assessee company. Therefore, AO/TPO was not justified in including
+NTPCES in the final set of comparables for benchmarking impugned international
+transaction of the assessee company and they are directed to delete the same.
+We order accordingly.
+
+Adjudication of comparability of CIEL with the assessee company
+
+18\. Ld. counsel of the assessee company reiterated the functionality of the
+assessee company Bechtell India submitted that the CIEL is not functionally
+similar to the assessee company due to its special features and monopoly based
+contract awarding privileges granted by ONGC and other government  18 ITA
+No.882/D/2014 Asstt.Year: 2009-10 companies. Ld. Counsel strongly contended
+that the CIEL is a government company and it was a division of Engineers India
+Ltd. till 1994 from which it was demerged as a 100% subsidiary company of
+Engineers India Ltd. (EIL). Ld. Counsel pointed out that CIEL undertakes third
+party inspection and certification of equipment supplied by the vendors and
+fabrication and installation work of contracts of ONGC under MOU between EIL
+and ONGC dated 11.4.1985 on nomination basis. Referring to page 365 to 773 and
+803 to 805 Volume IV of assessee's paper book submitted that the terms of said
+MOU are not known and open to the public domain and hence it can be safely
+inferred that the CIEL is enjoying the benefits of awarding of contact work on
+nomination basis without any open tender from its holding company EIL and
+other government companies. Ld. Counsel also pointed out that the CIEL also
+carries on similar Third party inspection (TPI) and certification work
+independently for other public sector undertaking and it cannot be compared
+with assessee Bechtell India who is rendering only engineering support
+services including related drawing and design, as per specification of foreign
+AE. Ld. Counsel vehemently contended that the assessee Bechtell India is
+providing primary engineering support services along with design and drawings
+as per specification of the foreign associated enterprise which clearly
+denotes primary and preparatory work for intuition of execution of work
+contract whereas the CIEL provides services of third party inspection (TPI)
+and certification of equipment supplied by the vendors and fabrication and
+installation of work  19 ITA No.882/D/2014 Asstt.Year: 2009-10 contracts of
+ONGC which is a service rendered after commissioning and installation of
+project.
+
+19\. Ld. Counsel also pointed out that CIEL provides aforesaid services to its
+domestic government companies and PSU having insignificant export of services
+whereas the assessee Bechtell India is exporter of 100% services to its AE.
+Ld. Counsel also pointed out that the assessee Bechtell India receives its
+remuneration/revenues from its AE in foreign exchange having forex fluctuation
+risk whereas the CIEL having insignificant forex earning of 3.75% of operating
+revenue as per Schedule III at page 803 of Volume IV of paper book of the
+assessee. Ld. Counsel vehemently contended that the related party transaction
+(RTP) are 100% in the case of asessee Bechtell India whereas the RTP of CIEL
+are only monetary transaction with the holding company having 19.60%
+transaction with ONGC, IOCL etc. which are not quantified. Ld. Counsel also
+pointed out that the jobs awarded by ONGC on nomination basis are being
+governed by the MOU or by holding company dated 11.4.1985.
+
+20\. Ld. Counsel also pointed out that contracts being awarded to CIEL for
+rural electrification schemes sanctioned to NTPCES are not awarded under open
+tender as per CVC Circular dated 3.3.2007 and hence, this company having
+privilege of awarding contracts and job on nomination basis without any open
+tender cannot be held as functionally comparable with the assessee company.
+
+21\. Replying to the above, ld. CIT DR submitted that apart from engineering
+design, project support and procurement services also has objects like project
+20 ITA No.882/D/2014 Asstt.Year: 2009-10 monitoring and control and
+construction services. Thus, functionally it is no different from
+Certification Engineers International Ltd. (CEIL). Ld. DR also pointed out
+that unlike the 1980s, government companies now carry on business in an
+environment of open competition and therefore price paid by one PSU or
+government company to another for goods or services represents Arms's Length
+Price (ALP). Ld. CIT DR contended that in this situation of open market
+environment, MOU between EIL and ONGC referred to in the annual report of CIEL
+for FY 2008-09 pertaining to AY 2009-10 has no relevance.
+
+22\. Ld. CIT DR also submitted that the TPO rightly observed that since a
+person holding voting shares of 26% in a company is considered to be its AE
+u/s 92A(2)(b), therefore, RPT filter of 25% of total revenue is justified,
+therefore, RPT filter of 25% without recognizing non-monetized benefits
+flowing from holding company to CEIL/NTPCES has been correctly applied. Ld.
+CIT DR strongly contended that the transactions between two government
+companies or public sector undertakings should not be considered to be related
+party transactions because shares in government companies are held by the
+President of India merely in the name and no effective control is exercised by
+him. Ld. CIT DR lastly submitted that no adverse inference needs to be drawn
+from non-disclosure of transactions between two state-controlled enterprises
+as no such requirement is prescribed in AS-18. Ld. DR finally submitted the
+action of the AO/TPO by inclusion of CIEEL in the final set of comparables for
+benchmarking of impugned international transactions of the assessee company.
+21 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+23\. Ld. Counsel of the assessee also placed rejoinder to the aforesaid
+submissions and contentions of the ld. CIT DR and submitted that the ld. DRP
+has duly noted the business functions of the assessee and have reproduced the
+same at page 2 of its order u/s 144C (5) of the Act. Ld. Counsel of the
+assessee vehemently contended that the ld. DRP agrees that the conclusion of
+the ld. TPO that the assessee Bechtel India is primarily engaged in rendering
+engineering support services by way of procuring and supplying design and
+drawings as per specifications of the AE by using the IPR supplied by the AE
+Bechtel Corporation USA. Ld. Counsel further pointed out that it is for this
+reason that the DRP upheld the two filters applied by the AO for the purpose
+of selecting comparables viz. (i) companies having revenue of less than Rs. 5
+crore from rendering support services and; (ii) revenue from engineering
+support services is less than 75% of total operating revenue. Ld. Counsel also
+canvassed another submission that the ld. TPO/DRP have applied aforesaid two
+filters for selecting comparables because they accept that the primary
+business of the assessee company is of procuring design and drawings for AE
+enabling them to execute engineering products for clients outside India. Ld.
+Counsel contended that the ld. TPO/DRP have wrongly rejected the assessee's
+objection regarding inclusion of CIEL on altogether different basis i.e. the
+issue regarding functional non-comparables; is also not acceptable that in the
+cases of TNMM analysis one examines the comparables at a very broad level
+unlike CUP analysis where exact similarity is required. Ld. Counsel has also
+drawn our  22 ITA No.882/D/2014 Asstt.Year: 2009-10 attention towards relevant
+part of the DRP order available at page 48 of the assesse's paper book wherein
+sole criterion adopted by the DRP for treating NTPCES and CIEL s comparable to
+the assessee is that like Bechtel India, these two companies employ high-end
+technology and handling sources and personnel.
+
+24\. Ld. Counsel finally pointed out that CIEL is not functionally comparable
+with the assessee Bechtel India not only due to aforesaid reasons but related
+party transaction declared by CIEL withholding company are only 19.60% and
+transaction with other AE/government companies and departments like ONGC, IOCL
+etc. are not quantified. To support this contention he has drawn our attention
+towards assessee's paper book Volume II page 215 the submission of the
+assessee before DRP. Ld. Counsel parted with the argument that the AO/DRP/TPO
+should be directed to delete CIEL from the final set of comparables which is
+clearly functionally different with the assessee company.
+
+25\. On careful consideration of above rival submissions of both the sides, t
+the very outset, let us deal with the issue of related party transactions
+(RPT). Ld. DR relying on the TPO's observations submitted that since the
+person holding voting shares of 26% in a company is considered to be its AE
+u/s 92A(2)(b) of the Act, thereafter RPT filter of >25% of total revenue is
+justified. Ld. DR further pointed out that RPT filter of 25% without
+recognising non- monetized benefits flowing from the holding company
+CIEL/NTPCES has been correctly applied. Ld. DR has also contended and
+reiterated that the transaction  23 ITA No.882/D/2014 Asstt.Year: 2009-10
+between two government companies should not be considered to be RPT because
+shares in government companies are hold by the President of India merely in
+his name and there is no effective control exercised by him and they cannot be
+treated as related parties. To support this contention, ld. DR has placed
+reliance on the decision of ITAT Delhi in the case of Nokia India (P) Ltd. vs
+DCIT reported as 214-TII-224-ITAT-DEL-TP and ahs drawn our attention towards
+para no. 15 and 16 of this order and submitted that after considering the
+ratio of all relevant judgments and orders, the ITAT Delhi categorically held
+that the percentage of RPT to make a company as ineligible for comparison
+should be taken as more than 25% and not 15% as suggested on behalf of the
+assessee.
+
+26\. On the issue of RPT, it has been contended by the ld. Counsel of the
+assessee that 25% filter is not an appropriate filter for RPT and this test
+cannot be applied mechanically as if it has statutorily provided without
+exception. Ld. Counsel placing reliance on the decision of ITAT in the case of
+Motorola Solutions India (P) Ltd. in ITA No.5637/D/11 submitted that the RPT
+filter must not exceed 15%. Ld. Counsel vehemently contended that prerequisite
+of arriving at ALP with the transaction of tested party should be benchmarked
+with the uncontrolled transaction under Rule 10B(1)(e)(ii) of the Rules.
+Finally, ld. counsel submitted that the filter should be restricted to 15% of
+the total revenue. On careful consideration of above submissions, we are of
+the view that the ITAT Delhi in the case of Nokia India (P) Ltd. (supra) held
+that in principle if  24 ITA No.882/D/2014 Asstt.Year: 2009-10 any company
+though functionally comparable but is more than specific percentage of RTP,
+then the same should be ignored by treating as a controlled transaction. The
+Tribunal in this order further held that the percentage of RPT to make the
+company as ineligible for comparison should be taken as more than 25% and it
+was held that a company can be considered as incomparable if its RPT exceeds
+25%. The relevant operative part of this order in para 15 and 16 read as
+under:-
+
+> "15. The assessee has relied on the decision of BMW India Pvt. Ltd. vs.
+> Addl. CIT (ITA No. 5354/D/2012) dated 16th August, 2013. The assessee has
+> filed following additional written submissions to consider the judgment of
+> BMW India P. Ltd. (supra) while deciding the issue relating to AMP on behalf
+> of the assessee:
+
+> "Subject: Additional Written Submission to consider the judgment of BMW
+> India Pvt. Ltd. vs. Addl. CIT (I.T.A .No.-5354/DeIl2012) while deciding the
+> issue relating to advertising, marketing and promotion ("AMP") on behalf of
+> the Appellant. This is with respect to Motorola Solutions India Private
+> Limited ("MSILP") appeal no. ITA 56371 Dell 2011 for Assessment Year ("AY")
+> 2007-08. The hearings for the same were concluded on July 18, 2013 and the
+> order was reserved on that date. The matter is now awaiting pronouncement of
+> the decision by Your Honours. In the meantime the'!' Bench of the Hon'ble
+> Income Tax Appellate Tribunal ("Tribunal"), New Delhi has pronounced its
+> decision in the case of BMW India Pvt. Ltd. vs. Addl.. CIT (I.T.A .No.-
+> 5354/DeI/2012 for AY 2008-09) ("BMW India order"). The said order was passed
+> on August 16, 2013. Your Honours attention may kindly be drawn to the
+> following: As mentioned in the BMW India order, BMW India acted as a
+> distributor of motor vehicles and parts. During the year under consideration
+> in the order, under the Transactional Net Margin method ("TNMM") applied by
+> BMW India its operating profit margin was higher than the operating profit
+> margin of the comparable companies. During the transfer pricing assessment
+> proceedings, the Ld. Transfer pricing Officer ("TPO"), had alleged that BMW
+> India had incurred excessive AMP expenses vis a vis the comparable companies
+> and therefore, should have been reimbursed by the BMW Group for the
+> excessive AMP spend based on the bright line analysis along with a mark-Up.
+> The Hon'ble Dispute Resolution panel ("DRP") confirmed the additions made by
+> the Ld. TPO.
+
+On appeal by BMW India to the Hon'ble Tribunal, the Hon'ble Tribunal
+pronounced its decision on various issues related to AMP. As already  25 ITA
+No.882/D/2014 Asstt.Year: 2009-10 mentioned above, BMW India was a distributor
+during the year considered in the order. On these facts, the Hon'ble Tribunal
+held that this case is distinguishable from the decision of the Special Bench
+in L.G. Electronics case ("Special Bench") as the fact under consideration in
+BMW India is the remuneration model of a distributor and not that of a
+licensed manufacturer. The relevant text of the decision has been provided
+hereunder: (Para 6.20, page 50 of BMW India order): Quote On examination of
+contemporary Guidelines/jurisprudence on the subject, we are of the view that
+a distributor is rewarded by the entity for whom the distributor works and the
+rewards are guaranteed upto an extent and the risk component vis-a-vis a
+manufacturer is necessarily very less. The rewards can be and generally are
+based on pricing adjustments and can also be compensated over and above that
+if greater services are rendered and pricing adjustments have not covered the
+cost of routine services rendered. Generally speaking the remuneration model
+for a distributor is reward-based and rewards are based on the quantity of
+sales. Unquote The second point pronounced by the Hon'ble Tribunal was that
+during the year under consideration in the order, BMW India's operating profit
+margin was higher than that of the comparables. The comparable companies set
+and their margins were not disputed by the Ld. TPO and the Hon'ble DRP. Hence,
+the Hon'ble Tribunal held that the compensation for AMP services was embedded
+in the pricing arrangement of the contract goods itself and that no further
+compensation was required to be made by the Associated Enterprise ("AE"). In
+other words, BMW India had received compensation for AMP expenses through
+premium pricing which was demonstrated through its higher profit margins. The
+relevant text of the Hon'ble Tribunal ruling in case of BMW India is provided
+here below(Para 6.25, 6.26 page 53, 55 of BMW India order): Quote We hold that
+in the facts of the present case the assessee has demonstrated that the
+compensation for the higher services was embedded in the pricing arrangement
+of the contract goods itself It is seen that the comparables identified by the
+assessee and accepted by the TPO as having similar intensity functions have
+earned profit at the gross and net levels far below the profits both at gross
+and net levels as achieved by the assessee. In the circumstances as evidenced
+from record, we are inclined to agree with the submissions advanced on behalf
+of the assessee that no further compensation was required to be made by the AE
+as the same has already been received. Thirdly, the Hon'ble Tribunal in BMW
+India order provided that BMW India was rewarded by price adjustments to earn
+profits which included the cost of AMP with mark up. It held that the tax
+department cannot insist that the mode of compensation received by BMW India
+from its AE necessarily had to be direct compensation and that pricing
+adjustment was not acceptable. The relevant text of the Hon'ble Tribunal
+ruling in case of BMW India is provided here below(Para 6.27, page 56 of BMW
+India order): Quote The claim of the assessee has merit as the assessee with
+the AE can agree to be rewarded/ remunerated by price adjustments to earn
+profits  26 ITA No.882/D/2014 Asstt.Year: 2009-10 which include the cost of
+rendering services with profit. The department cannot insist in the absence of
+any provision under the Act that the mode of compensation to the assessee by
+the foreign AE necessarily has to be directed compensation and pricing
+adjustment is not accepted. Unquote The Hon'ble Tribunal further held that
+(Para 6.26, page 55 of BMW India order): Quote In support of the remuneration
+model of the assessee who is a distributor rewarded by way of price
+adjustments to ensure profitability upto mutually accepted terms is a well-
+recognized and well-accepted method for compensating a distributor. Unquote
+Further, on the issue of the mark up the Hon'ble Tribunal in the BMW India
+order held as under (Para 6.28, page 58 of BMW India order):
+
+Quote We hold that in the facts of the present case there was no occasion for
+the AE to further compensate the assessee for the services rendered towards
+building the brand of the AE as the same already stood factored in the pricing
+adjustment of the contract goods. As such the occasion to consider the
+applicability of mark-up does not arise. Unquote The Hon'ble Tribunal, in para
+no. 6.27 of the BMW India order has also mentioned that the Special Bench has
+accepted that there are diverse nature of facts, business models and peculiar
+terms and conditions of different assesses and there cannot be any straight
+jacket formula.
+
+Applicability to MSIPL As provided in the detailed hearings and submissions
+provided, MSIPL for the relevant year under consideration also acted as a
+distributor of mobile handsets, walkie-talkies and telecom equipment. During
+the year under consideration, under the TNMM analysis the operating profit
+margin on sales (OP/Sales) of MSIPL was higher than that of the comparable
+companies. This has been mentioned in para 1 of page 1 of the written
+submission filed with Your Honours on May 20, 2013 and again on para 5 of page
+133 of the written submission filed with Your Honours on May 20,2013. The Ld.
+TPO did not have any dispute relating to the TNMM analysis conducted by the
+Appellant. The only dispute was on the matter of AMP expenses. The Ld. TPO
+based on the bright line analysis held that MSIPL should have been reimbursed
+by the AE for the excess AMP expenses incurred by it along with a mark-up. The
+Appellant filed an appeal before the Hon'ble Tribunal. The grounds related to
+AMP issue are covered in grounds nos. 2.1 to 2.10 and 3. (The details have
+been mentioned in para 4-43 of page 2-23 of the written submission filed with
+Your Honours on May 20, 2013 and again in para 8 of page 133-138 of the
+written submission filed with Your Honours on May 20, 2013.) In this regard we
+humbly submit that the decision in case of BMW India order also applies to
+MSIPL, as the facts of MSIPL are similar to that in the BMW India order.
+Hence, we humbly submit that the decision rendered in the BMW case has a
+direct bearing on the AMP issue. This has been summarized as under:
+
+1.BMW India is a distributor of motor vehicles and related parts. MSIPL is
+also a distributor. Hence, what is relevant for consideration is the
+remuneration model of a distributor in both the cases.  27 ITA No.882/D/2014
+Asstt.Year: 2009-10
+
+2.BMW India's operating margin was higher than that of the comparables.
+Similarly, MSIPL also operated at a higher net operating margin than that of
+the comparables. This is demonstrative of the fact that the compensation for
+the alleged higher services was embedded in the pricing arrangement of the
+contract goods itself and that no additional remuneration was required from
+the AEs. In other words, like it has been held in the BMW India order, the
+compensation for the alleged excess AMP expenses was received through premium
+pricing which can also be demonstrated through its higher profit margins.
+
+In the BMW India order, the Hon'ble Tribunal has held that the department
+cannot insist that pricing adjustment cannot be accepted as mode of
+compensation. Herein, it may be reiterated, that MSIPL has already received
+the said pricing adjustment through credit notes as a cost credit! purchase
+price adjustment from its AEs. This has been mentioned in para no 18 of page
+11 of the written submission filed with Your Honours on May 20, 2013 and in
+para 8(1) of page 134 of the written submission filed with Your Honours on May
+20, 2013."
+
+15.1 Thus, the main contention of assessee is that remuneration model in case
+of Distributor towards AMP Expenses is different from the compensation model
+in case of License Manufacturer. Therefore, before considering the application
+of BMW's case to assessee's case, it is necessary that the business profile of
+assessee's case viz-a-viz BMW's case with reference to LG's Spl. Bench case is
+to be considered. Admittedly, the decision in the LG's case has been rendered
+in regard to AMP Expenses and for quantification of AMP Expenses also detailed
+guidelines have been laid down in the case of LG. 15.2 In case of LG
+Electronics brief facts were as under: "The factual matrix of the case is that
+L.G. Electronics Inc. (hereinafter called as ―LGKǁ), is a Korean based
+company, engaged in the business of manufacture, sale and distribution of
+electronic products and electrical appliances such as television, audio/video
+equipments, washing machines, refrigerators and air- conditioners etc.
+Pursuant to the approval of the Govt. of India, conveyed vide letter dated
+29-1-1997, LGK was permitted to establish a wholly owned subsidiary in India.
+L.G. Electronics India Pvt. Ltd. (hereinafter called as ―LGIǁ), that is the
+assessee in question, was incorporated in 1997 as a wholly owned subsidiary of
+LGK. An agreement was entered between LGK and LGI on 10th March 1997, as per
+which both entered into a mutual foreign collaboration agreement. Thereafter a
+Technical assistance and royalty agreement was entered into between these two
+entities on 1-7- 2001 by which LGI, in the capacity of a licensee, obtained a
+right to use the technical information, designs, drawings and industrial
+property rights for the manufacture, marketing, sale and services of the
+agreed products from the LGK i.e. the licensor."
+
+16\. In assessee's case the factual matrix has been reproduced earlier.
+Assessee is primarily engaged in the distribution of telecom equipment, mobile
+phones and provision of telecommunication service in India. The company also
+provides software development services to the group companies. Additionally
+the company also provides marketing and  28 ITA No.882/D/2014 Asstt.Year:
+2009-10 administrative support services to its group company. In the case of
+BMW the factual matrix was as under: 2.4 "A perusal of the same shows that the
+TPO took note of the facts that the BMW Group has global operations in 3
+segments namely Automobiles, Motorcycles and Financial Services. The parent
+company of the group is BMW AG i.e. the associated enterprise (hereinafter
+referred to as the "AE") which is headquartered in Munich, Germany and is
+primarily engaged in the manufacturing of automobiles and motorcycles. The
+major car brands manufactured by BMW AG are stated to be BMW, Mini and Rolls-
+Royce. The TPO takes note of the fact that the assessee had undertaken the
+following international transactions:
+
+    
+    
+    1.             Purchase of raw material             167,051,934             TNMM
+    
+     2.              Purchase of traded vehicle    535,438,461                  RPM
+     3.              Purchase of spare parts        18,057,016                  RPM
+     4.              Purchase of fixed assets      175,346,819                  CUP
+     5.              Purchase of software           78,880,000                  CUP
+     6.              Receipt of technical support   29,449,506                  CUP
+                     service
+     7.              Receipt of IT support services 2,739,917                   CUP
+     8.              Market survey expenses         11,711,690                  CUP
+     9.              Reimbursement of personal cost 17,252,074                  CUP
+     10.             Reimbursement of expenses      12,270,724                  CUP
+     11.             Interest of loan               12,9773,291                 CUP
+    
+    
+    
+    
+    
+
+2.5 Referring to the Transfer Pricing Study of the assessee, the TPO observed
+that the assessee described its activities as that of a distributor. The TPO
+referred to the Importation Agreement between the parent company BMW AG and
+the assessee and observed that the same had been entered into w.e.f.
+01.01.2006 and it stated that the assessee had the following duties in regard
+to marketing and promotion of the products of the parent company: "2.2.
+Responsibility in the Contract Territory BMW India represents the interest of
+BMW AG in the Contract Territory. It is responsible for the sale promotion and
+the full utilization of the market potential for the Contract Goods in the
+Contract Territory.
+
+It is further responsible for ensuring the provision of the best possible
+customer service and adequate stocks of original BMW parts in the Contract
+Territory. Furthermore, BMW India undertakes the following functions in the
+Contract Territory in accordance with the laws of the contracting territory: •
+Establishment and supervision of an efficient BMW distribution network; •
+Performance of an adequate advertisement and sales promotion as well as public
+and media relations.
+
+• Collection, evaluation and communication of market information to BMW AG.
+
+29 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+3\. Scope of the Activity of BMW India 3.1 BMW India will meet its
+responsibility for the promotion of sales and the full utilization of the
+market potential for the Contract Goods by applying its best efforts and
+adequate resources toward effective sales promotion and advertising for the
+Contract Goods including available optional equipment and accessories."
+
+27\. In view of above, we are inclined to accept the contention of the ld. CIT
+DR because there is no straitjacket formula given in either section 92A(2)(b)
+or in Rule 92A(2)(b) or in Rule 10B of the Rules for applying filter to the
+related party transactions, however, it is a well-settled proposition that if
+any company is functionally comparable with the taxpayer but at the same time
+it is more than a specific percentage of RTP, then the same should be ignored
+by treating it as a controlled transaction and hence, the view taken by the
+ITAT Delhi in the case of Nokia India Pvt. Ltd. (supra) is a balanced view
+supported by various orders of the Tribunal on the issue. Therefore, we are
+inclined to accept the contention of the ld. CIT DR that a company should be
+considered as non-comparable only if its RPT exceeds 25%.
+
+28\. The next issue for our consideration is the functional comparability of
+the assessee Bechtel India with CIEL. We have already noted the functional
+profile of the taxpayer assessee in para 16 as stated above. That the
+functional profile of CIEL has been submitted by the ld. Counsel of the
+assessee which explains the details of services offered by CIEL, area of
+certification expertise and another important area of energy efficiency audit
+functions by the assessee CIEL. The relevant operative part reads as under:-
+30 ITA No.882/D/2014 Asstt.Year: 2009-10 "4. Services Offered by CEIL:
+
+CEIL is India's leading Certification and Inspection agency for offshore Oil &
+Gas Process & Well platforms, Petro-chemical Refineries, Submarine and Cross
+country Pipelines etc. CEIL provides services designed to suit project
+requirements throughout the life span of a plant / facility from concept to
+commissioning, revamping and health check. It promotes Safety, Quality and
+Reliability throughout the design and operating life of all types of
+equipment, structures, pressure vessels, pipelines and rotating machinery. The
+services cover all types of capital goods and equipment during manufacture and
+erection stages for oil & gas and general engineering sectors, encompassing; ~
+Review of Detailed Engineering ~ Independent Analysis and Review of
+Designs/Drawings ~Conformance of Materials & Equipments to
+National/International Codes -
+
+~ Review and Approval of Inspection Test Plans ~Review of Installation, Pre-
+commissioning and Commissioning Procedures ~ Third Party Inspection Services /
+Pre-shipment Inspection ~ Supervision of Site Construction for cross country
+water / gas pipelines ~ PMC Services for Infra structure projects of
+Municipalities ~ HAZOP Studies / Quantitative Risk Analysis ~ Mitigation
+Measures Report with recommendations to reduce the risk factor is issued after
+studying the above.
+
+5.7 Energy Efficiency Audit In addition to Certification Services, CEIL also
+carries out Energy Audit, Base Line Verification of energy intensive
+facilities e.g. pumping stations, municipal lighting, and commercial buildings
+as per client's requirements. CEIL is also prepared to provide Energy Service
+Contracting services (ESCO) for rehabilitation / replacement of energy
+inefficient equipments / appliances and to be paid back from affected savings
+in energy consumption.
+
+6\. Areas of Certification Expertise:
+
+CEIL avails a total synergetic support of its parent company EIL which has
+skilled and experienced professionals located at Head Office and spread across
+India and abroad who are fully conversant with national and international
+codes backed by over  31 ITA No.882/D/2014 Asstt.Year: 2009-10 4 million man
+hours of experience. It has on its roll Engineers qualified by various
+recognized NDT bodies like ASNT, ISNT and QMS.
+
+CEIL's expertise covers Design Verification, Quality Services and
+Commissioning Assistance on:
+
+~ High pressure Reactors, Pressure Vessels, Columns, Heat Exchangers,
+Reformers of carbon steel, stainless steel, alloy steels & non ferrous
+materials ~ Clad Columns, Storage Tanks, Horton Spheres, Mounded Tanks ~
+Equipment for Combustible / Explosive Classifications, Occupational Safety and
+Hazardous Area Classifications ~ Instrument Air / Plant Air Systems, Air
+Drying Plants, Gas dehydration units ~ Heating, Ventilation and Air
+Conditioning (HVAC) Systems ~ Line Pipes, Pipe Coating and Piping
+Appurtenances "
+
+29\. In view of above, the assessee taxpayer Bechtel India which is rendering
+engineering support services including related design and drawing as per
+specification of its foreign AE Bechtel Corporation USA cannot be compared
+with a company which is engaged in the functions of third party inspections
+(TPI), certification of equipment supplied by vendors & installation of work
+of contractors of ONGC and other government departments and private sector
+undertakings. The CIEL having domestic consumers, government companies and
+public sector undertaking having insignificant export surplus cannot be
+compared with the assessee Bechtel India which is 100% exporter of services to
+its AE Bechtel Corporation, USA.
+
+30\. We may point out that functions of a company should be determined having
+regard to its data mentioned in the financial results filed along with  32 ITA
+No.882/D/2014 Asstt.Year: 2009-10 return of income and annual report which is
+a primary resource and general information in the annual report is more
+accurate and this fact has not been controverted by the ld. CIT DR. From the
+functional profile of assessee Bechtel India and functional profile of CIEL as
+reproduced hereinabove, it is amply clear that the CIEL carries on business of
+certification and third party inspection of equipments provided by a
+contractor and obviously certification and TPI functions are dissimilar form
+the business of rendering engineering support services including related
+design and drawing as per specifications of foreign AE and by using
+intangibles/IPR of parent company.
+
+31\. Ld. DR could not demolish this factum that the certification/TPI involves
+testing/assessing and auditing of the work done by the high-end technocrats
+which conforms to specifications prescribed in the contract; meets quality
+standard of work and material; meets safety standards; meets environmental
+standards and satisfactory works, plant commissioning and installation of
+various works and projects for the employer like ONGC. The CIEL certifies the
+work of the contractor that the employer accepts the work undertaken as per
+specifications of the contract and then makes the payment. Per contra, the
+business functional profile of assessee company is to perform the work of
+preparing and supplying design and drawings given by its parent Bechtel
+Corporation USA. In this modus operandi this work is outsourced by the non-
+resident AE to the assessee Bechtel India which carry out the work as per
+specifications given by the outsourcing company AE. We may also point out  33
+ITA No.882/D/2014 Asstt.Year: 2009-10 that the revenue of CIEL form export of
+surplus is 3% which is insignificant and the income from export of services by
+the asessee Bechtel India is 100% of operating income as there is no domestic
+client, thus, as per Rule 10B(2)(d) of the Rules, the comparability test also
+fails on this count.
+
+32\. On the basis of foregoing discussion, we have no hesitation to hold that
+the functions of assessee Bechtel India are quite dissimilar with CIEL which
+was wrongly taken by the TPO as a suitable comparable for benchmarking of
+impugned international transaction undertaken by the assessee during the
+relevant financial period. The functional dissimilarity as well as distinction
+in the geographical market in the light of foreign exchange fluctuation risk
+of the assessee company coupled with below 25% RPT undertaken by the CIEL, we,
+therefore, decline to agree with the conclusion of the AO/DRP/TPO that the
+CIEL is a suitable comparable for the purpose of proposed TP adjustment made
+by the authorities below. Functional dissimilarity and other aspects cannot be
+ignored and these factors clearly demonstrate that CIEL should not have been
+included in the final set of comparables for making transfer pricing
+adjustment pertaining to the impugned international transactions of the
+assessee company and we order to exclude the same from the final set of
+comparables. It is ordered accordingly.
+
+Corporate issue of Mark to Market losses Ground no. 5 to 5.4
+
+33\. On the issue of Mark to Market losses, the ld. counsel reiterating its
+written submissions dated 17.6.2015 pointed out that the assessee claimed mark
+34 ITA No.882/D/2014 Asstt.Year: 2009-10 to market losses of Rs.21.80 crore on
+foreign exchange forward contracts as on 31.3.09 which was wrongly disallowed.
+Ld. Counsel of the assessee further pointed out that the AO erred in holding
+that the Mark to Market losses in respect of re-measuring the foreign exchange
+forward contract as on balance sheet date are notional and contingent in
+nature which are not allowable. Ld. Counsel vehemently pointed out that the AO
+further erred in placing reliance on Instruction No. 3/2010 dated 23rd March
+2010 issued with respect of assessees trading in forex derivatives and these
+instructions were issued after completion of financial period under
+consideration, thus, the same was not applicable to the assessee and further
+said instruction is ultra vires to the scope of section 119 of the Act.
+
+34\. Ld. Counsel also contended that the AO erred in holding that Mark to
+Market losses in respect of re-measuring the foreign exchange forward contract
+as on balance sheet date is not allowable as the forward contracts have not
+been taken for the purpose of business on raising of export invoice but taken
+without due exposure. Ld. counsel has further drawn our attention towards
+order of ITAT in assessee's own case for AY 2008-09 reported as Bechtel India
+Pvt. India Ltd vs ACIT(2013) 33 Taxman.com 213 (Delhi Tribunal) and submitted
+that the mark to market losses in respect of foreign exchange forward
+contracts as on the balance sheet date was allowed to the assessee. Ld.
+counsel of the assessee also took us through the written submissions dated
+13.6.15 filed on 17.6.15 which read as under:-
+
+35 ITA No.882/D/2014 Asstt.Year: 2009-10 "Schedule XIII - A. Significant
+Accounting Policies:- " iv) Foreign exchange transactions Foreign exchange
+transactions are recorded at the exchange rate prevailing at the date of
+transaction. Realized gains and losses on foreign exchange transactions during
+the year are recognized in the Profit and Loss Account. Foreign currency
+monetary assets and liabilities are translated to India Rupees at year end
+rates and any resulting gain/loss on such translation is also recognized in
+the Profit and Loss Account.
+
+v) Forward foreign exchange contracts The company enters into forward foreign
+exchange contracts with the bankers to mitigate the risks associated with
+foreign exchange fluctuations associated with the accounts receivable and
+forecasted sales transactions. Any premium or discount arising at the
+inception of the forward exchange contract, which have been taken on
+underlying transaction, is recognized as expenses/income over the life of the
+contract and exchange differences arising on such forward exchange contract is
+recognized in the Profit and Loss account in the reporting period in which the
+exchange rate changes. The fair value of forward foreign exchange contracts,
+which have been taken to cover foreign exchange risk in respect of probable
+forecasted transactions, being the difference between the contracted rate and
+forward rate at the Balance Sheet date, are recognized in the profit and loss
+account. "
+
+(Pg. 470 & 476/Vol.II) The following table sums up the facts :- Rs. In Crores
+(Rs. In Cr.) (rounded) a. All 9 foreign exchange forward contracts (F.C) were
+entered 119.50 With authorized bank on 6.8.2008 maturing every successive
+Month starting from 3.4.2009 to 4.12.2009 b. Export sales booked during
+Financial Year 2008-09 178.36 Financial year 2007-08 159.23 c. Receivables as
+on 31.3.2009 71.64 Receivables as on 31.3.2009 41.61 d. Foreign exchange (USD)
+actually received in Financial Year 2008-09 156.72  36 ITA No.882/D/2014
+Asstt.Year: 2009-10 Financial year 2007-08 167.31 e. Value of Unexpired FCs as
+on 31.3.2009 119.50 Value of unexpired FCs as on 31.3.2008 96.00 f. Invoices
+raised by 6.8.2008 (pg. 362/P.B. Vol.-II) 58.09 g. All 9 contracts were
+ultimately settled through delivery of contracted Rs. 119.50 crores worth of
+U.S. dollars.
+
+Ref : a) Pg. 61-66 of P.B. Vol.-I
+
+b) Pg. 355 of P.B. Vol.II
+
+c) Pgs. 751-753 of P.B. Vol. IV
+
+d) Draft assessment order for A.Y. 2010-11 Pg. 754/PB Vol.-4.
+
+e) Assessment order u/s 143(3)/144C dated 30.1.2015 for A.Y. 2010-11 (para 6
+at Annexure 1)
+
+4\. Ld. DRP :
+
+> i) Ignores accounting policy followed by assesee for Pg. 462-476 & 450-
+> foreign exchange (forward) transactions. 51/P.B.Vol.-II, AS 11 & AS 30 read
+> with AS 1.
+
+ii) The DRP ignores the judgment of Hon'b1e Delhi High Court in Virtual Soft
+Systems Ltd. (341 ITR 593) brought to its notice. It has been held therein
+that:- "10 .... the fact that the opinion of the Institute of Chartered
+Accountants of India was expressed in a Guidance Note which had not attained a
+mandatory status, would not provide a basis to the Assessing Officer to
+disregard the books of account of the assessee and in effect method of
+accounting for leases, followed by the assessee. "
+
+iii) The action of the Ld. DRP is illegal in not following the order of the
+Hon'ble Tribunal for A.Y. 2008-09 without distinguishing it on facts. As held
+by the Hon'b1e Supreme Court in C1T Vs. Ralson Industries Ltd. (288 ITR 322),
+"where an order is passed by a higher authority, the lower authority is bound
+thereby keeping in view the principles of natural justice". It is significant
+to note the DRP's order dt. 26.11.2013 is appealable u/s 253(1)(d) of the Act
+and was not binding on the Department.
+
+iv) Holds Supreme Court decision in Woodward Governor is not applicable. Pg.
+382/P.B.Vol.-II
+
+v) Follows CBDT Instruction no. 3/2010.
+
+37 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+vi) DRP selectively quotes guidelines issued by RBI. It ignores the Foreign
+Exchange Management (Foreign exchange derivative contracts) Regulations, 2000
+readwith Schedule 1 of the Regulation-4. The said Schedule states that a
+forward fore. contract can be booked by an authorized dealer on the basis of
+reasonable estimate after verifying the documentary evidence. (Ref. Pgs.
+728-733 of PB Vol.-IV).
+
+vii) The Chart at Pg. 751/Vol.-IV, which summaries, the year-wise position of
+forex booked/ receivables etc. is at Annexure-2A.
+
+viii) The DRP verifies FIRCs and does not dispute that all the FCs were
+ultimately selected through delivery of contracted amount of US dollars. (Para
+3.7.1 at Pg. 36 of DRP order at Pg. 65 of P13 Vol.-I).
+
+5\. The Ld. DRP alleges that the FCs were not taken out by the assessee for
+business purpose. This bald allegation is not substantiated by the DRP.
+Further, the allegation made by the Ld. DRP is self- contradictory. In the
+preceding assessment year, the Ld. AO had disallowed similar Mark to Market
+accounting of loss on unmatured FCs on the last date of accounting year; i.e.,
+31.3.2008. However, this loss has been allowed by the AOIDRP in the succeeding
+assessment year 2009-10 on cash basis. Thus, the DRP admits that foreign
+exchange forward contracts are not speculative and they are also for' business
+purpose. The facts this year are same as in the preceding A.Y. 2008-09.
+Similarly, actual loss on the FC on maturity have been allowed in the
+succeeding assessment year 2010-11. (Tile chart summarizing the effect of the
+orders is at (Pg. 753/Vol.- IV Annexure 2B)
+
+6\. Findings of the Hon'ble Tribunal in A.Y. 2008-09:-
+
+i) Forex fluctuation loss on unexpired FCs booked on 31.3.2008 is covered by
+the Hon'ble Supreme Court decision in the case of Woodward Governer (312 ITR
+254)
+
+ii) The assessee follow mercantile system and the loss is booked on a
+scientific basis in the ordinary course of business.
+
+iii) The loss has been incurred for hedging of foreign currency fluctuation
+involved in export sales; which is a business decision to safeguard its
+interest.
+
+38
+
+ITA No.882/D/2014 Asstt.Year: 2009-10
+
+iv) This loss is not notional and it is business loss. It has to be allowed
+following the Hon'ble Supreme Court in Woodward Governer case.
+
+CBDT Instruction no. 3 duly noted by Tribunal (Pg. 365/Vol.- II) Transactions
+not speculative u/s 43(5):-
+
+7\. Alternatively; the DRP, after examining all the invoices raised by the
+assessee on AEs, holds the FCs' to be speculative transactions as It found
+that the aggregate amount of 'invoices raised' did not cover the exposure as
+per the FCs booked by the assessee with Bank of America on 6th August 2008.
+According to DRP, the assessee should have booked the FCs only after it had
+raised an invoice and only to the extent of amount as per each and everyone of
+the hundreds of invoices raised by the assessee under continuous service
+contracts with the AEs, which normally run for several months overlapping more
+than one financial year. The sample FCs and corresponding invoices, which run
+into hundreds, are at Pgs. 737-743 of Vol.-IV.
+
+The Ld. DRP has failed to appreciate that it would be not only unpractical,
+but will also be extremely costly proposition to take out forward contract for
+everyone of the hundreds of invoices issued to the AE under each of the
+service contracts (Ref. TP Study at Pg. 582/Vol.-III). It is for this reason
+that the RBI regulations clearly provide that where the amount is not
+ascertainable the forward contract may be taken on the basis reasonable
+estimate expected export receipts.
+
+8\. The Ld. ORP has erred in treating clauses of proviso to section 43(5) as
+sub-sections of that section. It has thus erred in law in applying proviso (b)
+and (d) to section 43(5) of the Act. The proviso merely excepts transactions,
+which are other-wise speculative under main without first ascertaining as to
+whether the FC transactions are speculative as per section 43(5).
+
+9\. The Ld. DRP, after verifying all the Forex Inward Remittance Certificates
+(FIRC), admits that all Forward Contracts were  39 ITA No.882/D/2014
+Asstt.Year: 2009-10 ultimately settled through the delivery of prescribed
+quantity of US dollars on the due date. This was brought to the notice of ORP
+vide letter dt. 12.11.2013 at Pg. 354IVol.-IJ. Hence, the settlement of FCs
+through actual delivery of US dollars have been wrongly treated as speculative
+transactions u/s 43(5) of the Act.
+
+10\. DRP holds that FCs are covered by "section 43 (5)(b)" and "section 43
+(5)(d)". Apparently, reference is to the proviso (b) and (d) to section 43(5)
+of the Act. Thus, the Ld. DRP has erred in invoking the proviso to section
+43(5) without bringing the transaction into the fold of main section.
+
+There is no dispute that all forward contracts were "ultimately" settled
+through delivery of the underlying commodity, i.e., U.S. dollars. The Ld.
+D.R.P. itself has recognised this fact as may be seen from the Tables at Pg.
+32 & 37 of ORP order (Pg. 61& 66IVol-f). This being the undisputed factual
+position, the impugned transactions clearly do not fall within the meaning of
+the term 'speculative transaction' as defined in section 43(5) of the Act. It
+may be noted that for the purpose of section 43(5), it is not necessary, or
+even relevant, that the forward contract is settled within the accounting
+year. What is relevant is that it is ultimately settled through delivery of
+the commodity contracted for. Further, as held by the Apex Court, if the
+transaction satisfies the condition of 'actual delivery' of the contracted
+commodity, the transaction cannot be held to be speculative. (Ref. Devenport
+and Co. P. Ltd. Vs. CIT (1975) 100 ITR 715 (SC) at Pg. 759/vol.-IV). Proviso
+to Sec. 43(5) not applicable:-
+
+11\. Since the main section 43(5) of the Act is not applicable to the facts of
+the case, the Ld. ORP erred in law in invoking. the proviso to that section.
+The ORP's action of invoking the proviso to Sec. 43(5) is manifestly
+erroneous. It is settled law that- if a contract is ultimately settled by way
+of actual delivery (as opposed to constructive delivery) of the underlying
+commodity, it is not speculative. (Ref. Davenport & Co. P. Ltd. Vs. CIT 100
+ITR 715,  40 ITA No.882/D/2014 Asstt.Year: 2009-10 SC). Also see the Hon'ble
+Tribunal in London Star Diamond Co. Vs. DCIT [2013J 38 Taxmann.com 338 (Mum.
+Trib).
+
+12\. Considering the fact that all the FCs are ultimately settled through
+delivery of US dollars.
+
+it's clear that the decisions of the Tribunal/ High Court relied on to by the
+DRP are not relevant as all those decisions deal with a situation where
+contract is cancelled because of non-delivery of dollars and settlement is
+reached by paying the difference between the contracted price and the price of
+the commodity on the date of settlement.
+
+AO/DRP in A.V. 2010-11:-
+
+13\. In the succeeding A.Y. 2010-11, the actual loss incurred was Rs. 15.75
+crores and the remaining amount of Rs. 6.05 crores was offered to tax by the
+assessee in its return for A. Y. 20 10-11, which is accepted by the AO. (Re
+.Pg. 753 & 754I Vol.-IV). The DRP has also not interfered with the decision of
+the AO. Thus we have a situation where AO/DRP have treated FCs to be non-
+speculative transaction entered into by the assessee company for business
+purpose in the immediately preceding and succeeding year."
+
+35\. Ld. DR supporting the action of the AO/DRP submitted that the assessee
+company does not specify the test of transaction that have been excluded under
+the extant provision as deemed speculative transaction because it had not
+clearly demonstrated that the transactions were in respect of raw material or
+merchandise; the assessee is not a member and the assessee company failed to
+demonstrate that the transaction in question were 'has in' transactions in
+absence of details of forex forward contracts which were not linked to the
+trade/export. Ld. CIT DR further pointed out that the assessee is not a member
+of a forward market or an exchange and it is not the business of the assessee
+41 ITA No.882/D/2014 Asstt.Year: 2009-10 company to undertake foreign exchange
+forward contracts. Ld. CIT DR further pointed out that forward contracts on
+certain dates could have been of higher value than the export receivables and
+as such, the assessee did not demonstrate rupee to rupee and date specific
+correlation between the FCs and the export invoices, specially when few
+forward contracts cancelled before the maturity dates clearly demonstrate the
+characteristics of speculation activity. Placing reliance on the decision of
+Hon'ble Bombay High Court in the case of CIT vs Badridas Gauridu Pvt. Ltd.
+(2004) 134 Taxman 376 (Bombay) submitted that this aspect/issue needs to be
+examined in details so as to consider the nature of such losses to adjudicate
+the allowability and in that case the matter was set aside by the Tribunal on
+this issue as the assessee had not furnished requisite details to the AO.
+
+36\. Ld. CIT DR further pointed out that in the case of DCIT vs Bank of
+Bahrain and Kuwait in ITA No. 4404 & 1883/Mum/2004 the Special Bench of ITAT
+Mumbai while holding that mark to market losses in respect of forward foreign
+exchange contracts debited to profit and loss account is allowable and at the
+same time, CBDT Instruction No. 3/2010 mandates that instruction from CBDT
+were either not pointed out to the ITAT or was subsequent to this order. Ld.
+CIT DR also vehemently contended that the question in the said case was
+whether mark to market loss was a real loss or a notional loss and the issue
+of speculation u/s 43(5) was not before the Tribunal and hence benefit of the
+Special Bench order for claiming allowability cannot be extended to the  42
+ITA No.882/D/2014 Asstt.Year: 2009-10 assessee. Ld. CIT DR also pointed out
+that the special bench order was passed in the case of assessee bank and
+assessee of the present case is an engineering service provider assessee so
+the business profile varies substantially.
+
+37\. Replying to the above ld. Counsel of the assessee also placed written
+rejoinder to the written reply and submissions of the DR on the issue of mark
+to market losses, ld. Counsel submitted that the contentions of the ld. CIT DR
+are misconceived, that the assessee fails to satisfy any of the clauses of the
+proviso to section 43(5) of the Act, therefore, mark to market loess of
+forward contracts are not allowable being speculation losses. Ld. Counsel
+strongly contended that merely the ld. CIT DR reiterating the view as
+expressed by the ld. DRP and the DRP has ignored the main provisions of
+section 43(5) of the Act as the revenue has to show as to how the present case
+is covered by the definition of speculative transaction as defined in section
+43(5) of the Act. Ld. Counsel also pointed out that the assessee accounts for
+forward contract loss based upon a consistency followed by accounting policy
+as stated in its final audited statement and since all forward contracts are
+settled by the actual delivery of contracted amount, therefore, it is not a
+speculative transaction u/s 43(5) of the Act. Ld. counsel also pointed out
+that the assessee accounts for forward contract loss based upon consistency,
+followed by accounting policy as stated in its final audited statement and
+since all forward contracts are settled by the actual delivery of contracted
+amount, therefore, it is not a speculative  43 ITA No.882/D/2014 Asstt.Year:
+2009-10 transaction u/s 43(5) of the Act and there is no question of
+applicability of proviso to the said provision.
+
+38\. Placing reliance on the judgement of Hon'ble Supreme Court in the case of
+Devenport & Co. Pvt. Ltd. vs CIT 100 ITR 715 submitted that a transaction
+which is otherwise speculative would not be a speculative transaction within
+the meaning of Explanation (2) if actual delivery of the commodity or the
+scrips has taken place. Ld. Counsel lastly pointed out that in the similar set
+of facts and circumstances, the issue has already been decided in favour of
+the assessee by the Tribunal for AY 2008-09 in assessee's own case (supra).
+
+39\. On careful consideration of above submissions of both the sides, at the
+very outset, we find it appropriate to reproduce written reply of the ld. CIT
+DR on the issue of mark to market losses, written submissions of the assessee
+as already reproduced herein above. The relevant written submissions of the
+ld. CIT DR read as under: -
+
+"Synopsis of DR submissions Date of submission: 09/0712014 Name of Assessee:
+Bechtel India P Limited AY: 2009-10 ITA No.: 882/D/2014 May the Hon'ble 'I'
+Bench be pleased to consider:
+
+44 ITA No.882/D/2014 Asstt.Year: 2009-10 Note on Forex Hedging Losses:
+
+The company's case does not satisfy the test of transactions that have been
+excluded under the extant provisions as deemed speculative transactions as:
+
+\- it had not clearly demonstrated that the hedging transactions were with
+respect to raw materials or merchandise:
+
+\- the assessee is not a member of a forward market or an exchange.
+
+\- The Company failed to demonstrate that the transactions in question were
+hedging transactions as no details were furnished.
+
+-the details of forex forward contracts were not linked to the trade/export. 
+
+-FCs on certain dates could have been of higher value than the export receivables. As such, the assessee did not demonstrate rupee-to-rupee and date-specific correlation between the FCs and the export invoices. 
+
+\- Apparently few Forward Contracts cancelled before the maturity date. which
+was a characteristic of speculation activity or there were any alterations.
+
+In view of the above, the following submissions are made: A. Forward Contracts
+are to be treated as commodity as held in 38 taxmann.com 338 (Mumbai-Trib.).
+Reliance on the decision or the Bombay High Court in the case of CIT v.
+Badridas Gauridu Pvt Ltd 2004 134 Taxrnan 376 (Bombay) and UT v. Soorajmull
+Nagarmull [1981] 129 ITR 169 (Cal) in the case of London Star Diamond Company
+(I) P. Ltd v. DCIT [2013] 38 taxrnann.com 338 (Mumbai- Trib.). Relevant
+extract of para 19 of the judgment reads as under: "Para /9. The above-------
+.Although there is decision of the Tribunal where it is held that the FCs are
+not commodities, considering the judgment of Hon'ble High court of Calcutta in
+the case of Sooraj Mull Magarmull supra, which was followed by the judgment of
+jurisdictional High Court in the case of Badridas Gauridu Pvt Ltd (supra),
+needs to be followed by us. The principle of "judicial discipline" assumes
+importance and therefore, the "commodity" includes the forward contract'.
+Thus, in principle, the forward contracts, being commodity, should fall in the
+definition of 'speculation transaction' and the same is subjected to
+fulfilment of other conditions specified in sub-section (5) of section -43 of
+the Act. Having held so, we shall now examine if the impugned
+contracts/transactions constitute "hedging transactions" and covered by the
+exclusion provisions of clause (a) to the proviso to section 43(5) of the Act.
+"
+
+Further, the paras 34, 35 & 36 of the order need to be examined in details so
+as to consider the nature of such losses which require  45 ITA No.882/D/2014
+Asstt.Year: 2009-10 detailed examination to see the allowabilty. In this case,
+the matter was set aside by IT AT on this issue as the assessee had not
+furnished requisite details to the AO.
+
+Mumbai Tribunal - S. Vinodkumar Diamonds Pvt. Ltd. v. Addl CIT (2013-
+TIOL-452- ITAT -MUM) has held such transactions to be Speculative in nature.
+Assessee was in the business of manufacturing and export of diamonds and
+claimed deduction for loss in tax return on account of exchange rate
+fluctuations, including loss on forward contracts squared up during the year
+and marked-to-market losses on outstanding contracts at the year end. The
+Assessing Officer (' AO') and the CIT(A) disallowed the loss and treated the
+loss as 'speculation loss', relying on an instruction and circular issued by
+the Central Board of Direct Taxes (CBDT) regarding this matter (Instruction
+No.] 3 of 2010dated 23 March 2010 and Circular No.23 of 1960 dated 12
+September 1960).
+
+In this case, ITAT Mumbai has drawn a distinction between hedging transaction
+and speculative transaction, observing that 'speculative transaction' is a
+contract for purchase or sale of any commodity, stocks or shares that is
+periodically or ultimately settled otherwise than by actual delivery or
+transfer of the commodity or scrip & on the other hand, a hedging transaction
+is a contract entered into to protect against possible price fluctuations in
+the commodity / goods traded by the assessee. ITA T has formulated seven tests
+to determine a hedging transaction as a non speculative transaction For the
+purpose of clause
+
+(a) of proviso to section 43(5) of the Act. The ITAT Mumbai noted that as the
+assessee was a dealer in diamonds, hence only forward contracts in diamonds
+could be treated as hedging contracts. Further, the forward contracts for
+foreign exchange were closed without actual delivery. Assessee was also unable
+to establish that booking and cancellation of forward contracts of foreign
+exchange were in respect of specified export or import. Hence, the loss on
+forward contract on cancellation and marked-to- market on outstanding
+contracts as on year end on hedging foreign exchange risk was held to be a
+speculative contract.
+
+B. Explanation to S. 37(1) inserted by the Finance Act 1998 with retrospective
+effect from 1-4-1962 reads as under: "Explanation - For the removal of doubts,
+it is hereby declared that any expenditure incurred by an assessee for any
+purpose which is an offence or which is prohibited by law shall not be deemed
+to have  46 ITA No.882/D/2014 Asstt.Year: 2009-10 been incurred for the
+purpose of business or profession and no deduction or allowance shall be made
+in respect of such expenditure." The forex derivative contracts entered into
+in excess of the underlying foreign exchange exposure of the assessee are
+apparently in violation of the guidelines of RBl and FEMA and therefore hit by
+Explanation to S. 37(1).
+
+This explanation impliedly leads us to the conclusion that such losses on FCs
+are not allowable to the assessee. CBDT has also issued Instruction No. 03/20
+I 0, dated 23-3-2010 to assessing officers regarding the loss on account of
+currency derivatives. The crux of the said instruction is as under:
+
+(I) In respect of MTM losses debited to Profit and Loss account, the
+AssessingOfficers are instructed to disallow the same while computing the
+taxable income.
+
+(2) In respect of actual or crystallized losses, the Assessing Officers are
+instructed to verify whether the losses are on account of speculative
+transaction as specified u/s.43(5) and decide in accordance with law.
+
+The above instructions render claims of deduction for mark to mark losses
+provided for in the books in respect of open contracts untenable. However, to
+be fair, it may also be pointed out that in the case DCIT v. Bank of Bahrain
+and Kuwait, (ITA Nos. 4404 & 1883/Mum./2004 reported in www.itatonline.org)
+the Special Bench of Mumbai ITAT, while holding that MTM losses in respect of
+forward foreign exchange contracts debited to profit and loss account is
+allowable, has made the following observations:
+
+(i) A binding obligation accrued against the assessee the minute it entered
+intoforward foreign exchange contracts.
+
+(ii) A consistent method of accounting followed by the assessee cannot be
+disregarded only on the ground that a better method could be adopted.
+
+(iii) The assessee has consistently followed the same method of accounting in
+regard to recognition of profit or loss both, in respect of forward foreign
+exchange contract as per the rate prevailing on March 31.
+
+(iv) A liability is said to have crystallised when a pending obligation on
+thebalance sheet date is determinable with reasonable certainty. The
+considerations for accounting the income are entirely on different footing.
+
+47 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+(v) As per AS-II, when the transaction is not settled in the same accounting
+period as that in which it occurred, the exchange difference arises over more
+than one accounting period.
+
+(vi) The forward foreign exchange contracts have all the trappings of stock-
+in- trade.
+
+(vii) In view of the decision of the Supreme Court in the case of Woodward
+Governor India (I) P. Ltd., the assessee's claim is allowable.
+
+(viii) In the ultimate analysis, there is no revenue effect and it is only the
+timing of taxation of loss/profit.
+
+This creates a situation where on one hand a Special Bench decision allows MTM
+losses, while on the other hand CBDT Instruction mandates disallowance.
+Apparently, the instruction from CBDT was either not pointed out to the ITAT
+or was subsequent to this order. Also, the question in the said case was
+whether MTM loss was a real loss or notional loss and the issue of speculation
+under 43(5) was not an issue before the ITA T.
+
+On this background, the benefit of this Special Bench order for claiming
+allowability of MTM losses despite the instruction to the contrary by the CBDT
+is not available especially due to the facts that the assessee failed to
+discharge its onus on giving real time data. Besides, the assessee in our case
+is Engg. Service exporter whereas this AB order was rendered for a bank, so
+the business profile varies substantially. C. Recent:
+
+RBI in order to regulate the currency market volatility has allowed the
+trading in currency future and forward on April 20,2007. As there was
+difficulty in managing the currency future along depending on FOREX with other
+derivatives traded in Security exchange market depending on SENSEX, therefore,
+RBI and SEBI formed a standing committee to analyze the trade in currency
+forward and future market around the world and thus laying down the guideline
+to introduce and manage the exchange traded currency future market in India.
+The committee submitted the report on May 29,2008 . RBI and SEBI are now
+cooperating and working together to manage this segment of future and option
+trading in India. Various currency derivatives have been introduced by NSE and
+MCX to make Indian Securities market globally competitive and larger. The
+issue therefore calls for detailed adjudication and is not covered in favour
+of the assessee."
+
+40\. We further find it appropriate to reproduce written submission/rejoinder
+of the assessee to the written reply/submissions of the ld. CIT DR dated  48
+ITA No.882/D/2014 Asstt.Year: 2009-10 19.6.2015 which were placed before us on
+26.6.15. For the sake of clarity in our findings, rejoinder to the written
+submissions of the ld. CIT DR is being reproduced below:-
+
+> "BEFORE THE HON'BLE INCOME TAX APPELLATE TRIBUNAL, DELHI BENCH 'I-1' NEW
+> DELHI Bechtel India Private Limited ITA No.882/Del12014 Assessment Year:
+> 2009-10 Rejoinder to the Written Submission of the Learned Departmental
+> Representative (Ld. DR) in respect of the 'Mark to Market' loss of Rs. 21.80
+> crores as on 31.03.2009 on the foreign exchange forward contracts (FCs) It
+> is humbly submitted that this Rejoinder may kindly be read along with the
+> Corporate Tax Submission dated 17.06.2015 submitted before your Honours
+> Rejoinder:
+
+> l. The Ld. CIT (DR) has emphasized that the assessee fails to satisfy any of
+> the clauses of the proviso to section 43(5) of the Act. Therefore, marked to
+> market losses on FCs are not allowable, being speculation losses.
+
+> This contention is misconceived. The Ld. CIT (DR) merely reiterates the same
+> view as expressed by the Ld. DRP. Both the Ld. DRP &CIT(DR) have ignored the
+> main provision of section 43(5) . They have in the first place, failed to
+> show as to how the impugned case is covered by the definition of
+> 'speculative transaction' as defined in section 43(5) of the Act. All the
+> contentions of the Ld. CIT(DR) have already been met in our submission dated
+> 17.06.2015.
+
+> The relevant provisions of section 43(5) which defines the term "speculative
+> transaction" reads as under: .. (5) "speculative transaction" meansa
+> transaction in which a contract for the purchase or sale 0/ any commodity.
+> including stocks and shares, is periodically or ultimately settled otherwise
+> than by the actual delivery or transfer of the commodity or scrips: Provided
+> that for the purposes of this clause-
+
+(a) a contract in respect of raw materials or merchandise entered into by a
+person in the course of his manufacturing or merchanting business to guard
+against loss through future price fluctuations in  49 ITA No.882/D/2014
+Asstt.Year: 2009-10 respect 0/ his contracts for actual delivery of goods
+manufactured by him or merchandise sold by him; or
+
+(b) a contract in respect of stocks and shares entered into by a dealer or
+investor therein to guard against loss in his holdings of stocks and shares
+through price fluctuations: or
+
+(c) a contract entered into by a member of a forward market or a stock
+exchange in the course of any transaction in the nature of jobbing or
+arbitrage to guard against loss which may arise in the ordinary course of his
+business as such member; or
+
+(d) an eligible transaction in respect of trading in derivatives referred to
+in clause (ac) of section 2 of the Securities Contracts (Regulation) Act, 1956
+(42 of 1956) carried out in a recognised stock exchange:
+
+shall not be deemed to be a speculative transaction. "[Emphasis supplied] The
+facts of our case are:-
+
+i. The assessee is an exporter of services for which it receives consideration
+in US Dollars through direct remittance into its bank account.
+
+ii. In India, US dollars is not money but commodity which can be sold or
+bought in Indian rupees, which is the only legal tender in India.
+
+iii. The rate of US Dollars fluctuates against the INR. In order to protect
+its business against the fluctuations in US Dollars vis-a- vis INR, the
+assessee hedges its foreign currency export receivables and forecasted sales
+transactions by entering into FCs with its Bank.
+
+IV. The assessee accounts for the FCs based upon a consistently followed
+accounting policy as stated in its audited financial statements (Pg 1 of
+Corporate Tax Submission dated 17.06.2015).
+
+V. FCs were taken from the authorized dealer Bank in terms of the FEMA
+regulations notified by the RBI. The RBI regulations (The Foreign Exchange
+Management (Foreign exchange derivative contracts) Regulations, 2000 read
+with, Schedule 1 of the Regulation-4-Ref. pgs., 728-733 of PE Vol.-IV clearly
+provide that where the amount is not ascertainable the forward contract may be
+taken on the basis reasonable estimate expected export receipts. The said
+Schedule states that a forward forex contract can be booked by an authorized
+dealer on the basis of reasonable estimate after verifying the documentary
+evidence. The bank after satisfying itself in terms of the FE MA regulations
+has issued the FCs. The facts are not in dispute at all. The matter has
+already been  50 ITA No.882/D/2014 Asstt.Year: 2009-10 discussed at Point No.
+7 of our submission dated 17.06.2015 before, your Honours. Thus, there is no
+requirement for demonstrating rupee-wise and date-specific correlation of
+export receivables for being not considered as a speculative, transaction. VI.
+It is an undisputed fact that all FCs were ultimately settled by delivery of
+contracted US dollars. The Ld. DRP has verified all the Foreign Inward
+Remittance Certificates (FIRC) for receipt of US dollars against respective FC
+and it is not disputed that all the FCs were ultimately settled through
+delivery of contracted amount of US dollars (Para 3.7.1 of DRP order at Pg 65
+of PB Vol.1). Since, all FCs are settled by actual delivery of the contracted
+amount of US dollars, it is not a speculative transaction under section 43(5).
+Since it is not a speculative transaction under section 43(5), there is no
+question of applicability of proviso to section 43(5) of the Act.
+
+Reliance in this regard is placed on the following: • Hon'ble Supreme Court in
+the case of Davenport & Co. P. Ltd. v. CIT, reported in (100 ITR 715), wherein
+the Apex Court has held as under:
+
+"For income-tax purposes speculative transaction means what the definition of
+that expression in Expln. 2 says. Whether a transaction is speculative in the
+general sense or under the Contract Act is not relevant for the purpose of
+this Explanation. The definition of 'delivery' in S. 2(2) of the Sale of Goods
+Act which has been held to include both actual and constructive or symbolical
+delivery has no bearing on the definition of 'speculative transaction' in the
+Explanation. A transaction which is otherwise speculative would not be a
+speculative transaction within the meaning of Expln. 2 if actual delivery of
+the commodity or the scrips has taken place; on the other hand, a transaction
+which is not otherwise speculative in nature may yet be speculative according
+to Expln. 2 if there is no actual delivery of the commodity or the scrips. The
+Explanation does not invalidate speculative transactions which are otherwise
+legal but gives a special meaning 10 that expression for purposes of income-
+tax only. "[Emphasis supplied] • In the case of Commercial Motors Ltd. v. Dy.
+CIT [2013J 218 taxmann.com 69(AII.)it was held that" .... the word
+"periodically" or "ultimately" makes it clear that the provisions of section
+43(5) are applicable where a part of the contract or the entire contract has
+been settled otherwise than by actual delivery of the goods".
+
+51 ITA No.882/D/2014 Asstt.Year: 2009-10 • Also in the case of R. Chinnaswami
+Chettiar v. CIT [1974J 96 ITR 353 (Mad.) it was noted that "the emphasis in
+section 43(5) of the Act is on the words. "periodically or ultimately settled
+otherwise than by actual delivery". The word "settled" is Used in this part of
+the section without any restriction as to whether if was before breach or
+after breach. Whether the settlement was before or after breach of the
+contract is immaterial if actual delivery of the goods is absent. In fact,
+even in cases where the contract is highly speculative and amounts to a
+wagering contract, it was settled by actual delivery, for the purpose of
+section 43(5), it is not a speculative transaction. Thus the section dispenses
+with all other formalities except that there must be actual delivery or
+transfer of the commodity when the contract is settled. [Emphasis supplied]
+vii. It has been clearly demonstrated beyond doubt that the FCs were taken for
+hedging against foreign exchange fluctuations in the normal course of export
+business as has already been held in favor of the assessee on similar facts in
+the earlier year i.e. AY 2008-09 by the Hon'ble Delhi IT AT (Pg.365 of the PB
+Vol. II).
+
+2\. It is humbly submitted that the reliance placed by the Ld. CIT(DR) on the
+decision in the case of BadridasGauridu (P) Ltd. v. CIT 134 Taxman 376
+(Bombay), CIT v. Sooraj Mull Nagarmull 129 ITR 169 (Cal.), London Star Diamond
+Co. Vs. DCIT 38 Taxmann.com 338 (Mum. Trib) and S.Vinodkumar Diamonds Pvt.
+Ltd. vs. Addt. CIT 35 taxmann.com 337 (Mumbai IT AT), is wholly misplaced as
+these judgments are in context of cancellation of forward contracts and
+consequential settlement of contract through payment of difference between the
+value of foreign exchange on the contracted rate in INR and the prevailing
+rate on the date of settlement. The Ld. CIT(DR) lost sight of the undisputed
+facts of the case that none of the FCs of the assessee were cancelled and all
+FCs were fully honored by delivery of contracted US dollars. This fact is
+verified by the Ld. DRP in their order at Para 3.7.1 of DRP order at Pg 65 of
+PB Vol.1.
+
+3\. The reference by the Ld. CIT(DR) to the Explanation to section 37(1) of
+the Act is misplaced and irrelevant. It is an undisputed fact that the FCs
+were legally entered into by the assessee with Authorized Dealer Bank in terms
+of the RBI regulations. It is also undisputed that no illegality is ever found
+out or alleged by either the Bank or the RBI against the assessee in respect
+of the FCs. Also, the RBI regulations permits taking FCs based on reasonable
+52 ITA No.882/D/2014 Asstt.Year: 2009-10 estimate export receipts as discussed
+above. It is undisputed that the value of FCs is more than the export sales
+and export receivables. Thus, it cannot be said that entering into FCs is in
+violation of the RBI guidelines and the allegation that it is hit by
+explanation to section 37(1) is misplaced.
+
+4\. Reliance on the CBDT Instruction No. 23/2010 dated 23-3-2010 is also
+misplaced. The Ld. CIT(DR) fairly observed that MTM loss was held to be
+allowable by the Special Bench of Hon'ble Mumbai ITA T in the case of DCIT vs.
+Bank of Bahrain and Kuwait ([2010] 41 SOT 290) dated 13-08-2010. The
+observations of the Ld. DR that the said decision is contrary to the CBDT
+instruction is wholly misplaced as it is a settled principle that CBDT
+instructions are not binding on the Appellate Authorities. Also, the said
+decision of the Mumbai ITAT is later in time as against the issuance of the
+CBDT instruction.
+
+It is also worth mentioning that the said instruction was specifically
+considered by the Hon'ble Delhi ITAT in the assessee's own case for AY 2008-09
+and after considering it the Hon'ble Delhi IT AT decided the matter in favor
+of the assessee and the matter stands covered in favor of the assessee in the
+year under consideration.
+
+5\. The Ld. DR also referred to a report of a Committee formed by RBI and SEBI
+for analyzing the trade in currency forwards and future market and laying down
+guidelines. It is mentioned that the said Committee submitted its report on
+29-05-2008. However, how that would impact the instant transaction in FCs by
+the assessee is not stated. The instant FC transaction is entered into in
+terms of RBI Regulations (supra). Thus, this observations of the Ld. CIT(DR)
+towards Committee report losing sight of the applicable RBI regulations is
+wholly irrelevant.
+
+6\. In view of the above, it is submitted that the MTM loss for AY 2009-10 is
+allowable to the assessee based on the decision of the Hon'ble ITAT in
+assessee's own case for AY 2008-09 as there is no change in the facts and
+circumstances of the case. Further, to the extent of actual loss in the
+subsequent year has been allowed on cash basis by the Ld. AO/DRP in the
+Assessment Year 2010-11, which has been accepted by the Department. Thus, the
+whole dispute is regarding timing of allowance.
+
+Dated: 26.06.2015"
+
+53 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+41\. At the very outset, we observe that undisputedly, the assessee company is
+exclusively exporting engineering design services to its non-resident AE for
+which it receives consideration in foreign exchange by way of direct
+remittance to its bank in India. During the relevant previous year, the
+assessee entered into 9 foreign exchange forward contracts on 6.8.2008 with au
+authorised dealer of the bank in order to protect the value of anticipated
+sale proceeds receivables from its AE in the form of foreign exchange i.e.
+USD. The first of 9 contracts would mature on 3.4.2009, therefore contract
+would start maturing every succceding month and the last contract would mature
+on 4.12.2009. Undisputedly, the total value of forward contract was Rs. 19.50
+crore and in accordance with its method of accounting, the assessee booked
+loss of Rs.21.8 crore on the unexpired contracts as on 31.3.09 being the
+difference in the INR value of USD as on 31.3.09 with the value of which
+contracts were agreed to be settled.
+
+42\. From the assessment order it is apparent that the AO had disallowed the
+said claim of the assessee on the ground that the loss booked and claimed by
+the assessee is a notional loss which is not allowable. Ld. Counsel has drawn
+our attention towards Schedule XIII of the significant accounting policies of
+the assessee and submitted that where the company enters into forward foreign
+exchange contract with the bankers to mitigate the risk associated with the
+foreign exchange fluctuation which is further associated with the accounts
+receivables and amount forecasted sales transactions. It was also pointed out
+54 ITA No.882/D/2014 Asstt.Year: 2009-10 that the fair value of forward
+foreign exchange contract which have been taken to cover foreign exchange risk
+in respect of probable forecasted transaction have a difference between the
+contracted rate and forward rate at the balance sheet date are recognised in
+the P&L account. He has drawn our attention towards assessee's paper book
+Volume II pages 470 to 476 to support this fact. Ld. Counsel also pointed out
+that in assessee's own case for AY 2008-09 ITA Delhi 'I' Bench order dated
+8.3.2013 as in ITA No. 5895/D/2012 and allowed similar claim of the assessee
+in regard to foreign exchange forward contract, therefore, he submitted that
+the issue is squarely covered in favour of the assessee by the order of the
+Tribunal in assessee's own case for the relevant assessment period.
+
+43\. Ld. CIT DR elaborated his written synopsis/submissions as above and
+submitted that as per CBDT Instruction No. 03/2010 dated 23.3.10 the AO
+recording losses on account of currency derivatives and as per these said
+instructions in respect of MTM losses debited to P&L account, AO instructed to
+disallow the same while computing the taxable income. Ld. CIT DR further
+submitted that as per said instructions in respect of actual crystallized
+loss, the AO is instructed to verify whether the losses are on account of
+speculative transaction as specified u/s 43(5) of the Act and to decide in
+accordance with them. Therefore, above instructions render claim of deduction
+for mark to market losses provided for in the books in respect of open
+contracts untenable. Ld. CIT DR also contended that the claim of national loss
+is not allowable and it  55 ITA No.882/D/2014 Asstt.Year: 2009-10 is also
+relevant to examine that whether at the time of booking loss, the contract was
+completed and performed by way of actual physical delivery of foreign
+exchange, otherwise the same has to be treated as speculative transaction and
+notional loss thereon cannot be claimed as allowable.
+
+44\. Ld. CIT DR fairly submitted that in the DCIT vs Bank of Bahrain and
+Kuwait (supra), Special Bench of ITAT while holding the MTM losses in respect
+of foreign exchange contracts debited to P&L account has held as allowable
+with certain observation but this creates a situation where on the other hand
+special bench decision allows MTM loss while on the other hand CBDT
+instructions mandates disallowance. It was also contended on behalf of the
+revenue that the instructions from CBDT (supra) was either not pointed out to
+the special bench or was subsequent to this order and the question in the said
+case was whether MTM loss was a real loss or a notional loss and the issue of
+speculation u/s 43(5) was not an issue before the Special Bench, therefore,
+the same was not considered. Ld. CIT DR further contended that in this
+background of aforesaid facts and issues before the Special Bench, the Bench
+of ratio of the Special Bench order for claiming allowability of MTM losses
+despite the instructions to the contrary by the CBDT is not available due to
+the fact that the assessee failed to discharge its onus on giving real time
+data regarding its claim, specially to demonstrate that the contracts were
+finalised and performed by way of actual physical delivery of foreign exchange
+resulting into booked/claimed losses therefrom. Ld. CIT DR finally prayed that
+the issue  56 ITA No.882/D/2014 Asstt.Year: 2009-10 is not covered in favour
+of the assessee and this issue calls for detailed adjudication in the light of
+CBDT Circular No. 03/2010 (supra) and other relevant provisions of the Act.
+
+45\. Ld. Counsel of the assessee also placed written rejoinder to the written
+synopsis of the ld. CIT DR on 29.6.15 as reproduced hereinabove. Ld. Counsel
+submitted that the contention of the ld. CIT DR emphasising that the assessee
+fails to satisfy any of the clauses of the proviso to section 43(5) of the
+Act, therefore, mark to market losses on forward contracts are not allowable
+being speculative losses and this contention is misconceived. Ld. Counsel
+further pointed out that as per relevant provisions of section 43(5) which
+defines the term speculative transaction, means transaction in which a
+contract for the purchase or sale of any commodity including stocks and shares
+periodically or ultimately settled otherwise than by actual delivery or
+transfer of the commodity or scrips. Ld. Counsel summarising his main argument
+also contended that the assessee is an exporter of services for which it
+receives consideration in USD through direct remittance into its bank
+accounts. In India USD is not a money but commodity which can be sold or
+bought in Indian rupee and the rate of USD fluctuations against INR,
+therefore, in order to protect its business losses against fluctuations in USD
+vis-a-vis INR, the assessee has as its foreign currency receivable and
+forecasted sales transaction by entering into forward contracts with its
+banks. Ld. Counsel pointed out that the assessee accounts for forward contract
+based upon a consistently followed accounting policy as stated in its  57 ITA
+No.882/D/2014 Asstt.Year: 2009-10 audited financial statement and forward
+contracts were undertaken from the authorised dealer bank in terms of FEMA
+regulations notified by the RBI and as per RBI regulations where the amount is
+not ascertainable, the forward contract may be taken on the basis of
+reasonable estimates expected export receipts.
+
+46\. Ld. Counsel has further drawn our attention towards order of ld. DRP and
+submitted that it is undisputed fact that all forward contracts were
+ultimately settled by delivery of contracted USD and this fact was verified by
+the DRP, therefore, the same cannot be terms as speculative transaction u/s
+43(5) of the Act and therefore, there is no question of applicability of
+proviso to section 43(5). Ld. Counsel further pointed out that case laws
+relied by ld. CIT DR are in the context of cancellation of forward contracts
+and settlement of contract through payment of difference between the value of
+foreign exchange in contract rate in INR and prevailing rate on the date of
+settlement. Ld. Counsel further contended that reliance placed by the ld. CIT
+DR on these judgements is wholly misplaced perhaps he lost sight of the
+undisputed fact that none of the forward contracts of the assessee were
+cancelled and all forward contracts were fully honoured by delivery of
+contracted USD. This fact was also verified by the ld. DRP in their order at
+page 3.7.1 at page 65 of paper book volume I of the assessee. Ld. Counsel also
+contended that CBDT instruction dated 23.3.2010 (supra) are not binding on the
+appellate authorities and the decision of Special Bench Mumbai in the case of
+DCIT vs Bank of Bahrain and Kuwait (supra) dated 13.8.2010 was passed in later
+time against the issuance of CBDT  58 ITA No.882/D/2014 Asstt.Year: 2009-10
+instruction. Lastly, ld. Counsel vehemently contended that the revenue is
+harping on the baseless and incorrect propositions which have been settled by
+the ITAT Delhi in assessee's own case for AY 2008-09 on the similar set of
+facts and circumstances and hence the issue is squarely covered in favour of
+the assessee by this order of the Tribunal.
+
+47\. At the very outset, we respectfully take cognizance of decision of ITAT
+'I' Bench in assessee's own case for AY 2008-09 (supra) wherein the issue of
+mark to market losses has been decided in favour of the assessee with
+following observations:-
+
+> "8. Coming to the corporate additions i.e. disallowance of loos, it clearly
+> emerges from the record that the assessee in respect of foreign exchange
+> realization follows mercantile system of accounting and not cash system of
+> accounting. The loss has been incurred for hedging of foreign currency
+> fluctuation involved in sales invoices on the basis of forward contracts,
+> which is a business decision to safeguard its interest. The loss has been
+> incurred on the basis of scientific method in the ordinary course of
+> business. The loss being based on a scientific method in the ordinary course
+> of business. The loss being based on a scientific method, on the basis of
+> contractual liability with banks and on mercantile system has to be allowed
+> to the assessee following Hon'ble Supreme Court judgment in the Case of
+> Woodward Governor India P. Ltd. 312 ITR 254. Our view is further fortified
+> by the fact that DRP in its own order in subsequent year has itself held
+> that the issue about the loss on mercantile system is pending dispute in
+> A.Y. 2008-09. Therefore, the allowability of the loss on actual payment in
+> A. Y. 2009-10 has been made subject to the allowability of the loss for A.Y.
+
+2008- 09. This stand of the DRP itself negates the observations of assessing
+officer that it is a notional loss and establishes that it is a business loss
+incurred by the assessee on mercantile system which method is consistently
+followed by the assessee. Under these circumstances, we are inclined to allow
+the foreign  59 ITA No.882/D/2014 Asstt.Year: 2009-10 exchange fluctuation
+loss to assessee in this year. This ground of the assessee is allowed."
+
+48\. In AY 2008-09, the claim of loss of Rs. 20,55,724 was claimed by the
+assessee with following submission and contentions:-
+
+> "5.1 During the previous year 2007-08, the appellant entered into foreign
+> exchange forward contracts with banks in order to hedge foreign currency
+> fluctuation and incurred a (net) foreign exchange loss of Rs. 20,55,724/- as
+> a result of "marking to market" the forward contracts that were outstanding
+> on March 31, 2008.
+
+> 5.2. Ld. Counsel for the assessee Shri Sandeep Chaufla contends that:
+
+> (i) There is no dispute about the incurrence of this loss as in the
+> subsequent year the AO after due verification has allowed these losses;
+
+> (ii) Similarly, there is no dispute on the method of accounting followed by
+> the assessee is mercantile as the AO has recorded this fact in the
+> assessment order.
+
+> (iii) It is not disputed that these losses have been recognised by the
+> assessee in accordance with applicable accounting standards/policies in this
+> regard.
+
+> (iv) The AO has raised only dispute that this loss is not allowable as
+> deduction in the year of incurrence computed under mercantile system by
+> following the accounting standards in this respect or at the time of
+> realization of export proceeds on maturity of forward contracts."
+
+49\. Undisputedly, the facts and circumstances of the present case are more or
+less similar to the present AY 2009-10 and the assessee booked mart to market
+loss of Rs.21.80 crore as on 31.3.09 being difference in the INR value of the
+USD as on 31.3.09 and the value of which the hedging contract was agreed to be
+settled. We further note that the assessee is following mercantile system of
+account for recognition of this loss in its financial statements. When we see
+the  60 ITA No.882/D/2014 Asstt.Year: 2009-10 order of the DRP para 3.7.1,
+then it is amply clear that the ld. DRP has alleged that the forward contracts
+are not fully supported by the underlying support invoice both in terms of the
+amount as well as the tenure. DRP has drawn the table in this appeal and
+thereafter noted that out of 9 forward contracts, the assessee has only used 4
+forward contract fully and the assessee has not used these forward contracts
+immediately but started using them against the sale invoice after the lapse of
+time of few months. Ld. DRP further noticed that contract no. 1461 was used
+for the first time on 31.10.08 for a nominal sum of USD 632 and thereafter in
+November for USD 144247 and balance in December 2008 for USD 2755121. Thus, it
+shows that there was no underlying asset for this contract from 6.8.2008 till
+31.10.08. The entire forward contract could be utilised only by 31.12.08. For
+the sake of clarity in our conclusion para 3.7.1 of the ld. DRP order is being
+reproduced below:-
+
+> "3.7.1 Without prejudice to the above, in case the higher appellant
+> authorities' grants relief to the assessee on account of its claim discussed
+> above, the relevant issue for consideration would be to what extent the
+> claim made by the assessee is admissible? This for the reason that in this
+> case, the FCs are not fully supported by the underlying export invoices both
+> in terms of the amount as well as the tenor.
+
+> Thus, an attempt was made by the Panel to ascertain as to what extent and
+> how the assessee has used these FCs? The said position is given in the table
+> below:
+
+61
+
+ITA No.882/D/2014 Asstt.Year: 2009-10 ST DETAIL OF OUTSTANDING FORWARD COVERS
+AS ON 31 MARCH, 2009, FOR WHICH INVOICING DONE TILL MARCH, 2009 Contract
+Contract Contract Invoice Invoice Invoice Underlying FIRC No. FIRC No. Date
+Value Date Amt. Amt.- Assets as Date (US $) USD INR at 31.03.09 146164
+6-Aug-08 2,900,000 Oct-08 632 31,640 YES 156473 2-Apr-09 Nov-08 144,247
+7,208,024 YES Dec-08 2,755,121 131,942,759 YES 146166 6-Aug-08 2,900,000
+Oct-08 (5,001) (250,495) YES 157124 4-May-09 Nov-08 33, 1,627 YES Dec-08
+512,400 24,538,846 YES Jan-09 2,392,577 116,877,386 YES Mar-09 (9) (452) YES
+146167 6-Aug-08 3,000,000 Jan-09 830,550 40,572,363 YES 157869 4-Jun-09 Feb-09
+2,169,380 108,230,382 YES Mar-09 70 3,567 YES 146169 6-Aug-08 3,100,000
+3,100,000 Jan-09 637 YES 158594 3-Jul-09 Feb-09 1,041,624 YES Mar-09 2,057,739
+YES 146171 6-Aug-08 828,047 Mar-09 828,047 42,296,660 YES 159290 4-Aug-09 Sub-
+Total 12,728,047 12,728,047 628,559,352 Grand Total 146171 6-Aug-08 2,271,953
+Beyond NO 159290 4-Aug-09 31.3.09 146173 6-Aug-08 3,200,000 Beyond NO 159930
+4-Sep-09 31.3.09 146174 6-Aug-08 3,300,000 Beyond NO 160558 1-Oct-09 31.3.09
+146175 7-Aug-08 3,000,000 Beyond NO 161236 4-Nov-09 31.3.09 146176 7-Aug-08
+3,100,000 Beyond NO 162068 4-Dec-09 31.3.09 Sub-Total 14,871,953 GRAND TOTAL
+27,600,000 It can be seen that out of the 9 FCs, the assessee has used only 4
+FCs fully. The assessee has not used these FCs immediately but started using
+them against the sales invoices after a lapse of time of few months. To
+elaborate it further, it is noticed that the contract no. 146164 was used for
+the first time in 31st October 2008 for nominal sum of US$ 27,55,121. Thus, it
+is evident that there was no underlying asset for this contract from 6.8.2008
+till 31st October 2008. The entire FC could be utilized only by 31st December
+2008.
+
+Likewise the contract no. 146167 and 146169 taken on 6.8.2008 have been
+started to be used by the assessee from  62 ITA No.882/D/2014 Asstt.Year:
+2009-10 January 2009 onwards. Thus, there was no underlying asset for these
+contracts from 6.8.2008 till 31.12.2008.
+
+Out of the firth FC bearing no. 146171 only a small part of US$8.28 (total
+US$31 lakh) has been used by 31st March 2009 while the remaining 4FCs were not
+utilized at all till 31.03.2009."
+
+50\. There is no observation of the ld. DRP in para 3.7.1 which support the
+contention of the assessee that all forward contracts were duly honoured by
+delivery of contracts under USD. In this situation, in principle, we agree
+that in view of the ratio laid down by Hon'ble Supreme Court in the case of
+Woodward Governer (312 ITR 254), while the assessee is following mercantile
+system of accounting, the loss suffered by the assessee by fluctuation in the
+foreign exchange as on the date of balance sheet is an item of expenditure u/s
+37(1) of the Act. Under this proposition and dicta of Hon'ble apex court, and
+facts emerging from the DRP order, we find it appropriate that the issue
+requires detailed examination and verification and calculation on scientific
+basis at the end of the AO/DRP in the light of relevant proposition and
+provisions of the Act. Therefore, relying on the said propositions and
+following the judgement of Hon'ble apex court in the case of Woodward Governor
+(312 ITR 254), we restore this issue to the file of AO/DRP for a fresh
+adjudication after factual analysis and examination of the impugned
+transactions after affording due opportunity of hearing for the assessee and
+without being prejudiced by the earlier orders.
+
+63 ITA No.882/D/2014 Asstt.Year: 2009-10
+
+51\. Accordingly, ground no. 5 to 5.4 of the assessee are allowed for
+statistical purposes in the manner as indicated above. Ground no. 6 being
+consequential and ground no. 7 being premature are dismissed.
+
+52\. In the result, the appeal of the assessee is partly allowed on transfer
+pricing issue and partly allowed for statistical purposes on the corporate
+ground of mark to market losses.
+
+Order pronounced in the open court on 14.10.2015.
+
+    
+    
+               Sd/-                                                Sd/-
+    
+    ( S.V. MEHROTRA )                                  ( CHANDRAMOHAN GARG)
+    ACCOUNTANT MEMBER                                      JUDICIAL MEMBER
+    
+    DT. 14th OCTOBER 2015
+    'GS'
+    
+    Copy forwarded to:-
+    
+          1.   Appellant
+          2.   Respondent
+          3.   CIT(A)
+          4.   CIT 5. DR
+    
+                                                      By Order
+    
+    
+                                                      Asstt. Registrar
+    
+    
+    
+    
+                                                64
+     
+

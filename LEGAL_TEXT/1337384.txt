@@ -1,0 +1,715 @@
+
+
+Customs, Excise and Gold Tribunal - Bangalore
+
+Rashtriya Ispat Nigam Ltd. vs Commissioner Of Customs on 5 July, 2005
+
+Equivalent citations: 2005 (102) ECC 385, 2006 (197) ELT 276 Tri Bang
+
+Bench: S Peeran, J T T.K.
+
+ORDER T.K. Jayaraman
+
+1\. This is an appeal against the Order-in-Original No. 6/2003 dated
+27.6.2003, passed by the Commissioner of Customs, Visakhapatnam.
+
+2\. The brief facts of the case are follows:
+
+(i) The appellants are a PSU unit engaged in the manufacture of Iron & Steel
+products on their factory at Visakhapatnam. The steel melt shop at the factory
+of the appellants has three converters in which liquid steel is manufactured.
+The process of making liquid steel involves a process of blowing oxygen into
+the converter. During the process of blowing oxygen into the converter, there
+is a need to check various parameters like percentage of oxygen content,
+carbon level, level of the liquid metal available etc. Sample is also drawn at
+the time of blowing the oxygen. The checking of the above parameters and
+drawing of the sample is done by an equipment called 'Sublance' which is
+lowered from this purpose into the converter. The sublance is placed in its
+position as part of a system with a host of other electrical and mechanical
+equipments.
+
+(ii) The appellants placed an order on M/s Kerala State Electronics
+Development Corporation Ltd. (hereinafter referred to as 'KELTRON') vide
+letter of intent dated 31.10.1989 for the design, manufacture and supply of
+electric controls instrumentation, automation and sublance system for the LD
+converter in the steel melting shop known as SMS) for a total value of Rs.
+1717.09 lakhs. A total amounts of Rs. 1717.09 lakhs was made up of the
+following four components:
+
+(a) Design and Engineering charges for goods covered under Groups I to IV.
+
+(b) Charges for the software package.
+
+(c) Charges for supply of another equipments
+
+(d) Training charges.
+
+The goods covered by the groups I to IV included various items meant for the
+entire/sublance system including the control panels, distributed control
+system, computer terminals and the sublance per se. In addition to the above,
+the appellant placed another letter of intent dated 31.10.1989 on KELTRON for
+the unloading, transportation to site, storage, etc. and erection, testing and
+commissioning of the electric controls, instrumentation, automation and
+sublance system for the 3rd LD converter for a total value of Rs. 232.66
+lakhs. The Foreign Exchange component in this contract was Rs. 106.10 for
+deputation of foreign experts for erection and commissioning.
+
+(iii) To execute the project of the appellants, KELTRON in turn entered into a
+contract on 15.5.1991 with M/s Mannesmann Demag Huttwntechnik, Germany
+(hereinafter referred to as 'MDH') which covered the design, engineering
+including documentation, supplies and related services for Automatic Sublance
+System LD3. The buyer in the contract was indicated as KELTRON and the seller
+was MDH. Under Para 3.3, the seller scope of services was indicated as
+providing the design, engineering including documentation, project handling
+workshop tests, and inspection relating to the sublance system as specified in
+Annexure I, III & IV. The Division list in Annexure-I indicated the source of
+supply of the various items. The list in Annexure-I indicated the details of
+supply of various items. The list also indicated that the sublance as an
+equipment would be supplied by MDH while a host of other equipments like the
+platform for the Hoist, the Guide column, the slewing mechanism were to be
+supplied by KELTRON. The Division list also indicated that for the items to be
+supplied by KELTRON, the design and engineering would be supplied by MDH. Para
+10 of Annexure-I indicated that MDH would provide all the drawings for items
+to be made by KELTRON. Annexure-III of the contract gave details of the design
+and engineering for the entire system. The Annexure clearly indicated that the
+above design was for integration of the entire sublance system. Annexure-IV of
+the contract indicated the Schedule of Inspection of the various items
+manufactured at various places. This Annexure clearly indicated that for the
+sublance, the certificate from MDH would alone be relevant and for the other
+items it would vary. The Annexure-V of the contract gave the time schedule for
+the development of the design and for the manufacture of the goods. The
+indication in the said Annexure that tests would be conducted at the workshop
+before the goods are placed on board the vessel at the port of shipment
+clearly indicated that it would apply only to the items manufactured at MDH.
+The appellants accepted the tender of KELTRON vide letter dated 28.12.91. The
+details of the tender are as follows:
+
+    
+    
+     S.No. Description                                                   Value (Rs.)
+    1.    Design and Engineering charges for Group I to IV including     254.08
+          design and engineering for computer hardware and
+          systems software as well as documentation.
+    2.    Extension/modification of software package.                     39.10
+    3.    Supply of equipment, commissioning spares, tools &            1422.47
+          tackles, test jigs, etc.
+    4.    Training                                                        11.19
+             Total                                                      1727.56
+    
+     
+    
+    
+
+Due to financial constraints of KELTRON, the appellants opened a letter of
+credit dated 16.10.92 in favour of MDH. The appellants informed MDH vide
+letter dated 16.10.92 of the opening of the letter of credit and also
+confirmed and revised break up of prices after the increase of 2.5.% on the
+contract value of KELTRON as under:
+
+    
+    
+     S.No.  Description Value (in DM)
+    1.    Design, Engineering including             1284850
+          documentation, project handling,
+          workshop test and inspection
+    2.    Sublance Equipment                        2305700
+    3.    Commissioning spares                       137190
+    4.    Special Tool and tackles                   109400
+    5.    Consumables                                  7860
+          Total                                     3845000
+     
+    
+    
+
+The appellants while opening a letter of credit considered the value of the
+sublance equipment, the commissioning, spares, the special tests and
+consumables all under Group IV. Apart from the above, they also considered the
+charges relating to project handling, workshop test, etc. relating to all the
+Groups as indicated in Para 1.3 which in turn referred to Annexure-III and
+Annexure-IV in the contract between KELTRON and MDH.
+
+(iv) Afterwards the appellants applied to the DGFT vide application dated
+28.12.93 for issue of an EPCG license to import and sublance by availing the
+concessional rate of duty of 15% in terms of Notification No. 160/92-Cus dated
+20.4.92. In the application, the CIF value of the goods to be imported was
+indicated as DM 3845000 (Rs. 7,15,93,900). This amount was the same as the
+amount for which the appellants opened a letter of credit. The appellants in
+their application decided to include the design and documentation charges
+relating to the project also as part of the value of the capital goods since
+the Department in the past had raised a dispute regarding the inclusion of the
+design charges in the value of capital goods. The EPCG Committee were however
+of the view that the value of design, engineering and related services do not
+relate to the capital goods imported. The DGFT after repeated meeting with the
+representative of the appellants granted the EPCG license on 6.5.94 only for
+DM 2560156 (Rs. 4,74,14,089) (after deduction the value of design engineering
+including documentation, project handling, work shop tests and inspection
+amounting to DM 1284850) and export obligation of 4 times the CIF value of the
+imported goods to be completed within five years from the date of issue of
+licence. This position has been made clear by the DGFT vide their letter dated
+11.11.2003. In the meanwhile, the MDH has sent to KELTRON a list of drawings
+for the entire equipments consisting of equipments supplied by them and the
+other equipments to be provided at the site. KELTRON in turn provided the same
+to the appellants vide their letter dated 12.2.1994. A perusal of list of
+drawings indicates that the said drawings covered not only the goods supplied
+by the MDH but other items to be provided by KELTRON also. In the meanwhile,
+the KELTRON in turn placed a purchase order dated 6.4.1994 on M/s Raja
+Corporation for supply of structural items for the sublance system. While
+doing so, they provided drawings from MDH. KELTRON also informed MDH vide
+letter dated 30.6.94 of the fact of placing order for supply of structural
+items and requested MDH to approve the drawing provided by them to M/s. Raja
+Corporation. MDH also issued a certificate dated 10.2.95 clearly stating that
+the amount of DM 1269514 related to the design and engineering covering the
+layout, installation arrangements of sublance, etc. required for the
+installation and commissioning of sublance and that the drawings did not
+pertain to the equipment supplied by them. The appellants imported the goods
+in March 1995. They filed Bill of Entry and in the Bill of Entry indicated the
+EPCG licence No. and the CIF value indicated therein. They also enclosed the
+above certificate dated 10.2.95 from MDH. There was some delay in
+commissioning and installation of sublance system. DGFT granted time upto
+5.5.2000 to fulfil the export obligation but the appellants requested the DGFT
+to grant extension upto 31.5.2000. The appellants intimated DGFT vide their
+letter dated 17.8.2000 about the fulfilment of export obligation. The
+appellants finally received the LUT release letter dated 19.2.2001 from DGFT
+discharging them from the letter of undertaking executed on 6.5.1999. The
+letter indicated that the release letter is being issued since they had
+fulfilled the export obligation under EPCG licence No. 2133084 dated 6.5.94.
+
+(v) A show cause notice dated 20.7.99 was issued by the Deputy Commissioner of
+Customs demanding a differential duty of Rs. 4,60,56,996 since they have not
+fulfilled the export obligation as per Notification No. 160/92-Cus. The notice
+also alleged that the appellants were liable to pay duty amounting to Rs.
+2,72,91,510 on the design and engineering charges since they were includable
+in terms of Rule 9(1)(b)(iv) of the Customs Valuation Rules, 1988.
+Subsequently, the appellants received a second show cause notice dated
+29.12.99 from the Commissioner of Customs in supersession of first notice
+dated 27.9.99. The notice alleged that the appellants failed to fulfil the
+export obligation in terms of EPCG licence and, therefore, duty chargeable at
+merit rate i.e. @ 65% + 20%; that the value of design and engineering was not
+included in the assessable value; that the appellants had not disclosed the
+design and engineering charges to the licensing authorities. The show cause
+notice therefore proposed to demand differential duty of Rs. 7,33,48, 506;
+interest on the duty amount from the date of clearance till the date of
+payment, to confiscate the sublance system and ancillaries valued at Rs.
+8,33,38,837 and also proposed to impose penalty on the appellants.
+
+(vi) The Commissioner passed the impugned Order-in-Original dated 27.6.2003
+wherein he has confirmed demand of duty Rs. 2,72,91,510 for non-inclusion of
+value of design and drawings. He also confirmed a demand of Rs. 27,07,294
+towards non-fulfilment of export obligation on the ground that one consignment
+was exported after the date of expiry of 5 years from the date of issue of the
+documents. The appellants are aggrieved over the decision of the adjudicating
+authority. They strongly challenged the findings.
+
+3\. Shri G. Shivadass, learned Advocate alongwith Shri Anil Kumar, learned
+Advocate appeared for the appellants. Smt. Shobha L. Chary, learned JCDR
+appeared for the Revenue.
+
+4\. The learned Advocate for the appellants urged the following points:
+
+(i) The Commissioner has held that since one consignment was exported on
+29.5.2000, which is after 5.5.2000, the same is not to be taken into
+consideration for the fulfilment of export obligation and has demanded payment
+of duty of Rs. 27,07,294. Due to some unavoidable circumstances, the
+appellants were unable to fulfil a small portion of the export obligation
+amounting to US $ 409445.88 which was made on 29.5.2000. The appellants
+requested the DGFT to extent the period upto 31.5.2000 i.e. by 25 days. On
+submissions of the details of exports made by the appellants, the DGFT had
+issued a release letter dated 19.2.2001 to the appellants informing them that
+since the export obligation against the EPCG licence dated 6.5.94 has been
+fulfilled, the letter of undertaking dated 22.7.94 executed by the appellants
+has been discharged. Since the DGFT is final authority as far as monitoring of
+fulfilment of export obligation is concerned, the Commissioner should have
+accepted the release letter issued by the DGFT to the fact that export
+obligation has been fulfilled and the letter of the DGFT is binding on the
+Customs authority. Further, Notification No. 160/92-Cus., dated 20.4.92 has
+been amended in 2001 retrospectively with effect from 1992 by introduction of
+Clause (iv) whereby the period of export obligation has been extended till
+31.3.2002. This amendment has been taken note by the Tribunal in the case of
+Tecumseh Product India Ltd. v. CC, . In view of the above, the demand of Rs.
+27,07,294 is liable to be set aside.
+
+(ii) A demand of duty of Rs. 2,72,91,510 is on account of the inclusion of the
+cost of design and engineering charges attributable to the sublance system
+imported, it is held liable to be included in terms of Rule 9(1)(b)(iv) of the
+Customs Valuation Rules, 1988. It was submitted that the above amount is for
+the design and engineering of the activity done in India for the manufacture
+of various items in India. The learned Advocate pointed out to Annexure I,
+Item 4 of the contract wherein the Division List clearly indicates that many
+items of work are to be carried out in India at the erection site. The thrust
+of the Counsel's argument is that the design and engineering charges do not
+relate to the equipments imported by them. They relied on the certificate
+dated 10.2.95 issued by MDH much before the goods were received stating that
+the amount in question relates to layout, installation, etc. and not to the
+equipments supplied to the appellants. The appellants relied on the decision
+of the Tribunal in the case of Guhring India Pvt. Ltd. v. CC, [Final Order No.
+125 dated 19.1.2005] of the Bangalore Bench wherein it was held that the
+supplier of the drawings and designs would be the best person to clarify the
+nature of the drawings.
+
+(iii) The Commissioner has rejected the certificate issued by the MDH by
+observing that it is bland and obtained 4 years after the agreement. It was
+submitted that the said rejection is without any basis especially when the
+certificate conveys what is required to be conveyed and is in continuation of
+the agreement. The fact that it is obtained 4 years after the agreement is
+irrelevant so long as such a certificate has been produced at the time of
+import of the goods in 1995.
+
+(iv) The findings of the Commissioner are based on incorrect reading of the
+entire contract and various letters exchanged between the parties particularly
+the letter given by the supplier himself. A correct reading of the entire
+contract would clearly prove that the design and engineering does not relate
+to the imported goods, etc.
+
+(v) Even if it is assumed that the entire amount is attributable to the
+imported capital goods, the Revenue should be in a position to prove that the
+appellants had made other payment to MDH who had provided/approved all these
+drawings free of cost. If the Revenue is not in position to do so, then the
+evidences given by the appellants and the certificate given by the supplier
+are to be accepted, especially when the item imported is a standard off the
+shelf product which price would take into account the amount attributable to
+its designing and drawing.
+
+(iv) Rule 9(1)(b)(iv) of the Customs Valuation Rules cannot be invoked to add
+the basic engineering fees to the value of the capital goods imported. The
+above rule will come into play only in a situation where any engineering
+development or art work, etc. has been supplied by the buyer free of charge or
+at reduced cost. Further, requirement of this rule is that such engineering,
+development or art work, etc. should have been undertaken elsewhere than in
+India and it should be necessary for the production of imported goods. It is
+nobody's case that the buyer i.e. the appellants had supplied any engineering,
+development or art work etc. to the exporter. It is also not the case of the
+Revenue that the imported goods were made with reference to any engineering,
+development or art work etc., supplied by the appellants free of charge to
+others who in turn had supplied them to MDH. Hence, Rule 9(1)(b)(iv) is not
+applicable to the facts of the present case.
+
+(vii) The Apex Court in the case of Tata Iron & Steel Co. Ltd. v. CCE & C,
+Bhubaneswar, 2000 (116) ELT 422 (SC) has held in Para 14 that Rule 9(1)(b)(iv)
+would apply only when the buyer has supplied free of cost any goods or
+services which not been included in the value of the imported goods.
+
+(viii) The Supreme Court relying on the Interpretative Note to Rule 4 has also
+held that the charges for construction, etc. of goods in India are not
+includible in the value of the goods imported.
+
+(ix) The Hon'ble Supreme Court in the case of Tata Iron & Steel Co. Ltd. has
+followed the under-mentioned decisions:
+
+(a) TISCO v. CC, 2001 (130) ELT 327 (T)
+
+(b) Hindalco Industries v. CC, 2001 (129) ELT 245 (T)
+
+(c) Birla Tyres v. CC, 2001 (138) ELT 628 (T)
+
+(x) In the following decision, the Tribunal has held that post-importation
+charges such as erection, etc., are not includible in the value of the
+imported capital goods:
+
+(a) CC v. VSP, 1992 (62) ELT 833 (T)
+
+(b) SRF Ltd. v. CC, 2003 (161) ELT 721
+
+(c) GE Plastics Ltd. v. CC, 2004 (94) ECC 257 (T)
+
+(d) Indo Gulf Fertilisers v. CC (182) ELT 77
+
+(xi) The Customs authorities cannot revise value of the licence once the DGFT
+has fixed the value. The export obligation is fixed based on the CIF value
+which is decided by the DGFT. Once a licence is issued indicating CIF value
+and export obligation is fulfilled based on this, any revision of the
+conditions mentioned in the licence can be made only by the Licensing
+Authority. Any revision of the CIF value would mean revision of the export
+obligation which can be done only by the DGFT and not by the Customs
+authorities.
+
+(xii) In the instant case, the appellants applied for EPCG licence vide letter
+dated 28.12.93 wherein they had mentioned the CIF value of the goods to be
+imported in item 20 of the application as DM 3845000 i.e. inclusive of design
+and engineering charges. Further Annexure-5 gave a detailed break up of the
+above-said value. The EPCG Committee of the DGFT, which includes a
+representative from the Customs was of the view that the value of design,
+engineering and related services is to be deducted from the CIF value and
+consciously excluded the value of design and engineering charges while
+granting the licence. This was done apparently because the design and drawing
+charges are not relatable to the capital goods to be imported by the
+appellants. Even if the Customs representative in the EPCG Committee was of
+the view that designing and drawing did not relate to the capital goods being
+imported, a different view cannot be taken now especially after the export
+obligation has been fulfilled.
+
+(xiii) The Customs authorities could have raised the objections regarding the
+valuation arrived at by the DGFT at the time of import of the goods when all
+the documents were available with them. The appellants would have approached
+the DGFT for revision of export obligation. It would tantamount to great
+jeopardy, if the appellants are now being asked to revise the CIF value of the
+machinery imported without a revision of the export obligation and the
+extension of the concessional rate of duty. This is precisely the view taken
+by the Tribunal in the following cases:
+
+(a) Jindal Vijayanagar Steel Ltd. v. CC, 2001 (131) ELT 667
+
+(b) Hy-Grade Pellets Ltd. v. CC, Apparently in pursuance to the observations
+of the Tribunal in the case of Hy-Grade Pellets Ltd. (supra), the Government
+has issued a Circular dated 26.7.2004 explaining the role of the
+representative of the Customs in the EPCG Committee.
+
+(xiv) It is further submitted that the sublance would be covered by the EPCG.
+It is precisely to avoid such anomalies that the DGFT issues a licence after
+taking into consideration all the aspects of the goods to be imported. The
+Customs authorities are therefore bound by licence issued and the value as
+determined by the Licensing Authority. The following case laws were relied on:
+
+(a) Titan Medical Systems Ltd. v. Union of India (UOI),
+
+(b) Wearon Exports (P) Ltd. v. Union of India (UOI),
+
+(c) Tata Iron & Steel Co. Ltd. v. CCE, Final Order No. 950/04 dated 21.5.2004
+
+(d) Gaur Impex v. CC, 2004 (94) ECC 45
+
+(e) DSL Software and Ors. v. CC,
+
+(xv) In terms of the Notification No. 160/92, as per condition No. (iii), the
+importer has to bind himself to pay on demand an amount equal to duty leviable
+but for the exemption, if the condition in the table to the Notification,
+namely fulfilment of export obligation is not fulfilled. In the present case,
+condition (iii) cannot be invoked as the export obligation has been fulfilled.
+Even if the assessable value of the capital goods under Section 14 is to be
+revised by the Customs authorities, the duty on such revised value would get
+exempted since the export obligation has been fulfilled. This is precisely a
+reason while fixing CIF value of the capital goods, the CBEC representative as
+part of the EPCG Committee has a vital role to play and once such a value is
+fixed and the resultant export obligation is fulfilled, any revision in the
+value cannot result in demand of duty.
+
+(xvi) The Commissioner has not invoked any provision of law in raising the
+demand of duty of Rs. 2,72,91,510 towards the value of design and engineering
+charges and Rs. 27,07,294 towards non-fulfilment of export obligation.
+
+(xvii) In the present case, no demand can be made based on the provisions of
+Section 28 of the Customs Act, 1962 either within six months or five years
+from the relevant date. The longer period can be invoked only when there is a
+suppression of material facts. All relevant information was furnished at the
+time of import and the authorities were very much aware of the EPCG licence
+had the break up in the invoice. In view of this position, there is no ground
+for invoking the longer period. The goods were imported in March 1995 and the
+show cause notice has been issued in December 1999. Since the longer period
+cannot be invoked, the demand is time barred.
+
+(xviii) The Commissioner has confiscated the goods under Section 111(m) of the
+Customs Act, 1962 holding that the appellants had misdeclared the value of the
+goods both the Licensing Authority and Customs authority with a view to evade
+payment of duty. As stated earlier, the appellants applied to the DGFT for the
+full value including the design and engineering charges. Once the licence was
+issued for a lesser value, the appellants were of the bonafide belieft that
+the design and engineering charges are not liable to duty. When a Government
+authority competent to issue the EPCG licence does not consider the value of
+design and engineering charges, the appellants cannot be held liable for the
+non-inclusion of the same. Moreover, the appellants did not import the said
+design and engineering and the same was imported by KELTRON which was
+subsequently handed over to the appellants. In view of the above, the demand
+of duty, the penalty imposed, confiscation ordered and the redemption fine are
+required to be set aside.
+
+5\. The learned JCDR made the following submissions:
+
+(i) As per Para 35 of the Order-in-Original the contract in question is a
+comprehensive one covering not only the supply of goods but also providing
+design and engineering for the manufacture of such goods and also to subject
+the goods so manufactured to tests using the design and engineering, before
+shipment. The Hon'ble Supreme Court in the case of Mukund Ltd. v. CC, Mumbai,
+2000 (120) ELT 30 (SC) held that when a contract provides for supply of basic
+design and engineering drawings and the supervision of erection, testing and
+commissioning based thereon, one is as much a part and a condition of the
+contract as the other and, therefore, additional of supervision charges to the
+assessable value is sustainable. That is, the Apex Court held that even
+charges incurred subsequent to the import are includible in the assessable
+value. In this case there was a single contract covering both supply of
+equipment as well as relating services such as design and engineering, project
+handling, documentation, tests and inspection. Further, the amount charged for
+these services DM 1253100 - covered all these services and not just design and
+engineering. All these activities were undertaken abroad prior to delivery and
+as per the terms of payment 90% payment was to be made on delivery on board
+vessel at port of shipment and the remaining 10% on completion of delivery
+(page 18 of contract). The commercial invoice raised was for a single amount
+without any break up. In view of these factors, the entire payment represents
+the transactions value for payment of customs duty.
+
+(ii) With reference to the argument that the design and engineering charges
+were for manufacturing activity to be undertaken in India, this argument is
+not supported by the provisions of the contract. The contract does not make
+any distinction between design and engineering charges for manufacture abroad
+and manufacture in India. On the other hand, the contract makes it abundantly
+clear that there is considerable design and engineering work to be undertaken
+for the main equipment and this work was to be completed within three months
+of entering into the contract. After completion of engineering work, the buyer
+was to give his approval and then manufacture was to be undertaken, followed
+by tests and inspection. Refer Time Schedule in the contract page 102,
+Annexure V. In view of the above, it is clear that the charges where primarily
+for pre-importation activities. It is conceded that the Division List (Page 72
+of the contract) does show the supply of engineering by the seller to the
+buyer for 8 items only. But no split up value is available for consideration
+as to whether any deduction is admissible. Reference is also invited to pages
+21, 43, 48, 89, 90, 93 (Annexure III), 99 (Annexure IV) and page 102 (Annexure
+V).
+
+(iii) Reference is also invited to the Acceptance of Tender document ad
+dressed by VSP to KELTRON dated 28.12.91 at page 204 of the paper book, Vol.
+1. Annexure 1 to this document at page 207, Paras 1.1. and 1.2 and 1.6.1
+clearly indicate design and supply of drawings and documentation for the
+entire project to be supplied by the contractor, KELTRON. At page 210, the
+price break up for the various items of work is stated. At Sl.No. 1 design and
+engineering charges for Group I to IV including design and engineering charges
+for computer hardware etc. are shown. Group IV at page 228 at Sl. 101
+specifically includes the sublance proper. Thus, the contract between VSP and
+KELTRON clearly shows that the design and engineering charges to be paid
+covers the imported equipment and only a portion was for the structural and
+electronic equipment to be manufactured in India.
+
+(iv) An argument has been advanced that the design and engineering charges are
+already included in the cost of the main equipment. Nowhere in the contract or
+any of the correspondence of VSP, internal, with KELTRON and with the
+Licensing Authorities, filed in the paper book is there anything to support
+this statement. On the other hand, the contract itself makes a clear
+distinction between the supply of equipment and the supply of related services
+such as design etc. Refer page 5 of the contract. This argument of the
+appellant is clearly not sustainable.
+
+(v) Considerable reliance has been placed by the appellants on the beneficiary
+certificate stated to be from the supplier in which it is clarified that the
+entire amount of DM 1269514 - pertains to design and engineering which covers
+layout, installation arrangements, instrumentation, electrical and hydraulic
+equipment etc. and that these drawings do not come under manufacturing and
+drawing category. The department has not accepted this certificate primarily
+because this statement is a total departure from the contract. In the first
+place the amount was collected not just for design and engineering but also
+for project handling, documentation tests and inspections (Para 3.3. at page 7
+and 4.1.1 at page 9). Definition of 'Services" at Para 1.3 at page 5 of the
+contract indicates that the scope covers the division List as well as Annexure
+III and IV. Secondly, the contract between VSP and Keltron also does not
+support this contention. In the absence of any explanation for this deviation
+from the contract in the certificate, the department has relied on the
+contract in terms of which this amount of DM 1253100 related to various pre-
+importation activities connected with the imported goods.
+
+(vi) The show cause notice has cited Rule 9(1)(b)(iv) of the Customs Valuation
+Rules. No doubt the department's case here is not that there was free supply
+of any service by the buyer. But the buyer has entered into a comprehensive
+contract for supply of both goods as well as design and engineering services.
+Therefore, the payments made are correctly to be included in the assessable
+value. Rule 9(1)(e) of the Customs Valuation Rules also includes all payments
+made as a condition of sale. It is a settled position that citing of
+inapplicable rules will not vitiate the proceedings if they are otherwise
+correct in law. It is also pointed out that this contention was not taken up
+before the adjudicating authority.
+
+(vii) With regard to argument that Customs do not have the authority to alter
+the value fixed by the licencing authorities in the EPCG licence and that if
+any such issue arose, the department should have brought it to the notice of
+the licensing authorities, it is submitted that both the order in the case of
+Hy-Grade Pellets relied upon and the Board's Circular are subsequent to the
+adjudication of this case. Therefore, the procedural requirements prescribed
+in the Circular and the view expressed in the Hon'ble Tribunal's order that
+the licencing authorities should be informed so that the export obligation
+could be re-determined could not be followed in this case. However, if as per
+the Customs law any additional amount is included in the assessable value
+which is not covered by the value indicated in the EPCG licence, there is
+legally no option but to deny the duty benefit under the EPCG scheme and levy
+duty at normal rates unless the licence is further amended. The concessional
+rate cannot be extended if the amount is not covered by the licence.
+
+(viii) Following case laws are also relied upon:
+
+(a) Mukand Ltd. v. CC (Airport) Mumbai, 2000 (120) ELT 30 (SC)
+
+(b) Mukand Ltd. v. CC Mumbai, 1999 (112) ELT 479 (Tri)
+
+(c) Essar Gujarat v. CC, 1996 (88) ELT 609 (SC)
+
+(d) Dabhol Power Co. v. CC, Pune,
+
+(e) Gujarat Mineral Development Corporation Ltd. v. CCE, Ahmedabad, 2000 (117)
+ELT 432 (Tri)
+
+(f) Panacea Biotech Ltd. v. CC (ACC) New Delhi,
+
+(ix) On all other issues covered in this appeal, findings in the Order-in-
+Original are reiterated.
+
+6\. We have gone through the records of the case carefully. The following
+issues have to be decided in this case:
+
+(i) Whether the design and engineering including documentation, project
+handling, workshop test and inspections re (sic) to be included in the
+assessable value for payment of Customs duty on import of Sublance System LD-3
+by Visakhapatnam plant of M/s Rashtriya Ispat Nigam Ltd. under Rule
+9(1)(b)(iv) of the Customs Valuation Rules, 1988 in the facts and
+circumstances of the case?
+
+(ii) Whether the export obligation has been fulfilled by the appellants in
+terms of EPCG licence granted to them?
+
+(iii) Whether the impugned goods are liable for confiscation?
+
+(iv) Whether the appellants are liable to penalty under Section 112A of the
+Customs Act, 1962:
+
+The appellants wanted an Automatic Sublance System LD-3 to be installed in
+their steel melt shop (SMS-1) in the premises of Visakhapatnam Steel Project.
+In fact, they were interested to give the work to KELTRON. M/s KELTRON in turn
+entered into an agreement with the MDH, Germany. This agreement covers design,
+engineering including documentation, supplies and related services. The
+agreement is a very comprehensive one. It is seen that the entire Automatic
+Sublance System has not been imported from the MDH. The imported capital goods
+are mentioned in Para 4.1.1, 4.1.2, 4.2, 4.3, 4.4. For installing the
+Automatic Sublance System from the imported capital goods, other goods
+manufactured and procured in India were also needed. The contention of the
+appellants is that the design and engineering charges represent the charges
+incurred in connection with the goods manufactured and procured in India and
+not related to the imported goods. In this connection, the appellants have
+referred to the Division Lists. The Division Lists indicates the items which
+will be imported from the seller (MDH) and also the items to be procured in
+India. The contention of the appellants is that the design and engineering
+charges related to the design of the items to be manufactured in India. This
+design is carried out by MDH and for that purpose, the said charges were paid
+to them. In other words, the above charges were not paid to MDH for the design
+of the equipment imported from the MDH, namely Sublance System. A perusal of
+the Division Lists shows that the platform for Hoist has to be procured from
+India. However, its engineering is by MDH as shown in remarks column 6 of the
+Division Lists. Similarly, in respect of many items even though the
+procurement is from India by the buyer, the engineering is by MDH. Therefore,
+the contention of the appellants cannot be easily brushed aside. Moreover, the
+appellants even prior to the import of the equipments had furnished a
+certificate from the foreign suppliers. The certificate is reproduced below:
+
+"This is to certify that the amount of DM 1.269.514 invoiced against 4.1.1 of
+our invoice No. 101 515 dtd. 8.6.1994 (B/L No. 1 dtd. 20.6.1994 - "MV STATE OF
+TRIPURA) pertain to Design and Engineering which covers Layout, Installation
+Arrangements of Sublance and its Accessories, General Layout Drawings of
+Electrical Equipment, Instrumentation Equipment and Hydraulic Systems and Lay
+Out Drawings for other Utilities like Nitrogen and Water and Emergency Lifting
+arrangement etc., required for installation and commissioning.
+
+This is also to certify that these drawings do not come under manufacturing
+drawings/category of our equipments supplied to you."
+
+A combined reading of the Division Lists and also the certificate given by the
+MDH shows that these charges did not relate to the equipment imported. In any
+case, the certificate dated 2.10.1995 was produced even before the import of
+the equipments in March 1995. Obviously at the time of the clearance of the
+goods, the Customs Department has not questioned the bona fide of the
+certificate. Again the correspondence of the appellants with the DGFT shows
+that the appellants actually wanted these charges to include in the EPCG
+licence. But EPCG Committee in its wisdom took a conscious decision to exclude
+these charges. This is clear from the following letter addressed by the DGFT
+to the appellants. The letter dated 11.11.2003 is reproduced below:
+
+"GOVERNMENT OF INDIA MINISTRY OF COMMERCE AND INDUSTRIES (DIRECTORATE GENERAL
+OF FOREIGN TRADE) MAULANA AZAD ROAD, UDYOG BHAWAN, NEW DELHI-110011 F. No.
+18/1404/AMS4/EPCG-II Dated 11.11.2003 To The Deputy Manager, Rashtriya Ispat
+Nigam Ltd., Visakhapatnam Steel Plant, 6th Floor, Prakashdeep Building, 7,
+Tolstoy Marg, New Delhi-110001.
+
+Sub : Clarification sought with regard to EPCG Licence No. P/CG/2133084 dated
+6.5.1994.
+
+Gentlemen, With reference to your letter dated 3.11.2003 on the above-
+mentioned subject, I am directed to inform you that your request has been
+examined by the office. On perusal of the file, it is observed that after
+Personnel hearing of your representative, Shri Sanjay Dargan, Manager
+(Exports) in EPCG Committee meeting held on 21.2.94 and on comments of
+technical authorities in subsequent EPCG Committee meeting held on 25.4.94,
+the Committee decided to exclude the items mentioned at Sl.No. 1 & 5 of the
+break up list of the CGs provided by the Company i.e. Design Engineering
+including documentation project handling work shop tests and inspection, which
+did not cover under the EPCG scheme.
+
+You are therefore informed that pursuant to the decision of the EPCG
+Committee, a licence (No. P/CG/2133084) was issued to Rashtriya Ispat Nigam
+Ltd. for a CIF value of DM 2560156 (Rs. 47414089) instead of a CIF value of DM
+3845000 as applied for by reducing the value of licence accordingly after a
+personnel hearing of Co.'s representative."
+
+Yours faithfully, Sd/-xxxxxxxxx (N. SRIVASTAVA) FOREIGN TRADE DEVELOPMENT
+OFFICER FOR DIRECTOR GENERAL OF FOREIGN TRADE"
+
+From the above letter, it is clear that the appellants wanted the CIF value of
+the licence for DM 3845000 but the EPCG Committee issued only for CIF value DM
+2560156. It is very clear that the EPCG Committee took a conscious decision to
+exclude the design and engineering charges. The EPCG Committee was convinced
+that these charges do not relate to the goods under import. When the said
+decision has been taken on the basis of facts, it is not for the
+Jurisdictional Authorities, long after the import has been completed to say
+that these charges should be included. It should also be borne in mind that
+the EPCG Committee has one member representing the Customs Department. Before
+proceeding against the appellants, the Jurisdictional Authorities should have
+consulted with the CBEC. There is no record that they had done so. In the
+facts and circumstances of the case, there is ample evidence to show that
+design and engineering charges did not relate to the imported goods and the
+EPCG Committee took this factor into account while excluding these charges
+from the scope of EPCG licence. In this connection, the Circular No.
+46/2004-Customs, dated 26.7.2004, issued by the CEBC is very relevant. The
+same is reproduced below:
+
+"3. In respect of Import of capital goods under EPCG Scheme, there is linkage
+between the CIF value of imported capital goods and the quantum of export
+obligation fixed against the EPCG Licence by DGFT authorities. Hence, if
+Customs have any doubts about valuation of imported capital goods in relation
+to addition of the element of any other charges in value then before
+initiating any precipitative action, the Jurisdictional Commissioner of
+Customs should bring this to the notice of Board which will take up the matter
+with concerned DGFT authorities so that necessary corrective action, if any,
+is taken simultaneously by Customs and DGFT. There is already a Committee set
+up for this purpose in which CBEC is also represented. Role of representative
+of CBEC in the EPCG Committee should be clearly understood and effectively
+fulfilled. The aspect of classification and valuation (under the Customs Act
+and Rules made thereunder) should be examined at the stage of issue of EPCG
+licence by the representative of the CBEC attending EPCG Committee meetings.
+Should there still be an incorrect CIF value on such a licence issued by the
+DGFT and this gets subsequently noticed at the time of Import/assessment, then
+this will be brought to the notice of the Member (Customs) & DGFT immediately
+for suitable rectification. This is also because DGFT will have to
+simultaneously increase the CIF value of the EPCG Licence and also the quantum
+of export obligation specified therein. Unilateral action by Customs in such
+cases may ultimately held the EPCG licence holder to escape the clutches of
+law because under EPCG Scheme both Customs and DGFT authorities have important
+roles to play.
+
+4\. It is therefore reiterated that in all cases pertaining to EPCG Scheme
+where Customs have doubts about valuation, quantum of EO etc., the
+jurisdictional Commissioner of Customs scrupulously follow the instructions
+contained in DOR Circular No. 24/2002."
+
+In fact even in this Circular, Board has clarified the Circular No.
+24/2002-Cus dated 6.5.2002 that normally redemption of Bond/BG filed under
+EPCG Scheme by the licence holder shall be allowed by Customs on the basis of
+E.O. Discharge Certificate issued by the DGFT authorities. However, in case of
+doubts, Customs may refer the matter to the DGFT to take suitable corrective
+action. In this case, if the Customs Department had entertained doubt in the
+EPCG licence, they could have referred the matter to the DGFT. This is so,
+because the EPCG licence is decided by a Committee consisting of
+representatives from both the DGFT and the Customs Department. After the EPCG
+licence is issued, if each department takes diametrically opposite views, the
+trade or the assessee could be put to a great hardship. Anyhow on going
+through the records, we find that the design/engineering charges did not
+relate to the imported goods. There is no reason for including the same in the
+CIF value of the goods imported. Moreover, the appellants have placed all the
+facts before the EPCG Committee while getting the EPCG licence. They had also
+placed all facts before the Customs Department at the time of clearance.
+Hence, there is no evidence to show that the appellants had suppressed the
+facts with a view to commit fraud to evade payment of duty. Hence, the longer
+period for demanding duty cannot be invoked. As regards, the demand of Rs.
+27,07,294 on account of shortfall in export obligation fulfilment, we cannot
+uphold the Commissioner's findings. It is true that there was some delay in
+fulfilling the export obligations within the date specified by the DGFT.
+However, the appellants addressed the DGFT to extend the time and
+consequently, the DGFT themselves accepted the export made after the
+stipulated date. When the DGFT had issued the E.O. certificate by condoning
+the delay, the Customs authorities cannot reject the condonation and demand
+duty on the appellants. If this is allowed, this would make the entire system
+of working of Government Departments a mockery. Therefore, we set aside the
+demand of Rs. 27,07,294 on account of shortfall of the demand. Since the duty
+demands have been set aside, the confiscation of impugned goods is also set
+aside. There is absolutely no justification in imposition of fine and penalty.
+In these circumstances, we allow the appeal with consequential relief.
+

@@ -1,0 +1,664 @@
+
+
+National Company Law Appellate Tribunal
+
+Verifone India Sales Pvt. Ltd vs Cci & Atos Worldline India Pvt. Ltd on 13
+March, 2020
+
+Bench: S.J. Mukhopadhaya Chairperson, Bansi Lal Bhat
+
+    
+    
+                                                   1
+    
+    
+                  NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+                                            NEW DELHI
+                         TA(AT) (COMPETITION) NO.01 OF 2017
+                               (OLD APPEAL NO.82 OF 2015)
+    In the matter of:
+    Verifone India Sales Pvt Ltd                                        Appellant
+    Vs
+    CCI & Atos Worldline India Pvt Ltd                                  Respondents
+
+For Appellant: Mr Rajshekhar Rao, Mr Ritwik Bhattacharya and Ms Chandni Anand,
+Advocates.
+
+For Resp[ondents: Mr. Pallav Shishodia, Senior Advocate alongwith Mr Febin M
+Varghese, Advocate for Respondent No.1-CCI Mr. Ravisekhar Nair, Mr. Sahil
+Khanna and Ms Tanaya Sethi, Advocates for Respondent No.2.
+
+With TA(AT) (COMPETITION) NO.02 OF 2017 (OLD APPEAL NO.83 OF 2015) In the
+matter of:
+
+    
+    
+    Verifone India Sales Pvt Ltd                                        Appellant
+    Vs
+    CCI & Three D Integrated Solutions Ltd                              Respondents
+    
+
+For Appellant: Mr Rajshekhar Rao, Mr. Naval Satarawal Chopra, Mr Ritwik
+Bhattacharya, Mr Gauru Purv, Mr Sagar Parekh, and Ms Chandni Anand, Advocates.
+
+For Resp[ondents: Mr. Pallav Shishodia, Senior Advocate alongwith Mr Febin M
+Varghese, Mr Robin David and Mr Dhiraj PhilipAdvocate for Respondent No.1-CCI,
+Mr. Navdeep Singh Suhag, Dy. Director CCI Mr. Ravisekhar Nair, Mr. Sahil
+Khanna and Ms Tanaya Sethi, Advocates for Respondent No.2.
+
+JU DGMENT SUDHANSU JYOTI MUKHOPADHAYA, J M/s Atos Worldline India Pvt Limited
+('Informant)' filed information under Section 19(1)(a) of the Competition Act,
+2002 against M/s Verifone TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals
+No.82 and 83 of 2015)  2 India Sales Pvt Ltd (Opposite Party No.1/Verifone
+herein) and M/s Verifone System Inc (Opposite Party No.2) alleging
+contravention of the provisions of Section 4 of the Act. The Commission
+instituted it as Case No.56/2012.
+
+2\. M/s Three D Integrated Solutions Ltd (another 'Informant') had also filed
+information under Section 19(1)(a) of the Competition Act, 2002 against M/s
+Verifone India Sales Pvt Ltd (Opposite party/appellant herein) inter alia
+alleging contravention of provisions of Section 3 and 4 of the Act. It was
+registered as Case No.13/2013.
+
+Case of M/s Atos Worldline India Pvt Ltd
+
+3\. The Informant, M/s Atos Worldline India Pvt Ltd is owned by Atos, a global
+information technology services company operating in the areas of hi- tech
+transactional services and system integration and management services. It was
+informed that the Opposite Party No.1 i.e. appellant is leading supplier of
+Point of Sale (hereinafter referred to as 'POS') Terminals in India having
+control over nearly 70% to 80% of the market. It had acquired several other
+players in the POS Terminal marketing in India such as Lipman Electronic India
+Pvt Ltd in 2006, Hypercom India and Gemalto in 2011.
+
+4\. It is stated that appellant supplies POS Terminals along with core POS
+Terminal applications (i.e. Operating System and Kernels) and Software
+Development Kits (hereinafter SDKs) to enable the basis functionality of the
+POS Terminals. It is submitted that POS Terminals along with its core
+applications are either sold directly to the customers like banks and retail
+outlets or to the third party processor (TPPs) such as Informant who act on
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  3
+behalf of acquiring banks and also render Value Added Services (VAS) to
+develop and integrate applications into POS Terminals
+
+5\. It is averred that for the provision of VAS, it is extremely important for
+the Informant to have access to the core POS Terminal applications and their
+crucial enhancements/updates along with SDKs. Withholding of such
+enhancements/updates and SDKs by the POS Terminal manufacturers will
+negatively impact the growth of the TPP and VAS markets. It is stated that as
+per standards industry practice, core POS Terminal applications and SDKs are
+provided alongwith the POS Terminals and the costs of the same are built into
+the price paid for the POS Terminals.
+
+6\. The Information stated that between September, 2010 and December, 2011,
+the appellant continued to provide SDKs to the Informant alongwith the POS
+Terminals and core terminal applications without any restrictions on the use
+of SDKs. Appellant also used to provide training to the Informant's engineers
+to enable the Informant to render VAS to its customers.
+
+7\. The Informant stated that cost of core applications and SDKs were always
+included in the purchase orders for the purchase of the POS Terminals. In
+relation to enhancements and updates to core terminals applications, the
+purchase orders contained clauses stipulating the terms and conditions. It is
+stated that in practice such enhancements and updates were provided at no
+extra cost, other than the price paid at the time of procurement of POS
+Terminals.
+
+8\. It is submitted that after acquisition of Venture Infotek by the Informant
+in August, 2010, the appellant issued a termination letter to the Informant in
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  4
+September, 2010 alleging breach of Source Code License Agreement (hereinafter,
+SCLA) which was signed between them in July, 2009 for a particular model of a
+POS Terminal. Informant stated that despite issue of the said termination
+letter, the appellant continued to supply PO S Terminals along with its core
+applications, SDKs and training to its engineers for the use of SDKs.
+
+9\. It is averred that in January, 2012 the appellant sent a proposed draft
+SDK agreement to the Informant stating that the same is not open to any
+negotiations, amendments or changes and that the Informant has to insert
+certain details in the said draft SDK agreement and to counter sign it. The
+Informant alleged that through the said draft SDK agreement the appellant
+sought to impose certain restrictive conditions on it.
+
+10\. The Informant stated that the terms of the said draft SDK agreement and
+the restrictions contained therein were a complete departure from the business
+practice that had existed in the industry for several years. Moreover, no
+legitimate business reasons were provided by the appellant to carry out such
+drastic changes in the said draft SDK agreement. It is alleged that the
+restrictions contained in the draft SDEK agreement foreclose the VAS market.
+
+11\. The Informant averred that since early January, 2012, the appellant has
+adopted a very unreasonable position and there was an unprecedented delay in
+the supply of kernels which caused heavy revenue loss to it. It is alleged
+that between January, 2012 and July, 2012, the appellant made repeated
+attempts to force the Informant to agree to the terms and conditions as set
+out in the draft SDK agreement. Further the appellant issued several
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  5
+reminders to the Informant to complete the formality of signing the draft SDK
+agreement, failing which the appellant threatened to withdraw the SDK support
+for the Informant's business. It is averred that the Informant was constrained
+to issue several letters to the appellant highlighting the unreasonable nature
+of the restrictions set out in the draft SDK agreement. It is the case of the
+Informant that despite repeated attempts to engage in constructive discussion
+with the appellant on the restrictive conditions of the draft SDK agreement,
+it issued a termination letter dated 01.08.2010.
+
+12\. It is alleged in the information that the appellant over the past few
+years also made in-roads into the VAS market and operates as a direct
+competitor to the Informant and other entities operating in the VAS market. It
+is alleged that on account of the appellant's dominant position in the POS
+Terminals market and its presence in the VAS market, it resorted to the
+conduct and practices which directly impair not only the ability of VAS
+providers from operating in the market but appropriate the Informant's IPR in
+the VAS market.
+
+13\. It is alleged that at a global level the Informant and Verifone are
+competitors in the provision of hardware and software solutions to the payment
+industry. But, in India the Informant is operating in the TPP and VAS spheres
+only whereas the appellant is not only dominant in the POS Terminals market
+but also active in the VAS market where it primarily operates in the non-
+financial applications and is now leveraging its strength to compete in the
+financial services market.
+
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  6
+
+14\. Citing RBI's Payment System Vision Document, 2012-156, the Informant
+stated that in the POS Terminal manufacturing industry in India, Verifone and
+Ingenico are the two prominent players. By virtue of being almost an exclusive
+supplier of POS Terminals in India, the appellant exercises significant
+control over the supply of hardware and software solutions.
+
+15\. The Informant has also stated that there appears to be no objective
+justification for imposing unreasonable and unfair terms in the draft SDK
+agreement. These terms would effectively eliminate the Informant from the
+downstream market and would support the appellant's interest by eliminating
+competition in the market. The Informant has alleged that appellant by
+imposing restrictions in the draft SDK agreement, is aiming to strengthen its
+position in the VAS market.
+
+16\. Based on the above submissions, the informant has alleged that the
+appellant, through the 2012 draft SDK agreement, has sought to impose unfair
+and unreasonable conditions and prices on the Informant which is in
+contravention of 4(2)(a)(i) and (ii) of the Act. The appellant by imposing
+severally restrictive terms and conditions on the usage of SDKs and by
+demanding payment of unfair prices for provision of service has sought to
+limit and restrict provision of services and technical development in the
+market which is contravention of section 4(2)(b)(i) and (ii) of the Act. IT is
+also alleged that the appellant has sought to deny market access to VAS
+providers in contravention of section 4(2)(c) of the Act. Further the
+appellant allegedly TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82
+and 83 of 2015)  7 intended to use its dominant position in POS Terminals
+market to dominate VAS market in contravention of section 4(2)(e) of the Act.
+
+17\. Based on the above submission, the Informant inter alia prayed to the
+Commission to direct the appellant to cease and desist from indulging in
+abusive conduct; discontinue from imposing unfair, restrictive and
+discriminatory conditions in relation to use of SDKs and enhancements to core
+applications; not to give effect to the 2012 Termination letter, impose
+appropriate penalty on the appellant for abuse of dominant position and grant
+such other reliefs as the Commission may deem appropriate in the facts and
+circumstances of the case.
+
+18\. The Commission referred the matter for investigation by Director General
+(DG). After receipt of investigation report filed by the DG, notices to the
+appellant was issued and the objections/replies from the appellant was
+received in response to the DG Report. By impugned order dated 10th April,
+2015 the Commission held that it has come to the conclusion that the conduct
+of the appellant is abusive in terms of Section 4 of the Act. The Commission
+is of the considered opinion that through the SDK agreement the appellant has
+imposed unfair conditions on VAS/TPP service providers which is in
+contravention of Section 4(2)(a)(a)(i) of the Act; restricted the provision of
+VAS services as well as limited/restricted the technical and scientific
+development of VAS services used in POS Terminals market in India which is in
+contravention of Section 4(2)(b)(i) and (ii) of the Act. The Commission also
+held that the conduct of the appellant with respect to seeking disclosure of
+sensitive business information from the customer is the downstream market
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  8 in
+order to enable to enter into the downstream market of VAS services in in
+contravention of the provisions of Section 4(2)(e) of the Act.
+
+19\. The Commission also directed the appellant (opposite party No.1) to cease
+and desist from indulging in the activities which have been found to be in
+contravention of the provisions of Section 4 of the Act and imposed penalty
+under Section 27 of the Act at the rate of 5% of its turnover based on the
+financial statements filed by the appellant herein i.e. Rs.4,48,40,236/- Case
+of M/s Three D Integrated Solutions Ltd
+
+20\. M/s Three D Integrated Solutions Ltd is engaged in the business of video
+broadcasting, audio broadcasting. The appellant (Opposite Party No.1) is
+wholly owned subsidiary of M/s Verifone System Inc headquartered in USA. It
+has been engaged in the business of manufacturing, development and selling of
+hardware and software solutions such as mobile Electronic Ticketing Machines
+(hereinafter ETMs) Point of Sale (POS) terminals and related services and
+expertise that enable electronic payment transactions at POS terminals.
+
+21\. Informant stated that Ministry of Urban Development (MOUD) Govt of India
+launched a National Programme for Standardised Automatic Fare Collection
+System (hereinafter AFCS) in eighty cities with a National Common Mobility
+Card (hereinafter NCMC) for passengers. The MOUD award the project of
+launching an all India common mobility card along with AFCS to UTI
+Infrastructure Technology Services Ltd (UTIITSL) and its consortium partner
+across India. UTIITSL floated a Request for Proposal for implementation of
+Integrated Transport Management System (TIMS) with a TA(AT)(Competition)No.1
+and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  9 NCMC for Jaipur City
+Transport Services Ltd (JCTSL) in Jaipur. The said bid was awarded to M/s
+Efkon India Pvt Ltd Hereinafter EFKON) who in turn sub- contracted to the
+Informant for supply, installation and maintenance and handheld payment device
+for mobile use with wireless connectivity, security certifications etc to be
+used in buses for the aforesaid project.
+
+22\. Informant had placed a purchase order dated 5.4.2012 for Rs, 45,00,342/-
+with the appellant for the supply of 275 nos of Vx680 fully functional mobile
+ETMs for ITMS project in the city of Jaipur. The appellant was required to
+supply fully functional ETMs and relevant accessories on which the Informant
+was supposed to load independent application software and operate from its
+infrastructure. Informant alleged that the appellant was well aware of the
+requirements, methodology, end use and the project plan for which ETMs were
+procured but did not communicate to the Informant about any restrictive
+conditions in its offer.
+
+23\. After securing and accepting the purchase order dated 5.4.2012 the
+appellant informed the Informant regarding the restrictive use of the ETMs
+i.e. requirement of a Software Development Kit (SDK) to achieve full
+functionality of ETMs. Informant alleged that the appellant, a major player in
+the hardware market for ETMs, wanted to attain a similar position in the
+market for software loaded in the ETMs. Informant alleged that such conduct of
+the appellant clearly indicates its malicious intent and motive to circumvent
+the Informant's business and sets the grounds for its monopolistic opportunity
+in the nascent transportation automation sector. The Information alleged that
+the appellant was under legal and moral obligation TA(AT)(Competition)No.1 and
+2 of 2017 (Old Appeals No.82 and 83 of 2015)  10 to disclose the complete
+material information regarding the device including the fact that the device
+cannot work without purchasing its proprietary SDK before selling the same to
+the Informant. Having no choice left, the Informant purchased the SDK from the
+appellant for Rs.3,65,615/-
+
+24\. Informant alleged that the appellant asked the Informant to sign a very
+restrictive agreement with regard to the use of its SDK. Further the appellant
+with an ulterior motive, set aside the internationally accepted norms for SDK
+agreement and, in the garb of IPR protection, created an agreement with an
+absolute restriction on the Informant's independence to conduct business.
+Since the Informant was already running behind schedule and was under the
+threat of penalties and even cancellation of order, it had no choice but to
+sign the agreement with highly restrictive clauses. It is also alleged that
+the appellant did not sign and return the copy of the said agreement to the
+Informant.
+
+25\. It is alleged that SDK which was delivered by the appellant on 30.6.2010
+was locked by a security key i.e. File Signing Tools (hereinafter FST) which
+was an integral part of SDK and that the appellant illegally withheld the
+security key. Further the said SDK swas an incompatible version and not
+appropriate for ETMs delivered and also some of the critical components were
+also not supplied. It is stated that due to short supply and incompatible SDK,
+the supplied ETMs became useless for the Informant and it was fully dependent
+on the appellant for functioning of ETMs. This caused delay in the development
+process and the Informant had to suffer not only in terms of monetary loss but
+also in terms of reputation in the market. TA(AT)(Competition)No.1 and 2 of
+2017 (Old Appeals No.82 and 83 of 2015)  11
+
+26\. Informant alleged that by not delivering the FST on time, the appellant
+restricted it from making use of ETMs. It is alleged that the intention of the
+appellant was to delay the project so that the end users are frustrated
+thereby projecting the informant in bad light. Further to achieve its malafide
+intention, the appellant made flimsy excuses of protection of IPR for the SDKs
+and also illegally started to inspect the software submitted by the Informant
+to pilfer the business model of the Informant.
+
+27\. Informant alleged that the appellant even approached the end user itself
+i.e M/s Efkon on 17.8.2012, bypassing the Informant and made a commercial
+offer on the basis of knowledge gained from pilferage of the Informant's
+software given to the appellant for trial. The informant alleged that such
+conduct fully confirmed the hidden motive, unfair trade practices and desire
+of the appellant in creating step by step restrictions and delays leading to
+the circumvention of the Informant and setting the ground for its monopolistic
+control.
+
+28\. Informant alleged that he had served two legal notices to the appellant
+on 21.8.2012 and 29.09.2012 for its alleged wrong doings. However, the
+appellant gave an evasive reply stating that the contentions in the notices
+were frivolous, wrong, incorrect, mischievous and baseless.
+
+29\. Informant also alleged that the appellant took undue advantage of its
+dominant position in the market in view of the fact that the consumers were
+completely dependent upon it and there was no choice with the consumers.
+Informant alleged that the appellant has entered into an anti-competitive
+agreement i.e. the exclusive supply agreement which has appreciable adverse
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  12
+effect on competition in India and has the effect of restricting the dealing
+in any goods other than those of the appellant and therefore, amounts to
+violation of Section 3 of the Act.
+
+30\. Informant, seeing the said abusive conduct of the appellant, prayed
+before the Commission to cause an enquiry against the appellant for the
+alleged contravention of Sections 3 and 4 of the Act, and direct the appellant
+to cease and desist from abuse of its dominant position and to comply with its
+purchase order dated 5.4.2012.
+
+31\. The Commission after considering the material available on record and
+having informed that prima facie case is made out, directed the Director
+General (DG) to conduct investigation into the matter under Section 26(1) of
+the Act. The DG had investigated the matter and submitted its report, on which
+notices were issued to appellant herein/opposite party. The Commission, upon
+hearing the parties and perusal of evidence arrived at the conclusion that the
+licence restriction clause to "not use the licensed software to develop any
+payment software that directly or indirectly interacts with any acquiring
+bank" seems to be unfair and restrictive. The SDK license agreement of the
+appellant does not allow a third party to write a payment application in India
+which is contrary to the practice followed by the appellant elsewhere across
+the globe as is evidenced from the statement made in its website i.e.
+"Verifone offers a selection of developer tools and drivers to help
+programmers design and develop efficient, professional payment applications
+that complement our payment systems". Further, by restricting the development
+of payment softwares for any payment association and not
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  13
+disclosing the said clause to the large buyers in India who would require
+customized payment softwares to run on the POS terminals bought by them, the
+appellant has restricted the availability of substitutable payment solutions
+thereby restricting the choice for the buyers. Thus, the restrictions imposed
+by the appellant on development of payment software by the third parties
+appear to be anti-competitive.
+
+32\. The Commission observes that the clause relating to not license, sell or
+otherwise transfer any software that the appellant develops using the licensed
+software to any third party of SDK license agreements appears to be unfair,
+limits/controls the provision of VAS services and limits/restricts the
+technical and scientific development of VAS services used in POS terminals in
+India.
+
+33\. It is further observed that the license restriction clause relating to
+disclosure mentioned in the SDK license agreement imposes three different
+disclosure requirements namely; a) disclose to licensor from time to time the
+activities relating to licensed software; b) what value added software it has
+created; and c) what licensee intends to create using the licensed software.
+It may be noted that the appellant is a POS terminal manufacturer and is also
+engaged in the development of VAS applications. It appears that by way of
+these restrictions, the appellant was trying to get access to confidential
+commercial information from the VAS providers and to exploit the lucrative VAS
+market. The requirement of prior disclosure to the appellant about the VAS
+developed by the Informant amounts to imposition of unfair condition on the
+Informant as well as limits the provision of VAS service. Further seeking
+information on the VAS services which the Informant intends to develop is
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  14
+likely to prejudice the business activities of the Informant as the appellant
+is developing into a major competitor for the Informant in the VAS/TPP market
+in India. Such restriction appears to restrict technical or scientific
+development relating to VAS services for POS terminals in India. Since the
+appellant is large player (in terms of market share of POS terminals managed
+by banks in India) and it itself is a manufacturer of POS terminals, its
+conduct with respect to seeking disclosure of sensitive business information
+from its customers in the downstream market with a view to protect/enhance its
+presence in the downstream market of VAS services is abusive in terms of
+Section 4 of the Act.
+
+34\. Based on the above analysis the Commission is in agreement with the DG
+findings, comes to the conclusion that the conduct of the appellant is abusive
+in terms of Section 4 of the Act. The Commission is of the considered opinion
+that through the SDK agreement, the appellant has imposed unfair conditions on
+the Informant which are in contravention of section 4(2)(a)(i) of the Act;
+restricted the provision of VAS services as well as limited/restricted the
+technical and scientific development of VAS services used in POS terminals in
+India which is contravention of Section 4(2)(b)(i) and (ii) of the Act and the
+conduct of the appellant with respect to seeking disclosure of sensitive
+business information from its customers in the downstream market in order to
+enable it to protect the downstream market of VAS service is in contravention
+of the provisions of Section 4(2)(e) of the Act.
+
+35\. The Commission accordingly issued impugned order dated 10th April, 2015
+under Section 27(b) of the Act and not imposed penalty but took lenient
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  15
+view in imposing the penalty in view of the penalty imposed in the earlier
+case as referred to above (Case No.56/2012) wherein penalty of
+Rs.4,48,40,236/- has been imposed on the opposite party (appellant herein) at
+the rate of 5% of its average turnover for the last three financial years.
+
+36\. So far as individual liability of the officials of the appellant in terms
+of provisions of Section 48 of the Act is concerned, the Commission directed
+them to file their income statements/Income Tax Returns and decided to pass an
+order separately in respect of them.
+
+37\. It is in the aforesaid background both the cases were heard together and
+disposed off by this common judgement.
+
+38\. Learned counsel for the appellant, M/s Verifone India Sales P:vt Ltd,
+almost made similar submission in both the appeals. In respect of Atos
+Worldline India Pvt Ltd an additional plea was taken that the impugned
+agreement was a draft agreement and its terms were being negotiated at the
+time of filing of the complaint. However, we are not inclined to accept the
+submission in view of the language of the agreement, which shows that the
+Verifone practically asked the Atos Worldline India Pvt Ltd to sign on the
+agreement within the dotted line of the Agreement.
+
+39\. Once it is held that the appellant is a dominant player of POS Terminal
+in the relevant market then asking Atos Worldline India Pvt Ltd to sign within
+the dotted line of the agreement will also amount to abuse of dominant
+position in violation of Section 4(2)(a)(i), 4(2(b)(i), 4(2)(b)(ii) and
+4(2)(e) of the Act, 2002.
+
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  16
+
+40\. Learned counsel for the appellant submitted that the relevant period to
+be considered while assessing the relevant market and alleged dominance should
+be 2012 onwards. According to him market for POS Terminals in India cannot be
+held within relevant market. According to appellant the purpose of defining a
+relevant market is to determine the competitive constraints on the enterprise
+under investigation. Accordingly all reasonably foreseeable constraints, such
+as, technologies at use elsewhere or imminently entering the market must be
+included in the definition of the relevant market. It was submitted that as
+all electronic payment devices perform the same function, with the same end
+use, i.e. to process electronic payments at the merchant's location, the
+relevant market should be considered as the "market for electronic payments in
+India". However, without prejudice to the above, it was submitted that at the
+very least, the relevant market should be defined as the market for POS and
+mobile POS terminals in India.
+
+41\. Section 2(t) and 19(7) of the Act provide that while defining the
+relevant market, the Commission is required to consider the substitutability
+between the various products based on factors such as end use,
+characteristics, price and consumer preferences. It was submitted that Mobile-
+POS terminals and POS terminals are virtually the same product, with similar
+characteristics, price and intended use. Both devices are used to swipe the
+user's card at the merchant's location to process payments, and the
+methodology of functioning of both devices is also the same, from swiping of
+the card to final processing of payments. Additionally, the stakeholders
+involved for both devices (i.e. banks, TPPS and VAS providers) are largely the
+same, and similar VAS can (and is) developed on both machines by VAS
+developers. It was submitted TA(AT)(Competition)No.1 and 2 of 2017 (Old
+Appeals No.82 and 83 of 2015)  17 that the only discernible difference between
+the two devices is that Mobile POS machines are more compact and portable in
+nature than POS terminals. A diagrammatic representation of both products has
+been enclosed.
+
+42\. It was submitted that the Commission has altogether failed to consider
+evidence on record which clearly establishes that owing to the similarity of
+POS and Mobile POS terminals, consumers (including large banks such as SBI,
+Axis Bank, Citibank and companies such as Reliance) treated POS and Mobile POS
+as substitutable even in 2012. This was further corroborated by the PwC Report
+on Electronic Payments Market in India, 2014.
+
+43\. Counsel for the appellant submits that there is no analysis by the
+Commission under Section 2(t) and 19(7). It was submitted that while defining
+the relevant market, the Commission has not undertaken an analysis of any of
+the factors provided under Sections 2(t) and 19(7) of the Competition Act (end
+use, characteristics, price and consumer preferences). The Commission has
+summarily agreed with the DG's Report, which had itself also not undertaken
+any analysis of the relevant factors.
+
+44\. Relying on the decision of this Appellate Tribunal in Hyundai Motor India
+Pvt Vs. Competition Commission of India & Ors, Competition Appeal (AT)
+No.06/2017, it was submitted that the aforesaid approach undertaken by the
+Commission have been held to be incorrect. It was contended that Verifone is
+not in a dominant position even in the narrow POS terminal market. Without
+prejudice to the submission above that the relevant market should not be
+considered as narrow as the market of POS terminals, it is submitted
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  18
+that even in the narrow relevant market for POS terminals, Verifone is not in
+a dominant position.
+
+45\. According to counsel for the appellant that even during the relevant
+period of 2012-13, Ingenico had a market share of 57% while Verifone had a
+market share of only 40% in the market for POS terminals in India. Learned
+counsel for the appellant submitted that these figures are from the Pwc
+Report, which is based on Government data. Learned counsel for the appellant
+submitted that the Commission has relied on incorrect market share figures in
+its analysis, and has inflated Verifone's sales by (a) including all POS
+terminals sold by Verifone since its inception, including those which were
+defunct/non-functioning at the relevant time (b) including POS terminals sold
+by Verifone competitors prior to them even being acquired by Verifone, and (c)
+not considering data of certain select banks/TPPs who had procured more
+terminals from Verifon's competitors demonstrating cherry picking of evidenced
+and data. The patent errors in the computation had been highlighted to the
+Commission. The Commission failed to consider and address these submissions.
+
+46\. It was further submitted that the Commission and the DG have disregarded
+the basis test of dominance provided under Explanation (a) to Section 4 of the
+Act i.e. the ability to operate independently of competitive forces or affect
+consumers/competitors in the relevant market in its favour. Verifone does not
+have this ability as it is significantly constrained at two levels. Verifone
+is dependent on banks for access to the market. Verifone is neither able to
+access customers, nor will its terminals be functional without
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  19
+connectivity to banks. Therefore, Verifone cannot act independently in the
+market.
+
+47\. Counsel submitted that due to their powerful position, banks impose
+highly onerous terms in their commercial dealings with Verifone. Banks
+typically adopt a two vendor policy, wherein they purchase POS terminals from
+at least two vendors. Therefore, banks are not dependent on Verifone and most
+banks deal with other players like Ingenico and during the investigation when
+banks and TPPs were approached for their comments, banks/TPPs have stated that
+they have not come across any abusive conduct by Verifone. However, the
+Commission has altogether failed to consider this evidence on record and has
+cherry picked the evidence it seeks to rely on.
+
+48\. A TPP must certify the terminals before it can be sold to a bank. As Atos
+is the largest TPP in India with ties to more than 15 banks, Verifone
+significantly depends on Atos for their certification. Interestingly, Atos is
+also one of the largest global POS vendor and had also started POS operations
+in India at the relevant time. The dependence on Atos is evidenced by the fact
+that Verifone is forced to accept unfair terms in its operations with Atos.
+Atos charges an exorbitant price of 8 lakhs and is the only TPP to impose this
+charge due to its dominant position in the market.
+
+49\. Similar plea has been taken in the case of Three D Integrated Solutions
+Ltd by the appellant. It is submitted that the relevant market in this case
+cannot be held to be POS terminal in India as the supply of ETMs by Verifone
+to Three D Integrated Solutions Ltd (Informant) does not relate to supply of
+POS terminals by Verifone.
+
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  20
+
+50\. The counsel for the appellant submitted that Jaipur RFP, which is central
+to the present dispute, itself distinguished between ETMs and POS terminals
+and treated them as separate products. Therefore, according to the learned
+counsel for the appellant no reliance can be placed on the cost of Atos
+Worldline India Pvt Ltd for determination of relevant market. Learned counsel
+for the appellant submitted that POS terminals and ETMs being two different
+products that serve different end users, have different characteristics and
+different customers and producers. The products cannot be treated as
+substitutable simply because Verifone uses the same basic hardware for both
+the products.
+
+51\. The Commission has dealt with the relevant market and noticed that the
+Verifone uses the same hardware for both the products. The hardware is common,
+it will be evident from the product itself, picture of it is re-produced
+below::
+
+52\. Learned counsel for the appellant produced and relied on other Verifone
+terminals to compare with the Ingonic terminals. The other Verifone terminals
+of recent days like mobile, is reproduced as under:- TA(AT)(Competition)No.1
+and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  21
+
+53\. In the present case we are concerned with instrument. In the said
+instrument which is being produced by Verifone and the present company(Atos
+Worldline India Pvt Ltd) purchase the instrument only from Verifone. The first
+instrument, as shown above was available in the year 2012-13, the relevant
+point of time. The second instrument which is like mobile as shown above has
+come later on and cannot be taken into consideration to determine the dominant
+position of the 2012-13. It is the Verifone which puts the first App in it and
+if it is purchased by the Bank, it puts its own additional App therein. The DG
+investigation in the case of Atos Wordline India Pvt Ltd is dated 20th March,
+2014. The relevant period of investigation is between the year 2009-10 to
+September, 2012.
+
+54\. The relevant market of POS terminals has been found to be in India as the
+instrument can be used as POS terminal for depositing the money or collecting
+money through Card anywhere in India.
+
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  22
+
+55\. The DG rightly held that new technology such as EasyTap or Mswipe cannot
+be considered as substitute of the POS terminals. There is no
+alternative/substitute to POS terminals.
+
+56\. Thus it is clear that the relevant geographic market of POS termina is
+India. It is apparent that the Verifone held a position of strength in the
+relevant market during the period of investigation by inter alia on account of
+its market share, size, resources and economic power, dependence of consumers
+on the appellant. Appellant and its acquired companies as noticed above had a
+market share of approximately 80%.
+
+57\. The clauses of SDK agreement were not as per the prevailing industry
+practice. The DG compared similar SDK agreement entered by other players in
+the market including Ingenico and Pax. The SDK agreement was non- negotiable
+and intent of the appellant was found to exploit the VAS market by either
+restricting the VAS providers or sharing the revenue from them. The email
+dated 18.1.2012, 3.2.2012, 5.3.2012, 20.4.2012 supports the allegation of
+exploitation on the VAS market by restricting the VAS provider.
+
+58\. VAS providers like Pine Labs and FSS also imposed with similar
+restrictive clauses by the appellant. The clauses in SDK agreement were
+restricted and therefore, it was found to be in violation of Section
+4(2)(a)(i), 4(2)(b)(i) and 4(2)(b)(ii) and 4(2)(e) of the Act.
+
+59\. The Commission after considering the DG report, objections/reply filed by
+the appellant and the informant and other evidence by impugned order dated
+10th April, 2015 found the appellant was abusing its dominant position
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  23
+under Section 4 of the Act and imposed punishment on the appellant in the case
+of Atos Worldline India Pvt Ltd.
+
+60\. We have noticed that the instrument is the factor for the purpose of
+dominance and not the app i.e. the end use ETM distinct characteristics or POS
+terminals. If the dominance is made because of the instrument, the same
+principle will be applicable also in the case of Three D Integrated Solution
+Ltd for determination of dominance.
+
+61\. So far as abuse of dominance in the case of Three D Integrated Solutions
+Ltd , the DG in its report dated 30.5.2014 after investigation for the period
+2009-10 to September 2012 came to a definite conclusion that the relevant
+product in question is not ETMs as the machines provided by the appellant were
+not only capable of providing electronic record/printed receipts but also
+capable of providing electronic payment through credit/debit cards. Copy of
+the purchase order 5.4.2012 also mentions the product as a POS terminal,
+therefore, it is clear that ETMs were Europay, Mastercard and Visa and PCI
+(Payment card industry) certified. The purpose of EMV and PCI certification is
+for transfer of payment only.
+
+62\. The reply from Ingenico, another POS vendors, confirms that POS terminals
+can be converted into ETM without the knowledge of the sellers and there is no
+difference between the hardware of the two devices. New technologies such as
+Easy Tap or Mswipe cannot be considered as substitute of the POS terminals.
+There is no alternative/substitute to POS terminals.
+
+63\. The relevant market for POS terminal is in India under Section 2(t) of
+the Act. Relevant geographic market is under Section 2(r) of the Act. We hold
+TA(AT)(Competition)No.1 and 2 of 2017 (Old Appeals No.82 and 83 of 2015)  24
+that the relevant market for the ETM is also India under Section 2(t) of the
+Act, The relevant geographical market of ETM is also India under Section 2(r)
+of the Act. The appellant was having a dominant position in the relevant
+market of POS/ETMs in particular the instrument in question, held a position
+of strength in the relevant market during the period of investigation and
+allegations inter alia on account of its market share, size, resources and
+economic power, dependence of consumers were on the appellant.
+
+64\. In the aforesaid facts corroborated with evidence and accepted by DG as
+well as enquiry by the Commission, we find no case is made out to interfere in
+the judgement both dated 10.04.2015 in both the cases. The appellants were
+entitled to be penalised but we find that the Commission has taken a lenient
+view by imposing penal cost in one case and no penal cost in the other case.
+In absence of any merit the appeals are dismissed. No costs.
+
+[Justice S.J. Mukhopadhaya] Chairperson [Justice Bansi Lal Bhat] Member
+(Judicial) NEW DELHI 13-3-2020 bm TA(AT)(Competition)No.1 and 2 of 2017 (Old
+Appeals No.82 and 83 of 2015)
+

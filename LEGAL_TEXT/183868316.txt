@@ -1,0 +1,1113 @@
+
+
+Delhi High Court
+
+Commissioner Of Income Tax-I vs M/S Cotton Naturals (I) Pvt. Ltd. on 27 March,
+2015
+
+Author: Sanjiv Khanna
+
+    
+    
+    *       IN THE HIGH COURT OF DELHI AT NEW DELHI
+    
+    +                        ITA No. 233/2014
+    
+                                       Reserved on: 13th February, 2015
+    %                                 Date of Decision: 27th March, 2015
+    
+    COMMISSIONER OF INCOME TAX-I             ...Appellant
+            Through  Mr. Rohit Madan, Sr. Standing Counsel
+    
+                       Versus
+    
+    M/s COTTON NATURALS (I) PVT. LTD.        ...Respondents
+             Through Mr. Ved Jain with Mr. Pranjal Srivastava,
+                     Advocates.
+    
+    CORAM:
+    HON'BLE MR. JUSTICE SANJIV KHANNA
+    HON'BLE MR. JUSTICE V. KAMESWAR RAO
+    
+    SANJIV KHANNA, J.
+    
+
+The question raised in the present appeal by the Revenue under Section 260A of
+the Income Tax Act, 1961 (Act, for short) relates to determination of arm's
+length rate of interest, paid to the assessed, i.e. Cotton Naturals (I) Pvt.
+Ltd., by their subsidiary M/s JPC Equestrian, a company registered in the
+United States of America. The appeal emanates from the order of the Income Tax
+Appellate Tribunal (Tribunal, for short), dated 30th October, 2013, and
+pertains to the assessment year 2007- 08.
+
+2\. On the basis of the contentions raised by the parties, the following
+substantial question of law needs to be answered and decided:
+
+ITA No. 233/2014 Page 1 of 34
+
+1\. Whether the Income-Tax Appellate Tribunal was right in following their
+earlier order for the assessment year 2008-09, dated 8th February, 2013 in ITA
+No. 5855/Del./2012 and in holding that the interest @ 4% p.a. charged by the
+respondent assessee from its subsidiary i.e. the Associated Enterprise was
+arm's length rate of interest and the adjustment made in the Assessment Order
+determining the arms' length rate of interest at 12.20% was unwarranted?
+
+3\. With the consent of the counsel, we had heard them on the aforesaid
+substantial question.
+
+4\. The respondent assessee, an Indian company was engaged during the relevant
+period, in the business of manufacture and exports of rider apparels like
+riding breeches, jodhpurs, socks, riding jackets, horse blankets, fly sheets,
+riding boots, shirts, saddle pads and riding helmets. The Headquarter of the
+assessed was located in Delhi, India with presence in 10 countries through
+designated channel partners and distributors. However, for the purpose of
+marketing and promoting their exports to USA, the respondent assessee had
+incorporated the aforesaid subsidiary, which was wholly owned by them and
+their two shareholders.
+
+5\. As per 3CEB report and Transfer Price documents, the following
+international transactions between the respondent assessee and the Associated
+Enterprise i.e. M/s JPC Equestrian (hereinafter referred to as an AE), were
+disclosed:
+
+Equestrian Apparel sold to JPC Rs.24,438,153/-
+
+    
+    
+                 Equestrian Inc.
+                 Loan provided to JPC Equestrian Inc        10,50,000 $
+                 Interest Received                          Rs.20,52,101/-
+    
+    ITA No. 233/2014                                                  Page 2 of 34
+    
+
+> 6\. The respondent assessee had selected the Comparable Uncontrolled Price
+> method (CUP method, for short) to benchmark sale of equestrian apparels and
+> the interest received on the loan. The respondent assessee had declared that
+> the interest received at the rate of 4% was comparable with the export
+> packing credit rate obtained from independent banks in India.
+
+7\. The Transfer Pricing Officer (TPO, for short) in his report enumerated
+several reasons, which we are not highlighting at this stage to avoid
+repetition, to hold that the arm's length interest rate should be taken as 14%
+p.a. He computed arm's length interest on the loan at Rs.71, 82, 354/-, in the
+place of interest received of Rs.20,52,101/-. The aforesaid upward revision
+was made as per the following table/ chart:-
+
+> ―CUP Rate is thus arrived at as under:
+
+> Basic interest rate for the credit LIBOR+400 basis points rating of the AE
+> Add: Transaction Cost 300 basis points CUP Rate LIBOR + 700 basis points
+> Add: Adjustment for security Not computed Final CUP Rate > LIBOR + 700 basis
+> points As the currency in which the loan is exte nded to the AE is GBP,
+> 6-month GBP LIBOR (sic) is considered. These rates are given as per Annexure
+> - A. The average 6-month GBP LIBOR (sic) is arrived at 5.224% p.a. Thus the
+> CUP rate is arrived at as under.
+    
+    
+                       CUP Rate         >        LIBOR + 700 basis points
+    
+                                        >        5.224%+7%
+    
+    
+    ITA No. 233/2014                                                           Page 3 of 34
+                                        >       12.224%
+    
+    
+
+> Keeping in view that no security is offered by the subsidiary and also that
+> the taxpayer is not into lending and borrowing money, a reasonable interest
+> rate of 14% p.a. can be considered.‖
+
+8\. The respondent assessee filed objections before the Dispute Resolution
+Panel (DRP, for short) against adoption of 14% rate of interest as suggested
+by the TPO. DRP while substantially rejecting the contentions, granted partial
+relief in the form of reduction of rate of interest to 12.20%, recording that
+the loan was given on fixed rate of interest out of shareholder funds. Funds
+had flown from one shareholder to another, and the reality being that both set
+of shareholders were the same, the security aspect was embedded by default in
+the transaction. The DRP also noted that the Prime Lending Rate (PLR, for
+short) fixed by the Reserve Bank of India, ranged from 10.25% to 10.75% in
+April, 2006 to 12.25% to 12.50% in March, 2007. In view of the above stated,
+the upward revision of interest rate i.e. the arm's length interest was
+computed as Rs.62, 58, 908/-, in place of Rs.20,52,101/-. On the basis of the
+directions issued by the DRP, an assessment order was passed, making an
+addition of Rs.42, 06, 807/- by way of transfer pricing adjustment.
+
+9\. The respondent assessee succeeded before the Tribunal who preferred to
+follow their earlier order dated 8th February, 2013 in ITA No. 5855/Del/2012
+relating to the subsequent assessment year 2008-
+
+09\. The reasoning in this order dated 8th February, 2013 has been reproduced
+in the impugned order and for the sake of convenience we would also like to
+quote the same:
+
+> "11. We have carefully considered the submissions and perused the records,
+> we find that the assessee company in this case is a leading manufacturer of
+> ITA No. 233/2014 Page 4 of 34 rider apparel. Assessee entered into
+> international transaction as under:-
+    
+    
+    
+    
+                          Equestrian Apparel sold to JPC
+                          Equestrian Inc                            48191540/-
+                          Loan provided to JPC Equestrian Inc       10,50,000 $
+    
+    
+    
+
+> 12\. As per the TP document, CUP method has been chosen to benchmark the
+> sale of apparel as well as interest received on loan. The TPO accepted the
+> assessee's submission qua sale of apparel that the same was at arms length.
+> As regards interest the assessee mentioned that it has received interest at
+> a rate of 4% which was comparable with the export packing credit rate
+> obtained from independent banks in India. The TPO was not in agreement with
+> the above contention of the assessee. He observed that it is to be seen that
+> what the assessee would have earned by giving loans in the Indian market. He
+> noted that lending or borrowing is not one of the main businesses of the
+> taxpayer. He opined that what is to be considered is the prevalent interest
+> that could have been earned by advancing a loan to an unrelated party in
+> India with the same financial health as that of the tax payer's subsidiary.
+> The TPO further observed that the taxpayer has not submitted the financial
+> of the subsidiary, hence the . financial healthy of the subsidiary cannot be
+> judged. The TPO further noted that while deciding the interest rate that may
+> be charged on receivables from AE's, Libor rate for calculating interest is
+> not proper. He opined that instead of US rate, Indian rate is to be adopted.
+> He observed that an independent person in India would expect the maximum
+> return on its investment, and if the lending rate is higher in Indian
+> currency then he would not lend in foreign currency where the lending rate
+> is not so attractive. The TPO further noted that it should not be forgotten
+> that, had the AE of the assessee company would have got loan from any bank
+> or financial institution in the place of residency at Libor rate, then why
+> it did not avail of loan at such a rate. Assessing Officer observed that, no
+> company in India would like to invest in the form of loan outside India and
+> that also without security as the interest returns in India would be higher
+> than those prevailing in developed markets. Finally, Assessing Officer held
+> that interest rate at 17.26% would be fair and reasonable.
+
+ITA No. 233/2014 Page 5 of 34
+
+> 13\. Before the DRP assessee inter-alia contended that comparison has to be
+> made with respect of advance or loan in USA and not based on Indian
+> conditions. The comparison could also be with rate of interest being paid by
+> the multinational companies or banks in respect of money borrowed from
+> India. However, the DRP agreed with TPO 's point of view. But, it held that
+> further addition on account of security is not needed. It opined that Arm's
+> length interest rate may be taken as the PLR of RBI for the financial year
+> 2007-08. In accordance with the above decision, the TPO adopted 13.25% as
+> the rate of arms length interest rate.
+
+> 14\. We note that CUP method is the most appropriate method in order to
+> ascertain arms length price of the international transaction as that of the
+> assessee. We agree with the assessee's contention that where the transaction
+> was of lending money in foreign currency to its foreign subsidiaries the
+> comparable transactions, therefore, was of foreign currency Tended by
+> unrelated parties. The financial position and credit rating of the
+> subsidiaries will be broadly the same as the holding company. In such a
+> situation,- domestic prime lending rate would have no applicability and the
+> international Rate Mixed being LIBOR should be taken as the benchmark rate
+> for international transactions.
+
+> 15\. The above view is duly supported by following case laws relied upon by
+> the assessee's counsel. In Siva Industries and Holding Ltd. vs. ACIT Supra
+> it was held by ITAT that the assessee had given the loan to the associate
+> enterprise in U.S. dollars, and in such a situation when the transaction was
+> in foreign currency, and the transaction was an international transactions,
+> then the transaction would have to be looked upon by applying the commercial
+> principles in regard to international transactions. In such a situation
+> domestic prime lending would have no applicability and the international
+> rate fixed being LIBOR rate would have to be adopted.
+
+> 16\. Similar view as above was expressed by the ITAT in the case of M/s Four
+> Soft Ltd., Hyderabad vs. DCIT Supra, Dy. C.I.T vs. Tech. Mahindra Supra,
+> Tata Autocomp Systems vs. ACIT Supra.
+
+> 17\. We further note that assessee has arrangement, for loan with Citi Bank,
+> for less than 4%. However, for loan ITA No. 233/2014 Page 6 of 34 provided
+> to its AE's it has charged 4% p.a. interest. Hence, adjustment suggested by
+> the TPO is not warranted.
+
+> 18\. We further note that assessee's profits are exempt u/s. 10B. Hence,
+> there is no case that assessee would benefit by shifting profits outside
+> India. This view is supported by Bangalore Tribunal decision in this case
+> Philips Software Centre P Ltd. vs. ACIT Supra and Mumbai Tribunal in the
+> case of I.T.O. vs. Zydus Altana Health Care P Ltd. Supra.
+
+> 19\. We further note that in this case the loan agreement was for fixed rate
+> of interest. The LIBOR has been accepted in decision referred above as the
+> most suitable bench mark for judging Arms' length price in case for foreign
+> currency loan. Hence, adjustment as made by the TPO is not warranted.
+
+> 20\. In the background of the aforesaid discussions and precedents, we hold
+> that the rate of interest charged by the assessee for the loans transactions
+> with the AE was Arms Length Price. Hence, no transfer pricing adjustment is
+> called for."
+
+10\. The aforesaid quotation refers to several decisions of the Tribunal
+starting from Siva Industries & Holdings Ltd. vs. ACIT, which is a decision by
+the Chennai Bench of the Tribunal in ITA No. 2148/Mds/2010. In the instant
+case it has been held:
+
+> ―11. We have considered the rival submissions. A perusal of the order of the
+> TPO clearly shows that the assessee had raised the funds by way of issuance
+> of 0% optional convertible preferential shares. Thus it is noticed that the
+> funds raised by the assessee company for giving the loan to India Telecom
+> Holdings Ltd., Mauritius, which is its Associated Enterprises and which is
+> the subsidiary company, is out of the funds of the assessee company. It is
+> not borrowed funds. The assessee has given the loan to the Associated
+> Enterprises in US dollars. The assessee is also receiving interest from the
+> Associated Enterprises in Indian rupees. Once the transaction between the
+> assessee and the Associated Enterprises is in foreign currency and the
+> transaction is an international transaction, then the transaction would have
+> to be looked upon by applying the commercial principles in regard to
+> international transaction. If this is so, then the domestic prime lending
+> rate would ITA No. 233/2014 Page 7 of 34 have no applicability and the
+> international rate fixed being LIBOR would come into play. In the
+> circumstances, we are of the view that it LIBOR rate which has to be
+> considered while determining the arm's length interest rate in respect of
+> the transaction between the assessee and the Associated Enterprises. As it
+> is noticed that the average of the LIBOR rate for 1.4./2005 to 31.3.2006 is
+> 4.42% and the assessee has charged interest at 6% which is higher than the
+> LIBOR rate, we are of the view that no addition on this count is liable to
+> be made in the hands of the assessee. In the circumstances, the addition as
+> made by the Assessing Officer on this count is deleted.‖
+
+11\. The aforesaid view has been subsequently followed by different Benches of
+the Tribunal for almost identical reasons in DCIT vs. Tech Mahindra Ltd. - ITA
+no. 1176/Mum./2010, dated 30th June, 2011; M/s Four Soft Ltd. Hyderabad vs.
+DCIT- ITA No. 1495/Hyd/2010, dated 9th September, 2011; Tata Autocomp Systems
+Ltd. vs. ACIT - ITA No. 7354/Mum/2011, dated 30th April, 2012; M/s Aurobindo
+Pharma Ltd. vs. ACIT - ITA No. 1866/Hyd/2012 dt. 29th November, 2013; Siva
+Ventures Ltd. vs. ACIT - ITA No. 2161/Mds/2011, dated 27th June, 2013; Apollo
+Tyres Ltd. vs. ACIT - ITA No. 616/Coch/2011 dated 20th December, 2013; Hinduja
+Global Solutions Ltd. vs. Addl. CIT - ITA No. 254/Mum/2013, dated 5th June,
+2013; M/s PMP Auto components P. Ltd. vs. DCIT - ITA No. 1484/Mum/2014 dated
+22nd August, 2014; and VIP Industries Ltd. vs. Addl. CIT - ITA No.
+526/Mum/2014 and its cross appeal titled Dy. CIT vs. VIP Industries Ltd., ITA
+No. 881/Mum./2014 dated 10th December, 2014.
+
+12\. In some of the cases, the Tribunal has applied a mark up on the London
+Interbank Offered Rate (LIBOR for short) and Euro Interbank Offered Rate
+(EURIBOR, for short). LIBOR is calculated and published by Thomson Reuters, on
+behalf of British Bankers' ITA No. 233/2014 Page 8 of 34 Association. The rate
+is calculated on inter-bank offers for lending rates from banks in a
+reasonable market place. The highest 25% and lowest 25% of the values offered
+are eliminated, and the rate is determined on the remaining 50%. EURIBOR is
+also calculated and published each day and 15% of the lowest and the highest
+interest rates quoted by the panel of European banks are eliminated and the
+remaining 70% form the basis of calculation.
+
+13\. The reasoning given in the decision relied upon by the Revenue for
+applying PLR, namely Logic Micro Systems Ltd. vs. ACIT, ITA No. 423/Bang/2009,
+dated 7th October, 2010 records as under:
+
+> ―22. Another important direction given by the Commissioner of Income-tax(A)
+> is to adopt LIBOR/US- FED rate for calculating the interest. This
+> proposition has been made by the Commissioner of Income-tax(A) on the
+> premise that the ALP factor of interest is to be computed with reference to
+> the benefit that would have been earned by the AE in USA. On the other hand,
+> in calculating the cost factors of the assessee in India, it is more
+> appropriate to consider the potential loss suffered by the assessee in India
+> by not bringing the receivables within the normal period. In fact, the said
+> potential loss of the assessee in India is the ALP factor which contributes
+> to the additional income attributable to the assessee. Therefore, instead of
+> the US rate, the TPO is justified in adopting the Indian rate.
+
+> 23\. While adopting the Indian rate, it is not proper to rely on PLR of the
+> State Bank of India. This is because if the funds were brought in time and
+> those funds were properly deployed, the assessee company may earn an income
+> at the maximum rate applicable to deposits and not at the rate applicable to
+> loans. Therefore, we vacate the direction of the TPO to adopt the PLR rate
+> of 10.25%. Instead we find it appropriate to adopt a reasonable rate that
+> would be available to the assessee on short-term deposits.
+
+> 24\. We have held that the period chargeable to interest has to be
+> recomputed and a reasonable deposit rate has to be applied for calculating
+> the interest. Taking into consideration all aspects of the case like
+> interest-free period and piece-meal remittance of the receivables, we fix
+> the ITA No. 233/2014 Page 9 of 34 ALP interest rate at 5% and direct the
+> Assessing Officer to compute the additional income at the rate of 5% on
+> Rs.5,52,24,261/- as against 10.25% adopted by the Assessing Officer.‖
+> (emphasis supplied)
+
+14\. In another decision, Nimbus Communications Ltd. vs. ACIT ITA No.
+6597/Mum/2009, it stands observed that LIBOR is relevant in only cases of
+lending, borrowing of fund and not in cases of commercial overdues. The said
+decision would however not be relevant to the extant case as Nimbus
+Communications Ltd.(supra) is a case of debt balance not paid in a commercial
+transaction. We do not have to answer the said question/ aspect.
+
+15\. The case of the appellant-Revenue finds lucid exposition in the following
+table quoted by the Transfer Pricing Officer, pointing out the difference
+between lending and borrowing:
+
+―The difference between lending and borrowing when dealing at arm's length is
+given in the below table (Assuming X is in India and Y is outside India).
+
+    
+    
+    Sl. No.               Aspect                Lending money Borrowing
+                                                b X to Y            Money b X
+                                                                    from Y
+    1                     Primary               The      primary The        primary
+                          Consideration         consideration       consideration
+                                                for X is to for X is to
+                                                maximize        its minimize       its
+                                                return in terms rate of interest
+                                                of        interest keeping in view
+                                                keeping in view the              risk
+                                                the           risk involved.
+                                                involved.
+    2                     Interest Rate         Interest      rate Interest      rate
+                                                depends on the depends on the
+                                                tenure,     credit tenure,     credit
+                                                rating of Y, and rating of X, and
+    ITA No. 233/2014                                                     Page 10 of 34
+                                       security offered. security offered.
+    3                Benchmarking     X would see X would see
+                                      what           the what         the
+                                      maximum return minimum
+                                      he gets in India interest rate it
+                                      and        spread can       borrow
+                                      required       for from    Y     as
+                                      taking the risk interest rates in
+                                      of losing money India are higher
+                                      (depends on the when compared
+                                      credit rating of to the interest
+                                      Y) as well as rates charged in
+                                      security being ECB           loans.
+                                      offered by Y. Thus the bench
+                                      Independent        marking        is
+                                      party would not based            on
+                                      lend      outside LIBOR + some
+                                      India if it can basis        points
+                                      get higher return depending on
+                                      in India. Thus the credit rating
+                                      the                of X.
+                                      benchmarking
+                                      would be based
+                                      on the interest
+                                      rate receivable
+                                      in India for
+                                      giving loans to
+                                      parties      with
+                                      similar     credit
+                                      rating as that of
+                                      Y            (like
+                                      corporate
+                                      bonds) and also
+                                      the level of
+                                      security offered
+                                      by Y.
+    
+
+Indian companies go for External Commercial Borrowings as the interest rates
+on ECB loans are generally cheaper than the prevailing interest rates in the
+domestic market. Thus as can be seen from above, while borrowing money by X
+(in India) from Y (outside India), the interest rates are benchmarked with
+LIBOR and the interest rate above LIBOR is decided by the stand alone credit
+rating ITA No. 233/2014 Page 11 of 34 of X. On the contrary, no company in
+India would like to investment in the form of loan outside India and that also
+without security as the interest returns in India would be higher than those
+prevailing in developed markets. Thus while lending money by X (in India) to Y
+(outside India), the interest rates would be bench marked against those
+prevailing in India for investing in corporate bonds (which are without
+security).‖
+
+16\. We would first like to deal with the aforesaid table and the reasoning
+given in the case of Logic Micro Systems Ltd. (supra) before we advert to
+other facets of the issue.
+
+17\. In our opinion, the reasoning recorded therein suffers from a basic and
+fundamental fallacy. Transfer pricing determination is not primarily
+undertaken to re-write the character and nature of the transaction, though
+this is permissible under two exceptions. Chapter X and Transfer Pricing rules
+do not permit the Revenue authorities to step into the shoes of the assessee
+and decide whether or not a transaction should have been entered. It is for
+the assessed to take commercial decisions and decide how to conduct and carry
+on its business. Actual business transactions that are legitimate cannot be
+restructured. It is not uncommon for manufacturers cum exporters to enter into
+distribution and marketing agreements with third parties or incorporate
+subsidiaries in different countries for undertaking marketing and distribution
+of the products. The Delhi High Court in Commissioner of Income Tax versus EKL
+Appliances Limited, (2012) 345 ITR 241 (Delhi) referred to the Paragraphs 1.36
+to 1.38 of the Transfer Pricing Guidelines for Multinational Enterprises and
+Tax Administrations, 2010 published by the Organization for Economic
+Cooperation and Development (OECD, for short) and held as under:-
+
+ITA No. 233/2014 Page 12 of 34
+
+> ―17. The significance of the aforesaid guidelines lies in the fact that they
+> recognise that barring exceptional cases, the tax administration should not
+> disregard the actual transaction or substitute other transactions for them
+> and the examination of a controlled transaction should ordinarily be based
+> on the transaction as it has been actually undertaken and structured by the
+> associated enterprises. It is of further significance that the guidelines
+> discourage re-structuring of legitimate business transactions. The reason
+> for characterisation of such re-structuring as an arbitrary exercise, as
+> given in the guidelines, is that it has the potential to create double
+> taxation if the other tax administration does not share the same view as to
+> how the transaction should be structured.
+
+> 18\. Two exceptions have been allowed to the aforesaid principle and they
+> are (i) where the economic substance of a transaction differs from its form
+> and (ii) where the form and substance of the transaction are the same but
+> arrangements made in relation to the transaction, viewed in their totality,
+> differ from those which would have been adopted by independent enterprises
+> behaving in a commercially rational manner.‖
+
+18\. This judgment was referred to by us in ITA No. 16/2014, Sony Ericsson
+Mobile Communications India Private Limited (Now known as Sony India Limited)
+versus Commissioner of Income Tax-III and other connected cases decided on
+16th March, 2015 and it was held as under:-
+
+> ―147. Tax authorities examine a related and associated parties‗ transaction
+> as actually undertaken and structured by the parties. Normally, tax
+> authorities cannot disregard the actual transaction or substitute the same
+> for another transaction as per their perception. Restructuring of legitimate
+> business transaction would be an arbitrary exercise. This legal position
+> stands affirmed ITA No. 233/2014 Page 13 of 34 in EKL Appliances Ltd.
+> (supra). The decision accepts two exceptions to the said rule. The first
+> being where the economic substance of the transaction differs from its form.
+> In such cases, the tax authorities may disregard the parties'
+> characterisation of the transaction and re-characterise the same in
+> accordance with its substance. The Tribunal has not invoked the said
+> exception, but the second exception, i.e. when the form and substance of the
+> transaction are the same, but the arrangements made in relation to the
+> transaction, when viewed in their totality, differ from those which would
+> have been adopted by the independent enterprise behaving in a commercially
+> rational manner. The second exception also mandates that actual structure
+> should practically impede the tax authorities from determining an
+> appropriate transfer price. The majority judgment does not record the second
+> condition and holds that in their considered opinion, the second exception
+> governs the instant situation as per which, the form and substance of the
+> transaction were the same but the arrangements made in relation to a
+> transaction, when viewed in their totality, differ from those which would
+> have been adopted by an independent enterprise behaving in a commercially
+> rational manner. The aforesaid observations were recorded in the light of
+> the fact in the case of L.G. Electronics (supra). Commenting on the factual
+> matrix of L.G. Electronics case (supra) would be beyond our domain; however,
+> we do not find any factual finding to this effect by the TPO or the Tribunal
+> in any of the present cases. However, in L.G. Electronics decision (supra),
+> it is observed that if the AMP expenses and when such expenses are beyond
+> the bright line, the transaction viewed in their totality would differ from
+> one which would have been adopted by an independent enterprise behaving in a
+> commercially rational manner. No reason or ground for holding or the ratio,
+> is indicated or stated. There is no material or justification to hold that
+> no independent party would incur the AMP expenses beyond the bright line AMP
+> expenses. Free market conditions would indicate and suggest that an
+> independent third party would be willing to incur heavy and substantial AMP
+> expenses, if he presumes this is beneficial, and he is adequately
+> compensated. The compensation or the rate of return would depend upon
+> whether it is a case of long-term or short-term association and market
+> conditions, turnover and ironically international or worldwide brand value
+> of the intangibles by the third party.‖
+
+19\. It would also be appropriate at this stage to reproduce the following
+portion from the UN Model Double Taxation Convention Between Developed and
+Developing Countries, wherein reference ITA No. 233/2014 Page 14 of 34 was
+made to the OECD Model Convention Commentary on Paragraph 6 of Article 11, in
+the following words:
+
+> ―22. This paragraph reproduces Article 11, paragraph 6, of the OECD Model
+> Convention, the Commentary on which reads as follows:
+
+> 32\. The purpose of this paragraph is to restrict the operation of the
+> provisions concerning the taxation of interest in cases where, by reason of
+> a special relationship between the payer and the beneficial owner or between
+> both of them and some other person, the amount of the interest paid exceeds
+> the amount which would have been agreed upon by the payer and the beneficial
+> owner had they stipulated at arm's length. It provides that in such a case
+> the provisions of the Article apply only to that last-mentioned amount and
+> that the excess part of the interest shall remain taxable according to the
+> laws of the two Contracting States, due regard being had to the other
+> provisions of the Convention.
+
+> 33\. It is clear from the text that for this clause to apply the interest
+> held excessive must be due to a special relationship between the payer and
+> the beneficial owner or between both of them and some other person. There
+> may be cited as examples cases where interest is paid to an individual or
+> legal person who directly or indirectly controls the payer, or who is
+> directly or indirectly controlled by him or is subordinate to a group having
+> common interest with him. These examples, moreover, are similar or analogous
+> to the cases contemplated by Article 9.
+
+> 34\. On the other hand, the concept of special relationship also covers
+> relationship by blood or marriage and, in general, any community of
+> interests as distinct from the legal relationship giving rise to the payment
+> of the interest.
+
+> 35\. With regard to the taxation treatment to be applied to the excess part
+> of the interest, the exact nature of such excess will need to be ascertained
+> according to the circumstances of each case, in order to determine the
+> category of income in which it should be classified for the purposes of
+> applying the provisions of the tax laws of the States concerned and the
+> provisions of the Convention. This paragraph permits only the adjustment of
+> the rate at which interest is charged and not the reclassification of the
+> loan in ITA No. 233/2014 Page 15 of 34 such a way as to give it the
+> character of a contribution to equity capital. For such an adjustment to be
+> possible under paragraph 6 of Article 11 it would be necessary to as a
+> minimum to remove the limiting phrase ―having regard to the debt-claim for
+> which it is paid‖. If greater clarity of intent is felt appropriate, a
+> phrase such as ―for whatever reason‖ might be added after ―exceeds‖. Either
+> of these alternative versions would apply where some or all of an interest
+> payment is excessive because the amount of the loan or the terms relating to
+> it (including the rate of interest) are not what would have been agreed upon
+> in the absence of the special relationship. Nevertheless, this paragraph can
+> affect not only the recipient but also the payer of excessive interest and
+> if the law of the State of source permits, the excess amount can be
+> disallowed as a deduction, due regard being had to other applicable
+> provisions of the Convention. If two Contracting States should have
+> difficulty in determining the other provisions of the Convention applicable,
+> as cases require, to the excess part of the interest, there would be nothing
+> to prevent them from introducing additional clarifications in the last
+> sentence of paragraph 6, as long as they do not alter its general purport.
+
+> 36\. Should the principles and rules of their respective laws oblige the two
+> Contracting States to apply different Articles of the Convention for the
+> purpose of taxing the excess, it will be necessary to resort to the mutual
+> agreement procedure provided by the Convention in order to resolve the
+> difficulty.
+
+> 23\. When this issue was last considered, some members of the former Group
+> of Experts pointed out that there are many artificial devices entered into
+> by persons to take advantage of the provisions of Article 11 through, inter
+> alia, creation or assignment of debt claims in respect of which interest is
+> charged. While substance over form rules, abuse of rights principle or any
+> similar doctrine could be used to counter such arrangements, Contracting
+> States which may want to specifically address the issue may include a clause
+> on the following lines in their bilateral tax treaties during negotiations,
+> namely:
+
+> The provisions of this Article shall not apply if it was the main purpose or
+> one of the main purposes of any person concerned with the creation or
+> assignment of the debt claim in respect of which the interest is paid to
+> take advantage of this Article by means of that creation or assignment.‖ ITA
+> No. 233/2014 Page 16 of 34
+
+> 20\. Reverting to the reasoning given, we record that the respondent-
+> assessee had incorporated a subsidiary in United States for undertaking
+> distribution and marketing activities for the products manufactured by them.
+> It is obvious that this was done with the intention to expand and promote
+> exports in the said country and was a legitimate business decision. The
+> transaction of lending of money by the respondent-assessee to the
+> subsidiary, should not be seen in isolation, but also for the purpose of
+> maximising returns, propelling growth and expanding market presence. The
+> reasoning ignores the said objective facet. Transfer pricing rules treat the
+> domestic AE and the foreign AE as two separate entities and profit centres,
+> and the test applied is whether the compensation paid for the products and
+> services is at arm's length, but it does not ignore that the two entities
+> have a business and a commercial relationship. The terms and conditions of
+> the commercial business relationship as agreed and undertaken are not to be
+> rewritten or obliterated. Transfer pricing is a mechanism to undo an attempt
+> to shift profits and correct any under or over payment in a controlled
+> transaction by ascertaining the fair market price. This is done by computing
+> the arm's length price. The purpose is to ascertain whether the transfer
+> price is the same price which would have been agreed and paid for by
+> unrelated enterprises transacting with each other, if the price is
+> determined by market forces. The first step in this exercise is to ascertain
+> the international transaction, which in the present case is payment of
+> interest on the money lent. The next step is to ascertain the functions
+> performed under the international transaction by the respective AEs.
+> Thereafter, the comparables have to be selected by undertaking a
+> comparability analysis. The comparability analysis should ensure that the
+> functions ITA No. 233/2014 Page 17 of 34 performed by the comparables match
+> with the functions being performed by the AE to whom payment is made for the
+> services rendered. These aspects have been elucidated in detail in Sony
+> India Ltd. (supra) by referring to the OECD Guidelines as well as United
+> Nations Practical Manual of Transfer Pricing for Developing Countries.
+
+21\. Appropriate in this regard would be reference also to Rules 10B and 10C
+of the Income Tax Rules, 1962. Rule 10B (2) reads:-
+
+> "10B. xxx (2) For the purposes of sub-rule (1), the comparability of an
+> international transaction or a specified domestic transaction with an
+> uncontrolled transaction shall be judged with reference to the following,
+> namely:--
+
+(a) the specific characteristics of the property transferred or services
+provided in either transaction;
+
+(b) the functions performed, taking into account assets employed or to be
+employed and the risks assumed, by the respective parties to the transactions;
+
+(c) the contractual terms (whether or not such terms are formal or in writing)
+of the transactions which lay down explicitly or implicitly how the
+responsibilities, risks and benefits are to be divided between the respective
+parties to the transactions;
+
+(d) conditions prevailing in the markets in which the respective parties to
+the transactions operate, including the geographical location and size of the
+markets, the laws and Government orders in force, costs of labour and capital
+in the markets, overall economic development and level of competition and
+whether the markets are wholesale or retail.‖ Equally important is sub-rule
+(3) to Rule 10B, which reads:-
+
+ITA No. 233/2014 Page 18 of 34
+
+> ―10B. (3) An uncontrolled transaction shall be comparable to an
+> international transaction or a specified domestic transaction if--
+
+(i) none of the differences, if any, between the transactions being compared,
+or between the enterprises entering into such transactions are likely to
+materially affect the price or cost charged or paid in, or the profit arising
+from, such transactions in the open market; or
+
+(ii) reasonably accurate adjustments can be made to eliminate the material
+effects of such differences.‖ Similarly, Rule 10C (1) reads:-
+
+> ―10C. (1) For the purposes of sub-section (1) of section 92C, the most
+> appropriate method shall be the method which is best suited to the facts and
+> circumstances of each particular international transaction or specified
+> domestic transaction, and which provides the most reliable measure of an
+> arm's length price in relation to the international transaction or the
+> specified domestic transaction, as the case may be.
+
+> (2) In selecting the most appropriate method as specified in sub-rule (1),
+> the following factors shall be taken into account, namely:--
+
+(a) the nature and class of the international transaction or the specified
+domestic transaction;
+
+(b) the class or classes of associated enterprises entering into the
+transaction and the functions performed by them taking into account assets
+employed or to be employed and risks assumed by such enterprises;
+
+(c) the availability, coverage and reliability of data necessary for
+application of the method;
+
+(d) the degree of comparability existing between the international transaction
+or the specified domestic transaction and the uncontrolled transaction and
+between the enterprises entering into such transactions;
+
+(e) the extent to which reliable and accurate adjustments can be made to
+account for differences, if any, between the international transaction or the
+specified domestic transaction and the comparable uncontrolled transaction or
+between the enterprises entering into such transactions;
+
+(f) the nature, extent and reliability of assumptions required ITA No.
+233/2014 Page 19 of 34 to be made in application of a method.‖
+
+22\. The aforesaid Rules indicate factors that ought to be taken into account
+for selection of the comparables, which necessarily include the contractual
+terms of the transaction and how the risks, benefits and responsibilities are
+to be divided. The conditions prevailing in the market in which the respective
+parties to the transactions operate, including the geographical location and
+the size of the markets, the laws and Government orders in force, costs of
+labour and capital in the markets, overall economic development and level of
+competition, are all material and relevant aspects. If we keep the aforesaid
+aspects in mind, it would be delusive not to accept and agree that as per the
+prevalent practice, subsidiary AEs are often incorporated to carry on
+distribution and marking function. This is not an unusual but common. Once
+this is accepted, then we cannot accept the reasoning given by the TPO that
+the transfer pricing adjustment could restructure the transaction to reflect
+maximum return that a party could have earned and this would be the yardstick
+or the benchmark for determining the interest payable by the subsidiary AE.
+This is not what Chapter X of the Act and Rules mandate and stipulate. The
+aforesaid provisions neither curtail the commercial freedom, nor do they bar
+or prohibit a legitimate transaction. They permit transfer pricing adjustment
+so as to bring to tax what would have been paid for the transaction in the
+same or similar comparable circumstances by an independent third party.
+
+23\. This ratio and rationale, when applied to the facts of the present case,
+would mean that the transfer pricing determination would decide what an
+independent distributor and marketer, on the same ITA No. 233/2014 Page 20 of
+34 contractual terms and having the same relationship, would have earned/paid
+as interest on the loan in question. What an independent party would have paid
+under the same or identical circumstances would be the arm's length price or
+rate of interest. What the assessed would have earned in case he would have
+entered into or gone ahead with a different transaction, say with a party in
+India, is not the criteria. What is permitted and made subject matter of the
+arm's length determination is the question of rate of interest and not re-
+classification or substitution of the transaction. The position would have
+been different, if the two exceptions carved out in the case of EKL Appliances
+(supra) were applicable.
+
+24\. This is clear and lucid when we examine the methodology prescribed in
+Rule 10B (1) (a), which prescribes the manner of computing arm's length price
+under CUP method. Rule 10B (1) (a) reads:-
+
+> ―10B. (1) For the purposes of sub-section (2) of section 92C, the arm's
+> length price in relation to an international transaction 55a[or a specified
+> domestic transaction] shall be determined by any of the following methods,
+> being the most appropriate method, in the following manner, namely :--
+
+(a) comparable uncontrolled price method, by which,--
+
+> (i) the price charged or paid for property transferred or services provided
+> in a comparable uncontrolled transaction, or a number of such transactions,
+> is identified;
+
+> (ii) such price is adjusted to account for differences, if any, between the
+> international transaction or the specified domestic transaction and the
+> comparable uncontrolled transactions or between the enterprises entering
+> into such transactions, which could materially affect the price in the open
+> market;
+
+> (iii) the adjusted price arrived at under sub-clause (ii) is taken to be an
+> arm's length price in respect of the property transferred or services
+> provided in the international transaction or the specified domestic
+> transaction ITA No. 233/2014 Page 21 of 34 xxx "
+
+25\. The comparison, therefore, has to be with comparables and not with what
+options or choices which were available to the assessed for earning income or
+maximizing returns. Importantly, the TPO, DRP and the Assessing Officer have
+all accepted that the respondent assessee had adopted and applied CUP Method
+for computing arm's length interest payable by the subsidiary AE. To this
+extent, there is no lis or dispute.
+
+26\. The TPO has noticed the contractual terms and referred to the following
+facets: The advance given by the parent company i.e. the assessed to M/s JPC
+Equestrian Inc. was to meet the working capital requirements of the subsidiary
+AE. He noted that when independent enterprises transact with each other, their
+business relations are determined by the market forces operating, i.e. what is
+the amount of interest that would have been earned had such an advance been
+given to an unrelated party placed in a similar position as that of the
+subsidiary AE. The TPO had asked for the audited financial accounts of the
+subsidiary. Credit rating would be relevant. He accepted that there was a
+sense of commercial expediency and related benefits in the loan transaction
+but the assessed had not been able to demonstrate that the interest charged
+satisfied the arm's length standard. He observed that business prudence or
+necessity of advancing loan to the subsidiary was not relevant for computing
+arm's length price (i.e. rate of interest in this case) in unrelated party
+transactions. This aspect, he held, would not take precedence over the arm's
+length nature of interest.
+
+ITA No. 233/2014 Page 22 of 34
+
+27\. Several aspects enunciated above, reflect the correct legal position. We,
+however, express our inability to accept that commercial expediency and
+related benefits have no connection or relationship with the rate of interest.
+In terms of Clause (c) and (d) to Rule 10B (2), contractual relations or
+terms, and other material facts should be recognized. Having said so, we do
+accept the force of the alternative argument advanced that this fact could be
+of marginal significance and effect. It would be for the assessed to show and
+prove that a transaction separately benchmarked, included consideration for
+the lower interest rate being paid.
+
+28\. We do not agree with the finding recorded in paragraph 5 of the TPO's
+order that the comparable test to be applied is to ascertain what interest
+would have been earned by the assessed by advancing a loan to an unrelated
+party in India with a similar financial health as the taxpayer's subsidiary.
+The aforesaid reasoning is unacceptable and illogical as the loan to the
+subsidiary AE in the instant case is not granted in India and is not to be
+repaid in Indian Rupee. It is not a comparable transaction. The finding of the
+TPO that for this reason the interest rate should be computed at 14% per annum
+i.e. the average yield on unrated bonds for Financial Years (FY, for short)
+2006-07, has to be rejected.
+
+29\. The TPO has referred to the decision of the Tribunal in the case of Perot
+Systems TSI (India) Limited versus DCIT and VVF Limited versus DCIT,
+2010-TIOL-55-ITAT-MUM wherein LIBOR plus 1.64% i.e. 4.03% and LIBOR plus 3%
+respectively, were accepted as the arm's length rate of interest. But these
+decisions, he held, were unacceptable for the reasons set out in paragraph 6.1
+of the TPO's ITA No. 233/2014 Page 23 of 34 order (the table has been quoted
+above). We have rejected the reasoning given in the table.
+
+30\. However, the TPO was right in rejecting computation of arm's length
+interest on the basis of Reserve Bank of India Master Circular dated 1st July,
+2006 and 2nd July, 2007, fixing a ceiling on the interest rate on export
+credit at LIBOR plus 100 basis points etc. The reasoning given is correct and
+befitting. These were special schemes floated by the Reserve Bank of India for
+encouraging and facilitating exports with the said object and purpose. Export
+credit interest was available only for limited number of days and for specific
+purposes. The rates fixed did not reflect comparable market rates.
+
+31\. On the question of adjustment, the TPO referred to the FCNR loan advanced
+by the Power Finance Corporation to the Indian company i.e. Jindal Thermal
+Power Company Ltd. of US$ 44.50 million. Interest charged in the said case was
+US LIBOR plus 350 basis points for a company which had been given BB+ credit
+rating. However, full facts like the nature of transaction; risk factors etc.
+are not elucidated. He has also referred to the Bank of Baroda website that
+the rate of interest on FCNR loan were between 350-650 basis points over LIBOR
+for the FY 2006-07. TPO held that in view of the financial health of the
+subsidiary AE, interest rate could be taken as the average of six months LIBOR
+plus 400 basis points. On the question of transaction cost, it was stated that
+it was mandatory for the bank to insist that the borrower must book forward
+contracts to hedge their position. The TPO referred to the premium payable for
+undertaking the said hedging transactions and added a cost of 3% per annum as
+premium, which should have been paid. At the same time, ITA No. 233/2014 Page
+24 of 34 the TPO acknowledged that the taxpayer was not in the business of
+lending or borrowing money and observed that the taxpayer's risk was higher in
+advancing loan to a single customer, vis a bank which spreads its risk among
+various customers. Banks spread their risk when loans are/were advanced to
+various consumers, but this does not happen when a loan is given to a single
+customer.
+
+32\. On the question of adjustment made on account of the transaction cost, we
+do not appreciate the reasoning given by the TPO and find it difficult to
+accept. The transaction or hedging cost is borne and paid by the borrower.
+These are undertaken when they take loans in US Dollars or other foreign
+currencies because the borrower wants to cover any loss on account of the
+depreciation of the Indian Rupee vis- a- vis the foreign currency. The
+assessee in the present case is not the borrower, but the lender. Transaction
+cost is not, therefore, applicable in the case in question, as the loan had to
+be repaid in US Dollars. Mark up towards the transaction cost is exorbitant
+and even comparison with banks is unsound and unintelligible. Risk factor
+adjustment is also stretched, for it ignores the close relationship between
+the two AEs and the funds were the shareholder funds, and not borrowed money.
+
+33\. The DRP accepted the addition of 700 basis points on account of credit
+rating and transaction costs, but the suggested third adjustment of 1.776
+basis points was not accepted as loan was given out of the shareholder funds,
+which flowed from one set of shareholders to another set of shareholders. The
+security aspect it was held was embedded by default in the transaction. Thus,
+there was no requirement to make further addition on account of security.
+
+ITA No. 233/2014 Page 25 of 34
+
+34\. In the present case, the loan was granted in the year 2002-2003 and not
+during the period relevant to the assessment year in question. The agreements
+in respect of loan was entered into on 13th April, 2002, 7th May, 2003 and
+then on 8th September, 2003. The agreements fixed the rate of interest at 4%
+per annum on the principal sum. The said rate has been accepted in the earlier
+assessment years and, as noticed above, even in the subsequent assessment year
+2008-
+
+09\.
+
+35\. The LIBOR rate plus markup or the interest rate prevailing in the United
+States at that time, i.e. 2003 have not been examined and are not the basis on
+which the TPO made the adjustment and compute the interest rate for the
+transaction under consideration. It claimed that the LIBOR rates in the year
+2002 varied between 1.447 % to 3.006 % and in the year 2003 between 1.201% to
+1.487%. Rates in the year 2004 were again marginal, with the highest at 3.100%
+and the lowest at 1.340%. The LIBOR rate of 5.224% quoted in the TPO's order,
+it is pointed out, was the rate received on the investment made during the
+assessment year in question by the assessed. Thus, it was argued that the
+present case is of a long-term loan granted to the AE and the rate of interest
+charged was much higher than the then prevailing LIBOR interest rate. There is
+no finding of the TPO, the DRP or the Assessing Officer questioning the long-
+term transaction as such.
+
+36\. Under sub-rule (4) to Rule 10B, the data used for comparability of the
+uncontrolled transaction should be the data relating to the financial year in
+which the international transaction has been entered into. The proviso permits
+consideration of data, not more than two years prior to the financial year, if
+such data reveals ITA No. 233/2014 Page 26 of 34 facts which would have
+influenced determination of transfer price in relation to the transaction
+being compared. The transaction in question was entered into in the year
+2002-03 when the loans were granted to the AE. This was the financial year of
+the international transaction. Payment of interest is also an international
+transaction but would have reference to the year in which the loan was granted
+in case of a long term loan. However, in such situations, question may arise
+whether the case would fall under the second exception mentioned in the case
+of E.K.L. Appliances (supra), when an AE has the right to recall and ask for
+repayment of loan. These aspects have not been considered and applied by the
+TPO, DRP and the Assessing Officer. Neither has this ground been argued before
+us on behalf the Revenue. We, therefore, would not proceed to examine the said
+aspect and leave the question open. Similarly, we have not expressed any
+opinion on the issue or question of ―thin capitalization‖ which does not arise
+for consideration in the present case.
+
+37\. We observe that whatever the Revenue argues and submits in the case of
+outbound loans or for that matter what we have observed would be equally
+applicable to inbound loans given to Indian subsidiaries of foreign AEs. The
+parameters cannot be different for outbound and inbound loans. A similar
+reasoning applies to both inbound and outbound loans. Revenue has erroneously
+argued that different parameters would apply for inbound and outbound loans,
+which is not acceptable .
+
+38\. The DRP referred to the PLR rates fixed in India. It is evident that the
+PLR rates were not the basis for fixing the arm's length price. Both TPO and
+the DRP have referred to the PLR rates only by way of ITA No. 233/2014 Page 27
+of 34 analogy so as to state the prevailing interest rates in India, but while
+applying CUP method for comparability, they had applied LIBOR rates prevailing
+and had applied a mark-up of 700 points on account of low credit rating of the
+subsidiary AE and the cost of transaction.
+
+39\. The question whether the interest rate prevailing in India should be
+applied, for the lender was an Indian company/assessee, or the lending rate
+prevalent in the United States should be applied, for the borrower was a
+resident and an assessee of the said country, in our considered opinion, must
+be answered by adopting and applying a commonsensical and pragmatic reasoning.
+We have no hesitation in holding that the interest rate should be the market
+determined interest rate applicable to the currency concerned in which the
+loan has to be repaid. Interest rates should not be computed on the basis of
+interest payable on the currency or legal tender of the place or the country
+of residence of either party. Interest rates applicable to loans and deposits
+in the national currency of the borrower or the lender would vary and are
+dependent upon the fiscal policy of the Central bank, mandate of the
+Government and several other parameters. Interest rates payable on currency
+specific loans/ deposits are significantly universal and globally applicable.
+The currency in which the loan is to be re-paid normally determines the rate
+of return on the money lent, i.e. the rate of interest. Klaus Vogel on Double
+Taxation Conventions (Third Edition) under Article 11 in paragraph 115 states
+as under:-
+
+> ―The existing differences in the levels of interest rates do not depend on
+> any place but rather on the currency concerned. The rate of interest on a US
+> $ loan is the same in New York as in Frankfurt-at least within the framework
+> of free capital markets (subject to the arbitrage). In regard to the
+> question as to whether ITA No. 233/2014 Page 28 of 34 the level of interest
+> rates in the lender's State or that in the borrower's is decisive,
+> therefore, primarily depends on the currency agreed upon (BFH BSt.B1. II 725
+> (1994), re. 1 § AStG). A differentiation between debt-claims or debts in
+> national currency and those in foreign currency is normally no use, because,
+> for instance, a US $ loan advanced by a US lender is to him a debt-claim in
+> national currency whereas to a German borrower it is a foreign currency debt
+> (the situation being different, however, when an agreement in a third
+> currency is involved). Moreover, a difference in interest levels frequently
+> reflects no more than different expectations in regard to rates of exchange,
+> rates of inflation and other aspects. Hence, the choice of one particular
+> currency can be just as reasonable as that of another, despite different
+> levels of interest rates. An economic criterion for one party may be that it
+> wants, if possible, to avoid exchange risks (for example, by matching the
+> currency of the loan with that of the funds anticipated to be available for
+> debt service), such as taking out a US $ loan if the proceeds in US $ are
+> expected to become available (say from exports). If an exchange risk were to
+> prove incapable of being avoided (say, by forward rate fixing), the
+> appropriate course would be to attribute it to the economically more
+> powerful party. But, exactly where there is no ‗special relationship', this
+> will frequently not be possible in dealings with such party. Consequently,
+> it will normally not be possible to review and adjust the interest rate to
+> the extent that such rate depends on the currency involved. Moreover, it is
+> questionable whether such an adjustment could be based on Art. 11 (6). For
+> Art. 11(6), at least its wording, allows the authorities to ‗eliminate
+> hypothetically' the special relationships only in regard to the level of
+> interest rates and not in regard to other circumstances, such as the choice
+> of currency. If such other circumstances were to be included in the review,
+> there would be doubts as to where the line should be drawn, i.e., whether an
+> examination should be allowed of the question of whether in the absence of a
+> special relationship (i.e., financial power, strong position in the market,
+> etc., of the foreign corporate group member) the borrowing company might not
+> have completely refrained from making investment for which it borrowed the
+> money.‖
+
+40\. The aforesaid methodology recommended by Klaus Vogel appeals to us and
+appears to be the reasonable and proper parameter to decide upon the question
+of applicability of interest rate. The loan in question was given in foreign
+currency i.e. US $ and was also to be ITA No. 233/2014 Page 29 of 34 repaid in
+the same currency i.e. US $. Interest rate applicable to loans granted and to
+be returned in Indian Rupees would not be the relevant comparable. Even in
+India, interest rates on FCNR accounts maintained in foreign currency are
+different and dependent upon the currency in question. They are not dependent
+upon the PLR rate, which is applicable to loans in Indian Rupee. The PLR rate,
+therefore, would not be applicable and should not be applied for determining
+the interest rate in the extant case. PLR rates are not applicable to loans to
+be re-paid in foreign currency. The interest rates vary and are thus dependent
+on the foreign currency in which the repayment is to be made. The same
+principle should apply.
+
+41\. Counsel for the Revenue had made reference to Chapter 10 of the U.N.
+Transfer Pricing Manual, relevant portion of which reads:-
+
+> ―10.4.10. Financial Transactions 10.4.10.1. Intercompany loans and
+> guarantees are becoming common international transactions between related
+> parties due to the management of cross-border funding within group entities
+> of an MNE group. Transfer pricing of inter-company loans and guarantees are
+> increasingly being considered some of the most complex transfer pricing
+> issues in India. The Indian transfer pricing administration has followed a
+> quite sophisticated methodology for pricing inter-company loans which
+> revolves around:
+
+>  Examination of the loan agreement;
+
+>  A comparison of terms and conditions of loan agreements;  The
+> determination of credit ratings of lender and borrower;  The identification
+> of comparable third party loan agreements: and  Suitable adjustments to
+> enhance comparability. 10.4.10.2. The Indian transfer pricing administration
+> has come across cases of outbound loan transactions where the Indian parent
+> ITA No. 233/2014 Page 30 of 34 has advanced to its associated entities (AE)
+> in a foreign jurisdiction either interest free loans or loans at LIBOR
+> (London Interbank Offered Rate) or EURIBOR (Euro Interbank Offered Rate).
+> The main issue before the transfer pricing administration is benchmarking of
+> these loan transactions to arrive at the ALP of the rates of interest
+> applicable on these loans. The Indian transfer pricing administration has
+> determined that since the loans are advanced from India and Indian currency
+> has been subsequently converted into the currency of the geographic location
+> of the AE, the Prime Lending Rate (PLR) of the Indian banks should be
+> applied as the external CUP and not the LIBOR or EURIBOR rate.
+
+> 10.4.10.3. A further issue in financial transactions is credit guarantee
+> fees. With the increase in outbound investments, the Indian transfer pricing
+> administration has come across cases of corporate guarantees extended by
+> Indian parents to its associated entities abroad, where the Indian parent as
+> guarantor agrees to pay the entire amount due on a loan instrument on
+> default by the borrower. The guarantee helps an associated entity of the
+> Indian parent to secure a loan from the bank. The Indian transfer pricing
+> administration generally determines the ALP of such guarantee under the
+> Comparable Uncontrolled Price Method. In most cases, interest rates quotes
+> and guarantee rate quotes available from banking companies are taken as the
+> benchmark rate to arrive at the ALP. The Indian tax administration also uses
+> the interest rate prevalent in the rupee bond markets in India for bonds of
+> different credit ratings. The difference in the credit ratings between the
+> parent in India and the foreign subsidiary is taken into account and the
+> rate of interest specific to a credit rating of Indian bonds is also
+> considered for determination of the arm's length price of such guarantees.
+
+> 10.4.10.4. However, the Indian transfer pricing administration is facing a
+> challenge due to non-availability of specialized databases and of comparable
+> transfer prices for cases of complex inter- company loans as well as mergers
+> and acquisitions that involve complex inter- company loan instruments as
+> well as an implicit element of guarantee from the parent company in securing
+> debt.‖
+
+42\. The first paragraph quoted above, rightly stipulates that inter- company
+loans would require examination of the loan agreement, comparison of the terms
+and conditions of loan agreements, the determination of credit rating of the
+lender and the borrower, ITA No. 233/2014 Page 31 of 34 identification of
+comparable third party loan agreements and suitable adjustments should be
+made. In addition to the aforesaid factors, the comparability analysis should
+also take into account the business relationship and the functions performed
+by the subsidiary AE for the parent company. In the present case, we are not
+concerned with paragraph 10.4.10.3 of the United Nations Transfer Pricing
+Manual. However, we are unable to agree with the position set out and asserted
+in paragraph 10.4.10.2 of the Manual. The reasoning given therein is contrary
+to the accepted international tax jurisprudence and the rules adopted and
+applied. There is no justification or a cogent reason for applying PLR for
+outbound loan transactions where the Indian parent has advanced loan to an AE
+abroad. Chapter 10 of the United Nations Practical Manual on Transfer Pricing
+relates to country practices. The said Chapter sets out an individual
+country's view point and its experiences for the information of the readers.
+The said Chapter does not reflect the view of the Manual. Paragraph 10.1 of
+the United Nations Practical Manual on Transfer Pricing for Developing
+Countries reads:-
+
+> ―10.1. Preamble by the Subcommittee on Transfer Pricing: Practical Aspects
+> 10.1.1. In the first nine chapters of this Manual, the Subcommittee has
+> sought to provide practical guidance on the application of transfer pricing
+> rules based on Article 9(1) of the UN Model Tax Convention and the arm's
+> length principle embodied in that Article. With regard to chapters one
+> through nine, the Subcommittee has discussed and debated the merits of the
+> guidance that is provided and, while there may be some disagreement on
+> certain points, for the most part the Subcommittee is in agreement that the
+> guidance in those chapters reflects the application of the arm's length
+> principle as embodied in the UN Model Tax Convention.
+
+ITA No. 233/2014 Page 32 of 34
+
+> 10.1.2. The Subcommittee recognizes that individual countries, particularly
+> developing and emerging economies, struggle at times with the details of
+> applying these treaty-based principles in a wide variety of practical
+> situations. It therefore seemed appropriate to allow representatives of
+> individual countries an opportunity to set out their individual country
+> viewpoints and experiences for the information of readers. Those individual
+> country views are contained in this chapter. It should be emphasized that it
+> does not reflect a consistent or consensus view of the Subcommittee.‖
+
+43\. Normally there would be a difference between the lending rate and
+borrowing rate in each country. Some authors and writers suggest that the
+average or mid-point between the two should be taken. However, others like
+Klaus Vogel, have suggested that economic purpose and substance of the debt-
+claim or debt for which granting of credit calls for the lending rate would be
+determinative.
+
+Thus, in case of a capital investment, the borrowing rate will apply, whereas
+in case of credit allowed to a customer on sale of goods, the lending rate
+would apply. We do not deem it necessary to enter into this controversy and
+express our view as regards the same.
+
+44\. We are also not expressing any view on adjustment for lack of security as
+this issue does not arise for consideration in terms of the observations of
+the DRP.
+
+45\. In the light of the aforesaid discussion, the substantial question of law
+mentioned above has to be answered against the appellant i.e. ITA No. 233/2014
+Page 33 of 34 the Revenue and in favour of the respondent-assessee. The appeal
+is accordingly disposed of. There will be no order as to costs.
+
+(SANJIV KHANNA) JUDGE (V. KAMESWAR RAO) JUDGE March 27th, 2015 kkb ITA No.
+233/2014 Page 34 of 34
+

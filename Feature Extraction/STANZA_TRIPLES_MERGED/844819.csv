@@ -1,0 +1,416 @@
+tid,label,token
+844819,ORG,Supreme Court of India
+844819,PERSON,Dwarka Nath
+844819,DATE,29 March
+844819,DATE,1965
+844819,DATE,1966
+844819,DATE,1965
+844819,DATE,1965 3
+844819,PERSON,S Rao
+844819,PERSON,J Shah
+844819,PERSON,K S Rao
+844819,PERSON,S Sikri
+844819,PERSON,Subba Rao
+844819,CARDINAL,1\
+844819,ORG,"Gujarat
+Cotton Mills Co. Ltd."
+844819,GPE,Ahmedabad
+844819,DATE,the year 1938
+844819,PERSON,Messrs
+844819,ORG,Pira Mal Girdhar Lal and Co.
+844819,DATE,"February 28, 1938"
+844819,DATE,"February 26, 1938"
+844819,ORG,II
+844819,CARDINAL,3
+844819,CARDINAL,8
+844819,GPE,Kanpur
+844819,DATE,"September, 1946"
+844819,DATE,"September, 1946"
+844819,GPE,Kanpur
+844819,CARDINAL,"32,500"
+844819,CARDINAL,"26,362"
+844819,CARDINAL,2\
+844819,DATE,"September
+7, 1946"
+844819,ORG,II
+844819,ORG,Messrs
+844819,PERSON,Chhattu Ram
+844819,ORG,Sons of Bihar
+844819,CARDINAL,"65,012"
+844819,ORG,II
+844819,MONEY,65
+844819,DATE,"November 15, 1946"
+844819,DATE,"October 30, 1946"
+844819,ORG,the Agency Firm
+844819,CARDINAL,65
+844819,NORP,Hindu
+844819,PERSON,Karta
+844819,PERSON,Dwarkanath
+844819,PERSON,Ramji Prasad
+844819,CARDINAL,one
+844819,CARDINAL,11
+844819,ORG,"the Agency
+Firm"
+844819,ORG,the Kanpur Group
+844819,CARDINAL,"11,230"
+844819,CARDINAL,65
+844819,DATE,the year 1948-49
+844819,DATE,"June 5, 1952"
+844819,CARDINAL,"2,98,909"
+844819,ORG,Appellate
+844819,ORG,Tribunal
+844819,ORG,Delhi Bench
+844819,LAW,S. 12B of the Income-tax Act
+844819,DATE,1922
+844819,LAW,the Income-tax Officer
+844819,LAW,S. 35
+844819,LAW,the Income-tax Act
+844819,ORG,Tribunal
+844819,ORG,Tribunal
+844819,DATE,"March 26, 1954"
+844819,DATE,"August 3, 1953"
+844819,ORG,"the Income-tax
+Officer"
+844819,LAW,"S.
+12B"
+844819,LAW,the Income-tax Act
+844819,CARDINAL,65
+844819,LAW,"S. 29 of the
+Income-tax Act"
+844819,ORG,the Appellate Tribunal
+844819,DATE,"March 5, 1956"
+844819,ORG,the Income-tax Officer
+844819,LAW,"S.
+29"
+844819,LAW,the Income-tax Act
+844819,ORG,Appellate
+844819,LAW,S. 30
+844819,LAW,the Income-tax Act
+844819,DATE,"March 8, 1957"
+844819,DATE,"September 27, 1956"
+844819,LAW,S. 33A (2) of the Income-tax Act
+844819,ORG,the Income-tax Officer
+844819,DATE,"September 28, 1955"
+844819,DATE,"March 28,
+1959"
+844819,CARDINAL,two
+844819,LAW,S. 33A
+844819,LAW,"the
+Income-tax Act"
+844819,ORG,Appellate
+844819,DATE,"March 8, 1957"
+844819,DATE,"November 18, 1957"
+844819,ORG,"the Bombay
+High Court"
+844819,ORG,Court
+844819,ORG,"the
+Bombay Group"
+844819,DATE,"July 28, 1959"
+844819,LAW,Writ Application No. 2071
+844819,DATE,1959
+844819,ORG,"the High Court of
+Judicature"
+844819,GPE,Allahabad
+844819,PERSON,Lucknow
+844819,DATE,"March 28, 1959"
+844819,LAW,"the Order of the Income-tax
+Officer"
+844819,DATE,"September 28, 1955"
+844819,ORG,the Bombay High Court
+844819,ORG,the Income-tax Officer
+844819,LAW,S. 29 of the Income-tax Act
+844819,ORG,"The
+High Court"
+844819,CARDINAL,8
+844819,CARDINAL,1
+844819,CARDINAL,2
+844819,CARDINAL,3
+844819,CARDINAL,3\
+844819,PERSON,A. V. Viswanatha Sastri
+844819,ORG,the High Court
+844819,LAW,section 33A of the Act
+844819,ORG,the Appellate Assistant Commissioner
+844819,LAW,"the Income- tax
+Officer"
+844819,LAW,section 29 of the Income-tax Act
+844819,ORG,Court
+844819,GPE,Bombay
+844819,CARDINAL,4
+844819,PERSON,Gopal Singh
+844819,ORG,the High Court
+844819,LAW,section 33A of the Income-tax Act
+844819,ORG,"the High
+Court"
+844819,LAW,article 226 of the constitution
+844819,CARDINAL,5
+844819,ORDINAL,first
+844819,LAW,Article 226 of the Constitution
+844819,ORG,every High Court
+844819,ORG,Government
+844819,LAW,Part III
+844819,CARDINAL,6
+844819,GPE,England
+844819,GPE,India
+844819,GPE,England
+844819,ORG,"the
+High Courts"
+844819,ORG,the High Court
+844819,LAW,article 226 of the Constitution
+844819,LANGUAGE,English
+844819,DATE,the years
+844819,GPE,England
+844819,ORG,Government
+844819,GPE,India
+844819,ORG,the High Courts
+844819,ORG,Court
+844819,PERSON,T. C. Basappa
+844819,GPE,Nagappa
+844819,GPE,Irani
+844819,GPE,Madras
+844819,CARDINAL,7
+844819,GPE,England
+844819,CARDINAL,two
+844819,ORG,Atkin L.J.
+844819,ORG,"Rex v. Electricity
+Commissioners"
+844819,PERSON,Scrutton
+844819,GPE,Rex
+844819,ORG,"London County
+Council"
+844819,GPE,Province
+844819,GPE,Bombay
+844819,PERSON,"Kusald S.
+Advani"
+844819,CARDINAL,1
+844819,CARDINAL,2
+844819,CARDINAL,3
+844819,GPE,India
+844819,CARDINAL,two
+844819,LANGUAGE,English
+844819,ORG,"Parker, J."
+844819,GPE,R.
+844819,ORG,Manchester Legal Aid Committee
+844819,DATE,1952-2 QB 413
+844819,CARDINAL,428
+844819,LANGUAGE,English
+844819,ORG,"Parker, J."
+844819,GPE,R.
+844819,ORG,"Manchester Legal
+Aid Committee"
+844819,DATE,1952-2 QB 413
+844819,CARDINAL,428
+844819,CARDINAL,8\
+844819,GPE,Halsbury
+844819,GPE,England
+844819,ORDINAL,3rd
+844819,DATE,55
+844819,DATE,56
+844819,ORG,"the Andhra Pradesh State
+Government"
+844819,ORG,the Andhra Pradesh State Road Transport Corporation
+844819,ORG,"the
+Examination Committee"
+844819,ORG,Board of High School
+844819,ORG,Intermediate Education
+844819,PERSON,"Ghanshyam Das
+Gupta"
+844819,ORG,the Revenue Board
+844819,ORG,Board of revenue
+844819,PERSON,Sardarni Vidyawati
+844819,ORG,Government
+844819,ORG,the Examination Committee
+844819,ORG,the Board of Revenue
+844819,PERSON,Law
+844819,CARDINAL,10\
+844819,LAW,"the
+Income-tax Act"
+844819,CARDINAL,33A
+844819,CARDINAL,2
+844819,ORG,Commissioner
+844819,DATE,one year
+844819,LAW,Act
+844819,ORG,Appellate
+844819,ORG,the Appellate Tribunal
+844819,ORG,the Appellate Tribunal
+844819,ORG,Appellate
+844819,ORG,Appellate
+844819,CARDINAL,12
+844819,LAW,Act
+844819,DATE,one year
+844819,LAW,section 33A(2) of the Act
+844819,CARDINAL,13
+844819,LAW,section 33A of the Act
+844819,ORG,Reliance
+844819,ORG,Judicial
+844819,ORG,Tribune Trust
+844819,ORG,the Judicial Committee
+844819,ORG,the Income-tax Officer
+844819,ORG,the High Court
+844819,LAW,section 33
+844819,ORG,Board
+844819,LAW,section 33
+844819,ORDINAL,third
+844819,CARDINAL,14\
+844819,ORG,Board
+844819,LAW,section 33
+844819,CARDINAL,15
+844819,ORG,the High Court
+844819,LAW,"section 33 of the
+Act"
+844819,ORG,Board
+844819,LAW,Section 33
+844819,ORG,the Privy Council
+844819,LAW,the Amending Act
+844819,DATE,1939
+844819,LAW,"the Act
+XXIII"
+844819,DATE,1941
+844819,LAW,"Section
+33A"
+844819,CARDINAL,33
+844819,CARDINAL,1
+844819,CARDINAL,33A
+844819,CARDINAL,2
+844819,LAW,Section 33
+844819,ORG,"the High
+Courts"
+844819,ORG,the Privy Council
+844819,LAW,S. 33-A of the Act
+844819,LAW,Sitalpore Colliery Concern
+844819,ORG,Ltd. v. Union of India
+844819,ORG,"Additional Income-tax
+Officer"
+844819,ORG,Cuddapah
+844819,ORG,"Cuddapah Star Transport Co., Ltd."
+844819,PERSON,"Suganchand
+Saraogi"
+844819,ORG,Income-tax
+844819,GPE,Calcutta
+844819,ORG,Commissioner
+844819,ORG,Court
+844819,CARDINAL,16
+844819,LAW,section 33A of the Act
+844819,LAW,section 29 of the Act
+844819,LAW,article 226
+844819,CARDINAL,17
+844819,ORG,The High Court
+844819,LAW,article 225
+844819,ORG,"the High Court
+of Allahabad"
+844819,LAW,the Rules of Court
+844819,LAW,Chapter XXII
+844819,LAW,article 226
+844819,LAW,sub-rule (2) of rule 1 of Chapter XXII
+844819,CARDINAL,18\
+844819,ORG,the High Court
+844819,LAW,sub-rule (2) of rule 1 of chapter XXII of the Rules
+844819,ORG,the Allahabad high Court
+844819,PERSON,Dhruva Das
+844819,CARDINAL,19
+844819,PERSON,Dhurv Das
+844819,CARDINAL,"1,2,3"
+844819,CARDINAL,50
+844819,CARDINAL,4
+844819,CARDINAL,5
+844819,DATE,7
+844819,DATE,8
+844819,DATE,9
+844819,DATE,10
+844819,DATE,11
+844819,DATE,12
+844819,DATE,13
+844819,DATE,14
+844819,DATE,15
+844819,DATE,16
+844819,DATE,20
+844819,DATE,21
+844819,DATE,25
+844819,DATE,27
+844819,DATE,29
+844819,DATE,31
+844819,DATE,32
+844819,DATE,34
+844819,DATE,37
+844819,DATE,38
+844819,DATE,41
+844819,DATE,42
+844819,DATE,44
+844819,DATE,46
+844819,DATE,50
+844819,DATE,17
+844819,DATE,18
+844819,DATE,19
+844819,DATE,22
+844819,DATE,23
+844819,DATE,24
+844819,DATE,26
+844819,DATE,28
+844819,DATE,29
+844819,DATE,30
+844819,DATE,33
+844819,DATE,36
+844819,DATE,39
+844819,DATE,40
+844819,DATE,43
+844819,DATE,47
+844819,DATE,48
+844819,DATE,49
+844819,DATE,50
+844819,CARDINAL,20\
+844819,LAW,rule 1(2) of chapter XXII of the Rules
+844819,ORG,the High Court
+844819,LAW,R. 1 of Ch. XXII of the Rules
+844819,ORG,the High Court
+844819,CARDINAL,21\
+844819,ORG,Court
+844819,CARDINAL,22
+844819,ORG,the High Court
+844819,ORG,"the Bombay
+High Court"
+844819,GPE,Baijnath Chaturbhuj
+844819,PERSON,Messrs
+844819,ORG,Chhatturam and Sons
+844819,GPE,Bombay
+844819,GPE,Bombay
+844819,ORG,Division Bench
+844819,CARDINAL,one
+844819,ORG,the High Courts
+844819,GPE,India
+844819,CARDINAL,23\
+844819,ORG,the High Court
+844819,ORG,"the
+high Court"
+844819,PERSON,Sri Gopal Behari
+844819,LAW,rule 1(4) of chapter XXII of the Rules
+844819,ORG,the High Court
+844819,CARDINAL,two
+844819,LAW,section 33A(2) of the Act against the order of the Income-tax Officer'
+844819,LAW,"section
+29 of the Act"
+844819,ORDINAL,second
+844819,LAW,"section 33A(2) of
+the Act"
+844819,ORG,Delhi Bench
+844819,LAW,section 12B of the Act
+844819,LAW,section 29 of the Act
+844819,ORG,"the Appellate Assistant
+Commissioner"
+844819,ORG,Appellate Assistant Commissioner
+844819,CARDINAL,24
+844819,DATE,"March 5, 1956"
+844819,ORG,"the
+Income-tax Officer"
+844819,LAW,"section 29 of
+the Act"
+844819,LAW,"section 29
+of the Act. Section 29 of the Act"
+844819,CARDINAL,29
+844819,LAW,the Income-tax Officer
+844819,CARDINAL,25
+844819,ORG,"the Income-tax
+Officer"
+844819,LAW,Act
+844819,LAW,Act
+844819,CARDINAL,26
+844819,ORG,Court
+844819,CARDINAL,27\

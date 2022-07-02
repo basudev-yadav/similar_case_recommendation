@@ -1,0 +1,3256 @@
+
+
+Delhi High Court
+
+Cipla Ltd. vs F.Hoffmann-La Roche Ltd. & Anr. on 27 November, 2015
+
+Author: Pradeep Nandrajog
+
+    
+    
+    *       IN THE HIGH COURT OF DELHI AT NEW DELHI
+    
+    %                                Judgment Reserved on : August 12, 2015
+                                     Judgment Delivered on :November 27, 2015
+    
+    +                          RFA(OS) 92/2012
+    
+            F.HOFFMANN-LA ROCHE LTD & ANR.             ..... Petitioners
+                    Represented by: Mr.Pravin Anand, Advocate with
+                                    Mr.Shrawan Chopra, Ms.Prachi
+                                    Agarwala, Ms.Archana Shanker,
+                                    Mr.Mahabir and Mr.Vibhav Mithal,
+                                    Advocates
+    
+                                           versus
+    
+            CIPLA LTD.                                        ..... Respondent
+                     Represented by:       Mr.Arvind Nigam and Ms.Prathiba
+                                           M.Singh, Sr.Advocates instructed by
+                                           Ms.Bitika Sharma, Ms.Jaya Mandella
+                                           and Ms.Anusuya Nigam, Advocates
+    
+                               RFA(OS) 103/2012
+    
+            CIPLA LTD                                            ..... Petitioner
+                         Represented by:   Mr.Arvind Nigam and Ms.Prathiba
+                                           M.Singh, Sr.Advocates instructed by
+                                           Ms.Bitika Sharma, Ms.Jaya Mandella
+                                           and Ms.Anusuya Nigam, Advocates
+    
+                                           versus
+    
+            F.HOFFMANN-LA ROCHE LTD & ANR.             ..... Respondents
+                    Represented by: Mr.Pravin Anand, Advocate with
+                                    Mr.Shrawan Chopra, Ms.Prachi
+                                    Agarwala, Ms.Archana Shanker,
+                                    Mr.Mahabir and Mr.Vibhav Mithal,
+                                    Advocates
+    
+    
+    
+    
+        RFA (OS) Nos.92/2012 & 103/2012                            Page 1 of 106
+     CORAM:
+    HON'BLE MR. JUSTICE PRADEEP NANDRAJOG
+    HON'BLE MS. JUSTICE MUKTA GUPTA
+    
+    PRADEEP NANDRAJOG, J. & MUKTA GUPTA, J.
+    
+
+1\. Though at first blush the plot and premise of the Roche Vs. Cipla dispute
+appears to be straightforward - Roche claims that on March 31, 1991, it filed
+an application for grant of patent in USA pertaining to Erlotinib
+Hydrochloride, resulting in grant of patent US ‗498 on August 05, 1998\.
+During pendency of its application in USA, on March 13, 1996 it filed an
+application in India for grant of patent for the same molecule which was
+granted to it vide IN ‗774 on February 23, 2007. The marketable physical form
+of the molecule comprised polymorph A and B. Further research revealed that
+polymorph B was more thermodynamic and as per Roche would qualify for enhanced
+efficacy and thus on November 09, 2000 it applied for grant of patent for
+polymorph B of Erlotinib Hydrochloride in USA resulting in grant of patent US
+‗221. Similar application filed in India on February 06, 2002 i.e. DEL ‗507
+was rejected. As per Roche, IN ‗774 granted in February 2007 by the Controller
+of Patents, per Claim No.1, covered patent rights over Erlotinib Hydrochloride
+molecule which has demonstrated breakthrough capabilities as an Epidermal
+Growth Factor Receptor (EGFR) inhibitor which spiked survival benefit in
+cancer including non-small cell lung cancer (NSLC) patients.
+
+2\. The issues which were finally debated before us in the appeal had various
+hues. The marathon hearings have resulted in both of us having before us
+several pages of manuscripts, bearing encouraging and tactful notes penned by
+us, as learned counsel Sh.Pravin Anand who appeared for  RFA (OS) Nos.92/2012
+& 103/2012 Page 2 of 106 Roche and Sh.Arvind Nigam, Sr.Advocate and
+Ms.Pratibha M.Singh, Sr.Advocate who appeared for Cipla laboured through the
+case law, the provisions of the Patents Act, 1970 as amended from time to
+time, the pleadings of the parties, the various documents exhibited at the
+trial and the deposition of the witnesses of the two parties. We therefore
+begin by adequately thanking them in rendering valuable assistance. We are
+especially indebted to them for their uniform generosity and kindness shown to
+us with the most heroic reserve of patience in answering one simple but
+endlessly repeatedly question : ‗But could you explain that again?'
+
+3\. The endless labour by learned counsel, apart from making us understand the
+nuances of the law of patent, made us aware of something probably never
+highlighted about the Carbon atom. In the atomic world it would be the party
+animal, latching on to any atom it finds around it, including itself, and
+holding tight, forming molecular change - the very trick of nature necessary
+to build proteins and DNA.
+
+4\. Claiming that it was based on media intelligence declaring Cipla's
+intention to launch a generic version of Roche's drug based on IN ‗774, in
+January 2008, Roche moved this Court on its original side seeking to injunct
+Cipla from marketing Erlocip.
+
+5\. Roche's plea for interim injunction against Cipla was dismissed by a
+learned Single Judge of this Court on March 19, 2008, reported as (2008) 37
+PTC 71 (Del) F Hoffman-La Roche v. Cipla Ltd, with a fascinating
+characterization of the public interest involved in, and the life-saving
+nature of, the drug in question playing a large part in the evaluation of the
+imponderables.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 3 of 106
+
+6\. Roche's appeal to the Division Bench of this Court against the order
+passed by the learned Single Judge was dismissed on April 24, 2009, on the
+back of a heavily public interest-centric reading of the Patents Act, 1970 as
+amended from time to time, and a detailed discussion of the relative
+affordability of the two drugs to the common man; and the decision is reported
+as (2009) 40 PTC 125 (Del) F Hoffman-La Roche v. Cipla Ltd.
+
+7\. On the substantive legal issues, the Division Bench felt that Cipla had
+done enough to demonstrate a potentially credible challenge to the validity of
+IN ‗774, including raising sufficient doubt over whether IN ‗774 had complied
+with full disclosure requirements.
+
+8\. Roche's subsequent agitation of the matter on special leave before the
+Supreme Court was also denied. And the case moved to trial.
+
+9\. The learned Single Judge has answered two main questions in the impugned
+decision: first, whether Roche's IN ‗774 patent stands to be revoked; and
+second, whether the Cipla's manufacture of Erlocip infringes Roche's IN ‗774
+patent. Other ancillary issues have also been decided to which we would be
+adverting to as we move along.
+
+10\. The decision of the learned Single Judge on the question of the validity
+of Roche's IN ‗774 patent has been largely defied by reference to Cipla's
+counter-claim in the suit, which contended that IN ‗774 contains no inventive
+step. This was for two main reasons - first, Cipla contended that the closest
+prior art to IN ‗774 was Example 51 of EP ‗226 (admitted as prior art in the
+IN ‗774 specification) and that the two had extremely materially similar, if
+not identical, structures. Cipla pointed to the fact that not only did the IN
+‗774 specification fail to disclose how it was inventive over Example 51 but
+also that multiple examples cited in IN ‗774 were  RFA (OS) Nos.92/2012 &
+103/2012 Page 4 of 106 specifically disclosed in EP ‗226, which was compelling
+evidence that IN ‗774 was more combination and less innovation. Second, Cipla
+- claimed that only meaningful difference between IN ‗774 and Example 51 of EP
+‗226 - was the substitution of a methyl group with ethynyl at the third meta
+(3') position (This was extended in the technical plane by Cipla to say that
+EP „226 teaches a methyl/cyano configuration which anticipates the
+methyl/ethynyl substitution on account of a property called bioisosterism (the
+cyano and ethynyl groups, in this case, are chemically similar and produce
+similar biological properties). - a change so minor and so well anticipated by
+prior art that it would be obvious to a person skilled in the art on account
+of - a minimum of five prior art teachings, all of which suggested that the
+methyl/ethynyl substitution could be affected with no categorical loss of
+efficacy.
+
+11\. Roche's rebuttal to the counter-claim is centered on the comparative
+efficacy of IN ‗774 versus Example 51 of EP ‗226, which had been mapped
+according to inhibitory concentration, a parameter in reference to which the
+nearest prior art reference to IN ‗774 was EP ‗851 and IN ‗774 was inventive
+over it. Consequently, argued Roche, Example 51 of EP ‗226, which was not even
+in the top five nearest references to IN ‗774 in terms of inhibitory
+concentration value disclosed by EP ‗226 should not be treated as the point of
+departure in the inventive step analysis. EP ‗226 actually teaches a
+methyl/ethynyl substitution at the 6, 7 - position and not at the 3' position
+and there are several appreciable differences in bond angle, bond length and
+bond strength and the type of reaction with EGFR kinase between methyl and
+ethynyl group that make the methyl/ethynyl substitution ostensibly inventive.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 5 of 106
+
+12\. The weighing of these rival contentions by the learned Single Judge is
+preceded by an interesting foreword - he states that no special understanding
+of inventive step under the Patent Act, 1970 is necessary qua pharmaceutical
+patents, discarding any reliance on any jurisprudential qualifications of
+inventive step for pharmaceutical products in other jurisdictions. The learned
+Single Judge has cast the ‗person skilled in the art' as a competent craftsman
+and a skilled worker but nothing further; drawing on the decision of the
+Supreme Court reported as AIR 1982 SC 1444 Bishwanath Prasad Radhey Shyam Vs.
+Hindustan Metal Industries. Beyond this, any further characterization of the
+‗person skilled in the art' drawn from other jurisdictions is discarded
+entirely. This, according to the learned Single Judge is because reliance on
+foreign jurisprudence is useful only where the position expressed in such
+references is consistent with the Patent Act, 1970. This reasoning has
+resulted in the learned Single Judge to refer to precedents such as the
+decision of the England and Wales Court of Appeals reported as 2010 RPC 9
+Dr.Reddy‟s Laboratories (UK) Ltd. Vs. Eli Lilly & Co. Ltd. to support the view
+that the same standard of obviousness is to be applied to non-pharmaceutical
+patents. The learned Single Judge has quoted an analysis of the judgment from
+Roughton et al's : The Modern Law of Patents, thus : ‗.... (the) patentability
+of selection inventions is a question of inventive step whereas the EPO
+predominantly looks at it as a question of novelty (and simply applies the
+normal rules for inventive step‟); and perhaps a little onerously, such
+reliance is only justified if the consistency is a consequence of legislative
+change in India. On this basis, the learned Single Judge discards virtually
+all US and European precedent cited before him on this issue, cases reported
+as 1972 RPC 346 Technograph Vs. Mill & RFA (OS) Nos.92/2012 & 103/2012 Page 6
+of 106 Rockley, (1985) RPC 59 Windsurfing International Inc. Vs. Tabur Marine
+(Great Britain) Ltd., 1972 RPC 457 General Tire & Rubber Co. Vs. Firestone,
+670 F.Supp.2d 359 Daiichi Sankyo Vs. Matrix Laboratories & Ors., 550 U.S. 398
+(2007) KSR International Co. Vs. Teleflex Inc. among others being prominent
+among them, as well as the TSM test, stating that it raises a semi-presumption
+of validity whereas no such presumption exists under the Indian law.
+
+13\. Interestingly, in creating this India-specific inventive step test which
+is based on a joint reading of Section 64 and Section 2(ja) of the Patent Act,
+1970\. the learned Single Judge has identified certain ‗essential ingredients‟
+of Section 2(ja) which are to be satisfied for any invention to qualify the
+threshold of inventive step. These ingredients listed out by the learned
+Single Judge are:-
+
+a) That the said invention involves a technical advancement as compared to
+existing knowledge or economic significance or both; and
+
+b) That makes the invention non obvious to the persons skilled in art.
+
+14\. The learned Single Judge interprets this test to posit that : ‗not merely
+there should be a technical advancement in the invention but at the same time,
+it should not be obvious to the person skilled in art‟ and rules that both the
+requirements are to be satisfied conjunctively and that „beyond the said two
+ingredients, there is no further ingredient which should be read into in order
+to enlarge or limit the scope of the Section.‟
+
+15\. Further, for reasons not entirely clear, the disavowal as to foreign
+jurisprudence is reinforced by the learned Single Judge by placing reliance on
+Roughton et al‟s : The Modern Law of Patents to create a matrix of  RFA (OS)
+Nos.92/2012 & 103/2012 Page 7 of 106 material facts required to be shown by a
+defendant to prove obviousness in a revocation inquiry :
+
+a. The selection of the impugned invention is taken from the examples of the
+known prior art.
+
+b. That the selected invention is not far removed from the known range
+illustrated in the example. Rather, the same is closer to the known range. c.
+That the selection area is not on the basis of any purpose of the inventor and
+is merely an arbitrary picking up the compound.
+
+16\. The learned Single Judge has held that the first condition is fulfilled
+by Cipla but that the other two are not demonstrated by ‗positive evidence';
+and although the learned Single Judge finds that Roche also falls short on the
+evidentiary threshold with regard to this issue, he concludes that there was
+no onus on them to defend a validity challenge. The learned Single Judge goes
+on to suggest that Cipla could have ‗clinically' demonstrated deviation (even
+via deposition) and that there was no deposition on Cipla's behalf pointed at
+establishing the arbitrariness of selection. (We note here that the deposition
+on Cipla‟s behalf stated that there was a possibility of the desired result by
+a methyl/ethynyl substitution but no guarantee). On the latter issue, the
+learned Single Judge has held that the primary test to be used is whether the
+selection reflected in the invention was non- arbitrary/purposeful and that
+where this is established, it overrides any ‗inspiration' taken from EP ‗226.
+Roche's case, in his opinion, was further helped by the teething problems they
+encountered with their NSLC prototype drug Geftinib and consequent
+improvements thereto incorporated  RFA (OS) Nos.92/2012 & 103/2012 Page 8 of
+106 into Tarceva, which suggested that the relevant improvements had been
+purposeful, not arbitrary.
+
+17\. One last issue urged by Cipla on the validity question was five patent
+specifications cited by Cipla to show that methyl/ethynyl substitution was
+well known in prior art. The learned Single Judge disqualifies these
+references for two reasons - one, because they were filed after settlement of
+issues in the proceedings and did not meet the requirement that they could not
+be filed on account of being outside Cipla's knowledge or resources; and two,
+since four of the five patents cited pertained to non-quinazoline derivatives
+and the one that did - US ‗534 - quotes a 6, 7 methyl/ethynyl substitution
+which is inconsequential per se.
+
+18\. Apart from this, the learned Single Judge also invokes commercial success
+of the drug as an attending circumstance in establishing the purposefulness of
+the selection and defends his positive evidence standard as being necessary to
+avoid a slippery slope of judging competing products on the basis of
+superficial structural similarity. On an overall consideration of factors, the
+learned Single Judge - holds that Cipla are unable to meet even a balance of
+probabilities to establish revocation.
+
+19\. The second limb of Cipla's counter-claim - a Section 3(d) challenge to
+the validity of In ‗774 - was born out of the fact that Roche had
+unsuccessfully applied for a ‗Polymorph B' form of Erlotinib Hydrochloride
+(DEL ‗507), a claim which was rejected by the Controller of Patents in
+December 2008 with findings on evergreening, structural similarities between
+IN ‗774 and EP 226 and a lack of conclusive comparative clinical data to prove
+efficacy. Nevertheless, the learned Single Judge invokes a ‗positive evidence'
+standard yet again to rule that Cipla failed to show  RFA (OS) Nos.92/2012 &
+103/2012 Page 9 of 106 enough evidence to sustain a Section 3(d) challenge,
+since it required them to prove IN ‗774 is the ‗new form of an old substance'
+(the ‗old substance' being EP ‗226). The learned Single Judge rules against
+Cipla on the grounds that none of their witnesses deposed to establish that EP
+‗226 and IN ‗774 are either, in essence, the same substance or that the simple
+assertion Example 51 of EP ‗226, through further reaction, can result in IN
+‗774 is sufficient to establish ‗new form of an old substance' unless proven
+to be contrary. Thus, much against his initial desire to avoid importing
+presumptions of validity, the learned Single Judge reconciles the rival claims
+by holding that the reaction with a new reactant could create a new form of an
+old substance in this case but that it had not been proved by Cipla.
+Therefore, given that Roche had established sufficient evidence of difference
+in efficacy, it was sufficient certainly for it to be inferred that IN ‗774
+was not hit by Section 3(d) \- even though this was not done through
+deposition.
+
+20\. Several subsidiary challenges to IN ‗774 were also raised by Cipla, which
+can all be classified as allegations of suppression and concealments by Roche.
+All of them barring one under Section 8 have been rejected by the learned
+Single Judge. Section 8 of the Patents Act, 1970 which lays down disclosure
+requirements as to all corresponding foreign patent applications which appears
+to have become the single most problematic area of patent practice in India in
+recent times following the decision of this Court reported as (2009) 41 PTC
+260 (Del) Chemtura Corporation v Union of India, which laid down a strict
+threshold of disclosure and also warns that inadequacy of disclosure would be
+a ground to seek revocation of a patent disclosure. Though the learned Single
+Judge has not referred to Chemtura,  RFA (OS) Nos.92/2012 & 103/2012 Page 10
+of 106 but he has categorically not revoked IN ‗774, despite holding on facts
+that : ‗... the plaintiffs as patentee has not disclosed the information as
+required by the controller as per Section 8 of the Act which is evidence upon
+from the examination report dated 22.8.2006 and the responses thereto which do
+not record the subsequent patent in US „221 which ought to have been
+disclosed. Thus the ground of revocation under Section 64(1)(m) is made out‟.
+Despite holding that the ground under Section 64(1)(m) is made out, the
+learned Single Jude has chosen to exercise positive discretion in Roche's
+favour not to revoke the patent by inferring the existence of such discretion
+from the presence of the word ‗may' in the Section.
+
+21\. On the infringement question, armed with a fairly obliquitous ‗positive
+evidence' standard, the learned Single Judge has cast the onus to establish
+infringement on Roche.
+
+22\. The decision of the learned Single Judge is a bit hazy with regard to
+this issue because of the interchangeable reference by the learned Single
+Judge - of Erlotinib Hydrochloride and Tarceva as being covered by IN ‗774.
+However, this is clarified in reference to the relief claimed, which was for
+infringement of rights in the drug Tarceva and also claimed an injunction
+restraining the manufacturing and marketing Erlocip.
+
+23\. Cipla's infringement case was based on the claim that IN ‗774 is for a
+mix of Polymorphs A and B of Erlotinib Hydrochloride but Tarceva is just
+Polymorph B, which corresponds to US ‗221 (and the rejected DEL ‗507).
+
+24\. In the absence of clinical tests on record by Roche to compare the
+constituents of Roche's and Cipla's drugs and specifically whether Roche's
+drug corresponded with the Claim 1 of IN ‗774, it is crucial that Roche merely
+led evidence to show that Cipla's drug was also Erlotinib  RFA (OS)
+Nos.92/2012 & 103/2012 Page 11 of 106 Hydrochloride and claimed that
+manufacture of Polymorph B by Cipla was sufficient to trigger infringement of
+Claim 1 of IN ‗774. (Clearly, it flows in sequitur that any process involved
+in making Polymorph B would first involve the preparation of a combination of
+Polymorphs A and B; even US ‗221 states that Erlotinib Hydrochloride in
+Polymorph B form results from re-crystallization of Erlotinib Hydrochloride
+using different solvents and temperature conditions).
+
+25\. The observations of the learned Single Judge on this aspect are in para
+213 of the impugned decision which reads thus:
+
+> ".... No clinical tests have been placed on record either by attorney of the
+> plaintiffs or by the expert of the plaintiffs which would show and analyzes
+> as to what are the exact constituents of the plaintiffs drug Tarceva and the
+> defendant‟s drug ERLOCIP more specifically the question whether the same
+> corresponds with the Indian Patent in the entirety or whether the same are
+> the Polymorphic version B of the suit patent compound. Rather, the
+> plaintiffs attorney has deposed everything on the basis of what has been
+> shown in the physical form of literature of the drug of the defendant which
+> only demonstrates that it contains Erlotinib Hydrochloride.‖
+
+26\. On this issue, the learned Single Judge has placed significant reliance
+on expert testimony of two kinds - first, on X-ray diffraction tests which
+establish that Tarceva is Polymorph B alone and second, that the tablet form
+of Erlotinib Hydrochloride does not follow directly from the claims in IN ‗774
+(on account of the fact that further reactions of the product from IN ‗774 are
+required to produce Tarceva).
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 12 of 106
+
+27\. This has lead the learned Single Judge to a construction of Claim 1 of IN
+‗774 to understand whether it subsumes Polymorph B of Erlotinib Hydrochloride,
+which is admittedly Erlocip.
+
+28\. It is here that the initial confusion (attributed to Roche in the
+judgment) - about whether the comparison of Erlocip is to be with Claim 1 of
+IN ‗774 or with Tarceva - re-surfaces again in the judgment. Two short
+passages from this part of the impugned judgment illustrate this:-
+
+> ―... the Court has to test as to whether the impugned product is infringing
+> the patented subject matter especially when there is a patent claim on the
+> subject and there is a product which may not strictly covered within the
+> patent claim but contains something else as well in form of variant or
+> reactants.‖ (para
+
+> 228)
+
+29\. Yet, later on the same page, the words used are :-
+
+> ―However, the question remains whether the said test is determinative one
+> even in cases where there exists a patented claim for a product and another
+> product which may substantially contain the patented product but also
+> contain some other variants or some other parts in addition to the patented
+> article or product‖ (para 230).
+
+30\. Thus, the learned Single Judge treats a patent claim on the subject
+matter interchangeably with patent claim for a product which, in the present
+case, refer to distinct things - Claim 1 of IN ‗774 and Tarceva respectively.
+
+31\. Given this misalignment, it is perhaps not surprising that the learned
+Single Judge - looks for aids to claim construction outside the claim
+specifications. The rationale is explained in para 231 thus : ‗True, it is
+that the Court has to strictly follow what is claimed in the invention and
+compare  RFA (OS) Nos.92/2012 & 103/2012 Page 13 of 106 it with the product
+which is alleged to the infringing the patent. But the said rule of
+construction is not without an exception. There may arise certain cases where
+the product which is alleged to be infringing does not completely corresponds
+to what has been claimed in the patented invention of the product. The product
+may be seemed to be substantially containing the patented product but also
+contain some parts or variants other than the same also. The courts have in
+those cases developed a different rule of construction of the patent claim and
+specification which is a slight departure from what has been stated by the
+plaintiffs in the present case.‟ In the impugned judgment, this takes the form
+of purposive construction and the learned Single Judge goes on to adopt the
+reasoning in the decision reported as (1982) RPC 153 Catnic Components Ltd. &
+Anr. Vs. Hill & Smith Ltd. approach to purposive claim construction, extended
+to chemical compounds in the decision reported as 2004 RPC Merck & Co. Inc.
+Vs. Generic UK Ltd. (the learned Single Judge also cites with approval the
+decisions reported as 1990 FSR 181 Improver Corporation & Ors. Vs. Remington
+Consumer Products Ltd. & Ors. and (2005) RPC 9 Kirin-Amgen Vs. Hoechst Marion
+Roussel on the issue of claim construction), which advocates giving effect to
+‗the real purpose for which the product was invented' and explicitly involves
+a substituted judgment as to what the real purpose of the product is.
+
+32\. The other major substantive holding by the learned Single Judge on this
+issue is the adoption of Merck's case (supra) style different thresholds for
+obviousness in revocation and in claim construction, based on the reason that
+an a fortiori determination of whether a variant can be subsumed within a
+broad patent claim is bound to be substantively different (and, presumably,
+lower) when compared with the obviousness standard in assessing the  RFA (OS)
+Nos.92/2012 & 103/2012 Page 14 of 106 question of further working on an
+invention that could revoke it in the future.
+
+33\. With these yardsticks laid down, the judgment offers some rather
+‗constructive feedback' on what Roche could have done (by way of legal
+strategy) and some opinions on why they did not do it and while this is
+certainly out of kilter in a patent infringement judgment, it does offer some
+priceless insight into the reasoning of the learned Single Judge. According to
+the learned Single Judge, Roche could have:
+
+(i) Demonstrated that Erlocip is not Polymorph B but the same as corresponds
+with IN ‗774 (It is unclear as to whether IN ‗774 here refers to the claim or
+product; it is assumed that it refers to the product since if it referred to
+the claim, it would have been impossible for Roche to prove).
+
+(ii) Demonstrated that the distance between Claim 1 in IN ‗774 and Tarceva is
+trivial and therefore Claim 1 should be read purposively to cover Tarceva in
+its fold (this would include, inter alia, a better articulation of what is
+claimed in the compound, what Polymorph B actually is, the reactants and
+process involved in getting from Claim 1 to Polymorph B and proof that
+Erlotinib Hydrochloride does not change properties/characteristics in being
+converted to Polymorph B).
+
+34\. Further, the learned Single Judge has ventured to observe that the reason
+why Roche did not take route (i) is because they realized that the description
+in their own US ‗221 effectively knifes IN ‗774. The reason they did not take
+route (ii), the learned Single Judge feels, is because they did not want to
+lead evidence in an IN ‗774 infringement suit that effectively knifes their
+declarations before the USPTO in US ‗221. From this, the learned Single Judge
+infers that the distance between Claim 1 in IN ‗774 and  RFA (OS) Nos.92/2012
+& 103/2012 Page 15 of 106 Tarceva is rather significant and, vide Catnic's
+case (supra) and Merck's case (supra), would materially affect the working of
+the product.
+
+35\. This raises the question of whether the impugned judgment ends up
+effectively re-ruling on the reasons behind the Controller's 2008 rejection of
+DEL ‗507. The Controller's order categorically held that increased
+thermodynamic stability of Polymorph B fell below the Section 3(d) standard of
+enhanced therapeutic efficacy but, per the analysis of the learned Single
+Judge, the steps in getting to DEL ‗507 from IN ‗774 are clearly consequential
+if indeed, the comparison is a direct one between IN ‗774 and DEL ‗507.
+Indeed, the learned Judge is genuinely skeptical over the derivative nature of
+Tarceva qua IN ‗774. He notes in para 277: ‗How the same can be termed as
+inconsequential when the same affects the change in the property or form of
+the compound by making it solid, re-crystallized and pure, how the said
+reactants do not affect the working of the product materially when as per the
+plaintiffs own declaration before US patent office in US‟221, the said
+reactions as steps make the compound the stable in form.'
+
+36\. Ironically, the knife in the back for the IN ‗774 patent is stuck by its
+own equivalent US ‗221 specification documents (which clearly attest to
+Polymorph B as the sole efficacious commercial manifestation of Erlotinib
+Hydrochloride) and by the fact that the very factum of Roche's application for
+DEL ‗507 knifes IN ‗774. On the later issue, the learned Single Judge has held
+in para 260 as under:-
+
+> "In absence of the explanation of the said role either as a major or minor
+> reactants coupled with the fact that both in India as well as in US, the
+> plaintiffs have applied for the  RFA (OS) Nos.92/2012 & 103/2012 Page 16 of
+> 106 patent for the said process and product separately than the underlying
+> compound, the purposive construction of the claim and the specification of
+> IN‟774 clearly indicates that the said plaintiffs did not intend to include
+> the Polymorphic version B in the suit patent IN‟774."
+
+37\. This last bit makes almost certain that if Roche had applied for either
+IN ‗774 or DEL ‗507 in isolation or, indeed, DEL ‗507 before IN ‗774, the
+learned Single Judge would have found that Erlocip infringed Roche's first
+patent.
+
+38\. At the forefront of the attack of Cipla was the argument that inventions
+are required to be product specific; where products have to have commercial
+manifestation. Hence, it was argued that since infringement is relatable to
+„that product‟ which is patented and not to any ‗substance‟ (as understood in
+Section 3(d) of the Act); thus it is important to analyse whether „the
+product‟ that is patented corresponds with ‗the product‟ that is being sought
+to be enforced by Roche against CIPLA i.e. „the product‟ that Cipla is
+manufacturing.
+
+The product vs. substance dichotomy in the Act
+
+39\. It is important to reproduce certain key provisions of the Patents Act to
+understand the argument of learned Senior Counsel of Cipla:
+
+Section 2(1)(j) \- "invention" means a new product or process involving an
+inventive step and capable of industrial application;
+
+Section 2(1)(ja) \- "inventive step" means a feature of an invention that
+involves technical advance as compared to the existing knowledge or having
+economic significance or both and that makes the invention not obvious to a
+person skilled in the art;
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 17 of 106
+
+Section 2(1)(ac) \- "capable of industrial application", in relation to an
+invention, means that the invention is capable of being made or used in an
+industry;
+
+Section 2(1)(l)\- "new invention" means any invention or technology which has
+not been anticipated by publication in any document or used in the country or
+elsewhere in the world before the date of filing of patent application with
+complete specification, i.e., the subject matter has not fallen in public
+domain or that it does not form part of the state of the art;
+
+Section 2(1)(m) -"patent" means a patent for any invention granted under this
+Act;
+
+Section 2(1)(ta) \- "pharmaceutical substance" means any new entity involving
+one or more inventive steps;
+
+Section 3 -What are not inventions - The following are not inventions within
+the meaning of this Act -
+
+(d) the mere discovery of a new form of a known substance which does not
+result in the enhancement of the known efficacy of that substance or the mere
+discovery of any new property or new use for a known substance or of the mere
+use of a known process, machine or apparatus unless such known process results
+in a new product or employs at least one new reactant. Explanation. -For the
+purposes of this clause, salts, esters, ethers, polymorphs, metabolites, pure
+form, particle size, isomers, mixtures of isomers, complexes, combinations and
+other derivatives of known substance shall be considered to be the same
+substance, unless they differ significantly in properties with regard to
+efficacy;
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 18 of 106
+
+40\. In analyzing Section 2(1)(j) and 2(1)(ja), Ms.Prathiba M.Singh learned
+senior counsel argued that since the threshold for qualifying as an invention
+comprises the trinity of: (i) novelty, (ii) inventiveness and (iii) industrial
+application, it is possible for something to be new, but if it does not
+involve an ‗inventive step‟ or have „industrial application‟ it would not
+qualify as an invention. However, learned counsel conceded that if a product
+or process arrived upon even per chance, is ‗novel' and involves an ‗inventive
+step' (i.e. is not obvious) and fulfils the requirement of industrial
+application then such a product may satisfy the definition of an ‗invention'.
+Learned senior counsel argued that Section 2(1)(ja) is an exhaustive
+definition comprising the following broad ingredients:
+
+    
+    
+    
+    i)     a feature of an ‗invention' (as defined in Section 2(1)(j))
+    
+    ii)    that involves
+    
+    
+
+ a technical advance as compared to the existing knowledge or  a technical
+advance having economic significance or both
+
+iii) that makes the invention not obvious to a person skilled in the art.
+
+41\. The condition laid down in Section 2(1)(ja) that any inventive step of an
+invention must not be ‗obvious to a person skilled in the art', qualifies the
+entire provision. Therefore, any product or process, even if the same involves
+an „inventive step' may not satisfy the requirements of the provision, if the
+said inventive step is obvious to a person skilled in the art. Further, even a
+feature of the invention may qualify as an inventive step, so long as the
+remaining conditions of the provisions are fulfilled.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 19 of 106
+
+42\. Section 2(1)(ac) stipulates that an invention [as defined in Section
+2(1)(j)] is ‗capable of being made or used in an industry'- thereby
+necessitating that an invention must have commercial use or manifestation.
+Further, even though an alleged invention may not be a final product, the same
+will be patentable only if it has some commercial viability. Thus, it is not
+the product which is the focus of attention but the actual physical substance
+created which has the potential of a commercial manifestation. Section
+2(1)(ac) is clearly connected with Section 48 as it deals with „made‟ or
+„used‟ as also „new product‟ [through Section 2(1)(j) by using the term
+„invention‟] which are all used in Section 48.
+
+43\. Section 2(1)(l) defines a „new invention‟ in an exhaustive manner, and
+contains the following ingredients:
+
+    
+    
+           a)     any invention or technology
+    
+           b)     which has not been anticipated by publication
+    
+                  i)     in any document or
+    
+                  ii)    used in the country or elsewhere in the world
+    
+    
+
+before the date of filing of patent application with complete specification,
+so that the subject matter has not fallen in public domain or that it does not
+form part of the state of the art.
+
+44\. While it may be true that the said term has not been used anywhere in the
+Act, however, the relevance of the provision lies in the fact that it gives a
+flavour of the intention of the Legislature. Further, Section 2(1)(l) when
+read in conjunction with Section 2(1)(j) also clarifies as to what is
+considered to be not new in the terms of the Act. Further, the provision lays
+down that the  RFA (OS) Nos.92/2012 & 103/2012 Page 20 of 106 invention or
+technology must not have been previously made or used in India. It specifies
+two categories viz., in a ‗document' or in „practice' wherein an invention may
+have been anticipated which in turn would result in such invention not being
+„new‟ and therefore not „novel‟. It further lays down that the same should not
+have fallen into the „public domain‟ or form part of the „state of the art‟.
+
+45\. Section 2(1)(m) defines the term „patent‟ and ties within itself various
+concepts and definitions, and relates to the requirements of Section 2(1)(j)
+and 2(1)(ja) as discussed earlier. Section 2(1)(ta) defines ‗pharmaceutical
+substance' as:
+
+    
+    
+           a)     a new entity
+    
+           b)     that involves one or more inventive steps.
+    
+    
+
+46\. The term ‗new entity‟ would obviously relate to a New Chemical Entity
+(i.e. new chemical compounds). Once again we note that in the Act the said
+term has not been used anywhere, however, the relevance of the provision lies
+in the fact it gives a flavour of the intention of the Legislature. Further,
+the provision is also relevant owing to the fact that it a specific definition
+pertaining to pharmaceuticals.
+
+47\. Section 3 is an ‗exclusionary clause'. The present provision was expanded
+by way of the Patents (Amendment) Act, 2005. Despite the fact that „invention‟
+is exhaustively defined, the need for an exclusionary provision obviously
+arose from the Legislative intent that as a matter of policy, due to larger
+considerations, patents would not be granted to those specified in Section 3.
+Therefore, Section 3 has to be read as an exception to Section 2(1)(j), and
+consequently Section 2(1)(j) would be subject to Section  RFA (OS) Nos.92/2012
+& 103/2012 Page 21 of 106
+
+3\. These provisions could have been drafted in a manner where Section 2(1)(j)
+could have contained an exception stating ‗what are not inventions'. But that
+is just by way of a comment.
+
+48\. It is relevant to note that the heading of the Chapter is "Inventions not
+Patentable" and the marginal heading read "What are not inventions".
+Therefore, they relate to inventions that may otherwise meet the tests of
+Sections 2(1)(j) and Section 2(1)(ja) but may still not be granted patents as
+a matter of policy.
+
+49\. The provision relevant to the present case is Section 3(d), which
+provides that the following „are not inventions within the meaning of the
+Act‟:
+
+>  the mere discovery of a new form of a known substance which does not
+> result in the enhancement of the known efficacy of that substance or  the
+> mere discovery of any new property or new use for a known substance or  of
+> the mere use of a known process, machine or apparatus unless such known
+> process results in a new product or employs at least one new reactant.
+
+> Explanation.--For the purposes of this clause, salts, esters, ethers,
+> polymorphs, metabolites, pure form, particle size, isomers, mixtures of
+> isomers, complexes, combinations and other derivatives of known substance
+> shall be considered to be the same substance, unless they differ
+> significantly in properties with regard to efficacy;
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 22 of 106
+
+50\. The use of the word „considered‟ shows that this is a fiction being
+created for the purpose of excluding those inventions which DO NOT show
+enhanced efficacy. Sub section (d) of Section 3 lays down that the ‗new form
+of a known substance‟ which does not result in ‗enhancement of efficacy' or
+‗does not differ significantly in properties with regard to efficacy‟ is not
+an invention for the purposes of the Act. It is pertinent to note that the
+legislature has ‗considered' salts, esters, ethers, polymorphs, metabolites,
+pure form, isomers, mixtures of isomers, complexes, combinations and other
+derivatives, to be the ‗same substance‟ for the purposes of this provision.
+Thus, the conclusion that may be drawn from a reading of Section 3(d) would be
+as under:
+
+> a. A new form is not the same substance.
+
+> b. A new form is also not the same product.
+
+> c. If you show enhancement in efficacy, one will get a patent for the new
+> form.
+
+> d. If one does not show enhancement of efficacy, no patent will be granted
+> as it will be considered as the same substance.
+
+> e. But, this form is also not that product for the purposes of Section 48.
+
+51\. Section 3(d) is a deeming provision in a legal sense, but in a technical
+sense it cannot be presumed that once the patent/patent application for a new
+form of a known substance is rejected/abandoned then the said new form is
+covered under a prior patent relating to that substance.
+
+52\. Ms.Pratibha M.Singh learned Senior Counsel laid particular emphasis on
+what she states is the purpose of Section 3(d) i.e. to exclude a class of  RFA
+(OS) Nos.92/2012 & 103/2012 Page 23 of 106 products from being patented. She
+argued that any interpretation of Section 3(d) which leads to the conclusion
+that the product being excluded is actually being granted a patent, is
+contrary to the legislative intent. Learned counsel argued that such an
+interpretation would run contrary to the very basis for the enactment of
+Section 3(d) and would result in unfair monopolies which it sought to curb in
+the first place. Learned counsel laid emphasis that it is necessary to bear in
+mind that a patent is granted as a quid pro quo i.e. monopoly is granted over
+certain inventions based on the disclosure made therein by the patentee.
+Learned counsel argued that concededly the basic tests of patentability are:
+novelty, inventive step and industrial applicability, and these tests are
+uniform the world over. As per learned counsel the law in India has provided
+for a ‗second tier of qualifying standards‟ by way of Section 3(d) and the
+same has been done keeping in mind larger considerations of public welfare. As
+per learned counsel Section 3(d) has been enacted with a view to curb the
+problem of evergreening. Therefore, learned counsel argued that the same
+should not be utilized as a tool to enhance the ambit of a patent to cover
+even those forms which have either been abandoned by the patentee itself or
+rejected in India. The status of the law in different jurisdictions CAN NOT
+change the facts underlying the said patent documents and the scope thereof
+was the contention advanced.
+
+53\. It has to be noted that the Act uses the words ‗substance‟ and ‗product‟
+in a number of provisions without clearly defining the two. Thus, while
+interpreting Section 3(d) of the Act one has to keep in mind the three
+distinct words: (i) new form, (ii) known substance; and (iii) new product RFA
+(OS) Nos.92/2012 & 103/2012 Page 24 of 106 used in the Section. In the realm
+of chemistry, a ‗new product‟ would be any substance resulting from a chemical
+change. In the realm of chemistry ‗substance' would be: physical matter of
+which the thing consists or a matter of a particular kind of chemical
+composition. Since we are dealing with inanimate objects, a product or a
+substance has to be a veritable being. Philosophically looked, each inanimate
+object is, by virtue of its particularity and its limited and determinable
+form, different from and opposite to the genus - the particular contradicting
+the universal, so that the later does not fulfill itself in the former. When
+one talks of a substance being a veritable being, it would mean a real being,
+in the strict sense by which is meant the concrete individual thing. The
+individual thing is the subject or substance enduring throughout a movement in
+which it unifies and holds together the various states and phases of its
+existence. To illustrate this thought with a practical example, a stone is a
+being seen in a determinate form. But when chiseled into a statue we say that
+a new being (the statue) has come into existence.
+
+54\. A peep into foreign jurisprudence for guidance on understanding the terms
+may be useful.
+
+55\. Under the Australian Patents Act 1990, certain pharmaceutical patents can
+be granted a patent term extension if specific criteria are met i.e. whether
+or not the claims defined ‗one or more pharmaceutical substances per se‟. The
+phrase ‗pharmaceutical substance‟ is defined in Schedule 1 of the Australian
+Act as:
+
+> „A substance (including a mixture or compound of substances) for therapeutic
+> use whose application (or one of whose applications) involves:
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 25 of 106
+
+> (a) a chemical interaction, or physico-chemical interaction, with a human
+> physiological system; or
+
+> (b) action on an infection agent, or on a toxin or other poison, in a human
+> body;
+
+> (c) but does not include a substance that is solely for use in in vitro
+> diagnosis or in vitro testing".
+
+56\. The term 'therapeutic use' is, in turn, defined in relation to the
+definition of 'pharmaceutical substance' as use for the purpose of:
+
+> (a) preventing, diagnosing, curing or alleviating a disease, ailment, defect
+> or injury in persons; or
+
+> (b) influencing, inhibiting or modifying a physiological process in persons;
+> or
+
+> (c) testing the susceptibility of persons to a disease or ailment‟.
+
+57\. Europe, too offers patent term extensions to pharmaceutical or „medicinal
+products' which are defined in Article 1(a) of Council Regulation (EEC) No
+1768/92 as follows:
+
+> „Any substance or combination of substances presented for treating or
+> preventing disease in human beings or animals and any substance or
+> combination of substances which may be administered to human beings or
+> animals with a view to making a medical diagnosis, or to restoring,
+> correcting or modifying physiological functions in humans or in animals.‟
+
+58\. Article 1 (b) qualifies that patent term extensions will be granted only
+to a „product‟ which is defined as:
+
+„the active ingredient or combination of active ingredients of a medicinal
+product‟.
+
+59\. A conjoint reading of Articles 1(a) and (b) of the EU Regulation  RFA
+(OS) Nos.92/2012 & 103/2012 Page 26 of 106 reveals that a ‗product‟ represents
+the genus and ‗pharmaceutical substance‟ represents the species, i.e. a
+product may have an active ingredient but it may not therapeutic efficacy.
+Once it acquires therapeutic efficacy, it qualifies as a pharmaceutical
+substance.
+
+60\. Now, let us consider the scheme of the Indian Patent Act to understand
+the scope of the various provisions noted above and their interplay.
+
+61\. Section 3 of the Act lays down a threshold for patent eligibility and is
+not an exception to Section 2(1)(j) as urged by learned Senior counsel for
+Cipla. Section 2(1)(j) provides a theoretical definition of an invention while
+Section 3 illustratively outlines what are not inventions. In other words, for
+subject matter that falls outside the scope of Section 3, a qualitative
+analysis needs to be employed to ascertain whether it satisfies the conditions
+of Section 2(1)(j), while for subject matter that falls within the scope of
+Section 3, an analysis under Section 2(1)(j) need not be employed as it will
+be rejected at the threshold.
+
+62\. Now, Section 3(d) assumes that structurally similar derivatives of a
+known ‗substance‟ will also be functionally similar and hence ought not to be
+patentable. What is of crucial importance is that this is not a provision that
+merely bars certain subject matter from patentability. On the contrary, it
+provides that if the new form of the known substance is found despite a
+structural similarity to demonstrate a better functionality i.e. ‗enhancement
+of the known efficacy‟, it would qualify for assessment under Section 2(1)(j)
+as if it were a new product involving an inventive step and it would
+thereafter be up to the applicant for the patent to demonstrate the  RFA (OS)
+Nos.92/2012 & 103/2012 Page 27 of 106 patentability of this substance in
+accordance with Sections 2(1)(j) and (ja). This provision is not a patent term
+extension or an evergreening provision but in fact recognizes incremental
+innovations in pharmaceutical patents. The use of the words „product‟ and
+„substance‟ in Section 2(1)(j) and Section 3(d) is therefore telling, in that,
+the legislative intent appears clearly to demonstrate that all „substances‟
+may not qualify as „products' under the Act, where the latter are only those
+substances that are patent- eligible. In fact, Section 2(1)(ta) provides the
+bridge between Section 3 and Section 2(1)(j), in that, it defines a
+‗pharmaceutical substance‟ as ‗any new entity involving one or more inventive
+steps'. Thus, the discovery of an entity or substance may not involve an
+inventive step. Insofar as there is no inventive step involved in its
+formation it is merely a substance even though its structural form may be
+hitherto unknown. A new chemical entity (NCE) that is structurally dissimilar
+but functionally similar to an existing chemical entity is thus merely a
+substance under Section 3(d). If the substance has an added layer of enhanced
+efficacy then it would be treated as a ‗new product‟ and would be eligible for
+assessment under Section 2(1)(j) to ascertain whether its formation involved
+an inventive step. If the new product involved one or more inventive steps,
+then it would qualify as a pharmaceutical substance. Thus, graphically
+represented, the same would be:-
+
+    
+    
+                 Enhanced                     Inventive
+                  Efficacy                    Step
+    
+    Substance                 New Product                  Pharmaceutical
+                                                            substance
+    S. 3(d)                     S. 2(1)(j)                   S. 2(1)(ta)
+    
+    
+    
+    
+     RFA (OS) Nos.92/2012 & 103/2012                                 Page 28 of 106
+    
+
+63\. In chemistry, active moiety is a group of atoms forming part of a
+molecule. In the case of a pharmaceutical product, the active moiety is that
+part of the molecule of an active substance which gives it its therapeutic
+effect. Active pharmaceutical ingredients (APIs) are the molecular entities
+that exert the therapeutic effects of medicines and are biologically active. A
+drug substance invariably refers to the API or component present in the drug
+product which is solely responsible for producing the effect of the drug on
+the body.
+
+64\. A product essentially comprises a substance (active ingredient) or
+composition (combination of active ingredients). A product patent protects the
+product in any form however it is made, or however it is formulated. Many
+different drug products may be marketed with the same active moiety and the
+same product can thus have various structural forms. Thus Section 3(d)
+envisages a variety of derivatives of known substances, some illustrative
+types could be as under:-
+
+ A compound which is not active in itself but is metabolized in the body to
+form an active drug known as prodrug. For eg., chloramphenicol succinate ester
+is used as an intravenous prodrug of chloramphenicol, because pure
+chloramphenicol does not dissolve in water.
+
+ A composition (combination of two or more active ingredients or combination
+of a pharmaceutical carrier with a compound not used as a drug before).
+
+ A drug delivery system which is a composition that its constituents enable
+to be administered in a particular way.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 29 of 106
+
+65\. The view which we have taken is in conformity with the law declared by
+the Supreme Court in the decision reported as (2013) 6 SCC 1 Novartis AG Vs.
+Union of India, in para 88 whereof it was opined as under:-
+
+> "We have so far seen Section 3(d) as representing „patentability‟, a concept
+> distinct and separate from „invention‟. But if Clause (d) is isolated from
+> the rest of Section 3, and the legislative history behind the incorporation
+> of Chapter II in the Patents act, 1970, is disregarded, then it is possible
+> to see Section 3(d) as an extension of the definition of "invention" and to
+> link Section 3(d) with Clauses (j) and (ja) of Section 2(1). In that case,
+> on reading Clauses (j) and (ja) of Section 2(1) with Section 3(d) it would
+> appear that the Act sets different standards for qualifying as „inventions‟
+> things belonging to different classes, and for medicines and drugs and other
+> chemical substances, the Act sets the invention threshold further higher, by
+> virtue of the amendments made in Section 3(d) in the year 2005."
+
+66\. Before we apply the aforenoted legal position to the facts of the instant
+case we need to discuss the legal position concerning construction of claims.
+In the decision reported as AIR 1969 Bombay 255 FH & B Vs. Unichem
+Laboratories it was held that specifications end with claims, delimiting the
+monopoly granted by the patent and that the main function of a Court is to
+construe the claims without reference to the specification; a reference to the
+specification being as an exception if there was an ambiguity in the claim.
+Claims must be read as ordinary English sentences without incorporating into
+them extracts from body of specification or changing their meaning by
+reference to the language used in the body of the specification. In a recent
+decision in FAO (OS) No.190/2013 Merck Vs. Glenmark the Division Bench held
+that claim construction to determine the coverage in the suit patent has to be
+determined objectively on its own terms  RFA (OS) Nos.92/2012 & 103/2012 Page
+30 of 106 with regard to the words used by the inventor and the context of the
+invention in terms of the knowledge existing in the industry. Abandonment of
+an application cannot remove what is patented earlier nor can it include
+something that was excluded earlier and that a patent is construed by the
+terms used by the inventor and not the inventors subjective intent as to what
+was meant to be covered. Merely because an inventor applies for a latter
+patent that is already objectively included in a prior patent, but which
+inventor subjectively feels needs a separate patent application, doesn't mean
+it is to be taken at face value and therefore neither Section 3(d) or
+abandonment of subsequent patent application can be used to read into terms of
+prior application, which has to be construed on its own terms. In the decision
+reported as 415 F. 3d 1303 Edward H.Phillips Vs. AWH Corporation it was held
+that claims have to be given their ordinary and general meaning and it would
+be unjust to the public, as well as would be an evasion of the law, to
+construe a claim in a manner different from plain import of the terms and thus
+ordinary and customary meaning of the claim term is the meaning of the term to
+a Person Of Ordinary Skill in the Art as of effective date of filing of the
+patent application. In case of any doubt as to what a claim means, resort can
+be had to the specification which will aid in solving or ascertaining the true
+intent and meaning of the language employed in the claims and for which the
+court can consider patent prosecution history in order to understand as to how
+the inventor or the patent examiner understood the invention. The Court
+recognized that since prosecution is an ongoing process, it often lacks
+clarity of the specification and thus is less useful for claim construction.
+The Court also recognizes that having regard to extrinsic evidence such as
+inventor testimony, dictionaries  RFA (OS) Nos.92/2012 & 103/2012 Page 31 of
+106 and treaties would be permissible but has to be resorted to with caution
+because essentially extrinsic evidence is always treated as of lesser
+significance in comparison with intrinsic evidence. In the decision reported
+as 457 F.3.1284 (United States) Pfizer Vs. Ranbaxy the Court held that the
+statements made during prosecution of foreign applications are irrelevant as
+they are in response to unique patentability requirements overseas. The Court
+also held that the statement made in later unrelated applications cannot be
+used to interpret claims of prior patent. In the decision reported as 1995 RPC
+255 (UK) Glaverbel SA Vs. British Coal Corp the Court held that a patent is
+construed objectively, through the eyes of a skilled addressee. The Court also
+held that the whole document must be read together, the body of specification
+with the claims. But if claim is clear then monopoly sought by patentee cannot
+be extended or cut down by reference to the rest of the specification and the
+subsequent conduct is not available to aid the interpretation of a written
+document.
+
+67\. For the above conspectus, pithily put, principles of claim construction
+could be summarized as under:-
+
+(i) Claims define the territory or scope of protection (Section 10(4) (c) of
+the Patents Act, 1970.
+
+(ii) There is no limit to the number of claims except that after ten claims
+there is an additional fee per claim (1st Schedule of the Act).
+
+(iii) Claims can be independent or dependent.
+
+(iv) The broad structure of set of claims is an inverted pyramid with the
+broadest at the top and the narrowest at the bottom (Manual of Patents Office
+- Practice and procedure).
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 32 of 106
+
+(v) Patent laws of various countries lay down rules for drafting of claims and
+these rules are used by Courts while interpreting claims.
+
+(vi) One rule is that claims are a single sentence defining an invention or an
+inventive concept.
+
+(vii) Different claims define different embodiments of same inventive concept.
+
+(viii) The first claim is a parent or mother claim while remaining claims are
+referred to as subsidiary claims.
+
+(ix) If subsidiary claims contain an independent inventive concept different
+from the main claim then the Patent office will insist on the filing of a
+divisional application.
+
+(x) Subject matter of claims can be product, substances, apparatus or
+articles; alternatively methods or process for producing said products etc.
+They may be formulations, mixtures of various substance including recipes.
+Dosage regimes or in some countries methods of use or treatment may also be
+claimed.
+
+(xi) Where claims are ‗dependent' it incorporates by reference ‗everything in
+the parent claim, and adds some further statement, limitations or
+restrictions'. (Landis on Mechanics of Patent Claim Drafting).
+
+(xii) Where claims are ‗independent' although relating to the same inventive
+concept this implies that the ‗independent claim stands alone, includes all
+its necessary limitations, and is not dependent upon and does not include
+limitations from any other claim to make it complete .... An  RFA (OS)
+Nos.92/2012 & 103/2012 Page 33 of 106 independent Claim can be the broadest
+scope claim. It has fewer limitations than any dependent claim which is
+dependent upon it'. (Landis on Mechanics of Patent Claim Drafting)
+
+(xiii) For someone wishing to invalidate a patent the said person must
+invalidate each claim separately and independently as it is quite likely that
+some claims may be valid even while some are invalid.
+
+(xiv) At the beginning of an infringement action the Courts in the United
+States conduct what is known as a ‗Markman hearing' to define the scope of the
+claims or to throw light on certain ambiguous terms used in the claims.
+Although this is not technically done in India but functionally most Judges
+will resort to a similar exercise in trying to understand the scope and
+meaning of the claims including its terms.
+
+In the case of (52 F.3d 967 also 517 US 370) Herbert Markman Vs. Westview the
+Courts held that an infringement analysis entails two steps:-
+
+(a) First step is to determine the meaning and scope of the patent claims
+asserted to be infringed.
+
+(b) Second step is to compare the properly construed claim with the device
+accused of infringing.
+
+(xv) The parts of the claim include its preamble, transition phrase and the
+body. The ‗transition phrase' includes terms like:-
+
+(a) Comprising;
+
+(b) Consisting;
+
+(c) Consisting essentially of;
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 34 of 106
+
+(d) Having;
+
+(e) Wherein;
+
+(f) Characterised by;
+
+Of these terms some are open ended, such as ‗comprising' which means that if
+the claim contains three elements ‗A', ‗B' and ‗C' it would still be an
+infringement for someone to add a fourth element ‗D'.
+
+Further some terms are close ended such as ‗consisting of', i.e. in a claim of
+three elements, ‗A', ‗B' and ‗C' a defendant would infringe if he has all
+three elements. In case the defendant adds a fourth element ‗D' he would
+escape infringement.
+
+(xvi) Each claim has a priority date so that in a group of claims in a
+specification you could have multiple priority dates. This only means that if
+a patent application with certain priority date and claims was followed by
+another application with different claims and different priority dates, then
+if they were consolidated or cognate with another application, each claim
+would retain the original priority date [Section 11(1)].
+
+68\. Applying the aforesaid legal position to the facts of the instant case we
+find that Claim 1 of the Suit Patent IN ‗774 (the basic patent) which is
+relevant for the present proceedings is:-
+
+> "1. A novel [6,7-bis (2-methoxyethoxy) quinazolin-4-y1]-(3- ethynylphenyl)
+> amine hydrochloride compound of the formula A  RFA (OS) Nos.92/2012 &
+> 103/2012 Page 35 of 106 A"
+
+69\. Ms.Pratibha M.Singh, learned Senior counsel for Cipla argued that the
+suit patent IN ‗774 discloses Polymorph A+B of Erlotinib Hydrochloride,
+whereas Roche has a separate product patent in USA, i.e. US ‗221 for Polymorph
+B of Erlotinib Hydrochloride. Furthermore, an application for the grant of
+Polymorph B of Erlotinib Hydrochloride (IN/507/Del) was also filed by Roche in
+India, but the same was rejected. Thus, learned counsel argued that the very
+filing of a separate patent application is indicative of the fact that
+Polymorph B of Erlotinib Hydrochloride is a separate invention. Whether the
+same is patentable or not in different jurisdictions does not alter the fact
+that they are separate inventions was the advanced limb of the argument. It
+was urged that Polymorph B was neither disclosed, enabled or claimed in the
+first patent in any jurisdiction and hence something which came into being
+later cannot be argued as being retrospectively covered in an earlier patent.
+Learned counsel urged that admittedly Cipla was manufacturing Polymorph B and
+therefore it was urged that there cannot be an infringement of IN ‗774.
+
+70\. It is not in dispute that Roche's unsuccessful patent application in
+India (DEL ‗507) was indeed for a ‗Polymorph B' form of Erlotinib
+Hydrochloride, a claim which was rejected by the Controller of Patents in
+December 2008 with observations on ever greening, structural similarities  RFA
+(OS) Nos.92/2012 & 103/2012 Page 36 of 106 between IN ‗774 and DEL ‗507 and a
+lack of conclusive comparative clinical data to prove efficacy. We also note
+that the process claims for making Polymorph B in DEL ‗507 matured into Patent
+No. 231102 and only the product claims pertaining to Polymorph B were refused.
+
+71\. However, we find ourselves unable to agree with the arguments of learned
+Senior counsel for Cipla on the import of this rejection. As we have discussed
+earlier, the purpose of Section 3(d) is to encourage incremental innovation in
+pharmaceuticals. It lays down a threshold for what subject matter would
+qualify as the ‗same‟ or ‗known‟ substance and what would qualify as a ‗new‟
+substance. The purpose of this qualification is that when something is the
+same/known substance, then the derivatives of such a substance as enumerated
+in the Explanation to Section 3(d) would be covered under the same protection
+that exists for the known substance (which could also mean that if the known
+substance is not covered by a patent then the derivative would not be covered
+as well).
+
+72\. By logical extension, if certain subject matter qualifies as a ‗new‟
+substance on account of the reasons elaborated in the preceding paragraphs,
+then it would be capable of being considered for the grant of a new patent;
+separate from the one existing for the known substance. What Section 3(d)
+certainly does NOT do, is doubly penalize the innovator, which appears to be
+the argument advanced by learned senior counsel for Cipla. If the argument is
+to be taken to its logical conclusion, it would mean that a rejection of a
+polymorphic version of Roche's existing patented molecule (i.e. the ‗known
+substance' in this case) on the anvil of Section 3(d) would also result in
+effectively permitting all manufacturers of the said polymorph  RFA (OS)
+Nos.92/2012 & 103/2012 Page 37 of 106 from being deemed non-infringers under
+Section 48. That is in fact not the import of Section 3(d) nor the legislative
+intent behind the provision.
+
+73\. We understand Section 3(d) as a positive provision that in fact
+recognizes incremental innovation while cautioning that the incremental steps
+may sometimes be so little that the resultant product is no different from the
+original. The inherent assumption in this is that an infringement of the
+resultant product would therefore be an infringement of the original i.e. the
+known substance and by no stretch of imagination can Section 3(d) be
+interpreted as constituting a defence to infringement.
+
+74\. Hence, while the suit patent covers Erlotinib Hydrochloride (or
+polymorphs A+B of the same, if Cipla's contention were to be accepted), the
+rejection of the patent application for Polymorph B (DEL ‗507) by the Indian
+Patent Office leads to a direct conclusion that there was a lack of sufficient
+matter to suggest that Polymorph B qualified as a ‗new product' for
+consideration under Section 2(1)(j) for patentability and should therefore be
+regarded for all practical purposes as the old product itself i.e. Polymorphs
+A+B.
+
+75\. The matter can be approached from another angle. The suit patent has two
+claims of which Claim No.1 is a product patent relating to a new molecule
+Erlotinib Hydrochloride. The ground of anticipation, though pleaded, was not
+pressed by Cipla for the reason that the molecule Erlotinib Hydrochloride was
+not found in nature nor published in any publication previous to the priority
+date. The subject matter of Claim 1 is also not obvious as it involves an
+inventive step.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 38 of 106
+
+76\. The complete specification of the suit patent nowhere mentions any
+polymorphic form of Erlotinib Hydrochloride and neither is the claim
+restricted to any specific polymorphic form. The chemical structure describes
+the manner in which each molecule of the compound exists. Thus, how many
+carbon, hydrogen, oxygen or nitrogen atoms exist and how they are joint to
+each other is all contained in the chemical structure.
+
+77\. It is an ‗intra'- molecular concept. As opposed to this, the various
+molecules may be stacked together in a crystal lattice in a certain
+configuration and the said ‗inter'-relationship between the various molecules
+results in a certain polymorphic structure. It is possible that a certain
+molecule has more than one polymorphic forms which may be discovered at some
+future point of time, as was done in the present case. The present patent does
+not concern the polymorphic structure or the manner in which the various
+molecules are stacked in a relationship with each other. It is not an
+‗inter'-molecular concept but an ‗intra'-molecular concept. It is a single
+molecular structure which is protected in the present patent and therefore,
+irrespective of which polymorphic form it appears it would have the same
+chemical structure as contained in Claim-1 of the suit patent.
+
+78\. This has come out very well in the evidence of the technical experts,
+both on the side of the Plaintiff as also the Defendants' expert.
+
+79\. When cross-examined, Defendants' witness Shashi Rekha (DW-2) in response
+to the following questions admitted:
+
+    
+    
+          "Q.26       Under what circumstance do the polymorphs
+          maintain their crystal structure in the body?
+    
+    
+    
+    
+     RFA (OS) Nos.92/2012 & 103/2012                                    Page 39 of 106
+           A.    The concept of polymorphic forms is not about how the
+    
+
+crystal structure is maintained in the body but how they are made and how it
+is delivered to the body.
+
+Q.27 In other words within the body they are not different from one another?
+
+A. Yes Q.35 Erlotinib Hydrochloride has the same „chemical structure‟
+everywhere in the world and every time it is produced?
+
+A. Yes"
+
+Further the Defendants Expert Witness (DW-3) Dr.Ashwini Nangia has stated the
+following in response to the cross examination:
+
+> "Q.48 Is it correct that polymorphism is the ability of a chemical substance
+> to exist in more than one crystalline form. A. Yes that is correct I will
+> only add „in the solid state‟ to the same definition.
+
+> Q.49 Please see PX 25 from the Court record and confirm that all polymorphs
+> of Erlotinib Hydrocholoride have this chemical structure?
+
+A. Yes"
+
+80\. Therefore, it logically follows that Cipla's argument that the subsequent
+polymorph related to patent US'690221, which though granted in USA and its
+counterpart rejected in India, has relevance is incorrect.
+
+81\. The polymorph or the manner in which the Erlotinib Hydrochloride
+molecules are arranged in a crystal lattice was found several years late (in
+1999) than the main invention (in 1995). It was then realized that there were
+at least two polymorphic forms ‗A' and ‗B'. A method was found to separate the
+two and it was also determined that polymorph B has superior properties to
+Polymorph A. In the polymorph application, an attempt was  RFA (OS)
+Nos.92/2012 & 103/2012 Page 40 of 106 made to claim its superiority to the
+main invention by saying that the main invention related to a combination of
+polymorph A and polymorph B.
+
+82\. What was clearly meant by this statement was that the original compound
+did not distinguish between polymorphs whereas the improved invention related
+to a purer form of Polymorph B with far superior properties.
+
+83\. However, a closer scrutiny of the polymorph patent also shows that the
+properties were physical but not biological properties or therapeutic
+properties. Inside the body the polymorphs have the same chemical structure
+and behave the same way biologically or therapeutically as admitted by the
+Defendants witness Ms.Shashi Rekha DW-2 in response to questions:
+
+> "Q.24 Is it therefore correct that the chemical structure of polymorphic
+> forms is the same but the difference lies in the way the crystals are
+> packed?
+
+> A. Yes Q.27 In other words in the body they are not different from one
+> another?
+
+A. Yes"
+
+84\. It is only that a particular polymorphic form may result in better
+storage or transportation or manufacture or may have better thermodynamic
+stability, etc. These properties are certainly improved but the moot question
+is whether this improvement is covered by Section 3(d) of the Patents Act and
+if so, has the data been supplied to prove enhanced efficacy in the
+therapeutic sense.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 41 of 106
+
+85\. If there are polymorphs, which improve only the non-therapeutic
+properties, then there may be a difficulty in obtaining a patent for the same
+in India. Thus, in the decision reported as (2013) 6 SCC 1 Novartis AG Vs.
+Union of India & Ors. it has been held as under:-
+
+> "157. What is „efficacy‟? Efficacy means „the ability to produce a desired
+> or intended result‟. Hence, the test of efficacy in the context of Section
+> 3(d) would be different, depending upon the result the product under
+> consideration is desired or intended to produce. In other words, the test of
+> efficacy would depend upon the function, utility or the purpose of the
+> product under consideration. Therefore, in the case of a medicine that
+> claims to cure a disease, the test of efficacy can only be „therapeutic
+> efficacy‟. The question then arises, what would be the parameter of
+> therapeutic efficacy and what are the advantages and benefits that may be
+> taken into account for determining the enhancement of therapeutic efficacy?
+> With regard to the genesis of Section 3(d), and more particularly the
+> circumstances in which Section 3(d) was amended to make it even more
+> constrictive than before, we have no doubt that the „therapeutic efficacy‟
+> of a medicine must be judged strictly and narrowly. Our inference that the
+> test of enhanced efficacy in case of chemical substances, especially
+> medicine, should receive a narrow and strict interpretation is based not
+> only on external factors but there are sufficient internal evidence that
+> leads to the same view. It may be noted that the text added to Section 3(d)
+> by the 2005 amendment lays down the condition of „enhancement of the known
+> efficacy‟. Further, the explanation requires the derivative to „differ
+> significantly in properties with regard to efficacy‟. What is evident,
+> therefore, is that not all advantageous or beneficial properties are
+> relevant, but only such properties that directly relate to efficacy, which
+> in case of medicine, as seen above, is its therapeutic efficacy.
+
+> 158\. While dealing with the explanation it must also be kept in mind that
+> each of the different forms mentioned in the explanation have some
+> properties inherent to that form, e.g.,  RFA (OS) Nos.92/2012 & 103/2012
+> Page 42 of 106 solubility to a salt and hygroscopicity to a polymorph. These
+> forms, unless they differ significantly in property with regard to efficacy,
+> are expressly excluded from the definition of „invention‟. Hence, the mere
+> change of form with properties inherent to that form would not qualify as
+> „enhancement of efficacy‟ of a known substance. In other words, the
+> explanation is meant to indicate what is not to be considered as therapeutic
+> efficacy."
+
+86\. It is for this reason that the Indian polymorphic patent application
+IN/PCT/2002/00507/DEL was partly rejected. While the product claims 1, 2 and 6
+were rejected, the process claim 4 was merged with 3 to make it claim 1 and
+claim 5 was renumbered as claim 2. Section 3(d) came in the way of the product
+claims as there was no data to support that the polymorphic versions were
+therapeutically more efficient than the basic compound.
+
+87\. The interesting thing is that the Cipla's argument would shoot down the
+polymorph because of Section 3(d) and also attempts to shoot down the main
+compound, because of the polymorphs rejection. This cannot be done.
+
+88\. Cipla's argument that X-Ray Diffraction Data (XRD) was not specified for
+the suit patent is also not plausible because XRD shows the manner in which
+the molecules are arranged in a crystal lattice. This is only important for a
+polymorphic patent but not for a main molecule where irrespective of the
+polymorphs, it is the chemical structure which is the sum and substance of the
+invention.
+
+89\. Cipla raised a whole series of arguments on the distinction between
+product and substance in an attempt to argue that it is the commercial product
+alone for which a patent can be granted and therefore this was a case  RFA
+(OS) Nos.92/2012 & 103/2012 Page 43 of 106 of early patenting as the polymorph
+version which was invented in the year 1999 was the only deserving candidate
+for a patent.
+
+90\. This argument ignores the fundamental truth about breakthrough
+inventions, which at the time they are invented may not be commercially the
+most viable for immediate marketing. They are useful and are industrially
+applicable as without them there would be no stepping stone to achieve the
+next lot of improvements. For this reason, the Courts have struck a
+distinction between commercial utility and patentable utility as set out
+below:
+
+91\. In the decision reported as 1979 (RPC) American Cynamid Company Vs.
+Ethicon Ltd. it has been held as under:-
+
+> "Whilst it may be true that a commercial articles owes much to later
+> research it seems to me that the amount owed must be a matter of degree
+> depending on the facts, and to succeed under this head a defendant must be
+> able to go as far as establishing that, as a practical matter, the
+> successful commercial article owes nothing to the original invention. As a
+> matter of reality, however, almost every patented article which achieves
+> commercial success embodies the result of improvements and research
+> discovered since the date of publication of the complete specification of
+> the basic patent. That commercial success is not necessary to establish
+> patent utility, and that the improvements made subsequently are immaterial,
+> has long been recognized. Badische Anilin and Soda Fabrik Vs. Levinstein
+> (1887) 4 RPC 449, at 462, where Lord Halsbury, L.C. said:
+
+> "The element of commercial pecuniary success has, as it appears to be, no
+> relation to the question of utility in patent law generally, though, of
+> course, where the question is of improvement by reason of cheaper
+> production, such a  RFA (OS) Nos.92/2012 & 103/2012 Page 44 of 106
+> consideration is of the very essence of the patent itself, and the thing
+> claimed has not really been invented unless that condition is fulfilled."
+
+> 92\. In the decision cited in American Cynamide reported as (1889) 6 RPC 243
+> Edison & Swan Electric Light Co. Vs. Holland Lindley, J. held as under:-
+
+> "Edison‟s patent is said to be no use, and the proof of this statement is
+> said to be furnished by the fact that lamps are not made according to the
+> patent, even by Edison himself. The utility of the patent must be judged by
+> reference to the state of things at the date of the patent; if the invention
+> was then useful, the fact that subsequent improvements have replaced the
+> patented invention and rendered it obsolete and commercially of no value
+> does not invalidate the patent"
+
+> 93\. In the decision reported as AIR 1969 255 E.H. & B. Vs. Unichem
+> Laboratories it was held as under:-
+
+> "20. As stated by Halsbury (3rd Edn.) Vol. 29 p.59 para 123, „not useful‟ in
+> patent law means that the invitation will not work, either in the sense that
+> it will not operate at all or more broadly, that it will not do what the
+> specification promises that it will do. If the invention will give the
+> result promised at all, the objection on the ground of want of utility must
+> fail. It is further stated in the said passage that the practical usefulness
+> or commercial utility of the invention does not matter, nor does it matter
+> whether the invention is of any real benefit to the public, or particularly
+> suitable for the purposes suggested, and that it is only failure to produce
+> the results promised that will invalidate the patent, not misstatements as
+> to the purposes to which such results might be applied."
+
+> 94\. Cipla relied very heavily on what was stated to be admissions made in
+> the polymorphic patent US'221. It is a cardinal principle of claim
+> construction that the claim must be interpreted on its own language and if
+> it  RFA (OS) Nos.92/2012 & 103/2012 Page 45 of 106 is clear then resort
+> cannot be had to subsequent statements or documents either to enlarge its
+> scope or to narrow the same.
+
+95\. In FAO (OS) No.190/2013 Merck Vs. Glenmark it has been held as under:-
+
+> "The Court at the same times notes that the claim construction to determine
+> the coverage in the suit patent is to be determined objectively on its own
+> terms with regard to the words used by the inventor and the context of the
+> invention in terms of knowledge existing in the industry. The subsequent
+> abandonment of a patent for SPM cannot remove what is patented earlier (if
+> an objective reading, as indicated above, considers it to be included) nor
+> can it include something that was excluded earlier. The motives for
+> abandonment - since MSD claims that it abandoned the claim due to Section
+> 3(d) of the Act - play no part in the claim construction Section 3(d) does
+> not work backwards, such that two independent patent claims are to be
+> construed in reference to each other. Each claim is regulated by its own
+> terms, subject to the statutory prescriptions of inventive step and
+> industrial applicability. Moreover, such an argument also introduces and
+> undeserved subjectivity in the patent construction process. A patent is
+> construed by reference to the words used by the inventor and not her
+> subjective as to what was meant to be covered... Merely because an inventor
+> applies for later patent - that is already objectively included in a prior
+> patent, but which the inventor subjectively feels needs a separate patent
+> application - does not mean that it is taken to be at face value. The intent
+> to the inventor, through the use of the words that have been employed, must
+> be judged, but the subjective intent cannot replace a detailed analysis of
+> the test of the patent."
+
+96\. In the decision reported as 1995 RPC 255 (United Kingdom) Glaverbel SA
+Vs. British Coal Corp it was held as under:-
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 46 of 106
+
+> "6. Subsequent conduct is not available as an aid to interpretation of a
+> written document. This too was established by the Schuler case, re-affirming
+> an earlier decision of the House of Lords.
+
+> 7\. A claim must not be construed with an eye on prior material, in order to
+> avoid it effect: Molins Vs. Industrial Machinery Co. Ltd., (1938) 55 RPC
+> 31.‖
+
+97\. This leads us at the stage to the take of point where we can deal with
+Cipla's defence to the charge of infringement. The defence is essentially
+based on the claim that IN ‗774 is for Polymorphs A+B of Erlotinib
+Hydrochloride, Tarceva i.e. Roche's product is just Polymorph B, which
+corresponds to US ‗221 (and the rejected DEL ‗507). Hence Cipla urges that
+while the patent sought to be enforced is for Polymorphs A+B, the product
+actually under manufacture by both Roche and Cipla is Polymorph B which ought
+to be assumed to be in the public domain and hence Cipla's activities are non-
+infringing in nature.
+
+98\. In its response to the above argument by learned Senior Counsel for
+Cipla, Sh.Pravin Anand, learned counsel for Roche argued that while the
+Learned Single Judge correctly notes that the packaging (Ex.P1),package insert
+of the Defendant (EX. P2) and the declarations/statements made before the Drug
+Controller (Ex.PW1/D2) all demonstrate that the API of Erlocip (Cipla's
+product) is Erlotinib Hydrochloride, the learned Single Judge erred in
+disregards this evidence and instead lay emphasis on clinical test not having
+been conducted by Roche to demonstrate the constituents of Roche's drug
+Tarceva and Cipla's drug Erlocip and places a positive onus on Roche to
+establish whether Tarceva corresponds to the suit patent or  RFA (OS)
+Nos.92/2012 & 103/2012 Page 47 of 106 whether it is a polymorphic version of
+the suit patent compound. Learned counsel pointed out that while the Learned
+Single Judge correctly notes that the physical form of Cipla's drug
+demonstrates that it contains Erlotinib Hydrochloride, he disregards Roche's
+submission that manufacturing a Polymorph B version of Erlotinib Hydrochloride
+infringes Claim 1 of the suit patent. Sh.Pravin Anand, learned counsel for
+Roche argued that the clinical test of the compound is not relevant for
+determination of infringement. Learned counsel urged that the basic patent was
+not confined to any polymorphic form of Erlotinib Hydrochloride and hence as
+long as Erlotinib Hydrochloride is present in Cipla's product Erlocip, it
+infringes the suit patent. Learned counsel illustrated this, by stating that
+if water is discovered for the first time and a claim covers the chemical
+formula H2O, then it clearly covers all forms of H2O whether they will be in
+liquid, steam, ice or snow. Similarly, Roche's invention as disclosed in Claim
+1 of Patent No. IN ‗774 is a new compound with a specific chemical structure
+and it is only the research conducted years later which led to further
+innovation and the finding that Erlotinib Hydrochloride could exist in more
+than one polymorphic form and that the polymorphic forms differ from each
+other in physical properties with one version (Polymorph-B) being more
+suitable than the other version on account of its thermodynamic stability for
+oral dosage in solid form. According to learned counsel the basic patent
+discovers a molecule for the first time, which is novel and not found in
+nature, and consequently anyone who adopts, uses, reproduces or manufactures
+the said molecule, irrespective of the physical form in which it is done,
+would be infringing the said Claim.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 48 of 106
+
+99\. Sh.Pravin Anand, learned counsel for Roche admitted in all fairness that
+the Learned Single Judge correctly notes that DW-2 analyzed the compound of
+Roche's drug Tarceva and concluded that the said drug is based on Polymorph B
+of Erlotinib Hydrochloride which corresponds to US ‗221 (the Polymorph B
+patent). However, Sh.Pravin Anand urged that the Learned Single Judge has
+erred in not appreciating that the X-ray diffraction of Tarceva was wholly
+irrelevant to the lis in the present instance, which was for infringement of
+Claim 1 of IN ‗774 by Cipla product Erlocip. It was urged that it was not
+Roche's case that Tarceva is not Polymorph B of Erlotinib Hydrochloride but in
+fact it is Roche's case that the compound in Tarceva is Erlotinib
+Hydrochloride which corresponds to Claim 1 of IN ‗774. Learned counsel urged
+that the Learned Single Judge failed to appreciate that new chemical entities
+(NCE) such as Erlotinib Hydrochloride can be identified and characterized by
+Chemical Name, International Union of Pure and Applied Chemistry (IUPAC name),
+Chemical Structure and International Non-Proprietary Names (INN). Having been
+so described in Claim 1 of the suit patent, it was sufficient for Roche to
+show that Cipla had admittedly the same Chemical Name, IUPAC name, Chemical
+Structure and INN for its compound. X-ray diffraction analysis, urged
+Sh.Pravin Anand, is meant to describe the crystal lattice or the manner in
+which various molecules are arranged or packed together and this is only
+relevant when an invention is claimed in a new Polymorphic form. According to
+learned counsel, the invention does not relate to the physical characteristics
+of Erlotinib Hydrochloride but to the basic chemical substance itself. Learned
+counsel urged that if any third party uses, makes, sells etc. a compound or
+drug and identifies the same by Chemical Name, Chemical Structure or INN  RFA
+(OS) Nos.92/2012 & 103/2012 Page 49 of 106 name, it is admitted that
+infringement has occurred. In fact, in the United States, Tarceva is covered
+by US ‗498 (being the Basic patent) and US ‗221 (being the Polymorph B or
+improvement patent) amongst other patents.
+
+100\. Any process involved in making Polymorph B of Erlotinib Hydrochloride
+would first involve the preparation of Erlotinib hydrochloride itself; in fact
+a perusal of US ‗221 reveals that it is clearly stated that Erlotinib
+Hydrochloride in Polymorph B form results from re-crystallization of Erlotinib
+Hydrochloride using different solvents and temperature conditions. Hence if
+the suit patent was found to disclose Erlotinib Hydrochloride, any polymorphic
+version of the same would infringe the suit patent as Erlotinib Hydrochloride
+itself would be underlying every such polymorphic version.
+
+101\. The first error with the impugned judgment which needs to be highlighted
+before we bring the curtains down on the aspect of the matter concerning
+issues raised by Cipla on the subject of ‗product‟ versus ‗substance‟. We
+begin by noting the observations made in this regard by the Learned Single
+Judge in para 213 of the impugned judgement as under:-
+
+> "...no clinical tests have been placed on record either by attorney of the
+> plaintiffs or by the expert of the plaintiffs which would show and analyzes
+> as to what are the exact constituents of the plaintiffs drug Tarceva and the
+> defendant„s drug ERLOCIP more specifically the question whether the same
+> corresponds with the Indian Patent in the entirety or whether the same are
+> the Polymorphic version B of the suit patent compound. Rather, the
+> plaintiffs attorney has deposed everything on the basis of what has been
+> shown in the physical  RFA (OS) Nos.92/2012 & 103/2012 Page 50 of 106 form
+> of literature of the drug of the defendant which only demonstrates that it
+> contains Erlotinib Hydrochloride".
+
+102\. The Learned Single Judge has thereafter relied on expert testimony of
+two kinds on this issue - first on X-ray diffraction tests which establish
+that Tarceva is Polymorph B alone and second that the tablet form of Erlotinib
+Hydrochloride does not follow directly from the claims in IN ‗774 (on account
+of the fact that further reactions of the product from IN ‗774 are required to
+produce Tarceva). This has lead the Learned Single Judge to a construction of
+Claim 1 of IN ‗774 to understand whether it subsumes Polymorph B of Erlotinib
+Hydrochloride, which is admittedly Erlocip
+
+103\. The second error we find is in the casting of the infringement issue, in
+para 228 of the decision, in the following words:-
+
+> ―...the Court has to test as to whether the impugned product is infringing
+> the patented subject matter especially when there is a patent claim on the
+> subject and there is a product which may not strictly covered within the
+> patent claim but contains something else as well in form of variant or
+> reactants.‖ (emphasis ours).
+
+104\. Yet, later on the same page, in para 230, the words used by the learned
+Single Judge are:-
+
+> "However, the question remains whether the said test is determinative one
+> even in cases where there exists a patented claim for a product and another
+> product which may substantially contain the patented product but also
+> contain some other variants or some other parts in addition to the patented
+> article or product" (emphasis ours).
+
+105\. Thus, it is apparent that the Learned Single Judge has referred to two
+distinct things i.e. Claim 1 of IN ‗774 and Tarceva, interchangeably, to
+determine the infringement question and comes to what appears to us to be  RFA
+(OS) Nos.92/2012 & 103/2012 Page 51 of 106 an erroneous conclusion.
+
+106\. At this stage it is important for us to make some observations on X- ray
+diffraction as a methodology to ascertain infringement. X-ray diffraction is a
+method to determine and understand the crystalline structure of a compound. It
+is primarily used for the following broad purposes:
+
+>  In the regulatory field or during drug development, to identify a
+> compound.
+
+>  To distinguish between amorphous and crystalline compounds.  To identify
+> the fingerprints of various polymorphic forms of a compound.
+
+107\. X-ray diffraction is certainly not an accurate method to ascertain
+product patent infringement in the present case as the issue is not and indeed
+cannot be whether Roche and Cipla's products are identical but whether Cipla's
+product is covered in the claims of Roche's patent. Although this appears to
+us to be a fairly elementary issue in appreciation of the nature of evidence
+in product patent infringement cases, neither counsel have relied on any
+jurisprudence to demonstrate what ought to be the correct test of infringement
+of a product patent.
+
+108\. While this issue was indeed framed by the Division Bench of the Gujarat
+High Court in the decision reported as 2008 (37) PTC 128(Guj) Hind Mosaic and
+Cement Works & Anr. vs. Shree Shahjanand Trading Corporation & Anr. in the
+following words: ―an infringement analysis involves comparison of each and
+every limitation of the claim with the allegedly infringing device. The
+analysis cannot be performed by comparing  RFA (OS) Nos.92/2012 & 103/2012
+Page 52 of 106 the product manufactured by the patentee with the allegedly
+infringing product,‖ the decision does not expressly address this question.
+Since no other judgement has been brought to our attention which sets this
+issue right, we feel it is important for us to underscore it here.
+
+109\. It is an incorrect analysis of product patent infringement in a case
+like the present, to use methodologies like X-Ray diffraction to ascertain
+whether the competing products are identical in nature. The correct test of
+infringement in this case is to map Cipla product against the Roche's patent
+claims, which we find has not been done by the learned Single Judge, and this
+is the third infirmity on this aspect of the dispute.
+
+110\. If Roche's patent was for a polymorphic form of Erlotinib Hydrochloride
+and not the molecule itself and Cipla had argued that theirs was a ‗new
+substance‟, then alone the Court could have relied on evidence of use of the
+X-Ray diffraction technique and a consequential analysis of the peaks of both
+to ascertain whether they are identical or dissimilar compounds. However in
+that situation too, the comparison would have to be between a product made on
+the basis of Roche's patent claim and Cipla's product and not between Roche's
+product as sold in the market and Cipla's product. This subtle distinction is
+important to be kept in mind because the holder of a patent is by no means
+limited to only manufacture and sell only those products that are disclosed in
+the claims of the patent and hence a different polymorph manufactured by the
+patent holder which is not the subject of the registered patent cannot be used
+for the purpose of comparison with the infringer product; the very product
+disclosed in the patent claims must be used.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 53 of 106
+
+111\. Thus the question at hand is really whether Cipla's Polymorph B
+(Erlocip) was subsumed in the claims of IN ‗774. We find the answer in the
+decision reported as [2008] EWHC Civ 445 Servier v Apotex. Servier's attempt
+to secure a patent for the α-form of the t-butylamine salt of perindopril
+failed both before the Patents Court and the Court of Appeals which observed
+that the crystal form could easily be obtained by carrying out the process
+disclosed in the basic patent. In refusing to ‗evergreen' the basic patent it
+was clear that the Court of Appeals was not denying Servier the right to
+enforce the basic patent against a third party attempting to manufacture the
+α-form crystals. In the present case too, the correct analysis that the
+Learned Single Judge ought to have employed was a construction of the IN ‗774
+claim to understand whether it encompassed the manufacture of Polymorph B of
+Erlotinib Hydrochloride. By focusing on evidence involving the analysis of
+X-Ray diffraction data, the Learned Single Judge has erroneously compared the
+products of Roche and Cipla when he ought to have mapped the claims of the
+suit patent against Cipla's product. Counsels for both the Appellant and the
+Respondent have not been able to assist the court with authorities to support
+their stand on the test of infringement required to be employed and much of
+the arguments have been on first principles.
+
+112\. It is therefore left to the Court to study the specification and claims
+of the suit patent and note that as they are in relation to Erlotinib
+Hydrochloride and are not restricted to any specific Polymorph, they would be
+infringed by any manufacture of Polymorph B by a third party as the same would
+use the subject matter of IN ‗774 as its basic starting point. The Learned
+Single  RFA (OS) Nos.92/2012 & 103/2012 Page 54 of 106 Judge has correctly
+applied the principle in the decision reported as AIR 1969 Bom 255 F.H & B vs.
+Unichem, in stating that in case of any ambiguity of the Claim of the suit
+patent then resort can be taken to the specification of the said suit patent
+and nothing else. He correctly recognized that a Purposive Construction of the
+claims is necessary in order to not construe claims too narrowly. Yet we find
+that neither of these tests have been applied in the present case to construct
+the claims themselves and hence a conclusion that the IN ‗774 patent covers
+Polymorphs A+B itself is erroneous.
+
+113\. Once again we go back to Claim 1 of IN ‗774. It reads : ―A novel
+[6,7-bis (2-methoxyethoxy) quinazolin-4-yl ]- (3-ethynylphenyl) amine
+hydrochloride compound of the formula A.‖
+
+114\. This is a sufficiently broad claim that is clearly not limited to any
+polymorphic version of Erlotinib Hydrochloride, but to Erlotinib Hydrochloride
+itself. This compound may exist in several polymorphic forms, but any and all
+such forms will be subsumed within this patent. Therefore as Cipla's Erlocip
+is admittedly one particular polymorphic form of the Erlotinib Hydrochloride
+compound (Polymorph B), it will clearly infringe the IN ‗774 patent. We thus
+conclude this issue by noting that the Single Judge's finding that
+‗Tarceva'and ‗Erlocip' were based on the Polymorph B version of Erlotinib
+Hydrochloride, though correct factually, is irrelevant to the subject matter
+of the present patent as Cipla has clearly infringed Claim 1 of Roche's IN
+‗774 patent in arriving at the said Polymorph.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 55 of 106
+
+Violation of Section 8 of The Patents Act, 1970
+
+115\. Cipla seeks revocation of the suit patent for violation of Section 8 of
+the Patents Act. Learned Senior Counsel for Cipla contends that assuming Roche
+believed Polymorph B of Erlotinib Hydrochloride to have been covered in the
+suit patent, thus considered Polymorph B of Erlotinib Hydrochloride to be
+‗same and substantially the same‟ as the suit patent, then it ought to have
+disclosed before the patent office while prosecuting its application resulting
+in IN `774 that it had filed an application for grant of patent for Polymorph
+B of Erlotinib Hydrochloride resulting in US `221 which fact was not
+disclosed.
+
+116\. According to learned senior counsel for Cipla, Section 8 casts an
+obligation upon the patentee to disclose particulars of application in foreign
+Country of ‗same or substantially the same invention' to the Controller and
+the same is a continuing obligation coupled with a duty to disclose. It is
+contended that Section 8 is a mandatory provision, non-compliance whereof
+results in revocation of the patent under Section 64 of the Patents Act and
+thus the suit patent is liable to be revoked on this ground as well. It is
+contended that the word ‗may' in Section 64(1) ought to be read as ‗shall'.
+Reference is made to Maj. (Retd.) Sukesh Behl & Anr. Vs. Koninjlijke Phillips
+Electronics 2015 (61) PTC 183 (Del), Chief Controlling Revenue Authority &
+Superintendent of Stamps Vs. Maharashtra Sugar Mills, 1950 SCR 536, Ramji
+Missar & Anr. Vs. State of Bihar, 1963 Supp(2) SCR 745, State of Uttar Pradesh
+Vs. Jogendar Singh, (1964) 2 SCR 197, Sardar Govindrao & Ors. Vs. State of
+Madhya Pradesh, (1965) 1 SCR 678, Smt. Bachchan Devi & Anr. Vs. Nagar Nigam,
+Gorakhpur & Anr., AIR 2008 SC  RFA (OS) Nos.92/2012 & 103/2012 Page 56 of 106
+1282 and Anil Soni Vs. UOI & Anr. MANU/DE/4017/2013.
+
+117\. In response, learned counsel for the Roche contends that in the written
+statement or counter claim there are no pleadings or material particulars to
+show that the suit patent was violative of the disclosure requirement as
+mandated by Section 8. Further it is the case of Cipla itself that the claim
+relating to Polymorph B form was based on entirely independent invention, it
+not being the same and substantially the same as IN `774, thus the same was
+not required to be disclosed to the patents office. The stand of Roche that
+the invention of Polymorph B of Erlotinib Hydrochloride was a separate
+invention is fortified by a separate patent for Polymorph B of Erlotinib
+Hydrochloride having been granted in 40 Countries and thus the suit patent
+cannot be recalled/revoked for non-disclosure of the patent application
+resulting in grant of patent US `221 for Polymorph B in USA. Further
+application resulting in grant of the patent US `221 for Polymorph B of
+Erlotinib Hydrochloride was filed many years after the application for the
+suit patent. While the claim of IN `774 was for a new chemical entity, the
+claim of US `221 was for Polymorphic crystalline form of Erlotinib
+Hydrochloride. Thus, pendency of application resulting in grant of patent US
+`221 has no bearing on the examination of the suit patent and Roche was not
+required to disclose the same under Section 8. Further for the reason the
+Indian patent office rejected the claim of Roche for Polymorph B of Erlotinib
+Hydrochloride deeming it to be the same substance under Section 3(d) of the
+Patents Act, the pendency of the application of patent US `221 was not
+required to be revealed before the Patents Office. The provision under Section
+64(1) Patents Act is discretionary in nature and does not mandate  RFA (OS)
+Nos.92/2012 & 103/2012 Page 57 of 106 revocation of a patent automatically.
+Reliance is placed on Sukesh Behl(supra).
+
+118\. We are in agreement with learned counsel for the Roche that the written
+statement and the counter claim do not give clear pleadings as to the
+violation of Section 8. The relevant portions in the counter claim in para 2
+relating to grounds of revocation in sub-para (i) states as under:-
+
+> "i. that the patentee for the patent has failed to disclose to the
+> Controller the information required by Section 8 or has furnished
+> information which in any material particular was false to his knowledge;"
+
+119\. It is trite that a pleading concerning suppression of a fact or failure
+to disclose a relevant fact has to be specific by highlighting what was
+required to be disclosed or informed. A general and a bald allegation that the
+opposite party had failed to disclose information required by law is no
+pleadings in the eyes of law.
+
+120\. Sections 8 and 64(1)(m) of the Patents Act 1970 read as under:-
+
+> "Section 8 Information and undertaking regarding foreign applications.- (1)
+> Where an applicant for a patent under this Act is prosecuting either alone
+> or jointly with any other person an application for a patent in any country
+> outside India in respect of the same or substantially the same invention, or
+> where to his knowledge such an application is being prosecuted by some
+> person through whom he claims or by some person deriving title from him, he
+> shall file along with his application or subsequently within the prescribed
+> period as the Controller may allow-
+
+> (a) a statement setting out detailed particulars of such application; and;
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 58 of 106
+
+> (b) an undertaking that upto the date of grant of patent in India, he would
+> keep the Controller informed in writing, from time to time, of detailed
+> particulars as required under clause
+
+> (a) in respect of every other application relating to the same or
+> substantially the same invention, if any, filed in any country outside India
+> subsequently to the filing of the statement referred to in the aforesaid
+> clause, within the prescribed time.
+
+> (2) At any time after an application for patent is filed in India and till
+> the grant of a patent or refusal to grant of patent made thereon, the
+> Controller may also require the applicant to furnish details, as may be
+> prescribed, relating to the processing of the application in a country
+> outside India, and in that event the applicant shall furnish to the
+> Controller information available to him within such period as may be
+> prescribed. Section 64. Revocation of patents.-(1) Subject to the provisions
+> contained in this Act, a patent, whether granted before or after the
+> commencement of this Act, may, be revoked on a petition of any person
+> interested or of the Central Government by the Appellate Board or on a
+> counter-claim in a suit for infringement of the patent by the High Court on
+> any of the following grounds that is to say-
+
+> (a) to (l) xx xx xx
+
+> (m) that the applicant for the patent has failed to disclose to the
+> Controller the information required by section 8 or has furnished
+> information which in any material particular was false to his knowledge;"
+
+121\. It is evident that when Roche was prosecuting its application for grant
+of suit patent IN `774 separate application for grant of patent for Polymorph
+B form of Erlotinib Hydrochloride was filed on February 06, 2002 being DEL
+‗507. We have already held that the suit patent was a product patent relating
+to the new molecule Erlotinib Hydrochloride whereas US `221 was an improvement
+patent application which involved intermolecular  RFA (OS) Nos.92/2012 &
+103/2012 Page 59 of 106 relationship between the various molecules of
+Erlotinib Hydrochloride resulting in a certain polymorphic structure with no
+enhanced therapeutic values but more thermodynamic and due to the enhanced
+efficacy of polymorph B not being demonstrated the patent application DEL `507
+was declined in India whereas granted in 40 other countries. Thus non filling
+of the details of the application resulting in grant of patent US ‗221 by
+Roche is attributable to the bona-fide belief of Roche that the application
+resulting in patent US ‗221 is not same or substantially the same compound.
+This bona fide belief of Roche is also fortified by the claim of Cipla in para
+5 of the reply to CM 219, an application in FAO (OS) 188/2008 Ex.DW-1/13 where
+it states-
+
+> ―The Respondent states that the doctrine of selection patent is well settled
+> and does not fit into the factual matrix of the invention relating to the
+> polymorph B form which is based on an entirely independent invention, which
+> was made about four years after the main patent and was not known and thus
+> cannot be said to be subsumed in the suit patent."
+
+122\. In the decision reported as (2011) 9 SCC 354 Delhi Airtech Services (P)
+Ltd. Vs. State of U.P. the Supreme Court encapsulated the legal position on
+determining whether a particular provision of Statute is mandatory or
+directory. It noted-
+
+> "116. Let us first examine the general principles that could help the Court
+> in determining whether a particular provision of a statute is mandatory or
+> directory.
+
+> 117\. In Principles of Statutory Interpretation, 12th Edn., 2010, Justice
+> G.P. Singh, at pp. 389-92 states as follows: "... As approved by the Supreme
+> Court:
+
+> „The question as to whether a statute is mandatory or directory depends upon
+> the intent of the legislature and not upon the  RFA (OS) Nos.92/2012 &
+> 103/2012 Page 60 of 106 language in which the intent is clothed. The meaning
+> and intention of the legislature must govern, and these are to be
+> ascertained not only from the phraseology of the provision, but also by
+> considering its nature, its design, and the consequences which would follow
+> from construing it the one way or the other.‟ „For ascertaining the real
+> intention of the legislature‟, points out Subbarao, J., „the court may
+> consider inter alia, the nature and design of the statute, and the
+> consequences which would follow from construing it the one way or the other;
+> the impact of other provisions whereby the necessity of complying with the
+> provisions in question is avoided; the circumstances, namely, that the
+> statute provides for a contingency of the non- compliance with the
+> provisions; the fact that the non- compliance with the provisions is or is
+> not visited by some penalty; the serious or the trivial consequences, that
+> flow therefrom; and above all, whether the object of the legislation will be
+> defeated or furthered‟.
+
+> If object of the enactment will be defeated by holding the same directory,
+> it will be construed as mandatory, whereas if by holding it mandatory,
+> serious general inconvenience will be created to innocent persons without
+> very much furthering the object of enactment, the same will be construed as
+> directory. But all this does not mean that the language used is to be
+> ignored but only that the prima facie inference of the intention of the
+> legislature arising from the words used may be displaced by considering the
+> nature of the enactment, its design and the consequences flowing from
+> alternative constructions. Thus, the use of the words „as nearly as may be‟
+> in contrast to the words „at least‟ will prima facie indicate a directory
+> requirement, negative words a mandatory requirement, „may‟ a directory
+> requirement and „shall‟ a mandatory requirement."
+
+> 118\. Maxwell, in Chapter 13 of his 12th Edn. of The Interpretation of
+> Statutes, used the word "imperative" as synonymous with "mandatory" and drew
+> a distinction between imperative and directory enactments, at pp. 314-15, as
+> follows:
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 61 of 106
+
+> "Passing from the interpretation of the language of statutes, it remains to
+> consider what intentions are to be attributed to the legislature on
+> questions necessarily arising out of its enactments and on which it has
+> remained silent. The first such question is: when a statute requires that
+> something shall be done, or done in a particular manner or form, without
+> expressly declaring what shall be the consequence of non-compliance, is the
+> requirement to be regarded as imperative (or mandatory) or forms prescribed
+> by the statute have been regarded as essential to the act or thing regulated
+> by it, and their omission has been held fatal to its validity. In others,
+> such prescriptions have been considered as merely directory, the neglect of
+> them involving nothing more than liability to a penalty, if any were
+> imposed, for breach of the enactment. „An absolute enactment must be obeyed
+> or fulfilled exactly, but it is sufficient if a directory enactment be
+> obeyed or fulfilled substantially‟.
+
+> It is impossible to lay down any general rule for determining whether a
+> provision is imperative or directory. „No universal rule,‟ said Lord
+> Campbell, L.C. „can be laid down for the construction of statutes, as to
+> whether mandatory enactments shall be considered directory only or
+> obligatory with an implied nullification for disobedience. It is the duty of
+> Courts of Justice to try to get at the real intention of the legislature by
+> carefully attending to the whole scope of the statute to be construed.‟ And
+> Lord Penzance said:
+
+> „I believe, as far as any rule is concerned, you cannot safely go further
+> than that in each case you must look to the subject- matter; consider the
+> importance of the provision that has been disregarded, and the relation of
+> that provision to the general object intended to be secured by the Act; and
+> upon a review of the case in that aspect decide whether the matter is what
+> is called imperative or only directory.‟ [Ed.: As observed in Howard
+> v.Bodington, (1877) 2 PD 203, p. 211 : 42 JP 6.] "
+
+> 119\. In a recent judgment of this Court, May George v. Tahsildar [(2010) 13
+> SCC 98 : (2010) 4 SCC (Civ) RFA (OS) Nos.92/2012 & 103/2012 Page 62 of 106
+> 774] , the Court stated the precepts, which can be summed up and usefully
+> applied by this Court, as follows:
+
+> (a) While determining whether a provision is mandatory or directory,
+> somewhat on similar lines as aforenoticed, the Court has to examine the
+> context in which the provision is used and the purpose it seeks to achieve;
+
+> (b) To find out the intent of the legislature, it may also be necessary to
+> examine serious general inconveniences or injustices which may be caused to
+> persons affected by the application of such provision;
+
+> (c) Whether the provisions are enabling the State to do some things and/or
+> whether they prescribe the methodology or formalities for doing certain
+> things;
+
+> (d) As a factor to determine legislative intent, the court may also
+> consider, inter alia, the nature and design of the statute and the
+> consequences which would flow from construing it, one way or the other;
+
+> (e) It is also permissible to examine the impact of other provisions in the
+> same statute and the consequences of non- compliance with such provisions;
+
+> (f) Phraseology of the provisions is not by itself a determinative factor.
+> The use of the word "shall" or "may", respectively would ordinarily indicate
+> imperative or directory character, but not always.
+
+> (g) The test to be applied is whether non-compliance with the provision
+> would render the entire proceedings invalid or not.
+
+> (h) The court has to give due weightage to whether the interpretation
+> intended to be given by the court would further the purpose of law or if
+> this purpose could be defeated by terming it mandatory or otherwise.
+
+> 120\. Reference can be made to the following paragraphs of May George
+> [(2010) 13 SCC 98 : (2010) 4 SCC (Civ) 774] : (SCC pp. 103-05, paras 16-17 &
+> 22-23) "16. In Dattatraya Moreshwar v. State of Bombay [AIR 1952 SC 181 :
+> 1952 Cri LJ 955] this Court observed that law which RFA (OS) Nos.92/2012 &
+> 103/2012 Page 63 of 106 creates public duties is directory but if it confers
+> private rights it is mandatory. Relevant passage from this judgment is
+> quoted below: (AIR p. 185, para 7) „7. ... It is well settled that generally
+> speaking the provisions of a statute creating public duties are directory
+> and those conferring private rights are imperative. When the provisions of a
+> statute relate to the performance of a public duty and the case is such that
+> to hold null and void acts done in neglect of this duty would work serious
+> general inconvenience or injustice to persons who have no control over those
+> entrusted with the duty and at the same time would not promote the main
+> object of the legislature, it has been the practice of the courts to hold
+> such provisions to be directory only, the neglect of them not affecting the
+> validity of the acts done.‟
+
+> 17\. A Constitution Bench of this Court in State of U.P. v. Babu Ram Upadhya
+> [AIR 1961 SC 751 : (1961) 1 Cri LJ 773] decided the issue observing: (AIR p.
+> 765, para 29) „29. ... For ascertaining the real intention of the
+> legislature the court may consider, inter alia, the nature and the design of
+> the statute, and the consequences which would follow from construing it the
+> one way or the other, the impact of other provisions whereby the necessity
+> of complying with the provisions in question is avoided, the circumstance,
+> namely, that the statute provides for a contingency of the non- compliance
+> with the provisions, the fact that the non- compliance with the provisions
+> is or is not visited by some penalty, the serious or trivial consequences
+> that flow therefrom, and, above all, whether the object of the legislation
+> will be defeated or furthered.‟ * * *
+
+> 22\. In B.S. Khurana v. MCD [(2000) 7 SCC 679] this Court considered the
+> provisions of the Delhi Municipal Corporation Act, 1957, particularly those
+> dealing with transfer of immovable property owned by the Municipal
+> Corporation. After considering the scheme of the Act for the purpose of
+> transferring the property belonging to the Corporation, the Court held that
+> the Commissioner could alienate the property RFA (OS) Nos.92/2012 & 103/2012
+> Page 64 of 106 only on obtaining the prior sanction of the Corporation and
+> this condition was held to be mandatory for the reason that the effect of
+> non-observance of the statutory prescription would vitiate the transfer
+> though no specific power had been conferred upon the Corporation to transfer
+> the property.
+
+> 23\. In State of Haryana v. Raghubir Dayal [(1995) 1 SCC 133] this Court has
+> observed as under: (SCC pp. 135-36, para 5) „5. The use of the word "shall"
+> is ordinarily mandatory but it is sometimes not so interpreted if the scope
+> of the enactment, on consequences to flow from such construction would not
+> so demand. Normally, the word "shall" prima facie ought to be considered
+> mandatory but it is the function of the Court to ascertain the real
+> intention of the legislature by a careful examination of the whole scope of
+> the statute, the purpose it seeks to serve and the consequences that would
+> flow from the construction to be placed thereon. The word "shall",
+> therefore, ought to be construed not according to the language with which it
+> is clothed but in the context in which it is used and the purpose it seeks
+> to serve. The meaning has to be ascribed to the word "shall" as mandatory or
+> as directory, accordingly. Equally, it is settled law that when a statute is
+> passed for the purpose of enabling the doing of something and prescribes the
+> formalities which are to be attended for the purpose, those prescribed
+> formalities which are essential to the validity of such thing, would be
+> mandatory. However, if by holding them to be mandatory, serious general
+> inconvenience is caused to innocent persons or general public, without very
+> much furthering the object of the Act, the same would be construed as
+> directory.‟"
+
+> 121\. The legislature in Sections 11-A and 17(3-A) of the Act has used the
+> word "shall" in contradistinction to the word "may" used in some other
+> provisions of the Act. This also is a relevant consideration to bear in mind
+> while interpreting a provision.
+
+> 122\. The distinction between mandatory and directory provisions is a well-
+> accepted norm of interpretation. The general rule of interpretation would
+> require the word to be given its own meaning and the word "shall" would be
+> read as "must" unless it was essential to read it as "may" to achieve RFA
+> (OS) Nos.92/2012 & 103/2012 Page 65 of 106 the ends of legislative intent
+> and understand the language of the provisions. It is difficult to lay down
+> any universal rule, but wherever the word "shall" is used in a substantive
+> statute, it normally would indicate mandatory intent of the legislature.
+
+> 123.Crawford on Statutory Construction has specifically stated that language
+> of the provision is not the sole criterion; but the courts should consider
+> its nature, design and the consequences which could flow from construing it
+> one way or the other.
+
+> 124\. Thus, the word "shall" would normally be mandatory while the word
+> "may" would be directory. Consequences of non-compliance would also be a
+> relevant consideration. The word "shall" raises a presumption that the
+> particular provision is imperative but this prima facie inference may be
+> rebutted by other considerations such as object and scope of the enactment
+> and the consequences flowing from such construction.
+
+> 125\. Where a statute imposes a public duty and proceeds to lay down the
+> manner and time-frame within which the duty shall be performed, the
+> injustice or inconvenience resulting from a rigid adherence to the statutory
+> prescriptions may not be a relevant factor in holding such prescription to
+> be only directory. For example, when dealing with the provisions relating to
+> criminal law, legislative purpose is to be borne in mind for its proper
+> interpretation. It is said that the purpose of criminal law is to permit
+> everyone to go about their daily lives without fear of harm to person or
+> property and it is in the interests of everyone that serious crime be
+> effectively investigated and prosecuted. There must be fairness to all
+> sides. [Attorney General's Reference (No. 3 of 1999) [(2001) 2 AC 91 :
+> (2001) 2 WLR 56 : (2001) 1 All ER 577 (HL)] ; Justice G.P. Singh on
+> Principles of Statutory Interpretation, 11th Edn., 2008]. In a criminal
+> case, the court is required to consider the triangulation of interests
+> taking into consideration the position of the accused, the victim and his or
+> her family and the public.
+
+> 126\. The basic purpose of interpretation of statutes is further to aid in
+> determining either the general object of the legislation or the meaning of
+> the language in any particular provision. It is obvious that the intention
+> which appears to be most in RFA (OS) Nos.92/2012 & 103/2012 Page 66 of 106
+> accordance with convenience, reason, justice and legal principles should, in
+> all cases of doubtful interpretation, be presumed to be the true one. The
+> intention to produce an unreasonable result is not to be imputed to a
+> statute. On the other hand, it is not impermissible, but rather is
+> acceptable, to adopt a more reasonable construction and avoid anomalous or
+> unreasonable construction. A sense of the possible injustice of an
+> interpretation ought not to induce Judges to do violence to the well-settled
+> rules of construction, but it may properly lead to the selection of one,
+> rather than the other, of the two reasonable interpretations. In earlier
+> times, statutes imposing criminal or other penalties were required to be
+> construed narrowly in favour of the person proceeded against and were more
+> rigorously applied. The courts were to see whether there appeared any
+> reasonable doubt or ambiguity in construing the relevant provisions. Right
+> from the case of R.v. Jones, ex p Daunton [(1963) 1 WLR 270 : (1963) 1 All
+> ER 368 (DC)] , the basic principles state that even statutes dealing with
+> jurisdiction and procedural law are, if they relate to infliction of
+> penalties, to be strictly construed; compliance with the procedures will be
+> stringently exacted from those proceedings against the person liable to be
+> penalised and if there is any ambiguity or doubt, it will be resolved in
+> favour of the accused/such person. These principles have been applied with
+> approval by different courts even in India. Enactments relating to procedure
+> in courts are usually construed as imperative. A kind of duty is imposed on
+> court or a public officer when no general inconvenience or injustice is
+> caused from different construction. A provision of a statute may impose an
+> absolute or qualified duty upon a public officer which itself may be a
+> relevant consideration while understanding the provision itself. (See
+> Maxwell on The Interpretation of Statutes, 12th Edn. by P. St. J. Langan and
+> R. v. Bullock [(1964) 1 QB 481 : (1963) 3 WLR 911 : (1963) 3 All ER 506
+> (CCA)] .)"
+
+123\. Thus though as a general rule if a consequence is provided then the rule
+has to be interpreted as mandatory however in the present case the consequence
+itself is not mandatory because of use of the word ‗may' in  RFA (OS)
+Nos.92/2012 & 103/2012 Page 67 of 106 Section 64(1). This issue came up for
+consideration before Division Bench of this Court in Maj.(Retd.) Sukesh Behl
+(supra) wherein this Court held that though it is mandatory to comply with the
+requirement under Section 8(1) of the Patents Act and non-compliance of the
+same is one of the grounds for revocation of the patent under Section
+64(1)(m), however the use of the word ‗may' in Section 64(1) itself indicates
+the intention of the legislature that the power conferred thereunder is
+discretionary and consequently it is necessary for the Court to consider the
+question as to whether omission on the part of the applicant was intentional
+or whether it was a mere clerical and bona-fide error.
+
+124\. Having held that Section 64(1) is directory in nature and thus non-
+compliance of Section 8 would not automatically result in revocation of the
+patent, we need to note the further distinction between a mandatory rule and a
+directory rule. In the decision reported as 1981 SCC 202 Sharif-Ud-Din Vs.
+Abdul Gani Lone the Supreme Court noting the distinction between a mandatory
+rule and the directory rule held that while the former must be strictly
+observed, in the case of the latter substantial compliance may be sufficient
+to achieve the object regarding which the rule was enacted.
+
+125\. The doctrine of substantial compliance is a judicial invention,
+equitable in nature, designed to avoid hardship in cases where a party does
+all that can reasonably be expected of it, but failed or faulted in some minor
+or inconsequent aspects which cannot be described as the ―essence‖ or the
+―substance‖ of the requirements. Like the concept of ―reasonableness‖, the
+acceptance or otherwise of a plea of ―substantial compliance‖ depends on the
+facts and circumstances of each case and the purpose and object to be achieved
+and the context of the prerequisites which are essential to achieve  RFA (OS)
+Nos.92/2012 & 103/2012 Page 68 of 106 the object and purpose of the rule or
+the regulation. (See (2011) 1 SCC 236 Commissioner of Central Excise, New
+Delhi Vs. Hari Chand Shri Gopal & Ors.).
+
+126\. We have already noted above and repeat that Roche has been granted
+patent for Polymorph B in 40 Countries and had also applied for the same in
+India and thus, non-intimation of the patent application for Polymorph B
+resulting in grant of US ‗221 was due to the bona-fide belief of Roche that
+the two patents were separate inventions. Be that as it may, it is a case of
+substantial compliance inasmuch as even if Roche did not inform about the
+pending application resulting in grant of US ‗221, NATCO in its pre-grant
+opposition application to the suit patent duly informed about the same.
+
+127\. The decision of the Assistant Controller of Patents and Designs dated
+July 04, 2007 clearly shows that in pre-grant opposition, the factum of US
+‗221 was disclosed though the said issue was raised in regard to insufficiency
+of disclosure regarding the polymorphic version. The contention as noted and
+dealt by the Assistant Controller of patents and Designs in the order dated
+July 04, 2007 is as under-
+
+> "The opponent states that the compound of EX-20 XRD data has not been given.
+> This amount to insufficiency of disclosure in view of the fact that
+> polymorphic version of the same Drug substance have been subsequently
+> disclosed in US 6900221 filed on 11.11.99.
+
+> Opponent further states that it is also not clear to which polymorphic class
+> the preferred compound viz 6, 7 - Bis (2methoxy
+> ethoxy)-quinanazoline-4yl-(3-ethynyl phenyl) amino hydrochloride III of the
+> current patent application belongs. It is very pertinent and relevant to
+> have the details of the current form for the product claimed in the current
+> application."
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 69 of 106
+
+128\. It is apparent that even NATCO or for that matter even Cipla was of the
+opinion that Polymorph B form of Erlotinib Hydrochloride for which the patent
+US ‗221 was granted was a different polymorphic version thus not same or
+substantially the same product and non-disclosure under Section 8 by Roche was
+due to such bonafide belief, however still substantial compliance thereof has
+been done as the factum of application resulting in grant of US patent ‗221
+for polymorph B of Erlotinib Hydrochloride were before the patent office,
+though revealed by NATCO. Thus it cannot be held that non-disclosure of US
+`221 caused prejudice thereby failing to pass the test of substantial
+compliance..
+
+129\. Thus, we find no reason to revoke the suit patent for non-compliance of
+Section 8 under Section 64(1) (m) of the Patents Act.
+
+Whether suit patent is obvious
+
+130\. On the subject of obviousness, we could illustrate by referring to a
+passage in the Article: THE RISE OF LIFE: by Bill Bryson in his illuminating
+book titled ‗A Short History of Nearly Everything', which brings out very
+succinctly as to how a thing which at first blush may appear to be obvious,
+but actually is not obvious for the reason looking at a thing from hind sight
+tends to give an impression that it was obvious. The learned author has
+written:
+
+> "The chances of a 1,055-sequence molecule like collagen spontaneously self-
+> assembling are, frankly, nil. It just isn‟t going to happen. To grasp what a
+> long shot its existence is, visualize a standard Las Vegas slot machine but
+> broadened greatly - to about 27 metres, to be precise - to accommodate 1,055
+> spinning wheels instead of the usual three or four, with twenty symbols on
+> each wheel (one for each common amino acid). How long would you have to pull
+> the handle before all  RFA (OS) Nos.92/2012 & 103/2012 Page 70 of 106 1,055
+> symbols came up in the right order? Effectively, forever. Even if you
+> reduced the number of spinning wheels to 200, which is actually a more
+> typical number of amino acids for a protein, the odds against all 200 coming
+> up in a prescribed sequence are 1 in 10 (that is a 1 followed by 260 zeros).
+> That in itself is a larger number than all the atoms in the universe.
+
+> Proteins, in short, are complex entities. Haemoglobin is only 146 amino
+> acids long, a runt by protein standards, yet even it offers 10 possible
+> amino-acid combinations, which is why it took the Cambridge University
+> chemist Max Perutz twenty- three years - a career, more or less - to unravel
+> it."
+
+131\. Down the essay the learned author writes:
+
+> "Chemical reactions of the sort associated with life are actually something
+> of a commonplace. It may be beyond us to cook them up in a lab, a la Stanley
+> Miller and Harold Urey, but the universe does it readily enough. Lots of
+> molecules in nature get together to form long chains called polymers. Sugars
+> constantly assemble to form starches. Crystals can do a number of lifelike
+> things - replicate, respond to environmental stimuli, take on a patterned
+> complexity. They have never achieved life itself, of course, but they
+> demonstrate repeatedly that complexity is a natural, spontaneous, entirely
+> reliable event. There may or may not be a great deal of life in the universe
+> at large, but there is no shortage of ordered self-assembly, in everything
+> from the transfixing symmetry of snowflakes to the comely rings of Saturn."
+
+132\. For long, chemists were aware of similar characters shown by elements.
+The chemist had been able to group elements in two ways : (i) either by atomic
+weight (using AVOGADRO'S principle) or (ii) by common properties (whether they
+were metals or gases.) That a breakthrough could be achieved by combining the
+two in a single table had been anticipated. An amateur chemist, named John
+Newlands had suggested that when elements  RFA (OS) Nos.92/2012 & 103/2012
+Page 71 of 106 were arranged by weights they appear to repeat properties - in
+a sense to harmonise - at every eighth place along the scale. Newlands called
+it the Law of OCTAVES, and linked the arrangement to the octaves on a piano
+keyboard. Perhaps the manner of presentation by Newlands was perceived to be
+funny and this explains his idea being considered fundamentally preposterous
+and widely mocked. At gatherings, droller members of the audience would
+sometimes ask him if he could get his elements to play them a little tune.
+
+133\. By 1860, the card game known as solitaire in North America, called
+patience elsewhere, where cards are arranged by a suit horizontally and by
+number vertically, had become a rage.
+
+134\. Using a broad similar concept, Dmitri Ivanovich Mendeleev arranged the
+elements in horizontal rows called periods and vertical columns called groups.
+This instantly showed one set of relationships when read up and down and
+another when read from side to side. Specifically, the vertical columns put
+together have similar properties. Thus, copper sits on top of silver and
+silver sits on top of gold because of their chemical affinities as metals;
+while helium, neon and argon are in a column made up of gases.
+
+135\. The approach used by Mendeleev was slightly different than that of John
+Newlands, but employed fundamentally the same premise. Suddenly, the idea
+seemed brilliant and wondrously perceptive because the properties repeated
+themselves periodically, the invention became known as the periodic table.
+
+136\. For the world, the periodic table became a thing of beauty in the
+abstract, but for the chemist it established an immediately orderliness and
+clarity that can hardly be overstated.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 72 of 106
+
+137\. Robort E. Krebs in his book- „The History and Use Of Our Earth Chemical
+Elements‟ wrote that without a doubt, the Periodic Table of the Chemical
+Elements is the most elegant organizational chart ever devised. Thus what was
+anticipated was still a leap in the field of Chemistry.
+
+138\. Coming to the case in hand, Cipla claims that the impugned product is
+invalid under Section 64 (1)(f) of the Patents Act, 1970 for lack of inventive
+steps and being obvious. It is urged that Example 51 of EP ‗226 is the closest
+prior art cited in the suit patent and any person skilled in the art would be
+motivated to use the same as a starting point. Further EP ‗226 was the first
+patent document to disclose the use of Quinazoline derivatives for their anti-
+cancer properties. The only difference between a large number of compounds
+exemplified in EP ‗226 and those exemplified in the suit patent was a mere
+substitution of Methyl with Ethynyl on the 3 meta position. The motivation to
+choose Example 51 of EP ‗226 is also attributed to its relatively effective IC
+50 value which has been clearly defined in Example 51 of EP ‗226. Methyl and
+Ethynyl are known bioisoteres and a person skilled in the art is aware of the
+well known basic principles of Grimm's Hydride Displacement Law; applying
+which example 20 of the suit patent is reached. Cipla claims that having
+discharged the initial burden of showing that the suit patent was obvious, the
+onus shifted to Roche to prove that the suit patent was not obvious and was an
+inventive step from the earlier known example. Further EP ‗226 itself suggests
+Cyano as a possible substitute and thus the suit patent lacks inventive steps
+and is not novel. Reliance is placed on Terrel on Patents; 550 U.S. 398 (2007)
+KSR International Co. Vs. Teleflex Inc.; (1985) R.P.C. 59 Windsurfing
+International Inc.Vs. Tabur Marine (Great Britain) Ltd.; (2010) FSR 18  RFA
+(OS) Nos.92/2012 & 103/2012 Page 73 of 106 Actavis Vs. Navartis, (2007) EWCA
+Civ 588 Pozzoli SPA Vs. BDMO SA; 566 F.3d 999 (2009) Altana Pharma AG Vs. Teva
+Pharmaceuticals USA Ltd.; decision of Boards of Appeal European Patent Office
+in case No.T164/83 titled Eisai Co. Ltd.; 16 USPQ.2d 1897 In re Dillon; 800
+F.2d 1091 In re Merck; 138 USPQ 22 In re Zickendraht and Buehler and 82
+U.S.P.Q.2D (BNA) 1321Pfizer Inc Vs. Apotex Inc..
+
+139\. Roche rebutting argument of Cipla on lack of inventive steps and
+obviousness claims that Cipla admitted patent IN 774 being novel, hence
+anticipation has not been assailed as a ground. It is contended that an
+invention is obvious or does not involve any inventive steps if the complete
+specifications are published before the priority date of said claim.
+Obviousness has to be determined by a person of ordinary skill in the Art (in
+short ‗POSA'). POSA thinks along the lines of conventional wisdom in art and
+does not undertake risks to go away from the main stream teaching. While
+conducting an inquiry into obviousness, hindsight is impermissible and the
+legal conclusion must be reached on the basis of facts gleaned from the prior
+art and should not include knowledge gleaned from patent disclosure. Teachings
+in prior art document have to be considered as a whole. Teachings away from
+the patent claim are treated as non-obvious. To inquire into obviousness, two
+fold inquiry is required to be conducted i.e. motivation to select and
+motivation to modify. Mere structural similarity cannot form the basis for
+selection of a lead compound in a prior art. The legal position is well
+settled that potent and promising activity in the prior art trumps mere
+structural similarity. There has to be a teaching, suggestion or motivation in
+the prior art document in order to modify the lead compound. Besides the
+primary consideration as noted, the objective indicia  RFA (OS) Nos.92/2012 &
+103/2012 Page 74 of 106 of non-obviousness include secondary considerations
+such as (i) a long-felt need; (ii) failure of others; (iii) industry acclaim;
+and (iv) unexpected results. Roche claims that Cipla has not discharged its
+onus to establish invalidity on the ground of obviousness as no clear and
+convincing evidence was led to demonstrate that the three distinct approaches
+canvassed by Cipla that POSA would be motivated to modify the lead compound
+Example 51 with EP ‗507 in order to substitute the 3rd meta position of Methyl
+on Phenyl ring with Ethynyl there being no reference of a teaching to show
+that Ethynyl would be a suitable alternative; the second being applying the
+concept of ―bioisosteric replacement‖ to the 3rd position of phenyl ring of
+Example 51 of EP ‗226 and thirdly Cipla's relying upon 5 additional documents,
+two of which are not prior art namely EP 0477700, US 4138590, US 5427766, US
+5736534 and WO 193004047 which were exhibited by DW-3 Prof.Ashwini Nangia. The
+evidence of Prof. Ashwini Nangia DW-3 cannot be relied upon as he was not a
+person skilled in art neither being a medicinal chemist nor having any
+experience in drug discovery and development process from inception to animal
+study and clinical trials, no independent search having been conducted by DW-3
+and his search was based on Google and Wikipedia few days prior to cross-
+examination. Cipla provides no reason to select EP ‗226 as the closest prior
+art and as to why Example 51 would have been selected as a lead compound. The
+teaching of the prior art should be as a whole and various steps cannot be
+surgically put together. No evidence has been led by Cipla in support of its
+steps canvassed. Further Prof.Roger Griffin, PW-2 has explained that
+bioisosteric replacement at best is a rough rule of thumb and provides no
+motivation to a POSA to develop Erlotinib Hydrochloride. Reliance is placed on
+the decisions reported as AIR 1969  RFA (OS) Nos.92/2012 & 103/2012 Page 75 of
+106 Bombay 255 F.H.& B.Corp. Vs.Unichem Laboratories, (1979) 2 SCC 511
+Bishwanath Prasad Vs.Hindustan Metal Industries, [2012] EWHC 1848 Mylan
+Vs.Yeda, MANU/USFD/0081/2014 Pfizer Inc. Vs.Teva Pharmaceuticals, 520 F.3d.
+1358 OrthoMcNeil Pharmaceutical Inc. Vs. Mylan Laboratories Inc., 840 F.2d 902
+Grain Processing Vs. American Maize, 231 F.3d 1339 CAFC Yamanouchi
+Pharmaceutical Co. Ltd. Vs.Danbury Pharmacal Inc., MANU/USFD/0845/2012 Otsuka
+Pharmaceutical Co. Ltd. Vs. Sandoz Inc. and Apotex Inc., 550 U.S. 398 (2007)
+KSR International Co. Vs. Teleflex Inc., 471 F.3d 1369 Eli Lilly And Company
+and Lilly Industries Ltd. Vs. Zenith Goldline Pharmaceuticals, Inc., 676 F.3d
+at 1072 In re Cyclobenzaprine, 619 F.3d 1346 (Fed Cir 2010) Daiichi Sankyo Co.
+Ltd. Vs. Matrix Labs Ltd., decision of United States District Court in Civil
+Action No.04-2355(JLL titled Altana Pharma Vs. Kudco, 858 F. Supp.2d 341 OSI
+Pharmaceuticals Vs. Mylan Pharmaceuticals Inc. & Pfizer Inc., Genentech Inc.
+Vs. Mylan Pharmaceuticals Inc., Teaching of EP `226, Teaching of EP `851,
+Teaching of EP `498, Teaching of EP `507, „Isosterism and Molecular medication
+in drug design‟ by C.W. Thornber, decision of Boards of Appeal of the European
+Patent Office in case No. T 0467/94 titled Eisai Co. Ltd., decision of Boards
+of Appeal of the European Patent Office in case No. T0156/95 titled Hoechst
+Marion Inc., decision of Boards of Appeal of the European Patent Office in
+case No. T 0643/96 titled Beecham Group PLC.
+
+140\. Before proceeding to test the issue of obviousness and lack of inventive
+steps on the facts of the present case, it would be appropriate to note the
+legal position. Sections 2(1)(j) and 2(1)(ja) Indian Patents Act define
+‗Invention' and ‗Inventive step' as under:-
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 76 of 106
+
+> "2(1)(j) "invention" means a new product or process involving an inventive
+> step and capable of industrial application;
+
+> 2(1)(ja) "inventive step" means a feature of an invention that involves
+> technical advance as compared to the existing knowledge or having economic
+> significance or both and that makes the invention not obvious to a person
+> skilled in the art;
+
+141\. Section 64 of the Patents Act, 1970 empowers the Appellate Board and the
+High Court to revoke a patent granted subject to other provisions in the Act
+for being obvious under Section 64(1)(f) which reads as under:-
+
+> "64(1)(f) That the invention so far as claimed in any claim of the complete
+> specification is obvious or does not involve any inventive step, having
+> regard to what was publicly known or publicly used in India or what was
+> published in India or elsewhere before the priority date of the claim:"
+
+142\. From a bare reading of Section 64(1)(f) of the Patents Act,1970 it is
+evident that ‗obviousness' and ‗lack of inventive steps' have to be seen
+vis-a- vis facts publically known or publically used in India or published in
+India or elsewhere before the priority date. The priority date of US ‗498 and
+IN `774, the suit patent is March 30, 1995, and thus teachings prior thereto
+can only be seen. Both US ‗534 and US ‗766 are admittedly not prior arts and
+thus could not have been used to test obviousness.
+
+143\. Whether an invention involves ‗novelty' and an ‗inventive step' or is
+‗obvious' is a mixed question of law and fact, depending on the facts and
+circumstances of each case. Though no absolute or uniform formula can be laid
+down to ascertain obviousness however certain broad criteria have been laid
+down in the various decisions.
+
+144\. Obviousness has to be strictly and objectively judged. In the decision
+RFA (OS) Nos.92/2012 & 103/2012 Page 77 of 106 reported as (1979) 2 SCC
+511Bishwanath Prasad Vs. Hindustan Metal Industries (para 25) the Supreme
+Court laid down the principles to test ‗inventive step' as under:-
+
+> 25\. Another test of whether a document is a publication which would
+> negative existence of novelty or an "inventive step" is suggested, as under:
+
+> "Had the document been placed in the hands of a competent draftsman (or
+> engineer as distinguished from a mere artisan), endowed with the common
+> general knowledge at the „priority date‟, who was faced with the problem
+> solved by the patentee but without knowledge of the patented invention,
+> would he have said, „this gives me what I want?‟ (Encyclopaedia Britannica;
+> ibid). To put it in another form: „Was it for practical purposes obvious to
+> a skilled worker, in the field concerned, in the state of knowledge existing
+> at the date of the patent to be found in the literature then available to
+> him, that he would or should make the invention the subject of the claim
+> concerned?‟ [Halsbury, 3rd Edn., Vol. 29, p. 42 referred to by Vimadalal, J.
+> of Bombay High Court in Farbwerke Hoechst & B. Corporation v. Unichem
+> Laboratories [AIR 1969 Bom 255 (Bom HC)] .]"
+
+> 145\. To test obviousness the first test required to be applied is to see
+> who is an ordinary person skilled in art (POSA) and what are its
+> characteristics.
+
+The features of a person skilled in the art are that of a person who practices
+in the field of endeavour, belongs to the same industry as the invention,
+possesses average knowledge and ability and is aware of what was common
+general knowledge at the relevant date.
+
+146\. The Supreme Court of United States in the decision reported as 383 U.S.
+1(1966) William T. Graham et al. Vs. John Deere Company of Kansas  RFA (OS)
+Nos.92/2012 & 103/2012 Page 78 of 106 City et al. analyzed the factual
+determination of the level of ordinary skill in the art which analysis was
+followed with approval in 218 U.S. P.Q. 865 Environmental Designs Ltd. Vs.
+Union Oil Company of California, 702 F.2d 1005Orthopedic Equipment Co. Inc.
+Vs. The United States, 864 F.2d 757Newell Companies, Inc. Vs. Kenney
+Manufacturing Company and 501 F.3d 1254Daiichi Sankyo Co., Ltd. Vs. Apotax,
+Inc. The decisions laid down the following principle factors, though not
+exhaustive, as under:-
+
+> "In determining the level of ordinary skill in the art, you should first
+> determine whether there was a number of people who regularly worked to solve
+> the type of problem that the invention solved, and, if so, determine the
+> level of ordinary skill of such people at the time the invention was made.
+> You must consider the level of skill as to the time the invention was made.
+> Among the factors that may be considered in your determination are:
+
+(1) The various ways that others sought to solve the problems existing;
+
+(2) The types of problems encountered;
+
+(3) The rapidity with which new inventions are made in this art; (4) The
+sophistication of the technology involved; and (5) The educational background
+of those actively working in the field."
+
+147\. The triple test of obviousness has been laid down by the U.S. Supreme
+Court in KSR International Co (supra) i.e. ‗teaching, suggestion, or
+motivation'. Noting that the analysis was objective, it was held:-
+
+> "Under § 103, the scope and content of the prior art are to be determined;
+> differences between the prior art and the claims at issue are to be
+> ascertained; and the level of ordinary skill in the pertinent art resolved.
+> Against this background, the obviousness or nonobviousness of the subject
+> matter is determined. Such secondary considerations as commercial success,
+> long felt but unsolved needs, failure of others, etc.,  RFA (OS) Nos.92/2012
+> & 103/2012 Page 79 of 106 might be utilized to give light to the
+> circumstances surrounding the origin of the subject matter sought to be
+> patented." Id., at 17-18."
+
+148\. In Windsurfing International Inc (supra) the Court of Appeals noted the
+four steps to answer the question of obviousness which were followed in
+Pozzoli SPA (supra) as under:-
+
+> "(i) identifying the inventive concept embodied in the patent;
+
+> (ii) imputing to a normally skilled but unimaginative addressee what was
+> common general knowledge in the art at the priority date;
+
+> (iii) identifying the differences if any between the matter cited and the
+> alleged invention; and
+
+> (iv) deciding whether those differences, viewed without any knowledge of the
+> alleged invention, constituted steps which would have been obvious to the
+> skilled man or whether they required any degree of invention."
+
+149\. In Eisai Co., Ltd. (supra) the Board of Appeals of European Patent
+Office applying the problem solution approach which consists essentially in
+
+(a) identifying the closest prior art, (b) assessing the technical results (or
+effects) achieved by the claimed invention when compared with the closest
+state of the art established, (c) defining the technical problem to be solved
+as the object of the invention to achieve these results, and (d) examining
+whether or not a skilled person starting from the closest prior art ―would‖
+arrive at something falling within claim by following the suggestion made in
+the prior art held that when deciding upon inventive step in relation to
+pharmacologically active compounds it is not essential whether a particular
+substructure of a compound could be replaced by another known isosteric  RFA
+(OS) Nos.92/2012 & 103/2012 Page 80 of 106 one, but whether information was
+available on the impact of such a replacement on the pharmacological activity
+of the specific group of compounds concerned.
+
+150\. Expressing a note of caution, the Bombay High Court in F.H. & B. Corp.
+(supra) guarded the Courts of law against the common human failing of being
+wise after the event in regarding something that has been discovered by
+research as obvious. In Grain Processing (supra) the Court noted that care
+must be taken to avoid hindsight reconstruction by using the patent in suit as
+a guide through the MAZE of prior art references in the right way so as to
+achieve the result of the claims in suit. In Pfizer Inc. Vs. Teva
+Pharmaceuticals (supra) it was held that a patent challenger however must
+demonstrate the selection of a lead compound based on its promising useful
+properties, not a hindsight driven search for structurally similar compounds.
+Similar caution was advanced in Yamanouchi Pharmaceutical Co. Ltd. (supra) and
+Otsuka Pharmaceutical Co. Ltd.(supra).
+
+151\. From the decisions noted above to determine obviousness/lack of
+inventive steps the following inquires are required to be conducted: Step No.1
+To identify an ordinary person skilled in the art, Step No.2 To identify the
+inventive concept embodied in the patent, Step No.3 To impute to a normal
+skilled but unimaginative ordinary person skilled in the art what was common
+general knowledge in the art at the priority date.
+
+Step No.4 To identify the differences, if any, between the matter cited and
+the alleged invention and ascertain whether the differences are ordinary
+application of law or involve various different steps requiring multiple,
+theoretical and practical applications,  RFA (OS) Nos.92/2012 & 103/2012 Page
+81 of 106 Step No.5 To decide whether those differences, viewed in the
+knowledge of alleged invention, constituted steps which would have been
+obvious to the ordinary person skilled in the art and rule out a hideside
+approach.
+
+152\. On the various tests as noted above, there is no dispute between Cipla
+and Roche however the dispute arises whether the teaching of prior art
+document should be considered as a whole, whether there should be no teachings
+away and whether evidence to try merely on structural similarity can form the
+basis for selection of lead compound in a prior art.
+
+153\. In Otsuka Pharmaceutical Co. Ltd. (supra) it was held -
+
+> "A patent is invalid if an alleged infringer proves, by clear and convincing
+> evidence, that the differences between the claimed subject matter and the
+> prior art are such that the subject matter as a whole would have been
+> obvious at the time the invention was made to a person having ordinary skill
+> in the pertinent art."
+
+154\. In re: Dillon relied upon by learned counsel for Cipla, though the
+majority held that a prima facie case for obviousness of chemical composition
+is established if there is structural similarity between claimed and prior art
+subject matter, proved by combining references or otherwise, and if prior art
+gives reason or motivation to make claimed composition however, the minority
+judgment noting various authorities held that Courts have expressed
+dissatisfaction on the earlier rule that ‗structural obviousness' alone was
+deemed to create a presumption of unpatentability. The minority held that the
+weight of the authorities would show that structural similarity of the prior
+art compound cannot be the criteria alone and the prior art must prima facie
+suggest both similar structure and property  RFA (OS) Nos.92/2012 & 103/2012
+Page 82 of 106 before the burden shifts to the applicant to prove the
+unexpected differences. Even in 444.2d 581 re: John R. Slemniski the Court
+held that similarity of structure alone was insufficient for prima facie
+unpatentability. Thus to show obviousness besides structural similarity there
+should be a reason or motivation shown in the prior art to make the particular
+structural change in order to achieve the properties that the applicant was
+seeking.
+
+155\. In Pfizer Inc. Vs.Teva Pharmaceuticals(supra) the Court of Appeals with
+regard to obviousness inter alia held as under:-
+
+> The determination of obviousness is a legal conclusion based on underlying
+> facts. Allergan, Inc. v. Sandoz Inc., 726 F.3d 1286, 1290-91 (Fed.Cir.
+> 2013). After a bench trial, we review the district court's factual findings
+> for clear error and its conclusions of law de novo. Honeywell Int'l, Inc. v.
+> United States, 609 F.3d 1292, 1297 (Fed.Cir. 2010). A patent claim is
+> invalid for obviousness if "the differences between the claimed invention
+> and the prior art are such that the claimed invention as a whole would have
+> been obvious before the effective filing date of the claimed invention to a
+> person having ordinary skill in the art to which the claimed invention
+> pertains." 35 U.S.C. §
+
+> 103\. The "underlying factual considerations in an obviousness analysis
+> include the scope and content of the prior art, the differences between the
+> prior art and the claimed invention, the level of ordinary skill in the art,
+> and any relevant secondary considerations[,]" which include "commercial
+> success, long-felt but unsolved needs, failure of others, and unexpected
+> results." Allergan, 726 F.3d at 1290-91 (citations omitted). Patent
+> invalidity must be established by clear and convincing evidence. Microsoft
+> Corp. v. i4i Ltd. P'ship, 131 S.Ct. 2238, 2242 (2011).
+
+> Whether a new chemical compound would have been prima facie obvious over
+> particular prior art compounds follows a two-part inquiry under our
+> precedent. First, the court  RFA (OS) Nos.92/2012 & 103/2012 Page 83 of 106
+> determines whether a chemist of ordinary skill in the art would have
+> selected the asserted prior art compound as a lead compound, or starting
+> point, for further development. Eisai Co. v. Dr. Reddy's Labs., Ltd., 533
+> F.3d 1353, 1359 (Fed.Cir. 2008). A lead compound is a compound in the prior
+> art that would be "most promising to modify in order to improve upon its
+> activity and obtain a compound with better activity." Takeda Chem. Indus.,
+> Ltd. v. Alphapharm Pty., Ltd., 492 F.3d 1350, 1357 (Fed.Cir. 2007). The
+> selection analysis may be guided by evidence of the compound's pertinent
+> properties, such as chemical activity or potency. See Eli Lilly & Co. v.
+> Zenith Goldline Pharm., Inc., 471 F.3d 1369, 1378 (Fed.Cir. 2006). Mere
+> structural similarity between a prior art compound and the claimed compound
+> does not inform the lead compound selection. Otsuka Pharm. Co. v. Sandoz
+> Inc., 678 F.3d 1280, 1292 (Fed.Cir. 2012); see Daichii Sankyo Co. v. Matrix
+> Labs., Ltd., 619 F.3d 1346, 1354 (Fed.Cir. 2010).
+
+> Proof of obviousness of a chemical compound "clearly depends on a
+> preliminary finding that one of ordinary skill in the art would have
+> selected [a particular prior art compound] as a lead compound." Takeda, 492
+> F.3d at 1357. The second step of the obviousness analysis requires a showing
+> that the prior art would have taught a skilled artisan to make "specific
+> molecular modifications" to a lead compound so that the claimed compound may
+> be made with a reasonable expectation of success. Id. at 1356-57.
+
+> (emphasis supplied)
+
+156\. In Eli Lilly And Company and Lilly Industries Ltd. (supra) the Court of
+Appeals held as under:-
+
+> ".....As taught by Yamanouchi Pharm. Co. and other precedent, mere
+> identification in the prior art of each component of a composition does not
+> show that the combination as a whole lacks the necessary attributes for
+> patentability, i.e. is obvious. In re Kahn, 441 F.3d 977, 986 (Fed. Cir.
+> 2006) (citing In re Rouffet, 149 F.3d 1350, 1355 (Fed. Cir. 1998)).
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 84 of 106
+
+> Rather, to establish a prima facie case of obviousness based on a
+> combination of elements in the prior art, the law requires a motivation to
+> select the references and to combine them in the particular claimed manner
+> to reach the claimed invention."
+
+> "Furthermore, Lilly overcame any prima facie case of obviousness. Among
+> other things, Lilly proved extensive secondary considerations to rebut
+> obviousness. The trial court found the evidence clearly established four of
+> the five proffered secondary considerations. Findings of Fact and
+> Conclusions of Law, 364 F.Supp.2d at 852-74, 905-12. Lilly established (1) a
+> long-felt and unmet need; (2) failure of others; (3) industry acclaim; and
+> (4) unexpected results. Id. The record shows a long-felt need for a safer,
+> less toxic, and more effective clozapine-like drug; a decade (or more) of
+> failure to find a replacement for clozapine; a reasonable amount of
+> commercial success for olanzapine; and a number of awards for olanzapine as
+> indicators of industry acclaim. Id. at 852-53. Specifically, the trial court
+> noted a "long-felt but unsolved need for a safe atypical antipsychotic from
+> 1975 until 1990," as well as extensive evidence supporting the other
+> objective criteria.Id. at 832-34, 906. The trial court also discussed the
+> unexpected differences between the closest analog, Compound `222 and
+> olanzapine, most of which focused on olanzapine not raising cholesterol
+> levels in dogs, and a comparison of some humans tests with other similar
+> drugs that raised CPK. Id. at 853-73. In sum, these objective criteria
+> buttressed the trial court's conclusion of nonobviousness."
+
+157\. Thus though initially ‗structural obviousness' alone was deemed to
+create a presumption of unpatentability however the Courts expressing
+dissatisfaction with the Rule opined that the properties were also material to
+show unpatentability of new chemical and must be considered. Thus prior art
+disclosure should not merely be structurally similar compound but also at
+least to some degree demonstrate the same desired property which  RFA (OS)
+Nos.92/2012 & 103/2012 Page 85 of 106 is relied on for the patentability of
+the new compound. In other words ‗idea of new compounds is not separable from
+the properties that were sought by the inventor when making the compounds and
+structure and properties are essential compounds of the invention as a whole'.
+(See in re: Dillon (supra)).
+
+158\. Thus obviousness is a question of law based on facts and the burden to
+prove is on the party which alleges however after the party which alleges
+makes out a prima facie case of invalidity on the ground of obviousness, the
+burden shifts on the inventor to disprove obviousness.
+
+159\. In the counter claim Cipla pleads that the closest prior art to the suit
+patent is Example 51 of EP ‗226 with a IC 50 value which is as under:-
+
+> "Example 51 2-Bromoethyle methyl either (0.834 g) was added to a stirred
+> mixture of 6, 7-dihydroxy-4-(3‟- methylanilino) Quinazoline (0.534 g),
+> potassium carbonate(0.828 g) and DMA (10 ml). The mixture was stirred at
+> ambient temperature for 16 hours. The mixture was evaporated and the residue
+> was partitioned between ethyl acetate and water. The organic layer was dried
+> (mgso4) and evaporated. The residue was purified by column chromatography
+> using increasingly polar mixtures of methylene chloride and methanol as
+> eluent. The gum so obtained was dissolved in ethyl acetate (4 ml) and
+> acidified by the addition of a saturated solution of hydrogen chloride in
+> diethyl ether. The precipitate was isolated. There was thus obtained
+> 6,7-di-(2-methoxyethoxy)-4-(3‟-methylanilino) quinazoline hydrochloride
+> (0.292 g) M.P. 218-220oC. NMR Spectrum: (CD3SOCD3) 2.34 (s, 3H), 3.36 (s,
+> 6H), 3.75-3.8 (m, 4H), 4.1-4.5 (m, 4H), 7.14 (d, 1H), 7.37 (t, 1H), 7.40 (s,
+> 1H), 7.48 (m, 2H) 8.35 (s, 1H), 8.79 (s, 1H);
+
+> Elemental Analysis: Found C, 59.8; H,6.4;N, 9.9; C21H25N3O4. 1HCl requires
+> C, 60.O; H, 6.2; N, 10.0%"
+
+160\. Further Markush Formla of EP ‗226 is as under:-
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 86 of 106
+
+161\. The claim in EP ‗226 also notes-
+
+> ―n is 1 or 2 and each R2 is independently hydrogen, hydroxyl, halogeno,
+> trifluoromethyl, amino, nitro, cyano, (1-4C)alkyl, (1- 4C)alkoxy,
+> (1-4C)alkylamino, di-[(1-4C)alkyl]amino, (1- 4C)alkylthio,
+> (1-4C)-alkylsulphinyl or (1-4C)alkylsulphonyl;"
+
+162\. After referring to Example 51 of EP ‗226, Cipla refers to EP 0635507
+(i.e. EP ‗507) and states that POSA would be motivated to modify the said lead
+compound in order to substitute the 3rd methyl on the phenyl ring with
+ethynyl. The motivation to Example 51 of EP ‗226 provided by from EP ‗507 is
+as under:-
+
+> "[ 0014] According to a further aspect of the present invention there is
+> provided a tricyclic derivative of the formula wherein R1 and R2 together
+> form a group of the formula -N=CH-NH-, - N=CH-O-, -N=CH-S-, -N=N-NH-,
+> -NH-N=CH-, -NH-CH=CH- , -NH-CO-NH-, -NH-CO-O-, -NH-CO-S-, -NH-NH-CO-, -
+> N=CH-CH=CH-, -N=N-CH=CH-, -N=CH-N=CH-, -N=CH- CH=N- or -NH-CO-CH=CH- (with
+> in case a nitrogen atom being located at the 6-position of the quinazoline
+> ring) and the 5- or 6-membered ring so formed may optionally bear one or two
+> substituents, any substituent on an available nitrogen atom being selected
+> from (1-4C)alkyl, (3-4C)alkynyl, halogeno-(1- 4C)alkyl, hydroxy-(1-4C)alkyl,
+> (2-4C)alkanoyloxy-(1-4C)alkyl, (1-4C)alkoxy-(1-4C)alkyl, cyano-(1-4C)alkyl,
+> amino-(1- 4C)alkyl, (1-4C)alkylamino-(1-4C)alkyl and di-[(1-
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 87 of 106
+
+> 4C)alkyl]amino-(1-4C)alkyl, and any substituent on an available carbon atom
+> being selected from halogeno, amino, carbarmoyl, cyano, (1-4C)alkyl, (2-4C)
+> alkenyl, (2-4C)alkynl, (1-4C)alkoxy, (1-4C)alkylthio, (1-4C) alkylsulphinyl,
+> (1-
+
+> 4)alkylsulphonyl, (1-4C)alkylamino, di-[(1-4C)alkyl]amino, (2- 4C)alkanoyl,
+> N-(1-4C)alkylcarbamoyl, N, N-di-[(1- 4C)alkyl]carbamoyl,
+> halogeno-(1-4C)alkyl, hydroxyl-(1- 4C)alkyl, (2-4C)alkanoyloxy-(1-4C)alkyl,
+> (1-4C)alkoxy-(1- 4C)alkyl, Cyano-(1-4C)alkyl, amino-(1-4C)alkyl, (1-
+> 4C)alkylamino-(1-4C)alkyl and di-[(1-4C)alky]amino-(1- 4C)alkyl; and M is
+> the integer 1, 2 or 3 and each R3 is independently hydrogen, halageno,
+> trifluoromethyl, hydroxyl, amino, nitro, cyano, (1-4C)alkyl, (1-4C)alkoxy,
+> (1-4C)alkylamino, di-[(1-
+    
+    
+          4C)alkyl]amino       or    (2-4C)alkanoylamino;       or      a
+          pharmaceutically-acceptable salt thereof."
+                                                (emphasis supplied)
+    
+
+> 163\. Cipla then seeks to apply the concept of ‗bioisosteric replacement' to
+> the 3rd position of the phenyl ring of Example 51 of EP ‗226 using the
+> Grimm's Hydride Displacement theory as under:-
+
+> Table 1: Grimm's Hydride Displacement Law C N O F Ne Na CH NH OH FH CH2 NH2
+> OH2 FH2 CH3 NH3 OH3 CH4 NH4
+
+> 164\. It is thus claimed that the trivalent ―N‖ and ―CH‖ groups being known
+> bioisosteric equivalents having similar chemical and physical properties
+> that confer similar biological properties to a chemical compound the patent
+> claim  RFA (OS) Nos.92/2012 & 103/2012 Page 88 of 106 has been reached at.
+
+165\. A perusal of the evidence of Mr. Ashwani Nagia DW-3 the expert witness
+of Cipla would show that he lead no evidence whatsoever either on EP ‗507 or
+bio-isosterism. DW-3 a Professor at the School of Chemistry, University of
+Hyderabad is Ph.D in Chemistry from Yale University and had been a professor
+of Chemistry for over 20 years. DW-3 was given the suit patent, counter claim
+of Cipla, written statement of Roche to counter claim, replication of Cipla
+along with documents relating to EP 0477700, US 4138590, US 5427766, US
+5736534 and WO 193004047 Exhibit DW-3/2 to DW-3/6. DW-3 was required to opine
+on the following issues:-
+
+> "A. Whether the compound Erlotinib hydrochloride is obvious to a person
+> skilled in the art in view of one or more compounds disclosed in EP 0566226
+> and having regard to the other documents supplied to me and the general
+> state of art?
+
+> B. Whether the compound Erlotinib hydrochloride as claimed in the suit
+> patent is a combination of polymorphs A and B and whether the suit patent
+> covers polymorph B, free of polymorph A as taught in US 6900221?"
+
+166\. The deposition of DW-3 in his evidence by way of affidavit on issue No.A
+as noted above i.e. on obviousness is as under:-
+
+> "5. For the purpose of the aspect of obviousness, I have in particular read
+> IN `774 and EP `226 as well as EP 0477700, US 4138590, US 5427766, US
+> 5736534 and WO 193004047.
+
+> 6\. I was in particular required to consider the teachings and compounds
+> contained in EP `226 and to give my opinion as to the inventive contribution
+> in IN `774 having regard to the compounds disclosed herein including the
+> specific compound taught in EP `226 namely "6,7-di-(2-methoxyethoxy)-4-)3‟-
+> methylanilino) quinazoline", referred to at page 18 of EP `226  RFA (OS)
+> Nos.92/2012 & 103/2012 Page 89 of 106 lines 16-17, read with EP 0477700, US
+> 4138590, US 5427766, US 5736534 and WO 193004047.
+
+> 7\. EP `226 is an invention of Astra Zeneca relating to quinazoline
+> derivatives possessing anticancer activity. The main finding of EP `226 is
+> that certain quinazoline derivatives possess anticancer activity believed to
+> arise from their receptor tyrosine kinase inhibitory properties. While
+> quinazoline derivatives were known before the EP `226 patent but the
+> anticancer properties of such compounds were not known widely and a major
+> step in this area was claimed to be made by Astra Zeneca as disclosed in its
+> EP `226 patent. Like the disclosure contained in IN `774 patent, EP `226
+> also covers a large number of compounds covered by the general formula 1
+> therein (though there is specific disclosure of several compounds by way of
+> example). Each of the disclosed compound in EP „226 is said to have
+> anticancer properties and the several compounds disclosed includes the
+> compound - 6,7- di-(2-methoxyethoxy)-4-)3‟-methylanilino) quinazoline, which
+> may be expressed by a formula as set out hereunder.
+
+> 8\. On the other hand, the structure of the compound Erlotinib Hydrochloride
+> as claimed in IN `774 is as under:-
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 90 of 106
+
+> 9\. I say that if one would make a structural comparison, it can be said
+> without doubt that the two structures are identical in nature barring the
+> substituents inasmuch as -CH3 (methyl) in 3rd position in EP `226 is
+> replaced with - C≡C(ethynl) in IN `774.
+
+> 10\. In order to appreciate the relevant of the close resemblance of the
+> structure of the said two compounds one has to look into them more closely.
+> It has to be particularly seen whether there was any motivation or otherwise
+> any teaching in the art that could have prompted the patent holder (a person
+> skilled in the art) to substitute methyl with ethynl in 3rd position.
+
+> 11\. Having gone through EP 0477700, US 4138590, US 5427766, US 5736534 and
+> WO 193004047, it is evident that there is a clear teaching that methyl and
+> ethynyl may be used interchangeably. However, it is pertinent to state that
+> while they may be used interchangeably, there is evidence in the aforesaid
+> document to show that there is no fixed pattern or one cannot lay down a
+> hypothesis as to the superiority of one over the other as a matter of rule.
+> In some cases methyl is found to be superior to ethynyl and in some cases
+> vice versa.
+
+> 12\. When I refer to EP `700, I find that there are three tables namely
+> Table -1, 2 and 3. In Table 2, the properties of compounds having methyl and
+> ethynyl substituents are shown to have identical MIC value, but Table 3
+> shows that methyl and ethynyl showing a marginally higher value. It is,
+> therefore, suggested in EP `700 that both alkyl and alkynyl can be RFA (OS)
+> Nos.92/2012 & 103/2012 Page 91 of 106 interchangeably used in antiviral
+> agents.
+
+> 13\. In US `590 column-10 the comparative data in the table indicates that
+> the methyl substitution gives a better blood platelet aggregator than the
+> compound having ethynyl substituent. Thus, US `590 goes to teach that one
+> may use methyl, ethynyl or phenyl interchangeably. Similar in US `766 column
+> 3 - H, methyl, ethynyl or vinyl are used interchangeably.
+
+> 14\. US `534 is a patent owned by Pfizer, the sole inventor of which is Lee
+> D. Arnold who incidentally is one of the two inventors of IN `774, US `534
+> is a continuation in part (CIP) of application 200259 dated Feb 23, 1994
+> while IN `774 finds basis in a CIP of application PCT/IB95/00436 dated June
+> 6, 1995\. It is stated that before the priority date of IN `774 , Mr. Arnold
+> had himself studied methyl, ethyl, ethenyl derivatives of 4-heterocycle
+> substituted quinazolines which are very close analogues of the claimed
+> compound in IN `774. In my opinion, Mr. Arnold was wholly aware of the
+> interchangeability of methyl and ethynyl amongst others at the C-phenyl ring
+> appended to the 4-heterocycle position of quinazoline and on the basis of
+> such knowledge it would have been obvious for him to try a similar
+> interchangeability approach in N-phenyl quinazolines. If Mr. Arnold in IN
+> `774 patent had included both methyl and ethynyl in the 3rd position, then
+> compound having methyl would have been identical to the aforesaid compound
+> of EP `226 and I would presume that for such reason reference to methyl as a
+> interchangeably usable substituent in place of ethynyl was omitted. While
+> the patent holder has acknowledged several other documents as prior art, he
+> did not make any reference to the US application number 736534 (which was
+> prior in time) which contained vital information as to the
+> interchangeability of methyl and ethynyl. I say that while developing a new
+> product, a scientist would try all possible options which makes sense in the
+> relevant field of technology and which has been successfully tried by others
+> although it may not produce the desired result in a specific application.
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 92 of 106
+
+> Likewise, it could have been possible that the ethynyl substitution in the
+> 3rd position in IN `774 would not have worked but still it was always a
+> reasonable approach on the part of the research scientist to try such
+> alternative which in other applications have proved successful.
+
+> 15\. I say that strategies of rational drug design are commonplace and in
+> drug designing, molecular modifications are routinely done. A drug designer
+> would as a matter of routine replace substituent, ring, group of atoms etc.
+> for various aspects of the lead component for example pharmacology,
+> pharmacokinetic, toxicology, side effects, half life etc. Bio-isosterism of
+> which I find reference in the counter claim of the Defendant is a mechanism
+> directed to strategies for molecular modification and drug design.
+
+> 16\. In my opinion, there could not have been a guarantee to the inventor
+> that the ethynyl substitution would work but due to successful use of both
+> methyl and ethynyl in an interchangeable manner in several chemical
+> compounds, it was not at all surprising to substitute methyl with ethynyl.
+> Therefore, in my opinion such substitution cannot be said to be an inventive
+> step forward in respect of the compound of formula A of IN `774 when the
+> compound 6,7-di-(2-methoxyethoxy)-4-)3‟- methylanilino quinazoline was
+> taught in EP `226 as a quinazoline compound possessing anticancer
+> properties."
+
+167\. In cross-examination DW-3 in reply to Question No.51 admitted that he
+was not aware about the clinical trials of Example 51 of EP ‗226 and that he
+read the document EP `226 but with the specific intent of understanding and
+answering question A in para 4 of his affidavit as noted above and that his
+understanding of term ‗obvious‟ to a person skilled in the art describes a
+situation in which a person carrying out routine experiments for a sufficient
+period of time is able to make a judgment decision based on the accumulated
+information and background that he has gained from his experience and  RFA
+(OS) Nos.92/2012 & 103/2012 Page 93 of 106 reading of literature and that he
+was not aware that the concept of hindsight is disregarded, disallowed,
+rejected and scorned upon in patents law. He admitted that he conducted search
+on Google and Wikipedia a few days before the cross-examination and found a
+few hits which gave him the information but most of it was general in nature.
+He admitted that Google and Wikipedia had in fact started their activities
+after the priority date of claim and that he had not even worked in drug
+discovery and development stages.
+
+168\. From the evidence of DW-3 the only witness examined on the issue of
+obviousness the following conclusions can be drawn:-
+
+a) DW-3 was not an ordinary person skilled in the art being a professor of the
+Chemistry and not a medicinal Chemist. He had not worked in drug discovery and
+developmental stages himself and had read about the above aspects in the
+freely available literature;
+
+b) His evidence was based on the documents i.e. the patent claim IN 196774 (IN
+‗774), counter claim of Cipla, written statement of Roche to the counter claim
+and replication of Cipla, documents relating to patents EP 0477700, US
+4138590, US 5427766, US 5736534, WO 193004047, US ‗498, US `221 and EP `226;
+
+c) The evidence of DW-3 was beyond the pleadings as in the written statement
+and counter claim Cipla did not base its claim on EP ‗700, US ‗590, US `766,
+US `534 and WO `047 but EP `507;
+
+d) DW-3 based his theory of obviousness only on the basis of structural
+similarity between Example 51 of EP `226 and IN `774;
+
+e) DW-3 did not depose about bioisosterism or Grimm's Hydride  RFA (OS)
+Nos.92/2012 & 103/2012 Page 94 of 106 Displacement theory;
+
+f) DW-3 looked at documents not available on the priority date being Google
+and Wikipedia;
+
+g) The evidence of DW-3 was a hindsight evidence as he read the document EP
+`226 but with specific intent of understanding and answering question ‗A'
+posed to him;
+
+h) DW-3 was not aware whether Example 51 of EP `226 went to clinical trials.
+He admitted that he had no knowledge on this point from his personal reading;
+
+i) DW-3's understanding of the term ―person skilled in the art‖ describes a
+situation in which a person carrying out routine experiments for a sufficient
+period of time is able to make a judgment decision based on the accumulated
+information and background that he has gained from his experience and reading
+of literature;
+
+j) DW-3's understanding of obviousness in terms of simple example was that if
+a cleaning liquid could clean refrigerator, television and DVD player, it
+could be used to wipe away a coffee spill on the dashboard of the car and that
+is what he could explain in simple language without actually knowing its exact
+definition;
+
+k) DW-3 had no personal knowledge and the knowledge of EP `700, US `590, US
+`766, US `534 and WO `047 was based on the documents supplied. He was not
+aware that the concept of hindsight is disregarded, disallowed, rejected and
+scorned upon. DW-3 admitted that he had not worked in the drug discovery and
+development stages himself and he only read about  RFA (OS) Nos.92/2012 &
+103/2012 Page 95 of 106 aspects in freely available literature;
+
+l) Even as per DW-3, the so called five prior arts used are not from analogous
+arts i.e. they are not drugs on cancer. He admitted EP `700 was an antiviral
+compound, US ‗590 a prostaglandin derivative used for dealing with platelet
+aggregation inhibitor not being an EGFR inhibitor, even US ‗766 and WO ‗0047
+were not EGFR inhibitors and US ‗534 was published on August 31, 1995 thus not
+a prior art.
+
+169\. The onus was on Cipla to show prima facie obviousness whereafter the
+burden would have shifted to Roche. However DW-3 has not been able to satisfy
+the tests laid down above thus could not establish prima facie that the suit
+patent was obvious. Consequently, the action of Cipla seeking invalidity of
+the suit patent on the ground of obviousness fails.
+
+Lack of title
+
+170\. In the written statement and counter claim Cipla claims lack of title to
+the suit patent in favour of Roche. The pleadings in this regard in para 16 of
+the written statement of Cipla are that the application number 537/DEL/1996
+was filed as a convention application in India on March 13, 1996 by one Pfizer
+Inc. seeking priority from U.S. patent application dated March 30, 1995 under
+the title ―Quinazoline Derivatives‖. The exact status of Roche's patent and
+its ownership is neither known nor is fully established and no documents which
+vest any right in Roche of ownership or ‗Right to Sue‟ have been placed on
+record. In counter claim revocation is not sought for lack of title as could
+not be sought under Section 64 of the Patents Act. During the course of
+argument, learned counsel for Cipla argued that the plaintiffs in the suit are
+F. Hoffmann-La Roche Ltd. (in short Roche)  RFA (OS) Nos.92/2012 & 103/2012
+Page 96 of 106 plaintiff No.1 and OSI Pharmaceuticals, Inc. (in short OSI)
+plaintiff No.2. In the plaint the claim of Roche and OSI is that OSI owned a
+patent with Pfizer Products but the said company has not been impleaded as a
+plaintiff. Further in the plaint it is stated that OSI along with M/s Pfizer
+Products Inc. applied for grant of a patent in respect of drug Erlotinib and
+its process vide application No.537/DEL/1996 on March 13, 1996 however the
+copy of the patent application would reveal that OSI along with M/s Pfizer Inc
+was the applicant and not M/s Pfizer Product Inc. Further it is the case of
+Roche that it entered into a Development, Collaboration and Licensing
+Agreement with OSI wherein Roche obtained a license to use, sell and offer for
+sale, the licensed product including the drug Erlotinib however said document
+has neither been filed nor produced by the plaintiffs. There being no document
+to support how the interest was transferred from Pfizer Inc. to Pfizer Product
+Inc., the claim of OSI that it was a joint owner of the suit patent with
+Pfizer Product Inc. is not established. Even during patent prosecution after
+the first assignment dated May 18, 2005 of the patent application of Pfizer
+Inc. to Pfizer Product Inc. the second assignment took place wherein the
+patent application had been assigned jointly in favour of Pfizer Product Inc.
+and OSI. The first assignment document dated May 18, 2005 is given a
+retrospective effect from May 03, 2004 which is impermissible and not in
+accordance with law. The second alleged assignment agreement dated May 05,
+2004 is on a stamp paper dated August 12, 2005 and could not have been dated
+May 05, 2004 especially when the first assignment is dated May 18, 2005\. No
+evidence having been led qua ownership of the suit patent, Roche's appeal
+claiming be a joint owner is liable to be dismissed. Reference is made to
+Sections 20, 50, 68 and 69 of the Patents Act. It is  RFA (OS) Nos.92/2012 &
+103/2012 Page 97 of 106 further argued that even if accepting OSI to be a
+joint owner, it became joint owner only on May 05, 2004 , thus prior thereto
+it had no right in the suit patent. The assignment deeds are neither properly
+stamped nor registered and having failed to prove so, Roche has failed to
+prove its title in the suit patent.
+
+171\. In response Roche contends that no issue was settled in this regard and
+as per the counter claim and written statement, the challenge to the validity
+is to the extent mentioned under Section 64 of the Patents Act and none of the
+grounds under Section 64 relate to the lack of title in the suit patent. The
+grant of suit patent IN ‗774 has not been denied by Cipla and any question
+regarding title pertains to rectification of the Register of Patents under
+Section 71 of the Patents Act for which jurisdiction exclusively vests with
+the Intellectual Property Appellate Board (IPAB). Section 71 read with
+Sections 117C and 117D of the Patents Act bars the jurisdiction of this Court
+to try such an issue. Notwithstanding the preliminary objections, Roche claims
+that the patent application was filed by Pfizer Inc. on March 13, 1996 and by
+virtue of assignment deed dated May 18, 2005 w.e.f. May 03, 2004 assignment
+took place from original applicant Pfizer Inc to its wholly owned subsidiary
+Pfizer Product Inc. assigning its right in the patent application
+537/DEL/1996. By way of further assignment deed dated May 05, 2004 Pfizer
+Product Inc assigned part of their right to OSI, thus OSI became a joint
+applicant/owner of the rights to accrue pursuant to application
+No.537/DEL/1996 for which a fresh form was filed seeking change of the names
+of applicants. Further Pfizer Inc and OSI had also entered into a
+collaboration research agreement on April 01, 1986 which was renewed on April
+01, 1991 and April 01, 1996. The patent  RFA (OS) Nos.92/2012 & 103/2012 Page
+98 of 106 document issued on July 06, 2007 w.e.f. February 23, 2007 is in the
+name of Pfizer Product Inc. and OSI. Further by way of agreement dated January
+08, 2001 OSI granted exclusive license to Roche in relation to suit patent and
+vide agreement dated September 07, 2008 Roche, Pfizer Product Inc. and OSI
+confirmed exclusive license agreement dated January 08, 2001 which documents
+are part of patent office record except Collaborative Research Agreement which
+was exhibited as Ex.PW1/4. Referring to decision in AIR 2003 SC 1608 Renu Devi
+Vs. Mahinder Singh & Ors. reliance is placed on the principle of feeding grant
+by estopple and that a third party cannot question the title.
+
+172\. Cipla in the written statement claims invalidity for the reason that the
+exact status and ownership of Roche in the suit patent is not known. Lack of
+title not being a ground of revocation under Section 64 of the Patents Act, to
+press this point CIPLA ought to have insisted on settlement of a issue on lack
+of title. Be that as it may even treating this issue to be subsumed in issue
+No.3 i.e. ―Whether the plaintiffs are entitled to permanent injunction as
+prayed for? OPP‖ CIPLA cannot claim any relief on this count in view of the
+bar under Section 117C and 117D of the Patents Act.
+
+173\. Section 71 provides for adjudication of an application in relation to
+entries made in the Register. Section 117C provides for a procedure for
+application for rectification before the Appellate Board under Section 71 and
+Section 117C bars the jurisdiction of the Civil Court. Sections 117C and 117D
+read as under:-
+
+> "71 - Rectification of register by Appellate Board - (1) The Appellate Board
+> may, on the application of any person aggrieved-
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 99 of 106
+
+> (a) by the absence or omission from the register of any entry; or
+
+> (b) by any entry made in the register without sufficient cause; or
+
+> (c) by any entry wrongly remaining on the register; or
+
+> (d) by any error or defect in any entry in the register, make such order for
+> the making, variation or deletion, of any entry therein as it may think fit.
+
+> (2) In any proceeding under this section the Appellate Board may decide any
+> question that may be necessary or expedient to decide in connection with the
+> rectification of the register. (3) Notice of any application to the
+> Appellate Board under this section shall be given in the prescribed manner
+> to the Controller who shall be entitled to appear and be heard on the
+> application, and shall appear if so directed by the Board. (4) Any order of
+> the Appellate Board under this section rectifying the register shall direct
+> that notice of the rectification shall be served upon the Controller in the
+> prescribed manner who shall upon receipt of such notice rectify the register
+> accordingly.
+
+> 117C. Bar of jurisdiction of courts, etc.- No court or other authority shall
+> have or, be entitled to, exercise any jurisdiction, powers or authority in
+> relation to the matters referred to in sub- section (2) of section 117A or
+> section 117D.
+
+> 117D. Procedure for application or rectification, etc., before Appellate
+> Board.- (1) An application1[for revocation of a patent before the Appellate
+> Board under section 64 and an application for rectification of the register]
+> made to the Appellate Board under section 71 shall be in such form as may be
+> prescribed. (2) A certified copy of every order or judgment of the Appellate
+> Board relating to a patent under this Act shall be communicated to the
+> Controller by the Board and the Controller shall give effect to the order of
+> the Board and shall, when so directed, amend the entries in, or rectify, the
+> register in accordance with such order."
+
+RFA (OS) Nos.92/2012 & 103/2012 Page 100 of 106
+
+174\. Thus, the claim of Cipla qua the invalidity of the suit patent on the
+ground of lack of title cannot be decided in suit proceedings before this
+Court.
+
+175\. Further though CIPLA pleads that the application for grant of suit
+patent being application number 537/DEL/1996 was filed by Pfizer Inc. it does
+not dispute that the suit patent was granted in the joint name of Pfizer
+Products Inc. and OSI Pharmaceuticals Inc. (OSI). Ex.DW1/10 to Ex.DW4/43
+documents from the office of Controller of Patents would evince that the
+convention application for patent in Form 2A was filed by Pfizer Inc. being
+the assignee of inventors Rodney Caughren Schnur and Lee Daniel Arnold on
+March 13, 1996 claiming priority from March 30, 1995 being the date of
+application in USA. During the pendency of the patent prosecution in India,
+Pfizer Inc. the original applicant executed an assignment deed dated May 18,
+2005 w.e.f. May 03, 2004 assigning its right in the application 537/DEL/1996
+to Pfizer Products Inc. exhibited as Ex.DW4/1(colly). By way of further
+assignment dated May 05, 2004 Pfizer Product Inc. assigned a part of their
+right to OSI and thus Pfizer Product Inc. and OSI became joint owners of
+application No.537/DEL/1996 exhibited as Ex.DW4/1 (collectively) and a fresh
+form in this regard was filed. The letter patent document issued on July 06,
+2007 was in the name of Pfizer Product Inc. and OSI.
+
+176\. Cipla pleads that two assignment deeds dated May 18, 2005 and May 05,
+2004 were back-dated i.e. retrospective operation of the assignment was
+conferred. In the decision reported as (1998) 7 SCC 348 Life Insurance
+Corporation of India Ltd.& Anr. Vs. Dharam Vir Anand Supreme Court laid RFA
+(OS) Nos.92/2012 & 103/2012 Page 101 of 106 down that while construing the
+contractual clause the words and term therein must be given effect to and when
+it uses different expressions, ordinarily those different expressions would
+convey different meanings.
+
+177\. Further it is not the case of Cipla that on the date of retrospective
+assignment by Pfizer Inc. to Pfizer Products Inc., Pfizer Inc. had no right,
+title in the property i.e. the patent application. Even assuming no right
+could be created retrospectively in favour of Pfizer Products Inc., right
+certainly vested on May 18, 2005 the date of assignment agreement and from
+which date it vested in OSI. The patent i.e. IN ‗774 was granted on February
+23, 2007 when OSI had been assigned the rights in the patent.
+
+178\. The Registration Act does not envisage a deed of assignment of a
+trademark/copyright or patent to be compulsorily registered not being an
+immovable property. In the decision reported as (2004) 13 SCC 49 Collector of
+Central Excise, Ahmedabad Vs. Vikshara Trading & Investment (P) Ltd. & Anr.
+the Supreme Court repelling the contention regarding deed of assignment of
+trademark to be registered held that the mere fact that the assignment was not
+registered would not alter the position.
+
+179\. In response to the contention of learned Senior counsel for Cipla that
+as per Section 50 of the Patents Act, no right can be assigned, transferred or
+licensed without the consent of the co-owner, Roche contends that the
+exclusive license granted to Roche by OSI in relation to the suit patent vide
+agreement dated January 08, 2001 was ratified/confirmed by an agreement
+between Roche, Pfizer Products Inc. and OSI on September 04, 2008. Learned
+Senior counsel for Cipla referring to the evidence of PW-1 Shiv Prasad Laud
+canvasses that Development Collaboration and Licensing Agreement dated January
+08, 2001 entered into between Roche and OSI was RFA (OS) Nos.92/2012 &
+103/2012 Page 102 of 106 not produced. No doubt the documents have not been
+exhibited by the plaintiffs' witnesses during their evidence. Cipla does not
+deny that the documents were part of patent office record which was duly
+summoned by Cipla. We agree with the contention of learned counsel for the
+Roche that since no issue having been settled with regard to the lack of title
+in the suit patent Roche was not required to prove the same.
+
+180\. Even treating as the learned Single Judge has done that the issue of
+title of Roche was subsumed in the issue of injunction we note that OSI is a
+co-patentee of the suit patent and it being a co-plaintiff the suit cannot be
+dismissed on this ground. In the decision reported as (2007) 2 SCC 551 Prem
+Lata Nahata & Anr. Vs. Chandi Prasad Sikaria the Supreme Court laid down that
+the objection of misjoinder of parties or of causes of action, is only a
+procedural objection and it is open to the Court to proceed with the suit
+notwithstanding such defects and if the suit results in a decision, the same
+cannot be set aside in appeal merely on this ground in view of Section 99 CPC.
+
+181\. A Single Judge of the Madras High Court in the decision reported as 2014
+SCC OnLine Mad 163 M.C. Jayasingh Vs. Mishra Dhatu Nigam Ltd. while dealing
+with Sections 48, 50 and 51 of the Patents Act, 1970 held that for non-joinder
+of a co-patentee, the claim of the plaintiff would not fail and we concur. It
+was held-
+
+> "29. Keeping the above in mind, let me now examine the question whether the
+> non joinder of the co-patentee is fatal to the claim of the plaintiff or
+> not.
+
+> 30\. Sub-Section (1) of Section 50 of the Patents Act, 1970 makes it clear
+> that where a patent is granted to two or more persons, each of those persons
+> shall, unless an agreement to the RFA (OS) Nos.92/2012 & 103/2012 Page 103
+> of 106 contrary is in force, be entitled to an equal undivided share in the
+> patent. After thus ensuring to all the patentees, an equal and undivided
+> share in the patent under Sub-Section (1), the Act also imposed an embargo
+> under Sub-Section (3) of Section 50 to the effect that a licence under the
+> patent cannot be granted and a share in the patent cannot be assigned by one
+> of those persons except with the consent of the other person or persons.
+> However, this embargo was made subject to the other provisions and subject
+> to Section 51 and to any agreement for the time being in force.
+
+> 31\. But, in so far as the enforcement of the rights conferred by the Act is
+> concerned, Sub-Section (2) of Section 50 enables each of the co-patentees to
+> seek redressal, even without accounting to the other persons. Sub-Section
+> (2) of Section 50 reads as follows:
+
+> "Subject to the provisions contained in this section and in Section 51,
+> where two or more persons are registered as grantee or proprietor of a
+> patent, then, unless an agreement to the contrary is in force, each of those
+> persons shall be entitled, by himself or his agents, to the rights conferred
+> by Section 48 for his own benefit without accounting to the other person or
+> persons."
+
+> 32\. The rights conferred by Section 48 of the Act are (i) the exclusive
+> right to prevent third parties from the act of making, using, offering for
+> sale, selling or importing for those purposes that product which is the
+> subject matter of the patent and (ii) the exclusive right to prevent third
+> parties from the act of using that process and from the act of using,
+> offering for sale, selling or importing for those purposes the product
+> obtained directly by a process which is the subject matter of the patent.
+
+> 33\. Therefore, it is clear from Sub-Section (2) of Section 50 read with
+> Section 48 that each of the grantees or proprietors of a patent, is entitled
+> by himself or by his agents, to enforce the rights conferred under Section
+> 48, for his own benefit without accounting to the other person or persons.
+> Coupled with the fact that under Section 50(3), a co-patentee cannot even
+> assign RFA (OS) Nos.92/2012 & 103/2012 Page 104 of 106 or grant a licence in
+> respect of his share, without the consent of the other persons, the
+> provisions of Section 50(2) makes the suit maintainable at the instance of
+> one of the co-patentees.
+
+182\. Each of the co-patentee being entitled by itself or by its agent to
+enforce rights conferred under Section 48 of the Patents Act, 1970 and there
+being no challenge to the ownership of OSI, plaintiff No.2 in the suit and a
+co-patentee, the objection in terms of Section 50 of the Patents Act thus
+fails. The suit patent cannot be held to be invalid for lack of title, nor is
+the suit liable to be dismissed on the ground that Roche has not proved its
+license for the reason title of OSI plaintiff No.2 to the suit patent is
+established and it being a co-plaintiff, suit was maintainable. We also note
+that lack of title is not a ground for revocation under Section 64 of the
+Patents Act. Thus, we find no merit in the contention raised by Cipla seeking
+dismissal of the suit on the ground of lack of title.
+
+Conclusion
+
+183\. To conclude, affirming the impugned judgment and decree dated September
+07, 2012 passed by the learned Single Judge in so far counter claim filed by
+Cipla seeking revocation of IN ‗577 in favour of Roche has been dismissed, we
+set aside the impugned decision dismissing suit for injunction filed by Roche.
+But keeping in view the fact that the life of the patent in favour of Roche in
+India would expire in March, 2016 we do not grant the injunction as prayed for
+by Roche against Cipla (because as noted above there was no interim injunction
+in favour of Roche and due to said reason Cipla continued to manufacture and
+sell Erlocip). We decree that Cipla would be liable to render accounts
+concerning manufacture and sale of Erlocip, for which purpose suit filed by
+Roche against Cipla is restored with  RFA (OS) Nos.92/2012 & 103/2012 Page 105
+of 106 direction that it be listed before the learned Joint Registrar who
+would record evidence pertaining to the profits made by Cipla concerning the
+offending product. Thereafter the report of the learned Joint Registrar shall
+be placed before the learned Single Judge as per roster for appropriate
+orders. RFA (OS) No.103/2012 is dismissed. RFA (OS) No.92/2012 is partially
+allowed as above.
+
+184\. Costs allowed in favour of Roche and against Cipla in sum of `5,00,000/-
+(Rupees Five Lakhs only).
+
+    
+    
+            (PRADEEP NANDRAJOG)                     (MUKTA GUPTA)
+                JUDGE                                  JUDGE
+    
+    NOVEMBER 27, 2015
+    Mamta/ vkm
+    
+    
+    
+    
+     RFA (OS) Nos.92/2012 & 103/2012                               Page 106 of 106
+     
+

@@ -1,0 +1,1132 @@
+
+
+Income Tax Appellate Tribunal - Mumbai
+
+Dcit Cen Cir 20, Mumbai vs Purnandu Jain (Huf), Mumbai on 8 January, 2018
+
+    
+    
+                   आयकर अपील य अ धकरण "एल" यायपीठ मुंबई म।
+         IN THE INCOME TAX APPELLATE TRIBUNAL "L" BENCH, MUMBAI
+    
+     BEFORE SHRI SHAMIM YAHYA, AM AND SHRI SANDEEP GOSAIN, JM
+    
+                  आयकर अपील सं./I.T.A. Nos. 926 & 927/Bang/2012
+                ( नधारण वष / Assessment Year: 2009-10 & 2010-11)
+    M/s. Shell India Markets Private           ITO (International Taxations),
+    Limited                                    Ward 2(1), Bangalore
+                                         बनाम/
+    Trent House, First Floor, G Block,         (now transferred to ITO (TDS)-
+    Plot No. C-60, Bandra Kurla Complex,  Vs.  LTU, Mumbai))
+    Bandra (E), Mumbai-400 051
+     थायी ले खा सं . /जीआइआर सं . /PAN/GIR No.AAICS1404 P
+             (अपीलाथ /Appellant)              :           (   यथ / Respondent)
+    
+    
+         अपीलाथ क ओर से / Appellant by        :    Shri Madhur Agarwal &
+                                                   Shri Dinesh patil
+            यथ क ओर से/Respondent by          :    Shri M. V. Rajguru
+    
+    
+                      सनु वाई क तार ख /
+                                              :    30.10.2017
+                      Date of Hearing
+                      घोषणा क तार ख /
+                                              :    08.01.2018
+               Date of Pronouncement
+    
+                                    आदे श / O R D E R
+    Per Shamim Yahya, A. M.:
+    
+    
+
+These are appeals by the assessee directed the against order of the ld.
+
+Commissioner of Income Tax (Appeals)-IV, Bangalore dated 30.05.2012 and
+pertains to the assessment years 2009-10 and 2010-11.
+
+2\. The common grounds of appeal read as under:
+
+2
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+Assessment year 2009-10
+
+1\. The learned CIT(A) has erred, in law, and in facts, by upholding the order
+issued by the Income-tax Officer (International Taxation), Ward-2(1),
+Bangalore ("the learned AO") under Section 201(1) and 201(1A) of the Act. The
+Appellant craves that the orders of the learned CIT(A) and the learned AO,
+being based on incorrect interpretation of law, are bad in law and hence, be
+set aside and the demand be quashed.
+
+2\. The learned CIT(A) has erred in law and in facts by upholding the order of
+the learned AO by holding that the Appellant was under an obligation to deduct
+tax at source under Section 195 of the Act, on the payments made by the
+Appellant to Shell International Exploration and Production BV ("SIEP BV"),
+Shell International BV ("SIBV") and Shell Global Solutions International BV
+("SCSI BV"), collectively known as Shell Overseas entities for acquiring
+access/user rights of software.
+
+3\. Based on the facts and circumstances of the case, the learned CIT(A) has
+erred in law and in facts, by upholding the order of the learned AO, and
+hence, erred on the following counts:
+
+> 3.1 Holding that that the grant of user rights amounts to transfer of right
+> in respect of a copyright.
+
+> 3.2 Not appreciating the distinction between a transaction involving the
+> 'transfer of copyrighted article' and 'transfer of rights in a copyright'.
+> 3.3 Holding that when a person has the exclusive right to do or authorise
+> the doing of the acts specified in the section 14 of the Copyright Act, 1957
+> in the case of a literary work in which copyright subsists, such right is
+> considered as copyright, irrespective of the fact whether that person is
+> permitted to commercially exploit the work or authorised to use the work for
+> his own use.
+
+4\. The learned CIT(A) has erred in law and in facts, by upholding the order
+of the learned AO by concluding that the consideration paid for the use of
+copyrighted software is in the nature of "royalty", both under the Act and the
+Double Taxation Avoidance Agreement between India and Netherlands ("the Tax
+Treaty").
+
+5\. The learned CIT(A) has erred in law and in facts, by not accepting the
+contentions filed by the Appellant while distinguishing the case of the
+Appellant from the facts of the decision of the Karnataka High Court in the
+case of CIT Vs Samsung Electronics Co Ltd and Others (ITA No 2808 of 2006 and
+others).
+
+6\. The learned CIT(A) has erred in law and in facts, by upholding the order
+of the learned A.O., deeming the Appellant as an assessee - in -default for
+non- deduction of taxes at sources under section 195 of the Act.
+
+3
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+
+7\. The learned CIT(A) has erred in law and in facts, by confirming a sum of
+Rs.5499,090 (# 1) as payable the appellant under section 201(1) of the Act for
+A.Y. 2009-10.
+
+8\. The learned CIT(A) has erred in law and in facts, by confirming the amount
+of Rs.14,74,990 (# 2) as interest under section 201(1A) of the Act for A.Y.
+2009-10.
+
+(# 1) - Rs.4926,310/- for A.Y. 2010-11 (# 2) - Rs.9,66,000/- for A.Y. 2010-11
+
+3\. During the financial years 2008-09 and 2009-10, the assessee company had
+made payments towards purchase of licensed software from the following foreign
+companies, collectively known as Shell Overseas entities:
+
+    
+    
+    
+    Sl.   Name of the foreign company to               whom F.Y.               Total payment
+    No.   payments were made                                                           in Rs.
+    01    Shell International BV                                2008-09            25,43,600
+    02    Shell International BV                                2009-10             21,70,256
+    03    Shell Global Solutions International                  2008-09           1,39,69,003
+    04    Shell Global Solutions International                  2009-10           1,82,73,640
+    05    Shell International Exploration & Production BV       2008-09           3,84,78,291
+    06    Shell International Exploration & Production BV       2009-10           2,76,15,756
+    07    Shell International Ltd.                              2009- 10            12,03,637
+    
+    
+
+All the above payments were made without deducting any tax at source. The
+assessee is an Indian Company and the payees are foreign companies
+incorporated in Netherlands.
+
+4\. The assessing officer was of the opinion that assessee should have
+deducted tax at source from these payments which in his opinion were royalty
+payments. In response, the assessee submitted as under:
+
+4
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+
+1\. That it has been granted only right to access a particular software
+application and has not obtained any right to commercially exploit the
+software and make multiple copies of the same. According to the assessee for
+the purpose of categorizing income from a transaction as amounting to royalty
+what is to be seen is whether the transferee has the right of commercial
+exploitation of the intellectual property contained therein. In the instant
+cases, as it is not permitted to exploit the copyright commercially, the
+assessee does not have this rights associated with a copyright in terms of
+Sec. 14 of the Copyright Act. Therefore in such case, what it acquired cannot
+be considered as a copyright right;
+
+2\. That it has obtained only a user right in the copyrighted article in the
+form of software applications and not the right of use of copyright. Whereas
+use of copyright encompasses exploitation of the rights embedded in a
+copyright, a mere user right is a limited right and consideration paid for
+such user right cannot be regarded as consideration for use of or right to use
+a copyright;
+
+3\. None of the suppliers have provided the assessee with source code or any
+technical documentation pertaining to software application. The intellectual
+property right associated with the software does not vest with the assessee
+but is retained by the concerned supplier. Hence the payments cannot be held
+for the use of copyright but the payment would be towards use of copyrighted
+article;
+
+4\. Under the Indian Copyright Act, a mere transfer of a computer programme to
+another person does not amount to allowing the use of the copyright by such
+other person. However, if the owner of copyright authorizes the other person
+to reproduce the work in any material form or to make any translation of the
+work or to make any adaptation of the work it would be construed as the grant
+of a right to use the copy right in the computer program. The right granted to
+the assessee to use the software should not be regarded as the right to use
+the copyright since it involves only a mere transfer of user right of a
+copyrighted article to another person and does not to allowing the use of the
+copyright by such other person.
+
+In support of its claim that the payments in question are not fees for
+technical services, it is submitted that no managerial, technical or
+consultancy services were received.
+
+It was also submitted that as the sum paid to the above companies not taxable
+in India, there is no liability to deduct tax in respect of the same. The
+assessee  5 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private
+Limited quoted several case laws in support of its claim wherein it has been
+held that the payments for the import of software is not royalty.
+
+5\. However assessing officer was not convinced. He elaborately considered the
+issue and concluded as under;
+
+> From the above discussion, it has been proved that the payment made by the
+> assessee to the Suppliers, as listed above, during the F.Ys. 2008-09 &
+> 2009-10 for the use of software of which these Suppliers are the copyright
+> holders, constitute Royalty, both under Sec. 9(1)(vi) of the Income Tax Act,
+> 1961, and under the Double Taxation Avoidance Agreement between India and
+> Netherlands, and is chargeable to tax in India. Sec. 195 of the Income Tax
+> Act, 1961, casts an obligation on the person making payment of the sums
+> chargeable to tax to a foreign company to deduct tax at the time of making
+> such payment, or at the time of crediting the amount, whichever is earlier.
+> But no tax had been deducted by the assessee thereon either at the time of
+> crediting or subsequently. As the assessee has failed to discharge its
+> obligation to deduct tax at source as stipulated u/s. 195 of the Income Tax
+> Act, 1961, as per the provisions of sec. 201(1) of the Income Tax Act, 1961,
+> for the asst. years 2009-10 and 2010-11. I am holding the assessee as
+> assessee in default in respect of tax not deducted at source in respect of
+> royalty payable to the Suppliers listed above.
+
+6\. Against the above order, the assessee appealed before the ld. Commissioner
+of Income Tax (Appeals).
+
+7\. The ld. Commissioner of Income Tax (Appeals) agreed with the finding of
+the Assessing Officer. He noted the submission of the assessee and reliance by
+the assessee upon the Hon'ble Delhi High Court decision in the case of DCIT
+vs. Ericsson A.B., New Delhi (in ITA 504/2007 and others vide order dated
+23.12.2011). However, he proceeded to place reliance upon the decision of
+Hon'ble Karnataka High Court in the case of CIT vs Samsung Electronics Co.
+Ltd. & others (in ITA No. 2808 of 2006  6 ITA No. 926 & 927/Bang/2012 M/s.
+Shell India Markets Private Limited and others). Making quotations from the
+aforesaid order, the ld. Commissioner of Income Tax (Appeals) concluded as
+under:
+
+> In the circumstances when it is not in the dispute that the issues raised in
+> the appeal are squarely covered against the appellant in decision of the
+> jurisdictional High Court ( Supra) which is binding on the undersigned , the
+> undersigned is duty bound to follow the same . Further, through finance Bill
+> 2012, the explanation 4 & 5 (which reads as under) are proposed to be
+> inserted with retrospective effect with effect from 01-06-1976 to clause
+> (vi) to sub- section (1) of Sec.9 of the Income tax Act, also makes it clear
+> that the payment for the ' use of software amount to royalty :
+
+> "Explanation 4:- For the removal of doubts, it is hereby clarified that the
+> transfer of all or any rights in respect of any right, property or
+> information includes and has always included transfer of ail or any right
+> for use or right to use a computer software (including granting of a
+> licence) irrespective of the medium through which such right is transferred.
+
+> "Explanation 5:- For the removal of doubts, it is hereby clarified that the
+> royalty includes and has always included consideration in respect of any
+> right, property or information, whether or not-
+
+> a) the possession or control of such right, property or information is with
+> the payer;
+
+> b) such right, property or information is used directly by the payer;
+
+> c) the location of such right, property or information is in India.
+
+> In view of the above, tax u/s. 201(1) and consequential interest u/s.
+
+> 201(1A) of the Income Tax Act, 1961 imposed by the Assessing Officer for the
+> above assessment years is upheld.
+
+8\. Against above order, the assessee is in appeal before us.
+
+9\. We have heard both the counsel and perused the records. The ld. Counsel of
+the assessee submitted that the issue is covered in favour of the assessee by
+several  7 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private
+Limited decisions of the ITAT, Mumbai. He submitted that the ld. Commissioner
+of Income Tax (Appeals) has followed the Hon'ble Karnataka High Court
+decision. However, he submitted that there is contrary Hon'ble Delhi High
+Court decision which is in favour of the assessee. He submitted that in the
+absence of any jurisdictional High Court decision, the ratio from the Hon'ble
+Apex Court decision in the case of CIT v. Vegetable Products Ltd. [1973] 88
+ITR 192 (SC) has been followed by the ITAT Mumbai and following the Hon'ble
+Delhi High Court decision, the issue has been decided in favour of the
+assessee.
+
+10\. Per Contra, the ld. Departmental Representative submitted that the ld.
+
+Commissioner of Income Tax (Appeals) in this case has followed the Hon'ble
+Karnataka High Court decision which was the jurisdictional High Court for the
+ld.
+
+Commissioner of Income Tax (Appeals). Hence, the ld. Departmental
+Representative submitted that no-fault can be found in the order of the ld.
+Commissioner of Income Tax (Appeals) who has followed his jurisdictional High
+Court decision as per the mandate of law.
+
+11\. In rejoinder, the learned counsel of the assessee submitted that the
+taxpayer entity in this case has got merged with the concern whose
+jurisdiction lies with assessing officer and the ITAT at Mumbai. Hence, he
+pleaded that the jurisdictional High Court in this present appeal before the
+ITAT is not Hon'ble Karnataka High Court. The ld. Counsel of the assessee has
+made the following submissions:
+
+8
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited Shell
+Technology India Private Limited ("STIPL"), a company having its registered
+office in Bangalore merged with Shell India Markets Private Limited ('the
+Appellant'). The appointed date of merger as per the amalgamation scheme
+(enclosed as Annexure 1) was 1 April 2008. The amalgamation scheme was
+approved by the Bangalore High Court vide order dated 22 February 2010 and
+Madras High Court vide order dated 24 February 2010.
+
+STIPL had made certain payments for the financial years 2008-09 and 2009-10
+i.e. after the appointed date of merger but before the effective dated of the
+merger. However, on account of the appointed date of the merger, being 1st
+April, 2008, the payments were deemed to have been made by the Appellant, as
+all acts done by STIPL after the appointed date was deemed to have been done
+by STIPL. The issue involved in the instant case is whether tax was required
+to be withheld on the payments made by the Appellant to Non-Resident ('NR')
+entities in the financial years 2008-09 and 2009-10.
+
+In the instant case, the order under section 201 (1) & 201 (1A) of the Income-
+tax Act, 1961 ('the Act') was passed I* the Officer in Bangalore on 11 March
+2011 and the 'CIT(A)' order was passed by the CIT(A), Bangalore on 30 May
+2012\. The Appellant against the order passed by the CIT(A), Bangalore, filed
+an appeal before the Bangalore Income Tax Appellate Tribunal ('ITAT') on 24
+July 2012.
+
+The Appellant filed an application for the transfer of files to the Mumbai
+jurisdiction before the AO vide letter dated 30 July 2012 (enclosed as
+Annexure
+
+2). Subsequently, the AO passed an order dated 24 August 2012 (enclosed as
+Annexure 3) for transfer of files from Bangalore to Mumbai as the Appellant
+(amalgamated company) is assessed to tax in Mumbai. On receipt of the order,
+the Appellant filed an application for transferring the captioned appeals from
+Bangalore ITAT to Mumbai ITAT on 29 August 2012 (enclosed as Annexure
+
+4). Considering the application filed by the Appellant, the President of the
+Tribunal transferred the optioned appeals to Mumbai ITAT vide order dated 4
+January 2013 (enclosed as Annexure 5). Similarly, the riles relating to the
+captioned appeals were also transferred to LTD, Mumbai.
+
+In the instant case, the transaction for payment to NR entities is actually a
+transaction entered by the transferee i.e. the Appellant as stated aforesaid.
+The Appellant at the date of passing of the order by the AO was assessed to
+tax in Mumbai and the AO as well as the CIT(A) has passed the order in the
+name of the Appellant. Thus, the date on which the transactions were
+undertaken as well  9 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets
+Private Limited as the dates on which the orders were passed, the jurisdiction
+of the Appellant was at Mumbai.
+
+We also wish to bring to your Honors notice, Instruction No. 8/2011 dated 11
+August 2011 (attached as Annexure 6) relating to Instructions on process of
+filing appeals to ITAT. Para 7 of the said Instruction specifies the procedure
+to be followed on the transfer of jurisdiction outside of CIT's charge during
+the pendency of appeal. It provides that in a case of transfer of jurisdiction
+over a case involving two different Benches of ITAT during the pendency of
+appeal, necessary steps shall betaken by the transferor CIT to request the
+ITAT Bench where the case impending to transfer the same to the Bench of ITAT
+having jurisdiction over the cases of transferee AO.
+
+12\. The ld. Counsel of the assessee submitted that jurisdiction of court is
+determined by situs of transferee assessing officer. For this proposition, he
+placed reliance upon following case laws:
+
+1\. CIT vs. AAR BEE Industries [2013] 36 taxmann.com 308 (Delhi)
+
+2\. CIT vs. Sahara India Financial Corpn. Ltd. [2007] 162 Taxman 357 (Delhi)
+
+13\. The ld. Counsel of the assessee submitted case laws for the proposition
+that decision of non jurisdictional High Court is not binding on Mumbai ITAT.
+
+14\. Accordingly, the learned counsel submitted that the Mumbai ITAT has
+jurisdiction over the assessee and, the Mumbai ITAT has the jurisdiction to
+decide on the issue raised by the assessee of non-deduction of taxes on
+payment to NR entities based on the jurisdictional decisions [Bombay High
+Court (in the matter of service tax) and Mumbai ITAT]. The Mumbai ITAT while
+deciding on the issue is not bound by the decision followed by the CIT(A) in
+the case of Samsung Electronics (supra).
+
+10
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+
+15\. We have carefully considered the submissions and propositions. We find
+ourselves in agreement with the submission of the ld. Counsel of the assessee
+that there is no Hon'ble Bombay High Court decision on this issue. In such
+circumstances, the co-ordinate bench of this tribunal in National Stock
+Exchange of India Ltd. (in ITA no.7735/Mum./2011 dated 18.05.2017) has
+considered identical issue as under:
+
+> 6\. We have heard both the counsel and perused the records.
+
+> 7\. Ld. Counsel of the assessee submitted that the issue is squarely covered
+> in favour of the assessee by decision of Hon'ble Delhi High Court. He
+> further referred to several other case laws of tribunal in favour of the
+> assessee. The submissions of the Ld. Counsel of the assessee which were also
+> before the Ld. CIT-A in brief are as under:
+
+> "The appellant has purchased software for the internal use and is
+> operational software. The appellant was granted non-exclusive & perpetual
+> license to use the software enumerated in the agreement solely for internal
+> operation. The general terms and conditions and the restrictions under which
+> the said software is provided to the appellant, under the license agreement
+> are as follows:
+
+> (i) The appellant has no right to use, copy, duplicate or display the
+> software except as specifically provided in the agreement.
+
+> (ii) The appellant cannot make more copies of the software than what is
+> specified in the agreement.
+
+> (iii) The appellant cannot provide access to the software to anyone, other
+> than appellant's employees, contractors or consultants under a written
+> contract by which all of them would be bound by the terms and conditions as
+> are applicable to the appellant on purchase of software.
+
+> (iv) The appellant cannot sell license, distribute, pledge, lease, rent or
+> commercially share (including timeshare) the above software or any rights
+> therein.
+
+> (v) The appellant cannot modify, translate, reverse engineer, decrypt,
+> decompile, disassemble, create directive works based on, or otherwise
+> attempt to discover the above mentioned software source code or underlying
+> ideas or algorithms.
+
+> There is no acquisition of copyright which remains the property with the
+> supplier. Generally there are two types of softwares namely, "Unbranded
+> software" which is specialised and exclusively custom made to cater to the
+> 11 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+> needs of individual clients, and "Branded software" or "off-the-shelf
+> software"
+
+which is standardised and marketed as such. When off-the-shelf software is
+sold there is no doubt that the essence of such transaction is an outright
+sale. The said software purchased by the appellant company is "off the shelf"
+software/Shrink wrapped Software. The appellant company is authorized to use
+only the software and cannot tamper/copy/sale the same to any other person.
+The said software is delivered electronically by downloads from the respective
+websites. Activation key/code is then e-mailed for initialization. Software is
+then installed by putting the activation key/code and prompt-based
+installation is done thereafter. Thus, the appellant company does the
+installation by itself and no onsite support is provided by any of the
+vendors. Source code is not made available to the appellant company and it is
+provided with Activation code only for installation. Therefore, the appellant
+company does not have any copyright to give it forward to any other person to
+use. The transfer of licensed software cannot be considered as 'Royalty'
+within the meaning of Article 12(3) of the India-US Tax Treaty.
+
+As per the provisions laid down in clause (v) of Explanation (2) to section
+9(1)(vi), the consideration for transfer of all or any rights (including the
+granting of a license), inter-alia, in respect of any copyright is treated as
+royalty income. Thus, transfer of rights in respect of copyright is envisaged
+and unless the transferee does not acquire and enjoy the same rights as that
+of the transferor, it cannot be said that there is any such transfer as
+envisaged in clause (v) of Explanation (2) to section 9(1)(vi). In the instant
+case non- exclusive and non-transferable license has been granted to the
+appellant. As licensee, the appellant is allowed to use the software only for
+its own business without any liberty to loan, rent, sell, sub-license or
+transfer the said software or any rights therein. Therefore, it cannot be said
+that there is any transfer of all or any rights in the software purchased by
+the appellant. The definition of the term "Royalty" under the Indo-USA
+D.T.A.A. is as under: The term "Royalties" as used in this Article 12(3)
+means:
+
+> "a) Payments of any kind received as consideration for the use of, or right
+> to use, any copyright of a literary, artistic to use, any copyright of a
+> literacy, artistic or scientific work, including cinematograph, films or
+> work on films, tapes or other means of reproduction for use in connection
+> with radio or television broadcasting, any patent, trademark, design or
+> model, plan, secret formula or process or for information concerning
+> industrial, commercial or scientific experience, including gains derived
+> from the alienation of any such rights or properly which are contingent on
+> the productivity, or use or disposition thereof, and
+
+> (b) Payments of any kind received as a consideration for the use of, or the
+> right to use any industrial, commercial or scientific equipment,  12 ITA No.
+> 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited other than
+> payments derived by an enterprise described in Para 1 or article 8 (Shipping
+> and Air Transport) from activities described in Para 2(c) or 3 article 8."
+
+This definition is much narrower and restricted than the definition of
+"Royalty" under the Income-tax Act. In the case of Samsung Electronic Co. Ltd.
+(supra) the Bench has considered this issue and had given a finding, that
+under the Indo-US DT AA, payment made for a copyrighted article is not
+"Royalty" and that only Article '7' is attracted.
+
+The OECD Commentary clarifies the distinction between the right to use
+copyright and transfer of a copyrighted article. According to OECD, only a
+transfer that enables a transferee to commercially exploit software copyright
+will give rise to royalty income. But where the transferee gets exclusive
+rights for use, though it is short of full ownership, it will nevertheless be
+a case of sale of software. In such cases, the transaction will be outside the
+tax net in India as the said transaction will give rise to business income and
+in the absence of Permanent Establishment (PE) in India of Minitab Inc. Of
+U.S.A, business income are not be chargeable to tax in India as per Article 7
+of India -USA DT AA.
+
+There is no acquisition of the software rights in the present case and that
+the copyright will remain the property of the supplier. It is an outright sale
+of the software by the non-resident to the appellant company and thus the
+payment made by the appellant is not for "Royalty". The payments for obtaining
+computer software is in the nature of business receipts.
+
+The beneficiary of the receipts is not having any Permanent Establishment in
+India. They are not having any fixed place of business through which their
+business is wholly or partly carried on in India. Therefore, no operations
+have been carried in India i.e. no part of the business activities is carried
+in India by the non-resident sellers. Therefore, the income does not accrue or
+arise in India and hence there being no liability to income-tax in India,
+there is no withholding tax liability on such payments."
+
+8\. Various decisions relied upon by the Ld. Counsel of the assessee are as
+under:
+
+    
+    
+           (a)    DIT vs Infrasoft Ltd. (264 CTR 329) (Del He)
+           (b)    DIT vs Nokia Networks QY (358 ITR 259) (Del He)
+           (c)    DIT vs Ericsson A. B. (343 ITR 470) (Del He)
+           (d)    CIT vs Halliburton Export Inc (ITA No 363 of 2016) (Del He)
+           (e)    DDIT vs Reliance Industries Ltd (159 ITO 208) (Mum ITAT)
+           (f)    Capgimini Business Services (India) Ltd Vs ACIT (158 ITD 1)
+                  (MUM ITAT)
+           (g)    ADIT vs. Baan Global BV (ITA No 7048/Mum/2010) (Mum ITAT)
+           (h)    Galatea Limited vs CIT (157 ITD 938) (Mum ITAT)
+                                          13
+                                                          ITA No. 926 & 927/Bang/2012
+                                                    M/s. Shell India Markets Private Limited
+    
+          (i)     ADIT (IT) vs First Advantage (P) Ltd (77 taxmann.com 195)
+                  (Mum ITAT)
+    
+
+9\. Per contra Ld. DR submitted that though the Hon'ble Delhi Court has
+decided the similar issue in favour of the assessee there are Hon'ble
+Karnataka High Court decisions which are in favour of the revenue. He
+submitted that the Hon'ble Karnataka High Court has decided the issue in
+favour of the revenue in the cases of CIT V. Synopsis International Old Ltd.,
+212 Taxman 0454 (Kar.HC), dated:03-08-2010, CIT V Samsung Electronics Co. Ltd.
+& Others, (2011) 345 ITR 0494, Kar HC, dated:15.10.2011, CIT V. Wipro Ltd.
+(2011), 355 ITR 0284(Kar)/ 203 Taxman 621 (Kar.) HC, dated: 15.10.2011 and CIT
+Vs. CGI information Systems and Management consultants (P) Ltd., (2014) 48
+Taxmann.com 264 (KAR), dated: 9-6-2014. That the High court of Karnataka has
+decided the issue of software Royalty, both before the insertion of
+Explanations 4, 5 and 6 in Section 9(1)(vi) of the LT. Act by the Finance Act,
+2012 and even after their insertion. That the insertion of these Explanations
+has not altered the views of Hon'ble High Court of Karnataka and on the
+contrary the views of the Hon'ble High court have been reaffirmed.
+
+10\. Ld. DR further submitted that it's that explanation 4 inserted section
+9(1)(vi), has to be given retrospective effect, in as much as it is
+clarificatory in nature. In this regard he submitted that whether
+amendment/explanations inserted in the Income Tax Act can be read into the
+DTAA or not has to be considered on the anvil of ambulatory approach to
+interpretation of treaty, as against static approach adopted by the Hon'ble
+Delhi High Court. He further submitted that Hon'ble Bombay High Court in the
+case of CIT vs. Siemens AG, 310 ITR 320 has approved the ambulatory approach.
+Ld. DR further submitted that eminent author Klaus vogel in his commentary has
+also supported ambulatory approach. According to this approach, law in force
+as per the domestic law would be law as it stands on the date of application
+of Treaty. As against this Static Approach considers that law in force as per
+the domestic law would be law as it stood on the date of entering into of
+Treaty.
+
+11\. Ld. DR further submitted that in a recent decision in the case of DIT Vs.
+New Skies Satellite BV & Others, 382 ITR 0114, dated: 08-02-2016, the Hon'ble
+Delhi High Court in paras 48 to 50 of its order seems to have corrected its
+earlier stand regarding decision of Bombay High Court in the case of Siemens
+AG, supra and acknowledged that the Bombay High court has followed Ambulatory
+approach to interpretation of treaties. (Paras). That the Hon'ble Delhi High
+court has been very categorical in this regard when in para 50 of its order it
+has held that:
+
+".....The Bombay High court seems to accept the ambulatory approach in such a
+situation, thus allowing for successive amendments into the realm of "law in
+14 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+force". We express no opinion in this regard since it is not in issue before
+this court...."
+
+12\. Hence Ld. DR pleaded that in view of the above pleadings this issue
+should be decided in favour of the revenue.
+
+13\. We have carefully considered the submissions and perused the records.
+Before proceeding further we may refer to the relevant law and clauses of DTAA
+-
+
+Section 9(1)(vi) : The following income shall be deemed to accrue or arise in
+India. Income by way of Royalty payable by
+
+(a) the Government ; or
+
+(b) a person who is a resident, except where the royalty is payable in respect
+of any right, property or information used or services utilised for the
+purposes of a business or profession carried on by such person outside India
+or for the purposes of making or earning any income from any source outside
+India ; or
+
+(c) a person who is a non-resident, where the royalty is payable in respect of
+any right, property or information used or services utilised for the purposes
+of a business or profession carried on by such person in India or for the
+purposes of making or earning any income from any source in India : Provided
+that nothing contained in this clause shall apply in relation to so much of
+the income by way of royalty as consists of lump sum consideration for the
+transfer outside India of, or the imparting of information outside India in
+respect of, any data, documentation, drawing or specification relating to any
+patent, invention, model, design, secret formula or process or trade mark or
+similar property, if such income is payable in pursuance of an agreement made
+before the 1st day of April, 1976, and the agreement is approved by the
+Central Government :
+
+Provided further that nothing contained in this clause shall apply in relation
+to so much of the income by way of royalty as consists of lump sum payment
+made by a person, who is a resident, for the transfer of all or any rights
+(including the granting of a licence) in respect of computer software supplied
+by a non- resident manufacturer along with a computer or computer-based
+equipment under any scheme approved under the Policy on Computer Software
+Export, Software Development and Training, 1986 of the Government of India.
+Explanation 1.--For the purposes of the first proviso, an agreement made on or
+after the 1st day of April, 1976, shall be deemed to have been made before
+that date if the agreement is made in accordance with proposals approved by
+the Central Government before that date; so, however, that, where the
+recipient of the income by way of royalty is a foreign company, the agreement
+shall not be deemed to have been made before that date unless, before the
+expiry of the time allowed under sub-section (1) or sub-section (2) of section
+139 (whether fixed originally or on extension) for furnishing the return of
+income for the  15 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets
+Private Limited assessment year commencing on the 1st day of April, 1977, or
+the assessment year in respect of which such income first becomes chargeable
+to tax under this Act, whichever assessment year is later, the company
+exercises an option by furnishing a declaration in writing to the Assessing
+Officer (such option being final for that assessment year and for every
+subsequent assessment year) that the agreement may be regarded as an agreement
+made before the 1st day of April, 1976.
+
+Explanation 2.--For the purposes of this clause, "royalty" means consideration
+(including any lump sum consideration but excluding any consideration which
+would be the income of the recipient chargeable under the head "Capital
+gains") for--
+
+(i) the transfer of all or any rights (including the granting of a licence) in
+respect of a patent, invention, model, design, secret formula or process or
+trade mark or similar property ;
+
+(ii) the imparting of any information concerning the working of, or the use
+of, a patent, invention, model, design, secret formula or process or trade
+mark or similar property ;
+
+(iii) the use of any patent, invention, model, design, secret formula or
+process or trade mark or similar property ;
+
+(iv) the imparting of any information concerning technical, industrial,
+commercial or scientific knowledge, experience or skill ; (iva) the use or
+right to use any industrial, commercial or scientific equipment but not
+including the amounts referred to in section 44BB;
+
+(v) the transfer of all or any rights (including the granting of a licence) in
+respect of any copyright, literary, artistic or scientific work including
+films or video tapes for use in connection with television or tapes for use in
+connection with radio broadcasting, but not including consideration for the
+sale, distribution or exhibition of cinematographic films ; or
+
+(vi) the rendering of any services in connection with the activities referred
+to in sub-clauses (i) to (iv), (iva) and(v).
+
+Explanation 3.--For the purposes of this clause, "computer software" means any
+computer programme recorded on any disc, tape, perforated media or other
+information storage device and includes any such programme or any customized
+electronic data.
+
+Explanation 4.--For the removal of doubts, it is hereby clarified that the
+transfer of all or any rights in respect of any right, property or information
+includes and has always included transfer of all or any right for use or right
+to use a computer software (including granting of a licence) irrespective of
+the medium through which such right is transferred.
+
+16
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+Explanation 5.--For the removal of doubts, it is hereby clarified that the
+royalty includes and has always included consideration in respect of any
+right, property or information, whether or not--
+
+(a) the possession or control of such right, property or information is with
+the payer;
+
+(b) such right, property or information is used directly by the payer;
+
+(c) the location of such right, property or information is in India.
+Explanation 6.--For the removal of doubts, it is hereby clarified that the
+expression "process" includes and shall be deemed to have always included
+transmission by satellite (including up-linking, amplification, conversion for
+down-linking of any signal), cable, optic fibre or by any other similar
+technology, whether or not such process is secret;
+
+14\. The term royalty has been defined in Article 12(3) of the INDO-USA DTAA
+as under:-
+
+> "a) Payments of any kind received as consideration for the use of, or right
+> to use, any copyright of a literary, artistic to use, any copyright of a
+> literacy, artistic or scientific work, including cinematograph, films or
+> work on films, tapes or other means of reproduction for use in connection
+> with radio or television broadcasting, any patent, trademark, design or
+> model, plan, secret formula or process or for information concerning
+> industrial, commercial or scientific experience, including gains derived
+> from the alienation of any such rights or properly which are contingent on
+> the productivity, or use or disposition thereof, and
+
+> (b) Payments of any kind received as a consideration for the use of, or the
+> right to use any industrial, commercial or scientific equipment, other than
+> payments derived by an enterprise described in Para 1 or article 8 (Shipping
+> and Air Transport) from activities described in Para 2(c) or 3 article 8."
+
+We find that identical issue was considered by this tribunal in ADIT (IT) Vs.
+First Advantage P. Ltd (77.Taxmann.com 195).
+
+Where similar item and same DTAA with USA was under consideration. The
+tribunal vide order dated 11.01.2017 had held as under, in favour of the
+assessee "We have heard rival contentions and perused the record. The Ld D.R
+placed his reliance on various case laws including the decision rendered by
+Hon'ble Karnataka High Court in the case of Cit Vs. CGI Information Systems &
+Management Consultants ( P) Ltd (2014)(275 CTR 72), Synopsis International Old
+Ltd (2013)(212 Taxman 0454) and CIT Vs. Samsung Electronics Co Ltd (2011)(245
+CTR 0481) in order to support the order passed by the AO. On the contrary, the
+Ld A.R submitted that the assessee has obtained only license to use the  17
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited software.
+He submitted that the assessee is entitled to use the software for its
+internal business operations only (Clause 1 of the agreement). He submitted
+that the clause 2(b) of the agreement curtails the rights of the assessee and
+reads as under:
+
+"2(b) Licensee may not (i) (other than accessing the Software as contemplated
+by this Agreement) attempt to circumvent any security device or licensing
+restriction contained in the software; (ii) assign, loan, rent, lease,
+sublease, license, sublicense, encumber, mortgage, translate, modify, alter,
+adapt, decompile, or disassemble the software or create derivate works based
+on the software or otherwise reverse engineer the software; (iii) make copies
+of Licensor Documentation except for one internal archival copy for each
+Licensed User or (iv) remove alter, cover or obfuscate any copyright notice or
+other proprietary rights notice placed in or on or displayed by the Software
+and the Documentation, whether in machine language or human readable form..."
+
+The Ld A.R submitted that the ownership, title and interest in the IPR of the
+software vested with the US company and the assessee has no right in respect
+of the same except the license to use the software as expressly granted under
+the agreement. The Ld A.R submitted that the assessee has obtained only
+copyrighted article from the US company and not the copyright in the software.
+Accordingly he submitted that the payment made by the assessee to a
+copyrighted article, which is akin to "off the shelf" software is not royalty.
+He submitted that the Hon'ble Delhi High Court, in the case of DIT Vs.
+Ifrasoft Ltd (264 CTR 329) has taken its view in favour of the assessee in
+this matter and hence the decision rendered by Hon'ble Karnataka High Court,
+which was relied upon by the Ld D.R, need not be followed. He submitted that
+the identical issues have been decided by the co- ordinate benches of tribunal
+in various cases in favour of the assessee by following the decisions rendered
+by Hon'ble Delhi High Court. He submitted that the co-ordinate bench of Mumbai
+ITAT, in its recent decision dated 13-06- 2016 rendered in ITA
+No.7048/Mum/2010 in the case of ADIT Vs. M/s Baan Global B V (now known as
+Information Global Solution (Barneveld) BV) has considered an identical issue
+under the provisions of Income tax Act as well as India-US DTAA and has
+decided the issue in favour of the assessee. He further submitted that the
+provisions of DTAA will prevail over retrospective amendment made in the
+Income tax Act.
+
+We notice that the co-ordinate bench of tribunal has decided an identical
+issue in the case of M/s Baan Global B V (supra) has considered an identical
+issue and rendered its decision as under:
+
+"10. We have heard the rival submissions, perused the relevant finding given
+in the impugned order and also the various decisions, cited before us.
+
+18
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited The sole
+issue involved before us is, whether the payment received by the assessee on
+sale of computer software product is to be treated as income by way of
+"royalty" or business income. In case, if it is a 'business' income, then
+admittedly, assessee being a non-resident company with no permanent
+establishment in India, the same will not be taxable in India and if it is a
+"royalty", then it has to be taxed at the rate of 15% as provide under the
+treaty. Thus, the only issue for consideration is, whether the said payment
+falls within the terms of "royalty" under Article 12(4) of India- Netherland
+DTAA or under 9(1)(vi) of Income Tax Act. Here again, it is an undisputed fact
+that, assessee being a tax resident of Netherland has sought benefit under
+Indo Netherland DTAA, therefore, the payment received by the assessee from its
+Indian Subsidiary, INFOR India has to be examined under the treaty provisions.
+Briefly recapitulating the relevant facts for the purpose of our adjudication
+emanating from the impugned order is that, Assessee Company is engaged in the
+business of development and sale of computer software and also provides "other
+general services" in relation to the software. For both the activities, it has
+entered into a "distribution agreement" with its Indian subsidiary INFOR India
+which mainly functions as a distributor of computer software. So far as
+payments received from "other general services" of Rs.4,79,36,944/-, same has
+been offered to tax in India as 'fee for technical services' on which there is
+no dispute. The dispute is with regard to the payment of Rs.3,75,25,291/-
+received by the assessee company as a sale consideration for the computer
+products supplied by it. The computer software is sold "off shelf" which is
+mainly used by the Indian customer in their business for financial accounting,
+inventory management, HR management etc. INFOR India carries out marketing and
+sale of the software in India and places order with the assessee. The software
+supplied is then distributed to the Indian customers through INFOR. The
+consideration charged by INFOR India is based on terms agreed between the
+assessee and INFOR India as per the 'distribution agreement'. Under the terms
+of the agreement, as noted by the CIT(A), there is no transfer of any
+copyright in the software product. The payment received by the assessee is
+purely towards a copyrighted software product as against the payment for any
+copyright itself. The assessee does not give any right to use the copyright
+embedded in the software. In other words, the Indian Customer (or INFOR India)
+except for the limited right to access the copyright software for its own
+business purpose does not acquire any kind of right to exploit the copyright
+in the computer software. These facts have not been controverted by the
+department and, therefore, what has been incorporated and stated by the CIT(A)
+in his order is reckoned as admitted facts.
+
+19
+
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited Now, on
+these facts, we have to decide, whether the payment received by the assessee
+can be reckoned as "royalty" within the terms of article 12(4) of DTAA. Before
+that, the relevant paragraph of Article 12 dealing with the definition of
+"royalty" reads as under:-
+
+"4. The term "royalties" as used in this Article means payments of any kind
+received as a consideration for the use of, or the right to use, any copyright
+of literary, artistic or scientific work including cinematograph films, any
+patent, trade mark, design or model, plan, secret formula or process, or for
+information concerning industrial, commercial or scientific experience".
+
+From the plain reading of the article it can be inferred that, it refers to
+payments of any kind received as a consideration for the use of, or the right
+to use any 'copyright' of literary, artistic or scientific work including
+cinematograph films, any patent, trade mark, design or model, plan, secret
+formula or process, or for information concerning industrial, commercial or
+scientific experience. Thus, in order to tax the payment in question as
+"royalty", it is sine qua non that the said payment must fall within the ambit
+and scope of Para 4 of Article 12. The main emphasis on the payment
+constituting 'royalty' in Para 4 are for a consideration for the 'use of' or
+the 'right to use' any copyright.......... The key phrases "for the use" or
+"the right to use any copyright of'; "any patent.......; "or process", "or for
+information.........,"; "or scientific experience", etc., are important
+parameter for treating a transaction in the nature of "royalty". If the
+payment doesn't fit within these parameters then it doesn't fall within terms
+of "royalty" under Article 12(4). The computer software does not fall under
+most of the term used in the Article barring "use of process" or "use of or
+right to use of copyrights" Here first of all, the sale of software cannot be
+held to be covered under the word "use of process", because the assessee has
+not allowed the end user to use the process by using the software, as the
+customer does not have any access to the source code. What is available for
+their use is software product as such and not the process embedded in it.
+Several processes may be involved in making computer software but what the
+customer uses is the software product as such and not the process, which are
+involved into it. What is required to be examined in the impugned case as to
+whether there is any use or right to use of copyright? The definition of
+copyright, though has not been explained or defined in the treaty, however,
+the various Courts have consistently opined that the definition of "copyright"
+as given in the 'Copyright Act, 1957' has to be taken into account for
+understanding the concept. Section 14 of the said Act defines the 'copyrights'
+to mean as under:-
+
+20
+
+> ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+> "14.Meaning of copyright -For the purposes of this Act, "copyright" means
+> the exclusive right subject to the provisions of this Act, to do or
+> authorise the doing of any of the following acts in respect of a work or any
+> substantial part thereof, namely:-
+
+> (a) in the case of a literary, dramatic or musical work, not being a
+> computer programme, -
+
+> (i)to reproduce the work in any material form including the storing of it in
+> any medium by electronic means;
+
+> (ii)to issue copies of the work to the public not being copies already in
+> circulation;
+
+> (iii)to perform the work in public, or communicate it to the public;
+
+> (iv)to make any cinematograph film or sound recording in respect of the
+> work;
+
+> (v)to make any translation of the work;
+
+> (vi)to make any adaptation ofthe work;
+
+> (vii)to do, in relation to a translation or an adaptation of the work, any
+> of the acts specified in relation to the work in sub-clauses (i) to (vi);
+
+> (b) in the case of a computer programme,-
+
+> (i) to do any of the acts specified in clause (a);
+
+> (ii) to sell or give on commercial rental or offer for sale or for
+> commercial rental any copy of the computer programme: Provided that such
+> commercial rental does not apply in respect of computer programmes where the
+> programme itself is not the essential object of the rental."
+
+> (c) in the case of an artistic work,-
+
+> (i) to reproduce the work in any material form including depiction in three
+> dimensions of a two dimensional work or in two dimensions of a three
+> dimensional work;
+
+> (ii) to communicate the work to the public;
+
+> (iii) to issue copies of the work to the public not being copies already in
+> circulation;
+
+> (iv) to include the work in any cinematograph film;
+
+> (v) to make any adaptation of the work;
+
+> (vi) to do in relation to an adaptation of the work any of the acts
+> specified in relation to the work in sub-clauses (i) to (iv);
+
+> (d) In the case of cinematograph film,
+
+> (i) to make a copy of the film, including a photograph of any image forming
+> part thereof;
+
+21
+
+> ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+
+> (ii) to sell or give on hire, or offer for sale or hire, any copy of the
+> film, regardless of whether such copy has been sold or given on hire on
+> earlier occasions;
+
+(iii) to communicate the film to the public;
+
+(e) In the case of sound recording, -
+
+(i) to make any other sound recording embodying it;
+
+(ii) to sell or give on hire, or offer for sale or hire, any copy of the sound
+recording regardless of whether such copy has been sold or given on hire on
+earlier occasions;
+
+(iii) to communicate the sound recording to the public. Explanation: For the
+purposes of this section, a copy which has been sold once shall be deemed to
+be a copy already in circulation". Thus, the definition of 'copyright' in
+section 14 is an exhaustive definition and it refers to bundle of rights. In
+respect of computer programming, which is relevant for the issue under
+consideration before us, the copyright mainly consists of rights as given in
+clause (b), that is, to do any of the act specified in clause (a) from (i) to
+(vii) as reproduced above. Thus, to fall within the realm and ambit of right
+to use copyright in the computer software programme, the aforesaid rights must
+be given and if the said rights are not given then, there is no copyright in
+the computer programme or software. As noted by the CIT(A), under the terms of
+the agreement between the assessee and INFOR India, the agreement specifically
+forbids them from decompiling, reverse engineering or disassembling the
+software. The agreement also provides that the end user shall use the software
+only for the operation and shall not sublicense or modify the software. None
+of the conditions mentioned in section 14 of the Copyright Act are applicable.
+If the conclusion of Ld, CIT(A) are based on these facts and agreement, then
+he has righty concluded that the consideration received by the assessee is for
+pure sale of "shrink wrapped software" off the shelf and hence, cannot be
+considered as a "royalty" within the meaning of Article 12(4) of the DTAA, as
+the same is consideration for sale of copyrighted product and not to use of
+any copyright.
+
+12\. One of the issue which was raised by the Ld. DR before us is that, the
+Explanation 4 to section 9(1)(vi) which has been with brought by Finance Act
+2012 with retrospective effect in section 9(1)(vi), therefore, the meaning and
+definition of 'royalty' as given therein should be read into the DTAA. We are
+unable to appreciate this contention of the Ld. DR because the retrospective
+amendment brought into statute with effect from 01.06.1976 cannot be read into
+the DTAA, because  22 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets
+Private Limited the treaty has not been correspondingly amended in line with
+new enlarged definition of 'royalty'. The alteration in the provisions of the
+Act cannot be per se read into the treaty unless there is a corresponding
+negotiation between the two sovereign nations to amend the specific provision
+of "royalty" in the same line. The limitation clause cannot be read into the
+treaty for applying the provisions of domestic law like in Article 7 in some
+of the treaties, where domestic laws are made applicable. Here in this case,
+the 'royalty' has been specifically defined in the treaty and amendment to the
+definition of such term under the Act would not have any bearing on the
+definition of such term in the context of DTAA. A treaty which has entered
+between the two sovereign nations, then one country cannot unilaterally alter
+its provision. Thus, we do not find any merit in the contention of the Ld. DR
+that the amended and enlarged definition should be read into the Treaty."
+
+Identical view has been expressed in the following cases also:-
+
+(a) M/s Quaolcomm India P Ltd Vs. ADIT (ITA Nos. 1664 to 1667/Hyd/2011)
+
+(b) Reliance Industries Ltd & Ors (47 CCH 94)(Mum-Trib)
+
+(c) Capgemini Business Services (India) Ltd (46 CCH 253) (Mum-Trib) We notice
+that the above said decisions have been rendered in favour of the assessee by
+following the decision rendered by Hon'ble Delhi High Court in the case of
+Infrasoft ltd (supra) and other decisions rendered by Hon'ble Delhi High
+Court. Accordingly, by following the decisions rendered by the co- ordinate
+benches of the Tribunal, we uphold the orders passed by Ld CIT(A) in both the
+years under consideration."
+
+15\. In this regard we may also refer to Hon'ble Delhi High Court exposition
+on this subject in the case of DIT vs Ericsson AB 343 ITR 470 as under:
+
+> "That in order to qualify as royalty payment, within the meaning of section
+> 9(1)(vi) and particularly clause (v) of Explanation 2 there to, it is
+> necessary to establish that there is transfer of all or any rights
+> (including the granting of any licence) in respect of copyright of a
+> literary, artistic or scientific work. Section 2(0) of the Copyright Act,
+> 1957, makes it clear that a computer programme is to be regarded as a
+> literary work. Thus, in order to treat the consideration paid by the
+> cellular operator as royalty, it is to be established that the cellular
+> operator, by making such payment, obtains all or any of the copyright rights
+> of such literary work. This was not established. It was not even the case of
+> the Revenue that any right contemplated' under section 14 of the 1957 Act
+> stood vested in the cellular operator as a consequence of article 20 of the
+> supply contract. Distinction has to be made between the acquisition of a  23
+> ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited
+> "copyright right" and a "copyrighted article." Even assuming that the
+> payments made by the cellular operator were regarded as a payment by way of
+> royalty as defined in Explanation 2 below section 9(1)(vi), nevertheless, it
+> could never be regarded as royalty within the meaning of the term in article
+> 13, paragraph (3) of the DT AA. This is so because the definition in the
+> DTAA is narrower than the definition in the Act. Article 13(3) brings within
+> the ambit of the definition of royalty a payment made for the use of or the
+> right to use a copyright of a literary work. Therefore, what is contemplated
+> is a payment that is dependent upon the user of the copyright and not a lump
+> sum payment as was the position in the present case. Once the payment in
+> question was not royalty which would come within the mischief of clause (vi)
+> the Explanation to section 9(1) would have no application. The payment
+> received by the assessee was towards the title and GSM system of which soft-
+> ware was an inseparable part incapable of independent use and it was a
+> contract for supply of goods. Therefore, no part of the payment, therefore
+> could be classified as payment towards royalty."
+
+16\. From the above case laws it is amply clear that it has been held that the
+software sold by M/s. Minitab Inc USA to the assessee fell into the category
+of "copyrighted article" against acquisition of "copyright" which qualified as
+royalty payment. Furthermore Hon'ble Delhi High Court had held that even if
+the item was regarded as royalty payment as defined in explanation to Section
+9(1)(vi) nevertheless the DTAA would prevail where royalty is dependent upon
+the use of the copyrights and not a lump sum as was in the present case. That
+once the payment in question was not royalty which would, within the mischief
+of clause (vi) the explanation to section 9 (1) would have no application.
+
+17\. In this regard we have noted that Hon'ble Karnataka High Court has taken
+a contrary view as under in the case of CIT vs. Samsung Electronics Co Ltd
+(Supra). (Head notes only) "The assessee imported "shrink-wrapped"/ "off-the-
+shelf" software from suppliers in foreign countries and made payment for the
+same without deducting tax at source u/s 195. The AO & CIT (A) held that the
+payments were assessable to tax as "royalty" u/s 9(1)(vi)/ Article 12 and that
+the assessee was liable to pay the tax u/s 201. On appeal, the Tribunal relied
+on the judgement of the Supreme Court in Tata Consultancy Services vs. State
+of AP 271 ITR 401 (SC) and held that the assessee had acquired a "copyrighted
+article" but not the "copyright" itself and so the amount paid was not
+assessable as "royalty". On appeal by the department, HELD reversing the
+Tribunal:
+
+(i) U/s 9(1)(vi) of the Act & Article 12 of the DTAA, "payments of any kind in
+consideration for the use of, or the right to use, any copyright of a
+literary, artistic or scientific work" is deemed to be "royalty". Under the
+Copyright Act,  24 ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets
+Private Limited 1957, a software programme constitutes a "copyright". A right
+to make a copy of the software and use it for internal business by making copy
+of the same and storing it on the hard disk amounts to a use of the copyright
+u/s 14 (1) of that Act because in the absence of such a licence, there would
+have been an infringement of the copyright. Accordingly, the argument that
+there is no transfer of any part of the copyright and the transaction involves
+only a sale of a copyrighted article is not acceptable. The amount paid to the
+supplier for supply of the "shrink-wrapped" software is not the price of the
+CD alone nor software alone nor the price of licence granted. It is a
+combination of all. In substance unless a licence was granted permitting the
+end user to copy and download the software, the CD would not be helpful to the
+end user;
+
+(ii) There is a difference between a purchase of a book or a music CD because
+while these can be used once they are purchased, software stored in a dumb CD
+requires a license to enable the user to download it upon his hard disk, in
+the absence of which there would be an infringement of the owner's copyright.
+(TCS vs. State of AP distinguished as being in the context of sales-tax);"
+
+18\. We have also noted the submission of the Ld. DR that the seller of the
+software has a copyright upon it. That distinction between copyright and
+copyrighted article was originally coined by the US Internal Revenue Service.
+He had also submitted that this interpretation is supportive of internal
+revenue of the USA as majority of the software and the copyrights originate
+from USA. By terming such transfer of software which are under copyright in
+the USA as copyrighted article the software sellers of the USA where taken out
+of the ambit of taxation of the other countries which were
+purchasing/acquiring the software. Furthermore Ld. Counsel of the assessee has
+pleaded that after the insertion of explanation iv to Section 9(i)(iv), this
+software sale has also come under the ambit of royalty. However Hon'ble Delhi
+High Court has applied the static approach under which domestic law as at the
+time of the entering of the DTAA is applied and not the domestic law as
+prevailing as which the ambulatory approaches mandates. He has further
+submitted that eminent author Klaus vogel has also favoured the ambulatory
+approach. He has further mentioned the Hon'ble jurisdictional Bombay High
+Court has also favoured ambulatory approach in some other decisions. We also
+note the Ld. CIT-A has referred to a decision of Federal Court of Australia in
+the case of IBM vs. CIT (supra) which held that similar payment by IBM
+Australia to IBM USA under similar DTAA was royalty payment.
+
+19\. We have carefully considered the above. However we find that admittedly
+there is no direct jurisdictional High Court decision on the subject. However
+there is a direct Hon'ble Delhi High Court decision which is in favour of the
+assessee. As against this there are decisions of Hon'ble Karnataka High Court
+which are in favour of revenue. In this regard we note that Hon'ble Apex  25
+ITA No. 926 & 927/Bang/2012 M/s. Shell India Markets Private Limited Court in
+the case of vegetable products 88 ITR 192 had held that if two constructions
+are possible one in favour of the assessee should be adopted. Accordingly
+respectfully following the precedent we follow the Hon'ble Delhi High Court
+decision. Accordingly we set aside the order of authority below. We hold that
+the transfer / sale of software in this case is not taxable as royalty. Hence
+the assessee was not liable to deduct tax at source u/s 195 of the Income- tax
+Act, before remitting the money to the US supplier.
+
+16\. Respectfully following the precedent as above, we set aside the order of
+the authorities below and decide the issue in favour of the assessee.
+
+17\. In the result, this appeal by the assessee stands allowed.
+
+    
+    
+    
+                      Order pronounced in the open court on 08.01.2018
+    
+                   Sd/-                                             Sd/-
+               (Sandeep Gosain)                                (Shamim Yahya)
+          या यक सद य / Judicial Member                  लेखा सद य / Accountant Member
+    मुंबई Mumbai; दनांक Dated :08.01.2018
+    व. न.स./Roshani, Sr. PS
+    आदे श क  त ल प अ े षत/Copy of the Order forwarded to :
+    1. अपीलाथ / The Appellant
+    2.      यथ / The Respondent
+    3.    आयकर आयु त(अपील) / The CIT(A)
+    4.    आयकर आयु त / CIT - concerned
+    5.    वभागीय      त न ध, आयकर अपील य अ धकरण, मुंबई / DR, ITAT, Mumbai
+    6.    गाड फाईल / Guard File
+                                                        आदे शानुसार/ BY ORDER,
+    
+    
+    
+    
+                                                उप/सहायक पंजीकार (Dy./Asstt. Registrar)
+                                   आयकर अपील य अ धकरण, मंब
+                                                         ु ई / ITAT, Mumbai
+     
+

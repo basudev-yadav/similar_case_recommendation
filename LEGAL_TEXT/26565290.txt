@@ -1,0 +1,457 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+M/S Bright Point India Pvt Ltd.,, ... vs Acit, New Delhi on 4 December, 2017
+
+    
+    
+               IN THE INCOME TAX APPELLATE TRIBUNAL
+                    DELHI BENCH "I-2", NEW DELHI
+            BEFORE SHRI R. K. PANDA, ACCOUNTANT MEMBER
+                                 AND
+                 SHRI KULDIP SINGH, JUDICIAL MEMBER
+    
+                                ITA No.123/Del/2017
+                              Assessment Year : 2012-13
+    Bright Point India Pvt. Ltd.,               ACIT, Central Circle- 20,
+    G-9, Block B-1,                             New Delhi.
+    Mohan Co-operative Industrial
+                                         Vs.
+    Estate, Mathura Road,
+    New Delhi.
+    
+    PAN : AAACB6414G
+        (Appellant)                               (Respondent)
+    
+          Assessee by                     :      Shri Tarun Gulati, Adv.
+          Department by                   :      Shri H. K. Choudhary, CIT-DR
+          Date of hearing                 :      06-09-2017
+          Date of pronouncement           :      04-12-2017
+    
+                                    ORDER
+    
+
+PER R. K. PANDA, AM :
+
+This appeal filed by the assessee is directed against the order dated
+09.12.2016 passed by the ACIT, Central Circle- 20, New Delhi u/s 143(3) r.w.s.
+144C(1) of the I.T. Act for the assessment year 2012-13.
+
+2\. Facts of the case, in brief, are that the assessee is a company
+incorporated under the Indian Companies Act, 1956 and is engaged in the
+business of distribution of mobile handset and accessories. It is a subsidiary
+of M/s Brightpoint Netherlands which, in turn, is a wholly owned subsidiary of
+M/s Brightpoint Inc.. M/s Brightpoint Netherlands held 85% of the paid up
+share capital of M/s Brightpoint India and balance 15% held by M/s Persequor
+2 ITA No.123/Del/2017 Limited. M/s Brightpoint India commenced its operations
+from June 2003 and is engaged in the business of distribution of mobile
+handsets and accessories and also provides after sales services to its
+customers by undertaking warranty and non-warranty claim processing for
+various brands. Brightpoint group is engaged in the business of distribution
+of wireless voice and data products and a supplier of outsourced services
+worldwide. The assessee filed its return of income on 29.11.2012 showing total
+income of Rs.3,51,38,534/-. The Assessing Officer referred the matter to the
+TPO to determine the arm's length price u/s 92CA(3) in respect of the
+international transactions entered into by the assessee.
+
+2.1 The TPO, during the course of TP assessment proceedings, observed that the
+assessee has reported the following international transactions :-
+
+    
+    
+           Nature of the transaction                       Method                      Value (Rs.)
+           Sale of mobile handsets                         TNMM using                  105,33,54,438
+           Receipt of IT & software maintenance services   Operating profit as a PLI     5,32,21,360
+           Receipt of management support services          Operating cost                4,49,25,556
+           Purchase of hardware                                                            30,91,862
+           Provision of services                                                           30,77,244
+           Payment of interest on external commercial      CUP                             40,22,969
+           borrowing
+           Reimbursement of expenses to AEs                                              1,39,81,268
+           Reimbursement received from AEs                                                 41,55,207
+    
+    
+    
+    
+
+3\. The TPO issued a show-cause notice asking the assessee to furnish various
+details in response to which, the assessee filed the requisite details. From
+the various details furnished by the assessee, the TPO observed that the
+assessee has benchmarked the transactions relating to Intra Group Services
+(IGS) availed from its AE using combined transaction approach considering  3
+ITA No.123/Del/2017 TNMM as the most appropriate method. However, the TPO
+rejected the TNMM qua IGS and instead applied the CUP method. However, while
+applying the CUP method, no comparable was put on record and arm's length
+price was taken as Nil and accordingly the TPO made an upward adjustment of
+Rs.4,49,25,556/-. The Assessing Officer passed the draft assessment order. The
+assessee approached the DRP, who upheld the adjustment made by the TPO.
+Accordingly, the Assessing Officer completed the assessment by enhancing the
+income of the assessee by Rs.4,49,25,556/- and determined the total income of
+Rs.8,00,64,090/-.
+
+4\. Aggrieved with such order of the Assessing Officer/TPO, the assessee is in
+appeal before the Tribunal by raising the following grounds :-
+
+> "Appeal under Section 253(1) of the Income Tax Act, 1961 ("Act") against the
+> order dated 09 December 2016 (received on 16 December 2016) passed under
+> Section 143(3) read with section 144C of the Act ("impugned order"), by the
+> ld. Assistant Commissioner of Income Central Circle - 20, New Delhi ("AO").
+> Following grounds are without prejudice to each other:
+
+> GROUNDS OF APPEAL
+
+> 1.That on the facts and circumstances of the case and in law, Assessing
+> Officer ("Ld. AO") erred in assessing the income of the Appellant at INR.
+> 8,00,64,090/- as against the returned income of INR. 3,51,38,534/-.
+
+2\. That on the facts and circumstances of the case and in law, the Final
+Assessment order passed under section 143(3) read with section 144C of the
+Income Tax Act, 1961 ("the Act") by the Ld. AO is bad in law as the same do
+not consider complete and relevant facts, are not in accordance with
+provisions of law and principles of law as laid down by Hon'ble courts.
+
+TRANSFER PRICING GROUNDS
+
+3\. That on the facts and circumstances of the case and in law, Ld. TPO/ Ld.
+AO / Hon'ble Dispute Resolution Panel ("DRP") have erred in not accepting
+economic analysis of the Appellant, for determination of the arm's length
+price ('ALP') in connection with the impugned international transaction
+pertaining to payment of management support services.
+
+4
+
+ITA No.123/Del/2017
+
+4\. The Ld. TPO/ Hon'ble DRP have grossly erred in rejecting the combined
+transaction approach of benchmarking adopted by the Appellant in its transfer
+pricing documentation analysis, and by rejecting Transactional Net Margin
+Method ('TNMM') as the most appropriate method ('MAM') for determining the
+arms' length price ('ALP') of payment for business service charges paid to its
+associated enterprises ('AEs') in accordance with the Act, Income Tax Rules,
+1962 ('Rules') and the generally accepted OECD guidelines.
+
+5\. The Ld. TPO/ Hon'ble DRP erred in not appreciating that the receipt of
+various business services are closely linked to the overall business
+activities of the Appellant and erred in analyzing the transaction separately
+for the determination of ALP.
+
+6\. That the Ld. TPO/ Hon'ble DRP erred in not conducting the analysis of
+selecting the MAM as prescribed under Rule 10C of the Rules and accordingly
+not documented the same as prescribed under Rule 10D of the Rules.
+
+7\. The Ld. TPO/ Hon'ble DRP erred in law by determining the ALP of the
+international transaction using Comparable Uncontrolled Price ('CUP') method
+without following the manner of applying the CUP method prescribed under Rule
+10B(1)(a) of the Rules.
+
+8\. The Ld. TPO/ Hon'ble DRP has failed to consider the objections made on the
+applicability and suitability of Comparable Uncontrolled Price Method to the
+facts of the case and case laws cited including those of jurisdictional High
+Court and rendered findings without a reasoned order on such objections.
+
+9\. The Ld. TPO/ Hon'ble DRP have erred in upholding the adoption of CUP
+method as the most appropriate method for determining the arm's length price
+in respect of the impugned international transaction without identifying any
+comparable uncontrolled transaction(s) for the computation of the ALP as
+prescribed in Section 92F(ii) of the Act.
+
+10.That the basis to disallow the payments made for management services by
+considering CUP as Nil is based purely on surmises and conjectures and has no
+basis in facts and in law.
+
+11\. The Ld. TPO/ Hon'ble DRP erred in passing an order that is perverse in
+law by ignoring the relevant submissions, information and documents provided
+by the Appellant including but not limited to email exchanges, cost allocation
+documents, service agreement, invoices etc. to substantiate the receipt of
+business services, and based on a preoccupied mind reached at an inappropriate
+conclusion that the arm's length value of the impugned transactions should be
+Nil.
+
+12.The Ld. TPO/ Hon'ble DRP erred erred in arriving at various unwarranted and
+erroneous conclusions unsupported by any material and have also failed to
+consider, specifically rebut the various material and evidences adduced and
+the submission made by Appellant to substantiate the arm's length nature of
+transaction relating to payment of management support charges.
+
+13\. The Ld. TPO/ Hon'ble DRP has erroneously relied on the Base Erosion and
+Profit Shifting ('BEPS') report released in 2015 to reject the objections of
+the Appellant without considering the reports in their entirety and in
+ignoring the binding protection and applicable provisions of the Act and the
+Rules.
+
+14\. The Ld. TPO/ Hon'ble DRP erred in questioning the commercial rationale of
+the  5 ITA No.123/Del/2017 legitimate business expenses incurred by the
+taxpayer and not restricting the scope of assessment under section 92CA to
+determining the arm's length price of the international transaction by
+adopting one of the prescribed methods only.
+
+15\. The finding of the Hon'ble DRP that the payment may be alternatively
+disallowed under Section 37(1) is erroneous and contrary to the finding that
+the commercial expediency has not been doubted by Ld. TPO & AO.
+
+16\. The Ld. TPO/ Hon'ble DRP erred in disregarding the documentary evidence
+submitted by the Appellant and questioning the need and actual receipt of
+services by the Appellant.
+
+17.The Ld. TPO/ Hon'ble DRP erred in disregarding the documentary evidence
+submitted by the Appellant and concluding that no benefit has been received by
+the Appellant by receipt of impugned services without appreciating that the
+same is irrelevant for the computation of arm's length price.
+
+18\. The Ld. TPO/ Hon'ble DRP erred in facts and in law by concluding the
+following, without providing any material on record to substantiate the basis
+of concluding that -
+
+> i. services rendered by the AEs are duplicative in nature for which no
+> separate payment needs to be made;
+
+> ii. services rendered by the AEs are incidental services or shareholder
+> activity for the benefit of the group;
+
+> iii. supporting documents provided by the assessee before Ld. TPO/ Hon'ble
+> DRP are generic in nature iv. no independent enterprise would have made such
+> payments for similar services rendered by another enterprise;
+
+v. no details provided in connection to the costs incurred and cost allocation
+mechanism implemented to allocate the costs to the Appellant by its AE
+Initiation of penalty proceedings
+
+19\. That on facts and circumstances of the case, the Ld. AO erred in
+initiating penalty proceedings under section 271(1)(c) of the Act.
+
+20\. The Appellant craves to leave to add, withdraw, alter, modify, amend or
+vary the above grounds of appeal before or at the time of hearing.
+
+21\. The Appellant has preferred a rectification application u/s 154 in
+connection to the inadvertent mistakes by the Ld. AO.
+
+The Appellant craves leave to add to, alter or amend the above Grounds of
+Appeal as and when advised."
+
+6
+
+ITA No.123/Del/2017
+
+5\. Grounds of appeal no.1 and 2 being general in nature were not pressed by
+the ld. counsel for the assessee for which ld. DR has no objection.
+Accordingly, these grounds are dismissed as not pressed.
+
+6\. So far as grounds no.3 and 4 are concerned, it is grievance of the
+assessee that the benchmarking of transaction through the combined transaction
+approach by applying of TNMM was wrongly rejected.
+
+7\. Ld. counsel for the assessee submitted that the TPO disregarded the
+combined transaction approach on the ground that the transaction are separate
+in nature as according to him export commission, royalty and model fee are
+separate in nature. He submitted that there is no specific findings by the DRP
+on this issue. He submitted that the combined transaction approach is well
+accepted as per the provisions of section 92C(1) of the I.T. Act which speaks
+about "nature of transaction or class of transaction". Further, the term
+'transaction' itself is defined in Rule 10A(d) of the I.T. Rules, 1962 to
+include a number of 'closely linked transactions'. The OECD transfer pricing
+guidelines at para 3.9 and 3.11 recognize that if certain transactions are
+closely linked then they can be benchmarked together. He submitted that the
+basis of separate analysis for export commission, royalty and model fee is
+completely perverse and does not relate to the facts of this case. There is no
+export commission, royalty and model fee paid in the present case. In absence
+of such transaction the very basis of rejection of TNMM is illusory and the
+same should have been accepted. He submitted that the TNMM has been adopted
+for five transaction  7 ITA No.123/Del/2017 using the combined transaction
+approach as these activities are closely linked to the main activity i.e. sale
+and distribution of handsets in a highly competitive market and after sales
+services, which are of technical nature. Further, the basis adopted in the TP
+report for adopting TNMM has not been rebutted. The TPO has failed to indicate
+any reasons for rejection of TNMM as the most appropriate method. Referring to
+the decision of the Tribunal in the case of Avery Denison vs. ACIT reported in
+(2016) 65 taxmann.com 188, he submitted that the Tribunal in the said decision
+has held that a single transaction cannot be isolated for applying CUP method.
+He submitted that the above decision of the Tribunal has been upheld by the
+Hon'ble Delhi High Court. He accordingly submitted that since the order of the
+Assessing Officer/TPO is completely perverse the grounds raised by the
+assessee should be allowed.
+
+8\. So far as grounds no.6 to 10 are concerned, the same relate to application
+of CUP method as the most appropriate method for determination of arm's length
+price for the transaction between the assessee and its AE.
+
+9\. Ld. counsel for the assessee submitted that as per the TPO, IGS rendered
+are not at arm's length price. According to him, no uncontrolled enterprise
+would have paid any amount for services not amounting to IGS and without any
+benefits. Therefore, arm's length price was calculated by him by applying CUP
+method as Nil, which has been upheld by the DRP. He submitted that the TPO/DRP
+have incorrectly applied the CUP method without bringing out any comparable on
+record and, therefore, approach of the TPO/DRP is contrary to  8 ITA
+No.123/Del/2017 Rule 10B(2) of the I.T. Rules, 1962 and the judicial
+precedents. For the above proposition, he relied on the following decisions :-
+
+> a. AWB India P. Ltd. vs. DCIT, (2014) 50 taxmann.com 323. b. Frigogolas
+> India (P.) Ltd. vs. DCIT, (2016) 68 taxmann.com 370.
+
+> c. Mitsui Prime Advanced Composite India (P.) Ltd. vs. DCIT, (2016) 70
+> taxmann.com 123.
+
+> d. Knorr Bremse vs. ACIT, (2017) 77 taxmann.com 101.
+
+10\. He accordingly submitted that the above grounds should be allowed.
+
+11\. So far as grounds no.5, 16 and 17 are concerned, the same relate to the
+failure of the TPO/DRP to appreciate that benefit has been received by the
+assessee.
+
+12\. Ld. counsel for the assessee referring to the above grounds submitted
+that as per the TPO, no documentary evidences were produced to establish that
+the Intra Group Services were needed by the assessee and the services are
+merely duplicative in nature and they do not amount to IGS. The DRP held that
+the assessee failed to demonstrate that services were actually needed.
+According to them, the assessee has failed to prove that services are not
+duplicative and payment was made at arm's length price. According to the DRP,
+the evidence filed by the assessee does not satisfy the need test and fail to
+demonstrate that services were actually received. He submitted that the TPO
+has rendered contradictory findings i.e. on one hand he has disputed the
+receipt of services and on the other hand he has stated that services received
+are incidental and  9 ITA No.123/Del/2017 duplicative. He submitted that since
+the assessee has made TDS on payments to its AEs, the same indicates that
+services were actually received for which payment was made. Further, the
+assessee had filed voluminous documents to substantiate that the services have
+in-fact been rendered. Referring to page 301 of the Paper Book (Volume - I) he
+submitted that independent auditor's certificate given to BP Australia proves
+that services have been rendered by the AE and received by the assessee.
+Referring to page 212 to 235 of the Paper Book (Volume - I), he submitted that
+the invoices show that employee cost has been shared and taxes have been
+deducted by the assessee. Referring to page 240 to 300 of the Paper Book
+(Volume - I), he drew the attention of the Bench to the sample email
+correspondence. Referring to page 685 of the Paper Book (Volume - I), he drew
+the attention of the Bench to the reasons for availing services as indicated
+in the Management Cross Charge report. He submitted that BIPL has no team for
+internal audit and these services are performed by the AE. Referring to page
+563 to 682 of the Paper Book (Volume - II), he drew the attention of the Bench
+to the detailed submission before the DRP including evidence for provision of
+services. He submitted that the services are not duplicative in nature and the
+Assessing Officer has incorrectly gone on cost benefit. Relying on the
+following decisions, he submitted that benefit from a transaction need not be
+proved :-
+
+    
+    
+          a.    Knorr Bremse vs. ACIT, 380 ITR 307.
+          b.    E.I. DuPont India (P.) Ltd. vs. DCIT, (2016) 72 taxmann.com 215.
+                                             10
+                                                                   ITA No.123/Del/2017
+    
+    
+          c.     Sony Ericson Mobile Communications India (P.) Ltd. vs. CIT, 374
+                 ITR 118.
+          d.     CIT vs. Cushman and Wakefield India (P.) Ltd., 367 ITR 730.
+    
+          e.     Dresser Rand India (P) Ltd. vs. Addl.CIT, (2011) 13 taxmann.com
+                 82.
+    
+    
+    
+
+13\. Referring to the decision of the Hon'ble Punjab & Haryana High Court in
+the case of CIT vs. Max India reported in (2016) 75 taxmann.com 268, he
+submitted that the receipt of service is established on balance of
+probabilities and the agreement for services may be oral or written. He
+accordingly submitted that the above grounds raised by the assessee should be
+allowed.
+
+14\. So far as grounds no.14 and 15 are concerned, the same relate to action
+of the TPO/DRP in questioning the commercial expediency of the transactions
+entered into by the assessee.
+
+15\. Ld. counsel for the assessee referring to the decision in the case of EKL
+Appliances reported in (2012) 24 taxmann.com 199 submitted that it is well-
+established principle that the Department cannot question the commercial
+expediency of a transaction.
+
+16\. So far as ground no.13 is concerned, the same relates to the order of the
+DRP/TPO in relying on the BEPS report without considering the reports in their
+entirety and by ignoring binding provisions of the Act and decisions of the
+Tribunal.
+
+17\. Ld. counsel for the assessee submitted that the BEPS report, if read in
+entirety, clearly provides that centralized services, services on call as IGS
+ought  11 ITA No.123/Del/2017 to be considered for determining the arm's
+length price and cannot be rejected as merely shareholder services. BEPS
+report in-fact supports the case of the assessee for determining arm's length
+price using TNMM. He accordingly submitted that the grounds raised by the
+assessee should be allowed. 17.1 The remaining other grounds were not pressed
+by the ld. counsel for the assessee being general/argumentative/supportive in
+nature for which ld. DR has no objection. Accordingly, these grounds are
+dismissed as not pressed.
+
+18\. Ld. DR on the other hand strongly relied on the order of the Assessing
+Officer/TPO/DRP and submitted that the Revenue authorities have correctly
+appreciated the facts and passed the order by making an upward adjustment of
+Rs.4,49,25,556/- and, therefore, the same should be upheld. In his alternate
+contention, he submitted that he has no objection if the matter is restored to
+the file of the Assessing Officer/TPO for adjudication of the issues afresh in
+the light of the various decisions relied on by the ld. counsel for the
+assessee.
+
+19\. We have considered the rival arguments made by both the sides and perused
+the orders of the authorities below. We find the assessee in the instant case
+is engaged in the business of distribution of mobile handset and accessories.
+It also provides after sales services to its customers through its services
+centres. The assessee has availed certain Intra Group Services from its AE and
+in order to ascertain the arm's length price of these transactions, the
+assessee benchmarked these transactions using the combined transaction
+approach considering TNMM as the most appropriate method. We find the  12 ITA
+No.123/Del/2017 Assessing Officer/TPO rejected the TNMM for the IGS and
+instead applied CUP method which has been upheld by the DRP. It is the
+submission of the ld. counsel for the assessee that the combined transaction
+approach is well accepted as per the provisions of section 92C(1) which speaks
+about 'nature of transaction or class of transaction'. It is also his
+submission that the term 'transaction' itself is defined in Rule 10A(d) of the
+I.T. Rules, 1962 to include a number of 'closely linked transactions'. It is
+also his argument that the finding of the Assessing Officer/TPO that the basis
+of separate analysis is 'export commission, royalty and model fee' is
+completely perverse since the assessee has not received any export commission,
+royalty or model fee. It is also his argument that the TNMM has been adopted
+for five transactions using the combined transaction approach as these
+activities are closely linked to the main business activity i.e. sale and
+distribution of handsets. It is also his submission that the Assessing
+Officer/TPO has not rebutted the basis adopted in the TP report for adopting
+TNMM and they failed to indicate the reasons for rejecting the TNMM as the
+most appropriate method. Further, they have been incorrectly applied the CUP
+method without bringing out any comparable on record. It is contrary to Rule
+10B(2) of the I.T. Rules, 1962. Similarly, it is also his arguments that the
+assessee had filed voluminous documents to establish that the IGS were needed
+by the assessee and are not duplicative in nature. All those details filed
+before the TPO/DRP were completely ignored. It is also his argument that the
+Department cannot question the commercial expediency of  13 ITA
+No.123/Del/2017 the transactions. In our opinion and considering the totality
+of the facts of the case, the matter requires a fresh adjudication at the
+level of the Assessing Officer/TPO in the light of the various evidences
+produced before them and in the light of the decisions relied on by the ld.
+counsel for the assessee before us. We, therefore, restore the entire issue to
+the file of the Assessing Officer/TPO with a direction to decide the issue
+afresh in accordance with law after giving due opportunity of being heard to
+the assessee. We hold and directly accordingly. The grounds raised by the
+assessee are accordingly allowed for statistical purposes.
+
+20\. In the result, the appeal filed by the assessee is allowed for
+statistical purposes.
+
+Order pronounced in the open Court on this 04th day of December, 2017.
+
+    
+    
+                   Sd/-                                          Sd/-
+              (KULDIP SINGH)                              (R. K. PANDA)
+            JUDICIAL MEMBER                           ACCOUNTANT MEMBER
+    Dated: 04-12-2017.
+    Sujeet
+    Copy of order to: -
+            1)      The   Appellant
+            2)      The   Respondent
+            3)      The   DRP-I, New Delhi
+            4)      The   DR, I.T.A.T., New Delhi
+                                                                   By Order
+    //True Copy//
+                                                              Assistant Registrar
+                                                              ITAT, New Delhi
+     
+

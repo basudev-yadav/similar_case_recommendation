@@ -1,0 +1,1468 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Unitedhealth Group Information ... vs Dcit, New Delhi on 9 February, 2018
+
+    
+    
+          IN THE INCOME TAX APPELLATE TRIBUNAL
+               (DELHI BENCH 'I-1' : NEW DELHI)
+    
+            BEFORE SHRI R.S. SYAL, VICE PRESIDENT
+                              and
+            SHRI KULDIP SINGH, JUDICIAL MEMBER
+    
+                        ITA No.825/Del./2014
+                   (ASSESSMENT YEAR : 2009-10)
+    
+    United Health Group Information Services vs.       DCIT, Circle 18 (1),
+     Private Limited,                                  New Delhi.
+    14th Floor, Tower B, Unitech Cyber Park,
+    Sector 39,
+    Gurgaon - 122 002 (Haryana).
+    
+          (PAN : AADCA6769Q)
+    
+                        ITA No.419/Del./2014
+                   (ASSESSMENT YEAR : 2009-10)
+    
+    DCIT, Circle 18 (1),   vs.    United Health Group Information
+    New Delhi.                     Services Private Limited,
+                                  14th Floor, Tower B, Unitech Cyber Park,
+                                  Sector 39,
+                                  Gurgaon - 122 002 (Haryana).
+    
+                                          (PAN : AADCA6769Q)
+    
+          (APPELLANT)                         (RESPONDENT)
+    
+          ASSESSEE BY : Shri Nageshwar Rao, Advocate
+                         Shri S. Chakraborty, Advocate
+          REVENUE BY : Shri Kumar Pranav, Senior DR
+    
+                      Date of Hearing :   15.01.2018
+                      Date of Order :     09.02.2018
+    
+                                    ORDER
+    
+
+PER KULDIP SINGH, JUDICIAL MEMBER :
+
+2 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 Present cross appeals filed by the assessee as well as by
+the revenue are being disposed of by way of consolidated order to avoid
+repetition of discussion.
+
+2\. The Appellant, United Group Information Services Private Limited
+(hereinafter referred to as 'the taxpayer') by filing the present appeal being
+ITA No.825/Del/2014 sought to set aside the impugned order dated 20.12.2013,
+passed by the AO in consonance with the orders passed by the ld. DRP/TPO under
+section 143 (3) read with section 144C of the Income-tax Act, 1961 (for short
+'the Act') qua the assessment year 2009-10 on the grounds inter alia that :-
+
+> "1. That, the impugned order of assessment framed by the learned Deputy
+> Commissioner of Income-tax, Circle 18(1), New Delhi (hereinafter referred to
+> as 'the learned AO') pursuant to the directions of the Hon'ble Dispute
+> Resolution Panel - II (hereinafter referred to as 'the Hon'ble DRP') under
+> section 143(3) read with section 144C of the Income-tax Act, 1961 ('Act'),
+> is a vitiated order having been passed in violation of principles of natural
+> justice and is otherwise arbitrary and is thus bad in law and is void ab-
+> initio.
+
+> 2\. That, without prejudice, the learned AO has grossly erred in making a
+> transfer pricing addition of Rs.277,999,266/- and a corporate tax addition
+> of Rs.14,857,889 while computing the income of the Appellant. The addition
+> made to the returned income is highly unjustified and also suffers from
+> mistakes apparent from record.
+
+> 3\. That the Hon'ble DRP has committed gross errors in confirming the order
+> passed u/s 92CA(3) of the Act by the learned Transfer Pricing officer (the
+> learned TPO') proposing a transfer pricing adjustment to the actual value of
+> the international transactions of the Appellant with its associated
+> enterprises and only granting a partial relief thereof.
+
+3 ITA No.825/Del/2014
+
+> ITA No.419/Del/2014
+
+4\. That on the facts and in law, the learned TPO has grossly erred in
+treating foreign exchange gain/ loss as non-operating item while determining
+the arm's length price of the international transactions of the Appellant
+without considering the terms & conditions of the inter-company transactions
+of the Appellant.
+
+5\. The learned AO/TPO/DRP has erred by not making appropriate adjustments on
+account of working capital differences between the Appellant vis-a-vis the
+comparables companies, without appreciating the fact that the similar
+adjustment has been allowed to the Appellant in the assessment year 2007-08 &
+assessment year 2010-11. Thus, in the absence of any substantial change in the
+functional profile of the Appellant and following the principle of res
+judicata, the benefit of working capital adjustment should be allowed for AY
+2009-10 as well.
+
+6\. That without prejudice, on the fact and the circumstances of the case and
+in law, the learned TPO / Hon'ble DRP has erred in not allowing a risk
+adjustment to the Assessee on account of the fact that the Appellant is a
+captive service provider for its associated enterprises and is remunerated on
+a cost plus basis irrespective of the outcome of the services provided and
+hence undertakes no market risk, service liability risk, credit and collection
+risk as against comparable companies that are the full fledged risk taking
+entrepreneurs.
+
+7\. That, in framing the impugned assessment, the reference made by the
+learned AO u/s 92CA (1) of the Act suffers from jurisdictional error, as the
+learned AO had not recorded any reasons nor he had any material whatsoever on
+the basis of which he could even reach a prima-facie opinion, that it was
+'necessary or expedient' to refer the matter to the learned TPO for
+computation of ALP.
+
+8\. That without prejudice, on the facts and circumstances of the case and in
+law, the learned AO / TPO / Hon'ble DRP has erred in not allowing the benefit
+of downward adjustment of 5 percent, as provided in the Proviso to section 92C
+of the Act, from the ALP of the international transactions as determined by
+them.
+
+9\. That on the fact and the circumstances of the case and in law, the learned
+TPO / Hon'ble DRP has erred by not accepting the economic analysis undertaken
+by the Appellant in accordance with the provisions of the Act read with the
+Rules, and conducting a fresh economic analysis for the determination of the
+ALP of the Appellant's international transactions and holding that the
+international transactions are not at arm's length.
+
+4 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 10.1 That on the facts and circumstances of the case and
+in law, the learned TPO / Hon'ble DRP has erred in rejecting the Appellant's
+claim to use multiple year data for computing the arm's length price and,
+instead, has adhered to the use of single year updated data to conclude the
+ALP of the international transactions.
+
+10.2 Even as otherwise, on the assumption adopted by the learned TPO and
+without prejudice to Ground 10.1 above, even if single year updated data of
+the comparables selected in the transfer pricing documentation is considered,
+then also no transfer pricing adjustment could have been made to the income of
+the Appellant.
+
+10.3 That on the facts and the circumstances of the case and in law, the
+learned TPO/ Hon'ble DRP has erred in selection of functional non comparable
+companies and application of arbitrary filters for the purpose of
+determination of arm's length price of the international transactions
+pertaining to provision of IT and IT enabled services by the Appellant to
+associated enterprises.
+
+10\. That on the facts and the circumstances of the case and in law, the
+learned TPO / Hon'ble DRP ignored the fact that the Appellant is entitled to a
+tax holiday under section 10A of the Act on its profits and therefore does not
+have an ulterior motive of shifting profits outside India.
+
+11\. That on the facts and circumstances of the case and in law, the learned
+AO/ Hon'ble DRP has erred in not allowing deduction under section 10A of the
+Act on interest income of Rs. 12,571,932 and miscellaneous income of Rs. INR
+1,543,188. 11.1 On the facts and circumstances of the case and in law, the
+learned AO has erred in not allowing deduction under section 10A of the Act on
+'Excess provision written back', amounting to INR 742,769, despite directions
+from the Hon'ble DRP to allow the same.
+
+12\. That on the facts and circumstances of the case and in law, the learned
+AO has erred in not granting credit for Tax deducted at source ('1DS') of INR
+58,922.
+
+13\. 'That on the facts and circumstances of the case and in law, the learned
+AO has erred in not granting credit for Advance tax of INR 27,500,000
+deposited by the Appellant for the subject year.
+
+5 ITA No.825/Del/2014
+
+ITA No.419/Del/2014
+
+14\. That on the facts and circumstances of the case and in law, the learned
+AO has erred in not granting set off of Minimum Alternate Tax ('MAT) credit of
+INR 21,654,947 brought forward in the subje~t year, as per section 115JAA of
+the Act.
+
+15\. That on the facts and circumstances of the case and in law, the learned
+AO has erred in levying consequential interest under section 2348 and 234C of
+the Act.
+
+15.1 That on the facts and circumstances of the case and in law, the learned
+AO has erred in levying interest under section 234C of the Act on assessed
+income since interest under section 234C of the Act can be levied on returned
+income only.
+
+16\. That on the facts and circumstances of the case and in law, the learned
+AO has erred in initiating penalty proceedings under section 271 (1 )(c) of
+the Act."
+
+3\. The Appellant, Deputy Commissioner of Income-tax, Circle 18 (1), New Delhi
+(hereinafter referred to as 'the Revenue') by filing the present appeal being
+ITA No.419/Del/2014 sought to set aside the impugned order dated 20.12.2013,
+passed by the AO in consonance with the orders passed by the ld. DRP/TPO under
+section 143 (3) read with section 144C of the Income-tax Act, 1961 (for short
+'the Act') qua the assessment year 2009-10 on the grounds inter alia that :-
+
+> "i. That the Ld. DRP-II erred in law and facts in allowing part relief of
+> Rs.4,24,45,874/- to the assessee in the computation of Arm Length Prices of
+> the International Transactions pertaining to the "Provision of ITES" and
+> "Software Development Services".
+
+> ii. That the Ld. DRP-II erred in law and facts in accepting the contention
+> of the assessee regarding exclusion of M/s. Aricent Tech., M/s. Bodhtree
+> Consulting and M/s. Cat Technologies (Provision for Software Development
+> Services) without appreciating the reasons given by TPO and without  6 ITA
+> No.825/Del/2014 ITA No.419/Del/2014 considering that the TPO had selected
+> the comparables keeping in view the broad comparability under TNMM.
+
+> iii. That the Ld. DRP-II erred in law and facts in accepting the contention
+> of the assessee regarding exclusion of M/s Coral Hub (Provision tor ITES)
+> without appreciating the reasons given by TPO and without considering that
+> the TPO had selected the comparables keeping in view the broad comparability
+> under TNMM.
+
+> iv. That the Ld. DRP-II erred in law and facts in not appreciating the fact
+> that the assessee had clubbed the two International Transactions -
+> "Provision of Claim Processing Services" and "Provision of Data Analytics
+> Services" together, as Provision for ITES, for benchmarking under TNMM in
+> the TP Study Report which was followed by the assessee despite the fact that
+> "Provision of Claim Processing Services" come under the category of BPO and
+> "Provision of Data Analytics Services'' come under the category of KPO and
+> thus the comparables were selected by the assessee as well by the TPO from
+> the entire spectrum (High End services as well as Low End Services) of ITES.
+
+> v. That the Ld. DRP-II erred in law and facts in not appreciating the fact
+> that when the two International Transactions - "Provision of Claim
+> Processing Services - BPO Services" and "Provision of Data Analytics
+> Services - KPO Services" are clubbed together, as Provision for ITES, for
+> benchmarking under TNMM by the assessee (in TP Study Report) and TPO then
+> only the broad functional comparability between the comparables and assessee
+> can be compared.
+
+> vi. That the order of the DRP-II is erroneous and is not tenable on facts
+> and in law.
+
+> vii. That the grounds of appeal are without prejudice to each other."
+
+4\. Briefly stated the facts necessary for adjudication of the controversy at
+hand are : United Health Group Insurance Company Limited (UHG India) is into
+providing IT Enabled Health care (claim processing, data analytics & clinical
+research support services) (hereinafter collectively referred to as "IT
+Enabled  7 ITA No.825/Del/2014 ITA No.419/Del/2014 Services" and "IT Software
+Development") to UHG Group Companies as a captive service provider. During the
+year under assessment, the taxpayer entered into international transactions
+with its Associated Enterprises (AE) as under :-
+
+> Nature of International Transaction Method Amount (In Selected INR)
+> Provision of Claim Processing TNMM 864,954,341 Services (ITES) Provision of
+> data analytics services TNMM 81,347,775 Provision of software development
+> TNMM 1,279,079,702 services (IT Services) Provision of Clinical Research
+> TNMM 54,559,250 Support Services Purchase of Fixed Assets (Reversal) -
+> 442,915 Reimbursement of expatriate's - 6,627,466 salaries Reimbursement of
+> expenses received - 5,636,108 by UHG India Advance against expenses -
+> 12,326,620 Grant of RSU/SAR - Nil
+
+5\. The taxpayer has two segments concerning international transactions viz.
+Information Technology Enabled Services (ITES) and Software Development
+services. The taxpayer in its Transfer Pricing Study used Transactional Net
+Margin Method (TNMM) as Most Appropriate Method (MAM) for both the segments
+and computed its margin at 13.83% and 13.23% in ITES and Software Development
+services respectively.
+
+6\. Ld. Transfer Pricing Officer (TPO), after examining the TP study made by
+the taxpayer and on the basis of various filters,  8 ITA No.825/Del/2014 ITA
+No.419/Del/2014 described in para 3.2 of the TP order made its own TP analysis
+by selecting 8 comparables for ITES segment and 18 comparables in software
+development segment and calculated their margin at 34.29% and 28.88%
+respectively and computed the cumulative adjustment in both the segments to
+the tune of Rs.32,04,45,140.
+
+7\. Ld. DRP who has given part relief by excluding Bodhtree Consulting, CAT
+Technologies and Aricent Technologies from the final set of comparables qua
+software development services and by excluding Coral Hub qua ITES segment for
+benchmarking the international transaction. Feeling aggrieved, the taxpayer
+has come up before the Tribunal seeking exclusion of 5 comparables and 3
+comparables qua software development services and ITES segment respectively
+and the taxpayer also sought inclusion of 3 comparables qua ITES segment. The
+Revenue also challenged exclusion of Bodhtree, CAT Technology qua software
+development segment and Coral Hub in ITES for benchmarking the international
+transaction
+
+8\. We have heard the ld. Authorized Representatives of the parties to the
+appeal, gone through the documents relied upon and orders passed by the
+revenue authorities below in the light of the facts and circumstances of the
+case.
+
+9 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 TAXPAYER'S APPEAL (ITA NO.825/DEL/2014) 9 Undisputedly,
+post DRP directions, the ld. TPO passed order dated 29.11.2013 making total
+adjustment in both the segments at Rs.27,79,99,260/- as under :-
+
+> "2. Software Segment S.No. Company Name OP/TC%
+
+> 1\. Goldstone Technologies (Seg) 10.28
+
+> 2\. Infosys Ltd 40.74
+
+> 3\. Akshay Software Technologies Ltd 8.24
+
+> 4\. Larsen & Turbo Infotech 21.33
+
+> 5\. Mindtree Ltd 27.36
+
+> 6\. Persistent Systems Ltd 37.77
+
+> 7\. LGS Global 18.88
+
+> 8\. Tata Consultancy Services Ltd 31.44 (Consolidated)
+
+> 9\. Tata Elxsi Ltd (Seg) 16.88
+
+> 10\. Sasken 21.76
+
+> 11\. Wipro Ltd. (Seg.) 25.78
+
+> 12\. Thirdware 37.27
+
+> 13\. Aztecsoft 27.37
+
+> 14\. CG-VAK Software and Exports Ltd. 2.7
+
+> 15\. R S Software India Pvt. Ltd. 10.15 Average 22.53 The computation of
+> adjustment amount based on the above arm's length margin is as follows:
+
+> Total cost Rs.l,12,95,89,650 Arm's length price at a margin of 22.53%
+> Rs.l,38,40,86,198 Price received Rs.l,27,90,79,702 Proposed adjustment u/s
+> 92CA Rs. 10,50,06,496 % of difference with ALP 7.58% Based on this analysis,
+> adjustment amount Rs.10,50,06,496 is proposed for SWD Segment.
+    
+    
+    
+          3.       ITES Segment
+    
+           S.No.      Company Name                          OP/TC%
+              1.      Accentia Technologies Ltd.             52.52
+                                           10             ITA No.825/Del/2014
+                                                         ITA No.419/Del/2014
+    
+              2.   Cosmic Global Ltd.                      50.70
+              3.   Crossdomain Solution Pvt. Ltd.          25.63
+              4.   Infosys BPO                             24.28
+              5.   Eclerx Services Ltd.                    66.01
+              6.   Aditya Birla Minac Worldwide Ltd        11.95
+              7.   Fortune lnfotech Ltd.                    6.27
+                   Average                                 33.90
+    
+    
+
+> The computation of adjustment amount based on the above arm's length margin
+> is as follows:
+    
+    
+           Operating Cost(A)                              86,20,69,892
+           OP/TC                                              33.90%
+           Margin (B)                                     29,22,41,693
+           Arm's Length Price(A+B)=C                    1,15,43,11,585
+           Price Charged by the assessee(D)               98,13,18,815
+           Difference (C-D)                               17,29,92,770
+           % of difference with ALP                           14.98%
+           Adjustment proposed                            17,29,92,770
+    
+    
+
+> Based on this analysis, adjustment amount Rs.17,29,92,770 is proposed for
+> ITES Segment.
+
+> Total Adjustment Amount : Rs.27,79,99,266"
+
+TRANSFER PRICING ISSUES
+
+10\. Undisputedly, there is no dispute as to the TNMM used by the taxpayer as
+MAM for benchmarking the international transactions. It is also not in dispute
+that the taxpayer is a captive service provider to its AE to provide software
+development services and ITES services. There is also no change in the
+business model of the taxpayer as compared to the preceding years.  11 ITA
+No.825/Del/2014
+
+ITA No.419/Del/2014
+
+11\. The ld. AR for the taxpayer to cut short the controversy sought exclusion
+of 5 comparables, viz., Infosys Technologies Ltd., Persistent Systems Ltd.,
+Tata Consultancy Services Ltd. (Consolidated), Thirdware Solutions Ltd. &
+Wipro Ltd. for benchmarking the international transactions qua software
+development and inclusion of Quintegra Solutions Ltd. qua software development
+and sought exclusion of Accentia Technologies Ltd., Cosmic Global Ltd. &
+eClerx Services and sought inclusion of Microland Ltd., R Systems & CG Vak
+Software & Exports Ltd. for benchmarking the international transactions qua
+ITES segment.
+
+12\. We would examine the exclusion / inclusion of the aforesaid comparables
+sought by the taxpayer one by one in the light of the arguments addressed by
+ld. AR for the taxpayer and ld. DR for the Revenue.
+
+SOFTWARE DEVELOPMENT SEGMENT INFOSYS TECHNOLOGIES LIMITED (INFOSYS)
+
+13\. The taxpayer sought exclusion of Infosys on grounds inter alia that it is
+functionally dissimilar and incurring significant R&D expenses having
+significant intangibles and a giant company having fully risk bearing profile
+and relied upon the decision rendered by the coordinate Bench of the Tribunal
+in taxpayer's  12 ITA No.825/Del/2014 ITA No.419/Del/2014 own case in ITA
+No.6312/Del/2012 for AY 2008-09 order dated 28.08.2014.
+
+14\. However, on the other hand, ld. DR for the Revenue relied upon the orders
+passed by the AO/DRP.
+
+15\. Perusal of page 1045 of annual reports compendium Vol.IV goes to prove
+that Infosys is providing end to end solutions inter alia include business and
+technology consulting, custom application development, infrastructure
+maintenance services, maintenance and production support, package enabled
+consulting and implementation including enterprise solutions, product
+engineering solutions and product lifecycle management, systems integration,
+valuation solutions and Software as a Service (SaaS) related solutions.
+Infosys has developed Finacle universal banking solution empowering 114 banks
+across 62 countries helping them serve 25,000 branches 244 million customers
+297 million accounts and 2 lakhs million users. Finacle has also emerged as
+one of the most scale-able core banking solution in the world by achieving an
+unparallel performance benchmark of 104 million effective transactions per
+hour.
+
+16\. Furthermore, Infosys is incurring 1.3% of the total revenue on R&D and is
+having significant intangibles duly detailed at page 1138 of the annual report
+compendium. Perusal of the director's  13 ITA No.825/Del/2014 ITA
+No.419/Del/2014 report, available at page 1016 of the annual report
+compendium, also shows that Infosys is a giant company having gross profit of
+Rs.9119 crores.
+
+17\. On the other hand, the ld. Taxpayer is providing services on cost plus
+basis having minimum risk and having no intangibles. Infosys has been ordered
+to be excluded as a comparable by Hon'ble Delhi High Court in case of Agnity
+India Technologies Pvt. Ltd. - (2013) 219 taxman 26 (Del.) being a giant
+company having huge intangibles and incurring substantive amount on R&D and is
+a full-fledged risk taking company. More so, Infosys was ordered to be
+excluded in taxpayer's own case for AY 2008-09 (supra). In these
+circumstances, Infosys is not a suitable comparable vis-à-vis the taxpayer for
+benchmarking the international transactions, hence we order to exclude it.
+PERSISTENT SYSTEMS LTD. (PERSISTENT)
+
+18\. The taxpayer sought exclusion of Persistent on the grounds inter alia
+that it is outsourcing its services; that it is also engaged in development of
+products with no segmental data available; and that it is expending around 1%
+of its total income of Rs.56.1 million on R&D activities. Undisputedly,
+Persistent has not been contested by the taxpayer before ld. TPO as well as
+ld. DRP. In the given  14 ITA No.825/Del/2014 ITA No.419/Del/2014
+circumstances, we are of the considered view that if something new is to be
+examined let it be examined by the ld. TPO first as the taxpayer has preferred
+not to contest Persistent before the ld. TPO as well as DRP. So, this issue is
+set aside to the ld. TPO to examine afresh after providing an opportunity of
+being heard to the taxpayer.
+
+TATA CONSULTANCY SERVICES LTD. (TATA)
+
+19\. The taxpayer sought exclusion of Tata on ground of functional dis-
+similarity; that it is providing IT and consultancy services with no segmental
+details of product and services; that it is a leading global brand having huge
+intangibles and significant expenses on R&D and that it is a giant risk taking
+company and has also undergone various acquisition and divestment during the
+year under assessment; that Tata has been ordered to be excluded as a
+comparable in AY 2007-08 and 2008-09 in identical cases by the coordinate
+Bench of the Tribunal viz., SunLife India Services Centre Pvt. Ltd. in ITA
+No.1489/Del/2014 for AY 2009-10 & St. Ericsson India (P.) Ltd. vs. Addl. CIT
+in ITA No.1672/Del/2014 for AY 2009-10.
+
+20\. However, on the other hand, ld. DR for the Revenue relied upon the orders
+passed by the AO/DRP.
+
+15 ITA No.825/Del/2014
+
+ITA No.419/Del/2014
+
+21\. Annual report of the Tata, available at pages 1341 to 1363 of annual
+report compendium, goes to prove that Tata is into providing diversified
+operations viz. Tata is into IT Infrastructure Services, BPO, ITES,
+Engineering and Industrial services; that it is into sale of equipment and
+software licence with wide client base and has been conferred with numerous
+awards/recognition. Perusal of Page 1420 of the annual report compendium shows
+that it is having income from IT and consultancy services, sale of equipment
+and software licence but having no segmental data. The comparability of Tata
+has been examined by the coordinate Bench of the Tribunal in St-Ericsson India
+(P.) Ltd. vs. Addl. CIT - (2017) 79 taxmann.com 207 (Delhi-Trib.) wherein it
+was ordered to be excluded as a comparable vis-à-vis ST-Ericsson India (P.)
+Ltd., a captive software development provider by relying upon Sony Mobile
+Communications International AB vs. Dy.DIT - (2016) 69 taxmann.com 404 (Delhi
+- Trib.) for AY 2009-10, wherein it was ordered to be excluded on account of
+acquisition and merger having total income of Rs.21535.75 crores and payment
+of sale of equipment and software licence at Rs.668.25 crores. Tata has also
+expended Rs.42.31 crores on its R&D and a highly risk bearing company and as
+such, cannot be a suitable comparable vis-à-vis taxpayer which is a captive
+software provider  16 ITA No.825/Del/2014 ITA No.419/Del/2014 being
+remunerated on cost plus mark up basis for rendering services to its AE. So,
+we order to exclude Tata from the final set of comparables.
+
+THIRDWARE SOLUTIONS LTD. (THIRDWARE)
+
+22\. The taxpayer sought exclusion of Thirdware on ground of functional dis-
+similarity on the ground that its segmental information is not available and
+that company is also into sale of user licence for software application and
+relied upon SunLife India Services Centre Pvt. Ltd. in ITA No.1489/Del/2014
+for AY 2009- 10 & St. Ericsson India (P.) Ltd. vs. Addl. CIT in ITA
+No.1672/Del/2014 for AY 2009-10.
+
+23\. However, the ld. DR for the Revenue opposed the exclusion of Thirdware on
+the ground that the taxpayer has not contested Thirdware either before the ld.
+TPO or before ld. DRP.
+
+24\. The coordinate Bench of the Tribunal in case of St. Ericsson India (P.)
+Ltd. (supra) while examining the comparability of Thirdware ordered to exclude
+Thirdware as a comparable vis-à-vis St. Ericsson from a routine captive
+software development provider working on cost plus basis on the ground that
+the substantial revenue of this company is from sales and operating sales of
+17 ITA No.825/Del/2014 ITA No.419/Del/2014 licence, software services, export
+form SEZ unit, export from STPI unit and revenue from subscription.
+
+25\. All these facts are available in the annual report page 1537 of the
+annual report compendium. So, in these circumstances, we are of the considered
+view that let the TPO examined the comparability of the Thirdware in the light
+of the decision of the coordinate Bench of the Tribunal in St. Ericsson India
+(P.) Ltd. (supra) as well as SunLife India Services Centre Pvt. Ltd. (supra).
+WIPRO LIMITED (WIPRO)
+
+26\. The taxpayer sought exclusion of Wipro on grounds of functional
+dissimilarity; being engaged in R&D activities having significant intangibles
+and it is a giant company with differences in risk profile, nature of
+services, expenditure on R&D etc. and relied upon Toluna India Pvt. Ltd. vs.
+ACIT in ITA No.5645/Del/2011 and CIT vs. Agnity India Technologies Pvt. Ltd.
+in ITA 1204/2011 (Hon'ble Delhi High Court). However, on the other hand, ld.
+DR for the Revenue relied upon the orders passed by the AO/DRP.
+
+27\. The taxpayer has sought the exclusion of Wipro before the ld. TPO/DRP who
+have rejected the argument on the ground that the margin of the standalone
+entity is higher than the consolidated  18 ITA No.825/Del/2014 ITA
+No.419/Del/2014 level. However, when we examine annual report of Wipro at page
+1604 of the annual report compendium, Wipro is a leading global information
+technology, or IT, services company, headquartered in Bangalore, India
+providing a comprehensive range of IT services, software solutions and
+research and development services in the areas of hardware and software design
+to leading companies worldwide; using its development centers located in India
+and around the world, quality processes and global resource pool to provide
+cost effective IT solutions and deliver time-to-market and time-to-development
+advantages to its clients. It also provides business process outsourcing, or
+BPO, services and is a leader in the Indian IT market and focuses primarily on
+meeting requirements for IT products of companies in India and the Middle East
+region and have a notable presence in the markets for consumer products and
+lighting and infrastructure engineering.
+
+28\. Furthermore, in form B to the Director's Report, specific area in which
+R&D is being carried out by the Wipro is as under :-
+
+> "Wipro's R&D focus is to strengthen the portfolio of Centres of Excellence
+> (CoE), Solution Acceleration and Software Engineering Tools & Methodologies.
+> In financial year 2008-09, your Company incubated Applied Research group to
+> investigate & analyze potential impact and business prospect of technologies
+> which are in the early stage of adoption."
+
+19 ITA No.825/Del/2014
+
+> ITA No.419/Del/2014
+
+> 29\. Moreover, Wipro is having huge intangibles as is evident from
+> consolidated balance sheet schedule V, available at page 1659 of the annual
+> report compendium, to the tune of Rs.28213 million.
+
+30\. So keeping in view the functions, assets and risk profile of Wipro and
+which is a fully risk bearing company, we are of the considered view that it
+is not a suitable comparable vis-à-vis the taxpayer which is a routine captive
+software development service provider working on cost plus mark up model of
+business. Applying the ratio of the decision rendered by Hon'ble High Court in
+Agnity India Technologies Pvt. Ltd. (supra), we are of the considered view
+that Wipro being a giant company in the area of development of software
+assuming full-fledged risk leading to higher profit, having huge intangibles
+and R&D activities is not a suitable comparable to the taxpayer being a
+captive software development service provider working on cost plus basis
+having no R&D activities and is a risk insulated company. So, we order to
+exclude Wipro from the final set of comparables. COMPANIES SOUGHT TO BE
+INCLUDED QUINTEGRA SOLUTIONS (QUINTEGRA)
+
+31\. Primarily, the ld. TPO has rejected Quintegra as a comparable on the
+ground that this company fails the export filter  20 ITA No.825/Del/2014 ITA
+No.419/Del/2014 of 75%. The ld. TPO applied export filter of 75% of the total
+income to select a company as comparable, as is evident from para 2.2(v) of
+the TP order. However, the taxpayer has raised objection before ld. DRP that
+Quintegra passes the export filter but the ld. DRP has not dealt with this
+issue.
+
+32\. Perusal of the submissions made by the taxpayer before ld. DRP are
+available at pages 413 & 414 of the paper book II. However, perusal of the
+profit & loss account, available at pages 1747 and 1750 of annual report
+compendium and schedule forming part of the balance sheet to Quintegra shows
+that Quintegra's export revenue is 95.06% and as such, passes the taxpayer's
+export earning filter applied by the ld. TPO. So, ld. TPO is directed to
+consider the Quintegra accordingly when he has not disputed the functional
+profile of Quintegra and it has also not failed in other filters applied by
+the ld. TPO.
+
+INFORMATION TECHNOLOGY ENABLED SERVICES (ITES) SEGMENT
+
+33\. Method and functional profile of the taxpayer is not in dispute. All the
+international transactions carried out by the taxpayer during the year under
+assessment are as per agreement dated 01.01.2007 which is continuing in nature
+as were applicable  21 ITA No.825/Del/2014 ITA No.419/Del/2014 in AY 2008-09.
+To benchmark international transactions, ld. TPO has selected 8 comparables
+having average mean of 34.29% and proposed the adjustment of
+Rs.17,63,54,842/-. The comparables finally selected by the ld. TPO are as
+under :-
+
+    
+    
+           S.No.    Company Name                          OP/TC%
+              1.    Accentia Technologies Ltd.             52.52
+              2.    Cosmic Global Ltd.                     50.70
+              3.    Crossdomain Solution Pvt. Ltd.         25.63
+              4.    Infosys BPO                            24.28
+              5.    Eclerx Services Ltd.                   66.01
+              6.    Coral Hub                              37.03
+              7.    Aditya Birla Minac Worldwide Ltd       11.95
+              8.    Fortune Infotech Ltd.                   6.27
+                                  Average                  34.29
+    
+    
+    
+    
+    
+
+34\. Out of aforesaid 8 comparables for benchmarking the international
+transactions qua ITES services, the taxpayer has sought exclusion of Accenture
+Technologies Ltd., Cosmic Global Ltd. & Eclerx Services Ltd. The taxpayer has
+also sought inclusion of Microland Ltd., R Systems & CG Vak Software & Exports
+Ltd..
+
+35\. Now, we would examine the comparability of the aforesaid companies vis-à-
+vis the taxpayer one by one.  22 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 COMPANIES SOUGHT TO BE EXCLUDED BY THE TAXPAYER ACCENTURE
+TECHNOLOGIES LTD. (ACCENTURE)
+
+36\. The taxpayer sought to exclude Accenture on grounds of its functional
+dis-similarity; that Accenture has undergone extra ordinary events during the
+year under assessment and that its segmental data is not available in the
+public domain and relied upon the taxpayer's own case in ITA No.1038/Del/2015
+for AY 2010-11, Ameriprise India Pvt. Ltd. vs. ACIT in ITA No.2010/Del/2014
+for AY 2009-10, Capital IQ Information Systems vs. ACIT in ITA No.124/Hyd/2014
+for AY 2009-10 and Macquarie Global Services Pvt. Ltd. vs. DCIT in ITA
+No.6803/Del/2013 for AY 2009-10.
+
+37\. However, on the other hand, ld. DR for the Revenue relied upon the orders
+passed by the AO/DRP.
+
+38\. The taxpayer raised objection for inclusion of Accenture before the ld.
+TPO that it is functionally dis-similar and is into diversified business and
+has acquired Oak Technologies Inc. and, therefore, fails the filter of some
+peculiar circumstances but TPO has not discussed the objection of functional
+dis-similarity and has retained Accenture as comparable on the ground that its
+acquisition was completed by 31.03.2009 and it has no impact on the revenue
+23 ITA No.825/Del/2014 ITA No.419/Del/2014 of the company during the year
+under assessment. Ld. DRP retained Accenture by simply agreeing with ld. TPO
+and without considering the objections raised by the taxpayer.
+
+39\. Annual report of the Accenture, available at pages 605 to 692, shows that
+Accenture is into the diversifying activities viz. Knowledge Process
+Outsourcing (KPO), Legal Process Outsourcing, Data Process Outsourcing, high
+end software services, whereas the taxpayer is a routine software ITES service
+provider working on cost plus mark up and fully risk insulated company.
+
+40\. Furthermore, Accenture has undergone extra ordinary event during the year
+under assessment as it has acquired M/s. Oak Technologies Inc. with
+consideration of US $ 9 million excluding during the cost of acquisition and
+as on 31.03.2009, completed purchase of 96% of the outstanding equity shares
+of M/s. Oak Technologies Inc. which has certainly impacted the profitability
+of the taxpayer which is routine service provider. In view of the decision
+rendered by Hon'ble Delhi High Court in Rampgreen Solutions Pvt. Ltd. vs. CIT
+\- 60 taxmann.com 355, KPO cannot be compared with routine BPO.
+
+41\. Accenture has also been ordered to be excluded by the coordinate Bench of
+the Tribunal in taxpayer's own case for AY  24 ITA No.825/Del/2014 ITA
+No.419/Del/2014 2010-11 in ITA No.1038/Del/2015 order dated 26.08.2016.
+Consequently, we order to exclude Accenture from the final set of comparables
+for benchmarking the international transactions. COSMIC GLOBAL LTD. (COSMIC)
+
+42\. The taxpayer sought exclusion of Cosmic on the grounds inter alia that it
+is functionally dis-similar; that under BPO segment, no segmental detail of
+operating cost is available; that Cosmic's outsourcing expenditure is 56% of
+the turnover and relied upon taxpayer's own case for AY 2008-09 and Mercer
+Consulting India P. Ltd. vs. DCIT in ITA No.966/Del/2014 for AY 2009-10,
+Capital IQ Information Systems vs. ACIT in ITA No.124/Hyd/2014 for AY 2009-10
+and Macquarie Global Services Pvt. Ltd. vs. DCIT in ITA No.6803/Del/2013 for
+AY 2009-10.
+
+43\. However, on the other hand, ld. DR for the Revenue relied upon the orders
+passed by the AO/DRP.
+
+44\. Bare perusal of the balance sheet and profit & loss account of Cosmic,
+available at pages 701 & 702 of the annual report compendium, shows that
+financial results are available only on entity level. When we examine Schedule
+VIII to the profit & loss account showing revenue from operation, it is clear
+that income from medical transcription and consultancy which is akin to  25
+ITA No.825/Del/2014 ITA No.419/Del/2014 taxpayer is only Rs.9,90,737/- whereas
+the major chunk of the business are from translation charges i.e.
+Rs.6,99,35,756/- and income from BPO is Rs.27,76,090/-.
+
+45\. Moreover, perusal of the P&L account further shows that the taxpayer has
+outsourced 56% of its activities and its outsourcing expenses are 56% of its
+revenue which makes its business model different from the taxpayer. So, we can
+safely conclude that Cosmic is into translation business which is not
+comparable to the taxpayer which is providing insurance claim processing
+services to its AE under ITES segment.
+
+46\. Cosmic was examined as a comparable in taxpayer's own case for AY 2008-09
+and was ordered to be excluded being functionally dissimilar vide order dated
+28.08.2014 passed in ITA No.6312/Del/2012. Cosmic was also ordered to be
+excluded as a comparable by the coordinate Bench of the Tribunal in ITA
+No.6803/Del/2013 vide order dated 22.01.2015 vi-a-vis Macquarie Global
+Services Pvt. Ltd. which was also into providing ITES services to its AE on
+ground of its functional dis-similarity by relying upon Mercer Consulting
+(India) Pvt. Ltd. vs. DCIT (ITA No.966/Del/2014) on the ground that Cosmic
+outsources its major activities. So, we ordered to exclude Cosmic from the
+final set of comparables.
+
+26 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 E-CLERX SERVICES (E-CLERX)
+
+47\. The taxpayer sought to exclude E-Clerx for benchmarking its international
+transaction on the grounds inter alia that it is functionally dis-similar;
+that it has only one segment and has ordered to be excluded in taxpayer's own
+case for AY 2008-09 and also relied upon Ameriprise India Pvt. Ltd. vs. ACIT
+in ITA No.2010/Del/2014 for AY 2009-10, Capital IQ Information Systems vs.
+ACIT in ITA No.124/Hyd/2014 for AY 2009-10 and Macquarie Global Services Pvt.
+Ltd. vs. DCIT in ITA No.6803/Del/2013 for AY 2009-10.
+
+48\. A perusal of pages 715 & 716 of the annual report compendium shows that
+E-Clerx is Knowledge Process Outsourcing (KPO) providing data analytics and
+data process solutions to global enterprise clients, providing end to end
+support through trade lifecycle including trade confirmation, settlements,
+transaction, maintenance, risk analytic and reporting over the last year and
+also providing unique blend of services, process reengineering and automation.
+Furthermore, perusal of page 763 of annual report compendium shows that it is
+having no segmental details rather company operates under single primary
+segment i.e. data analytics and process outsourcing services. Ld. DR for the
+27 ITA No.825/Del/2014 ITA No.419/Del/2014 Revenue contended that the taxpayer
+is also a KPO providing KPO services under data analytics.
+
+49\. However, we are of the considered view that E-Clerx is into providing
+data analytics and customized process solution to diversifying global clients
+and is also providing services to banking, manufacturing, retail, travel and
+hospitality verticals. So, its functional profile is not matched with taxpayer
+particularly when segmental detail is not available. So, the sole argument
+advanced by ld. DR that the taxpayer is also a KPO, is not acceptable. E-Clerx
+has been excluded as a comparable in taxpayer's own case for AY 2008-09 by the
+coordinate Bench of the Tribunal in ITA No.6312/Del/2012 order dated
+28.08.2014 and since then there is no change in the business profile of the
+taxpayer till today.
+
+50\. E-Clerx was also ordered to be excluded as a comparable in Macquaire
+Global Services Pvt. Ltd. (supra) which was also into providing ITES services
+to its AE on the ground that E-Clerx is a KPO and is providing end to end
+support through trade life-cycle including trade confirmation including
+settlement etc. and cannot be compared with Macquaire Global Services Pvt.
+Ltd. (supra) which is also a captive unit rendering services to its AE without
+any intangibles.
+
+28 ITA No.825/Del/2014
+
+ITA No.419/Del/2014
+
+51\. So, in view of the matter, we are of the considered view that E-Clerx is
+not a suitable comparable vis-à-vis the taxpayer who is ordered to be
+excluded.
+
+COMPARABLES SOUGHT TO BE INCLUDED BY THE TAXPAYER MICROLAND LIMITED
+(MICROLAND)
+
+52\. Undisputedly, Microland was taken as a comparable first time by the
+taxpayer before the ld. DRP. The ld. AR for the taxpayer submitted that
+Microland passes all the filters applied by the TPO. The ld. DRP have not
+given any finding on this comparable. In the given circumstances, when
+Microland passes all the filters applied by the TPO, the TPO is directed to
+examine its comparability for the purpose of benchmarking the international
+transactions.
+
+CG VAK SOFTWARE & EXPORTS LTD. & R. SYSTEMS (CG VAK) (R. SYSTEMS)
+
+53\. The ld. TPO rejected CG Vak Software & Exports Ltd. as a comparable on
+the ground that significant income of this company is from "software
+development" and that income from BPO operation is only Rs.86,00,000/-. TPO
+has applied segment while examining the comparable. Perusal of segmental
+analysis,  29 ITA No.825/Del/2014 ITA No.419/Del/2014 available at page 879 of
+the annual report compendium, shows that data is sufficient. In AY 2010-11, CG
+Vak Software & Exports Ltd. was examined as a comparable in taxpayer's own
+case and the issue was set aside to the TPO to reconsider in the light of the
+decision rendered in Techbook International Pvt. Ltd. - ITA No.240/Del/2015
+and Ameriprise India Pvt. Ltd. vs. ACIT - ITA No.7014/Del/2014. In case, data
+is sufficient, CG Vak Software & Exports Ltd. may be included in the final set
+of comparables in the light of the decisions rendered by the coordinate Bench
+of the Tribunal in Techbook International Pvt. Ltd. and Ameriprise India Pvt.
+Ltd. (supra).
+
+54\. R. Systems has been rejected by the TPO as a comparable on the ground
+that it is having different ending year than March and as such, reliable
+financial data is not available for 12 months period. Undisputedly, R. Systems
+has different financial year vis-à-vis the taxpayer which has accounting year
+from April to March but we are of the considered view that in case functional
+similarities are there, any comparable cannot be excluded merely on account of
+different accounting year. So, in case taxpayer provides reliable data to
+examine the profitability, the ld. TPO may consider it for inclusion of the
+same.
+
+30 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 GROUNDS NO.1, 2 & 3
+
+55\. Grounds No.1, 2 & 3 are general in nature more specifically elaborated in
+the subsequent grounds, need no adjudication. GROUND NO.4
+
+56\. The ld. TPO has treated foreign exchange gain/loss as non- operating
+items in both the segments i.e. ITES services and Software Development
+services while determining the arm's length price of the international
+transactions, which are now under challenge before the Tribunal. The ld. DRP
+by relying upon "Safe Harbour Rule" as per CBDT Notification dated 18.09.2013
+upheld the findings returned by ld. TPO that foreign exchange gain/loss is a
+non-operating item while determining the arm's length price of international
+transaction.
+
+57\. However, the ld. AR for the taxpayer contended that the taxpayer being a
+captive service provider passes the foreign exchange loss/gain to the
+respective AE on case to case basis without any mark up in order to make
+suitable compensation of the margin earned by the taxpayer vis-à-vis
+comparable companies.
+
+58\. Undisputedly, the Revenue has not treated foreign exchange gain/loss as
+non-operating item while operating arm's length price  31 ITA No.825/Del/2014
+ITA No.419/Del/2014 of international transaction of the taxpayer in AYs
+2008-09 and 2010-11.
+
+59\. Hon'ble High Court of Delhi in case cited as Pr. CIT-02 VS. M/s. Cashedge
+India Pvt. Ltd. in ITA 279/2016 order dated 04.05.2016 while upholding the
+decision rendered by the Tribunal held that Safe Harbour Rule is not
+applicable to AY 2008-09 as it came into force w.e.f. 18.09.2013 since the ld.
+DRP has primarily relied upon Safe Harbour Rule while upholding the decision
+of ld. DRP in treating the foreign exchange fluctuation gain/loss as non-
+operating item, the findings are not sustainable.
+
+60\. The coordinate Bench of the Tribunal decided the identical issue in case
+of Westfalia Separator India Pvt. Ltd. vs. ACIT in ITA No.4446/Del/2002 for AY
+2003-04 by returning following findings :-
+
+> "We have heard the rival submissions and perused the relevant material on
+> record. The forex gain or loss is the difference between the price at which
+> an import or export transaction was recorded in the books of account on the
+> basis of rate of foreign exchange then prevailing and the amount actually
+> paid or received at the rate of foreign exchange prevailing at the time of
+> actual payment or receipt. Since such forex loss or gain is a direct outcome
+> of the purchase or sale transaction, it partakes of the same character as
+> that of the transaction to which it relates. The Special Bench of the
+> Tribunal in the case of ACIT vs. Prakash I. Shah (2008) 115 ITD 167 (Mum)
+> (SB) has held that foreign exchange fluctuation gain is a part of export
+> turnover. Though such decision was rendered in the context of section 80HHC,
+> but the same logic applies generally as well. The essence of the matter is
+> that any gain or loss arising out of change in foreign currency rate in  32
+> ITA No.825/Del/2014 ITA No.419/Del/2014 respect of transaction for import or
+> export of goods is nothing, but inherent part of the price of import or the
+> value of export. The Hon'ble Supreme Court in Sutlej Cotton Mills Ltd. VS.
+> CIT 116 ITR 1 (SC) has held that : 'where profit or loss arises to an
+> assessee on account of appreciation or depreciation ITA Nos.4446 &
+> 4447/Del/2007 in the value of foreign currency held by it, on conversion
+> into another currency, such profit or loss would ordinarily be trading
+> profit or loss if the foreign currency is held by the assessee on revenue
+> account or as a trading asset or as part of circulating capital embarked in
+> the business'. When we read the ratio of the case of Sutlej Cotton
+> (SC)(supra) in juxtaposition to that of the Special Bench in case of Prakash
+> I Shah (supra), there remains no doubt that forex gain or loss from a
+> trading transaction is not only an item of revenue nature, but is, in fact,
+> a part of the price of import or value of export transaction, as the case
+> may be. Operating expense is ordinarily an expense that a business incurs as
+> a result of performing its normal business operations. As the business of
+> 'Assembly' done by the assessee under this segment is not possible without
+> purchases and forex gain is in relation to such purchase transactions, we
+> have no hesitation in holding that it is an item of operating cost." 16 We
+> find that the aforesaid basis that foreign exchange gain/loss should be
+> treated as non- operating item is based on the notification of CBDT issued
+> on 18.9.2018 on safe harbour. However, such a contention has been rejected
+> in the aforesaid order of the coordinate bench wherein it was held as under:
+> "4.8. The ld. AR relied on Rule 10T(j) to contend that loss arising on
+> account of foreign currency fluctuations cannot be included in the operating
+> expense. We are not persuaded to give any mileage to the ld. AR on this
+> count for the simple reason that Rule 10T is a part of Safe harbor rules
+> notified on 18.09.2013 which are not applicable to the assessment year under
+> consideration."
+
+61\. So, we are of the considered view that foreign exchange gain/loss cannot
+be treated as non-operating items while calculating the margin of the taxpayer
+as well as comparables. So, we direct to treat the foreign exchange gain/loss
+as non-operating margin as non-operating items while benchmarking the  33 ITA
+No.825/Del/2014 ITA No.419/Del/2014 international transactions. Consequently,
+ground no.4 is determined in favour of the taxpayer.
+
+GROUND NO.5
+
+62\. Ld. AO/TPO/DRP have not made appropriate adjustment on account of working
+capital differences between the taxpayer vis-à- vis comparable companies,
+which are under challenge before the Tribunal. Ld. DRP denied appropriate
+adjustment on account of difference in working capital employed on the ground
+that the onus is on the taxpayer to demonstrate the reason and calculation of
+working capital adjustment and the ld. TPO has rightly denied the same to the
+taxpayer.
+
+63\. Identical issue has come up before the coordinate Bench of the Tribunal
+in taxpayer's own case for AY 2008-09, operative part of which is reproduced
+as under for ready perusal :-
+
+> "13.1. Now, we espouse the next contention raised by the ld. AR about the
+> denial of working capital adjustment, which was claimed before the TPO. The
+> DRP echoed the TPO's order on this score by noticing that the assessee took
+> the average of the amount of working capital deployed by the comparables on
+> the first and last day of accounting period to compute the working capital
+> adjustment and there were no means to ascertain the working capital deployed
+> by the comparables throughout the year on daily basis. The assessee is
+> aggrieved.
+
+> 13.2. Having heard the rival submissions and perused the relevant material
+> on record, it is manifest that the working capital adjustment is required
+> with reference to stock, trade receivable and trade payables. By carrying
+> the high trade receivables, a company allows its customers a relatively
+> longer  34 ITA No.825/Del/2014 ITA No.419/Del/2014 period to pay their
+> accounts, which results into higher interest cost and lower profit. By
+> carrying high trade payables, a company benefits from a relatively longer
+> period available to it for paying back its suppliers, which results into its
+> lower interest cost and higher profit. Similarly, high stock means blockage
+> of funds and the resultant lower profit. These three ingredients directly
+> impact the working capital and resultant profit of comparables vis-à-vis the
+> assessee. A working capital adjustment is required to be effected for
+> bringing the comparables and the assessee at the same pedestal. The ld. DRP
+> upheld the denial of such adjustment by noticing that there were no means to
+> ascertain the working capital deployed by the comparables throughout the
+> year on daily basis. If the contention of the ld. DRP is taken to a logical
+> conclusion, then there can never be a working capital adjustment, because in
+> no case, the daily figures of comparables would come to the fore. Since, the
+> authorities below have denied working capital adjustment to the assessee on
+> flimsy ground, we vacate their action and hold in principle that the grant
+> of working capital adjustment, if otherwise available, cannot be
+> jeopardized. However, as regards the quantum of working capital adjustment,
+> we direct the AO/TPO to vet the correctness of the amount of working capital
+> adjustment claimed by the assessee and then decide its allowability as per
+> law."
+
+64\. Following the decision rendered by the coordinate Bench of the Tribunal,
+we are of the considered view that the taxpayer is entitled for working
+capital adjustment to be on the same page with the comparables. So, the
+taxpayer is entitled for working capital adjustment, the quantum of which is
+to be checked by the ld. TPO who has to proceed on the lines of the decision
+rendered by the coordinate Bench of the Tribunal in taxpayer's own case for AY
+2008-09, Consequently, Ground No.5 is determined in favour of the taxpayer.
+
+35 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 GROUNDS NO. 6, 7, 8, 9 &10
+
+65\. Grounds No.6, 7, 8, 9 &10 are general in nature more specifically
+elaborated in the subsequent grounds, need no adjudication.
+
+GROUNDS NO.11 & 11.1
+
+66\. The AO in the draft order, available at pages 140 to 147, denied the
+deduction of Rs.125,71,932/- and Rs.22,85,957/- claimed u/s 10A of the Act
+being the interest on FDR and misc. income respectively on the ground that the
+same is not related to exports. Ld. DRP also upheld the findings of the AO by
+observing that the interest income cannot be termed as profit derived from an
+undertaking and has also not followed the decision rendered by the coordinate
+Bench in AY 2008-09 on identical issue.
+
+67\. Undisputedly, identical issue has come up before the Tribunal in
+taxpayer's own case for AY 2010-11 and has been decided in favour of the
+taxpayer by relying upon the decision rendered by the Hon'ble Delhi High Court
+in Riviera Home Furnishing vs. Additional CIT\- 65 taxmann.com 287 (Delhi).
+Operative part of the finding returned by Hon'ble Delhi High Court in Riviera
+Home Furnishing (supra) is reproduced for ready perusal as under :-
+
+36 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 "9. The question as to what can constitute as profits and
+gains derived by a 100% EOU from the export of articles and computer software
+came for consideration before the Karnataka High Court in CIT v. Motorola
+India Electronics (P.) Ltd. [2014] 46 taxmann.com 167/225 Taxman 11 (Mag.).
+The said appeal before the Karnataka High Court was by the Revenue challenging
+an order passed by the ITAT which held that the interest payable on FDRs was
+part of the profits of the business of the undertaking and therefore
+includible in the income eligible for deduction Sections 10A and 10B of the
+Act. There the Assessee had earned interest on the deposits lying in the EEFC
+account as well as interest earned on inter-corporate loans given to sister
+concerns out of the funds of the undertaking. There was a restriction on the
+Assessee in that case from making pre- payment of its external commercial
+borrowings ('ECB'). It could repay only to the extent of 10% of the
+outstanding loan in a year. This made the Assessee temporarily park the
+balance funds as deposits or with various sister concerns as inter corporate
+deposits until the date of repayment. The Assessee contended that the interest
+derived from the business of the industrial undertaking was eligible for
+exemption within the meaning of Section 10B and applied the formula under
+Section 10B(4) of the Act for determining the profits from exports. The
+Assessee's contention that the expression "profits of the business of the
+undertaking" in Section 10B(4) was wider than the expression "profits and
+gains derived by" the Assessee from a 100% EOU occurring in Section 10B(1) was
+accepted by the ITAT. The ITAT noticed that unlike Section 80HHC, where there
+was an express exclusion of the interest earned from the 'profits of business
+of undertaking', there was no similar provision as far as Sections 10A and 10B
+were concerned.
+
+10\. In Motorola India Electronics (P.) Ltd. (supra) reference was made to the
+decision of the Supreme Court in Pandian Chemicals Ltd. v. CIT [2003] 262 ITR
+278/129 Taxman 539 which dealt with Section 80HH and Liberty India v. CIT
+[2009] 317 ITR 218/183 Taxman 349 (SC), which interpreted Section 801B of the
+Act. Reference was also made to the decision of CIT v. Sterling Foods [1999]
+237 ITR 579/104 Taxman 204 (SC), which interpreted Section 80HH and the
+decision of the Madras High Court in CIT v. Menon Impex (P.) Ltd. [2003] 259
+ITR 403/128 Taxman 11 which interpreted Section 10A of the Act. The Karnataka
+High Court in Motorola India Electronics (P.) Ltd. (supra), after noticing the
+above decisions, held that "it is clear that, what is exempted is not merely
+the profits and gains from the export of articles but also the income from the
+business of the undertaking". Specific to the question of interest earned by
+the EOU on the FDRs placed by it and interest earned from the loans given to
+sister concerns, it was held that although it did not partake the character of
+profit and gains from the sale of an  37 ITA No.825/Del/2014 ITA
+No.419/Del/2014 article "it is income which is derived from the consideration
+realized by export of articles."
+
+11\. The decision of the Karnataka High Court in Motorola India Electronics
+(P.) Ltd. (supra) was followed by this Court in its decision in CIT v. Hritnik
+Exports (P.) Ltd. (decision dated 13th November 2014 in ITA Nos. 219 and 239
+of 2014). This Court also referred to its earlier decision dated 1st September
+2014 in ITA No. 438 of 2014 (CIT v. XLNC Fashions). While declining to frame a
+question of law in the Revenue's appeal, this Court inHritnik Exports (P.)
+Ltd. (supra) quoted with approval the observations of the Special Bench of the
+ITAT in Maral Overseas Ltd. v. Addl. CIT [2012] 136 ITD 177/20 taxmann.com 346
+(Indore) on the interpretation of Section 10B(4) of the Act as under:
+
+'79. Thus, sub-section (4) of section 10B stipulated that deduction under that
+section shall be computed by apportioning the profits of the business of the
+undertaking in the ratio of turnover to the total turnover. Thus, not-
+withstanding the fact that sub-section (1) of section 10B refers the profits
+and gains as are derived by a 100% EOU, yet the manner of determining such
+eligible profits has been statutorily defined in sub-section (4) of section
+10B of the Act. As per the formula stated above, the entire profits of the
+business are to be taken which are multiplied by the ratio of the export
+turnover to the total turnover of the business. Sub-section (4) does not
+require an assessee to establish a direct nexus with the business of the
+undertaking and once an income forms part of the business of the undertaking,
+the same would be included in the profits of the business of the undertaking.
+Thus, once an income forms part of the business of the eligible undertaking,
+there is no further mandate in the provisions of section 10B to exclude the
+same from the eligible profits. The mode of determining the eligible deduction
+u/s 10B is similar to the provisions of section 80HHC inasmuch as both the
+sections mandates determination of eligible profits as per the formula
+contained therein. The only difference is that section 80HHC contains a
+further mandate in terms of Explanation (baa) for exclusion of certain income
+from the "profits of the business" which is, however, conspicuous by its
+absence in section 10B. On the basis of the aforesaid distinction, sub-section
+(4) of section 10A/10B of the Act is a complete code providing the mechanism
+for computing the "profits of the business" eligible for deduction u/s 10B of
+the Act. Once an income forms part of the business of the income of the
+eligible undertaking of the assessee, the same cannot be excluded from the
+eligible profits for the purpose of computing deduction u/s 10B of the Act. As
+per the computation made by the Assessing Officer himself, there is no dispute
+that both these incomes have been treated by the Assessing Officer as business
+income. The CBDT Circular No. 564 dated 5th July,  38 ITA No.825/Del/2014 ITA
+No.419/Del/2014 1990 reported in 184 ITR (St.) 137 explained the scope and
+ambit of section 80HHC and the mode of determination of profits derived by an
+assessee from the export of goods. I.T.A.T., Special Bench in the case of
+International Research Park Laboratories v. ACIT, 212 ITR (AT) 1, after
+following the aforesaid Circular, held that straight jacket formula given in
+sub-section (3) has to be followed to determine the eligible deduction. The
+Hon'ble Supreme Court in the case ofP.R. Prabhakar; 284 ITR 584 had approved
+the principle laid down in the Special Bench decision in International
+Research Park Laboratories v.ACIT (supra). In the assessee's own case the
+I.T.A.T. in the preceding years, after considering the decision in the case of
+Liberty India held that provisions of section 10B are different from the
+provisions of section 80IA wherein no formula has been laid down for computing
+the eligible business profit.'
+
+12\. Recently, in a decision dated 6th October 2015 in ITA NO. 392 of 2015
+(Principal CIT v. Universal Precision Screws), this Court had occasion to
+again consider whether interest earned on fixed deposits kept by an Assessee
+which was eligible under Section 10B of the Act, as a condition for
+utilization of letter of credit and bank guarantee limits, would qualify for
+deduction. That question was decided in favour of the Assessee and against the
+Revenue. The Court held as under:
+
+'9. On the question of interest on the FDRs, the ITAT has referred to Section
+10B(4) which states that for the purposes of Section 10B(1), the profits
+derived from export of articles or things or computer software "shall be the
+amount which bears to the profits of the business of the undertaking", the
+same proportion as the export turnover in respect of such articles or things
+or computer software bears to the total turnover of the business carried on by
+the undertaking.' As noted by this Court in CIT v. Hritnik Exports Pvt. Ltd.
+(decision dated 13th November, 2014 in ITA No. 219 & 239 of 2014), Section
+10B(4) mandates the application of the formula for determining the profits
+derived from exports for the purposes of Section 10B(1). In other words, the
+formula would read thus:
+
+Profits derived from export = Profits of the business of the undertaking 9A.
+In terms of the above formula, the question that would arise is whether the
+interest on the FDRs could form part of the 'profits of the business of the
+undertaking'. The attention of the Court has been drawn to the decision of the
+Karnataka High Court in CIT v. Motorola India Electronics Pvt. Ltd. (2014) 46
+Taxmann.com 167 (Kar.) which held that there was a direct nexus between the
+interest received from the FDRs created by a similarly placed Assessee from
+the amounts borrowed by it. The  39 ITA No.825/Del/2014 ITA No.419/Del/2014
+High Court approved the order of the ITAT in that case which held that the
+entire profits of the business of the undertaking should be taken into
+consideration while computing the eligible deduction under Section 10B of the
+Act by ITA 392/2015 applying the mandatory formula.
+
+10\. In the present case, the Assessee has stated that the interest on FDRs
+was received on "margin kept in the bank for utilization of letter of credit
+and bank guarantee limits". In those circumstances, the decision of the ITAT
+that such interest bears the requisite characteristic of business income and
+has nexus to the business activities of the Assessee cannot be faulted. In
+other words, interest earned on the FDRs would form part of the "profits of
+the business of the undertaking" for the purposes of computation of the
+profits derived from export by applying formula under Section 10B(4) of the
+Act.'
+
+13\. Mr. Ashok Manchanda, learned Senior standing counsel for the Revenue,
+urged that none of the earlier decisions of the High Courts have considered
+the effect of Sections 80I, 801A and 801B of the Act which occur in Chapter
+VIA of the Act. He referred in particular to Section 80A(4) of the Act, which
+reads as under:
+
+'4) Notwithstanding anything to the contrary contained in section 10A or
+section 10AA or section 10B or section 10BA or in any provisions of this
+Chapter under the heading "C--Deductions in respect of certain incomes",
+where, in the case of an assessee, any amount of profits and gains of an
+undertaking or unit or enterprise or eligible business is claimed and allowed
+as a deduction under any of those provisions for any assessment year,
+deduction in respect of, and to the extent of, such profits and gains shall
+not be allowed under any other provisions of this Act for such assessment year
+and shall in no case exceed the profits and gains of such undertaking or unit
+or enterprise or eligible business, as the case may be.'
+
+14\. Mr. Manchanda's attempt was to show that Section 80A(4), which inter alia
+stated that any deduction allowable under Section 10B cannot in any case
+"exceed the profits and gains of such undertaking or unit or enterprise or
+eligible business, as the case may be" made it clear that a unit seeking
+deduction under Section 10B would be eligible to do so only insofar as such
+income was directly attributable to the business of export. Any income that
+might be merely incidental to the business of the undertaking, not directly
+related to the activity of export, would not be eligible for such deduction.
+He also took the Court again through the decision of the Supreme Court in
+Liberty India (supra) and submitted that the earlier decisions of this Court
+in Hritnik Exports (P.) Ltd. (supra) and Universal Precision Screws  40 ITA
+No.825/Del/2014 ITA No.419/Del/2014 (supra) might require to be reconsidered.
+When a question was posed to him as to whether the Revenue had challenge the
+aforementioned decisions of this Court, and of the ITAT in the present case to
+the extent it has allowed the plea of the Assessee as regards 'deemed export
+drawback', Mr. Manchanda stated that the Revenue ought to have challenged the
+above decisions as well as the impugned order of the ITAT in the present case
+and perhaps he would advise it to do so hereafter. He has also handed over a
+written note of submissions, reiterating the above submissions.
+
+15\. In the considered view of the Court, the submissions made on behalf of
+the Revenue proceed on the basic misconception regarding the true purport of
+the provisions of Chapter VIA of the Act and on an incorrect understanding of
+Section 80A(4) of the Act. The opening words of Section 80A(4) read
+"Notwithstanding anything to the contrary contained in section 10A or section
+10AA or section 10B or section 10BA or in any provisions of this Chapter . . .
+. . ". What is sought to be underscored, therefore, is that Section 80A, and
+the other provisions in Chapter VIA, are independent of Sections 10A and 10B
+of the Act. It appears that the object of Section 80A(4) was to ensure that a
+unit which has availed of the benefit under Section 10B will not be allowed to
+further claim relief under Section 80IA or 80IB read with Section 80A(4). The
+intention does not appear to be to deny relief under Section 10B(1) read with
+Section 10B(4) or to whittle down the ambit of those provisions as is sought
+to be suggested by Mr. Manchanda. Also, he is not right in contending that the
+decisions of the High Courts referred to above have not noticed the decision
+of the Supreme Court in Liberty India. The Karnataka High Court in Motorola
+India Electronics (P.) Ltd. (supra) makes a reference to the said decision.
+That decision of the Karnataka High Court has been cited with approval by this
+Court in Hritnik Exports (P.) Ltd. (supra) and Universal Precision Screws
+(supra). In Hritnik Exports (P.) Ltd. (supra) the Court quoted with approval
+the observations of the Special Bench of the ITAT in Maral Overseas Ltd.
+(supra) that "Section 10A/10B of the Act is a complete code providing the
+mechanism for computing the 'profits of the business' eligible for deduction
+u/s 10B of the Act. Once an income forms part of the business of the income of
+the eligible undertaking of the assessee, the same cannot be excluded from the
+eligible profits for the purpose of computing deduction u/s 10B of the Act."
+
+16\. This then brings us to the questions framed for consideration in the
+present case and the decision of the ITAT in not accepting the Assessee's plea
+in regard to 'customer claims' 'freight subsidy' and 'interest on fixed
+deposit receipts' even while it  41 ITA No.825/Del/2014 ITA No.419/Del/2014
+accepted the Assessee's case as regards 'deemed export drawback'.
+
+17\. The contention of the Assessee as regards customer claims was that it had
+received the claim of Rs. 28,27,224 from a customer for cancelling the export
+order. Later on the cancelled order was completed and goods were exported to
+another customer. The sum received as claim from the customer was nonseverable
+from the income of the business of the undertaking. The Court fails to
+appreciate as to how the ITAT could have held that this transaction did not
+arise from the business of the export of goods. Even as regards freight
+subsidy, the Assessee's contention was that it had received the subsidy in
+respect of the business carried on and the said subsidy was part of the profit
+of the business of the undertaking. If the ITAT was prepared to consider the
+deemed export draw back as eligible for deduction then there was no
+justification for excluding the freight subsidy. Even as regards the interest
+on FDR, the Court has been shown a note of the balance sheet of the Assessee
+[which was placed before the AO] which clearly states that "fixed deposit
+receipts (including accrued interest) valuing Rs. 15,05,875 are under lien
+with Bank of India for facilitating the letter of credit and bank guarantee
+facilities." In terms of the ratio of the decisions of this Court both in
+Hritnik Exports (P.) Ltd. (supra) and Universal Precision Screws (supra), the
+interest earned on such FDR ought to qualify for deduction under Section 10B
+of the Act."
+
+68\. So, following the findings returned by the coordinate Bench of the
+Tribunal in taxpayer's own case for AY 2010-11 based on the decision of
+Hon'ble High Court in Riviera Home Furnishing (supra), we are of the
+considered view that the taxpayer is entitled for deduction u/s 10A on the
+interest earned on fixed deposit receipts to the tune of Rs.125,71,932/- and
+Rs.22,85,957/-.
+
+69\. Similar view as to allowing the deduction u/s 10A of the Act on excess
+provision returned back amounting to Rs.7,42,769/- has been expressed by the
+coordinate Bench of the Tribunal in Birlasoft (India) Ltd. vs. DCIT 44 SOT 664
+(Delhi). Following  42 ITA No.825/Del/2014 ITA No.419/Del/2014 the decision
+rendered by the coordinate Bench of the Tribunal, we are of the considered
+view that notice pay recoveries from the employees is also part of the
+business profit of the taxpayer on which the taxpayer is also eligible for
+deduction u/s 10A of the Act. Consequently, grounds no.11 & 11.1 are also
+determined in favour of the taxpayer.
+
+GROUND NO.12
+
+70\. The AO has not given credit of tax deducted at source of Rs.58,922/- to
+the taxpayer. AO is directed to provide the credit to the taxpayer qua the tax
+deducted at source after due verification. GROUND NO.13
+
+71\. The AO has also not given credit of advance tax of RS.27,50,000/-
+deposited by the taxpayer during the year under assessment. The taxpayer is
+entitled for credit of advance tax subject to verification by the AO. So, the
+AO is directed to proceed accordingly.
+
+GROUND NO.14
+
+72\. AO has also not granted set off of Minimum Alternate Tax (MAT) credit of
+Rs.216,54,947/- brought forward during the year under assessment u/s 115JAA of
+the Act. When it is not in dispute that the taxpayer has claimed the credit of
+Rs.216,54,947/- being  43 ITA No.825/Del/2014 ITA No.419/Del/2014 brought
+forward figure, the taxpayer is entitled for set off of MAT credit of the
+same. So, the AO is directed to proceed accordingly after due verification.
+
+GROUND NO.15 & 15.1
+
+73\. Grounds No.15 & 15.1 qua levy of interest u/s 234B and 234C of the Act
+need no specific finding being consequential in nature.
+
+REVENUE'S APPEAL (ITA NO.419/DEL/2014) GRO8UND NO.i
+
+74\. Grounds No.i is general in nature and need no adjudication being more
+specifically elaborated in the subsequent grounds. SOFTWARE DEVELOPMENT
+SERVCIES SEGMENT GROUND NO.ii READ WITH GROUND NOS.iv & v
+
+75\. The Revenue has challenged the order passed by ld. DRP to the extent of
+excluding M/s. Aricent Tech, M/s. Bodhtree Consulting and CAT Technologies for
+benchmarking the international transactions qua services provided by the
+taxpayer to its AE in software development services segment. We would examine
+the comparability of the aforesaid 3 comparables vis-à-vis the taxpayer one by
+one.
+
+44 ITA No.825/Del/2014
+
+ITA No.419/Del/2014 ARICENT TECH (ARICENT)
+
+76\. Perusal of para 3.1 of the TP order apparently shows that Aricent was
+rejected by the TPO itself on ground of Related Party Transactions (RPT) which
+are to the tune of 33.61%, but somehow again Aricent find place in final set
+of comparables for benchmarking the international transactions. This factual
+position has not been controverted by the ld. Senior DR. So, we are of the
+considered view that there is no scope for further deliberations on the
+comparability of Aricent as it fails RPT filter applied by the TPO himself.
+So, ld. DRP has rightly rejected Aricent as a comparable vis-à-vis taxpayer.
+
+BODHTREE CONSULTING (BODHTREE)
+
+77\. Before the ld. TPO, the taxpayer sought to reject Bodhtree on the grounds
+inter alia that it has only ONE segment i.e. software development in FY
+2006-07 being engaged in providing open and end to end web solutions, software
+consultancy, design and development of solutions, using the latest
+technologies and besides specialized IT and data management services, the
+company had developed and spun off its strategic business units in
+e-publishing (e-paper solution), E-Learning (Web based assessment services )
+and Mobile Classified space (mobile search and classified  45 ITA
+No.825/Del/2014 ITA No.419/Del/2014 advertising platform for the used car
+industry in Malaysia) into Pressmart Media Limited, Learn Smart (India) Pvt.
+Ltd. and Trylah SDN Bhd respectively. It is also mentioned that the company
+has software solutions of its own (Hygia 2.3 - Enterprise Data Quality
+Solution, Busin Essence 4.0 - Business Intelligence Dashboard Solution,
+DigiDoc - Document Management framework) and Sevices (Web Services and
+Customized IT Professional Services.
+
+78\. However, TPO retained Bodhtree as a comparable on the ground that the
+company has shown fixed assets in the form of computer software of
+Rs.96,03,610/- only which is insignificant and there is no capitalized
+expenditure on software development on software products and as such, it does
+not have any significant product business.
+
+79\. However, the ld. DRP excluded Bodhtree on the ground of abnormal results
+during this year by tabulating the margin of this company of earlier and
+subsequent years as under :- Company 2005-06 2006-07 2007-08 2008-09 2009-10
+2010-11 Name OP/TC Margin Bodhtree 14.66% 33.20% 20.86% 64.04% 34.39% -29.65%
+Consulting Limited
+
+80\. The ld. DR for the Revenue challenging the impugned order passed by ld.
+DRP by relying upon ChrysCapital Investment  46 ITA No.825/Del/2014 ITA
+No.419/Del/2014 Advisors (India)_(P.) Ltd. vs. DCIT (2015) 56 taxmann.com 417
+(Delhi) contended that functionally similar comparables cannot be excluded
+only on the ground of super normal profit.
+
+81\. However, ld. AR for the taxpayer relied upon decisions of the coordinate
+Bench of the Tribunal in Ciena India Pvt. Ltd. in ITA No.1453/Del/2014 order
+dated 24.04.2015 and Infinera India Pvt. Ltd. in ITA(TA) A.No.1008 (BNG.)/2014
+order dated 30.06.2016 wherein Bodhtree has been ordered to be excluded on the
+basis of fluctuating profit margin.
+
+82\. No doubt, high or low profit margin of the company is not a ground for
+treating it as uncomparable but in case high or low profit is due to abnormal
+circumstances then certainly fluctuating profit margin is a ground to reject
+the company as a suitable comparable. Coordinate Bench of the Tribunal in
+Ciena India Pvt. Ltd. for AY 2009-10 (supra) examined the issue at length and
+treated fluctuating profit margin of Bodhtree as a ground for rejecting as a
+comparable by returning following findings :-
+
+> "9.6. Coming back to the facts of the instant case, we find from Schedule 12
+> that there is a mention of Significant accounting policy at Sl. no.3, which
+> provides that : "Revenue from software development is recognized based on
+> software development and billed to clients." If some software development
+> project is incomplete at the end of the year, this Note may entail two
+> situations , viz., the first, in which the expenses incurred in respect of
+> such software development may be capitalized, which appears to be a more
+> rational manner of depicting the true and fair view of the profitability of
+> the enterprise; and the second, in  47 ITA No.825/Del/2014 ITA
+> No.419/Del/2014 which such expenses may be straightway taken as revenue cost
+> for the year of its incurring itself, which may not reflect a true and fair
+> view of the profits on year to year basis. The contention of the ld. AR is
+> that whereas Bodhtree fell into the second situation, the assessee was in
+> the first situation. Though this contention about Bodhtree accounting for
+> expenses in the year of incurring but considering income only on the
+> conclusion of the project in the subsequent year sounded a little awkward,
+> we attempted to find out the amount of capitalized expenses in respect of
+> incomplete projects at the end of the year. Apparently, we could not find
+> out any such capitalized value of work-in- progress in the balance sheet of
+> the company on standalone basis. We directed the ld. DR to examine the
+> Annual report of this company and point out the amount of expenses
+> capitalized in respect of incomplete work at the end of the year. On the
+> next date of hearing, the ld. DR failed to specifically point out any amount
+> of such capitalized expenses with the opening or closing balance. This prima
+> facie shows that the expenses incurred in respect of incomplete projects of
+> software development at the end of the year, but billed in the subsequent
+> year, were, in fact, treated as expenses for the current year alone. In the
+> same manner, expenses incurred in the preceding year for the contracts of
+> software development remaining incomplete at the end of the year, also must
+> have been included in the expenses of the last year alone, but, the income
+> getting recognized on the raising of bills in the current year. This albeit,
+> patently deforms the correct profitability on year to year basis, yet, but
+> we cannot help the situation. When the position of accounts of Bodhtree is
+> such that it does not properly match expenses with revenue, it loses its
+> credibility for making a logical comparison with a company that accounts for
+> expenses matching with the revenue. Once it is held that the profits of
+> Bodhtree Consulting Ltd. do not represent fair profitability on year to year
+> basis, this company loses its tag of an effective comparable. We, therefore,
+> order for the exclusion of this company from the final list of comparables."
+
+83\. Perusal of annual report, available at page 1798 of the paper book Vol.V,
+also goes to prove that the company is engaged in both software solution and
+software services. Moreover, as discussed by the coordinate Bench of the
+Tribunal in Ciena India Pvt. Ltd. (supra), "When the position of accounts of
+Bodhtree is  48 ITA No.825/Del/2014 ITA No.419/Del/2014 such that it does not
+properly match expenses with revenue, it loses its credibility for making a
+logical comparison with a company that accounts for expenses matching with the
+revenue", it cannot be a suitable comparable. So ld. DRP has rightly excluded
+Bodhtree as unsuitable comparable vis-à-vis taxpayer. CAT TECHNOLOGY
+
+84\. Before the ld. TPO, taxpayer has sought exclusion of CAT Technology on
+ground of functional dis-similarity because the company is exclusively in the
+business of Medical Transcription, Training, Software Development and
+Consulting Services. Perusal of annual report, available at page 1871, also
+shows that CAT Technology is engaged in job portal services.
+
+85\. Ld. DR contended that the CAT Technology is only into software
+development as discussed by the TPO. However, as per data available in the
+annual report at page 1871, it is categorically mentioned that during the year
+under assessment, the company launched job portal viz. Logtalent.com which was
+instant success with job aspirants. Encouraged with success of this portal
+company proposed to launch 3 to 4 portal during the current financial year in
+the different fields. So, in the given circumstances, contention  49 ITA
+No.825/Del/2014 ITA No.419/Del/2014 made by ld. Senior DR is misplaced and ld.
+DRP has rightly excluded CAT Technology from the final set of comparables.
+ITES SEGMENT GROUND NO.iii READ WITH GROUNDS NO.iv & v
+
+86\. The Revenue has challenged the exclusion of Coral Hub by ld. DRP on the
+ground that the same has been excluded without any valid reason. Before the
+ld. TPO, the taxpayer has sought exclusion of Coral on ground of functional
+dis-similarity and low employee cost ratio. Both these objections have been
+overruled by the ld. TPO.
+
+87\. However, the ld. DRP rejected Coral Hub as a comparable on ground of its
+outsourcing activities. Perusal of annual report, available at page 945 (P&L
+account for the year ending June, 2010), shows that Coral has outsourced its
+activities to the extent of 90% and its operating expenses on account of data
+entry charges, vendor payment and expenses on conversion of books into POD
+titles is to the tune of about Rs.56 crores.
+
+88\. Coral Hub has been ordered to be excluded on ground of functional dis-
+similarity by the coordinate Bench of the Tribunal in taxpayer's own case for
+AY 2008-09. The relevant findings  50 ITA No.825/Del/2014 ITA No.419/Del/2014
+returned by the coordinate Bench of the Tribunal are reproduced as under :-
+
+> "12.2. Having heard the rival submissions and perused the relevant material
+> on record, we find from the Annual report of this company that it is mainly
+> engaged in e-publishing business. It has more than 10,000 classic books to
+> its credit which are also converted into large font titles for visually
+> challenged. Apart from e-publishing, this company is also engaged in
+> Documents scanning & Indexing. It can be seen from the financial results of
+> this company that both the segments viz., e-publishing and Documents
+> scanning etc. have been combined and there are no separate financial results
+> in respect of Documents scanning work, which may be comparable with the
+> assessee to some extent. As the assessee is not engaged in any e-publishing
+> business and the financials given by this company are on consolidated basis,
+> we direct to exclude this company from the list of comparables. The assessee
+> succeeds."
+
+89\. So, keeping in view the functional dis-similarity of Coral Hub (Vishal
+Informatics) vis-à-vis the taxpayer, the ld. DRP has rightly excluded the
+Coral from the final set of comparables GROUNDS NO.vi & vii
+
+90\. Grounds No.vi & vii are general in nature, hence need no specific
+adjudication.
+
+91\. Resultantly, the appeal of the taxpayer stands allowed for statistical
+purposes and the appeal of the Revenue is dismissed. Order pronounced in open
+court on this 9th day of February, 2018.
+
+    
+    
+                  Sd/-                                  sd/-
+            (R.S. SYAL)                            (KULDIP SINGH)
+          VICE PRESIDENT                         JUDICIAL MEMBER
+    
+    Dated the 9th day of February, 2018
+    TS
+                                    51   ITA No.825/Del/2014
+                                        ITA No.419/Del/2014
+    
+    
+    
+    Copy forwarded to:
+         1.Appellant
+         2.Respondent
+         3.CIT
+         4.CIT (A)
+         5.CIT(ITAT), New Delhi.          AR, ITAT
+                                         NEW DELHI.
+     
+

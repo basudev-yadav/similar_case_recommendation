@@ -1,0 +1,899 @@
+
+
+Delhi High Court
+
+M/S Hilton Roulunds Ltd. vs Commissioner Of Income Tax on 20 April, 2018
+
+    
+    
+    $~
+    * IN THE HIGH COURT OF DELHI AT NEW DELHI
+    +                ITA 325/2005
+                                  Reserved on : 14th December, 2017
+                                   Date of decision :20th April, 2018
+    M/S HILTON ROULUNDS LTD.                                . .... Appellant
+                     Through:              Mr. Ajay Vohra, Senior Advocate
+                                           with Mr. Prakash Kumar & Mr.
+                                           Aniket D. Aggarwal, Advocates.
+                              versus
+    COMMISSIONER OF INCOME TAX                    ..... Respondent
+                      Through: Mr. Ruchir Bhatia, Advocate.
+    CORAM:
+    HON'BLE MR. JUSTICE SANJIV KHANNA
+    HON'BLE MS. JUSTICE PRATHIBA M. SINGH
+                              JUDGMENT
+    
+
+Prathiba M. Singh J., The short question arising in the present appeal is -
+Whether the payment of Rs.1 Crore for exclusive use of the trade mark "HILTON"
+is to be treated as capital expenditure or revenue expenditure?
+
+2\. M/s. Hilton Roulands Ltd. (hereinafter „appellant‟) entered into Trade
+Mark license agreement dated 27th January, 1993 (hereinafter „first license
+agreement‟) which was later substituted with license agreement dated 9th
+November, 1995 (hereinafter „second license agreement‟) with M/s. Hilton
+Rubbers Limited (hereinafter „HRL‟). The questions that arise in this case are
+to be adjudicated in the context of these agreements. Brief Background
+
+3\. M/s Roulands Fabriker Denmark (hereinafter „RF‟) along with HRL and
+Industrialisation for Developing Countries, Copenhagen (hereinafter ITA 325
+2005 Page 1 of 30 „IFU‟) formed the appellant as a joint venture in India. HRL
+owned 50% of the equity shares of the appellant, and RF and IFU held 26% and
+24% respectively of the said joint venture. At the time when the joint venture
+was formed, the first license agreement dated 27th January 1993, was entered
+into, under which the appellant was granted by HRL license to use the Trade
+Mark HILTON in respect of Raw-Edge and Wrapped V-Belts. The relevant clauses
+of the said agreement are as under:
+
+> "2(a). Subject to the terms of this Agreement the Proprietor hereby grants
+> to the User for the term of this Agreement an exclusive right to use upon or
+> in connection with Raw Edge, Wrapped V-Belts and other power transmissions
+> belts excluding flat transmission belts (hereinafter referred to as "the
+> Goods") the Trade Mark in India and in such other countries to which the
+> Goods are exported.
+
+> 3(a). In consideration of the said right, the User shall pay to the
+> Proprietor a running royalty on the domestic sale (i.e. sales within the
+> Republic of India) of Raw- Edge and Wrapped V-Belts at the rate of 1.8% of
+> the net selling price from the date of commercial production thereof.
+
+> The expression Net Selling Price shall mean ex-factory selling price of Raw-
+> Edge and Wrapped V-Belts excluding sales tax, excise duty and other
+> governmental taxes and levies, insurance, forwarding and packaging expenses
+> nad freight charges.
+
+> (b). Unless otherwise specified by the Proprietor, the royality hereunder
+> shall be paid to Hilton Rubbers Limited, S-21, Green Park Extension, i_e ""
+> Delhi 110016, in India Rupees at half yearly intervals, within 60 days at
+> the end of each calendar half year. 7(a). The User recognizes the
+> Proprietor‟s title to the Trade Mark and shall not at any time do or suffer
+> to be ITA 325 2005 Page 2 of 30 done any act or thing which will in any way
+> impair the rights of the Proprietor in and to the Trade Mark. In particular
+> but without prejudice to the generality of the foregoing, the User
+> undertakes not to use the Trade Mark in any manner which may jeopardize the
+> distinctiveness or validity of the Trade Mark and shall apply and use the
+> Trade Mark only on or in connection with such of the Goods and only in such
+> form and manner as the Proprietor or his representative may from time to
+> time direct or approve and the labels, containers, packagings, pamphlets,
+> advertisements and the like used in connection with the Goods shall show the
+> Trade Mark in such a manner and with such lettering and marking as may be so
+> directed or approved.
+
+> 11\. This Agreement shall come into force on the date hereof and the User
+> shall be entitled to use the Trade mark as an exclusive User thereof for the
+> Goods. Subject to earlier termination in accordance with the provisions of
+> Clauses 12 & 13, this Agreement shall run for an initial period of 10 years
+> and shall continue thereafter_ without limit of time until terminated by at
+> least 12 calender months‟_previous written_notice given by either party to
+> the other."
+
+> (emphasis supplied) Thus, as per the First license agreement:
+
+> a) The appellant was granted an exclusive right to use the Trade Mark
+> "HILTON" in India in respect of Raw-Edge and Wrapped V-Belts;
+
+> b) Ownership of the mark vested in HRL;
+
+> c) Running royalty on domestic sale was payable to the HRL;
+
+> d) License was terminable by 12 months‟ notice or by 30 days‟ notice in case
+> of breach of the terms of the agreement;
+
+ITA 325 2005 Page 3 of 30
+
+> e) License could also be terminated if the appellant did not adhere to the
+> conditions of use under the agreement, or if the rights in the mark were
+> endangered in any manner.
+
+> 4\. Though, the agreement was for a period of 10 years, a second license
+> agreement was entered into on 9th November, 1995. The relevant clauses of
+> the second license agreement 1995 read as under:
+
+> "1. The Proprietor is registered as the Proprietor in India of the Trade
+> Mark "Hilton" which the Registration No.325863 (hereinafter called the
+> "Trade Mark") shown in the Schedule hereto and has exclusive rights in the
+> Trade Mark.
+
+> 2\. By a Trade Mark License Agreement dt. January 27, 1993 (Hereinafter
+> "First Agreement") entered into between the proprietor and the user, the
+> user has right to use the Trade Mark "Hilton", either alone or as part of a
+> trade name (including but not limited to "Hilton Optiflex". "Hilton Optiset"
+> and "Hilton Optitex"). In India and in all other countries to which the user
+> may intend to export Raw-Edge and Wrapped v. Belts, subject to the terms and
+> conditions set forth in the said agreement.
+
+> 3\. By a Joint Venture Agreement dated 13, 1992 (hereinafter "JV Agreement)
+> entered into between Proprietor, M/s Roulunds Fabriker, Denmark (hereinafter
+> "RF) and the Industrialization for Developing countries, Copenhagen
+> (hereinafter "IFU), the parties hereto have formed and established the User
+> as a Joint Venture and have subscribed to the share capital of the user on
+> the trade and conditions wet forth in the JV Agreement.
+
+> 4\. Proprietor, having decided to sell its entire shareholding in user to RF
+> or its nominee(s) is desirous of signing a new Trade Mark License ITA 325
+> 2005 Page 4 of 30 Agreement (hereinabove ''Principle Agreement") which
+> overrides the first agreement, in the entirely. ......................
+
+> 1\. The User hereby acknowledges and confirms that the Proprietor has at all
+> material times been the lawful sole and exclusive owner of the Trade Mark
+> throughout the world including the Union of India and of the rights
+> attaching to the said Trade Mark been used in relation to business in the
+> said goods advertisement or promotional material or otherwise in connection
+> therewith.
+
+> 2\. Subject to the terms of this Agreement the Proprietor hereby grants to
+> the User for the term of this agreement an exclusive right to use upon or in
+> connection with Raw Edge, Wrapped V. Belts and other power transmission
+> belts excluding that· transmission belts (hereinafter referred to as the
+> Goods) the Trade Mark in India and in such other countries which the goods
+> are exported.
+
+> 3\. This agreement shall come to effect from the day of signing of this
+> agreement (hereinafter referred to as ''Effective Date).
+
+> 4\. In consideration of the said right, the User shall pay to the Proprietor
+> a sum of Rs. 10,000,000/- (Rupees ten million only) within 3 weeks of time
+> Effective Date. In the event that the payment is not made as aforesaid, the
+> said amount will carry interest w.e.f 22nd day of the effective date till
+> the date of actual payment as below: ..................
+
+> 12\. This agreement shall come into force from the Effective Date, and the
+> User shall be entitled to use the Trade Mark as an exclusive user there of
+> for the goods. Subject to earlier termination in accordance with the
+> provisions of clause 13 & 14, this agreement shall run for an initial period
+> of 10 years and shall continue thereafter without limit of the time until
+> terminated by ITA 325 2005 Page 5 of 30 at least 12 calender months previous
+> written noticed given by either party to the other."
+
+> (emphasis supplied) Thus, in the second license agreement the terms were:
+
+> a) That HRL had decided to sell its entire shareholding in the appellant to
+> RF.
+
+> b) Instead of a royalty payable periodically, a onetime royalty of Rs.1
+> Crore was payable towards the Trade Mark license.
+
+> c) Exclusive right to use the mark was given to the appellant.
+
+> 5\. The short question that has arisen is as to whether the payment of Rs.1
+> Crore made under the second license agreement to HRL by the appellant was
+> entitled to deduction under Section 37(1) of the Income Tax Act, 1961
+> (hereinafter „the Act‟) as revenue expenditure?
+
+6\. The Reserve Bank of India gave no objection for the making of payment on
+30th March, 1996. The appellant/assessee filed its return of income for
+assessment year (hereinafter „AY‟) 1996-97 declaring a loss of Rs.23,39,304/-.
+Deduction was claimed under Section 37(1) of the Act in respect of payment of
+Rs.1 Crore made to HRL for use of Trade Mark under the second license
+agreement. Assessment was completed under Section 143(3) of the Act and the
+income of the appellant was determined at Rs.84,95,035/-. The assessing
+Officer (hereinafter „AO‟) came to the conclusion that since the payment of
+Rs.1 Crore was absent in the earlier license agreement and it was for use of
+the brand, the expenditure of Rs.1 Crore cannot be related to the business of
+the appellant. The AO further held that the said expenditure was of capital
+nature and was of an enduring nature. Relevant findings of the AO are as
+under:
+
+ITA 325 2005 Page 6 of 30
+
+> a) Since the first license agreement was already in operation there was no
+> purpose in entering into the second license agreement.
+
+> b) The reason given in clause 4 of the second agreement clearly showed that
+> the transaction was one of sale of shareholding.
+
+> c) There were payments made to RF towards royalty and technical know-how.
+> The expenditure gives enduring benefit to the business and was
+> distinguishable from a recurring expenditure.
+
+> d) Even the clauses of termination were vague and based on hypothetical
+> conditions.
+
+> e) In effect, the Trade Mark license was perpetual as there was no clause
+> stipulating that the Trade Mark would revert to the owner after a definite
+> time period.
+
+On these grounds, deduction as revenue expenditure was disallowed by the AO.
+
+7\. The Commissioner of Income Tax (Appeals) [„CIT(A)‟, for short], on 24th
+March, 2000, after examining the matter and relying upon the decision of the
+Supreme Court in Madras Industrial Investment Corporation v. CIT (1997) 225
+ITR 802 (SC) held that the payment of Rs.1 Crore was revenue expenditure and
+the appellant was entitled to the deduction. CIT(A) concluded that the
+expenditure incurred in connection with right to use the trademark was
+important in the operations of the business of the assessee as also for its
+efficiency and profitability. Accordingly, the deduction was allowed.
+
+8\. The Income Tax Appellate Tribunal („ITAT‟, for short) on 22nd December,
+2004 held that since two agreements were entered into on 9 th ITA 325 2005
+Page 7 of 30 November, 1995, one for use of the trademark and another for sale
+of shareholding, the payment of Rs.1 Crore was not a pure trademark license.
+ITAT specifically relied upon clause 12 of the second license agreement. On
+this, the ITAT held as under:
+
+> "Since the HRL has sold the entire share holding in assessee and the right
+> to use the Trade Mark on one day and the agreements suggest that it was not
+> only a license to use the Trade Mark but also a sale of Trade Mark, by
+> allowing the assessee to use for a unlimited period, one inference can only
+> be drawn that the assessee has procured the enduring benefit for its
+> business by using this trade made through this agreement against lump sum
+> payment and the expenditure incurred in capital expenditure."
+
+9\. The ITAT held that since the right to use was for an unlimited period, and
+there was no clause for renewal and/or any further consideration, the
+trademark, though termed as a license, was in effect, final sale of the mark.
+Thus, the ITAT held that the payment of Rs. 1 Crore is for an enduring benefit
+and hence is capital in nature.
+
+10\. On 13th September, 2005, the following question of law was framed in the
+present appeal:
+
+> "Whether the Income Tax Appellate Tribunal was right in law in holding that
+> the payment of Rs. 1 crore in terms of the agreement dated 09.11.1995
+> represented capital expenditure could not be allowed as deduction under the
+> Income Tax Act, 1961?"
+
+Submissions of the appellant/assessee
+
+11\. Mr. Ajay Vohra, learned Senior counsel for appellant relied on the above
+mentioned judgments and also cited the recent judgment of a Division ITA 325
+2005 Page 8 of 30 Bench of this Court in McDonalds India Pvt. Ltd. & Ors. v.
+Commissioner of Trade and Taxes (2017) 241 DLT 769 (DB) („McDonalds‟, for
+short). In McDonalds (supra), the Court was concerned with the question as to
+whether the consideration revealed by the McDonalds was taxable under the
+Delhi Value Added Tax Act, 2004 („DVAT Act‟, for short). This Court held that
+proceedings were under the sale or purchase of goods while in a trademark
+license arrangement, the franchise agreement, insofar as they were related to
+the right to use the mark, were not subjected to DVAT levy. The observations
+of the Court are under:
+
+> "McDonald‟s and the petitioners (Sagar Ratna, and Bikanerwala) are solely
+> engaged in providing franchise services to its franchisees and the same
+> would thus not be liable to VAT under the provisions of the DVAT Act, as the
+> franchise service is expressly a taxable service and cannot be treated as
+> goods. From a perusal of the facts of the cases, as well as the provisions
+> of the franchise agreements, it can be concluded that what was intended to
+> be transferred was not the trade mark, but an entire gamut of services,
+> which includes, inter alia, a guide that educates the franchisees on various
+> aspects of business and conduct to market the business. To segregate the
+> terms of the agreement to levy VAT on only specific aspects of it would be
+> inexact. Moreover, the Appellant and the Petitioners are already paying
+> service tax levied on the franchise agreements, and there can be no
+> overlapping of taxes. The subject matters in List I and List II of the
+> Seventh Schedule to the Constitution are distinct and once a particular
+> service is subject to service tax, it cannot be treated as a sale of goods
+> and subject to VAT. Thus, the definition of "intellectual property" and levy
+> of sales tax on transfer of right to use trade marks, patents and copyrights
+> etc. will not apply in the case of a franchise ITA 325 2005 Page 9 of 30
+> agreement. This was highlighted in paragraphs 88 and 89 of BSNL (supra)."
+
+12\. This Court held that since franchise agreements were subjected to service
+tax there cannot be any levy of sales tax. Thus, franchise agreement was held
+to only grant the representational right and not right to sell or manufacture
+the goods.
+
+13\. It was submitted by Mr. Vohra that under both the license agreements,
+only the right to use was given. Right to ownership in the mark was not
+transferred. The mere fact that instead of 1.8% net royalty, a lumpsum royalty
+was fixed. This fact alone does not change the nature of the transaction. He
+submits that the court cannot go behind the transaction and an exclusive right
+to use has to be construed as such.
+
+Submissions of the Respondent
+
+14\. Mr. Ruchir Bhatia, on the other hand, submits that the appellant company
+was set up on 13th August, 1992 and though initially it was a joint venture,
+the shareholding got completely transferred by means of the Share Purchase
+agreement in 1995. The second license agreement dated 9th November, 1995 was
+executed at the time of transfer of the shareholding. According to Mr. Bhatia,
+clause 12 of the second license agreement would show that the right to use the
+mark was granted in perpetuity. Thus, when the payment of Rs.1 Crore was made,
+the benefit that was acquired was of an enduring nature. He places heavy
+reliance on a recent judgment of the Supreme Court in Honda Siel Cars Ltd. v.
+CIT, (2017) 395 ITR 713 (SC) (hereinafter, „Honda Siel‟) wherein it has been
+held as under:
+
+> "3. The dispute which has arisen is as to whether the said technical fee of
+> 30.5 million US Dollar payable in ITA 325 2005 Page 10 of 30 five equal
+> instalments on yearly basis is to be treated as revenue expenditure or
+> capital expenditure. ..............................
+
+> 22\. When we apply the aforesaid parameters to the facts of the present
+> case, the conclusion drawn by the High Court that expenditure incurred was
+> of capital nature, appears to be unblemished. Admittedly, there was no
+> existing business and, thus, question of improving the existing technical
+> know-how by borrowing the technical know-how of the HMCL, Japan did not
+> arise. The Assessee was not in existence at all and it was the result of
+> joint venture of HMCL, Japan and M/s. HSCIL, India. The very purpose of
+> Agreement between the two companies was to set up a joint venture company
+> with aim and objective to establish a unit for manufacture of automobiles
+> and part thereof. As a result of this agreement, Assessee company was
+> incorporated which entered into TCA in question for technical collaboration.
+> This technical collaboration included not only transfer of technical
+> information, but, complete assistance, actual, factual and on the spot, for
+> establishment of plant, machinery etc. so as to bring in existence
+> manufacturing unit for the products. Thus, a new business was set up with
+> the technical know-how provided by HMCL, Japan and lumpsum royalty, though
+> in five instalments, was paid therefor.
+
+> 23\. No doubt, this technical know-how is for the limited period i.e. for
+> the tenure of the agreement. However, it is important to note that in case
+> of termination of the Agreement, joint venture itself would come to an end
+> and there may not be any further continuation of manufacture of product with
+> technical know-how of foreign collaborator. The High Court has, thus,
+> rightly observed that virtually life of manufacture of product in the plant
+> and machinery, establishes with assistance of foreign company, is co-
+> extensive with the agreement. The Agreement is framed in a manner so as ITA
+> 325 2005 Page 11 of 30 to given a colour of license for a limited period
+> having no enduring nature but when a close scrutiny into the said Agreement
+> is undertaken, it shows otherwise. It is significant to note in this behalf
+> that the Agreement provides that in the event of expiration or otherwise
+> termination, whatsoever, licensee, i.e., joint venture company/Assessee
+> shall discontinue manufacture, sale and other disposition of products, after
+> the residuary products. All these things then shall be at the option of
+> licensor. In other words, licensee in such contingency would hand over
+> unsold product and parts to licensor for sale by him. In case licensor does
+> not exercise such an option and the product is allowed to be sold by the
+> licensee, it would continue to pay royalty as per rates agreed under the
+> agreement. Clauses 19 & 21, in our view, make the Agreement in question,
+> i.e. establishment of plant, machinery and manufacture of product with the
+> help of technical know-how, co- extensive in our continuance of Agreement.
+> The Agreement also has a clause of renewal which, in our view, in totality
+> of terms and conditions, will make the unit continue so long as manufacture
+> of product in plant and machinery, established with aid and assistance of
+> foreign country will continue. Since, it is found that the Agreement in
+> question was crucial for setting up of the plant project in question for
+> manufacturing of the goods, the expenditure in the form of royalty paid
+> would be in the nature of capital expenditure and not revenue expenditure.
+> The Tribunal is conclusion that it is only the other three memoranda which
+> were necessary for setting up the manufacturing payment of technical
+> fees/royalty on the ground that this agreement was not in connection with
+> the setting up of plant or manufacturing facilities, is not correct. It
+> would be interesting to note that even the Tribunal had nurtured doubt on
+> the nature of this expenditure as TCA was signed simultaneously with the
+> other memoranda to facilitate setting up of a new factory and ITA 325 2005
+> Page 12 of 30 not improvising the earlier set up. This doubt has expressed
+> by the ITAT itself in the following words: Our doubt was why the payment, at
+> least of the lump sum technical know-how fees, cannot be considered as being
+> connected to the initial starting up of the business and hence not allowable
+> since the know-how was bring obtained for the first time and was crucial to
+> the setting up of the business of the Assessee which undisputedly was to
+> manufacture Honda cars in India. It may be recalled that was also the view
+> taken by the Assessing Officer. Further, the Assessee was not already in the
+> manufacture of cars and was commencing such an activity for the first time.
+> It was not a case of a business already in existence. The payment was an
+> "once for all" payment, though staggered over a period of years."
+
+15\. He also submits that the Trade Mark license was infact was valid upto
+only 3rd June, 2005. Clause 1 of the second license agreement, according to
+Mr. Bhatia, showed that the Trade Mark was permitted to be used either alone,
+or as a trade name, or as a combination mark. Even after the Trade Mark was
+abandoned by HRL, the fact that the appellant continued to use the word
+"HILTON" as part of its trade name shows that enormous advantages had been
+gained under the second license agreement and without any payment whatsoever,
+the word "HILTON" was used. Thus, he submits that the ITAT and AO were right
+in holding that the expenditure is a capital expenditure and the deduction is
+not liable to be allowed.
+
+Analysis and Findings Capital expenditure and Revenue expenditure - Tests
+
+16\. There is exhaustive case law on the various tests distinguishing capital
+and revenue expenditure. In CIT, Bombay v. Ciba of India Ltd. AIR 1968 ITA 325
+2005 Page 13 of 30 SC 1131, the Supreme Court, was dealing with a case whereby
+a Swiss company had licensed its patents to its Indian subsidiary, in order to
+enable it to make full use of and vend the inventions stated therein, as also
+its trademark. However, under the agreement, the Swiss Company reserved the
+right to terminate the license at any given point, and also precluded the
+Indian Company from acquiring any proprietary right in its intellectual
+property. The licencee was merely granted a „right to use‟ to the Indian
+Company. The Supreme Court, on these facts, held as under:
+
+> "13. The assessee did not, under the agreement, become entitled exclusively
+> even for the period of the agreement, to the patents and trade marks of the
+> Swiss Company it had merely access to the technical knowledge and experience
+> in the pharmaceutical field which the Swiss Company commanded. The assessee
+> was on that account a mere licencee for a limited period of the technical
+> knowledge of the Swiss Company with the right to use the patents and trade
+> marks of that Company.......
+
+> ...................
+
+> 15\. The assessee acquired under the agreement merely the right to draw, for
+> the purpose of carrying on its business as a manufacturer and dealer of
+> pharmaceutical products, upon the technical knowledge of the Swiss Company
+> for a limited period by making that technical knowledge available the Swiss
+> Company did not part with any asset of its business nor did the assessee
+> acquired any asset or advantage of an enduring nature for the benefit of its
+> business."
+
+17\. In Empire Jute Company Ltd. v. CIT, (1980)124 ITR 1 (SC), which was a
+case dealing with purchase of loomhours (number of working hours on the loom),
+the Supreme Court observed as under:
+
+ITA 325 2005 Page 14 of 30
+
+> "The decided cases have, from time to time, evolved various tests for
+> distinguishing between capital and revenue expenditure but no test is
+> paramount or conclusive. There is no all embracing formula which can provide
+> a ready solution to the problem; no touchstone has been devised. Every case
+> has to be decided on its own facts, keeping in mind the broad picture of the
+> whole operation in respect of which the expenditure has been incurred. But a
+> few tests formulated by the courts may be referred to as they might help to
+> arrive at a correct decision of the controversy between the parties. One
+> celebrated test is that laid down by Lord Cave L.C. in Atherton v. British
+> Insulated and Helsby Cables Ltd. [1925] 10 TC 155, 192 (HL), where the
+> learned Law Lord stated:
+
+> ".... when an expenditure is made, not only once and for all, but with a
+> view to bringing into existence an asset or an advantage for the enduring
+> benefit of a trade, I think that there is very good reason (in the absence
+> of special circumstances leading to an opposite conclusion) for treating
+> such an expenditure as properly attributable not to revenue but to capital."
+
+> This test, as the parenthetical clause shows, must yield where there are
+> special circumstances leading to a contrary conclusion and, as pointed out
+> by Lord Radcliffe in Commissioner of Taxes v. Nchanga Consolidated Copper
+> Mines Ltd. [1965] 58 ITR 241 (PC), it would be misleading to suppose that in
+> all cases, securing a benefit for the business would be, prima facie,
+> capital expenditure "so long as the benefit is not so transitory as to have
+> no endurance at all." There may be cases where expenditure, even if incurred
+> for obtaining advantage of enduring benefit, may, none the less, be on
+> revenue account and the test of enduring benefit may break down. It is not
+> every advantage of enduring nature acquired by an assessee ITA 325 2005 Page
+> 15 of 30 that brings the case within the principle laid down in this test.
+> What is material to consider is the nature of the advantage in a commercial
+> sense and it is only where the advantage is in the capital field that the
+> expenditure would be disallowable on an application of this test. If the
+> advantage consists merely in facilitating the assessee's trading operations
+> or enabling the management and conduct of the assessee's business to be
+> carried on more efficiently or more profitably while leaving the fixed
+> capital untouched, the expenditure would be on revenue account, even though
+> the advantage may endure for an indefinite future. The test of enduring
+> benefit is, therefore, not a certain or conclusive test and it cannot be
+> applied blindly and mechanically without regard to the particular facts and
+> circumstances of a given case."
+
+Thus, in this case the Supreme Court held that test of enduring benefit is not
+an absolute or a conclusive test and depends on the facts and circumstances of
+each case.
+
+18\. In Alembic Chemical Works Co. Ltd. v. CIT, [1989] 177 ITR 377 (SC), the
+Supreme Court followed the decision in Empire Jute (supra) and held:
+
+> "There is also no single definitive criterion which, by itself, is
+> determinative as to whether a particular outlay is capital or revenue. The
+> 'once for all' payment test is also inconclusive. What is relevant is the
+> purpose, of the outlay and its intended object and effect, considered in a
+> common sense way having regard to the business realities. In a given case,
+> the test of 'enduring benefit' might break down. In CIT v. Associated Cement
+> Companies Ltd. [1988] 172 ITR 257 (SC) at p. 262, this court said:
+
+> "As observed by the Supreme Court in the decision in Empire Jute Co. Ltd. v.
+> CIT [1980] 124 ITR 1 (SC), that there may be ITA 325 2005 Page 16 of 30
+> cases where expenditure, even if incurred for obtaining an advantage of
+> enduring benefit, may, none the less, or be on revenue account and the test
+> of enduring benefit may break down. It is not every advantage of enduring
+> nature acquired by an assessee that brings the case within the principles
+> laid down in this test. What is material to consider is the nature of the
+> advantage in a commercial sense and it is only where the advantage is in the
+> capital field that the expenditure would be disallowable on an application
+> of this test."
+
+> In the result, for the foregoing reasons, the appeal succeeds and is allowed
+> and the question of law referred to the High Court for its opinion in ITR
+> No. 78 of 1970 is answered in the affirmative and against the Revenue. The
+> judgment under appeal is set aside."
+
+Even a `once for all' or lumpsum payment was held to be inconclusive in
+deciding whether the expenditure was capital or revenue in nature.
+
+19\. In CIT v. Madras Auto Services (P.) Ltd. [1998] 233 ITR 468 (SC), while
+dealing the question as to whether money spent by the tenant for construction
+in lieu of benefit of reduced rent for the additional space was capital or
+revenue expenditure, the Supreme Court observed as under:
+
+> "All these cases have looked upon expenditure which did bring about some
+> kind of an enduring benefit to the company as a revenue expenditure when the
+> expenditure did not bring into existence any capital asset for the company.
+> The asset which was created belonged to somebody else and the company
+> derived an enduring business advantage by expending the amount. In all these
+> cases, the expense has been looked upon as having been made for the purpose
+> of conducting the business of the assessee more profitably or more
+> successfully. In the present case also, since ITA 325 2005 Page 17 of 30 the
+> asset created by spending the said amounts did not belong to the assessee
+> but the assessee got the business advantage of using modern premises at a
+> low rent, thus, saving considerable revenue expenditure for the next 39
+> years, both the Tribunal as well as the High Court have rightly come to the
+> conclusion that the expenditure should be looked upon as revenue
+> expenditure."
+
+20\. Even this Court has had occasion to deal with cases where it had to
+determine the nature of expenditure i.e., capital or revenue. In CIT v. Saw
+Pipes Ltd. [2008] 300 ITR 35 (Del), the State Electricity Board had set up
+electricity lines for which service charges were paid by the Assessee. This
+Court held that the expenditure for the same should be held to be revenue
+expenditure.
+
+21\. In CIT v. J.K. Synthetics Ltd. (2009) 309 ITR 371 (Del) (hereinafter, „JK
+Synthetics‟), this Court, dealing with a case where an Indian Company had
+acquired a license from an Italian Company for use of technical knowledge and
+user of its patents and trade marks, held as under:
+
+> "31. An overall view of the judgments of the Supreme Court, as well as of
+> the High Courts would show that the following broad principles have been
+> forged over the years which require to be applied to the facts of each case:
+
+> (i) the expenditure incurred towards the initial outlay of business would be
+> in the nature of capital expenditure, however, if the expenditure is
+> incurred while is the business is on going, it would have to be ascertained
+> if the expenditure is made for acquiring or bringing into existence an asset
+> or advantage of an enduring benefit for the business, if that be so, it will
+> be in the nature of capital expenditure. If the expenditure, on the other
+> hand, is for running the ITA 325 2005 Page 18 of 30 business or working it
+> with a view to produce profits it would be in the nature of the revenue
+> expenditure;
+
+> (ii) it is the aim and object of the expenditure, which would determine its
+> character and not the source and manner of its payment;
+
+> (iii) the test of "once and for all" payment, i.e., a lump sum payment made,
+> in respect of, a transaction is an inconclusive test. The character of
+> payment can be determined by looking at what is the true nature of the asset
+> which is acquired and not b the fact whether it is a payment in "lump sum"
+> or in an instalment. In applying the test of an advantage of an enduring
+> nature, it would not be proper to look at the advantage obtained, as lasting
+> forever. The distinction which is required to be drawn is, whether the
+> expense has been incurred to do away with, what is a recurring expense for
+> running a business as against an expense undertaken for the benefit of the
+> business as a whole;
+
+> (iv) an expense incurred for acquisition of a source of profit or income
+> would in the absence of any contrary circumstance, be in the nature of
+> capital expenditure. As against this, an expenditure which enables the
+> profit making structure to work more efficiently leaving the source or the
+> profit making structure untouched, would be in the nature of revenue
+> expenditure. In other words, expenditure incurred to fine tune trading
+> operations to enable the management to run the business effectively,
+> efficiently and profitably leaving the fixed assets untouched would be an
+> expenditure of a revenue nature even though the advantage obtained may last
+> for an indefinite period. To that extent, the test of enduring benefit or
+> advantage could be considered as having broken down;
+
+> (v) expenditure incurred for grant of License which accords 'access' to
+> technical knowledge, as against, 'absolute' transfer of technical knowledge
+> and information would ordinarily be treated as revenue expenditure. In order
+> to sift, in a manner of speaking, ITA 325 2005 Page 19 of 30 the grain from
+> the chaff, one would have to closely look at the attendant circumstances,
+> such as:
+
+> (a) the tenure of the Licence.
+
+> (b) the right, if any, in the licensee to create further rights in favour of
+> third parties,
+
+> (c) the prohibition, if any, in parting with a confidential information
+> received under the License to third parties without the consent of the
+> licensor,
+
+> (d) whether the Licence transfers the 'fruits of research' of the licensor,
+> 'once for all',
+
+> (e) whether on expiry of the Licence the licensee is required to return back
+> the plans and designs obtained under the Licence to the licensor even though
+> the licensee may continue to manufacture the product, in respect of, which
+> 'access' to knowledge was obtained during the subsistence of the Licence.
+
+> (f) whether any secret or process of manufacture was sold by the licensor to
+> the licensee. Expenditure on obtaining access to such secret process would
+> ordinarily be construed as capital in nature;
+
+> (vi) the fact that assessee could use the technical knowledge obtained
+> during the tenure of the License for the purposes of its business after the
+> Agreement has expired, and in that sense, resulting in an enduring
+> advantage, has been categorically rejected by the courts. The Courts have
+> held that this, by itself, cannot be decisive because knowledge by itself
+> may last for a long period even though due to rapid change of technology and
+> huge strides made in the field of science, the knowledge may with passage of
+> time become obsolete;
+
+> (vii) while determining the nature of expenditure, given the diversity of
+> human affairs and complicated nature of business; the test enunciated by
+> courts have to be applied from a business point of view and on a fair
+> appreciation of the whole fact situation before concluding whether the
+> expenditure is in the nature of capital or revenue."
+
+ITA 325 2005 Page 20 of 30
+
+22\. Relying upon JK Synthetics (supra), this Court in CIT v. V.R.V. Breweries
+& Bottling Industries Ltd. (2012) 347 ITR 249 (Del) held as under:
+
+> "22.2 The observation made in paragraph 58 at page 414 of the aforementioned
+> judgment, on which reliance has been placed by the learned counsel for
+> revenue seeks only to emphasise that the assessee in that case, had only
+> acquired access to technology which was not related to any secret process or
+> patent rights and thus in continuum it is mentioned that not even a right to
+> use the trademark or brand name had inhered in the assessee. From this, it
+> cannot be concluded, as is sought to be done by the learned counsel for the
+> revenue that any payment made for use of trademark or trade name ipso facto
+> will give colour to the payment as if it is made on capital account. This is
+> in our view is a complete mis-reading of the judgment. It is well settled
+> that a judgment is an authority for what it decides and not what is
+> construed as logically flowing from it. Judgments cannot be read as
+> statutes. A stray sentence picked out of context, cannot be used to turn its
+> ratio around.
+
+> 22.3 We have already referred to the provisions of the agreement. A perusal
+> of the provisions of the agreement would show all that the assessee acquired
+> was the use of the brand names and the trade marks of SWCL, which find a
+> mention in Appendix-C annexed to the said agreement. The assessee acquired
+> no right to any secret process or formulae or even any right title and
+> interest in the trade marks and brands under which the IMFL products were
+> sold. As a matter of fact assessee's rights were co-terminus with the
+> subsistence of the said agreement. Therefore, we have no hesitation in
+> rejecting the contention of the revenue in this regard.......It is quite
+> evident that the Revenue took the stand, though erroneously, that royalty
+> paid on use of ITA 325 2005 Page 21 of 30 brand names and trade marks would
+> classify the expenditure as one made on capital account."
+
+23\. Thus, extrapolating from the judgments referred to above, in the context
+of trademark licensing, in order to determine whether a particular expenditure
+is capital or revenue in nature, some of the factors that are relevant are -
+
+> i. the nature of the right being given - exclusive, non-exclusive, permanent
+> or term based;
+
+> ii. the benefit being derived - whether enduring, long term, short term;
+
+> iii. the nature of payment being made - periodic, lump sum, revenue linked
+> payments etc.
+
+24\. The above factors are singularly not determinative of the nature of the
+expenditure. It depends on the facts of each case. In a given case, a lump sum
+payment may still be revenue expenditure. A long term licence, without
+ownership vesting in the licensee could also be revenue expenditure. An
+exclusive right to use, to the exclusion of the owner, though termed as a
+licence, could be a transfer of title in the mark, and could constitute
+capital expenditure. Thus, the Court has to see not merely the terms of the
+agreement but also the facts and circumstances surrounding the agreement in
+order to determine the nature of the expenditure.
+
+Licensing of Trade Marks
+
+25\. Trade Marks which are both registered and unregistered can be
+transferred. The transfer of a Trade Mark can either be by means of a license
+or an assignment. A license to a registered Trade Mark in India can be of two
+kinds:
+
+ITA 325 2005 Page 22 of 30
+
+> a) A simple license agreement which is in the nature of a permissive use;
+
+> b) A Registered User, wherein the license agreement is registered with the
+> Registrar of Trade Marks and certain rights accrue to the licensee as per
+> statute.
+
+26\. An assignment is however a complete transfer of the right and title in a
+mark. Assignments can also be of various kinds. For eg., Assignment could be
+product specific, territory specific, but they will vest complete and absolute
+ownership in the assignee. Assignment of a registered trade mark can be with
+or without the goodwill of the business concerned. Such an assignment can be
+in respect of all the goods or services or part of the goods or services for
+which the mark is registered. However, an unregistered trademark is assignable
+with the goodwill of a business and if the same is assigned without the
+goodwill of the business, the nature of the transfer would have to be
+determined on the facts of a particular case.
+
+27\. The fundamental test to determine as to whether a particular mark has
+been licensed or assigned is to see if the licensor/assignor has retained any
+rights in the mark. If rights are retained with the owner, usually it is a
+license and if no rights are retained by the owner, then it would usually be
+an assignment. A license is, therefore, nothing but a permissive use of the
+mark, which permission, is revocable. A `right to use' is usually a license
+and not an assignment, except in certain circumstances. Some of the questions
+that determine whether an arrangement is a license or an assignment include:
+
+ITA 325 2005 Page 23 of 30
+
+> i) Whether the user acknowledges the licensor‟s right and title over the
+> mark?
+
+> ii) Whether it is a mere right to use the mark or it was a
+> transfer/assignment of a permanent nature?
+
+> iii) Whether the manner of use is specified and restricted and the effect
+> thereof on the rights of the user?
+
+> iv) Whether the payment made by the User is one-time, fixed running royalty
+> or a percentage of sales, with or without investment made by the Licensor on
+> marketing and advertising?
+
+> v) Whether the licensor has right of supervision and control over the use of
+> the mark?
+
+> vi) Whether sole and exclusive right was conferred on the user and the
+> effect thereof?
+
+> vii) Whether the user can further transfer his rights to third party, with
+> and without consent of the licensor and the effect thereof?
+
+> viii) Whether the licensor had the right to terminate the license and if so,
+> under what circumstances?
+
+> ix) Whether upon termination by the licensor, the user has to stop use of
+> the mark?
+
+> x) Whether or not the right to sue is given and conferred on the user?
+
+> xi) Whether there is a transfer of goodwill of the business and/or goodwill
+> in the mark?
+
+> xii) Whether there are multiple users of the same mark?
+
+ITA 325 2005 Page 24 of 30
+
+28\. A license agreement usually has some or all of the above stipulations.
+Thus, the nature of the agreement can be easily deduced from the existence of
+all or any of the above conditions/characteristics. In some circumstances
+however, an exclusive licence which excludes the owner from using the mark and
+vests perpetual rights without any termination clause, could constitute an
+assignment. However, the present case is not one such case.
+
+29\. The question in the present case is as to whether the right in the mark
+"HILTON" was transferred in a manner that was to give a long term benefit to
+the appellant. The first agreement contains an acknowledgment that HRL was the
+owner of the mark. The agreement grants an exclusive right to use "HILTON"
+owned by HRL to the appellant. The appellant could not, without HRL‟s
+permission apply for registration of the mark on its own or dispute the
+ownership of HRL. If any infringement came to the knowledge of the appellant,
+it had to seek the prior written consent of HRL, which had the right to decide
+as to what action it would take whether with or without the appellant, in
+respect of such infringer. An application could have been filed to register
+the appellant as a registered user and such application could have been made
+jointly only. The termination clause was clear. Though the initial period was
+10 years, the agreement could have been terminated with 12 months‟ written
+notice by either party. The termination was automatic under some circumstances
+as detailed in the agreement. One of the reasons for termination could be the
+termination of the joint venture agreement. Upon termination of the license
+agreement, the appellant would not have any rights to use or seek registration
+of the mark "HILTON". This agreement was in the nature of a license agreement
+and had all the trappings ITA 325 2005 Page 25 of 30 of a license. The rights
+of HRL were completely preserved and only a right to use was being given to
+the appellant. No long term benefit accrued to the appellant. The royalty
+payable by the appellant was 1.8% of the net selling price from the date of
+commercial production.
+
+30\. The second Agreement dated 9th November, 1995 was almost identically
+worded to the first license agreement, except for the fact that the royalty
+was now Rs.1 crore as a lump-sum for a period of 10 years.
+
+31\. The question as is relevant to the present case is, therefore, whether
+any long term benefit was acquired by the appellant under the agreement dated
+9th November, 1995, so as to categorize the payment of Rs.1 crore as a capital
+expenditure.
+
+32\. It is relevant to record some important facts at this stage. The mark
+"HILTON" in respect of Raw Edge, Wrapped V Belts, was a mark which was known
+in India in the relevant industry. It was being used by HRL which was the
+original owner for many years prior to the joint venture agreement. The
+registration of the mark Hilton dates back to 3 rd June, 1977 and the user
+claimed for the said mark was form 1st December, 1972. When the joint venture
+was entered into, the mark was licensed to the joint venture company i.e. the
+appellant which, thereafter, became a subsidiary of RF. HRL did not have any
+stake in the appellant after 9th November 1995. The appellant company which
+was known as Hilton Roulunds Ltd. is now known as Contitech India Private
+Limited. Thus even the corporate name of the company has changed, though
+subsequently. The settled position in law is that use by a licensee would also
+inure to the benefit of a licensor, for it would continue to remain the owner,
+unless there was also part transfer of ITA 325 2005 Page 26 of 30 title. In
+this case, title and ownership of the mark was not transferred. The appellant
+only had permission and approval to use the mark. Thus, the benefit of the use
+of the mark "HILTON" during the period when it stood licensed to the appellant
+inures to HRL. In Fedders Lloyd Corporation Ltd. v. Fedders Corporation ILR
+(2005) I Delhi 478, it was held use of the trademark by a licensee inures to
+the benefit of the licensor. This position was again reiterated by this Court
+in Formula One World Championship Ltd. v. Commissioner of Income Tax,
+International Taxation -3 (2017) 390 ITR 199 (Del).
+
+33\. Thus, when the benefit of the use of the mark has inured to the licensor
+i.e. HRL, the amount, that has been paid to HRL was a consideration for
+permission to use the mark, and not for acquiring ownership rights in the
+mark. The mark "HILTON" did not belong to the appellant. It also did not
+belong to either of its current promoters i.e. RF or IFU. It belonged to HRL
+which was one of the joint venture partners when the appellant was initially
+formed. The use of the mark "HILTON" thus, merely facilitated the appellant‟s
+business in India i.e. it facilitated the appellant‟s entry into India under
+the brand name and the trade name which was familiar to the industry and
+market. The advantage of having used the mark "HILTON" between 1992 and 2005
+could endure and benefit the appellant as a permitted and authorized user, but
+it cannot be called an acquisition and benefit of capital nature so as to
+constitute capital expenditure. The appellant did not purchase and acquire
+title in the trademark. It did not retain any rights in the mark. In fact the
+appellant no longer uses the word "HILTON" either as a trade mark or trade
+name or as a ITA 325 2005 Page 27 of 30 part of its corporate name. Thus, the
+payment of Rs.1 crore was for the purpose of obtaining an advantage in
+carrying on its business and is therefore in the revenue field.
+
+34\. In order to ascertain whether there was permanent transfer of the
+trademark "HILTON" in favour of the appellant, we had asked and called upon
+the counsel for the appellant to state the present position. The appellant has
+filed additional documents stating that the name of the appellant was changed
+to „Roulands Codan India Limited‟ on 29th November, 2006. Subsequently, there
+was another change as of 11th December, 2006. The appellant is now known as
+„Contitech India Private Limited‟. Appellant states that they had applied for
+transfer and registration of the trademark "Hilton Euroflex" on 13th January,
+1994, but on 28th April, 1999 they had deleted the word "Hilton" from the said
+application. Appellant has also placed on record pamphlet/price list that they
+had not used the mark "HILTON" and are marketing their goods on the mark
+"Roflex", which is their registered trademark since 10th July, 1996. We would
+accept and not proceed on the basis that the subsequent change in trademark
+would not be conclusive and determinative of the fact whether the mark
+"HILTON", was acquired by the appellant as a capital asset or the payment made
+was to use the mark "HILTON", which belonged to and was owned by a third
+party, namely, HRL. Subsequent facts would only confirm our opinion and ratio
+that the right conferred on the appellant under the second license agreement
+entered into 9th November, 1995 had only authorized the appellant to use the
+mark for ten years. The appellant had not acquired any permanent ownership or
+title in the said mark. The said payment though in lump sum was made to ITA
+325 2005 Page 28 of 30 use the said mark and could well have been made with
+reference to the total sales as was the position in the first agreement dated
+27 th January, 1993. Certain terms and conditions for using the mark "HILTON"
+were changed and altered vide agreement dated 9th November, 1995, but in
+substance with reference to the rights acquired there was no difference
+between this agreement and earlier license agreement dated 27th January, 1993.
+
+35\. All the above facts point to the clear conclusion that the payment of
+Rs.1 crore ought to be treated as revenue expenditure. There is no doubt in
+the proposition relied upon by the revenue, as held in Honda Siel (supra), the
+Court has to look at the real nature of the agreement. On an analysis of the
+agreement on record, there is no doubt that it was merely a trademark license
+agreement, which conferred no enduring benefit or long term benefit to the
+appellant.
+
+36\. A supplemental corporate license agreement was executed along with the
+first license and the second license agreement. Under these agreements also
+the right to use the corporate name "Hilton" was non-exclusive and royalty
+free. Though, it was to remain in full force and executed without any limit of
+time, a licensor had the right to terminate the said agreement with 30 days‟
+notice. Thus, even the corporate name license agreement was terminable and did
+not create ownership rights in the appellant for the word "HILTON". The Court
+takes notice of the fact that the corporate name has in any event been changed
+by the appellant. Moreover, before the Income Tax Authorities, the appellant
+had filed to letters dated 16th March, 1997 and 24th September, 1997 signed by
+the Company Secretary of the Appellant and by HRL, respectively. Both these
+letters confirm that the right to use the mark ITA 325 2005 Page 29 of 30
+"HILTON" was for a limited period of 10 years. The Revenue submits that under
+clause 12, there was no limitation of time in the license. This position when
+considered in isolation would be correct, however, when read with the letters
+submitted to the Income Tax Authorities, as also the stoppage by the appellant
+of the use of the mark "HILTON" both as a trade mark and as a trade name, it
+is clear that the appellant was merely a licensee of the mark.
+
+37\. Under these circumstances, the question of law is answered in the
+negative, in favour of the Assessee and against the Revenue. It is directed
+that the payment of Rs. 1 crore be treated as revenue expenditure for the AY
+1996-97. In the facts of the present case, there shall be no order as to
+costs.
+
+PRATHIBA M. SINGH, J SANJIV KHANNA, J APRIL 20, 2018/dk ITA 325 2005 Page 30
+of 30
+

@@ -1,0 +1,507 @@
+
+
+Karnataka High Court
+
+The Commissioner Of Income Tax vs M/S Lg Soft India Pvt Ltd on 11 July, 2018
+
+Author: Dr.Vineet Kothari S.Sujatha
+
+    
+    
+                                 1/21
+    
+    
+    
+    
+         IN THE HIGH COURT OF KARNATAKA, BENGALURU
+    
+              DATED THIS THE 11TH DAY OF JULY 2018
+    
+                              PRESENT
+    
+             THE HON'BLE DR.JUSTICE VINEET KOTHARI
+    
+                                AND
+    
+               THE HON'BLE MRS.JUSTICE S.SUJATHA
+    
+                         I.T.A.No.376/2013
+    
+    BETWEEN :
+    1.     THE COMMISSIONER
+           OF INCOME-TAX, CIT[A]
+           C.R. BUILDING, QUEENS ROAD
+           BANGALORE.
+    
+    2.     THE DEPUTY COMMISSIONER
+           OF INCOME-TAX
+           CIRCLE-12(2)
+           RASHTROTHANA BHAVAN
+           NRUPATHUNGA ROAD
+           BANGALORE.                              ...APPELLANTS
+    
+                      (BY SRI K.V.ARAVIND, ADV.)
+    
+    AND :
+    M/s. LG SOFT INDIA PVT. LTD.,
+    CHERRY HILLS
+    EMBASSY GOLF LINKS
+    BUSINESS PARK
+    BANGALORE-560071.                              ...RESPONDENT
+    
+         (BY SRI ANKUR PAI, ADV. FOR SRI K.R.VASUDEVAN, ADV.)
+    
+          THIS INCOME TAX APPEAL IS FILED UNDER SECTION
+    260-A OF INCOME TAX ACT 1961, ARISING OUT OF ORDER
+    DATED 22.03.2013 PASSED IN ITA No.1121/BANG/2011, FOR
+    THE ASSESSMENT YEAR 2007-08, ANNEXURE-D, PRAYING TO
+                               Date of Judgment 11-07-2018, ITA No.376/2013
+                              The Commissioner of Income-tax & Another Vs.
+                                                 M/s. LG Soft India Pvt. Ltd.,
+    
+                               2/21
+    
+    i.] FORMULATE THE SUBSTANTIAL QUESTIONS OF LAW
+    STATED THEREIN, ii.] ALLOW THE APPEAL AND SET ASIDE THE
+    ORDER PASSED BY THE ITAT, BANGALORE IN ITA
+    No.1121/BANG/2011 DATED 22.03.2013, ANNEXURE-D AND
+    CONFIRM THE ORDERS PASSED BY THE DISPUTE RESOLUTION
+    PANEL, TRANSFER PRICING OFFICER AND ASSESSMENT
+    ORDER PASSED BY THE DEPUTY COMMISSIONER OF INCOME
+    TAX, CIRCLE-11(5), BANGALORE.
+    
+          THIS APPEAL COMING ON FOR HEARING,                  THIS     DAY,
+    S. SUJATHA, J., DELIVERED THE FOLLOWING:
+    
+                       JUDGMENT
+    
+
+Mr. K.V.Aravind, Adv. for Appellants - Revenue. Mr. K.R.Vasudevan, Adv. for
+Respondent - Assessee.
+
+This Appeal is filed by the Revenue purportedly raising substantial questions
+of law arising from the Order of the Income Tax Appellate Tribunal, Bangalore
+Bench 'A', Bangalore, in ITA No.1121/Bang/2011 dated 22.03.2013, relating to
+the Assessment Year 2007-08.
+
+2\. The appeal has been admitted on 12.09.2014 to consider the substantial
+questions of law as indicated in the memorandum of appeal.
+
+Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax &
+Another Vs. M/s. LG Soft India Pvt. Ltd.,  3/21
+
+3\. The substantial questions of law framed by the Revenue in the Memorandum
+of Appeal are as under:
+
+> "1. Whether on the facts and in the circumstances of the case and in law the
+> Tribunal was right in super imposing the decisions of the other benches and
+> the decision of the ITAT while rejecting the comparables [(i) Accel
+> Transmatic Limited, (ii) Avani Cimcon Technologies Limited,
+
+> (iii) Celestial Labs Limited, (iv) KALS Information Systems Limited and (v)
+> Lucid Software Limited] without appreciating the fact that selection of
+> comparables in a case depends on assessee specific FAR analysis and the
+> above comparables satisfy all the qualitative and quantitative filters
+> applied by the Transfer Pricing Officer and recorded a perverse finding?
+
+> 2\. Whether on the facts and in the circumstances and of the case in law the
+> Tribunal was justified in fixing the related party transaction filtered at
+> 15% of the total revenue without going into the specific facts in the case
+> of the Tax Payer and without adducing the basis for arriving at such cut-off
+> at 15% and recorded a perverse finding?
+
+> Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax
+> & Another Vs. M/s. LG Soft India Pvt. Ltd.,  4/21
+
+> 3\. Whether on the facts and in the circumstances of the case and in law the
+> Tribunal was correct in rejecting M/s. Lucid Software Limited as a
+> comparable by placing reliance on the order in the case of the other
+> assessee passed by the Mumbai ITAT without taking into consideration the
+> finding recorded by the Transfer Pricing Officer for selecting as a
+> comparable and recorded a perverse finding?
+
+> 4\. Whether on the facts and in the circumstances of the case and in law the
+> Tribunal was right in directing that the segmental financials have to be
+> considered as against the enterprise financials without appreciating the
+> fact that at the enterprise level the comparable satisfied all the filters
+> applied by the Transfer Pricing Officer and recorded a perverse finding?
+
+> 5\. Whether on the facts and in the circumstances of the case and in law the
+> Tribunal was right in holding that if the receipts were recovery of expenses
+> without any service than the same should not be added to the cost based for
+> the purpose of mark up without appreciating the fact that such cost would
+> not have been incurred without elements of mark up due to service and Date
+> of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax &
+> Another Vs. M/s. LG Soft India Pvt. Ltd.,  5/21 infrastructural costs being
+> embedded in it, no independent party would render such services without any
+> mark up and the recovery of expenses is always a part of operating cost in
+> the case of independent comparables and recorded a perverse finding?
+
+> 6\. Whether on the facts and in the circumstances of the case and in law the
+> Tribunal was right in holding that, write off of interest free deposit was a
+> loss incidental to the business without appreciating the fact that the write
+> off was in the nature of non-revenue expenditure and according to the
+> provisions of Section 36(2)(i) of the Act for the deposit to be claimed as
+> an expenditure, the same should have been admitted as an income either in
+> the relevant year or in the previous year and recorded a perverse finding?
+
+> Regarding sixth substantial question of law:-
+
+4\. Learned Counsel for the Revenue submitted that under the provisions of
+Section 36(2)(i) of the Act, before deduction of a bad debt or part thereof
+claimed as deduction, such debt or deposit ought to have been included in the
+income of the Assessee in the same year Date of Judgment 11-07-2018, ITA
+No.376/2013 The Commissioner of Income-tax & Another Vs. M/s. LG Soft India
+Pvt. Ltd.,  6/21 or in the previous year. He submitted that the Assessing
+Authority was justified in making the disallowance of the bad debts claimed as
+the Rental Deposit made by the assessee as a lessee/tenant with the landlord
+which could not be recovered from landlord on account of the order of the
+Court and the Tribunal has wrongly allowed the same under Section 36(2)(i) of
+the Act. Hence, a substantial question of law arises in the matter.
+
+5\. Learned counsel for the Assessee supported the findings of the learned
+Tribunal in this regard.
+
+6\. The relevant paragraphs from the order of Tribunal in this regard are
+quoted below for ready reference:
+
+> "Ground No.3 Disallowance of "Deposits Written Off":
+
+During the year, the assessee company has debited an amount of Rs.24,93,600
+under the heading of 'Deposits written Off'. On calling for further details of
+the same and substantiation for Date of Judgment 11-07-2018, ITA No.376/2013
+The Commissioner of Income-tax & Another Vs. M/s. LG Soft India Pvt. Ltd.,
+7/21 deduction, the assessee, by letter dated 16.08.2010, has submitted as
+follows;
+
+We submit that the company has made a provision for bad and doubtful deposits
+in respect of the rental deposit made to its landlord, in the earlier
+assessment years as under:
+
+    
+    
+    
+    Assessment Year        Amount of Provision made [Rs.]
+        2005-06                            8,10,420
+        2006-07                            16,83,180
+        TOTAL                             24,93,600
+    
+    
+             The    Honorable         High         Court         of
+    
+
+Karnataka has disallowed the petition filed by the company for the recovery of
+the said rental deposit.
+
+In this scenario, the company has written off the rental advance in its books
+by reversing the provision made in past towards bad and doubtful deposits.
+Thus, we submit that since the provision was disallowed in the earlier
+assessment years in which it was created, the reversal of such provision
+should be allowed as an allowable deduction for the current assessment year
+2007-08.
+
+Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax &
+Another Vs. M/s. LG Soft India Pvt. Ltd.,  8/21 The contention of the assessee
+is not acceptable. It is seen that the assessee has incurred these charges by
+writing off the rental deposit, given to Mrs. Rita Janssen, for four units
+rented by it in second floor of Embassy Diamante, #34, Vittal Mallya Road,
+Bangalore. The deposit is always shown as a balance sheet item in the
+financial statements. When something is written off as not receivable, the
+Income Tax Act, 1961 requires it to be first shown as income as mentioned
+under Section 36(2)(i) and then to be claimed as an expenditure, on becoming
+bad.
+
+But in this case, the deposits have never been shown as income in the P & L
+Account. These are deposits shown as current assets in the Balance Sheet of
+the company. Therefore they cannot be written off and claimed as a revenue
+expenditure in the P & L Account. This deduction is not allowable as per the
+provisions of the Income Tax Act, 1961.
+
+Therefore the amount of Rs.24,93,600/- is disallowed u/s 36 and 37 and is
+added back in the hands of the assessee."
+
+> Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax
+> & Another Vs. M/s. LG Soft India Pvt. Ltd.,  9/21
+
+> 7\. However, learned Tribunal allowed the said deduction as Bad Debts u/s.
+> 36 [2] [i] plaintiff the Act with the following observations:
+
+> "6.3 We have carefully considered the submissions of the assessee as well as
+> the Departmental Representative on the issue. The Hon'ble Mumbai Bench 'F',
+> in the case of United Motors [India] Limited v. ITO, reported in [2010] 6
+> Taxmann.com 32 [Mum], wherein a similar issue to that of present issue under
+> consideration had come up for consideration. After hearing the rival
+> parties, the Hon'ble Bench had observed that 'Whether since by making
+> interest-free deposits for purpose of obtaining permissive use or licence to
+> use premises, assessee did not obtain any enduring advantage or interest in
+> properties, loss of security deposit and write off of same against rental of
+> properties was a loss incidental to business and, thus, assessing officer
+> was right in allowing said amount as a deduction.' 6.4 In conformity with
+> the findings of the Hon'ble Mumbai Bench of the Tribunal on a similar issue
+> [supra], we are of the firm view that the write off of the interest free
+> deposit made by Date of Judgment 11-07-2018, ITA No.376/2013 The
+> Commissioner of Income-tax & Another Vs. M/s. LG Soft India Pvt. Ltd.,
+> 10/21 the assessee to the licensor against rental properties was a loss
+> incidental to the business and, hence, the assessee was entitled to claim
+> the same as allowable deduction. It is ordered accordingly."
+
+> 8\. Provisions of Section 36(2)(i) are quoted below for ready reference:
+
+> "[2] In making any deduction for a bad debt or part thereof, the following
+> provisions shall apply -
+
+> [i] no such deduction shall be allowed unless such debt or part thereof has
+> been taken into account in computing the income of the assessee of the
+> previous year in which the amount of such debt or part thereof is written
+> off or of an earlier previous year, or represents money lent in the ordinary
+> course of the business of banking or money-lending which is carried on by
+> the assessee."
+
+> 9\. Having considered the rival submissions, we are of the opinion that no
+> substantial question of law arises on the said issue and the learned
+> Tribunal was justified in following the view taken by the Mumbai Date of
+> Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax &
+> Another Vs. M/s. LG Soft India Pvt. Ltd.,  11/21 Bench of Tribunal in the
+> case of United Motors [India] Limited v. ITO reported in [2010] 6
+> Taxmann.com 32 [Mum], quoted above. The Rental Deposit in question made by
+> the assessee company as a tenant/lessee with the landlady Mrs. Rita Janssen
+> became non-refundable under the Court orders and the assessee had to forego
+> the 'Rental Deposits' which thus became a bad debt.
+
+The Assessing Authority itself has found that the provisions made for such
+doubtful debts were allowed by the Assessing Authority in the previous years
+and thus such provision was obviously taken into account while determining the
+income of the assessee in the previous year. The said Rental Deposit which was
+shown as 'Current Assets' was written off in the present assessment year and
+once that Deposit became non-
+
+refundable under the Court order in a settlement of dispute between the
+Assessee and the landlady which was written off in this assessment year, the
+requirements of Section 36(2)(i) of the Act was clearly Date of Judgment
+11-07-2018, ITA No.376/2013 The Commissioner of Income-tax & Another Vs. M/s.
+LG Soft India Pvt. Ltd.,  12/21 satisfied by the assessee in the present case
+and therefore allowance made by the learned Tribunal in the impugned order was
+perfectly justified and in accordance with the provisions of the Act. In our
+considered view, no substantial question of law arises.
+
+10\. The learned Tribunal, after discussing the rival contentions of both the
+Appellants-Revenue and Respondent-Assessee, has returned a finding as under:
+
+Regarding substantial questions of law Nos.1 and 3:-
+
+> "[ii] Functional dissimilarity:
+
+> 3.7. We shall now deal with the improper selection of comparables by the TPO
+> for the reasons that they were functionally different, as held by the
+> Tribunal in the cases of Trilogy E-Business Software India Pvt. Ltd.,
+> Telecordia Technologies India Private Limited and M/s. CSR India Pvt. Ltd.,
+> [a] Accel Transmatic Limited [seg]:
+
+The section of this company by the TPO was duly considered by the Tribunal in
+the Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-
+tax & Another Vs. M/s. LG Soft India Pvt. Ltd.,  13/21 case of Trilogy
+E-Business and the reason recorded in its finding is extracted as under:
+
+> "xxxxx"
+    
+    
+          [b]   Avani       Cimcon           Technologies
+    Limited:
+          The   selection      of    this     company          as
+    
+
+comparable by the TPO was rejected by the earlier order of the Tribunal in the
+case of Trilogy E-Business for the reasons that:
+
+> "xxxxx"
+
+> [c] Celestial Labs Limited:
+
+This company was also selected by the TPO as comparable. However, on due
+consideration of the issue, the earlier Bench in Trilogy E-Business had opined
+that this company cannot be as comparable on the ground that -
+
+> "xxxxx"
+    
+    
+          (d)   KALS          Information               System
+    Limited (seg):
+    
+
+Incidentally, the selection of this company as comparable by the TPO was
+rejected by the earlier Bench in the case of Trilogy E-Business on Date of
+Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax & Another
+Vs. M/s. LG Soft India Pvt. Ltd.,  14/21 the premise that the information
+obtained by the TPO by issuance of notice u/s 133(6) of the Act was not,
+however, available in public domain. The reasons recorded, for appreciation of
+facts, are extracted hereunder:
+
+"xxxxx"
+
+3.7.1. In conformity with the finding of the coordinate bench of the Tribunal
+in the case of Triology E-business, we are of the considered view that (i)
+Accel Transmatic Limited (seg); (ii) Avani Cimcon Technologies Ltd.; (iii)
+Celestial Labs Limited & (iv) KALS Information System Limited (seg) cannot
+qualify as comparables in the case of the assessee under consideration. It is
+ordered accordingly.
+
+(e) Lucid Software Limited:
+
+The above company has been rejected as comparable in the case of Telecordia
+Technologies Pvt. Limited v. ACIT (supra). The findings of the Hon'ble Mumbai
+Tribunal are reproduced below:
+
+"xxxxx"
+
+The objections of the present assessee are identical to the objections raised
+against the inclusion of Lucid Software in the case of Date of Judgment
+11-07-2018, ITA No.376/2013 The Commissioner of Income-tax & Another Vs. M/s.
+LG Soft India Pvt. Ltd.,  15/21 Telcordia Technologies. Since the facts and
+the assessment year are identical, following the order of the Tribunal in the
+case of Telcordia Technologies Pvt. Ltd v. CIT (supra) we direct the assessing
+officer / TPO not to include Lucid Software Limited as a comparable. The above
+company was also excluded as comparable in the case of M/s. CSR India Pvt.
+Ltd., [ITA No.1119/Bang/2011]."
+
+Regarding second substantial question of law:-
+
+"(iii) Related party transaction: 3.8. Ishir Infotech Limited: The assessee
+had objected to the inclusion of Ishir Infotech Limited as a comparable being
+related party transaction in excess of 15% of total sales/revenue. The TPO had
+set a limit of 25% on the related party transaction. According to the
+assessee, the recent order of the Tribunal in the case of 24/7 Customer Com
+Private Ltd. had held that if comparable company has related party transaction
+exceeded 15% of the total sales/revenue, the same should not be comparable.
+
+3.8.1. The learned DR present was duly heard.
+
+Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax &
+Another Vs. M/s. LG Soft India Pvt. Ltd.,  16/21 3.8.2. The Tribunal in the
+case of 24/7 Customer Com Private Ltd. had held that if the related party
+transaction exceeded 15% of the total sales/revenue, the same cannot be taken
+as a comparable. The relevant contention that was raised and the finding of
+the Tribunal read as follows:-
+
+"xxxxx"
+
+3.8.3. The Company Ishir Infotech Ltd. was also excluded as comparable in the
+case of M/s CSR India Pvt. Ltd.
+
+3.9. Following the Coordinate Bench orders of the Tribunal in the case cited
+supra, we direct the Assessing Officer/TPO to exclude, after due verification,
+those comparables from the list with the related party transactions or
+controlled transactions in excess of 15% of the total revenue for the
+financial year 2006-07. It is to be mentioned here, Geometric Ltd. is also to
+be removed from the comparable list, since that company was having RPT at
+19.98% (going by assessee's own calculation), however, no argument was raised
+for its exclusion by the assessee, probably, on account of low margin of
+Geometric Ltd."
+
+> Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax
+> & Another Vs. M/s. LG Soft India Pvt. Ltd.,  17/21 Regarding fourth
+> substantial question of law:
+
+"(f) Megasoft:
+
+It is to be noted that in the case of Trilogy E-Business, the Tribunal turned
+down the plea of the assessee that M/s. Megasoft Ltd should be rejected as
+comparable. However, the Tribunal accepted the alternative submission of the
+assessee that the segmental profit margin is to be reckoned with instead of
+entity level margin and held that the profit margin of 23.11% which is the
+margin of the software service segment be taken for comparability. The
+discussion and the findings of the Bench with regard to the acceptance of the
+alternative submission of the assessee to adopt the segmental margin of 23.11%
+are reproduced below:
+
+"xxxxx"
+
+In conformity with the findings of the earlier Bench (supra), we are of the
+considered view that the TPO was justified in selecting M/s.Megasoft Ltd as
+comparable. However, the AO/TPO is directed to take segmental margins of
+23.11% for comparability. It is ordered accordingly."
+
+> Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner of Income-tax
+> & Another Vs. M/s. LG Soft India Pvt. Ltd.,  18/21 Regarding fifth
+> substantial question of law:
+
+> "4.5. We have heard the rival submissions and perused the materials on
+> record. We have noticed that the details of reimbursement expenses are given
+> at page 334 of the paper book filed by the assessee. The break-up of the
+> said expenses are not given in detail and it is not clear whether it is the
+> reimbursement of expenses incurred on behalf of the AE. Since the issue is
+> not clear and there is no detailed discussion of the break-up of expenses,
+> we deem it fit and proper to remit the issue to the file of the Assessing
+> Officer/TPO for detailed verification. We make it clear that if the receipts
+> are mere recovery of expenses without any service then the same should not
+> be added back to the cost base for the purpose of mark-up. It is ordered
+> accordingly."
+
+11\. The controversy involved herein is no more res integra in view of the
+decision of this Court in I.T.A.
+
+Nos.536/2015 c/w 537/2015 dated 25.06.2018 [Prl.
+
+Commissioner of Income Tax & Anr. V/s.
+
+M/s.Softbrands India Pvt. Ltd.,], wherein it has been observed that unless the
+finding of the Tribunal is found Date of Judgment 11-07-2018, ITA No.376/2013
+The Commissioner of Income-tax & Another Vs. M/s. LG Soft India Pvt. Ltd.,
+19/21 ex facie perverse, the Appeal u/s. 260-A of the Act, is not
+maintainable. The relevant portion of the Judgment is quoted below for ready
+reference:
+
+> "Conclusion:
+
+> 55\. A substantial quantum of international trade and transactions depends
+> upon the fair and quick judicial dispensation in such cases. Had it been a
+> case of substantial question of interpretation of provisions of Double
+> Taxation Avoidance Treaties (DTAA), interpretation of provisions of the
+> Income Tax Act or Overriding Effect of the Treaties over the Domestic
+> Legislations or the questions like Treaty Shopping, Base Erosion and Profit
+> Shifting (BEPS), Transfer of Shares in Tax Havens (like in the case of
+> Vodafone etc.), if based on relevant facts, such substantial questions of
+> law could be raised before the High Court under Section 260-A of the Act,
+> the Courts could have embarked upon such exercise of framing and answering
+> such substantial question of law.
+
+On the other hand, the appeals of the present tenor as to whether the
+comparables have Date of Judgment 11-07-2018, ITA No.376/2013 The Commissioner
+of Income-tax & Another Vs. M/s. LG Soft India Pvt. Ltd.,  20/21 been rightly
+picked up or not, Filters for arriving at the correct list of comparables have
+been rightly applied or not, do not in our considered opinion, give rise to
+any substantial question of law.
+
+56\. We are therefore of the considered opinion that the present appeals filed
+by the Revenue do not give rise to any substantial question of law and the
+suggested substantial questions of law do not meet the requirements of Section
+260-A of the Act and thus the appeals filed by the Revenue are found to be
+devoid of merit and the same are liable to be dismissed.
+
+57\. We make it clear that the same yardsticks and parameters will have to be
+applied, even if such appeals are filed by the Assessees, because, there may
+be cases where the Tribunal giving its own reasons and findings has found
+certain comparables to be good comparables to arrive at an 'Arm's Length
+Price' in the case of the assessees with which the assessees may not be
+satisfied and have filed such appeals before Date of Judgment 11-07-2018, ITA
+No.376/2013 The Commissioner of Income-tax & Another Vs. M/s. LG Soft India
+Pvt. Ltd.,  21/21 this Court. Therefore we clarify that mere dissatisfaction
+with the findings of facts arrived at by the learned Tribunal is not at all a
+sufficient reason to invoke Section 260-A of the Act before this Court.
+
+58\. The appeals filed by the Revenue are therefore dismissed with no order as
+to costs."
+
+12\. In the circumstances, having heard the learned Counsel appearing for both
+the sides, we are of the considered opinion that no substantial question of
+law arises for consideration in the present case.
+
+13\. Hence, the Appeal filed by the Appellants-
+
+Revenue is liable to be dismissed and is accordingly dismissed. No costs.
+
+Sd/-
+
+JUDGE Sd/-
+
+JUDGE NC.
+

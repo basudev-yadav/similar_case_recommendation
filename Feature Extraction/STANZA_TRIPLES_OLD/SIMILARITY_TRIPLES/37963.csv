@@ -1,0 +1,591 @@
+tid,label,token
+37963,ORG,Supreme Court of India
+37963,ORG,Rajasthan Housing Board
+37963,ORG,Kishan And Ors. Etc. Etc
+37963,DATE,"27
+January, 1993"
+37963,DATE,1993
+37963,CARDINAL,1
+37963,CARDINAL,269
+37963,DATE,1993
+37963,CARDINAL,2
+37963,CARDINAL,84
+37963,PERSON,B Jeevan Reddy
+37963,PERSON,Jeevan Reddy
+37963,ORG,B.P
+37963,ORG,ETC.	ETC
+37963,ORG,ETC.  ETC
+37963,ORG,JEEVAN REDDY
+37963,ORG,B.P.
+37963,ORG,JEEVAN REDDY
+37963,DATE,1993
+37963,CARDINAL,1
+37963,CARDINAL,183
+37963,LAW,"ACT:
+    Rajasthan Land Acquisition Act"
+37963,DATE,1953
+37963,CARDINAL,5
+37963,CARDINAL,6
+37963,CARDINAL,17
+37963,CARDINAL,1
+37963,CARDINAL,17
+37963,CARDINAL,4
+37963,LAW,")-Acquisition	  of   land-
+    Notification"
+37963,LAW,the   enquiry-Validity
+37963,ORG,Government
+37963,LAW,Land Acquisition Act
+37963,DATE,1894
+37963,LAW,"Section 48-De-acquisition of land-Communication of tentative
+    decision-Effect of-Possession"
+37963,ORG,Govt.
+37963,LAW,"Section  4(1)  of	the  Rajasthan	Land
+    Acquisition  Act 1953"
+37963,ORG,Gazette
+37963,ORG,"the
+    Rajasthan  Housing Board"
+37963,LAW,S. 17(4)
+37963,LAW,"the provisions of S. 5(A)  of
+    the Act"
+37963,LAW,S.6 of the Act
+37963,ORG,the High Court
+37963,LAW,S.	 5(A)
+37963,ORG,Inquiry
+37963,LAW,The  Writ  Petitions
+37963,ORG,Special Appeals
+37963,ORG,Division Bench
+37963,CARDINAL,two
+37963,ORG,the Division Bench
+37963,ORG,Government
+37963,LAW,S. 17(4)
+37963,CARDINAL,270
+37963,CARDINAL,17
+37963,CARDINAL,4
+37963,LAW,"Section  17(1) of the Rajasthan Land  Acquisition	 Act
+    1953"
+37963,ORG,the Division Bench
+37963,ORG,the Full Bench
+37963,CARDINAL,17
+37963,CARDINAL,4
+37963,ORG,"the	Full
+    Bench"
+37963,LAW,"s.  6  of  the	Act.
+    Against	 this  the respondent"
+37963,ORG,Board
+37963,ORG,Court
+37963,ORG,State of U.P.
+37963,PERSON,Pista Devi
+37963,DATE,1986
+37963,CARDINAL,4
+37963,CARDINAL,251
+37963,LAW,The Writ Petition
+37963,ORG,Court
+37963,ORG,the  Petitioner	 Society
+37963,ORG,the housing Board
+37963,ORG,"the  Urban
+    Development Minister"
+37963,ORG,Society
+37963,ORG,Society
+37963,ORG,the Housing Board
+37963,LAW,"the
+    Writ Petition"
+37963,ORG,the Housing Society
+37963,ORG,Court
+37963,CARDINAL,1
+37963,LAW,Section 17(4) of the Rajasthan land Ceiling Act
+37963,DATE,1953
+37963,ORG,Court
+37963,ORG,the Housing Board
+37963,MONEY,Rs.16 crores
+37963,CARDINAL,31.3.1983
+37963,ORG,Government
+37963,ORG,the  Housing  Board
+37963,CARDINAL,271
+37963,ORG,Board
+37963,ORG,HUDCO
+37963,ORG,Board
+37963,LAW,Section 5-A
+37963,ORG,the Housing Board
+37963,LAW,"Section 17(4)  of
+    the  Act"
+37963,ORG,Court
+37963,LAW,Section 17(4
+37963,PERSON,Pista Devi
+37963,DATE,1986
+37963,CARDINAL,4
+37963,CARDINAL,251
+37963,PERSON,Sarju Prasad Saha
+37963,GPE,The State of Uttar Pradesh
+37963,GPE,A.I.R.
+37963,DATE,"1965
+    S.C.  1763"
+37963,PERSON,Dora Phalauli
+37963,GPE,Punjab
+37963,GPE,Ors.
+37963,DATE,"4
+    [1979"
+37963,CARDINAL,4
+37963,CARDINAL,485
+37963,CARDINAL,2.1
+37963,CARDINAL,about  525
+37963,ORG,Government
+37963,ORG,Urban	Development
+37963,DATE,1990
+37963,ORG,"the Minister
+    for  Urban Development"
+37963,ORG,The Minister for Urban Development
+37963,CARDINAL,2.2
+37963,DATE,"February,  1990"
+37963,ORG,"the
+    Housing Board"
+37963,ORG,Board
+37963,ORG,Board
+37963,ORG,Housing
+37963,ORG,Government
+37963,CARDINAL,272
+37963,CARDINAL,2.3
+37963,LAW,Section 48 of the Act
+37963,ORG,Government
+37963,ORG,the Housing Board
+37963,CARDINAL,2.4
+37963,LAW,S.4
+37963,CARDINAL,2.5
+37963,ORG,Govt.
+37963,CARDINAL,277B
+37963,DATE,1986
+37963,LAW,"the Judgment
+and Order"
+37963,CARDINAL,6.1.86
+37963,ORG,the Rajasthan High Court
+37963,LAW,"D.B. Special Appeal No.
+301"
+37963,DATE,1982
+37963,CARDINAL,1420/86
+37963,CARDINAL,1846-47/86
+37963,CARDINAL,1848-49/86
+37963,CARDINAL,1854-55/86
+37963,CARDINAL,2722-2738/92
+37963,CARDINAL,290/89
+37963,CARDINAL,185657/86
+37963,CARDINAL,123
+37963,DATE,1991
+37963,PERSON,Soli J.Sorabjee
+37963,ORG,S.P. Singh
+37963,PERSON,Surya Kant
+37963,PERSON,"B.D.
+Sharma"
+37963,ORG,Appellants
+37963,WORK_OF_ART,C.A. No. 1418/86
+37963,CARDINAL,290/89
+37963,PERSON,Thakur
+37963,PERSON,M.L. Lahoty
+37963,PERSON,Shipra Khazanchi
+37963,PERSON,K.C. Gehani
+37963,PERSON,Prem Sunder
+37963,PERSON,Jha
+37963,GPE,W.P.
+37963,CARDINAL,290/89
+37963,PERSON,F.S. Nariman
+37963,PERSON,S.P. Singh
+37963,PERSON,"Surya
+Kant"
+37963,PERSON,Aruneshwar Gupta
+37963,GPE,the State of Rajasthan
+37963,PERSON,P.N. Misra
+37963,PERSON,Sushil Kumar Jain
+37963,PERSON,Pratibha Jain
+37963,CARDINAL,273
+37963,ORG,Court
+37963,PERSON,JEEVAN
+37963,ORG,"the Rajasthan High
+Court"
+37963,CARDINAL,16
+37963,CARDINAL,24
+37963,LAW,the Full Bench
+37963,ORG,the Government of Rajasthan
+37963,LAW,"Section 4(1) of the
+Rajasthan Land Acquisition Act"
+37963,DATE,1953
+37963,LAW,Section 4(1) of the Rajasthan Act
+37963,ORG,the Rajasthan Gazette
+37963,CARDINAL,13.1.1982
+37963,CARDINAL,"2,.517"
+37963,MONEY,"1,580 crores"
+37963,ORG,the Rajasthan Housing Board
+37963,CARDINAL,9.2.1982
+37963,LAW,Section 17(4) of the said Act
+37963,LAW,"the provisions of
+Section 5(A)"
+37963,DATE,the same day
+37963,LAW,Section 6
+37963,ORG,Government
+37963,DATE,"22nd and 24th of May, 1982"
+37963,LAW,"S.B.
+Civil Writ Petition No. 707"
+37963,DATE,1982
+37963,CARDINAL,three
+37963,CARDINAL,1
+37963,LAW,sub-sec- tion (4) of Section 17
+37963,LAW,Section 5(A)
+37963,LAW,Section 5(A)
+37963,LAW,Act
+37963,CARDINAL,three
+37963,ORG,a Division Bench
+37963,ORDINAL,first
+37963,CARDINAL,two
+37963,PERSON,N.M. Kasliwal
+37963,PERSON,K.S. Siddhu
+37963,ORG,JJ.
+37963,ORDINAL,third
+37963,CARDINAL,12.12.1983
+37963,CARDINAL,Three
+37963,ORDINAL,third
+37963,CARDINAL,1
+37963,ORG,Government
+37963,CARDINAL,274
+37963,ORG,Government
+37963,LAW,Section 17(4)
+37963,LAW,Section 17(4
+37963,LAW,"Section 17(1) of the Rajasthan Land Acquisition
+Act"
+37963,DATE,1953
+37963,ORDINAL,third
+37963,ORG,the Division Bench
+37963,ORDINAL,third
+37963,CARDINAL,1
+37963,CARDINAL,2
+37963,ORG,No.3
+37963,ORG,No.3
+37963,ORG,The Full Bench
+37963,PERSON,N.M. Kasliwal
+37963,PERSON,M.B. Sharma
+37963,PERSON,Farooq Hasan
+37963,NORP,JJ.
+37963,PERSON,Sharma
+37963,PERSON,Farooq Hasan
+37963,LAW,Section 17(4)
+37963,LAW,Section 6
+37963,PERSON,Kasliwal J
+37963,LAW,Section 17(4
+37963,LAW,Section 17(1) of the Act
+37963,PERSON,Sri Soli Sorabji
+37963,ORG,State of Rajasthan)
+37963,ORG,the Fun Bench
+37963,ORG,the High Court
+37963,ORG,State of U.P.
+37963,PERSON,"Pista
+Devi"
+37963,DATE,1986
+37963,CARDINAL,4
+37963,CARDINAL,251
+37963,ORG,S/Sri D.D
+37963,PERSON,Thakur
+37963,PERSON,S.K. Jain
+37963,PERSON,Sarju Prasad Saha
+37963,ORG,The State of Uttar Pardesh
+37963,GPE,A.I.R.
+37963,DATE,"1965 S.C.
+1763"
+37963,CARDINAL,275
+37963,PERSON,Dom Phalauli
+37963,GPE,Punjab
+37963,GPE,Ors.
+37963,DATE,1979
+37963,LAW,4 S.C.C. 485
+37963,LAW,Section 17(4
+37963,LAW,Section 17(1)
+37963,LAW,Section 5(A)
+37963,CARDINAL,four
+37963,LAW,Section 5(A)
+37963,ORG,Housing Board
+37963,ORG,the Fun Bench
+37963,ORDINAL,first
+37963,ORG,the Full Bench
+37963,PERSON,Sharma
+37963,PERSON,J.
+37963,CARDINAL,2570
+37963,CARDINAL,15
+37963,ORG,the Full Bench
+37963,LAW,Section 17(4)
+37963,CARDINAL,276
+37963,ORG,State of U.P.
+37963,PERSON,Pista Devi
+37963,ORG,E.S. Venkataramiah
+37963,PERSON,Khalid
+37963,GPE,"Uttar
+Pradesh"
+37963,ORG,State
+37963,CARDINAL,1
+37963,LAW,Section 17
+37963,CARDINAL,7
+37963,LAW,State Amendment
+37963,QUANTITY,about 412 acres
+37963,LAW,Section 17(1) of the Act
+37963,ORG,the High Court
+37963,QUANTITY,about 412 acres
+37963,GPE,Meerut city
+37963,LAW,Section 5-A of the Act
+37963,LAW,"the case of few bits of land
+>"
+37963,LAW,Section 17(1) of the Act
+37963,LAW,Section 17 of the Act
+37963,LAW,the Land Acquisition (U.P. Amendment Act
+37963,LAW,)
+37963,LAW,"(22 of
+> 1954"
+37963,CARDINAL,1
+37963,CARDINAL,277
+37963,LAW,Section 17
+37963,LAW,U.P. State Amendment
+37963,LAW,Section 17(4)
+37963,LAW,the U.P. State Amendment
+37963,ORG,State
+37963,PERSON,Sorabji
+37963,PERSON,Sarju Prasad Saha
+37963,ORG,The State of U.P. & Ors.
+37963,GPE,A.I.R.
+37963,DATE,"1965
+S.C. 1763"
+37963,LAW,Section 5(A)
+37963,LAW,"Section
+17(4"
+37963,CARDINAL,9
+37963,CARDINAL,One
+37963,FAC,Bar
+37963,PERSON,S.P. Sinha
+37963,ORG,the Municipal Board
+37963,PERSON,Basti
+37963,LAW,S. 17(4)
+37963,LAW,S. 5-A
+37963,ORG,Court
+37963,LAW,S.5-A
+37963,PERSON,Dora Phalauli
+37963,ORG,"State of
+Punjab & Ors."
+37963,DATE,1979
+37963,CARDINAL,4
+37963,CARDINAL,485
+37963,LAW,Section 17(4)
+37963,PERSON,N.L. Untwalia
+37963,PERSON,A.P. Sen
+37963,LAW,Section 5-A
+37963,ORG,the State Government
+37963,CARDINAL,1
+37963,CARDINAL,2
+37963,CARDINAL,1
+37963,CARDINAL,two
+37963,ORDINAL,firstly
+37963,ORDINAL,secondly
+37963,LAW,Section 5-A
+37963,ORG,Government
+37963,LAW,Section 17 of the Act
+37963,LAW,Section 17
+37963,LAW,"Section 5- A of the Act
+>"
+37963,CARDINAL,279
+37963,LAW,Section 17
+37963,LAW,Section 5-A
+37963,LAW,Section 17(4)
+37963,LAW,Section 17(4)
+37963,PERSON,Sri Thakur
+37963,ORG,Housing Board
+37963,ORDINAL,Firstly
+37963,ORG,"the Rajasthan High
+Court"
+37963,PERSON,Single Judge
+37963,ORG,Division Bench
+37963,ORDINAL,third
+37963,ORDINAL,Secondly
+37963,LAW,Section 17(4)
+37963,ORG,Court
+37963,ORG,the Housing Board
+37963,MONEY,"16
+crores"
+37963,CARDINAL,31.3.1983
+37963,ORG,Government
+37963,ORG,the Housing Board
+37963,ORG,Board
+37963,ORG,the Division Bench
+37963,ORG,HUDCO
+37963,ORG,Board
+37963,LAW,Section 5-A
+37963,CARDINAL,280
+37963,ORG,"the Housing
+Board"
+37963,LAW,Section 17(4)
+37963,LAW,Section 17(4
+37963,ORG,"the Rajasthan
+High Court"
+37963,ORG,"the New
+Pink Grih Nirman Sahkari Sangh"
+37963,ORG,Rajasthan High Court
+37963,ORG,Civil Appeals
+37963,LAW,Section 4(1)
+37963,LAW,Section 17(1)
+37963,LAW,the notification under section 17(4
+37963,LAW,Section 6
+37963,GPE,Rajasthan
+37963,DATE,"20th July, 1984"
+37963,GPE,"Sri
+D.D"
+37963,PERSON,Thakur
+37963,CARDINAL,one
+37963,ORG,"Urban
+Development"
+37963,ORG,Government of Rajasthan
+37963,CARDINAL,8.2.1990
+37963,ORG,"the
+Rajasthan Government"
+37963,LAW,Section 48 of the Land Acquisition Act
+37963,DATE,1894
+37963,CARDINAL,4
+37963,CARDINAL,1
+37963,CARDINAL,12.1.1982
+37963,CARDINAL,9.2.1982
+37963,LAW,section 17(4)
+37963,CARDINAL,6
+37963,CARDINAL,281
+37963,DATE,"22nd and 24th of May, 1982"
+37963,CARDINAL,about 525
+37963,ORG,Government
+37963,ORG,Urban Development
+37963,CARDINAL,20.7.1984
+37963,PERSON,"Sri
+Harideo Joshi"
+37963,CARDINAL,29.4.1985
+37963,DATE,1990
+37963,CARDINAL,27.1.1990
+37963,CARDINAL,27.2.1990
+37963,CARDINAL,6.2.1990
+37963,ORG,"the
+Minister for Urban Development"
+37963,ORG,"The
+Minister for Urban Development"
+37963,PERSON,Sri Harideo Joshi
+37963,CARDINAL,8.2.1990
+37963,CARDINAL,13.2.1990
+37963,ORG,the Urban Development
+37963,DATE,1974-75
+37963,DATE,1975-76
+37963,ORG,"the Indira Bihar
+Residential Scheme"
+37963,CARDINAL,three thousand
+37963,DATE,the years 1976 to 1981
+37963,MONEY,"50,000"
+37963,DATE,the year 1981
+37963,ORG,"the Urban
+Improvement Trust"
+37963,DATE,the same year
+37963,QUANTITY,9 lakhs
+37963,ORG,"the Additional Collector, Land Conversion"
+37963,DATE,"March, 1982"
+37963,LAW,"the Land
+Conversion Rules"
+37963,DATE,1981
+37963,ORG,The Housing Board
+37963,DATE,"January, 1982"
+37963,DATE,1990
+37963,ORG,the Supreme Court
+37963,CARDINAL,18.1.1990
+37963,ORG,"the
+State Government"
+37963,ORG,"the Housing Cooperative
+Societies"
+37963,CARDINAL,282
+37963,ORG,the Jaipur Land Authority
+37963,ORG,"Jaipur Development
+Authority"
+37963,LAW,"the provisions of section 48 of the Land Acquisition
+Act"
+37963,DATE,1894
+37963,ORG,"the Housing
+Board"
+37963,CARDINAL,8.2.1990
+37963,PERSON,Hon'ble
+37963,CARDINAL,23.2.1990
+37963,CARDINAL,half
+37963,ORG,Cabinet
+37963,PERSON,Incharge Local Self Govt
+37963,ORG,Government
+37963,ORG,Urban Development
+37963,ORG,Housing Department
+37963,ORG,Government of Rajasthan
+37963,GPE,Jaipur
+37963,ORG,Rajasthan Housing Board
+37963,GPE,Jaipur
+37963,CARDINAL,5
+37963,CARDINAL,3
+37963,CARDINAL,24.4.90
+37963,ORG,Rajasthan Housing Board
+37963,GPE,Jaipur
+37963,PERSON,"Sahkari
+Samiti"
+37963,GPE,Devri
+37963,GPE,Sukhalpura
+37963,GPE,Jhalana Chaur
+37963,GPE,Goliyabas
+37963,CARDINAL,283
+37963,ORG,the State Govt.
+37963,ORG,Society
+37963,ORG,the State Government
+37963,ORG,the Housing Board
+37963,ORG,the State Govt
+37963,DATE,three days
+37963,CARDINAL,3
+37963,CARDINAL,29.2.90
+37963,ORG,"New Pink City Grah
+Nirman Sahkari Samiti Ltd."
+37963,GPE,Bapu Bazar
+37963,GPE,Jaipur
+37963,ORG,Govt
+37963,CARDINAL,28.2.90
+37963,CARDINAL,284
+37963,CARDINAL,48\
+37963,PERSON,Sri F.S. Nariman
+37963,GPE,Rajasthan
+37963,CARDINAL,24.2.1990
+37963,ORG,"Rajasthan Housing
+Board"
+37963,PERSON,Sri M.K.Khanna
+37963,CARDINAL,24.2.1990
+37963,ORG,the Rajasthan Housing Board
+37963,ORG,Government
+37963,ORG,Development and Housing
+37963,CARDINAL,25.5.1990
+37963,ORG,Government
+37963,CARDINAL,25.5.1990
+37963,LAW,"Ann.
+X-1"
+37963,CARDINAL,13.12.1990
+37963,ORG,the Beri Commission
+37963,ORG,The Beri Commission
+37963,ORG,Cabinet
+37963,ORG,the Rajasthan Housing Board
+37963,CARDINAL,24.4.1990
+37963,CARDINAL,31.10.1991
+37963,PERSON,Khatedars
+37963,ORG,Rajasthan Housing Board
+37963,ORG,"the Land Acquisition
+Collector"
+37963,DATE,"5th April, 1982"
+37963,MONEY,"40,000"
+37963,CARDINAL,285
+37963,DATE,"February, 1990"
+37963,ORG,the Housing Board
+37963,ORG,Board
+37963,ORG,Board
+37963,ORG,Housing
+37963,LAW,section 48 of the Act inasmuch
+37963,ORG,Government
+37963,CARDINAL,24.2.1990
+37963,ORG,the Housing Board
+37963,ORG,the Housing Board
+37963,ORG,Board
+37963,ORG,The Housing Board
+37963,ORG,"the Housing
+Board"
+37963,LAW,"section 48 of the Land Acquisition
+Act"
+37963,DATE,1894
+37963,ORG,G.N.				   Appeals
+37963,CARDINAL,286

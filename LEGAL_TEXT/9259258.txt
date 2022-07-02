@@ -1,0 +1,456 @@
+
+
+Income Tax Appellate Tribunal - Mumbai
+
+Sitel Operating Corporation ... vs Dcit Wd 11(2)(1), Mumbai on 3 May, 2019
+
+    
+    
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                       MUMBAI BENCH "J" MUMBAI
+    
+          BEFORE SHRI SAKTIJIT DEY (JUDICIAL MEMBER) AND
+             SHRI N.K. PRADHAN (ACCOUNTANT MEMBER)
+    
+    
+                            ITA No. 1821/MUM/2016
+                            Assessment Year: 2011-12
+    
+           M/s Sitel India Pvt. Ltd.,       Dy. Commissioner of Income
+           Boomerang Unit No.           Vs. Tax-11(2)(1), Room No. 417,
+           501, Wing-A&B, 5th               AayakarBhavan, M.K. Marg,
+           floor, Chandivali Studio,        Mumbai-400020.
+           Andheri (E), Mumbai-
+           400072.
+                                              PAN No. AACCC0408M
+            Appellant                         Respondent
+    
+                        Revenue by            : Mr.Manish Kumar Singh, DR
+                        Assessee by           : Mr. M.P. Lohia &
+                                                Mr. Nikhil Tiwari, ARs
+    
+               Date of Hearing    : 04/02/2019
+             Date of pronouncement: 03/05/2019
+    
+    
+                                         ORDER
+    
+
+PER N.K. PRADHAN, AM This is an appeal filed by the assessee. The relevant
+assessment year is 2011-12. The appeal is directed against the order u/s
+143(3) r.w.s. 144C(13) of the Income Tax Act, 1961 (the 'Act') passed by the
+Deputy Commissioner of Income Tax, Ward-11(2)(1), Mumbai (hereinafter 'AO') in
+pursuance of the directions issued by the Dispute Resolution Panel (in short
+'DRP').
+
+M/s Sitel India Pvt. Ltd. 2 ITA No. 1821/Mum/2016
+
+2\. Briefly stated, the facts are that the appellant-company is wholly owned
+subsidiary of Sitel Operating Corporation (USA) providing Information
+Technology Enabled Services comprising of Contact/Call Centre Services.
+
+The Ld. counsels of the assessee submit that the 1st, 2nd, 6th, 7th grounds of
+appeal are general in nature. Also it is submitted by them that the 3rd, 4th,
+5th grounds of appeal are not pressed.
+
+The Ld. counsels further submit that the 8th, 9th, 10th, 11th, 12th, 16th,
+18th and 19th ground of appeal will be academic in nature in view of specific
+directions in 13th, 14th, 15th and 17th ground of appeal. Therefore, we turn
+to the 13th, 14th, 15th and 17th ground of appeal.
+
+3\. The 13th ground of appeal The AO erred in considering Accentia
+Technologies Ltd. as comparable to the assessee for benchmarking its
+international transaction of provision of IT enabled services, disregarding
+the fact that the company is functionally different from the assessee i.e. it
+is engaged in provision of software services and operates under peculiar
+circumstances.
+
+3.1 The Transfer Pricing Officer (TPO) has included Accentia Technologies Ltd.
+('Accentia') in the final set of comparable on the ground that the company is
+a BPO and is into healthcare receivable management. The Ld. counsels of the
+assessee submit that Accentia is engaged in software development and Knowledge
+Process Outsourcing ('KPO') services in the nature of healthcare revenue cycle
+management and legal process outsourcing services. However, no separate
+segmental information is available for the software development and healthcare
+services provided by the company. Thus it is stated that in M/s Sitel India
+Pvt. Ltd. 3 ITA No. 1821/Mum/2016 the absence of separate segmental
+information, Accentia has to be rejected as a comparable.
+
+The Ld. counsels submit that in the following orders of the Tribunal, Accentia
+is rejected as a comparable:
+
+> (i) M/s Sitel Operating Corporation India Pvt. Ltd. (since amalgamated with
+> Sitel India Pvt. Ltd.) v. ITO (ITA No. 598/Bang/2015 & ITA No.
+> 452/Bang/2015) dated 25 April 2018
+
+> (ii) ACIT v. Maersk Global Services Centre (I) (P.) Ltd. (ITA No.
+> 944/Mum/2016) dated 29 July 2016 [AY 2011-12] (Mum ITAT)
+
+> (iii) Omniglobe Information Technologies (India) (P.) Ltd. v. ITO
+> (ITA/1003/Delhi/2016) dated 06 November 2017 [AY 2011-12]
+
+> (iv) Avineon India (P.) Ltd. v. DCIT (ITA No. ITA No. 238 and 257/Hyd/2016)
+> dated 07 July 2017 [AY 2011-12],
+
+> (v) Hyundai Motor India Engineering Pvt. Ltd. v. ITO (ITA No. 128 &
+> 216/Hyd/2016) dated 21 December 2016 [AY 2011-12],
+
+> (vi) e4e Business Solutions India Pvt. Ltd. v. DCIT (ITA No. 1397/Bang/2016)
+> dated 13 January 2017 [AY 2011-12],
+
+> (vii) M/s Tesco Hindustan Service Centre Pvt. Ltd. v. DCIT(IT(TP)A No.
+> 191/Bang/2015) dated 25 January 2017 [AY 2010-11] Further, it is stated that
+> in the following High Court decisions, Accentia is rejected as a comparable
+> to an ITeS Service Provider :
+
+> (i) PCIT v. Aptara Technology (P.) Ltd. (IT Appeal No. 1209 of 2015) dated
+> 26 March 2018 [AY 2008-09] (Bom HC),
+
+> (ii) PCIT v. BNY Mellon International Operating (India) (P.) Ltd. (IT Appeal
+> No. 1226 of 2015) dated 23 April 2018 [AY 2009-10] (Bom HC), M/s Sitel India
+> Pvt. Ltd. 4 ITA No. 1821/Mum/2016
+
+> (iii) PCIT v. PTC Software (I) (P.) Ltd. (IT Appeal No. 598 of 2016) dated
+> 16 April 2018 [AY 2009-10] (Bom HC) 3.2 On the other hand, the Ld. DR
+> submits that the TPO/AO has rightly included Accentia. in the final set of
+> comparables.
+
+> 3.3 We have heard the rival submissions and perused the relevant materials
+> on record. The reasons for our decisions are given below.
+
+In this context, we would be referring to the relevant pages of the Paper Book
+(P/B), which was also filed before the TPO. The annual report of Accentia
+clearly indicates that it is engaged in the provision of software services. As
+per the CEO's letter to shareholders on page 6 of the annual report, it is
+engaged in providing software development services and is using SaaS delivery
+model. Further, from page 31 of the annual report, it can be seen that the
+company is also engaged in sale of software products, for which no segmental
+breakup is available. As per the 'Management Discussion Analysis' on page 25
+of the annual report, the company is engaged in software development as it has
+SaaS model, which is further explained on pages 28 and 30 of the annual
+report. Further, the company has also developed software solutions such as
+'Instakare' and 'Insta PMS' which helps healthcare providers with a holistic
+and comprehensive solutions that fulfils all the medical and administrative
+support needs. In the absence of segmental financial information for software
+development product sales (which would form part of income earned from medical
+transcription) the company cannot be considered as a comparable.
+
+M/s Sitel India Pvt. Ltd. 5 ITA No. 1821/Mum/2016 In appellant's own case for
+AY 2010-11 (ITA (TP)A No. 598/Bang/2015) the ITAT 'A' Bench, Bangalore vide
+order dated 25.04.2018 at para 13.4 held as under:
+
+> "13.4 We heard rival submissions and perused the material on record. The
+> issue of comparability of this company was considered by the co-ordinate
+> bench of Tribunal in the case of M/s.Tesco Hindustan Service Centre Pvt.
+> Ltd. in IT(TP)A No.191/Bang/2015 dated 25/01/2017 wherein it has been held:
+
+> "13. As regards Accentia Technologies Ltd. and ICRA Online Ltd. this
+> Tribunal in the assessee's own case for the Assessment Year 2008- 09 has
+> excluded these two companies from the set of comparables in para 5 as under
+> :
+
+> "5. Thereafter he submitted that the following companies should be excluded
+> on the basis of functional dissimilarity and in support of his contention,
+> he placed reliance on the Tribunal order rendered in the case of M/s.
+> Flextronics Tech. (India) Pvt. Ltd. Vs. DCIT in IT(TP)A No.1559(B)/2012
+> dated 23.10.2015, copy available on page Nos.17 to 38 of compilation of case
+> laws submitted before the Tribunal.
+
+> a) Accential Tech. Ltd. (Seg.)
+
+> b) Acropetal Tech. Ltd. (Seg.)
+
+> c) Coral Hubs Ltd.
+
+> d) Crossdomain Solutions Ltd.
+
+> e) Eclerx Services Ltd.
+
+> f) Genesys International Corpn. Ltd.
+
+> g) Mold Tek Technologies Ltd."
+
+> We further note that the functional comparability has been examined in
+> detail by the co-ordinate bench of this Tribunal in the case of Equant
+> Solutions India Pvt. Ltd. Vs. DCIT in IT(TP)A No.1202/Del/2015 as well as in
+> the case of ITO Vs. Interwoven Software Services (India) Pvt. Ltd. in ITA
+> No.461/Bang/2015. Further in the case of Acropetal Technologies Ltd. (Seg.),
+> the co-ordinate bench of this Tribunal in the case of Kodiak M/s Sitel India
+> Pvt. Ltd. 6 ITA No. 1821/Mum/2016 Networks (India) Pvt. Ltd. Vs. DCIT in
+> IT(TP)A No.1540/Bang/2012 has considered the functional comparability and
+> found that this company is not comparable with a captive service provider.
+> Accordingly we direct the Assessing Officer/TPO to exclude these companies
+> from set of comparables."
+
+> Respectfully following the decision of the co-ordinate bench of Tribunal, we
+> direct the AO/TPO to delete Accentia Technologies Ltd. from the list of
+> comparables."
+
+3.4 Facts being identical, we follow the above order of the Tribunal in
+assessee's own case for the immediate preceding assessment year and direct the
+TPO/AO to delete Accentia Technologies Ltd. from the final list of
+comparables.
+
+Thus the 13th ground of appeal is allowed.
+
+4\. The 14th ground of appeal The AO erred in considering Acropetal
+Technologies Ltd. (Seg). as comparable to the assessee for benchmarking its
+international transaction of provision of IT enabled services, disregarding
+the fact that the company is functionally different from the assessee i.e. it
+is engaged into Knowledge Process Outsourcing Services.
+
+4.1 The TPO/AO included Acropetal Technologies Ltd. (Seg) (in short
+'Acropetal') in the final set of comparables on the ground that the company is
+engaged in providing similar activity (IT Enabled Services ) and as per
+Notification No. 11521 issued by CBDT, there is no distinction between BPO and
+KPO.
+
+4.2 The Ld. counsels of the assessee submit that Acropetal is engaged in
+providing KPO services. Explaining that TPO has considered 'Engineering Design
+Services' segment of Acropetal as comparable to M/s Sitel India Pvt. Ltd. 7
+ITA No. 1821/Mum/2016 the assessee, it is argued that the above segment of the
+company is in the nature of KPO and is functionally not comparable to the ITeS
+services performed by the appellant.
+
+In this regard, the Ld. counsels rely on the following orders of the Tribunal
+:
+
+> (i) M/s Sitel Operating Corporation India Pvt. Ltd. (since amalgamated with
+> Sitel India Pvt. Ltd.) v. ITO (ITA No. 598/Bang/2015 & ITA No.
+> 452/Bang/2015) dated 25 April 2018 [AY 2010-11)
+
+> (ii) Goldman Sachs (India) Securities (P.) Ltd. v. ACIT (IT Appeal (TP) Nos
+> 902 & 927 (Mum) of 2016) dated 11 January 2017 [AY 2011-12) (Mum ITAT)
+
+> (iii) DCIT v. M/s Infor(India) Pvt. Ltd. (ITA No. 113/Hyd/2016) dated 7 July
+> 2017 [AY 2011-12]
+
+> (iv) e4e Business Solutions India Pvt. Ltd. v. DCIT (ITA No. 1397/Bang/2016)
+> dated 13 January 2017 [AY 2011-12],
+
+> (v) M/s Tesco Hindustan Service Centre Pvt. Ltd. v. DCIT(IT(TP)A No.
+> 191/Bang/2015) dated 25 January 2017 [AY 2010-11].
+
+4.3 On the other hand, the Ld. DR supports the order passed by the TPO/AO on
+the ground that Acropetal is engaged in providing similar activity (IT Enabled
+Services).
+
+4.4 We have heard the rival submissions and perused the relevant materials on
+record. The reasons for our decisions are given below.
+
+As per page 8 of the annual report, Acropetal includes services such as design
+engineering, architectural, structural services. These services are in the
+nature of a KPO services as defined in Safe Harbour Rules.
+
+M/s Sitel India Pvt. Ltd. 8 ITA No. 1821/Mum/2016 Further, Acropetal operates
+various services such as architectural, structural, electrical engineering
+etc. which are functionally different from the ITeS rendered by the appellant.
+
+Regarding the reliance placed by the TPO and DRP on Notification No. 11521
+issued by CBDT, we find that it is in relation to the type of information
+technology enabled products or services which will be eligible for deduction
+u/s 10A(b)(i)(2), section 10B(b)(i)(2) and section 80HHE(b). The purpose of
+the said Circular is entirely different viz. to state the type of services
+which are eligible for deduction.
+
+We find that the Safe Harbour Rules issued by CBDT clearly demarcates between
+BPO and KPO services and has also provided separate Safe Harbour Margin for
+these type of services.
+
+4.4.1 In appellant's own case for AY 2010-11 (ITA (TP)A No. 598/Bang/2015) the
+ITAT 'A' Bench, Bangalore vide order dated 25.04.2018 at para 14.4 held as
+under:
+
+> "14.4 We heard rival submissions and perused the material on record. The
+> issue of comparability of this company was considered by the co-ordinate
+> bench of Tribunal in the case of M/s.Tesco Hindustan Service Centre Pvt.
+> Ltd. in IT(TP)A No.191/Bang/2015 dated 25/01/2017 wherein it has been held:
+
+> "13. As regards Accentia Technologies Ltd. and ICRA Online Ltd. this
+> Tribunal in the assessee's own case for the Assessment Year 2008- 09 has
+> excluded these two companies from the set of comparables in para 5 as under
+> :
+
+> "5. Thereafter he submitted that the following companies should be excluded
+> on the basis of functional dissimilarity M/s Sitel India Pvt. Ltd. 9 ITA No.
+> 1821/Mum/2016 and in support of his contention, he placed reliance on the
+> Tribunal order rendered in the case of M/s. Flextronics Tech. (India) Pvt.
+> Ltd. Vs. DCIT in IT(TP)A No.1559(B)/2012 dated 23.10.2015, copy available on
+> page Nos.17 to 38 of compilation of case laws submitted before the Tribunal.
+
+> a) Accential Tech. Ltd. (Seg.)
+
+> b) Acropetal Tech. Ltd. (Seg.)
+
+> c) Coral Hubs Ltd.
+
+> d) Crossdomain Solutions Ltd.
+
+> e) Eclerx Services Ltd.
+
+> f) Genesys International Corpn. Ltd.
+
+> g) Mold Tek Technologies Ltd."
+
+We further note that the functional comparability has been examined in detail
+by the co-ordinate bench of this Tribunal in the case of Equant Solutions
+India Pvt. Ltd. Vs. DCIT in IT(TP)A No.1202/Del/2015 as well as in the case of
+ITO Vs. Interwoven Software Services (India) Pvt. Ltd. in ITA
+No.461/Bang/2015. Further in the case of Acropetal Technologies Ltd. (Seg.),
+the co-ordinate bench of this Tribunal in the case of Kodiak Networks (India)
+Pvt. Ltd. Vs. DCIT in IT(TP)A No.1540/Bang/2012 has considered the functional
+comparability and found that this company is not comparable with a captive
+service provider. Accordingly we direct the Assessing Officer/TPO to exclude
+these companies from set of comparables."
+
+Respectfully following the decision of the co-ordinate bench of Tribunal, we
+direct the AO/TPO to delete Acropetal Technologies Ltd.(Seg) from the list of
+comparables."
+
+M/s Sitel India Pvt. Ltd. 10 ITA No. 1821/Mum/2016 4.4.2 Facts being
+identical, we follow the above order of the Tribunal in assessee's own case
+for the immediate preceding assessment year and direct the TPO/AO to delete
+Acropetal Technologies Ltd.(Seg) from the list of final comparables.
+
+Thus the 14th ground of appeal is allowed.
+
+5\. The 15th ground of appeal The AO erred in considering ICRA Online Ltd.
+(Seg) as comparable to the assessee for benchmarking its international
+transaction of provision of IT enabled services, disregarding the fact that
+the company is functionally different from the assessee i.e. it is engaged
+into knowledge Process Outsourcing Services.
+
+The 17th ground of appeal The AO erred in computing the operating margin of
+ICRA Online Limited (Seg) as 33.54% on operating costs as against the correct
+margin of 22.32%.
+
+5.1 The TPO included ICRA Online Ltd. (Seg) (in short 'ICRA')on the ground
+that it is engaged in data processing and data mining and accordingly it is
+providing similar services (ITeS). The DRP upholds the order of the TPO, which
+is followed by the AO.
+
+5.2 The Ld. counsels of the assessee submit that as per the annual report, the
+company has following three business segments:
+
+> (i) Information Services,
+
+> (ii) Software Services and
+
+> (iii) Outsource Services It is further stated that the TPO has considered
+> the operations of the 'Outsourced Services' segment as comparable to the
+> operations of M/s Sitel India Pvt. Ltd. 11 ITA No. 1821/Mum/2016 the
+> appellant. The Ld. counsels argue that the annual report of the company does
+> not provide any description as to the nature of the services contained in
+> the segment. However, a reference may be drawn to the annual report of ICRA
+> Ltd., the holding company of ICRA from where it can be seen that the
+> outsourced segment of the company relates to KPO and online software
+> services.
+
+The Ld. counsels further submit that the ITAT in appellant's own case for AY
+2010-11 has followed the Tribunal discussion in the case of Tesco Hindustan
+Service Centre Pvt. Ltd. v. DCIT (ITA No. 191/Bang/2015) to reject the company
+functionally not comparable to the appellant i.e. companies not engaged in
+providing ITeS (BPO Services). In this regard, reliance is placed by them on
+the following orders of the Tribunal :
+
+> (i) M/s Sitel Operating Corporation India Pvt. Ltd. (since amalgamated with
+> Sitel India Pvt. Ltd.) v. ITO (ITA No. 598/Bang/2015 & ITA No.
+> 452/Bang/2015) dated 25 April 2018 [AY 2010-11]
+
+> (ii) M/s Tesco Hindustan Service Centre Pvt. Ltd. v. DCIT(IT(TP)A No.
+> 191/Bang/2015) dated 25 January 2017 [AY 2010-11]
+
+> (iii) Outsource Partners International v. DCIT (IT(TP)A No. 337/Bang/2015)
+> [AY 2010-11].
+
+5.3 On the other hand, the Ld. DR submits that ICRA is engaged in data
+processing and data mining and accordingly it is engaged in providing similar
+services (ITeS). Thus it is stated that the inclusion of the above company by
+the TPO/AO in the list of final comparables be confirmed.
+
+M/s Sitel India Pvt. Ltd. 12 ITA No. 1821/Mum/2016 5.4 We have heard the rival
+submissions and perused the relevant materials on record. The reasons for our
+decisions are given below.
+
+The TPO has considered the operations of the 'Outsourced Services' segment of
+ICRA as comparable to the operations of the appellant. However, we find that
+the annual report of the company does not provide any description as to the
+nature of the services contained in this segment. As per page 532 of the P/B,
+a reference may be made to the annual report of ICRA Ltd., the holding company
+of ICRA from where it can be seen that the outsourced segment of the company
+relates to KPO and online software services. Also page 8 of the annual report
+of ICRA Ltd. delineates the business of ICRA stating that the company is
+engaged in providing KPO and online software services. As per the description
+at page 532 of the P/B, the knowledge process outsourcing division provides
+financial and analytical services and support to clients in the area of data
+extraction, aggregation, electronic conversion of financial statements,
+validation and analysis, accounting and finance, research and analytics.
+
+Thus the appellant in the instant case performs routine ITeS comprising of
+contact/call centre services and hence is a routine BPO service provider and
+cannot be compared to a company providing KPO services such as ICRA.
+
+Also we find that the TPO has wrongly computed the margin of the company as
+33.54% instead of the correct margin 22.32%, because the TPO has excluded
+foreign exchange income and other receipts (allocated basis revenue in each
+segment), whereas, the same is to be M/s Sitel India Pvt. Ltd. 13 ITA No.
+1821/Mum/2016 added for information service, outsource service and software
+service to arrive at the correct margin.
+
+In assessee's own case for AY 2010-11, the ITAT 'A' Bench Bangalore has
+followed the Tribunal discussion in the case of Tesco Hindustan Service Centre
+Pvt. Ltd. (supra) to reject the companies functionally not comparable to the
+appellant i.e. companies not engaged in providing ITeS (BPO) service. In the
+case of Tesco Hindustan Service Centre Pvt. Ltd. (supra), ICRA has been held
+to be non-comparable to an ITeS service provider.
+
+Accordingly, following the decision of Tesco Hindustan Service Centre Pvt.
+Ltd. (supra) and the observations in the Tribunal decision in appellant's own
+case for AY 2010-11, we reject ICRA Online as a comparable.
+
+Thus the 15th & 17th grounds of appeal are allowed.
+
+6\. As the 13th, 14th, 15th and 17th ground of appeal are allowed in favour of
+the appellant, the 8th to 12th, 16th, 18th and 19th ground of appeal become
+academic in nature.
+
+The 20th ground of appeal stating "benefit of +/- 5% under proviso to section
+92C(2) of the Act be granted to the assessee, if the adjustment under transfer
+pricing falls within the range specified therein" becomes consequential in
+nature.
+
+The 21st ground of appeal regarding levy of interest u/s 234B, similarly
+becomes consequential in nature.
+
+The 22nd ground of appeal regarding initiation of penalty u/s 271(1)(c) is
+premature.
+
+M/s Sitel India Pvt. Ltd. 14 ITA No. 1821/Mum/2016
+
+7\. In the result, the appeal filed by the assessee is allowed.
+
+Order pronounced in the open Court on 03/05/2019.
+
+    
+    
+                Sd/-                                          Sd/-
+        (SAKTIJIT DEY)                                (N.K. PRADHAN)
+       JUDICIAL MEMBER                              ACCOUNTANT MEMBER
+    Mumbai;
+    
+    Dated: 03/05/2019
+    Rahul Sharma, Sr. P.S.
+    
+    Copy of the Order forwarded to :
+    1. The Appellant
+    2. The Respondent.
+    3. The CIT(A)-
+    4. CIT
+    5. DR, ITAT, Mumbai
+    6. Guard file.
+                                                      BY ORDER,
+    //True Copy//
+                                                      (Dy./Asstt. Registrar)
+                                                         ITAT, Mumbai
+     
+

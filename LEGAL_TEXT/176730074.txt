@@ -1,0 +1,1032 @@
+
+
+Income Tax Appellate Tribunal - Panji
+
+Ptc Software (India) Pvt. Ltd.,, ... vs Deputy Commissioner Of ... on 27
+October, 2017
+
+    
+    
+                    आयकर अपीलीय अिधकरण,
+                                अिधकरण पुणे  यायपीठ "ए
+                                                     ए" पुणे म 
+                  IN THE INCOME TAX APPELLATE TRIBUNAL
+                           PUNE BENCH "A", PUNE
+    
+                                	ी डी.
+                                   डी क णाकरा राव , लेखा सद य
+                           एवं 	ी िवकास अव थी,
+                                        अव थी  याियक सद य के सम 
+    
+                      BEFORE SHRI D.KARUNAKARA RAO, AM
+                         AND SHRI VIKAS AWASTHY, JM
+    
+                       आयकर अपील सं. / ITA No.572/PUN/2015
+                       िनधा रण वष  / Assessment Year : 2010-11
+    
+    DCIT, Circle-4, Pune                             ....      अपीलाथ /Appellant
+    Vs.
+    
+    PTC Software (India) Private Limited,
+    Survey No.15, Marisoft-II,
+    Vadgaonsheri, Kalyaninagar,
+    Pune - 411 014
+    PAN : AABCC1268J                                 ....      	यथ  / Respondent
+
+C.O. No.38/PUN/2015 (Arising out of ITA No.572/PUN/2015) िनधा रण वष /
+Assessment Year : 2010-11 PTC Software (India) Private Limited, Survey No.15,
+Marisoft-II, Vadgaonsheri, Kalyaninagar, Pune - 411 014 PAN : AABCC1268J ....
+Cross Objector Vs.
+
+    
+    
+    DCIT, Circle-4, Pune                             ....      	यथ  / Respondent
+    
+                      आयकर अपील सं . / ITA No.352/PUN/2015
+                      िनधारण वष / Assessment Year : 2010-11
+    
+    PTC Software (India) Private Limited,
+    Survey No.15, Marisoft-II,
+    Vadgaonsheri, Kalyaninagar,
+    Pune - 411 014
+    PAN : AABCC1268J                                 ....      अपीलाथ /Appellant
+    
+    Vs.
+    
+    DCIT, Circle-4, Pune                             ....        थ / Respondent
+    
+    
+                  Assessee by    : Shri Ashwin Taneja
+                  Revenue by     : Shri Rajeev Kumar, CIT
+    
+    
+    सुनवाई क	 तारीख /                        घोषणा क	 तारीख /
+    Date of Hearing : 24.10.2017             Date of Pronouncement: 27.10.2017
+                                              2
+                                                         ITA Nos.352, 572/PUN/2015 and
+                                                                    CO No.38/PUN/2015
+                                                             PTC Software (India) Pvt. Ltd.
+    
+    
+    
+    
+                                    आदेश    /    ORDER
+    
+    
+    PER D. KARUNAKARA RAO, AM :
+    
+    
+    
+
+There are 3 appeals under consideration against the orders/directions of the
+AO/TPO/DRP for the A.Y. 2010-11.
+
+2\. In the Revenue's appeal, three grounds are raised and all the three
+grounds revolve around the issue relating to the Transfer Pricing Adjustments
+and questions the relief granted by the DRP to the assessee. Grounds of appeal
+raised by the Revenue are extracted as under :
+
+> "1. The DRP erred to exclude FCS Software Ltd. from the list of comparable
+> companies, when Delhi ITAT has held in the case of Navisite India (P) to be
+> a software company.
+
+> 2\. The DRP erred by accepting assessee's contention that comparables
+> selected by it after conducting TP study should be considered when Rule
+> 10D(4) maintains that documents and information should exists latest by the
+> 'specified date' specified in s.92F94, i.e. the due date for filing the ROI.
+
+> 3\. The DRP erred to exclude Eclerx Services Limited from the list of
+> comparable as it is KPO company, when CBDTs Circular No.890 (E) dated
+> 26-09-2000 clearly mentions that KPO services are also information
+> technology enabled products of services."
+
+3\. Similarly, in the assessee's appeal, the assessee raised 4 grounds, which
+has many sub-grounds, questioning the Transfer Pricing Adjustment amounting to
+Rs.69,68,175/- confirmed by the DRP. All the grounds raised by the assessee
+are extracted as under :
+
+> "On the facts and circumstances of the case, and in law :
+
+> 1\. The Ld Assessing Officer ('AO') pursuant to the directions of the Ld.
+> Dispute Resolution Panel ('DRP') erred in rejecting the benchmarking
+> approach adopted/contemporaneous documentation maintained by the appellant
+> and thereby making a transfer pricing adjustment of Rs. 69,68,175 to the
+> income of the appellant by holding that the international transactions
+> pertaining to provision of customer support back office services ("ITES
+> Services') to the associated enterprise ('AE') are not at arm's length under
+> the Income-tax Act, 1961 (the Act').
+
+> 2\. On the facts and in the circumstances of the case, the Ld. AO/DRP erred
+> in modifying the benchmarking analysis, as conducted by the appellant using
+> Transactional Net Margin Method ('TNMM') for benchmarking its international
+> 3 ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> transactions pertaining to provision of ITES services to the AE, and thereby
+> modifying the set of comparables. In doing so, the Ld AO/DRP specifically
+> erred in:
+
+> a) conducting selective fresh analysis (without sharing the fresh search
+> workings with the assessee) resulting in cherry picking of comparables which
+> contradicts with the principles of conducting search (for comparables) in a
+> scientific manner;
+
+> b) disregarding the fresh search provided by the assessee (on a without
+> prejudice basis) using the data for FY 2009-10, whereas the Ld. AO/TPO had
+> himself conducted a fresh search/ analysis.
+
+> c) including companies which are not functionally comparable to the ITES
+> services rendered by the appellant in final set of comparables (identified
+> based on the fresh search/analysis conducted by the Ld TPO).
+
+> d) rejecting companies functionally similar to that of the appellant's
+> business operations from final set of comparables (and also identified based
+> on the fresh search conducted by the appellant on a without prejudice
+> basis).
+
+> 3\. The Ld. DRP / AO erred in considering the single year data for the
+> comparables i.e. data for FY 2009-10 only and disregarding multiple year
+> data which was considered by the appellant in accordance with the provisions
+> of Rule 10B(4) of the Income-tax Rule, 1962 ("Rules").
+
+> 4\. The Ld. DRP / AO erred in not allowing an adjustment for the difference
+> between the level of risk borne/assets employed by the comparables and the
+> appellant as provided by the appellant, without providing any cogent
+> reasons, and disregarding the provisions of Rules 10B (3) read with Rule 10C
+> of the Rules. In doing so, the Ld DRP / AO erred by:
+
+> i. Failing to capture that the appellant is a routine captive service
+> provider as against the comparable companies selected by the Ld.TPO which
+> include entrepreneurial companies and hence an adjustment is necessary.
+
+> ii. Disregarding the provisions of Rule 10B(3) read with Rule 10C of the
+> Rules.
+
+> The above grounds are without prejudice to each other."
+
+4\. Further, bringing our attention to the Cross Objection, i.e.
+C.O.No.38/PUN/2015 filed by the assessee, Ld. AR for the assessee submitted
+that the said Cross Objections becomes an academic issue once the grounds
+raised by the Revenue are adjudicated in favour of the assessee, Ld. AR opines
+that the issues raised by the Revenue are of covered nature by the order of
+the Tribunal in the assessee's own case for the earlier A.Y. 2009-10.
+Therefore, we shall now take up the Revenue's appeal to examine the claim of
+covered nature of the issues relating to the Transfer Pricing Adjustment.  4
+
+ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+ITA No.572/PUN/2015 (By Revenue) :
+
+5\. Ground No.1 of the Revenue relates to the correctness of the exclusion of
+FCS Software Ltd. as a comparable against the decision of the TPO who
+considered the same as a good comparable.
+
+6\. Ld. DR relied on the order of the AO and also on the order of the Delhi
+Bench of the Tribunal in the case of Navisite India Pvt. Ltd., which is
+actually referred in the Ground No.1 of Revenue's appeal. In connection with
+the exclusion of M/s. Eclerx Services Ltd. (a KPO sompany), Ld. DR for the
+Revenue also relied on the circular of the CBDT for the proposition that the
+KPO services of Eclerx Services Ltd. are functionally comparable to the ITeS
+of the assessee.
+
+7\. In this regard, the case of the AO and the TPO is that FCS Software Ltd.
+being a Software Developer the same constitutes a good comparable. However,
+the DRP found that the said company earned 42% of Revenue from Software
+Services and 37% of Revenue earned from Education and 21% of the Revenue is
+earned from Infrastructure Management. With the said 42% of the Revenue from
+Software Services, the same does not constitute a good comparable and
+therefore the DRP directed the AO/TPO to exclude the same from the list of
+comparables for benchmarking the international transactions of the assessee.
+
+8\. In connection with the said direction of the DRP, Ld. AR for the assessee
+submitted before us that the FCS Software Ltd. with 42% of the total Revenue
+from the Software Services cannot be considered as a good comparable in case
+of benchmarking of transactions by a Software company. Bringing our attention
+to the order of the Tribunal in assessee's own case for the A.Y. 2008- 09 vide
+ITA No.2546/PUN/2012, Ld. AR for the assessee submitted that said comparable
+was considered as a good comparable by the TPO/AO. In this  5 ITA Nos.352,
+572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+year, the TPO considered the filter of 75% of the total receipts from the
+Software Services. On finding that the total receipts are below the said
+benchmark, the Tribunal decided the case in faovur of the assessee and
+considered the fact that FCS Software Ltd. does not qualify the said filter of
+75%. Copy of the said order is placed in the paper book at page 873 of the
+Legal compendium. On similar ground, the Tribunal excluded the said company
+while adjudicating another Software company named TIBCO Software (India) Pvt.
+Ltd. in ITA No.2536/PUN/2012 for the A.Y. 2008-09 (placed in the paper book at
+pages 14 to 16 and 65 of the Legal compendium).
+
+9\. On hearing both the parties on this issue, we find that FCS Software Ltd.
+was not considered as a good comparable when it comes to FAR (Functions Assets
+and Risks Analysis) test as well as the Revenue segment of the Software
+Services earned by the said company. For the sake of completeness, we extract
+the relevant paragraphs from the order of the Tribunal in the assessee's own
+case (supra) and the same read as under :
+
+> "12. Both sides heard. The assessee has assailed inclusion of FCS Software
+> Solution Ltd. in final set of comparables primarily on ground that the
+> company is functionally different, fails to qualify filter of 75% income
+> from software development services and has abnormally high profits. We find
+> that the issue regarding exclusion/inclusion of FCS Software Solutions Ltd.
+> has been considered by the Co-ordinate Bench of Tribunal in the case of
+> TIBCO Software India Pvt. Ltd. Vs. Dy. Commissioner of Income Tax (supra).
+> The ld. Counsel has given a comparative analysis as to how the activities of
+> the assessee and TIBCO Software India Pvt. Ltd. are at par with each other.
+> The ld. DR has not disputed the same. In the case of TIBCO Software India
+> Pvt. Ltd. Vs. Dy. Commissioner of Income Tax (supra) the Tribunal has
+> excluded FCS Software Solutions Ltd. by observing as under :
+
+> "23. We have carefully considered the rival submissions. In fact, the TPO
+> has reproduced in para 15.7 the written submissions of the assessee on this
+> aspect. The first plea raised by the assessee was that income earned by the
+> said concern from rendering of application support services and
+> infrastructure management services, which constitute 11% and 15%
+> respectively of the total revenue, are in the nature of IT enabled services
+> and not linked to the software development services. On this basis, it was
+> sought to be pointed out that if the aforesaid income streams are excluded
+> from the segment of software development services, then the income from
+> software development services segment falls below 75% of the total income.
+> The TPO had applied a filter to exclude such concerns from the list of  6
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> comparables, wherein the income from software development services was less
+> than 75% of the total income. In fact, in the discussion made by the TPO in
+> response to assessee's aforesaid assertions, there is no denial to the same.
+> Though the TPO goes on to rely on the CBDT‟s Circular dated 26.09.2000
+> (supra), but that is in relation to the activity of E-learning and Digital
+> Consulting being carried out by the assessee. The segment of E-learning and
+> Digital Consulting is a different segment. In any case, assessee's plea
+> based on the nature of services on account of application support services
+> segment and infrastructure management services segment have not been
+> rebutted by the TPO. Therefore, we are inclined to hold that the application
+> support services and infrastructure management services, which constitute
+> 11% and 15% respectively of the total income, are IT enabled services and
+> not linked to the software development services.
+
+> 24\. Moreover, the assessee had referred to the following extract from the
+> Annual Report of the said concern in relation to the E-learning and Digital
+> Consulting before the TPO to say that it is in the nature of IT enabled
+> services:-
+
+> "E-learning and Digital Consulting Services:
+
+> US corporations look at E-learning of web / CD based training programs as
+> one of the ways to achieve organizational growth and improved business
+> performance. E-learning helps employees, vendors, and dealers of a company
+> to better their performance and deal with fast- changing environments.
+> E-learning makes training highly efficient, by making it available anytime,
+> anywhere and reduces total cost of training. E-learning is used to train
+> employees, customers and service technicians on product knowledge, concepts,
+> strategies, risk and finance, compliance and technology."
+
+> 25\. Ostensibly, the aforesaid services involve setting up of support
+> centres and remote maintenance, which have been duly categorized as ITES by
+> the CBDT‟s Circular dated 26.09.2000 itself, which has been reproduced by
+> the TPO in the impugned order. Therefore, even the said segment is not to be
+> included as part of the software development services, as asserted by the
+> assessee. Once the segment of application support and infrastructure
+> management services are removed along with the exclusion of E-learning and
+> Digital consulting segment, then the income of the said concern from
+> software development services falls below 75% of its total income and
+> therefore, it deserves to be excluded even on the basis of the filter
+> applied by the TPO. Thus, on this aspect, assessee succeeds."
+
+13\. Reliance has also been placed by the assessee on the decision of Barclays
+Technology Centre Vs. ACIT (supra) to contend that FCS Software Solutions Ltd.
+has abnormally high profit margin. The Co-ordinate Bench of Tribunal while
+excluding FCS Software Solutions Ltd. in the said case has held as under :
+
+> "28. We have carefully considered the rival submissions. The argument of the
+> assessee in order to exclude FCS Software Solutions Ltd. from the final set
+> of comparables is based on twin grounds. Firstly, it is contended that the
+> said concern has declared an abnormally high profit margin of 57.02% for the
+> financial year under consideration; and, secondly, that the margins of the
+> said concern widely fluctuate in over the years. In the context of the
+> exclusion of abnormal profit making concerns, the following discussion made
+> by the Special Bench of the Tribunal in the case of Maersk Global Centrea
+> (India) Pvt. Ltd. (supra) is worthy of notice:
+
+7
+
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> "In generality, we are of the view that the answer to this question will
+> depend on the facts and circumstances of each case inasmuch as potential
+> comparable earning abnormally high profit margin should trigger further
+> investigation in order to establish whether it can be taken as comparable or
+> not. Such investigation should be to ascertain as to whether earning of high
+> profit reflects a normal business condition or whether it is the result of
+> some abnormal conditions prevailing in the relevant year. The profit margin
+> earned by such entity in the immediately preceding year/s may also be taken
+> into consideration to find out whether the high profit margin represents the
+> normal business trend. The FAR analysis in such case may be reviewed to
+> ensure that the potential comparable earning high profit satisfies the
+> comparability conditions. If it is found on such investigation that the high
+> margin profit making company does not satisfy the comparability analysis and
+> or the high profit margin earned by it does not reflect the normal business
+> condition, we are of the view that the high profit margin making entity
+> should not be included in the list of comparable for the purpose of
+> determining the arm's length price of an international transaction.
+> Otherwise, the entity satisfying the comparability analysis with its high
+> profit margin reflecting normal business condition should not be rejected
+> solely on the basis of such abnormal high profit margin."
+
+29\. The aforesaid discussion of the Special Bench reveals that a concern
+which has earned abnormally high profit margin cannot be excluded from the
+list of comparables straightaway without making appropriate investigations.
+
+As per the Special Bench, it would be appropriate to ascertain as to whether
+the high profit margin declared by the concern reflects a normal business
+phenomenon or it has resulted because of certain abnormal conditions
+prevailing in a particular year. As per the Special Bench, in order to carry
+out the aforesaid analysis, the profit margins earned by such concern in the
+proximate preceding and succeeding years should also be taken into
+consideration so as to establish whether the high profit margins reflect a
+normal business trend or otherwise. In this background of the matter, we find
+that in the case of FCS Software Solutions Ltd., the margins for the two
+preceding financial years are 14.75% and 19.94%, whereas in the financial year
+succeeding to the year under consideration, the margin is 37.07%; and, the
+margin declared for the year under consideration is 57.02%. At the time of
+hearing, the Ld. Representative pointed out that in the financial year 2007-08
+relevant to the assessment year under consideration the said concern's
+revenues from the software activity was Rs.86.73 crores as against Rs.143.43
+crores in immediately preceding year. On the contrary the expenditure incurred
+on development of software for the year under consideration stood at Rs.30.44
+crores as against Rs.104.35 crores in the immediately preceding year. It is
+pointed out that the ratio of software development expenditure to total income
+has fallen drastically from 72.75% to 35.10%, which shows that the current
+year has witnessed abnormal events. All the aforesaid factual aspects of the
+matter have not been disputed by the Revenue before us. From the aforesaid
+analysis, it is clear that the operating margins of the said concern do not
+reflect a consistent trend over the years, and in any case, the current year‟s
+operations in comparison to the earlier years are quite abnormal. Considering
+the entirety of circumstances, in our view, the financial results declared by
+the said concern do not reflect a normal business trend and therefore in our
+view the said concern is liable to be excluded from the final set of
+comparables. We hold so."  8
+
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> The ld. DR has not controverted the decisions of Co-ordinate Bench in
+> rejecting FCS Software Solutions Ltd. from the final list of comparables.
+> Thus, in view of the facts of the case and the decisions discussed above we
+> find that FCS Software Solutions Ltd. is not a good comparables and hence,
+> is liable to be excluded from final set of comparables. We hold and direct,
+> accordingly.
+
+10\. In this year under consideration too, the modified filter of the TPO qua
+the percentage of total receipts out of the IT Services, the assessee recorded
+42%. The same is below the filter set by the TPO for benchmarking. Considering
+the above settled nature of the issue, we are of the opinion that the
+direction given by the DRP in excluding the FCS Software Ltd. as a good
+comparable is fair and reasonable and it does not call for any interference.
+Accordingly, Ground No.1 raised by the Revenue is dismissed.
+
+11\. Ground No.3 raised by the Revenue relates to rejection of assessee's
+claim for fresh search of comparables. Bringing our attention to the direction
+of the DRP, it is the submission of the assessee that the ground is mis-
+conceived by the Revenue as the same is raised by the assessee in its appeal
+vide Ground No.2(b) of the grounds of appeal of the assessee. Considering the
+same, after hearing both the parties, we dismiss the same as mis-conceived.
+
+12\. Ground No.2 raised by the Revenue relates to exclusion of Eclerx Services
+Ltd. from the list of comparables. The AO and the TPO considered the same as a
+good comparable despite the fact that the said company is engaged in KPO
+services. Without disputing the same is a KPO company, it is the case of the
+Revenue that the KPO services are akin to the IT Software services of the
+assessee company and relied heavily on the CBDT Circular No.890 (E) dated
+26-09-2000. Relying on the said circular, Revenue reasons that the KPO
+services constitutes Information Technology Services and therefore, the same
+constitutes a good comparable. Revenue is aggrieved against the direction of
+9 ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+Ltd.
+
+the DRP who directed for exclusion of the same for the reasons given in their
+direction at para 25 of the order of the DRP dated 28-12-2014.
+
+13\. Before the DRP, assessee reasoned that the KPO (Knowledge, Process and
+Outsourcing) services are neither the IT Software services nor the ITES
+services. For this proposition, assessee relied on various decisions. Further,
+it is the case of the assessee that the said circular of CBDT is not up-to-
+date in view of the subsequent stand of the CBDT on this issue. Bringing our
+attention to the copy of the CBDT Safe Harbour Rules dated 18-09-2013 (Page
+324 of the paper book), Ld. AR for the assessee demonstrated that the fact of
+CBDT distinguishing the KPO services from the BPO services while fixing
+different Safe Harbour margins for the different services. Thus, the Ld. AR
+for the assessee demolished the TPO's view on the similarity of BPP services
+with that of KPO services. Referring to the order of the DRP, Ld. AR for the
+assessee submitted that the DRP gave the relief to the assessee as per the
+discussion given in Pages 46 to 49 of the order. Aggrieved with the same, the
+Revenue is in appeal with Ground No.3.
+
+14\. Bringing our attention to the said Safe Harbour Rules notified by the
+CBDT dated 18-09-2013, copy of which is placed at page No.324 and 325 of the
+paper book filed in connection with the Stay proceedings, Ld. AR for the
+assessee submitted that the KPO services are not categorized under the ITES
+services. The fact of excluding M/s.Eclerx Services Ltd. was also demonstrated
+by filing a copy of the judgment of the Hon'ble Delhi High Court in the case
+of Rampgreen Solutions Pvt. Ltd. Vs. CIT reported in TS-387-HC-2015 (Del.)-TP
+(pages 108, 109 and 121 of the paper book). The said judgment is categorical
+in stating that the KPO services cannot be compared to an entity, which is
+engaged in the function of rendering Voice Call services which are
+contemplates to be the lower end of the ITES services. The KPO services are
+considered  10 ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software
+(India) Pvt. Ltd.
+
+advance skills representing higher end of ITES in terms of value addition.
+Relevant written submissions submitted by the Ld. AR for the assessee are
+extracted as under :
+
+> "At Stay PB 314-317, is the respondent's submission before the TPO.
+
+> The Ld. TPO has discussed about the said comparable at Appeal PB 102-103 and
+> 105.
+
+> At Appeal PB 184 - 189 is the appellant's submission before the Ld. DRP.
+
+> At Appeal PB 35, the DRP has rejected the said company on account of being a
+> KPO company. The Ld DRP has relied on the CBDT's Safe Harbour rules for
+> differentiating KPO and BPO activities. Further, the DRP has also relied on
+> various Hon. Tribunal decisions which have rejected Eclerx on account of
+> being a KPO company.
+
+> As per the Ld. TPO, BPO and KPO services are similar in nature. Hence the
+> company is functionally comparable to the assessee.
+
+> As per Additional Supplementary PB- 1019 and .1037, Eclerx is a Knowledge
+> Process Outsourcing (KPO). Further, it renders diversified services like: At
+> Additional Supplementary PB- 1038, Capital markets - Provides end-to-end
+> financial transaction support services such as trade booking, trade
+> confirmation, asset servicing, cash settlements, client servicing, risk
+> management and reference data integrity across all asset classes, and its
+> services span both "sell- side" (the large banks) and "buy-side" (the funds
+> and asset managers).
+
+> At Additional Supplementary PB - 1038, Sales and marketing support - The
+> company supports clients in all elements of product and services marketing
+> and sales-with a focus on online support to include content development and
+> management, search engine management, web operations, pricing and customer
+> analytics, product database management and catalog audits.
+
+> The assessee has also highlighted the differences between KPO and BPO
+> services at Appeal PB 187-188.
+
+> At Stay PB 324-325, The assessee has also highlighted that the Safe Harbour
+> Rules notified by the Central Board of Direct Taxes on September 18,2013
+> (which is post the CBDTs circular No. 890(E) dated 20/09/2000), wherein the
+> KPO services have not been categorized under the ITES services.
+
+> Further, the assessee places reliance on the following decisions which have
+> rejected the said company on account of it having supernormal profit and it
+> is engaged in providing KPO services:
+
+> At Legal compendium PB 108, 109 and 121, the Hon. Delhi High Court in the
+> case of Rampgreen Solutions Pvt. Ltd (TS-387-HC-2015 (Del)-TP) has held that
+> Eclerx, rendering KPO services cannot be compared to an entity rendering
+> voice call services. The Hon High Court further states that voice call
+> services contemplate lower end of ITES services involving customer support,
+> processing of routine data while KPO services involve advance skills
+> representing higher end of ITES in terms of value addition.
+
+> Legal Compendium PB 927, 928 and 907 the Hon'ble Pune Tribunal in case of
+> Cummins Turbo Technology Ltd (ITA No. 438/PUN/2015) for AY 2010-11 and  11
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> Aptara Technologies Pvt. Ltd. A No. 579/PN/2015) for AY 2010- 11 has
+> rejected Eclerx on account of bring functionally non comparable to the
+> assessee as it is engaged in KPO services and has directed to exclude the
+> said company as it is functional different.
+
+> Legal Compendium PB 155 In case of the assessee for AY 09-10 (ITA
+> No.336/PN/2014), the Hon. Pune Tribunal has rejected Eclerx on account of
+> being functionally non-comparable to the assessee as it is engaged in high
+> end KPO services and is thereby earning high profits.
+
+> Legal Compendium PB 177. Capital IQ Information Systems (India) Pvt. Ltd.,
+> V/s. Dy. Commissioner of Income-tax (ITA No. 1961/Hyd/20 11), Legal
+> Compendium PB 189. Market Tools Research Pvt. Ltd. (ITA No. 2066/Hyd/2011,
+> TS-35-ITAT-2013(HYD)-TP, ITAT Hyderabad) Legal Compendium PB 199. Cognizant
+> Technology Services Pvt. Ltd. [ITA No. 2106/Hyd/2011 (AY 2007-08) Legal
+> Compendium PB 227. Zavata India Private Limited (ITA No. 17811Hyd/2011,
+> TS-156-ITAT-2013(HYD)-TP, ITAT Hyderabad) "
+
+15\. Further, bringing our attention to the decision of Coordinate Bench of
+the Tribunal in the case of Cummins Turbo Technologies Ltd. Vs. DCIT and vice
+versa in ITA Nos. 593 and 438/PUN/2015 order dated 28-12-2016, Ld. AR for the
+assessee demonstrated that the said company M/s.Eclerx Services Ltd. was
+excluded as the same is not functionally found comparable with that of the
+company which is engaged in Software services like the present assessee.
+
+16\. Finally, bringing our attention to the order of the Tribunal in
+assessee's own case for the A.Y. 2009-10 in ITA No.336/PUN2014 order dated
+31-10-2014 (page 155 of the paper book), Ld. AR for the assessee submitted
+that the Pune Bench has rejected the said company Eclerx Services Ltd. as a
+good comparable as the same is engaged in KPO services only which are not
+functionally comparable to that of the assessee.
+
+17\. Ld. DR for the Revenue relied heavily on the order of the AO and the CBDT
+Circular No.890 (E) dated 20-09-2000.
+
+12
+
+ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+18\. We heard both the parties on the issue of exclusion of Eclerx Services
+Ltd. from the list of comparables as the same constitutes KPO services. The
+case of the AO and the TPO is that the company with KPO services is comparable
+to that of the assessee which is a Software Developers. Revenue relies heavily
+on the CBDT Circular No.890 (E) dated 20-09-2000. Per Contra, the case of the
+assessee is another CBDT Notification issued in 2013 in connection with the
+publishing of Safe Harbour Rules defines clearly the KPO services from that of
+BPO services/ITES services.
+
+19\. On hearing both the parties, we find the arguments of the Ld. AR for the
+assessee requires to be accepted. Further, we examined the order of the
+Tribunal in ITA No.336/PN/2014 order dated 31-10-2014 in the assessee's own
+case for the A.Y. 2009-10. The said company Eclerx Services Ltd. is found
+excluded by the Tribunal as the same is engaged in KPO services which is found
+to be not comparable functionally with that of the assessee's functions of
+Software services/ITES services. We find from the said CBDT Notification dated
+18-09-2013 that the KPO services command Safe Harbour range of 25% whereas IT
+Enabled Services is only 20%. The said differentiation supports the assessee's
+argument that the KPO services are not identical to the IT Enabled Services.
+We proceed to extract the finding given by the Tribunal on this issue and the
+same reads as under :
+
+> "48. The next objection of the assessee was that with regard to inclusion of
+> Eclerx Services Ltd. which admittedly was engaged in providing KPO services
+> i.e. Knowledge Process Outsourcing, whereas the assessee was engaged in BPO
+> services. The Special Bench of the Tribunal in the case of Maersk Global
+> Centres (India) Pvt. Ltd. (supra) vide order dated 21.08.2014 had excluded
+> the said company as a comparable while determining the margins under ITES
+> segments. The Special Bench of the Tribunal vide paras 82 and 83 at pages 73
+> and 74 of the order, had observed as under:-
+
+> "keeping in view the nature of services rendered by M/s eClerx Services Pvt.
+> Ltd. and its functional profile, we are of the view that this company is
+> also mainly engaged in providing high-end services involving specialized
+> knowledge and domain expertise in the field and the same  13 ITA Nos.352,
+> 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+> cannot be compared with the assessee company which is mainly engaged in
+> providing low-end services to the group concerns."
+
+> 49\. Following the same parity of reasoning, we direct the TPO to exclude
+> M/s. Eclerx Services Ltd. as comparable."
+
+20\. Thus, it is a settled issue in favour of the assessee by the decision of
+the Coordinate Bench in the assessee's own case (supra). There are other
+judgments in favour of the assessee. The CBDT's Notification dated 18-09- 2013
+strengthens the case of the assessee in its favour. Considering the above
+settled nature of the issue in the assessee's own case apart from many others,
+we are of the opinion that the direction given by the DRP on this issue is
+fair and reasonable and it does not call for any interference. Accordingly,
+Ground No.3 raised by the Revenue is dismissed.
+
+21\. In the result, the appeal of the Revenue is dismissed. C.O.
+No.38/PUN/2015 (By Assessee) :
+
+22\. It is the submission of the Ld. AR for the assessee that the cross
+objection filed by the assessee in connection with the Revenue's appeal in ITA
+No.572/PUN/2015 becomes academic once the Revenue appeal is dismissed on all
+the grounds. We have adjudicated the appeal of the Revenue in the above
+paragraphs and dismissed the appeal of the Revenue in its entirety.
+Consequently, as stated by the Ld. AR for the assessee, we are of the opinion
+that the objections raised by the assessee are required to be dismissed as
+academic. Accordingly, the cross objections raised by the assessee is
+dismissed.
+
+23\. In the result, the cross objection filed by the assessee is dismissed.
+14
+
+ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+ITA No.352/PUN/2015 (By Assessee) :
+
+24\. Before us at the outset, deviating from the specific grounds raised in
+its appeal, Ld. AR for the assessee mentioned that the TP adjustments are
+required to be deleted if three of the comparables which are considered by the
+TPO while benchmarking the international transactions of ITES services
+segment, are excluded. Naming the same, Ld. Counsel for the assessee submitted
+that the AO/TPO included (a) Accentia Technologies Ltd. (2) Infosys BPO Ltd.
+and (3) BNR Udyog Ltd. for arriving at Arithmetic Mean of the 11 comparables
+of 25.35%. This is worked out against the assessee's Arithmetic Mean of 17.30%
+(OP/TC). As per the assessee, the said 3 comparables are not to be considered
+as good comparable for various reasons and therefore if the same are decided
+accordingly the Arithmetic Mean of the assessee will be in the permitted range
+of around 20%, which is within the range +/-5% qua that of the assessee. In
+order to substantiate the same, the Ld. AR for the assessee went on arguing
+about each of the 3 comparables to demonstrate that they are required to be
+excluded from the said 11 comparables identified by the TPO. ACCENTIA
+TECHNOLOGIES LTD. :
+
+25\. Bringing our attention to the order of the TPO, Ld. AR for the assessee
+submitted that with 41.35% revenue received from the Software services, the
+said company cannot be considered as comparable. TPO rejected the said
+contention of the assessee and the same is confirmed by the DRP and against
+the assessee. The summary of the reasons provided by the DRP in rejecting the
+contention of the assessee are as follows :
+
+> "The company is offering BPO solutions in healthcare, financial and
+> insurance sectors and is the first company to offer SaaS (Software as a
+> service) model in healthcare receivable cycle management (HRCM) area.
+
+> The company is a BPO and software as a service provider in healthcare
+> industry.
+
+15
+
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> Software designed for rendering the service and since the company is into
+> HRCM, the billings and collection are from that area.
+
+> Medical transcription is considered as a part of Safe Harbour Rules.
+
+26\. Attending to the above referred reasoning given by the DRP, Ld. AR for
+the assessee submitted the following written submission We proceed to extract
+the same as under :
+
+> "At Appeal PB-178 It was submitted that it renders medical transcription
+> services, medical coding, medical billing, receivables management with
+> respect to the Healthcare Receivables Cycle Management Sector. Further, the
+> said company develops its own software products and owns intangibles in the
+> form of Goodwill.
+
+> Such software products are primarily the platforms required for rendering
+> medical transcription services. The analysis demonstrated that Accentia owns
+> such platforms and therefore would be distinguished from other medical
+> transcription service providers. (Refer supplementary PB-467, 502, 505-508
+> for relevant annual report extracts). Further at Supplementary PB-502, the
+> annual report of the said company mentions on the Software as a Service
+> (SaaS) model. It is evident from the above that the company is providing
+> software solutions in the Healthcare Receivables Cycle Management sector and
+> also that it has made acquisitions during the year to enhance its
+> capabilities in SaaS. This clearly indicates that the company is into
+> providing software services which is different to the services provided by
+> the Appellant. Further at Supplementary PB - 547, the annual report of the
+> company specifies software as generic principal product / service of the
+> company along with services. The Ld DRP at Stay PB 56 also confirms that the
+> company also rendering software services.
+
+> Further, at Additional Supplementary PB 744, the website of the company
+> clearly mentions of the software products that Accentia has developed for
+> rendering healthcare services.
+
+> Further, at Supplementary PB 467, 480, 516-518, the annual report of the
+> said company mentions that it has diversified its business into rendering
+> high end services like KPO and LPO which is functionally different from that
+> of the appellant's business. The same is also evidenced from the fact that
+> the company has dedicated management personnel leading the LPO services.
+
+> At Supplementary PB-501, 503 and 504, mentions about acquisition of IQ Group
+> of Companies which are engaged in the area of software product development
+> and IT infrastructure solutions.
+
+> At Supplementary PB 542 the company in its annual report mentions that it
+> has made certain acquisitions in earlier years the effect of which has been
+> given to financial statements in the current year. The company also mentions
+> that because of the acquisitions, the financials are not comparable to
+> earlier years, which evidences the fact that peculiar economic circumstances
+> have affected its margins for the year.
+
+> At Supplementary PB-536, in its annual report mentions that the company has
+> developed / acquired significant Intellectual property rights ('IPRs') and
+> the same is also evident from the Annual Report for the FY 09-10.
+
+16
+
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> The Ld DRP has not rebutted the above contentions of the appellant in its
+> directions.
+
+> The appellant has placed reliance on the Hon. Pune Tribunal decision in the
+> appellant's own case for AY 2009-10 (ITA No. 336/PN/2014) (Refer Legal
+> Compendium Pages- 154 & 155) wherein it was held that the company was
+> engaged in developing software products, extraordinary events on account of
+> acquisitions and amalgamations and hence, warrants for rejection. Similarly,
+> the Hon'ble Pune Tribunal in appellant's case for AY 2008-09 (ITA No.
+> 2546/PUN/2012) has rejected Accentia on similar reasons. (Refer Legal
+> Compendium Pages - 882 and 883) Reliance is also placed on the following
+> case laws where the said company was rejected on account of functional
+> dissimilarity.
+
+> BNY Mellon International Operations (India) Pvt Ltd (ITA No. 23/PN/2014)
+> (Legal Compendium Pages - 673 to 674) Maersk Global Service Centres (India)
+> Pvt Ltd (ITA No. 2594/Mum/2014) (Legal Compendium Pages - 693 & 694) The
+> Appellant further wishes to place reliance on ruling of Hon'ble Pune
+> Tribunal decision in case of Aptara Technologies Pvt. Ltd. (ITA 259/PN/2015)
+> for AY 2010-11 and Cummins Turbo Technologies Ltd (ITA 593/PUN/2015) for AY
+> 2010-11 wherein Accentia was rejected because of extra-ordinary events
+> during the year due to which the company is not comparable to the entities
+> engaged in ITeS services. (Legal Compendium Pages - 894 to 896, 922 to 924 &
+> 942 to 943) Given the above, the said company has a different functional
+> profile/ revenue model compared to the appellant and has peculiar economic
+> circumstances during the year. Hence this company is not comparable to the
+> appellant's IT Enabled Services segment, and should be rejected.
+
+27\. On hearing both the parties and perusing the said written submissions of
+the assessee, amongst many arguments, we find that Accentia Technologies Ltd.
+was not found to be a good comparable by the Tribunal in the assessee's own
+case for the A.Y. 2008-09 and 2009-10 vide ITA No.336/PUN/2014 and ITA
+No.2546/PUN/2012 respectively. For the sake of completeness, we proceed to
+extract the relevant paragraphs from Page 154 and 155 and 882 and 883 of the
+legal compendium :
+
+> Extract from ITA No.336/PUN/2014 :
+
+> "47. The next objection of the learned Authorized Representative for the
+> assessee was with regard to the inclusion of M/s. Accentia Technologies Ltd.
+> which admittedly was engaged in developing its own software products and was
+> rendering medical transcription services. Further, the said company during
+> the year under consideration had made certain acquisitions which in turn
+> affected the margins of the year of the acquisition. We find that Hyderabad
+> 17 ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> Bench of the Tribunal in the case of Capital IQ Information Systems (India)
+> Pvt. Ltd. (supra) had rejected Accentia Technologies Ltd. for having extra-
+> ordinary circumstances i.e. amalgamation. Following the parity of reasoning
+> as adopted by the Hyderabad Bench of the Tribunal, we hold that the said
+> company had different functional profile as compared to the assessee, which
+> in turn explained the abnormally high profit margins earned by the said
+> company as compared to the assessee.Accordingly, we accept the plea of the
+> assessee and hold that the said company is not to be used as comparable in
+> ITES segments of the assessee."
+
+> Extract from ITA No.2546/PUN/2012 :
+
+> "26. Both sides heard. We find that the Co-ordinate Bench of the Tribunal in
+> assessee's own case in ITA No. 336/PN/2014 (supra) has excluded Accentia
+> Technologies Ltd. from the list of comparables by observing as under :
+
+> "47. The next objection of the learned Authorized Representative for the
+> assessee was with regard to the inclusion of M/s. Accentia Technologies Ltd.
+> which admittedly was engaged in developing its own software products and was
+> rendering medical transcription services. Further, the said company during
+> the year under consideration had made certain acquisitions which in turn
+> affected the margins of the year of the acquisition. We find that Hyderabad
+> Bench of the Tribunal in the case of Capital IQ Information Systems (India)
+> Pvt. Ltd. (supra) had rejected Accentia Technologies Ltd. for having extra-
+> ordinary circumstances i.e. amalgamation. Following the parity of reasoning
+> as adopted by the Hyderabad Bench of the Tribunal, we hold that the said
+> company had different functional profile as compared to the assessee, which
+> in turn explained the abnormally high profit margins earned by the said
+> company as compared to the assessee. Accordingly, we accept the plea of the
+> assessee and hold that the said company is not to be used as comparable in
+> ITES segments of the assessee."
+
+> 27\. Further, on perusal of annual report of Accentia Technologies Ltd. for
+> the Financial Year 2007-08 we find that the said company had acquired Thunga
+> Software Pvt. Ltd. a Medical Transcription and Coding Company, consolidated
+> the operations of Asscent Infoserve Pvt. Ltd. one of its subsidiary, Iridium
+> Technologies and Geosoft Technologies amalgamated into parent company i.e.
+> Accentia Technologies Ltd. The company had also acquired 3 companies in the
+> USA. Thus, on account of extra-ordinary events viz. merger, consolidation
+> and amalgamation there would be aberration in the financial results of the
+> company. It is a well settled principle that where there are extraordinary
+> events in a particular financial year of a company, the said company should
+> not be selected as comparable. Thus, in the light of facts of the case and
+> the decision of Co-ordinate Bench of Tribunal, Accentia Technologies Ltd.
+> cannot be considered as good comparable. Therefore, the same is directed to
+> be excluded from the final list of comparables."
+
+28\. Considering the above stated position, we are of the view that the said
+company is held to be not a good comparable and there is no change in facts in
+this year also. There are extraordinary events exist in this year under
+consideration as well. In our opinion, the Ld. DRP is not privy to the said
+orders of the Tribunal as the Tribunal passed these orders subsequently  18
+ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+posterior to the order of the DRP. Therefore, we are of the view that the
+directions given by the DRP on this issue are required to be amended
+accordingly.
+
+INFOSYS BPO LTD. :
+
+29\. The case of the assessee on this comparable include that the said company
+constitutes a Giant company and deals with variety of functions and integrated
+services. Considering the high brand value and the skill of operations the
+said Infosys BPO Ltd. cannot be considered as comparable to the case of the
+assessee. Referring to the various decisions including that of the assessee in
+its own case for the A.Y. 2009-10 as well as in the case of Aegis Ltd. in ITA
+No.7694/Mum/2014 for A.Y. 2010-11 the Tribunal held that on same grounds
+Infosys BPO Ltd. does not constitute a good comparable. Relevant written
+submissions in this regard are extracted as under :
+
+> "In this regard, the appellant wishes place reliance on the following Hon.
+> Pune Tribunal rulings wherein the Hon. Tribunal has held that where a
+> comparable was included by the appellant in the TP Study Report and not
+> challenged before the Ld TPO and also the Ld Commissioner of Income-tax
+> (Appeal), the same can be challenged before the Hon. Tribunal for the first
+> time:
+
+> QLogic India Pvt. Ltd. (ITA No. 2271 PNI 2014) (Legal Compendium Page- 714-
+
+> 715) John Deere India Pvt. Ltd. (ITA No. 1319IPN/20 11) (Legal Compendium
+> Pages- 761 to 762) PTC Software (India) Pvt. Ltd. (ITA No.336/PM/2014 (Legal
+> Compendium pages 155-156) TIBCO Software India Pvt Ltd (ITA No. 94/PN/2014)
+> (Legal Compendium Pages-85 Further, At additional Supplementary PB 755, the
+> annual report of the company mentions that during the year, it has acquired
+> McCamish Systems LLC, a company in USA for 170 crore which evidences the
+> fact that there are exceptional circumstances during the year basis which
+> the company cannot be considered as comparable. Further, at additional
+> supplementary PB 799, the company mentions about an amalgamation of a
+> company in its accounts.
+
+> Reliance has been placed on the Hon. Pune Tribunal judgement in the case of
+> Principal Global Services Pvt. Ltd. (ITA No. 280/PN/2014) where the said
+> company has been rejected on the ground of owning intangibles. (Refer Legal
+> Compendium Page 357)  19 ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC
+> Software (India) Pvt. Ltd.
+
+> Further, the appellant places reliance on the Hon. Pune Tribunal decision in
+> the appellant's own case for AY 2009-10 (ITA No. 336/PN/2104) (Refer Legal
+> Compendium Pages - 154 ) wherein a company was rejected a company on account
+> of having extraordinary events such as acquisitions and amalgamations.
+
+> In case of Aegis Ltd. for AY 2010-11 (ITA No.7694/Mum/2014) (refer Legal
+> Compendium Page 947 & 948), the Hon'ble Tribunal rejected said company as it
+> was engaged in providing high end integrated services whereas the assessee
+> was providing routine BPO services to its AEs and observed that this company
+> had a significantly large scale of operations and a high brand value, which
+> made it incomparable with the assessee on a qualitative basis.
+
+> Further, in the case of Symphony Marketing Solutions India Pvt Ltd
+> (presently merged with Genpact India) (IT/TP) A No. 1316/Bang/2012) (Refer
+> Legal Compendium Pages- 790 - 791), the Hon. Tribunal has rejected the said
+> company on account of being a subsidiary of Infosys Ltd, this company has
+> brand value associated with it. The Hon. Tribunal held that this is apparent
+> from the presence of brand related expenses incurred by this company and the
+> presence of a brand commands premium price which customers would be willing
+> to pay. Further, the Hon. Tribunal has held that Infosys BPO is an
+> established player who is not only a market leader but also a company
+> employing sheer breadth in terms of economies of scale and diversity and
+> geographical dispersion of customers. Accordingly, the said company was
+> rejected by the Hon. Tribunal.
+
+> Further, the said company is also rejected by the Hon. Hyderabad tribunal
+> for having brand value associated with it in case of the following cases:
+
+> Capital IQ Information Systems (India) Pvt. Ltd. [TS-229-ITAT-2014 (HYD)-TP]
+> (Refer Legal Compendium Pages 803- 804) Excellence Data Research Pvt. Ltd.
+> [TS-230-ITAT-2014 (HYD)-TP] (Refer Legal Compendium Pages- 823-824) Hyundai
+> Motors India Engineering Pvt. Ltd. [TS-59-ITAT-2014(HYD)-TP] (Refer Legal
+> Compendium Pages- 850-851)"
+
+30\. From the above stated position, we are of the view that the orders of the
+Tribunal in the assessee's own case and others stated above are not available
+to the DRP at the relevant point of time. With the turnover of Rs.1,126
+crores, the said company Infosys BPO Ltd. cannot be considered as a good
+comparable to that of the assessee which recorded only around Rs.11 crores of
+turnover. Considering the same, we are of the opinion that Ld AR's arguments
+for excluding Infosys BPO Ltd. as not a good comparable has to be accepted and
+in favour of the assessee.
+
+20
+
+ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt. Ltd.
+
+BNR UDYOG LTD. :
+
+31\. Narrating the facts relating to BNR Udyog Ltd. as not a good comparable
+as the RPT filter is not justified qua that of the assessee, Ld. AR for the
+assessee drew our attention to the written submission filed by him. We proceed
+to extract the same as under :
+
+> "The following is the summary of the reasons provided by the Ld DRP for
+> rejecting the contentions of the appellant:
+
+> The said company is appellant's own selection.
+
+> Related Party Transaction ('RPT') was refuted by TPO through documentary
+> evidence.
+
+> In case of B N R Udyog Ltd., the medical transcription segment was selected
+> as comparable by the appellant in the TP Study report (which is not disputed
+> by the Ld DRP at Stay PB 59). However, the said company was rejected by the
+> appellant as the RPT transactions were 739.62% of sales for FY 2009-10 which
+> fails the RPT threshold filter of 10% applied by the appellant in the TP
+> Study report and 25% threshold on sales applied by the Ld TPO in the TP
+> assessment proceedings. The working for the same is provided below (Refer
+> Supplementary PB - 571 and 581 for relevant Annual Report Extracts):
+    
+    
+            Nature of RPT Transactions      Amount (Rs.)
+            Purchases of Sales & Services   106,964,256
+            Commission                      75,127
+            RPT                             107,039,383
+            Sales                           14,472,194
+            RPT/Sales                       739.62%
+    
+    
+    
+
+> The Ld. TPO has not demonstrated the quantum of related party transactions
+> mentioned in the schedule of the Company that pertains to the medical
+> transcription segment of the company.
+
+> Further, the appellant wishes to highlight that the said company was
+> rejected by the Ld TPO during the course of TP assessment proceedings for AY
+> 09-10 on account of the RPT transactions being greater than 25%. The Ld. TPO
+> has accepted the RPT working for AY 2009-10 which has the same nomenclature
+> of items in the RPT schedule of annual report of BNR Udyog. (Refer
+> Supplementary PB - 721 to 735 for Show cause Notice and extracts of TP Order
+> pertaining to AY 2009-10).
+
+> Moreover, the said company was also rejected by the Ld. TPO in AY 2008-09 TP
+> assessment proceedings on account of having RPT transactions more than 25%
+> of sales. This amply evidences complete shift in the approach adopted by the
+> Ld. TPO and lacks consistency (Refer Supplementary PB - 702 to 720 for Show
+> cause Notice and extracts of TP Order pertaining to AY 2008-09).
+
+> Accordingly, based on the above inconsistent approach of the TPO, the said
+> company needs to be excluded from the final set of comparables."
+
+21
+
+> ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software (India) Pvt.
+> Ltd.
+
+> 32\. Ld. DR for the Revenue relied heavily on the orders of AO/TPO.
+
+33\. The TPO adopted the RPT filter of 25% in this year against the 10% of the
+earlier year. Whereas the RPT of the said comparable (BNR Udyog Ltd.) is in
+the range of 739%. This comparable was not considered a good comparable in the
+yester year too. Thus, it is the case of the assessee that such comparable is,
+not a good comparable for benchmarking the international transactions of the
+assessee. Therefore, the decision of the DRP silently approving the TPO's
+decision is not sustainable.
+
+34\. Considering the above written submissions and the reasoning of the Ld.
+AR, we find that it is evident from the records that the TPO ruled out the
+filter on the Related Party Transactions at 25% and excluded this company as a
+good comparable in the earlier years. Ignoring the same, in the year under
+consideration, in violation of the principles of consistency, the TPO
+considered the same as a good comparable when the RPT of the said comparable
+has exceeded substantially the filter set by the TPO during the benchmarking
+exercise. Therefore, we are of the view that the said comparable should be
+considered as a good comparable considering the consistent stand of the TPO
+over the years in the assessee's own case. Accordingly, the direction of the
+DRP on this issue is required to be reversed and in favour of the assessee.
+
+35\. Thus, our finding with the direction of the DRP is required to be
+reversed on the comparability of the companies, i.e. Accentia Technologies
+Ltd., Infosys BPO Ltd, and BNR Udyog Ltd. for the reasons discussed above.
+Considering the said conclusions on these comparables, we are of the opinion
+that Ld. AR's argument that the adjudication of other issues raised by the
+assessee in the grounds becomes an academic exercise is accepted. Further, the
+other aspects  22 ITA Nos.352, 572/PUN/2015 and CO No.38/PUN/2015 PTC Software
+(India) Pvt. Ltd.
+
+raised by the assessee are dismissed as academic. Accordingly, the grounds
+raised by the assessee are partly allowed.
+
+36\. In the result, the appeal of the assessee is partly allowed.
+
+37\. To sum up, ITA No.572/PUN/2015 filed by the Revenue and the Cross
+Objection No.38/PUN/2015 filed by the assessee are dismissed. ITA
+No.352/PUN/2015 filed by the assessee is partly allowed.
+
+Order pronounced in the open court on this 27th day of October, 2017.
+
+    
+    
+                              Sd/-                                              Sd/-
+    
+                (VIKAS AWASTHY)                                   (D. KARUNAKARA RAO)
+          याियक सद य /JUDICIAL MEMBER                     लेखा सद य / ACCOUNTANT MEMBER
+    
+         पुणे Pune;  दनांक Dated : 27th October, 2017.
+         सतीश
+    
+         आदेश क   ितिलिप अ ेिषत Copy of the Order forwarded
+                                     /                                         to :
+    
+    1.      अपीलाथ    / The Appellant
+    2.        यथ / The Respondent
+    3.      The CIT(A)-IT/TP, Pune
+    
+    4.      CIT-II, Pune
+    
+    5.      िवभागीय    ितिनिध, आयकर अपीलीय अिधकरण, "A Bench"
+            Pune;
+    6.      गाड  फाईल /   Guard file.
+    
+                                                                आदेशानुसार
+                                                                         /   BY ORDER,स
+    
+    
+         स	यािपत  ित //True Copy//
+         //True Copy//                                        Senior Private Secretary
+                                                         आयकर अपीलीय अिधकरण ,पुणे / ITAT, Pune
+     
+

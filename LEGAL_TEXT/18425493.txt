@@ -1,0 +1,1130 @@
+
+
+Income Tax Appellate Tribunal - Hyderabad
+
+Wissen Infotech Private Limited, ... vs Dy. Commissioner Of Income Tax, ... on
+18 April, 2019
+
+    
+    
+                 IN THE INCOME TAX APPELLATE TRIBUNAL
+                   HYDERABAD BENCH "A", HYDERABAD
+    
+           BEFORE SMT P. MADHAVI DEVI, JUDICIAL MEMBER
+          AND SHRI S. RIFAUR RAHMAN, ACCOUNTANT MEMBER
+    
+                           ITA No. 2010/Hyd/2017
+                          Assessment Year: 2008-09
+    
+    Wissen Infotech Pvt. Ltd.,          vs.   Dy. Commissioner of Income-
+    Hyderabad.                                tax, Circle - 17(2),
+                                              Hyderabad.
+    PAN - AAACW3027G
+    
+               (Appellant)                             (Respondent)
+    
+    
+                          Assessee by :       Shri P.V.S.S. Prasad
+                           Revenue by :       Shri Y.V.S.T. Sai
+    
+                      Date of hearing   :     13/02/2019
+              Date of pronouncement     :     18/04/2019
+    
+                                   O RDE R
+    
+    
+    PER S. RIFAUR RAHMAN, A.M.:
+    
+    
+
+This appeal is preferred by the assessee against the order passed u/s 143(3)
+r.w.s. 147 r.w.s. 92CA(3) r.w.s.144C of the Income Tax Act, 1961 (in short
+'Act') dated 27/10/2017 relating to AY 2008-
+
+09\.
+
+2\. Briefly the facts of the case are, assessee company, engaged in the
+business of span technology consulting, application services, systems
+integration, software development, maintenance, reengineering and independent
+testing services, filed its return of income for the AY 2008-09 on 29/09/2008
+declaring total income of Rs. 3,52,270/-, which was processed u/s 143(1) of
+the Income -tax Act, 1961 ( in short 'the Act'). Subsequently, the assessee's
+case was reopened u/s 147 of the Act and notice u/s 143(2) was issued to the
+assessee. The AR of the assessee furnished the required information.
+
+2
+
+ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+2.1 The assessee company is 100% Export Oriented Undertaking claiming
+deduction u/s.10B of the I.T. Act, 1961. During the financial year relevant to
+the AY 2008-09, assessee company was in receipt of Rs. 15.99 crores from AEs
+for providing IT Enabled services. As verified, assessee did not file Form
+3CEB report. As the assessee's international transactions during the year
+exceeded 15 crores, the case was referred to Transfer Pricing, Officer for
+determination of Arm's length Price. The TPO vide order dated 31 -10-2016
+determined the ALP at Rs.18,88,23,969/- and held that the total income of the
+tax payer should be enhanced by Rs. 2,86,24,167/ -, by observing as under in
+his order 2.2 Assessee has entered into following international transactions ,
+as per 3CEB report/TP document:
+
+    
+    
+                   AE              Nature of transaction   Amount (Rs.
+           Wissen Infotech Inc    Provision of software    15,99,99,548
+                                  development services
+    
+    2.3     The TPO noted that assessee has used Prowess and Capitaline
+    data     base   in   search   for   comparable   companies       in     the      TP
+    
+
+documentation. After applying certain filters, the assessee has short - listed
+3 companies to bench mark the software development services transaction with
+arithmetic mean PLI (OP/OC was computed at 11.03% as against its own PLI at
+6.27%. Accordingly, the assessee stated that the international transactions
+are at arm's length.
+
+2.4 As per the audited statement of accounts the financials of the assessee
+are as under:
+
+    
+    
+                        Description           Amount (in Rs.)
+                    Operating revenue            16,01,99,802
+                    Operating Cost               15,26,57,039
+                    Operating profit                75,42,763
+                    OP/OR (%)                           4.71%
+                    OP/OC (%)                           4.94%
+                                       3
+                                                                ITA No. 2010/Hyd/17
+                                                       Wissen Infotech Pvt. Ltd., Hyd.
+    
+    2.5    The TPO    arrived the arm's length margin at 26.20% and the
+    
+
+arm's length price of international transactions was determined at Rs.
+18,88,23,969/- and a sum of Rs. 2,86,24,167/- was treated as adjustment u/s
+92CA(3) of the Act by selecting 19 comparables, which are as under:
+
+    
+    
+              S.No.   Particulars                        OP/OC
+                 1    Avani Cimcon Technologies             21.65
+                 2    Bodhtree Ltd.                         19.14
+                 3    Celestial Biolabs Ltd.                87.94
+                 4    E-Zest Solutions Ltd.                 28.95
+                 5    Flextronics Software                   8.07
+                 6    iGate Global Solutions Ltd.           13.90
+                 7    Infosys Technologies Ltd.             40.41
+                 8    Kals Info Systems Ltd. (Seg.)         41.94
+                 9    LGS Global                            26.64
+                10    Mindtree Consulting (Seg.)            17.51
+                11    Persistent Systems                    27.23
+                12    Quintegra Solutions                   21.74
+                13    RS Software (India) Ltd.               6.46
+                14    R Systems International (Seg.)        15.30
+                15    Sasken Communications (Seg.)          13.44
+                16    Softsol India Ltd.                    42.15
+                17    Tata Elxsi Ltd. (seg.)                18.97
+                18    Thirdware Solutions                   18.01
+                19    Wipro Ltd. (Seg.)                     28.38
+                                         arithmetic mean    26.20
+    
+    
+    
+    
+
+Out of the said comparables, the assessee accepted 7 comparables and objected
+to 12 comparables selected by the TPO. The TPO computed the ALP as under:
+
+    
+    
+          Description                                   Amount
+          Arm's length margin                               26.20%
+          Less: WCA                                          1.35%
+          Adjustment Arm's length margin                    24.85%
+          Operating Cost (OC)                          15,12,40,664
+          Adjusted arm's length margin (%) AALM             24.85%
+          Arm's length Price = (100 + AALM) *OC        18,88,23,969
+          Price Received (OR)                          16,01,99,802
+          Adjustment u/s 92CA                           2,86,24,167
+                                         4
+                                                                     ITA No. 2010/Hyd/17
+                                                            Wissen Infotech Pvt. Ltd., Hyd.
+    
+    
+
+3\. When the assessee raised objections before the DRP, the DRP directed the
+AO/TPO to exclude the comparable companies, viz., E - zest solutions ltd.,
+Kals Information Systems Ltd., and Tata Elxsi Ltd.
+
+3.1 After applying the average margin of the remaining 16 comparables, as per
+the directions of the DRP, the arm's length price was reworked out at Rs.
+18,77,04,788/ - and the adjustment u/s 92CA(3) for the year under
+consideration at Rs. 2,75,04,986/ - instead of Rs. 2,86,24,167/- made by TPO.
+
+4\. The AO, thereafter, passed final assessment order u/s 143(3) rws 147
+r.w.s. 92CA(3) rws 144C of the Act, on 27/10/2017, against which, the assessee
+is in appeal before us raising the following grounds of appeal:
+
+> " 1. The Learned(Ld.) Dispute resolutions panel (DRP)/ Assessing Officer
+> (AO) are erroneous in law and on the facts of the case.
+
+> 2\. The DRP/AO ought to have accepted the profit margin (OP/OC) of 6.27%
+> adopted by the appellant as having complied with the arm's length principle.
+
+> 3\. The Ld DRP/AO are not justified in law in considering wrong comparables
+> and consequently arriving at an arm's length margin of 24.11% after making
+> Working capital adjustment of 1.39% and thereby making an adjustment of Rs.
+> 2,75,04,986/ -.
+
+> 4\. The AO erred in not giving full effect to the directions of Ld. DRP in
+> respect of excluding the company Wipro Limited (Seg) as a comparable company
+> in computation of operating margin of comparable companies, which resulted
+> in increase of margin by 0.33% (i.e. 24.11% less 23.78%) and thereby making
+> an excess adjustment of Rs.5,03,127/- (i.e.Rs.2,75,04,986/- less
+> Rs.2,70,011,859/-).
+
+> 5\. The Ld. DRP/AO erred in not accepting assessee's contention of rejecting
+> the following 8 Companies inter alia on the grounds of High Turnover,
+> Functional Dis -similarity, ownership of intangible assets and non-
+> availability of segmental information relating to software development in
+> case of companies engaged in both software development and product
+> development.
+
+5
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> 1\. Avani Cimcon Technologies Ltd
+
+> 2\. Bodh tree Ltd 3 Celestial Biolabs Ltd
+
+> 4\. Infosys Technologies Ltd 5 GS Global Ltd 6 Persistent Systems Ltd 7
+> Quintegra Solutions Ltd 8 Softsol India Limited
+
+> 6\. The DRP/AO erred in confirming an adjustment when the appellant company
+> was claiming exemption u/s 10B and hence there is no intention to shift
+> profits outside India and more so when the tax rates in USA where the AE is
+> located, were higher than those prevailing in India.
+
+> 7\. Any other ground that may be urged at the time of hearing with the prior
+> approval of the Hon'ble ITAT.
+
+4.1 The assessee has filed a petition for Admission of following Additional
+grounds:
+
+> 1\. The Ld. TPO / DRP erred in computing /confirming the margin of appellant
+> company by treating Fringe Benefit Tax("FBT") as an operating expense, which
+> resulted in reducing the margin of the Appellant company from 6.27% to
+> 5.92%.
+
+> 2\. The Ld. TPO/DRP are not justified in law in considering FBT as an
+> operating expense in case of Appellant company as the td. TPO himself did
+> not consider the FBT as an operating expense while computing the margins of
+> comparables. "
+
+5\. Out of the said grounds, Ground Nos. 1, 2 & 3 are general in nature, the
+assessee has not pressed ground No. 4, as the AO already addressed the issue
+with the directions of DRP. Hence, all these grounds are dismissed.
+
+6\. In ground No. 5, the assessee object to exclude the following 8 companies
+as comparables from the list of comparables:
+
+> 1\. Avani Cimcon Technologies Ltd
+
+> 2\. Bodh tree Ltd 3 Celestial Biolabs Ltd
+
+> 4\. Infosys Technologies Ltd 5 LGS Global Ltd 6 Persistent Systems Ltd  6
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+7 Quintegra Solutions Ltd 8 Softsol India Limited 7 As regards Avani Cincom
+Technologies Ltd, AR submitted that this company cannot be a comparable to the
+assessee company as the company is into both segments product and software
+services and further, segment-wise data is not available. The TPO included
+this company in the final set of comparables only on the basis of information
+obtained under section 133(6) of the Act. He relied on the following cases:
+
+> 1\. Invensys Development Centre (P) Ld., Vs. aCIT, [2015] 68 SOT 247 (Hyd.)
+
+> 2\. United Online Software Development (India) (P) Ltd., Vs. ITO [2016] 69
+> Taxmann.com 446 (Hyd.) 7.1 The ld. DR, on the other hand, submitted that the
+> assessee objects for inclusion of the said company on the ground that it has
+> products and offers services and segmental information is not available.
+> However, it has only one segment as seen from the annual report. The
+> information obtained u/s 133(6) was shared with the assessee also by the
+> TPO.
+
+7.2 Considered the rival submissions and perused the material on record. We
+find that the coordinate bench of this Tribunal in the case of United Online
+Software Development (India) (P) Ltd., by placing reliance on the judgement of
+jurisdictional tribunal in the case of Invensys Development Centre P Ltd.
+directed the AO/TPO to exclude the said company from the list of comparables
+while computing arm's length price. Following the said decision, we direct the
+AO to exclude the said company as comparable.
+
+8\. As regards Bodhtree Consulting Ltd., ld. AR submitted that this company
+cannot be a comparable to the assessee company as it is engaged in the
+business of software products and it also provides open end to end web
+solutions, software consultancy, design and  7 ITA No. 2010/Hyd/17 Wissen
+Infotech Pvt. Ltd., Hyd.
+
+development of software. It is functio nally different from the assessee
+company and thus needs to be eliminated from the list of comparables. He
+relied on the following cases:
+
+1\. Cash Edge India (P) Ltd. Vs. ITO [2014] 151 ITD 717.
+
+8.1 Ld. DR, on the other hand, submitted that there is signif icant employee
+cost and software development expenses and there are no intangibles indicating
+products.
+
+8.2 Considered the rival submissions and perused the material on record. We
+find that the coordinate bench of this Tribunal in the case of United Online
+Software Development (India) (P) Ltd. directed to exclude the said company by
+observing as under:
+
+> 6\. Bodhtree Consulting Ltd. (Seg.) 6.1 The ld. AR objecting to the said
+> company as comparable, relied upon the decision of the ITAT, Hyderabad in
+> assessee's own case for AY 2005-06 wherein the Bench held as follows:
+
+> "20. The Learned AR submitted that since the aforesaid company fails the RPT
+> filter it cannot be treated as a comparable. The learned DR supported the
+> order of the TPO.
+
+> 21\. We have considered the submissions of the parties and perused the
+> materials on record. The ground on which the learned AR seeks for exclusion
+> of the aforesa id company is, its related party transaction as a percentage
+> to the total revenue is 34.68% which is more than the accept/reject matrix
+> of more than 25% fixed by the TPO. It is to be noted that in final filters
+> adopted by the TPO in para 9.7 of his order he himself has excluded
+> companies having RPT of more than 25%. We, therefore, direct the Assessing
+> Officer/TPO to examine this aspect and exclude it from the list of
+> comparables if the assessee's contention is found to be correct.
+
+> 6.2 The ld. AR also relied upon the following cases:
+
+> 1\. ITAT Delhi in case of Cash Edge India Pvt. Ltd. in ITA No. 5848/D/2012
+> for AY 2008-09  8 ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> 6.3 It is to be noted that in the case of 3DPLM Software Solutions Ltd,
+> (TS-359-ITAT-2013(Bang)-TP) AY 2008-09, the coordinate bench has taken this
+> company as comparable.
+
+> 6.4 Ld. AR submitted that this company is engaged in providing open and end
+> to end web solutions, software consultancy, design and development of
+> software and also submitted that this is into business of software products.
+> For that he submitted snap shot of companies profile from the net in page
+> 561 of the paper book, which states as "we als o provide product engineering
+> and enterprise services to Fortune 500 firms and SMES". Also "As a partner
+> of industry leading technology providers, Bodhtree delivers best -in-class
+> solutions that are tailored to meet the needs of global SME's and fortune
+> listed organizations". Ld AR also submitted a letter from Chartered
+> Accountats, M/s Gokhale & Co., which is addressed to ACIT (TP), Hyderabad
+> (Refer pages 563 & 564 of the paper book). M/s Gokhale & Co., submits
+> details about the Bodhtree e paper solutions.
+
+> 6.5 After analyzing the above submissions, we are of the view that the
+> submissions on profile of the company, it is mentioned as "we also provide
+> product engineering and enterprise services to fortune 500 firms". This also
+> will be categorized as software services and cannot be categorized as
+> software product. The auditor of this company submitted the letter before
+> TPO, which was part of assessment proceedings. These submissions are made by
+> ld. AR as additional evidence and we direct AO/TPO to analyse this
+> comparable with the submissions of the assessee after giving them an
+> opportunity of being heard. In case, this comparable is found to be into
+> software products, it may be eliminated from the list of comparables.
+
+Respectfully following the said decision, we direct AO/TPO to analyse this
+comparable with the submissions of the assessee after giving them an
+opportunity of being heard. In case, this comparable is found to be into
+software products, it may be eliminated from the list of comparables.
+
+9\. As regards Celestial Biolabs Ltd., ld. AR submitted that this company
+cannot be a comparable to the assessee compan y as it is engaged in R&D
+activities and renders services to specific sectors. It provides contract
+research services and is also diversified int o  9 ITA No. 2010/Hyd/17 Wissen
+Infotech Pvt. Ltd., Hyd.
+
+marketing and manufacturing activities. It is functionally different from the
+assessee company, thus, it has to be excluded from the final list of
+comparables. He relied on the following case:
+
+1\. 3DPLM Software Solutions Vs. DCIT [2014] 42 Taxmann.com 333 ( Bangalore -
+Trib.) 9.1 The ld. DR, on the other hand, submitted that in the case of this
+company, unless R&D expenditure is shown to have material impact on the profit
+margin, the comparable could not be excluded.
+
+9.2 Considered the rival submissions and perused the material on record. We
+find that the Bangalore Tribunal in the case of 3DPLM software Solutions
+(supra) direct the AO/TPO to exclude the said company by observing as under:
+
+> "9.5 Apart from relying on the afore cited judicial decisions in the matter
+> (supra), the assessee has brought on record substantial factual evidence to
+> establish that this company is functionally dis-similar and different from
+> the assessee in the case on hand and is therefore not comparable and also
+> that the findings rendered in the cited decisions for the earlier years i.e.
+> Assessment Year 2007-08 is applicable for this year also. We agree with the
+> submissions of the assessee that this company is functionally different from
+> the assessee. It has also been so held by co-ordinate benches of this
+> Tribunal in the assessee's own case for Assessment Year 2007 -08 (supra) as
+> well as in the case of Triology E-Business Software India (P.) Ltd. (supra).
+> In view of the fact that the functional profile of and other parameters of
+> this company have not changed in this year under consideration, which fact
+> has also been demonstrated by the assessee, following the decision of the co
+> -ordinate benches of the Tribunal in the assessee's own case for Assessment
+> Year 2007-08 in ITA No.845/Bang/2011 and Triology E-Business software India
+> (P.) Ltd. case (supra), we hold that this company ought to be omitted form
+> the list of comparables. The A.O/TPO are accordingly directed."
+
+We notice that the decision of the ITAT Bengaluru bench cann ot be relied as
+it refers to AY 2007-08 and it is based on several other decisions. We notice
+that similar to assessee, Celestial Bio Labs also offers several services to
+its AEs and since we are determining with ALP based on TNMM, we consider the
+avera ge margin of all the  10 ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd.,
+Hyd.
+
+several activities carried on by the assessee. On a compartmentalizing two
+profit making companies with several activities, we can compare the end
+result, unless they are into product or highly diversified or some activities
+which will modify the profit making ability of the organization. In this case,
+we do not see any reason to interfere with the selection process. Therefore,
+the objection of the assessee to exclude the said company is hereby rejected.
+
+10\. As regards Infosys Technologies Ltd, ld. AR submitted that this company
+cannot be a comparable case to the assessee company as it is to be rejected
+based on its size, huge turnover, brand value, scale of operation, owning of
+intangibles and diversified operations. He relied on the following cases:
+
+> 1\. Invensys Development Centre (P) Ltd. (supra)
+
+> 2\. Adaptec (India) P. Ltd. Vs. ACIT [2014] 44 Taxmann.com 236 (Hyd. Trib)
+
+> 3\. 3DPLM Software Solutions Ltd. Vs. DCIT (supra)
+
+> 4\. United Online Software Development (India) P. Ltd. (supra) 10.1 The ld.
+> DR, on the other hand, in his written submissions stated as under:
+
+> "10. With regard to Infosys Technologies Ltd, the issue of size, turnover,
+> scale of operation, intangibles and diversified operations are cited as
+> objections. It is humbly submitted that none of the objections would be
+> valid unless they are supported by quantitative analysis that they impact
+> profit margins. Reliance in this regard is placed on the decision of Hon'ble
+> Delhi High Court in the case of Chryscapital Advisors India Pvt Ltd (376 ITR
+> 173), wherein the Hon'ble High Court held at para 33 of the decision that
+> "it is clear that exclusion of some companies whose functions are broadly
+> similar and whose profile - in respect of the activity in question can be
+> viewed independently from other activities- cannot be subject to a per se
+> standard of loss making company or an "abnormal" profit making concern or
+> huge or "mega" turnover company". Reliance is also placed on the decision of
+> ITAT S pecial Bench decision in case of Maersk Global Centres (India)
+> Private Limited (TS -74- ITAT-2014 (Mum)-TP). Reliance is also placed on the
+> recent decision of Hon'ble I TAT, Delhi Bench in the case of FIS Global
+> Solutions Ltd [2018] 94 taxmann.com 344 (Delhi - Trib.) wherein  11 ITA No.
+> 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> it was held that "When average PLI of comparables, consisting of companies
+> having similar or high or low turnover, is considered for benchmarking,
+> effect of different volumes of turnover is automatically ironed out.
+> Therefore, simply excluding the comparable because turnover of this company
+> is more than Rs. 100 crore is not a proper reason". The decision in case of
+> FIS Global Solution s Ltd also considers to the decision of Delhi High Court
+> in Chryiscapital Advisors India Pvt Ltd."
+
+> 10.2 Considered the rival submissions and perused the material on record. We
+> find that the coordinate bench of this Tribunal in the case of United Online
+> Software Development (India) (P) Ltd. directed to exclude the said company
+> by observing as under:
+
+> "1. Infosys Technologies Ltd.
+
+> 1.1 The ld. AR objecting to the aforesaid company being treated as
+> comparable, relied on the decision of the ITAT, Hyderabad in assessee's own
+> case for AY 2007-08 and 2005-06.
+
+> 1.2 The ITAT in AY 2007-08 vide ITA No. 1658/H/2011 and others held as
+> follows:
+
+> "7.2.3. We have considered the submissions of the parties and perused the
+> materials on record. On considering the same, we are of the view that this
+> company cannot be considered as comparable to Assessee due to various
+> factors such as its size, turnover, brand value, scale of operation,
+> diversified activities and owning of intangibles. As can be seen from the TP
+> order, the turnovers of Infosys Technologies Limited during the year under
+> consideration are Rs.13,149 crores as against Rs. 42 crores of Assessee.
+> Though it is a fact that Assessee in the TP documentation, has selected
+> Infosys Technologies Ltd. as comparable but that cannot prevent Assessee
+> from objecting to the aforesaid company being selected as comparable, if
+> there are valid reasons for doing so. In this context, the contention of the
+> learned AR that Assessee has selected Infosys Limited on the basis of three
+> years financial data, whereas the TPO considered only the current year data
+> also needs to be appreciated. Therefore, considering the enormity of
+> turnover of the company as well as other relevant factors, the aforesaid
+> company cannot be treated as comparable to Assessee in any manner. This view
+> of ours is also in tune with the view expressed by different Benches of this
+> Tribunal as stated below as well as that of the Hon'ble Delhi High Court in
+> the case of CIT Vs. Agnity India Technologies Pvt. Ltd.,[2013] 85 CCH 146.
+
+12
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> a) M/s. Foursoft Limited (ITA.No.1903/H/2011) b) M/s. Conexant System India
+> P. Ltd. ITA.1978/H2011 c) M/s. Virtusa (I) P. Ltd. ITA.No.1962/Hyd/2011 d)
+> Telcordia Technologies India P. Ltd. ITA.7821/Mum/2011 e) Triology
+> E-Business Solutions ITA.No.1054/Bang/2011 f) Adaptec (India) P. Ltd. vs.
+> DCIT ITA.No.1801/Hyd/2009 g) Trinity Advanced Software Labs P. Ltd. vs. ACIT
+> ITA.No.1129/Hyd/2005.
+
+> We therefore direct the Assessing Officer /TPO to exclude this while
+> computing ALP.
+
+1.3 The ITAT in AY 2005-06 in assessee's own case for AY 2005-06 vide ITA No.
+1480/H/10 and others held as follows:
+
+> "15. We have heard submissions of the parties and perused the materials on
+> record. So far as Infosys Technologies Ltd. is concerned the issue of
+> comparability of the aforesaid company has been considered by different
+> Benches of the Tribunal including the Hyderabad Benches. It is to be noted
+> that the consistent view of different Benches of the Tribunal is to the
+> effect that Infosys Technologies Ltd. being a big company in all respects
+> including the range of turnover is not a comparable to small companies which
+> are captive service providers having considerably low turnover. In fact, the
+> Hon'ble Delhi Court in a judgement dated 19.7.2013 in the case of Agnity
+> India Ltd. upheld the decision of ITAT Delhi Bench in excluding Infosys
+> Technologies Ltd., as a comparable in view of its size. Therefore, keeping
+> in tune with the consistent view of different Benches of the Tribunal in
+> respect of the aforesaid company, we direct the AO/TPO to exclude the
+> aforesaid company from the list of comparables."
+
+1.4 The ld. AR also placed reliance on the following decisions:
+
+1\. Invensys Development Centre India Pvt. Ltd., 1692/H/12 AY 2008-09
+
+2\. 3DPLM Software Solutions Ltd, (TS-359-ITAT-2013(Bang)- TP) AY 2008-09.
+
+3\. Cash Edge India Pvt. Ltd., ITA No. 5848/D/12 - AY 2008-09.
+
+1.5 The ld. DR, on the other hand relied on the orders of revenue authorities.
+
+1.6. After considering the submissions of both the parties and keeping in tune
+with the consistent view of different benches of the Tribunal in respect of
+the aforesaid, we direct the AO/TPO to exclude the aforesaid company from the
+list of comparables."
+
+13
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> "After considering the submissions of both the parties and keeping in tune
+> with the consistent view of different benches of the Tribunal in respect of
+> the aforesaid, we direct the AO/TPO to exclude the aforesaid company from
+> the list of comparables. "
+
+Following the said decision, we direct the AO/TPO to exclude the said company
+as comparable from the list of comparables.
+
+11\. As regard LGS Global Ltd., the ld. AR submitted that this company cannot
+be a comparable company to the assessee company, as this company is engaged in
+rendering consultancy services, BPO, testing services and application
+maintenance outsourcing. The segmental data is not available for comparability
+analysis therefore the company is to be rejected from the final list of
+comparables. He relied on the following cases:
+
+1\. Cash Edge India (P) Ltd. (supra )
+
+2\. United Online Software Development (India) Ltd. (supra) 11.1 The ld. DR on
+the other hand, on the objections on LGS Global Ltd that segmental data is not
+available, submitted that the range of services (consultancy services, BPO,
+testing services and application maintenance) rendered by the said company are
+very similar to that of the assessee and the said company operates only in one
+segment and hence, the objection is not sustainable.
+
+11.2 Considered the rival submissions and perused the material on record. We
+find that the coordinate bench of this Tribunal in the case of United Online
+Software Development (India) (P) Ltd. directed to exclude the said company by
+observing as under:
+
+> "8. LGS Global Ltd.
+
+> 8.1 Objecting to the said company as comparable, ld. AR submitted that this
+> company is offering services in consultancy services, BPO, testing services
+> and application maintenance outsourcing. Further, this company has capital
+> work -in-progress towards capitalized software and product development cost.
+> In  14 ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+principle, software products cannot be considered as comparables for software
+services compa ny. The ld. AR relied upon the decision of the ITAT Delhi Bench
+in case of Cash Edge India Pvt. Ltd. (supra) wherein the bench held as
+follows:
+
+> 15\. As regards the argument of Ld. A.R. regarding exclusion of LGS Global
+> Ltd., Avani Cincon, Kals Information Systems and Bothtree Consultants, we
+> are of the opinion that the company having similar functions can only be
+> compared with the assessee and as per various decisions of the Tribunal as
+> relied upon by the Ld. A.R., these companies were into development of t he
+> product also in addition to the business of providing services.
+
+> 16\. Ld. D.R. had argued that the TPO had taken segmental figures only to
+> make the comparison. Therefore, we hold that this issue can be examined by
+> the Assessing Officer afresh to ascertain as to whether segmental data
+> relating to the provision of services were used or consolidated results were
+> used for making comparison.
+
+> 17\. As regards the last argument of the Ld. A.R. regarding inclusion of
+> finance and bank charges in operating expenses while computing the margin
+> and comparables, we are in agreement with the argument of the Ld. A.R. that
+> finance and bank charges form part of operating expenses and need to be
+> included while calculating margin of comparables.
+
+> 18\. Therefore, in view of the facts and circumstances of the present case
+> and in view of the discussions made above and in view of various judicial
+> pronouncements, we direct the Assessing Officer to re-adjudicate the issue
+> of arms length pricing and determine the same by excluding th e comparables
+> having turnover of more than Rs.200 crores. The Assessing Officer will also
+> take into account the bank and finance charges as part of operating expenses
+> of com parables for arriving at the margin. Similarly, Assessing Officer
+> will only take segmental results relating to services only for comparing the
+> companies Ws. Kals Information Systems, Avani Cincon, LGS GLobal Ltd. and
+> Bodhtree Consulting Systems as the consolidated results of these companies
+> cannot be compared with the assessee, as assessee is admittedly into service
+> providing activities. It is further directed that if segmental results of
+> the above companies relating to similar services as being provided by
+> assessee are not available, then these companies will have to be excluded as
+> comparables as held in various judicial pronouncements relied upon by Ld.
+> A.R .
+
+15
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> 8.2 In view of the above and also ld. AR submitted that the revenue in FY
+> 2007-08 is three times higher than the revenue of FY 2006-07. We direct the
+> AO to apply the turnover fil ter and exclude the companies whose turnover
+> are more than 200 crores. Since, we do not have segmental report, we direct
+> AO to determine the service and product details from this company and if in
+> case it is found that it is into product, this company will have to be
+> excluded from the list of comparables. "
+
+Following the said decision, we direct AO to determine the service and product
+details from this company and if in case it is found that it is into product,
+this company will have to be excluded from the list of comparables."
+
+12\. With regard to Persistent Systems Ltd, the ld. AR submitted that this
+company cannot be a comparable company to assessee company, as this company is
+engaged in software product designing and analytical services. It is also
+incurred R&D expenses. The segmental data is not available for comparison
+purpose, therefore, the company is to be rejected from the final list of the
+comparables. He relied on the following cases:
+
+1\. 3DPLM Software Solutions Ltd. Vs. DCIT (supra)
+
+2\. United Online Software Development (India) P. Ltd. (supra) 12.1 The ld. DR
+submitted that the said company is not into products and it only deploys
+certain platforms to render IT Services. Therefore, the objections of the
+assessee on the services offered by the company are not tenable. DRP examined
+the comparable at length at pages 7 to 10 of its order and gave detailed
+reasons for retention of the said comparable.
+
+12.2 Considered the rival submissions and perused the material on record. We
+find that the coordinate bench of this Tribunal in the case of United Online
+Software Development (India) (P) Ltd. directed to exclude the said company by
+observing as under:
+
+> 9\. Persistent Systems Ltd.
+
+16
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> 9.1 Objecting to the aforesaid company as comparable, ld. AR submitted that
+> this company is engaged in software product designing and analytical
+> services. It has also expenditure in R&D. The ld. AR relied on the decision
+> of the coordinate bench of ITAT Bangalore in case of 3DPLM Software
+> Solutions Ltd. (supra) wherein the bench held as follows:
+
+> 17.3 We have heard the rival submissions and perused and carefully
+> considered the material on record. It is seen from the details on record
+> that this company i.e. Persistent Systems Ltd., is engaged in product
+> development and product design services while the assessee is a software
+> development services provider. We find that, as submitted by the assessee,
+> the segmental details are not given separately. Therefore, following the
+> principle enunciated in the decision of the Mumbai Tribunal in the case of
+> Telecordia 41 IT(T.P)A No.1303/Bang/2012 Technologies India Pvt. Ltd.
+> (supra) that in the absence of segmental details / information a company
+> cannot be taken into account for comparability analysis, we hold that this
+> company i.e. Persistent Systems Ltd. ought to be omitted from the set of
+> comparables for the year under consideration. It is ordered accordingly.
+
+> 9.2 Ld. AR also relied on the decision in the case of Cash Edge India Pvt.
+> Ltd., ITA No. 5848/D/12 AY 2008 -09.
+
+> 9.3 Ld. DR relied on the orders of revenue authorities. 9.4 Respectfully
+> following the said decision, we direct the AO/TPO to exclude the said
+> company as comparable from the list of comparables.
+
+Following the said decision, we direct the AO/TPO to exclude the said company
+from the list of comparables.
+
+13\. As regards Quintegra Solutions Ltd., the ld. AR of the assessee submitted
+that this company cannot be a comparable, as it is engaged in product
+engineering services and is not purely a software development service
+provider. This company is also engaged in proprietary software products and
+R&D activities. Hence, this company may be excluded from the list of
+comparables. He relied on the following cases:
+
+> 1\. 3DPLM Software Solutions Ltd. Vs. DCIT (supra)
+
+> 2\. United Online Software Development (India) P. Ltd. (supra)  17 ITA No.
+> 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+13.1 The ld. DR submitted that the assessee argues that it is a company
+offering product engineering services and having proprietary software products
+as well as R&D activities, but, it is subm itted that unless the assessee
+establishes quantitatively that the R&D activity has significant impact on the
+profit margin, the same cannot be excluded.
+
+13.2 Considered the rival submissions and perused the material on record. We
+find that the coordinate bench of this Tribunal in the case of United Online
+Software Development (India) (P) Ltd. directed to exclude the said company by
+observing as under:
+
+> "10. Qunitegra Solutions Ltd.
+
+> 10.1 Objecting to the aforesaid company as comparable, the ld. AR relied on
+> the decision of the coordinate bench of ITAT Banlgaore in case of IDPLM
+> Software Solutions Ltd. (supra) wherein the bench held as follows:
+
+> "18.3.1 We have heard the rival submissions and perused and carefully
+> considered the material on record. It is see n from the details brought on
+> record that this company i.e. Quintegra Solutions Ltd. is engaged in product
+> engineering services and is not purely a software development service
+> provider as is the assessee in the case on hand. It is also seen that this
+> company is also engaged in proprietary software products and has substantial
+> R&D activity which has resulted in creation of its IPRs. Having applied for
+> trade mark registration of its products, it evidences the fact that this
+> company owns intangible assets. Th e co-ordinate bench of this Tribunal in
+> thecase of 24/7 Customer.Com Pvt. Ltd. (ITA No.227/Bang/2010 dt.9.11.2012)
+> has held that if a company possesses or owns intangibles or IPRs, then it
+> cannot be considered as a comparable company to one that does not own
+> intangibles and requires to be omitted form the list of comparables, as in
+> the case on hand. 18.3.2 We also find from the Annual Report of Quintegra
+> Solutions Ltd. that there have been acquisitions made by it in the period
+> under consideration. It is set tled principle that where extraordinary
+> events have taken place, which has an effect on the performance of the
+> company, then that company shall be removed from the list of comparables.
+
+18
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> 18.3.3 Respectfully following the decision of the co - ordinate bench of the
+> Tribunal in the case of 24/7 Customer.Com Pvt. Ltd. (supra), we direct that
+> this company i.e. Quintegra Solutions Ltd. be excluded from the list of
+> comparables in the case on hand since it is engaged in proprietary software
+> products and owns its own intangibles unlike the assessee in the case on
+> hand who is a software service provider."
+
+> 10.2 Respectfully following the said decision, we direct the AO/TPO to
+> exclude the said company as comparable from the list of comparables."
+
+Following the said decision, we direct the AO/TPO to exclude the said company
+from the list of comparables.
+
+14\. As regards the Softsol India Ltd., the ld. AR submitted that this company
+cannot be a comparable case to assessee company because RPT is over 15% in
+this case, i.e. 1 8.3%. He relied on the following case:
+
+1\. United Online Software Development (India) P. Ltd. (supra) 14.1 The ld. DR
+submitted that the assessee seeks exclusion of the said company as it fails
+RPT filter at 15%. He submitted that the standard RPT filter is applied at 25%
+and the assessee cannot seek selective application of this filter in case of
+one comparabl e.
+
+14.2 Considered the rival submissions and perused the material on record. We
+find that the coordinate bench of this Tribunal in the case of United Online
+Software Development (India) (P) Ltd. directed to exclude the said company by
+observing as under:
+
+> "11. Softsol India Ltd.
+
+> 11.1 Objecting to the said company as comparable, the ld. AR relied on the
+> decision of coordinate bench of ITAT Banglaore in case of 3DPLM Software
+> solutions Ltd. (supra) wherein the bench held as follows:
+
+19
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+> 19.2 Per contra, the learned Departmental Representative supported the
+> action of the TPO in including this company in the list of comparables as
+> this company was a pure software development service provider like the
+> assessee. 19.3 We have heard both parties and perused and car efully
+> considered the material on record. We find that the co - ordinate bench of
+> this Tribunal in the assessee's own case for Assessment Year 2007-08 in ITA
+> No.845/Bang/2011 has excluded this company from the set of comparables for
+> the reason that RPT is in excess of 15% following the decision of another
+> bench of this Tribunal in the case of 24/7 Customer.Com Pvt. Ltd. in ITA
+> No.227/Bang/2011. As the facts for this year are similar and material on
+> record also indicates that RPT is 18.3%, following the afore cited decisions
+> of the co-ordinate benches (supra), we hold that this company is to be
+> omitted from the list of comparables to the assessee in the case on hand."
+
+> 11.2 Ld. DR relied on the orders of revenue authorities. 11.3 Respectfully
+> following the said decision, we direct the AO/TPO to exclude the said
+> company as comparable from the list of companies."
+
+We notice that assessee has adopted 10% RPT whereas TPO adopted 25% filter for
+RPT. Generally, the %age of RPT is determined based on the availability of
+comparables. When the comparables are more, the RPT filter is adopted at
+minimum level whereas when the comparables are less, the RPT % are fixed
+liberally. Generally, it is selected between 15% or 25% depending upon the
+availability of comparables. In the given case, TPO has selected 19
+comparables. Therefore, it shows that comparables are reasonably more, hence,
+TPO could have applied 15%. In the given case, out of 19 comparables, assessee
+accepted only 7 and balance it objected. Therefore, in our conside red view,
+in the restricted atmosphere of selection of comparables, the %age should be
+25% not 15%. The more we restrict, chances of loosing reasonable
+comparability. Therefore, we reject the contention of the assessee and
+exclusion of the said comparable by the assessee from the list of comparables,
+is herby rejected.
+
+20
+
+ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+15\. We therefore direct the Assessing Officer /TPO to determine the ALP
+keeping in view our directions given hereinabove and if on such determination
+the price charged by the assessee for its international transaction is found
+to be within the arms length then no adjustment is required to be made.
+
+16\. As regards ground No. 6 regarding exemption u/s 10B, the assessee stated
+as under:
+
+> "21.0 Appellant Company is enjoying benefit u/s 10B and therefore it is
+> incorrect to make a transfer pricing adjustment. Moreover the tax rate in
+> the country where our AE is situated i.e., USA is higher than the Indian tax
+> rate, and accordingly, establishment of tax avoidance or manipulation of
+> prices or establishment of shifting of profits is not possible. Since the
+> tax rates in USA are higher than those compared in India there would not be
+> any incentive to transfer the profits to higher tax chargeable region.
+
+> 21.1 This view has been upheld by the Mumbai Bench of the Tribunal in the
+> case of Indo American Jewellery 41 SOT 1, the Hon'ble Tribunal held "We also
+> find merit in the submission of the learned counsel for the assessee that
+> since the tax rates were higher in USA compared with those of India,
+> therefore, there would not be any incentive to transfer the profits to
+> higher tax chargeable regions especially when the company enjoys deduction
+> under section 80HHC of the Act. Further the AEs have earned meagre profit or
+> incurred losses as compared to the profit of the assessee and, therefore,
+> the submission of the assessee that there was no transfer of profit by the
+> assessee outside India finds merit. It has been held by various judicial
+> pronouncements that unless proper method is followed, comparables are chosen
+> and selected after doing a proper FAR study as well as adjustments are made
+> to the extent possible it would be unfair to summarily reject the transfer
+> pricing analysis made by the assessee. We find in the instant case the
+> Assessing Officer/TPO has not made out a case to establish that the
+> comparables used by the assessee deserve to be rejected.
+
+> 21.2 Moreover where income is derived from International Transaction which
+> is exempt from tax in India (in our case u/s lOB) it cannot be alleged that
+> the assessee has arranged its affairs in such a manner so as to show lesser
+> taxable income in India.
+
+21
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+This view has been endorsed by the Ahmedabad Tribunal in the case of Motif
+India Info tech Pvt Ltd ITA No.3043/ Ahd/2010 for A Y 2006-07.
+
+37\. In our considered opinion, in a case where the international transaction
+entered into by the assessee with the AEs giving rise to exempt income in the
+hands of the assessee is to be benchmarked with the ALP determined in
+accordance with the provisions of Transfer Pricing to ensure that no excess
+exempt income is disclosed by the assessee and assessee is entitled for
+exemption of income u/s lOA of the total income determined as per the Transfer
+Pricing Provisions only and where the assessee has claimed more exempt income,
+then exemption u/s lOA shall be allowed in accordance with the profit compared
+as per ALP only.
+
+38\. Keeping in view the above in mind in the instant case we find that as per
+the decisions of the lower authorities the assessee has not reported any
+excess exempt income from its international transactions with AE. On the other
+hand as per the opinion of the lower tiuthorities in the instant case exempt
+income declared by the assessee when benchmarked with the ALP determined in
+accordance with the provisions of Transfer Pricing, the assessee has declared
+lesser exempt income and thereby no taxable base in India was eroded.
+Therefore, in our considered opinion no adjustment with the exempt income of
+the assessee was required to be made as per provisions contained in Chapter X
+of the Act.
+
+Similarly in the case of "Philip Software", 119 TT J 721 (Bang.), it was held
+that since the basic intention behind introducing the TP provisions in the Act
+is to prevent Shifting of profits outside India, and the assessee was claiming
+benefit u/s 10A of the Act, the TP provisions ought not to be applied to the
+assessee.
+
+"5.1 We have heard the rival contentions and we proceed to adjudicate on the
+issues in the sequence which has been argued by the rival parties before us.
+Th e learned counsel for the assessee has argued that the tax payable by it in
+India is lower than the tax rate applicable to its associated enterprise in
+the Netherlands. Since the assessee is availing the benefit under section 10A
+of the Act, one cannot take a simplistic view on the matter of tax avoidance.
+In this connection the learned Departmental Representative has drawn reference
+to the proviso to section 92C(4). Relying on OECD guidelines, the DR has
+mentioned that the consideration of transfer pricing should not be confused
+with the consideration of problems of tax avoidance, even though transfer
+pricing policies may be used  22 ITA No. 2010/Hyd/17 Wissen Infotech Pvt.
+Ltd., Hyd.
+
+for such purposes. In this connection, it was pointed out that by not
+declaring proper profits in India, the assessee is indirectly reducing its
+liability to Dividend Distribution Tax (in short 'DDT'). The Special Bench of
+the Tribunal, in the case of Aztec Software & Technology Services Ltd.
+(supra), has concluded that the Assessing Officer/TPO need not prove the
+motive of shifting of profits outside India for making a transfer pricing
+adjustment. The assessee had generally argued that one of the factors driving
+any motive for shifting profits would be the difference in the tax rate in
+India and the tax rate applicable to the associated enterprise in the overseas
+jurisdiction. In the instant case, since the assessee was availing the benefit
+under section 10A of the Act, it would be devoid of logic to argue that the
+assessee had manipulated pr ices (and shifted profits) to an overseas
+jurisdiction for the purpose of avoiding tax in India. The reference by the OR
+to the proviso to section 92C(4) is completely out of context and irrelevant.
+The DR ought to have appreciated that the proviso comes into play only once a
+transfer pricing adjustment is made. By quoting OECD guidelines, the Id. DR
+does not get much help. The Id. DR ought to have appreciated that what is
+relevant in the Indian context are the specific provisions of the Circular No.
+14/200 1. As submitted above, at para 55.5 of the said Circular, the CBDT has
+clearly mentioned that the intention of the transfer pricing provisions is to
+curtail avoidance of taxes by shifting profits outside India."
+
+In the case of Cotton Naturals (J) (P.) Lt d. v. DCIT [2013] 32 taxmann.com
+219 (Delhi - Trib.) the Hon'ble Delhi Tribunal held as under:
+
+"18. We further note that assessee's profits are exempt u/s. 10B. Hence, there
+is no case that assessee would benefit by shifting profits outside India. This
+vi ew is supported by Bangalore Tribunal decision in this case Philips
+Software Centre (P.) Ltd. v. Asstt. CIT [2008J 26 SOT 226 and Mumbai Tribunal
+in the case of ITO v. Zydus Altana HealthCare (P.) Ltd. [2011J 44 SOT 132."I
+In the case of CIT v. Lumax Industries Ltd [2013]36 taxman.com 380 (Delhi -
+Trib) "The TPO has nowhere made out a case that profit was shifted from a
+higher tax jurisdiction to a lower tax jurisdiction. In fact, there was no, as
+there could have been no, motive for any such shifting of profits at the hands
+of the assessee company and there could have been no reason for a majority
+stakeholder in India {the assessee} to over pay even a single paisa to the
+minority stakeholder in Japan {Stanley}. The TPO fell in error in ignoring the
+position that it is if and only if it stands proved that  23 ITA No.
+2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+there was manipulation of prices to avoid taxes in India, that the transfer
+pricing provisions of the Act can be invoked. Now, obviously, once the
+shareholding of Stanley was only to the extent of 19.51%, the assessee company
+would not have avoided taxes by shifting profits to Stanley. That transfer
+pricing regulations in India have been brought on the statute book with the
+intent of preserving tax base in India and preventing tax evasion through
+manipulation of pricing of inter company transactions, is also evident from
+CBDT Circular No.14/2001, providing the Explanatory Notes on provisions
+relating to direct taxes with respect to Finance Act, 2001. As per this
+Circular {also brought to the notice of the Assessing Officer by the assessee
+by way of its submissions dated 20.12.2006, copy at APB 189-218, relevant
+portion at page 194, para 3.1 ):-
+
+"The profits derived by such enterprises carrying on business in India can be
+controlled by the multinational gr oup, by manipulating the prices charged and
+paid in such intra -group transactions, thereby leading to erosion of tax
+revenues The basic intention underlying the new transfer pricing regulations
+is to prevent shifting out of profits by manipulating prices c harged or paid
+in international transactions, thereby eroding the country's tax base. "
+
+21.3 In addition to the above reliance is also placed on the following case
+laws where the above view was held by the various Benches of Hon'ble Tribunal.
+
+i) "ITO vs. Zydus Altana Healthcare {P} Limited", 44 SOT 132 (Mumbai)
+
+ii) ii "ACIT vs. Dufon Laboratories", 39 SOT 59 (Mumbai) and
+
+iii) "IJM (India) Infrastructure", 281TR {Trib} 176 {Hyd} On the above facts
+we would like to rely on the recent decision by Mumbai Tribunal in the DClT v.
+Tata Consultancy Services Ltd ITA No: 7513/M/2010 for the AY 2005 -06 wherein
+it was held "54. For the above discussion, the assessee's support to the
+impugned order on both counts is found to be correct. The AO erred in not
+himself examining the issue of TP and with the approval of the Id. CIT, made a
+reference to the TPO u/s 92CA(1) of the Act; that the AO as well as the Id. C
+IT(A) failed to apply their mind to the TP Report filed by the assessee, or to
+any other material or information or document furnished. The TPO made an
+adjustment which was incorporated by the A O in the assessment order. Thereby.
+the AD as well as the Id. C IT(A)  24 ITA No. 2010/Hyd/17 Wissen Infotech Pvt.
+Ltd., Hyd.
+
+did not discharge necessary respective judicial functions conferred on them
+under sections 92C and 92CA of the Act. Further, the assessee is also correct
+in contending that no TP adjustment can be made in a case like the present
+one, where the assessee enjoys u/s 10A or 80HHE of the Act, or where the tax
+rate in the country of the Associated Enterprises is higher than the rate of
+tax in India and where the establishment of tax avoidance or manipulation of
+prices or establishment of shifting of profits is not possible."
+
+22.0 In view of what has been stated above we pray the Hon'ble Bench to grant
+relief as per the grounds of appeal and submissions made as above."
+
+16.1 The ld. DR, on the other hand, subm itted that merely because the
+assessee is eligible for exemption u/s 10B, it would not establish that there
+was no shifting of profit. The adjustments to ALP are not subject to exemption
+u/s 10B. Besides, as per the TP law in India, intentions need not be
+established and the ALP needs to be worked out as per the methods specified by
+CBDT as per the provisions in the IT Act, 1961 and the IT Rules.
+
+16.2 Considered the rival submissions and perused the material on record. The
+respective coordinate bench of I TAT has opined that when favourable exemption
+is available to the assessee in India, assessee may not shift the profit to
+other countries. This is general criteria that multinational companies will
+plan their business activities to retain maximum profit in the country in
+which less tax payment is there. But it is not the only criteria for decision
+making. The decision making and shareholder appetite of expansion will not
+remain same for all the time or countries. Irrespective of profit making
+ability and exemption available in the country of operation, the actual profit
+making ability cannot be determined. Irrespective of situation, the transfer
+price of the global market and the corporates must be within the band of
+pricing. It cannot fluctuate. It can be determined or evaluated only by means
+of comparing pricing pattern of Indian market and global market. When it is
+found that it is within the b and  25 ITA No. 2010/Hyd/17 Wissen Infotech Pvt.
+Ltd., Hyd.
+
+of prices adopted globally, no need of making any adjustment. It cannot be
+restricted based on the prevailin g tax rate in other countries. As we said
+earlier, the tax saving alone cannot be a decision making process to restrict
+any TP adjustment. Therefore, ground No., 6 is dismissed.
+
+17\. As regards additional grounds regarding FBT, the ld. AR submitted that
+the TPO has traced the FBT as an expenditure and the margin determined by him
+are less compared to other comparables. The TPO while considering analysis of
+comparables, he has deducted the FBT from their operating expenses. He prayed
+before us that the FBT expenses which are not allowed as deductible expenses,
+the same should be removed while calculating profit of margin of the assessee
+or to the method adopted for the comparables.
+
+17.1 The ld. DR filed written submissions wherein it was stated as under:
+
+> 3\. On the ground of treating FBT is treating as expenditure, it is humbly
+> submitted that it is essential to know about the objective of levy of FBT
+> which is available in Circular no: 8/2015. The relevant portions of the
+> circular are quoted as under. The objective is as follows:
+
+> "2. Objective:
+
+> 2.1 The taxation of perquisites or fringe benefits is justified both on
+> grounds of equity and economic efficiency. When fringe benefits are under-
+> taxed, it violates both horizontal and vertical equity. A taxpayer receiving
+> his entire income in cash bears a higher tax burden in comparison to another
+> taxpayer who receives his income partly in cash and partly in kind, thereby
+> violating horizontal equity. Further, fringe benefits are generally provided
+> to senior executives in the organization. Therefore, under-taxation of
+> fringe benefits also violates vertical equity. It also discriminates between
+> companies which can provide fringe benefits and those which cannot thereby
+> adversely affecting market structure. However, the taxation of fringe
+> benefits raises some problems primarily because-
+
+> (a) all benefits cannot be individually attributed to employees,
+> particularly in cases where the benefit is collectively enjoyed;
+
+26
+
+> ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd., Hyd.
+
+(b) of the present widespread practice of providing p erquisites, wherein many
+perquisites are disguised as reimbursements or other miscellaneous expenses so
+as to enable the employees to escape/reduce their tax liability; and
+
+(c) of the difficulty in the valuation of the benefits.
+
+2.2 In India, prior to assessment year 1998-99, some perquisites/fringe
+benefits were included in salary in terms of section 17 and accordingly taxed
+under section 15 of the Income-tax Act in the hands of the employee and a
+large number of fringe benefits were taxed by the emplo yer-based disallowance
+method where the quantum of the disallowance was estimated on a presumptive
+basis. In practice, taxation of fringe benefits by the employer -based
+disallowance method resulted in large-scale litigation on account of ambiguity
+in defining the tax base. Therefore, the taxation of fringe benefits by the
+employer-based disallowance method was withdrawn by the Finance Act, 1997.
+However, the withdrawal of the provisions relating to taxation of fringe
+benefits by the employer-based disallowance method resulted in significant
+erosion of the tax base. The Finance Act, 2005 has introduced a new levy,
+namely, the FBT as a surrogate tax on employer, with the objective of
+resolving the problems enumerated in para 2.1 above, expanding the tax base
+and maintaining equity between employers".
+
+4\. From the above, it can be seen that as employee based taxation is
+difficult and also from the considerations of equity, the tax on benefits
+received by employees is charged from the employer. FBT is a tax on
+expenditure of the employer and not on his income. The fact that FBT is part
+of expenditure in commercial parlance is evident from answer to Query no: 103
+of the circular cited above. The same is reproduced hereunder:
+
+"Whether FBT would be allowable deduction while computing 'book profit' under
+section 115JB?
+
+103\. FBT is a liability qua employer. It is an expenditure laid out or
+expended wholly and exclusively for the purposes of the business or profession
+of the employer. However, sub -clause (ic) of clause (a) of section 40 of the
+Income -tax Act expressly prohibits the deduction of the amount of FBT paid,
+for the purposes of computing the income under the head 'profits and gains of
+business or profession'. This prohibition does not apply to the computation of
+'book profit' for the purposes of sect ion 11SJ8. Accordingly, the FBT is an
+allowable deduction in the  27 ITA No. 2010/Hyd/17 Wissen Infotech Pvt. Ltd.,
+Hyd.
+
+computation of 'book profit' under section 11SlB of the Income - tax Act".
+
+From the above, it may kindly be seen that FBT is an expenditure in commercial
+parlance and needs to be considered as part of operating expenses. "
+
+16.3 Considered the rival submissions and perused the material on record. The
+assessee made the plea before us that TPO has considered the FBT as operating
+expenses at the same time, he eliminated the FBT expenditure in the case of
+comparables. AR has not submitted any papers in support of such submission.
+However, as a principle, the profit margin should be compared with comparables
+by following similar set of rules and accounting principles. In case of
+following different methods/rules, we end up reaching different conclusions.
+Therefore, we remit this issue also to the file of AO/TPO to treat the FBT as
+business operating expenses for both the assessee as well as comparables to
+determine the margin and then compare the same for arriving proper ALP.
+Accordingly, additional ground raised by the assessee is allowed for
+statistical purposes.
+
+17\. In the result, appeal of the assessee is partly allowed for statistical
+purposes.
+
+Pronounced in the open Court on 18 th April, 2019 Sd/- Sd/-
+
+    
+    
+          (P. MADHAVI DEVI)                      (S. RIFAUR RAHMAN)
+          JUDICIAL MEMBER                       ACCOUNTANT MEMBER
+    
+    Hyderabad, Dated: 18 th April, 2019
+    kv
+                                        28
+                                                                  ITA No. 2010/Hyd/17
+                                                         Wissen Infotech Pvt. Ltd., Hyd.
+    
+    
+    
+    Copy to:-
+    
+    
+
+1) M/s Wissen Infotech Pvt. Ltd., C/o Prasad & Prasad, CAs., Flat No. 301, MJ
+Towers, 8-2-698, Road No. 12, Banjaa Hills, Hyderabad - 500 034
+
+2) DCIT, Circle - 17(2), Hyderabad
+
+3) DRP - 1, Bengaluru
+
+4) Pr. CIT - 5, Hyderabad
+
+5) The Departmental Representative, I.T.A.T., Hyderabad.
+
+6) Guard File
+

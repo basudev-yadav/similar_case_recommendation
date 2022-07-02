@@ -1,0 +1,489 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Ricardo Uk Ltd., New Delhi vs Dcit, Circle- 3(1)(1), ... on 17 February, 2021
+
+    
+    
+         IN THE INCOME TAX APPELLATE TRIBUNAL
+              (DELHI BENCH 'D' : NEW DELHI)
+    
+    BEFORE SHRI ANIL CHATURVEDI, ACCOUNTANT MEMBER
+                          and
+          SHRI KULDIP SINGH, JUDICIAL MEMBER
+    
+                (THROUGH VIDEO CONFERENCE)
+    
+                       ITA No.4909/Del./2018
+                   (ASSESSMENT YEAR : 2009-10)
+    
+                       ITA No.4910/Del./2018
+                   (ASSESSMENT YEAR : 2010-11)
+    
+                       ITA No.3967/Del./2017
+                   (ASSESSMENT YEAR : 2011-12)
+    
+                       ITA No.3968/Del./2017
+                   (ASSESSMENT YEAR : 2012-13)
+    
+                       ITA No.3969/Del./2017
+                   (ASSESSMENT YEAR : 2013-14)
+    
+                       ITA No.4911/Del./2018
+                   (ASSESSMENT YEAR : 2014-15)
+    
+                       ITA No.4756/Del./2019
+                   (ASSESSMENT YEAR : 2015-16)
+    
+                        ITA No.416/Del./2020
+                   (ASSESSMENT YEAR : 2016-17)
+    
+    M/s. Ricardo UK Limited,           vs.   DCIT,
+    C/o Bhatia & Bhatia, CAs                 (International Taxation),
+    First Floor, 81, Hemkunt Colony,         Circle 3(1)(1),
+    New Delhi - 110 048.                     New Delhi.
+           (PAN : AAECR4867R)
+    
+          (APPELLANT)                        (RESPONDENT)
+    
+          ASSESSEE BY : Shri Ajay Vohra, Senior Advocate
+          REVENUE BY : Shri Sanjay Kumar, Senior DR
+                                          2        ITA Nos.3967, 3968 & 3969/Del./2017
+                                                  ITA Nos.4909, 4910 & 4911/Del./2018
+                                                               ITA No.4756/Del./2019
+                                                                 ITA No.416/Del./2020
+    
+    
+    
+                    Date of Hearing :          21.01.2021
+                    Date of Order   :          17.02.2021
+    
+                                    ORDER
+    
+
+PER BENCH :
+
+Since common questions of facts and law have been raised in the inter-
+connected appeals, the same are being disposed off by way of consolidated
+order to avoid repetition of discussion.
+
+2\. Appellant, Ricardo UK Limited (hereinafter referred to as 'the assessee')
+by filing the present appeals sought to set aside the impugned orders dated
+28.02.2018, 28.02.2018, 04.05.2016, 09.06.2016, 06.04.2017, 28.02.2018,
+04.03.2019 & 27.11.2019 passed by the Commissioner of Income-tax (Appeals)-43,
+New Delhi in appeals challenging the orders passed by the ld. Assessing
+Officer under section 147/143(3) read with section 144C(3) of the Income-tax
+Act, 1961 (for short 'the Act') qua the Assessment Years 2009-10, 2010-11,
+2011-12, 2012-13, 2013-14, 2014-15, 2015-16 & 2016-17 respectively on the
+identical grounds inter alia that :-
+
+> "1\. That on the facts and circumstances of the case, the order passed by
+> the ld. Commissioner of Income Tax (Appeals)-43, New Delhi ("ld. CIT(A)") is
+> bad in law.
+
+> 2\. That the ld. CIT(A) has grossly erred in law and on facts of the case in
+> upholding the erroneous order passed by the ld AO assessing the total income
+> of the Appellant at INR  3 ITA Nos.3967, 3968 & 3969/Del./2017 ITA Nos.4909,
+> 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA No.416/Del./2020 14,624,822
+> as against the returned income of Nil without any proper basis and
+> appreciation of the facts of the case.
+
+> 3\. That the ld ClT (A) has disregarded the provisions contained in Section
+> 9(1) (i) of the Act read with the relevant explanation that a foreign entity
+> having a permanent establishment in India shall be liable to income tax only
+> to the extent as is reasonably attributable to the operations carried out in
+> India.
+
+> 4\. That in attributing the business profits to the Indian operations, the
+> ld CIT (A), without appreciating the functional profile of the Appellant and
+> its Indian PE, has inexplicably held that an exorbitantly high proportion of
+> 50% of India's centric profits would be attributable to the Indian PE of the
+> Appellant.
+
+> 5\. That the ld. CIT (A) has completely failed to appreciate the principle
+> laid down by the Hon'ble Apex Court in the case of Morgan Stanley and Co.
+> Inc. [(292 ITR 416) (SC)] and Set Satellite (Singapore) [(307 ITR 205)
+> (Bom)], that in case the commission paid to Indian agent can be established
+> to be at arm's length from an Indian transfer pricing perspective, no
+> further profits shall be deemed to be attributable to the Indian agent.
+
+> 6\. That the ld. CIT (A) has completely disregarded the principle paid down
+> by the Hon'ble Delhi High Court in the case of Rolls Royce Singapore Pte
+> Limited (2011) and has completely relied upon the erroneous decision laid
+> down by his predecessor by commenting that "However my predecessor CIT(A)
+> had considered the attribution of 50% to be more appropriate. The appeal
+> order for AY 2012-13 indicated that there was a very low component of the
+> profit being shown in India thereby justifying proper attribution"
+
+> 7\. That the Ld. CIT (A) has erred on the facts and in the circumstances of
+> the case and in law by concluding that "no prior exercise seems to have done
+> to remunerate the Indian subsidiary at arm's length".
+
+3\. Briefly stated the facts necessary for adjudication of the controversy at
+hand are : M/s. Ricardo UK Limited, the assessee is a company incorporated
+under the laws of the United Kingdom (UK) and is a tax resident of the United
+Kingdom as per Article 4 4 ITA Nos.3967, 3968 & 3969/Del./2017 ITA Nos.4909,
+4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA No.416/Del./2020 of the India
+and UK Double Taxation Avoidance Agreement (DTAA). The assessee is into
+providing testing, services to its clients and providing assistance to its
+Indian customers in conducting the feasibility analysis of its transmission
+systems designed for automobiles from its technical centers in UK. The
+assessee is into this business since 1915 and has currently employed over 2700
+engineers, scientists and consultants around the world having high efficiency,
+low emission and class leading product innovation enabling the clients to
+employ the most viable transmission system. Assessee's clientele includes the
+world's major transportation, Original Equipment Manufacturers (OEM), supply
+chain organizations, energy companies, financial institutions and governments.
+The assessee is having profound technical experience required for the services
+provided.
+
+4\. During the year under consideration, the taxpayer had filed return of
+income declaring "NIL" income claiming that the income earned by the assessee
+was not taxable in India. Assessing Officer (AO) proceeded to held that the
+taxpayer has a Permanent Establishment (PE) in India in the form of domestic
+subsidiary company, namely, Ricardo India Pvt. Ltd. (RIPL) and thereby
+computed the income of the taxpayer by adopting the global profit  5 ITA
+Nos.3967, 3968 & 3969/Del./2017 ITA Nos.4909, 4910 & 4911/Del./2018 ITA
+No.4756/Del./2019 ITA No.416/Del./2020 ratio and applying the same to India-
+centric revenues to allegedly impute the India-centric profitability. AO
+proceeded to attribute 50% of the business profit i.e. Rs.1,46,24,821/-,
+Rs.38,97,594/-, Rs.63,30,619/-, Rs.1,00,91,845/-, Rs.1,21,89,053/-,
+Rs.91,24,923/-, Rs.90,02,297/- & Rs.4,50,38,195/- for AYs 2009-10, 2010-11,
+2011-12, 2012-13, 2013-14, 2014-15, 2015-16 & 2016-17 respectively to Indian
+PE and considered the same as taxable income of the assessee in India to be
+taxed @ 40% plus applicable surcharge and education cess.
+
+5\. The assessee carried the matter before the ld. CIT (A) by way of filing
+the appeals who has upheld the assessment framed by the AO by dismissing the
+appeals. Feeling aggrieved, the assessee has come up before the Tribunal by
+way of filing the present appeals.
+
+6\. We have heard the ld. Authorized Representatives of the parties to the
+appeal, gone through the documents relied upon and orders passed by the
+Revenue authorities below in the light of the facts and circumstances of the
+case.
+
+7\. Undisputedly, the assessee has accepted the existence of PE in India in
+all the aforesaid appeals. It is also not in dispute that in the transfer
+pricing report, profits attributed to the PE and amounts  6 ITA Nos.3967, 3968
+& 3969/Del./2017 ITA Nos.4909, 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA
+No.416/Del./2020 of commission/remuneration already paid to assessee
+benchmarked and held to be at arm's length and thereby no adjustment has been
+made. It is also not in dispute that in all the aforesaid appeals
+commission/remuneration paid on arm's length basis is more than the profits
+attributed to the PE. However, assessee challenged the attribution of 50% of
+India-centre profit being highly unreasonable and excessive.
+
+8\. In the backdrop of the aforesaid facts and circumstances of the case, ld.
+AR for the assessee while keeping this challenge/issues/grounds qua
+attribution of India-centric profit at 50% being highly unreasonable and
+excessive open, contended that since assessee is adequately remunerated at
+arm's length basis and commission/remuneration paid to the assessee shall be
+reduced from the profits attributed to the PE, no further attribution to the
+PE is sustainable in view of the law laid down by Hon'ble Apex Court in DIT
+vs. Morgan Stanley and Co. Inc. 292 ITR 416 (SC), E-Funds IT Solution Inc. vs.
+DIT 399 ITR 34 (SC), DIT vs. Honda Motors Co. Ltd. 255 taxman 72 (SC) and the
+decisions in Set Satellite (Singapore) 307 ITR 205 (Bom), Amadeus IT Group SA
+vs. DCIT ITA No.4906/Del/2010 (De. Trib) dated 26.10.2020, DIT vs. Galileo
+International Inc. 224  7 ITA Nos.3967, 3968 & 3969/Del./2017 ITA Nos.4909,
+4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA No.416/Del./2020 CTR 251
+(De.), Galileo Nederland BV vs. ADIT 367 ITR 319 (Del.).
+
+9\. Ld. DR for the Revenue, on the other hand, relied upon the order passed by
+the ld. CIT (A) and termed the arguments addressed by the ld. AR for the
+assessee not sustainable.
+
+10\. To canvass the issue in controversy, the ld. AR for the assessee
+contended that the assessee has merely received marketing assistance from its
+Indian subsidiary, RIPL, which does not own any technical know-how or
+facilities nor employed any technical personnel required for the execution of
+the business/projects of the assessee and the scale of operation of RIPL is
+insignificant as compared to the size of operation of the assessee because
+RIPL has a miniscule set up of 5 - 7 employees (including administration and
+other support staff) and has been operating out of a small premises in Delhi.
+It is further contended by the ld. AR for the assessee that for the marketing
+services received from the Indian subsidiary, RIPL, it has been adequately
+remunerated inasmuch as commission/remuneration has been paid to RIPL on an
+arm's length basis. It is further contended by the ld. AR for the assessee
+that transfer pricing analysis showing transaction between assessee and RIPL
+at arm's length has not been disputed by the AO/CIT(A).  8 ITA Nos.3967, 3968
+& 3969/Del./2017
+
+ITA Nos.4909, 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA No.416/Del./2020
+
+11\. Aforesaid contentions raised by the ld. AR for the assessee when examined
+in the light of the profits attributed to PE and commission/remuneration paid
+on arm's length basis, commission/remuneration paid in all the cases is more
+than profit attributed to the PE, which is extracted from the synopsis filed
+by the ld. AR for the assessee for ready perusal as under :-
+
+    
+    
+    
+    Assessment Year          Profits attributed to Commission/
+                             PE                    remuneration paid on
+                                                   arm's length basis
+                                       (A)                   (B)
+              2009-10             1,46,24,821/-          3,31,16,923
+              2010-11              38,97,594/-           3,36,21,632
+              2011-12              63,30,619/-           4,00,05,437
+              2012-13             1,00,91,845/-          4,09,81,100
+              2013-14             1,21,89,053/-          4,10,77,874
+              2014-15              91,24,923/-           4,28,58,978
+              2015-16              90,02,297/-           5,69,29,447
+              2016-17             4,50,38,195/-          6,80,06,297
+    
+    
+    
+    
+
+12\. In the backdrop of the aforesaid facts and circumstances of the case, the
+sole contention raised by the ld. AR for the assessee that :-
+
+> "Whether when RIPL has already been remunerated at arm's length, no further
+> attribution to PE would be warranted?"
+
+and relied upon the law of the land laid down by Hon'ble Supreme Court in
+cases of DIT vs. Morgan Stanley and Co. Inc., E-Funds IT Solution Inc., DIT
+vs. Honda Motors Co. Ltd. (supra) and the  9 ITA Nos.3967, 3968 &
+3969/Del./2017 ITA Nos.4909, 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA
+No.416/Del./2020 decisions in Set Satellite (Singapore) and Amadeus IT Group
+SA vs. DCIT (supra).
+
+13\. Hon'ble Supreme Court in case of DIT vs. Morgan Stanley and Co. Inc.
+(supra) upheld the order passed by the ld. AAR reached the conclusion that
+when transaction between two parties, PE on the one hand and domestic
+subsidiary company on the other hand, as in the present case, is remunerated
+on arm's length basis taking into account all the risk taking functions of
+multi-national enterprise, nothing would be left to attribute to the PE.
+Relevant part of the judgment is extracted for ready perusal as under :-
+
+> "29\. As regards determination of profits attributable to a PE in India
+> (MSAS) is concerned on the basis of arm's length principle we have quoted
+> Article 7(2) of the DTAA. According to the AAR where there is an
+> international transaction under which a non- resident compensates a PE at
+> arm's length price, no further profits would be attributable in India. In
+> this connection, the AAR has relied upon Circular No.23 of 1969 issued by
+> CBDT as well as Circular No. 5 of 2004 also issued by CBDT. This is the key
+> question which arises for determination in these civil appeals.
+
+> 30\. To answer the above question we quote Article 7 of the U.N. Model
+> Convention which reads as under :
+
+> "Article : Attribution of Business Profits Article 7 of the UN Model
+> Convention states as under business profits :
+
+> 1\. The profits of an enterprise of a Contracting State shall be taxable
+> only in that State unless the enterprise carries on business in the other
+> Contracting State through a permanent establishment situated therein. If the
+> enterprise carries on business as aforesaid, the profits of the enterprise
+> may be taxed in the other State but only so much of them as is attributable
+> to (a) that permanent  10 ITA Nos.3967, 3968 & 3969/Del./2017 ITA Nos.4909,
+> 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA No.416/Del./2020
+> establishment; (b) sales in that other State of goods or merchandise of the
+> same or similar kind as those sold through that permanent establishment; or
+> (c) other business activities carried on in that other State of the same or
+> similar kind as those effected through that permanent establishment.
+
+2\. Subject to the provisions of paragraph 3, where en enterprise of a
+Contracting State carries on business in the other Contracting State through a
+permanent establishment situated therein, there shall in each Contracting
+State be attributed to that permanent establishment the profits which it might
+be expected to make if it were a distinct and separate enterprise engaged in
+the same or similar activities under the same or similar conditions and
+dealing wholly or independently with the enterprise of which it is a permanent
+establishment.
+
+3\. In the determination of the profits of a permanent establishment, there
+shall be allowed as deductions expenses which are incurred for the purposes of
+the business of the permanent establishment including executive and general
+administrative expenses so incurred, whether in the State in which the
+permanent establishment is situated or elsewhere. However, no such deduction
+shall be allowed in respect of amounts, if any, paid (otherwise than towards
+reimbursement of actual expenses) by the permanent establishment to the head
+office of the enterprise or any of its other offices, by way of royalties,
+fees or other similar payments in return for the use of patents or other
+rights, or by way of commission, for specific services performed or for
+management, or, except in the case of a banking enterprise, by way of interest
+on moneys lent to the permanent establishment. Likewise, no account shall be
+taken, in the determination of the profits of a permanent establishment, for
+amounts charged (otherwise than towards reimbursement of actual expenses), by
+the permanent establishment to the head office of the enterprise or any of its
+other offices, by way of royalties, fees or other similar payments in return
+for the use of patents or other rights, or by way of commission for specific
+services performed or for management, or, except in the case of a banking
+enterprise by way of interest on moneys lent to the head office of the
+enterprise or any of its other offices.
+
+4\. Insofar as it has been customary in a Contracting State to determine the
+profits to be attributed to a  11 ITA Nos.3967, 3968 & 3969/Del./2017 ITA
+Nos.4909, 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA No.416/Del./2020
+permanent establishment on the basis of an apportionment of the total profits
+of the enterprise to its various parts, nothing in paragraph 2 shall preclude
+that Contracting State from determining the profits to be taxed by such an
+apportionment as may be customary; the method of apportionment adopted shall,
+however, be such that the result shall be in accordance with the principles
+contained in this article.
+
+5\. For the purposes of the preceding paragraphs, the profits to be attributed
+to the permanent establishment shall be determined by the same method year-by-
+year unless there is good and sufficient reason to the contrary.
+
+6\. Where profits include items of income which are dealt with separately in
+other articles of this Convention, then the provisions of those articles shall
+not be affected by the provisions of this article.
+
+Note: The question or whether profits should be attributed to a permanent
+establishment by reason of the mere purchase by that permanent establishment
+of goods and merchandise for the enterprise was not resolved. It should
+therefore be settled in bilateral negotiations."
+
+31\. Article 7 of the U.N. Model Convention inter alia provides that only that
+portion of business profits is taxable in the source country which is
+attributable to the PE. It specifies how such business profits should be
+ascertained. Under the said Article, a PE is treated as if it is an
+independent enterprise (profit centre) decors the head office and which deals
+with the head office at arm's length. Therefore, its profits are determined on
+the basis as if it is an independent enterprise. The profits of the PE are
+determined on the basis of what an independent enterprise under similar
+circumstances might be expected to derive on its own. Article 7(2) of the U.N.
+Model Convention advocates the arm's length approach for attribution of
+profits to a PE.
+
+32\. The object behind enactment of transfer pricing regulations is to prevent
+shifting of profits outside India. Under Article 7(2) not all profits of MSCo
+would be taxable in India but only those which have economic nexus with PE in
+India. A foreign enterprise is liable to be taxed in India on so much of its
+business profit as is attributable to the PE in India. The quantum of taxable
+income is to be determined in accordance with the provisions of Income-tax
+Act. All provisions of Income-tax Act are applicable, including provisions
+relating to depreciation, investment losses, deductible expenses, carry
+forward and set-off losses etc. However, deviations are made by DTAA in cases
+of  12 ITA Nos.3967, 3968 & 3969/Del./2017 ITA Nos.4909, 4910 & 4911/Del./2018
+ITA No.4756/Del./2019 ITA No.416/Del./2020 royalty, interest etc. Such
+deviations are also made under the Income-tax Act (for example: Sections 44BB,
+44BBA etc.). Under the impugned ruling delivered by the AAR, remuneration to
+MSAS was justified by a transfer pricing analysis and, therefore, no further
+income could be attributed to the PE (MSAS). In other words, the said ruling
+equates an arm's length analysis (ALA) with attribution of profits. It holds
+that once a transfer pricing analysis is undertaken; there is no further need
+to attribute profits to a PE. The impugned ruling is correct in principle
+insofar as an associated enterprise, that also constitutes a PE, has been
+remunerated on an arm's length basis taking into account all the risk-taking
+functions of the enterprise. In such cases nothing further would be left to be
+attributed to the PE. The situation would be different if transfer pricing
+analysis does not adequately reflect the functions performed and the risks
+assumed by the enterprise. In such a situation, there would be a need to
+attribute profits to the PE for those functions/risks that have not been
+considered. Therefore, in each case the data placed by the taxpayer has to be
+examined as to whether the transfer pricing analysis placed by the taxpayer is
+exhaustive of attribution of profits and that would depend on the functional
+and factual analysis to be undertaken in each case. Lastly, it may be added
+that taxing corporates on the basis of the concept of Economic Nexus is an
+important feature of Attributable Profits (profits attributable to the PE)
+Conclusion
+
+33\. To conclude, we hold that the AAR was right in ruling that MSAS would be
+a Service PE in India under Article 5(2)(1), though only on account of the
+services to be performed by the deputationists deployed by MSCo and not on
+account of stewardship activities. As regards income attributable to the PE
+(MSAS) we hold that the Transactional Net Margin Method was the appropriate
+method for determination of the arm's length price in respect of transaction
+between MSCo and MSAS. We accept as correct the computation of the
+remuneration based on cost plus mark-up worked out at 29% on the operating
+costs of MSAS. This position is also accepted by the Assessing Officer in his
+order dated 29.12.06 (after the impugned ruling) and also by the transfer
+pricing officer vide order dated 22-9-2006. As regards attribution of further
+profits to the PE of MSCo where the transaction between the two are held to be
+at arm's length, we hold that the ruling is correct in principle provided that
+an associated enterprise (that also constitutes a PE} is remunerated on arm's
+length basis taking into account all the risk-taking functions of the
+multinational enterprise. In such a case nothing further would be left to
+attribute to the PE....." 13 ITA Nos.3967, 3968 & 3969/Del./2017
+
+> ITA Nos.4909, 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA
+> No.416/Del./2020
+
+14\. Even otherwise, when we examine this proposition alternatively by
+reducing the commission/remuneration paid to RIPL from the profits attributed
+to the PE, detailed in the table extracted in preceding para 11 of the order,
+nothing more will be left to attribute to the PE. This proposition has been
+held in case of Amadeus Global Travel Distribution S.A. vs. DCIT 113 TTJ 767
+(Del.) by the coordinate Bench of the Tribunal which has been affirmed by the
+Hon'ble Delhi High Court in ITA 689/2011 & 795-797/2011 by relying upon the
+decision held in case of DIT vs. Galileo International Inc. 224 CTR 251 (Del.)
+wherein it is held as under :-
+
+> "Reading the above Article 7 of the Treaty it is clear that the profit of an
+> enterprise will be taxable only to the extent as is attributable to that
+> permanent establishment. This is in pari materia with clause
+
+> (a) of Explanation 1 to section 9(1)(i) of the Income-tax Act. Thus where
+> the entire activity of an enterprise are not carried out in a Contracting
+> State where the PE is situated, than only so much of the profit as is
+> attributable to the functions carried through the PE can be taxable in such
+> source State. While dealing with the. question as to what is such part of
+> income as is reasonably attributable to the operations carried out in India,
+> we have held that only 15% of the revenue generated from the bookings made
+> within India is taxable in India. The same proportion has to be adopted here
+> while computing profit attributable to the PE. We have also held that since
+> the payment to the agent in India is more than what is the income
+> attributable to the PE in India, it extinguish the assessment as no further
+> income is taxable in India., It is to be noted that even in the first
+> assessment framed by the Assessing Officer, the entire expenses in the form
+> of remuneration paid to AIPL was held as allowable deduction and was reduced
+> while computing the income of appellant If that be the case, the income
+> attributable to PE in India being less than the remuneration paid to the
+> dependent agent, it extinguishes the assessment and requires no further
+> exercise for computation of income. We accordingly hold so  14 ITA Nos.3967,
+> 3968 & 3969/Del./2017 ITA Nos.4909, 4910 & 4911/Del./2018 ITA
+> No.4756/Del./2019 ITA No.416/Del./2020 and in view of the same the income of
+> the appellant for assessment years 1997-98 and 1998-99 will be 'Nil'."
+
+15\. So, we are of the considered view that when we deduct
+commission/remuneration from the RIPL from the profits attributed to the PE,
+no taxable income left in the hands of PE. Consequently, addition made by the
+AO/CIT (A) is not sustainable in the eyes of law.
+
+16\. Decision rendered by the coordinate Bench of the Tribunal in case of
+Amadeus Global Travel Distribution S.A. (supra), affirmed by the Hon'ble Delhi
+High Court, by relying upon the decision in case of DIT vs. Galileo
+International Inc. (supra) has been further followed by the coordinate Bench
+of the Tribunal in assessee's own case bearing ITA No.4906/Del/2010 for AY
+2007-08 vide order dated 26.10.2020.
+
+17\. In view of what has been discussed above, we are of the considered view
+that when RIPL, a domestic subsidiary company, has already been remunerated at
+arm's length, no further attribution of profit to PE would be warranted. Even
+otherwise, by following the order passed by the coordinate Bench of the
+Tribunal in assessee's own case for AY 2007-08 (supra), when we deduct the
+remuneration/commission paid to RIPL from the amounts of profit attributed to
+the PE as detailed in para 11 of this order, no taxable  15 ITA Nos.3967, 3968
+& 3969/Del./2017 ITA Nos.4909, 4910 & 4911/Del./2018 ITA No.4756/Del./2019 ITA
+No.416/Del./2020 income left in the hands of the PE. Consequently, additions
+made by the AO and confirmed by ld. CIT (A) are ordered to be deleted being
+not sustainable in the eyes of law. Consequently, all the appeals filed by the
+assessee are hereby allowed. Order pronounced in open court on this 17th day
+of February, 2021.
+
+    
+    
+            Sd/-                                    sd/-
+     (ANIL CHATURVEDI)                         (KULDIP SINGH)
+    ACCOUNTANT MEMBER                         JUDICIAL MEMBER
+    
+    Dated the 17th day of February, 2021
+    TS
+    
+    
+    
+    Copy forwarded to:
+         1.Appellant
+         2.Respondent
+         3.CIT
+         4.CIT (A)
+         5.CIT(ITAT), New Delhi.                              AR, ITAT
+                                                             NEW DELHI.
+     
+

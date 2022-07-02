@@ -1,0 +1,1974 @@
+
+
+Delhi High Court
+
+Gvk Airport Holdings Limited vs Bid Services Division ... on 1 July, 2019
+
+    
+    
+          IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                Reserved on: 28th May 2019
+                                                Pronounced on: 1st July 2019
+    +           O.M.P.(I) (COMM.) 96/2019 & I.A. 4839/2019
+    GVK AIRPORT HOLDINGS LIMITED                       ..... Petitioner
+                     Through: Mr. Rajiv Nayar, Senior Advocate
+                               with Mr. Kartik Nayar, Advocate, Mr.
+                               Sarthak Malhotra and Mr. Rishab
+                               Kumar, Advocate.
+                     versus
+    
+    BID SERVICES DIVISION (MAURITIUS) LIMITED & ORS.
+                                                    ..... Respondents
+                       Through: Mr. Amit Sibal, Senior Advocate with
+                                Mr. Saurabh Kirpal, Ms. Roopali
+                                Singh, Mr. Arvind Ramesh, Mr.
+                                Aditya Chatterjee and Mr. Mugeet
+                                Drabu, Advocates for Respondent No.
+                                1.
+                                Mr. Sujoy Dattar, Advocate for
+                                Respondent No.2.
+                                Mr. AbinavVasisht, Senior Advocate
+                                with Mr. Digvijay Rai and Ms. Priya
+                                Singh, Advocate for Respondent No.
+                                3.
+    CORAM: JUSTICE SANJEEV NARULA
+                                   JUDGMENT
+    
+
+SANJEEV NARULA, J
+
+1\. The present Petition under Section 9 of the Arbitration and Conciliation
+Act, 1996 (the "Arbitration Act") has been filed, inter alia seeking grant of
+interim/ ad interim relief of temporary injunction against Respondent no. 1
+from offering or selling its shareholding in Mumbai International Airport
+Limited ("MIAL") to any person other than the Petitioner.
+
+O.M.P. (I) (COMM.) 96/2019 Page 1 of 67
+
+INTRODUCTION
+
+2\. The Petitioner and Respondents No. 1 to 3 (Respondent No. 1 = Bid Services
+Division (Mauritius) Ltd.; Respondent No. 2 = ACSA Global Ltd.; Respondent No.
+3 = Airports Authority of India, hereinafter "AAI") (along with AAI Nominees))
+are shareholders of MIAL in terms of Shareholders Agreement dated 4th April
+2006 ("SHA").
+
+3\. Under Clause 3.7.1 of the SHA, the Petitioner has a right of first refusal
+("ROFR") in respect of the shares of Respondent No. 1, if the same are desired
+to be sold by Respondent No. 1. The clauses which provide for Petitioner's
+right of first refusal and transfer restrictions are reproduced hereinbelow:
+
+> "3.6. Transfer restrictions 3.6.1 Any shareholder may, subject to provisions
+> of this Act and the OMDA, and in compliance with the applicable Law,
+> transfer, either directly or indirectly, Ill or any of its/their Equity
+> Shares to a Third Party Provided that:
+
+> (a) The Shareholder is not in default of this Agreement;
+
+> (b) The Third Party purchaser agrees and undertakes to be bound by the terms
+> and conditions of this Agreement and executes a deed of adherence in the
+> form and manner attached in Annexure 1 ("Deed of Adherence").
+
+> (c) If the Shareholder is Private Participant, the consent of AAI (as
+> required under the provisions of the OMDA) is obtained.
+
+> (d) Such transfer does not result in the Foreign Entities Equity Cap and/or
+> the Scheduled Airline Equity Cap being exceeded.
+
+> (e) Considering the political sensitivities, GOI approves the buyer and its
+> constitution.
+
+> For abundant caution; it is hereby expressly clarified · that where Private
+> Participant is a special purpose vehicle established primarily for the
+> purposes of holding Equity Shares in the JVC O.M.P. (I) (COMM.) 96/2019 Page
+> 2 of 67 (such Private Participant being an "SPV PP"), a Transfer of any
+> shareholding in such SPV PP shall constitute an indirect Transfer of Equity
+> Shares by the SPY PP for the purposes of this Agreement and be subject to
+> the restrictions on transfer of shares us set forth in this Agreement"
+
+> 3.7 Rights of First Refusal 3.7.1 In addition to the requirements set out in
+> Clause 3.6 and subject always to the lock-in provisions set out under Clause
+> 2.5 of the OMDA, if at any time, a Private Participant desires to Transfer,
+> whether directly or indirectly, any or all of its Equity Shares or voting
+> interests therein owned by it (the "Seller PP"), then, it shall:
+
+> (i) make an offer for the sale of the PP Purchase Shares (as defined
+> hereunder) to the other Private Participants (the "Remaining Private
+> Participants") by a Notice mentioning therein:- (a) the total number of
+> Equity Shares proposed to be offered for sale (the "PP Purchase Shares"),
+> (b) the price at which the PP Purchase Shares are being offered for sale
+> (the "PP Offer Price"; and (c) any other terms and conditions in connection
+> therewith (the "PP Offer Notice"). A copy of the PP Offer Notice shall also
+> be sent to AAI;
+
+> ..
+
+> (iii) Transfer of all, but not less than all, of the PP Purchase Shares to
+> the Remaining Private Participants shall take place at the same time and
+> date at the registered office of the JVC within thirty (30) days from the
+> date of the PP Offer Notice (the "Remaining PP Purchase Period");
+
+> (iv) If the Remaining Private Participants do not purchase all the PP
+> Purchase Shares from the Seller PP within the Remaining PP Purchase Period
+> then the Seller PP shall, within three (3) days of the expiry of the
+> Remaining PP Purchase Period, make an offer by notice to AAI for the sale of
+> the PP Purchase Shares at the PP Offer Price and on the same terms and
+> conditions as contained in the PP Offer Notice (the "Second PP Offer
+> Notice");"
+
+O.M.P. (I) (COMM.) 96/2019 Page 3 of 67
+
+4\. To better understand the terminology used in the aforenoted clauses, it
+would be apt to refer to the provisions that define the expressions. The same
+read as under:-
+
+> "Private Participants are members of a consortium, which had bid, were
+> thereafter short listed and eventually selected by AAI (with the approval of
+> the Government of India) as the joint venture partners for undertaking the
+> Project. The Parties listed in Schedule I hereto (hereinafter individually
+> referred to as "Private Participant" and collectively referred to as
+> "Private Participant") (which expression shall, unless it be repugnant or
+> contrary to the subject or context thereof, be deemed to mean and include
+> their respective nominees, legal representatives and successors) of the
+> second part.
+
+> The Private Participants and AAI (along with the AAI Nominees) hereinafter
+> collectively referred to as the "Shareholders" and individually as
+> "Shareholder".
+
+> "OMDA" means the Operation, Management and Development Agreement entered
+> into, on or about the date hereof, between the AAI and the JVC;"
+
+THE CONTROVERSY
+
+5\. In terms of the ROFR Clause, Respondent no. 1 offered its entire
+shareholding of 16,20,00,000 shares constituting 13.5% stake in the Company
+("Shares") for sale to the Petitioner. The Petitioner contends that the offer
+was accepted and there is a binding agreement between the parties for the sale
+of shares. It is also inter alia contended that Respondent No. 1 is not ready
+and willing to fulfil its obligations and the shares are not in a deliverable
+state. Respondent No. 1 does not dispute that the Petitioner has ROFR in
+respect of the Shares, but contends that the right has expired/ O.M.P. (I)
+(COMM.) 96/2019 Page 4 of 67 lapsed since Petitioner has not completed the
+transaction within the period stipulated in the agreement and that the Shares
+now have to be offered to Respondent No. 3 in terms of Clause 3.7 of the SHA.
+It is also asserted that Petitioner does not have financial capacity to
+complete the transaction and is delaying the matter. Thus, the controversy
+revolves around the exercise of the Petitioner's ROFR under the Shareholders
+Agreement dated 4th April 2006\.
+
+FACTUAL BACKGROUND
+
+6\. In terms of the ROFR clause, Respondent No. 1 addressed a letter dated
+26th January 2019 to Petitioner and Respondent No. 2 (with a copy to the
+Respondent No. 3) communicating that it is desirous of transferring the shares
+for an aggregate consideration of not less than INR 1248,75,00,000/- and
+offering to sell the same to the Petitioner and Respondent No. 2 on the above
+terms. The Petitioner thereafter addressed a letter dated 19 th February 2019
+to Respondent No. 1 (with copies to Respondent No. 2 and Respondent No. 3)
+stating that its letter dated 26th January 2019 is defective and cannot be
+considered as a valid offer notice under the SHA. Later, Petitioner addressed
+a letter dated 22nd February 2019 to Respondent No. 1 (with copies to
+Respondent No. 2 and Respondent No. 3) exercising its option to purchase
+Respondent No. 1's shares and mentioned that it still awaits all terms and
+conditions of the proposed transfer of shares by Respondent No. 1 as sought by
+the Petitioner vide its letter dated 19th February 2019. By the said letter,
+the Petitioner also invited Respondent No. 1 to discuss the modalities of
+closing the transaction at the earliest including but not limited to signing a
+share purchase agreement.
+
+O.M.P. (I) (COMM.) 96/2019 Page 5 of 67
+
+7\. Respondent No. 1 then addressed a letter dated 4 th March 2019 to the
+Petitioner stating that while it maintains that the letter dated 26 th January
+2019 was not defective, nevertheless a draft share purchase agreement ("SPA")
+setting out all the terms and conditions on which it is desirous of selling
+the Shares was enclosed. It was further stated in the letter that the timeline
+of 30 days would be considered from the date of this letter, i.e. 26 th
+January 2019. Petitioner vide its letter dated 14th March 2019 then replied to
+another letter of Respondent No. 3 dated 7th March 2019 and asserted that
+since Petitioner has already exercised its option under the SHA to purchase
+Respondent No. 1's shares, the question of Respondent No. 1 making an offer to
+Respondent No. 3 for sale of the said shares under the SHA does not arise.
+Around the same time, the Petitioner also addressed a letter dated 16 th March
+2019 to the Respondent No. 1 enclosing Petitioner's proposed changes to the
+draft SPA, and called upon Respondent No. 1 to execute the SPA at a mutually
+agreed time and place. On 20 th March 2019, Respondent No. 1 addressed a
+letter to the Petitioner stating that none of the changes proposed by the
+Petitioner to the draft share purchase agreement ("SPA") that was enclosed
+with the letter dated 4th March 2019 are acceptable to it. It was also
+reiterated that the sale and purchase of Respondent No. 1's shares has to be
+consummated within a period of 30 (thirty) days of the Respondent No. 1's
+letter dated 4th March 2019. Along with the said letter, Respondent No. 1 also
+enclosed a draft SPA, which included 4th April 2019 as the "Long Stop Date"
+for completion of the transaction. The Petitioner then addressed a letter
+dated 26th March 2019 to Respondent No. 1 enclosing a signed copy of the same
+SPA that was enclosed with Respondent No. 1's letter dated 4 th O.M.P. (I)
+(COMM.) 96/2019 Page 6 of 67 March 2019. The Petitioner addressed an email
+dated 26th March 2019 to Respondent No. 1 inter alia stating that the
+Petitioner has signed and sent the SPA to Respondent No. 1 as per Respondent
+No. 1's letter dated 4th March 2019\. Post receipt of the signed SPA from
+Petitioner, Respondent No. 1 addressed a letter dated 27th March 2019 (i.e.
+very next day) to State Bank of India ("SBI") and SBICAP Trustee Company
+Limited. Respondent No. 1's lawyers addressed an email dated 27th March 2019
+to Petitioner's lawyers inter alia stating that consummation of the sale/
+purchase transaction on or before 4th April 2019 is one of the conditions on
+which Respondent No. 1 is desirous of selling its shares and that if the same
+is not acceptable to the Petitioner, then Respondent No. 1 is not in a
+position to execute the share purchase agreement. SBI (lender) by way of its
+letter dated 28th March 2019, replied to Respondent No. 1's letter dated 27th
+March 2019 inter alia stating that MIAL has to give 60 (sixty) days' prior
+notice to SBI for granting approval for the proposed transfer. Respondent No.
+1 addressed a letter dated 29th March 2019 to MIAL inter alia stating that the
+Petitioner vide its letter dated 11th March 2019 has exercised its right of
+first refusal over the purchase of Shares and in connection therewith
+requested MIAL to seek approvals from its lenders. MIAL addressed a letter
+dated 30th March 2019 to Respondent No. 1 requesting for certain documents
+(i.e. a copy of the acceptance of the Petitioner along with term sheet for the
+stake purchase from Respondent No. 1). It was further stated that it will
+submit an application for approval for the transaction to SBI and other
+lenders on receipt of the said documents. MIAL addressed another letter dated
+30th March 2019 to Respondent No. 1, informing them that MIAL will need its
+formal request together with the necessary supporting documents for O.M.P. (I)
+(COMM.) 96/2019 Page 7 of 67 approvals for the transfer under OMDA. According
+to the Petitioner, Respondent No. 1 has neither responded to the two aforesaid
+letters from MIAL nor provided the supporting documents required to seek all
+the necessary approvals.
+
+8\. Petitioner then filed the present Petition on 1st April 2019 seeking
+interim reliefs against the Respondent No. 1. Petitioner has also invoked
+arbitration under Clause 9.4.3.1 of the SHA against the Respondent No. 1 by
+way of a notice dated 25th April 2019.
+
+SUBMISSIONS OF PETITIONER [ IN BRIEF]
+
+9\. The learned counsel for the Petitioner, Mr. Rajiv Nayar, broadly made the
+following submissions:
+
+a) The scope of powers exercised by this Court under section 9 at the stage of
+grant of injunction as interim relief is limited and the Court is not required
+to go into the questions relating to the aspect of grant of final relief. Mr.
+Nayar relied upon sub-clause (3) of section 9 to state that since the Arbitral
+Tribunal is vested with powers to grant relief similar to those provided for
+under section 9, the scope of powers under section 9 should be construed to be
+restricted. The injunction prayed for by the Petitioner ought to be granted
+because the present interim stage only requires preservation of the subject
+matter of the arbitration (i.e. the Shares) till the arbitral tribunal is
+constituted. During the arbitration proceedings, the parties can invoke
+Section 17 and seek appropriate reliefs including modification or variation of
+the orders passed under Section 9 of the Act.
+
+O.M.P. (I) (COMM.) 96/2019 Page 8 of 67
+
+b) The ROFR clause in a contract is a negative covenant which can be enforced
+separately to restrict sale of shares to a third party. The Petitioner is not
+seeking specific performance of the affirmative agreement in the present
+Petition. The injunction prayed for is for enforcement of a negative agreement
+not to do a certain act - not to create third party rights or offer to sell
+the subject shares to any other party. Such a negative covenant is capable of
+being enforced under Section 42 of Specific Relief Act and the other
+provisions (section 16 or 41) of the Specific Relief Act are not attracted.
+Therefore, the alleged requirement of having available funds for establishing
+that Petitioner is "ready and willing" is not applicable in the present case.
+
+c) Petitioner has a preferential right to purchase the Shares offered by
+Respondent No. 1 and it has in fact exercised this right. There is a concluded
+contract between the Petitioner and Respondent No. 1 for the transfer of the
+Shares in terms of the SHA and the execution of the SPA by Respondent No. 1 is
+only a formality that is required to be completed in order to apply for and
+obtain various approvals/ permissions including approval from statutory
+authorities and lenders which are needed to complete the transaction. Relying
+upon the correspondence between the parties, he argued that Respondent no. 1
+has conceded to the fact that there is a concluded contract between the
+parties as evidenced from the letters written seeking the approval of AAI and
+the lenders.
+
+O.M.P. (I) (COMM.) 96/2019 Page 9 of 67
+
+d) The conduct of Respondent No. 1 belies its stand that a Long Stop Date of
+4th April 2019 was a key/ material term of its offer. Further, in any event,
+the question of whether time was regarded by the parties to be of the essence
+can only be decided by the arbitral tribunal and at this stage, the conduct of
+the parties reflects that they never treated time to be of essence.On a true
+and proper construction of the SHA, the 30 (thirty) day time period under
+Clause 3.7.1(iii) of the SHA has to be computed by excluding the time taken to
+obtain all requisite approvals/ permissions for the transfer and for the
+seller to become capable of delivering the shares to the purchaser in a freely
+transferable form. This follows from the fact that any transfer of shares
+under the SHA to a Private Participant is subject to receipt of various
+approvals/permissions, which cannot be obtained within the period of 30
+(thirty) days.
+
+e) Respondent No. 1 has delayed completion of the transaction by not
+performing its reciprocal obligations and is still not in a position to
+deliver the shares to the Petitioner in a freely transferable form. Hence, the
+Respondent is not ready and willing to perform his part of the obligations
+under contract and whereas, the Petitioner has always been ready and willing
+to perform its part of the obligations.
+
+f) The balance of convenience lies in favour of the Petitioner and irreparable
+injury would be caused to it if Respondent No. 1 is not restrained from
+offering its shares to a third party. If Respondent No. 1 is not restrained
+from offering and/or selling the Shares to any person other than the
+Petitioner, pending the conclusion of the arbitral proceedings and
+implementation of the O.M.P. (I) (COMM.) 96/2019 Page 10 of 67 award therein,
+Respondent No. 1 will proceed to dispose of the Shares to a person other than
+the Petitioner. In such a situation, even if the arbitral tribunal accepts
+Petitioner's interpretation of what is the applicable time period under the
+SHA, it will be too late to restore Petitioner's rights since the person to
+whom Respondent No. 1 would have sold the Shares would not be bound by the
+arbitral award. It would create a situation where shares would never be
+available to the Petitioner as the same are held in a Private Company (MIAL)
+and are not available in the open market.
+
+CASE OF THE RESPONDENT [IN BRIEF]
+
+10\. Learned Senior Counsel for the Respondent No. 1, Mr. Amit Sibal based his
+submissions on the following grounds:
+
+a) The Petitioner cannot argue that it does not need to prove a prima facie
+case for obtaining a relief of specific performance before the arbitral
+tribunal. Petitioner has to necessarily establish a prima facie case by
+showing readiness and willingness to perform its obligations. These are
+requirements of law that cannot be contracted out of by the parties.
+Additionally, such requirements of law do not cease to apply merely because
+the Petitioner seeks relief by way of a petition under Section 9.
+
+b) Section 41(e) of the Specific Relief Act, 1963 ("Specific Relief Act")
+provides that an injunction, as is being prayed for by the Petitioner before
+this Hon'ble Court, cannot be granted "to prevent the breach of a contract the
+performance of which would not be specifically enforced". Reliance was also
+placed on Section 16 of the Specific Relief Act (as amended by the O.M.P. (I)
+(COMM.) 96/2019 Page 11 of 67 Specific Relief (Amendment) Act, 2018) which
+provides, under sub-section
+
+(b) that specific performance of a contract cannot be enforced in favor of a
+person who has become incapable of performing, or violates any essential term
+of the contract that remains to be performed on his part, or acts in fraud of
+the contract, or willfully acts at variance with or in subversion of the
+relation intended to be established by the contract. There is no negative
+covenant distinct from a positive covenant which is envisaged in Clause 3.7 of
+the SHA and for Section 42 to operate, a separate and distinct negative
+covenant must exist within the contractual framework and even if Clause 3.7 of
+the SHA were a negative covenant within the meaning of Section 42 Specific
+Relief Act, an injunction cannot be granted for the asking.
+
+c) The Petitioner never accepted an essential term of the offer made by
+Respondent No. 1. In other words, there was no concluded contract with the
+Petitioner, it having rejected a key term of Respondent No. 1's offer.
+
+d) By its very definition, a ROFR has to be a time-bound offer and can never
+be in perpetuity and in contracts for the sale of shares, time is inherently
+of the essence of the contract given that the value of the shares could widely
+fluctuate. Further, only the approval of Respondent No. 3 and the approval of
+lenders is required to be taken and approval of the Competition Commission of
+India (CCI) is not required. Pertinently, clause 3.6 is applicable to sale of
+shares to third parties and not to private participants and a separate 90 day
+timeline is provided in case of sale to third parties. Further, it is settled
+in law that the terms of a contract are to be interpreted as they are.
+
+O.M.P. (I) (COMM.) 96/2019 Page 12 of 67
+
+e) Respondent No. 1 has always been ready and willing to perform its part of
+the transaction whereas, Petitioner does not possess the financial means to
+complete the sale transaction and is hence, delaying the same.
+
+f) Petitioner's case, even if taken at face value demonstrates that the
+balance of convenience does not lie in favour of the Petitioner. By the
+Petitioner's own case, a transfer to Respondent No. 3 would still require all
+the approvals required as with a transfer to the Petitioner (other than
+approval of Respondent No. 3 itself). Transfer to Respondent No. 3 would
+therefore, per Petitioner's admitted case, not happen instantaneously. Even if
+Respondent No. 3 were to decline the offer and a transfer had to be made to a
+third party, approval requirements would become even more onerous, and the
+consummation of the sale/purchase would not be instantaneous.
+
+PROCEEDINGS IN THE PETITION
+
+11\. The petition first came up before this Court on 2 nd April 2019. Notice
+was issued on 11th April 2019 and on the said date, Mr. Amit Sibal, learned
+counsel for Respondent No. 1, on instructions, made a statement to the effect
+that no adverse action shall be taken till the next date of hearing.
+Thereafter, the matter was heard on a day to day basis and the statement given
+to the Court was extended and continues to remain in operation. The
+possibility of settlement was explored by the parties on multiple dates,
+however it could not be materialized. On 8th May, 2019, this Court granted an
+opportunity to O.M.P. (I) (COMM.) 96/2019 Page 13 of 67 the parties, to prove
+their bona fides in an attempt to facilitate settlement between the parties.
+The relevant portion of the said order reads as under:
+
+> "2. ..........On being enquired by the Court whether the Respondent No.l is
+> still ready and willing to sell the shares in question to the Petitioner,
+> Mr. Sibal on instructions states that without prejudice to the rights and
+> contentions of the Respondent No.l and without conceding any of the
+> contentions and objections raised in the reply, in order to show the bona
+> fides. Respondent No.l is agreeable to transfer the shares in Mumbai
+> International Airport Limited (MIAL) to the Petitioner, subject to the
+> Petitioner itself or through MIAL furnishing the requisite documents that
+> are necessary to obtain the requisite approvals and certain other conditions
+> set out below. According to him, the documents, required for obtaining
+> approvals are (a) request letter to Airports Authority of India (AAI), (b)
+> request letter to the lenders acting through the State Bank of India as a
+> lead bank and the security trustees, (c) term sheet.
+
+> 3\. Mr. Sibal submits that besides the afore-noted documentation, it may
+> also be necessary for the Court to issue directions including to MIAL and
+> the lenders, in order to expedite the approval process. Mr. Sibal also
+> submits that before the Court proceeds to issue such directions and
+> Respondent no. 1 initiates the process of taking approvals, having regard to
+> fact that the amount involved in the transaction is 1248,75,00,000/-, it is
+> essential that the Petitioner should also exhibit its bona fide and show the
+> readiness to complete the transaction. The Petitioner should thus be called
+> upon to demonstrate to the satisfaction of the court and the Respondent no.
+> 1 its financial means and capability including readily available funds to
+> purchase the shares as of today. He assures that subject to the above,
+> Respondent No.l expects that all the requisite approvals would be obtained
+> within 20 days from the date of receipt of the necessary documentation from
+> the Petitioner (itself or through MIAL) and the Respondent no. 1 will keep
+> the shares in a deliverable state provided that such documentation is
+> provided within two business days of the Petitioner showing readily
+> available funds.
+
+O.M.P. (I) (COMM.) 96/2019 Page 14 of 67
+
+> 4\. On the basis of the above statement, the court has enquired from Mr.
+> Kartik Nayar, learned counsel for the Petitioner, whether the above proposal
+> would be acceptable to the Petitioner, with the condition that on the
+> approvals being obtained by Respondent No.l, Petitioner shall pay the
+> consideration towards the purchase of the shares within 5 days from the date
+> of the approval. Mr. Nayar seeks time to take instructions from his clients.
+
+> 5\. Mr. Abhinav Vashist, learned senior counsel appearing on behalf of
+> Respondent No.3 states that it is the stand of the AAI that the Petitioner
+> has lost the right to avail the benefit of the ROFR Clause."
+
+12\. However, despite the above order, no compromise could be arrived at
+between the parties. Hence, the learned counsels for the parties have been
+heard at length.
+
+ANALYSIS & FINDINGS Scope of section 9 of the Act
+
+13\. Mr. Rajiv Nayar, learned senior counsel for the Petitioner has laid
+considerable emphasis on the scope of the present proceedings under Section 9
+of the Act. He opened his arguments by saying that the Court should take into
+consideration the fact that Petitioner has already invoked the arbitration
+clause and appointed its nominee Arbitrator on 25th April 2019 and Respondent
+No. 1 in response thereto has also appointed his nominee. The two nominee
+Arbitrators are now in the process of appointing the Presiding Arbitrator as
+per the mandate of the Arbitration Clause. The arbitration proceedings are
+likely to commence shortly between the parties. He then contended that in view
+of the impending arbitration, the subject matter of O.M.P. (I) (COMM.) 96/2019
+Page 15 of 67 the arbitration agreement should be preserved, failing which the
+Petitioner would be left with no remedy in the event the Petitioner were to
+succeed in the Arbitration Proceedings. Mr. Nayar also referred to the
+amendment in Section 9 introduced by the amending Act of 2015 and urged that
+Section 9 (3) of the Act mandates that the Court shall not entertain an
+application under Sub Section (1) of Section 9, unless exceptional
+circumstances exist that may render the remedy provided under Section 17
+inefficacious. He submitted that pursuant to the amendment introduced under
+Section 17 of the Act, the Arbitral Tribunal has now been bestowed with the
+power to grant interim measures and when the Arbitral Tribunal is so
+constituted, the Courts would ordinarily refrain from entertaining the
+petition under Sub- Section (1) of Section 9 of the Act. In essence, his
+submission is that the Tribunal is in a better position to gauge the scope of
+the arbitration proceedings. This visibility is not there before the Court
+while deciding a petition under Sub Section (1) of Section 9 of the Act, at a
+stage prior to the initiation of the arbitration proceedings. It was further
+argued that the questions relating to the interpretation of the terms and
+conditions of the Contract are to be decided in the arbitration proceedings
+and not by the Court in a petition under Section 9 of the Act and the Court
+should grant interim relief so that the arbitration proceedings are not
+rendered infructuous. It was also stressed that the shares in question are not
+freely available in the market and therefore in the instant case, Petitioner
+would not be in a position to estimate the damages or losses on account of the
+breach committed by the Respondent No. 1 in not transferring the shares to the
+Petitioner as mandated under Clause 3.7.1 of SHA. He also argued that at this
+stage, the requisite tests that are applicable to an injunction application
+O.M.P. (I) (COMM.) 96/2019 Page 16 of 67 in a suit for Specific performance
+should not be applied and court should focus on preserving the subject matter
+of the arbitration. He also relied upon Adhunik Steels (supra) and several
+other decisions of this Court such as National Highways Authority of India v.
+Elsamex-Tws-Snc Joint Venture 150 (2008) DLT 215 to buttress the submission
+that the Court is empowered to pass an interim order in the nature of an
+interim measure for preservation of the subject matter of the arbitration till
+the disposal of the dispute before an Arbitral Tribunal.
+
+14\. There is an apparent fallacy in the submissions advanced by Mr. Nayar on
+this issue. The Court while exercising its power under Section 9 of the Act
+for grant of interim measures cannot decide the petition de hors the context
+of the arbitration proceedings. Sub Section (3) of section 9 of the Act read
+along with amended Section 17 of the Act cannot be construed to mean that the
+Court's jurisdiction under Sub Section (1) of Section 9 is reduced or curbed.
+From the reading of the amended Section 9 and/or Section 17 it cannot be
+interpreted that the Court while deciding the petition under Section 9 of the
+Act should apply a different standard, only because the arbitral tribunal is
+now empowered to pass orders of interim nature that are enforceable as an
+order of the Court. Section 9 of the Act clearly provides that while passing
+an order under the aforesaid provision, the Court "shall have the same power
+for making orders as it has for the purpose of, and in relation to, any
+proceedings before it". Sub Section (3) of Section 9 does not limit or impede
+or interfere with the power of the Court to pass the order, as is being
+suggested by the learned counsel for the Petitioner. The scope of Section 9
+cannot be limited only to the extent of preservation of the O.M.P. (I) (COMM.)
+96/2019 Page 17 of 67 subject matter. The Court should not ignore the ultimate
+relief in the instant case [specific performance of contract] that a party
+intends to seek in the arbitration proceedings and confine the enquiry only on
+the aspect of preserving the subject matter till the adjudication of the
+dispute, just because there are several disputed contentions between the
+parties that required adjudication. Preservation of the "subject matter" may
+be necessary, however, that cannot be granted on the asking of a party.
+Furthermore, the Court while exercising its jurisdiction is also required to
+take guidance from the relevant provisions of CPC, 1908. It would be apt to
+refer to the judgment of this Court in Modi Rubber ltd v. Guardian
+International Corp. 2007 SCC OnLine Del 502, where the Court has succinctly
+and correctly defined the scope of the proceedings under Section 9 of the Act
+in the following words:-
+
+> "287. It is also necessary to examine the parameters within which the Court
+> shall exercise such power. The manner and limits of exercise of such
+> discretion have fallen for consideration in several judicial pronouncements
+> and the principles laid down can be usefully called out thus:
+
+> (i) Even though Section 9 does not embody the ingredients of Order 38 Rule 5
+> of the Code of Civil Procedure, 1908 nor the conditions of the Order 38 Rule
+> 5 can be read into it, however for the exercise of discretion thereunder,
+> the Court can take guidance from the provisions of Order 39 as well as Order
+> 38 of the Code of Civil Procedure, 1908 [Ref. 2004 (4) AD (Delhi) 618 : 2004
+> (75) DRJ 104, Rite Approach Group Ltd. v. Rosoboron Export].
+
+> (ii) The scope of Section 9 of the Arbitration and Conciliation Act, 1996 is
+> in parimeteria with the provisions of Order 39 of the Code of Civil
+> Procedure, 1908. The power vested in the Court by O.M.P. (I) (COMM.) 96/2019
+> Page 18 of 67 virtue of Section 9 must be exercised in consonance with
+> equity which tempers the grant of discretionary relief as the relief of
+> interim injunction is wholly equitable in nature. [Ref. (1995) 5 SCC 545,
+> Gujarat Bottling Co. Ltd. v. Coca Cola; 2004 (8) AD (Delhi) 361, Reliance
+> Infocomm Ltd. v. Bharat Sanchar Nigam Ltd.]
+
+> (iii) The intention of the defendant is a sine qua non for invoking Section
+> 9 where the claim is to secure the amount in dispute in arbitration. The
+> Court can take guidance from Order 38 Rule 5 of the CPC and Sections 18 and
+> 41 of the Arbitration Act, 1940 for considering whether such a relief as has
+> been prayed for in the petition under Section 9 deserves to be granted [Ref.
+> AIR 1998 Delhi 397 : 1998 (3) RAJ, Global Co. v. National Fertilisers Ltd.;
+> 2005 (2) AD (Delhi) 592, Mala Kumar Engineers Pvt. Ltd. (MKE) v. B.
+> Seenaiah& Co. (Projects) Ltd.).
+
+> (iv) Protection under Section 9 can be granted only when a prima facie case
+> is made out and balance of convenience and possibility of irreparable loss
+> and injury to the petitioner is made out. Section 23 of the Specific Relief
+> Act, 1963 provides that the provision of liquidated damages is not a bar to
+> the specific performance of the contract. The general rule of equity is also
+> that if a thing is agreed to be done, though there is a penalty attached
+> thereto to secure its performance, yet the Court in its discretion enforces
+> specific performance thereof. The jurisdiction of the Court is discretionary
+> and must be exercised on such judicial principles when balance of
+> convenience and possibility of irreparable loss and injury is shown to the
+> plaintiff [Ref. 2005 (120) DLT 387, Geep Batteries (India) Pvt. lid. v.
+> Gillette India Ltd.; 2005 (81) DRJ 233, Techno Construction v. Kunj Vihar
+> Co-operative Group Housing Society].
+
+> (v) The discretionary power of the Court under Section 9 has to be exercised
+> by the Court sparingly and cautiously, bearing in O.M.P. (I) (COMM.) 96/2019
+> Page 19 of 67 mind that the objective of the Court is to create an
+> alternative dispute redressal mechanism and, consequently, the interference
+> by the Court is not required at every stage [Ref. 2006 (128) DLT 694 DB,
+> Sanrachna (India) Inc. v. AB Hotels Ltd.].
+
+> Whenever the powers of the Courts are invoked under Section 9 with the
+> objective of supporting the arbitration, the Court must act with alacrity.
+> However, this would not justify grant of interim orders and relief on the
+> mere asking [Ref. 2000 (6) AD (Delhi) 509 : 2000 (55) DRJ 750, CREF Finance
+> Ltd. v. Puri Construction Ltd.; 2006 (91) DRJ 83, Sea Transport Contractors
+> Ltd. v. Indian Farmers Fertilizers Co-operative Ltd.].
+
+> (vi) The scope and object of Section 9 of the statute is to grant such
+> relief by way of interlocutory injunction so as to mitigate the risk or
+> injustice to the petitioner during the period before that uncertainty can be
+> resolved. Its object is to protect the plaintiff against injury by violation
+> of his right for which he could not be adequately compensated in damages
+> which would be recoverable in the action if the uncertainty were resolved in
+> his favour at the trial [Ref. (1995) 5 SCC 545 : AIR 1995 SC 2372, Gujarat
+> Bottling Co. v. Coca Cola & Co.; 2006 (4) AD (Delhi) 38, Country Development
+> & Management Services Pvt. Ltd. v. Brookeside Resorts Pvt. Ltd.]. In 2006
+> 133 DLT 153, Shaw v. Him Neel Brewaries Ltd., learned Single Judge of this
+> Court held that the interim orders are calculated to ensure that the assets
+> of the party are not dissipated or frittered away and that such orders do
+> not fall within the moratorium of Section 22.
+
+> (vii) The application seeking interim measures of protection under Section 9
+> of the Arbitration and Conciliation Act, 1996 pertaining to the
+> preservation, interim custody or sale of equipment which is the subject
+> matter of the agreement would be covered under Section 9(ii)(a) as also
+> under Sections 9(ii)(c), O.M.P. (I) (COMM.) 96/2019 Page 20 of 67 9(ii)(d)
+> and 9(ii)(e) of the Act [Ref. 2006 (3) AD (Delhi) 168 : 2006 (87) DRJ 225 :
+> AIR 2006 Delhi 134, National Highways Authority of India (NHAI) v. China
+> Coal Construction Group Co.].
+
+> (viii) The Court has the power to pass an order under Section 9 during the
+> pendency of the arbitration or even after the arbitral award but before the
+> award is enforced in accordance with Section 36. Such order can be passed
+> for preservation, interim custody or sale of any goods which are the subject
+> matter of the arbitration agreement or securing the amount in the dispute
+> and the like [Ref. 2006 (128) DLT 694, Sanrachna (India) Inc. v. AB Hotels
+> Ltd.; 2000 (87) DLT 449, CREF Finance Ltd. v. Puri Construction].
+
+> (ix) The power under Section 9 to grant interim relief is available to the
+> Court while under Section 17, such powers to make interim measures are made
+> available to the Arbitral Tribunal. Even though there may be some degree of
+> overlap between the two provisions, however, the powers under Section 9 are
+> much wider inasmuch as they extend to the pre and post award period as well
+> as with regard to the subject matter and the nature of the orders which the
+> Court is empowered to pass. Therefore, pendency of an application under
+> Section 17 before the Arbitral Tribunal does not denude the Court of its
+> power to make an order for interim measures under Section 9 of the statute
+> [Ref. 2006 (3) AD (Delhi) 168 : 2006 (87) DRJ 225 : AIR 2006 Delhi 134,
+> National Highways Authority of India (NHAI) v. China Coal Construction Group
+> Co.]
+
+> (x) It has been held that though Section 9 enables a party, before or during
+> arbitral proceedings or at any time after the making of the arbitral award
+> but before it is enforced under Section 36 of the Act, may apply to the
+> Court for an interim order under Section 9, however, without a substantive
+> move for reference or declaration on the petitioner's stand on the
+> substantive relief by O.M.P. (I) (COMM.) 96/2019 Page 21 of 67 an
+> appropriate forum, Section 9 cannot be invoked for grant of interim relief
+> [Ref. (2004) 3 SCC 155, Firm Ashok Tralers v. Gurmukh Das; (1999) 2 SCC 479
+> : AIR 1999 SC 565, Sudarshan Finance Ltd. v. NEPC; 1998 (1) AD (Delhi) 513 :
+> 1998 (44) DRJ 399, National Building Construction Corporation Ltd. (NBCC) v.
+> Ircon International Ltd.]."
+
+15\. No doubt the question as to whether the agreement between the parties was
+validly concluded or whether it was validly terminated has to be determined
+only in the arbitration proceedings and cannot be determined in a petition
+under Section 9 of the statute [Ref. 2002 (8) AD (Delhi) 617 : 2003 (66) DRJ
+239, S. Raminder Singh v. NCT of Delhi]." Nonetheless, the Court is of the
+considered opinion that a party applying under Section 9 of the Act, has to
+establish the well known attributes that are necessary for grant of the
+equitable relief of injunction. The general rules that govern the Court while
+considering the grant of interim injunction, are equally applicable while
+dealing with a petition under Section 9 of the Act. The threshold of prima
+facie case has to be rigidly applied and should be shown to exist in favour of
+the Petitioner. Here, the prima facie case has to be understood in some
+context and cannot be decided in vacuum without referring to the facts and
+circumstances of the case. The Petitioner may be correct in saying that the
+potential claim today has not been crystallized, however the relief of interim
+measure has to be examined and evaluated keeping in mind the ultimate relief
+that the Petitioner is intending to seek in the arbitration proceedings which
+unmistakably inter alia includes relief of specific performance of the
+obligations of Respondent No. 1 under the SHA.
+
+O.M.P. (I) (COMM.) 96/2019 Page 22 of 67
+
+16\. The Petitioner thus cannot be relieved of its burden to establish pre-
+requisite obligation to show readiness and willingness to perform its
+obligations for obtaining the relief of specific performance. The present
+petition is one under Section 9 of the Act but nevertheless the rigors of
+grant of interim relief in a case relating to specific performance would since
+apply in the same degree. The Supreme Court in Adhunik Steels Ltd v. Orissa
+Manganese and Minerals (P) Ltd. (2007) 7 SCC 125 has held as under:-
+
+> "10. It is true that Section 9 of the Act speaks of the court by way of an
+> interim measure passing an order for protection, for the preservation,
+> interim custody or sale of any goods, which are the subject matter of the
+> arbitration agreement and such interim measure of protection as may appear
+> to the court to be just and convenient. The grant of an interim prohibitory
+> injunction or an interim mandatory injunction are governed by well known
+> rules and it is difficult to imagine that the legislature while enacting
+> Section 9 of the Act intended to make a provision which was de hors the
+> accepted principles that governed the grant of an interim injunction. Same
+> is the position regarding the appointment of a receiver since the Section
+> itself brings in, the concept of 'just and convenient' while speaking of
+> passing any interim measure of protection. The concluding words of the
+> Section, "and the court shall have the same power for making orders as it
+> has for the purpose and in relation to any proceedings before it" also
+> suggest that the normal rules that govern the court in the grant of interim
+> orders is not sought to be jettisoned by the provision. Moreover, when a
+> party is given a right to approach an ordinary court of the country without
+> providing a special procedure or a special set of rules in that behalf, the
+> ordinary rules followed by that court would govern the exercise of power
+> conferred by the Act. On that basis also, it is not possible to keep out the
+> concept of balance of convenience, prima facie case, irreparable injury and
+> the concept of just and convenient while passing interim measures under
+> Section 9 of the Act.
+
+O.M.P. (I) (COMM.) 96/2019 Page 23 of 67
+
+> 14\. In Nepa Limited Vs. Manoj Kumar Agrawal [AIR 1999 MP 57], a learned
+> judge of the Madhya Pradesh High Court has suggested that when moved under
+> Section 9 of the Act for interim protection, the provisions of the Specific
+> Relief Act cannot be made applicable since in taking interim measures under
+> Section 9 of the Act, the court does not decide on the merits of the case or
+> the rights of parties and considers only the question of existence of an
+> arbitration clause and the necessity of taking interim measures for issuing
+> necessary directions or orders. When the grant of relief by way of
+> injunction is, in general, governed by the Specific Relief Act, and Section
+> 9 of the Act provides for an approach to the court for an interim
+> injunction, we wonder how the relevant provisions of the Specific Relief Act
+> can be kept out of consideration. For, the grant of that interim injunction
+> has necessarily to be based on the principles governing its grant emanating
+> out of the relevant provisions of the Specific Relief Act and the law
+> bearing on the subject."
+
+17\. The aforesaid decision has also been consistently followed and upheld in
+several other decisions. I am unable to see as to how the judgment in Adhunik
+Steel Ltd. (supra) is of any assistance to the Petitioner. On the contrary, in
+the said judgment as noted above, the Supreme Court has held that it would not
+be correct to say that the power under Section 9 of the Act is totally
+independent of the well known principles governing the grant of interim
+directions that generally govern the Courts in this direction. The other
+judgments relied upon by the Petitioner in Firm Ashok Traders and Anr. v.
+Gurumukh Das Saluja & Ors, (2004) 3 SCC 155 and of this Court in National
+Highways Authority (supra) and the judgment of the Supreme Court in N.
+Srinivasa v Kuttukaran Machine Tools Ltd. (2009) 5 SCC 162, lay down a well
+settled proposition in law that the interpretation of the terms O.M.P. (I)
+(COMM.) 96/2019 Page 24 of 67 and conditions of the Contract is to be decided
+in the arbitration proceedings and not by the Court in the petition under
+Section 9 of the Act. Although the Apex Court in Firm Ashok Traders (supra)
+has held that the court under Section 9 is only formulating interim measures
+so as to protect the right under adjudication before the Arbitral Tribunal
+from being frustrated, however, the same cannot be interpreted to mean that
+such interim relief has to be granted as a matter of fact de hors the final
+relief sought. In the case of Ajay Singh v Kal Airways Private Limited
+[2018]209CompCas154(Delhi) following Films Rover International Ltd. v. Cannon
+Film Sales Ltd. (1986) 3 All ER 772, it has been observed that the principal
+dilemma about the grant of interlocutory injunctions, whether prohibitory or
+mandatory, is that there is by definition a risk that the court may make the
+'wrong' decision, in the sense of granting an injunction to a party who fails
+to establish his right at the trial (or would fail if there was a trial) or
+alternatively, in failing to grant an injunction to a party who succeeds (or
+would succeed) at trial and a fundamental principle is therefore that the
+court should take whichever course appears to carry the lower risk of
+injustice, keeping in view the final relief sought in the trial if it should
+turn out to have been 'wrong' in the sense described.
+
+18\. The above observations lay down fundamental principles to be applied when
+it comes to granting injunctions and from a reading of the several judgments
+relied upon by the Petitioner and the Respondent, it clearly emerges that the
+volley of allegations leveled by both the parties concerning their conduct,
+construction and interpretation of the Contract are within the realm of the
+arbitration proceedings. I do not intend to decide any of several O.M.P. (I)
+(COMM.) 96/2019 Page 25 of 67 disputed questions of fact relating to the
+conduct, viz. existence of a concluded contract; whether time is the essence
+of the Contract etc. But it does not mean that the Court is denuded of its
+power to delve into the facts of the case to ascertain whether the Petitioner
+fulfills the criteria for grant of ad interim injunction. To this limited
+extent the Court has to necessarily form a prima facie view. While undertaking
+this exercise, the corresponding rights of the Respondent would also be
+required to be examined. The principle of balance of convenience would also
+have to be applied while arriving at the just conclusion. The Petitioner's
+argument that at this stage the test of specific performance and the attending
+attributes for grant of interim order need not be applied is not appealing and
+I reject the same. I would like to make it clear that the opinion expressed
+later in the judgment, is only a prima facie view of the matter and the same
+would not influence the proceedings before the Arbitrator. The examination and
+evaluation of the facts has been done only to the extent it was necessary to
+determine as to whether the Petitioner is entitled to grant of an interim
+injunction or order.
+
+Enforceability of ROFR as a negative covenant
+
+19\. Mr. Nayar has strenuously argued that ROFR under the SHA is in the nature
+of a negative covenant. He argued that Petitioner has exercised its ROFR under
+Clause 3.7 of the SHA and Respondent No. 1 is now bound to transfer the same
+to the Petitioner and Respondent No.1's understanding is based on an erroneous
+interpretation of the SHA, and at this stage since it has refused to comply
+with its obligations, Petitioner is entitled to enforce the negative covenant.
+Mr. Rajiv Nayar also argued that Section 42 of the Specific Relief Act, begins
+with the non-obstante clause "notwithstanding O.M.P. (I) (COMM.) 96/2019 Page
+26 of 67 anything contained in Clause (e) of Section 41" and the Court is not
+precluded to grant an injunction to perform the negative agreement even if
+there are circumstances that prevent the Court to compel specific performance
+of the affirmative agreement. In support of this contention, Mr. Nayar has
+relied upon several judgments including the decisions of the Supreme Court of
+Canada and several other foreign judgments in support of his contentions that
+a right of first refusal in essence is a negative covenant. The relevant
+portions of the said judgments read as under:-
+
+(a) In Canadian Long Island Petroleums Ltd. et al. v. Irving Industries Ltd.,
+[1975] 2 S.C.R. 715, the Supreme Court of Canada held:
+
+> "In my opinion the right conferred by cl. 13 of the agreement in question
+> here did not create property rights. Each party agreed that upon the
+> occurrence of a certain event, which was within its own control, the other
+> party would have a first right of purchase for a 30-day period. As mentioned
+> previously, the clause is a part of an agreement between joint owners of a
+> property, governing the operation and development of it. In essence it is a
+> negative covenant whereby each party agrees not to substitute a third party
+> as a joint owner with the other, without permitting the other party the
+> opportunity, by meeting the proposed terms of sale, to acquire full
+> ownership.
+
+> As I have already indicated, the provisions of cl. 13 involve a negative
+> covenant not to part with Sadim‟s interest in the land to any other person
+> without giving a first right of refusal to the respondents. This was a
+> restrictive covenant given to the respondents for the benefit of their
+> undivided one-half interest in the land. In equity the covenant bound the
+> appellant Long Island unless it could establish, as clearly on the evidence
+> it could not, that it had obtained title without notice of the covenant."
+
+O.M.P. (I) (COMM.) 96/2019 Page 27 of 67
+
+(b) In AstraZeneca UK Ltd v Albemarle International Corp & Anor.,[2011] EWHC
+1574 (Comm), the Queen's Bench Division (Commercial Court) held "24. However,
+I agree with Mr Odgers that a convenient starting point is the passage in
+Halsbury‟s Laws of England (4thedn), volume 9(1), Reissue, at paragraph 641:
+
+„641. First refusals Similar to the contract of option is the contract of
+"first refusal" or "pre-emption", whereby one person (A) enters into a
+contract with a second person (B) which provides that if A contemplates
+entering into a certain defined contract or type of contract with anyone, he
+will first offer to do so with B. That type of contract differs from the
+contract of option in that A has made no positive offer; his duty will usually
+be the purely negative one of not contracting with any third person (C) in the
+defined respect unless and until he has first offered to do so with B, though
+that offer may be conditional or assignable; but it is conceivable that his
+duty may merely be that, if he does so contract with C, he will make that
+contract subject to B‟s right of first refusal. Where A in breach of the first
+refusal contract sells to C, it may be that the first refusal becomes an
+option. There may be a contract of option and first refusal, whereby B is
+given an option and a right of first refusal; or where B is granted an option
+in return for his granting A a right of first refusal. Similarly, there may be
+a contract of double option where each grants the other an option on the
+happening of a certain event.
+
+A difficulty with contracts of first refusal is whether the parties have
+completed their negotiations and have reached an agreement; if not, there may
+be no binding contract, merely an agreement to negotiate. On the other hand,
+there may be a binding provisional or conditional agreement; or a binding
+collateral agreement not to negotiate with a third party (a "lock-out
+agreement"). Where the parties have not completed their negotiations, it seems
+that a binding "lockout" agreement cannot be created by implying a term that A
+will continue to O.M.P. (I) (COMM.) 96/2019 Page 28 of 67 negotiate with B in
+good faith; but it may be that an express agreement to use best endeavours to
+conclude a contract with B is binding, whereas there can be no contract on the
+basis of such an implied term."
+
+(c) In Geoffrey John Dear v. Reginald Graham Reeves [2001] EWCA Civ 277, the
+Court of Appeal held:
+
+> "38. I am in no doubt that the right of pre-emption conferred by the deed of
+> 1 August 1988 is "property" within the definition in section 436 of the 1986
+> Act and that it is accordingly vested in the trustee. The judge was wrong in
+> treating it as still vested in Mr Reeves.
+
+> 41\. It is a "thing in action" in the sense that
+
+> i) there exists a negative obligation, which would not exist but for the
+> Deed of pre-emption;
+
+> ii) it is binding on the grantor, who obliged not to sell the Property to
+> anyone without first making an offer to the grantee;
+
+> iii) in the event of a decision of the grantor to sell the Property, the
+> obligation is enforceable by legal action by the grantee or his assignee;
+
+> iv) in such an action the grantee could obtain an injunction to restrain
+> sale of the Property to another person, until the grantor has first made an
+> offer to the grantee and the grantee has failed or refused to take up the
+> offer; and, if the grantor sells the Property to another person without
+> first offering it to the grantee, he may be liable in damages to the grantee
+> for breach of contract."
+
+20\. Per contra, Mr. Amit Sibal has sought to distinguish the said judgments
+on facts. He argued that Clause 3.7.1 of the SHA does not envisage any
+negative covenant whether express or implied. On the contrary, the ROFR casts
+upon the share holder, the obligation to offer its share to the other
+shareholders, which is a positive covenant. Petitioner's interpretation that
+the O.M.P. (I) (COMM.) 96/2019 Page 29 of 67 ROFR is an implied negative
+covenant is erroneous. The positive obligation to offer the shares to existing
+shareholders before selling the shares to a third party, and the perceived
+negative covenant to not sell the shares to a third party during this offer
+period, are two sides of the same coin.
+
+21\. Before proceeding further, let us first examine the relevant provisions
+of the Specific Relief Act ("SRA") dealing with the concept of the negative
+covenant. The relevant Sections of the Act read as under:-
+
+> "16. Personal bars to relief.--Specific performance of a contract cannot be
+> enforced in favour of a person-- [(a) who has obtained substituted
+> performance of contract under section 20; or]
+
+> (b) who has become incapable of performing, or violates any essential term
+> of, the contract that on his part remains to be performed, or acts in fraud
+> of the contract, or wilfully acts at variance with, or in subversion of, the
+> relation intended to be established by the contract; or
+
+> (c) [who fails to prove] that he has performed or has always been ready and
+> willing to perform the essential terms of the contract which are to be
+> performed by him, other than terms of the performance of which has been
+> prevented or waived by the defendant.
+
+> Explanation.--For the purposes of clause (c),--
+
+> (i) where a contract involves the payment of money, it is not essential for
+> the plaintiff to actually tender to the defendant or to deposit in court any
+> money except when so directed by the court;
+
+> (ii) the plaintiff [must prove] performance of, or readiness and willingness
+> to perform, the contract according to its true construction."
+
+O.M.P. (I) (COMM.) 96/2019 Page 30 of 67
+
+> "41. Injunction when refused.--An injunction cannot be granted--
+
+> (a) to restrain any person from prosecuting a judicial proceeding pending at
+> the institution of the suit in which the injunction is sought, unless such
+> restraint is necessary to prevent a multiplicity of proceedings;
+
+> (b) to restrain any person from instituting or prosecuting any proceeding in
+> a court not subordinate to that from which the injunction is sought;
+
+> (c) to restrain any person from applying to any legislative body;
+
+> (d) to restrain any person from instituting or prosecuting any proceeding in
+> a criminal matter;
+
+> (e) to prevent the breach of a contract the performance of which would not
+> be specifically enforced;
+
+> (f) to prevent, on the ground of nuisance, an act of which it is not
+> reasonably clear that it will be a nuisance;
+
+> (g) to prevent a continuing breach in which the plaintiff has acquiesced;
+
+> (h) when equally efficacious relief can certainly be obtained by any other
+> usual mode of proceeding except in case of breach of trust;
+
+> (i) when the conduct of the plaintiff or his agents has been such as to
+> disentitle him to the assistance of the court;
+
+> (j) when the plaintiff has no personal interest in the matter."
+
+> "42. Injunction to perform negative agreement.-- Notwithstanding anything
+> contained in clause (e) of section 41, where a contract comprises an
+> affirmative agreement to do a certain act, coupled with a negative
+> agreement, express or implied, not to do a certain act, the circumstance
+> that the court is unable to compel specific performance of the affirmative
+> O.M.P. (I) (COMM.) 96/2019 Page 31 of 67 agreement shall not preclude it
+> from granting an injunction to perform the negative agreement: Provided that
+> the plaintiff has not failed to perform the contract so far as it is binding
+> on him."
+
+22\. Section 16 (c) of SRA, specific performance of a contract cannot be
+enforced in favor of a person who fails to prove that he has performed or has
+always been "ready and willing" to perform the essential terms of the contract
+which are to be performed by him. This provision has to be read along with
+Section 41 (e) of SRA which enjoins the Court not to grant injunctions to
+prevent the breach of a contract, in case the performance whereof cannot be
+specifically enforced. Section 42 has been framed as a non-obstante clause,
+notwithstanding the embargo contained in Section 41
+
+(e) of the Act. However, it does not mean that it is a mandate to the Court to
+grant an injunction for performance of a negative covenant in every case. The
+principle laid down by the Supreme Court in Gujarat Bottling Co. Ltd. V. Coca
+Cola (1995) 5 SCC 545 enunciates the facets which must be borne in mind by the
+Court while granting injunction. Though in the facts and circumstances of the
+afore-noted case, an injunction was granted for enforcement of a negative
+covenant, it was observed that the Court must exercise its discretion and is
+not bound to grant an injunction wherever there exists a negative covenant.
+The Petitioner has to necessarily establish and base its case on the well
+known judicial principles relating to grant of interlocutory injunction i.e.
+(i). whether the Petitioner has made out a prima facie case; (ii). whether the
+balance of convenience is in favor of the Petitioner;(iii). whether the
+Petitioner would suffer irreparable loss or injury, if the prayer for
+interlocutory injunction were to be refused. The Supreme O.M.P. (I) (COMM.)
+96/2019 Page 32 of 67 Court in the said case has held as under:
+
+> "42. In India section 42 of the Specific Relief Act, 1963 prescribes that
+> notwithstanding anything contained in clause (e) of Section 41, where a
+> contract comprises an affirmative agreement, express or implied, not to do a
+> certain act, the circumstances that the court is unable to compel specific
+> performance of the affirmative agreement shall not preclude it from granting
+> an injunction to perform the negative agreement. This is subject to the
+> proviso that the plaintiff has not failed to perform the contract so far as
+> it is binding on him. The Court is, however, not bound to grant an
+> injunction in every case and an injunction to enforce a negative covenant
+> would be refused if it would indirectly compel the employee either to
+> idleness or to serve the employer. [See: Ethrman v. Bartholomew. (1927) W.N.
+> 233; N.S.Golikari (supra) at p. 389].
+
+> 43\. The grant of an interlocutory injunction during the pendency of legal
+> proceedings is a matter requiring the exercise of discretion of the court.
+> While exercising the discretion the court applies the following tests - (i)
+> whether the plaintiff has a prima facie case; (ii) whether the balance of
+> convenience is in favour of the plaintiff; and (iii) whether the plaintiff
+> would suffer an irreparable injury if his prayer for interlocutory
+> injunction is disallowed. The decision whether or not to grant an
+> interlocutory injunction has to be taken at a time when the existence of the
+> legal right assailed by the plaintiff and its alleged violation are both
+> contested and uncertain and its alleged violation are both contested and
+> uncertain and remain uncertain till they are established at the trial on
+> evidence. Relief by way of interlocutory injunction is granted to mitigate
+> the risk of injustice to the plaintiff during the period before that
+> uncertainty could be resolved. The object of the interlocutory injunction is
+> to protect the plaintiff against injury by violation of his right for which
+> he could not be adequately compensated in damages recoverable in the action
+> if the uncertainty were resolved in his favour at the trial. The need for
+> such protection has, however, to be weighed against the corresponding need
+> of the defendant to be protected against injury resulting from his having
+> been prevented from O.M.P. (I) (COMM.) 96/2019 Page 33 of 67 exercising his
+> own legal rights for which he could not be adequately compensated. The court
+> must weigh one need against another and determine where the 'balance of
+> convenience' lies. [see:Wander Ltd.&Anr. v,.Antox India P. Ltd., 1990 (suoo)
+> Scc 727 at pp. 731-32]. In order to protect the Defendant while granting an
+> interlocutory injunction in his favour the Court can require the plaintiff
+> to furnish an undertaking so that the defendant can be adequately
+> compensated if the uncertainty were resolved in his favour at the trial."
+
+Whether there is a separate distinct negative covenant?
+
+23\. Now let's analyze the ROFR clause to see if it contains a negative
+covenant. A bare reading of Clause 3.7.1 of the SHA shows that this clause on
+its own does not restrict or prohibit Respondent No. 1 to sell its shares to a
+third party. It only gives the Petitioner a right of first refusal, prior to
+affecting a sale to a third party. The question that arises for consideration
+is whether such a right would constitute a negative covenant.
+
+24\. The situation in hand is quite similar to the one in Percept D'Mark India
+Pvt. v Zaheer Khan AIR 2006 SC 3426. In the said case, the Supreme Court has
+inter alia held as under:-
+
+> ""Clause 31(b) of the agreement merely provides for an obligation of
+> respondent No. 1 to give an opportunity to the appellant to match the offer,
+> if any, received by respondent No. 1 from the third party. This clause does
+> not per se restrict or prohibit respondent No. 1 to enter into any contract
+> with a third party but at best it provides the appellant with an opportunity
+> to gain from the advertisements the appellant has made in the process of
+> marketing and creation of the image of respondent No. 1 which was gradually
+> built up by the appellant. This clause does not restrict the right of
+> respondent No. 1 to O.M.P. (I) (COMM.) 96/2019 Page 34 of 67 accept any
+> offer for endorsement, promotion, advertising or other affiliation either on
+> his own or through any party in the event of failure of the appellant to
+> match the offer of the third party from whom respondent No. 1 would receive
+> any offer, respondent No. 1 would be free to contract with such third
+> party."
+
+> (Emphasis supplied)
+
+> 25\. Mr. Amit Sibal is correct in saying that in the agreement there is no
+> negative covenant distinct from a positive covenant as envisaged in section
+> 42 of the Act. The said provision envisages the existence of a contract
+> comprising of an affirmative agreement to do a certain act, coupled with a
+> negative agreement, expressed or implied not to do a certain act. The
+> covenant in the agreement not to sell or transfer the shares to a third
+> party stems out of the requirement under the agreement to offer to the
+> existing share holders prior to affecting the sale to a third party. The
+> negative covenant does not exist independent of the positive covenant.
+> Respondent No. 1 has the obligation to offer the shares to the Petitioner
+> and this obligation correspondingly also restricts it from offering the
+> shares to a third party during the ROFR period. Both the obligations go hand
+> in hand and are not separable. I do not agree with the submission of the
+> Petitioner that the negative obligation under the SHA is separate, distinct
+> and severable from the positive obligation. If Petitioner's interpretation
+> is allowed to be sustained, it would render the entire section meaningless.
+> The enforcement of the so called negative covenant is necessarily and
+> intrinsically linked to the fact that the Petitioner has a positive right to
+> exercise its ROFR and is arising out of the positive obligation. There can
+> be a connection between the O.M.P. (I) (COMM.) 96/2019 Page 35 of 67 two,
+> however the standard required for invocation of the negative covenant as
+> provided under Section 42 is not fulfilled in the present case. This Court
+> is not suggesting that the negative covenant has to be necessarily express.
+> It can be implied as well, as stipulated in Section 42 of SRA. Nonetheless
+> the contract must have an affirmative agreement coupled with an independent
+> negative agreement. The ROFR clause cannot be construed as a negative
+> agreement which can be performed by grant of an injunction. In Yogesh
+> Radhakrishnan v. Media Networks & Distribution (India) Ltd. An Ors.
+
+(2013) 135 DRJ 511 has held as under:-
+
+> "The negative covenant, enforcement whereof is provided for in section 42 of
+> the Specific Relief Act has to be distinct from the Agreement which is found
+> to be not enforceable. Section 42 of the Specific Relief Act provides for a
+> situation where even though the agreement may be found to be specifically
+> not enforceable but the defendant has separately agreed not to do a certain
+> act and permits grant of an injunction restraining the defendant from doing
+> that act. It cannot be interpreted as making the agreement which is non-
+> enforceable, enforceable."
+
+26\. In my considered opinion, the ROFR under the SHA is not in the nature of
+a negative covenant. It is at best a restriction that arises correspondent to
+the obligation on the Respondent No. 1 to offer the shares to the Petitioner
+in terms of the ROFR Clause. I have carefully examined the judgments relied
+upon by the Petitioner. The said judgments are distinguishable on facts and do
+not relate to specific performance or injunction in support of specific
+performance. For this Court, the views expressed by the Apex Court in Percept
+D' Mark (supra) and the other judgments referred above are more apt.
+Petitioner has also relied upon other judgments of this Court in support
+O.M.P. (I) (COMM.) 96/2019 Page 36 of 67 of the contention relating to
+enforceability of the negative covenant being Vijaya Minerals Pvt. Ltd. v.
+Bikash Chandra Deb 1995 SCC OnLine Cal 181;Image Advertisingv. Anand
+Prakash176 (2011) DLT 97;Modi Rubber Ltd.v. Guardian International Corp. 2007
+SCC OnLine Del 502;Indian Charge Chrome Ltd.v. Tata Iron and Steel Co. Ltd.,
+1995 SCC OnLine Cal 28; and Rajasthan Breweries Ltd.v. Stroh Brewery Co.,2000
+(55) DRJ (DB).
+
+27\. It is also to be noted that the judgment in Vijaya Minerals Pvt. Ltd. V.
+Bikash Chandra Deb (supra), has been held to be not good law in another
+decision of same strength in SVF Entertainment Pvt. Ltd v Anupriyo Sen Gupta
+(2018) 3 Cal LT 115. All the aforenoted judgments are also distinguishable on
+facts, as the negative covenant involved in the said cases is distinct and
+stand alone. In Modi Rubber Ltd. (supra), the negative covenant on the basis
+whereof injunction was granted was a non-compete clause of the SHA. The Court,
+however need not detain itself by discussing and distinguishing each case, as
+there is no quarrel on the principles enunciated in the said decisions. The
+Courts have been granting injunctions on the basis of a negative covenant
+contained in a contract and there is no dispute on this. However, each case
+would turn on its own facts and the Courts would be required to critically
+analyze the Clause which has been done as discussed above and the result is
+against the Petitioner.
+
+Whether the provisions of Specific Relief Act are not attracted when a party
+is seeking enforcement of a negative covenant?
+
+O.M.P. (I) (COMM.) 96/2019 Page 37 of 67
+
+28\. As noted above, the considered opinion of this Court, there is no
+negative covenant and even for the sake of arguments, if it is assumed that
+there one, it does not mean that the Court while examining the facts of the
+case would not be required to look into the aspects for granting the equitable
+relief of injunction. The Court is not prevented from examining the
+Petitioner's financial means to conclude the transaction and whether it is
+ready and willing to perform its obligations in terms of Section 16 (e) of the
+SRA. This is more so because the ultimate relief of the Petitioner in the
+arbitration proceedings would be enforcement of Petitioner's preferential
+shares. It would be incumbent upon the Court to look into the aspects of
+whether the bar under Sections 16 and 41 (e) of the SRA are attracted or not.
+Petitioner has sought to delink the present case with the ultimate claim in
+the arbitration proceedings by contending that the present petition is only
+for maintaining status quo and preservation of the subject matter till the
+final adjudication between the parties. As already discussed above, I find
+this contention to be meritless.
+
+29\. Before parting with the discussion on the plea of negative covenant, it
+would also be relevant to note that Section 42 of the Act also contains a
+proviso which requires the Petitioner to perform its part of the obligation in
+order to seek the relief of injunction which is otherwise prohibited by virtue
+of Section 41 (e) of SRA. Thus, in case the Court were to come to a conclusion
+that the Petitioner has failed to perform the contract in so far as it is
+binding on it, then notwithstanding the fact that there is a negative
+covenant, the Court would still be entitled to decline the relief for
+injunction. Granting an injunction under Section 42 of the Specific Relief Act
+is not O.M.P. (I) (COMM.) 96/2019 Page 38 of 67 mandatory merely because there
+is a negative covenant. The Court would exercise its discretion in granting
+the equitable relief of injunction, having regard to the elements of prima
+facie case, balance of convenience and irreparable injury.
+
+Whether the Petitioner has established the ingredients for grant of
+injunction?
+
+1\. Prima facie case A) WHETHER THERE IS A CONCLUDED CONTRACT? WHETHER THE
+LONG STOP DATE OF 30 DAYS IS A MANDATORY CLAUSE AND WHETHER TIME IS OF ESSENCE
+? WHETHER THE RESPONDENT NO. 1 HAS WAIVED THE ENFORCEMENT THEREOF? IF YES,
+WHETHER THE 30 DAY TIME PERIOD IS TO BE CALCULATED FROM THE DATE ON WHICH
+APPROVALS ARE OBTAINED?
+
+30\. Mr. Nayar contended that there is a concluded contract between the
+Petitioner and Respondent No. 1 for the transfer of the shares in terms of the
+SHA and the execution of the SPA by Respondent No. 1 is only a formality that
+is required in order to apply for and obtain the various approvals/
+permissions including from statutory authorities and lenders which are needed
+to complete the transaction. It was contended that the petitioner has
+exercised its option vide its letter dated 19th February 2019, even though the
+first PP Offer Notice did not mention the terms and conditions, and
+reconfirmed such exercise vide its letter dated 11th March 2019. Respondent
+No. 1 is bound and liable to abide by the terms of said concluded contract,
+which is in terms of the SHA and complete in all material aspects. In this
+regard, the Petitioner relied on the judgments of the Supreme Court in O.M.P.
+(I) (COMM.) 96/2019 Page 39 of 67 Trimex International FZE Limited Dubai v.
+Vedanta Aluminium India (2010) 3 SCC 1 @ Para 49, 50, 58-60, 63, 64, Old World
+Hospitality Private Limited v. India Habitat Centre 1996 SCC Online Del 580 @
+Para 64-67, 69-70, 73, 94-95
+
+31\. Mr. Nayar further argued that as per the Respondent No. 1's
+interpretation/ stand that the entire transaction had to be consummated within
+30 (thirty) days from the date of the offer notice (though denied by the
+Petitioner), the period of 30 (thirty) days expired long time back on 25 th
+February 2019. However, Respondent No. 1 vide its letter dated 4 th March 2019
+immediately allowed the Petitioner 30 (thirty) more days after making its
+purported offer dated 26th January 2019 and along with the said letter sent
+the SPA which was accepted and signed by the Petitioner. The above is further
+evident inter alia from Respondent No. 1's letter dated 25th April 2019 (which
+it wrote after filing its Reply to the Petition) vide which it wrote to the
+Company's lenders and inter alia stated that furnishing a term sheet is not
+required under the relevant agreements and once again requested the lenders to
+provide their consent. As such, Respondent No. 1's conduct also belies its
+alternative position that the 30 days period expired on 4th April 2019\. Apart
+from the fact that Respondent No. 1 has delayed the process of applying for
+approvals even though it now continues to treat the agreement between the
+parties as subsisting despite the period of 30 days having been purportedly
+expired on 25th February 2019. Respondent No. 1's aforesaid position is also
+contrary to its conduct as well as the documents on record. For instance, it
+wrote to the lenders for the first time only on 27 th March 2019 asking for
+the requisite approvals. Respondent No. 1's letters were O.M.P. (I) (COMM.)
+96/2019 Page 40 of 67 conspicuously silent about the fact that the period in
+which the sale transaction is to be consummated would expire on 4 th April
+2019. Thus, if Respondent No. 1 genuinely treated time as being of the
+essence, it ought to have treated Petitioner's right as having expired/ lapsed
+immediately after the expiry of the 30 days' period on 25 th February 2019 (or
+alternatively on 4th April 2019).Reliance was placed on the following cases
+Keshavlal Lallubhai Patel v. LalbhaiTrikum Mills Ltd, AIR 1958 SC 512 ,S.
+Brahmanand v. K Muthugopal, (2005) 12 SCC 764 to contend that it is settled
+law that under the Indian Contract Act, 1872 extension of time for performance
+of a contract may be inferred from the conduct of the parties. Thus, even if
+the time is regarded as of essence, Respondent No. 1, by its own conduct has
+acquiesced to the extension of the 30-day time period.
+
+32\. On the question of interpretation, it is the case of the Petitioner that
+on a true construction of terms of the SHA, the period of 30 (thirty) days as
+set out under Clause 3.7.1 (iii) of the SHA has to be computed by excluding
+the time taken to obtain all requisite approvals/permissions for the transfer
+and for the seller to become capable of delivering the shares to the purchaser
+in a freely transferable form. This follows from the fact that any transfer of
+shares under the SHA to a Private Participant is subject to receipt of various
+approvals/permissions, which cannot be obtained within the period of 30
+(thirty) days. Even as per the timelines prescribed in the SPA sent by
+Respondent No. 1 on 4th March 2019, all requisite approvals/permissions cannot
+be obtained in a period of 30 days. For instance, as per Clause 3.1(e), the
+applications for permissions/approvals prescribed therein will have to be
+filed within 7 and 2 days (as prescribed therein); as per Clause 4.1, Closing
+O.M.P. (I) (COMM.) 96/2019 Page 41 of 67 shall take place within 14 days from
+completion of the steps prescribed in Clause 3.1; as per Clause 4.2 and 5.5.10
+of SHA, a minimum of 14 days notice shall have to be given for a Board Meeting
+to approve the transfer of Shares. As such, even as per Respondent No. 1's own
+draft SPA, the transaction cannot be consummated within 30 days. In any event,
+in terms of Facility Agreements read with Clause 3 of the draft SPA, the
+seller is required to give at least a 60 days' prior notice to lenders to seek
+their approval.
+
+33\. Further, the Company is required to give a 60 (sixty) days' prior written
+notice to its lenders under Clause 10.23.3 of the Facility Agreements. In
+terms of Clause 3.7.1(i) of the SHA, both the Remaining Private Participants
+have the preferential right to purchase the Seller's offered shares in
+proportion to their shareholding. If one of the Remaining Private Participants
+does not want to purchase the offered shares, then the other Remaining Private
+Participant has to purchase all the offered shares. In such a situation, such
+other Remaining Private Participant cannot possibly complete the purchase of
+offered shares within 30 (thirty) days since the other Remaining Private
+Participant has 30 (thirty) days to decide whether to purchase its proportion
+of the offered shares or not. Mr. Neeraj Kishan Kaul, learned senior counsel
+who initially appeared in the matter had also argued that the principle of
+"business efficacy" is normally invoked to read a term in the agreement or
+contract so as to achieve the result or the consequences intended by the
+parties. He further argued that in business transactions, the law desires to
+give business efficacy to the transaction, intended by the parties and not
+impose peril on the same. Reference was also made to O.M.P. (I) (COMM.)
+96/2019 Page 42 of 67 several judgments including Boothalinga Agencies v.
+V.T.C. Poriaswanmi Nadar, (1969) 1 SCR 65, Satya Jain (Dead) Through LRs &Ors
+v. Anis Ahmed Rushdie (Dead) Through Lrs, (2013) 8 SCC 131, Novartis Vaccines
+and Diagnostics Inc. v. Aventis Pharma Limited Decided on 18.12.2009 in
+Arbitration Petition No. 763 of 2009 and Nabha Power Limited (NPL) v. Punjab
+State Power Corporation Limited (PSPCL) and Another, (2018) 11 SCC 508. He
+also argued that Respondent No. 1's interpretation of 30 days is absurd and
+contrary to the SPA and SHA.
+
+34\. Per contra, Mr. Sibal submitted that a ROFR is always triggered by a
+desire to ultimately sell to a third party, with the offer to the ROFR-holder
+being a condition precedent to the sale to the third party. With regard to
+contracts for the sale of shares, time is inherently of the essence of the
+contract given that the value of the shares could widely fluctuate. If one
+were to assume that the ROFR was in fact perpetual, then both an underlying
+decrease in the value of the shares (causing a re-negotiation with the third
+party and a re-trigger of the ROFR) and an increase in the value of the shares
+(causing a loss in consideration received since the ROFR-holder would buy at
+lower than fair market value) will effectively turn value destructive to the
+seller. Therefore, this can never be the true or meaningful construction of
+any pre-emptive right, including a ROFR. In support of this submission,
+learned counsel placed reliance on the decisions in Hare v. Nicoll [1966] 2
+Q.B. 130, In Re Schwabacher ((1908) 98 L.T. 127).
+
+35\. Mr. Sibal further submitted that the interpretation given by the learned
+counsel for the Petitioner to the ROFR clause in 3.7.1 is incorrect. It was
+argued that the actual approvals required for the transaction to proceed are
+O.M.P. (I) (COMM.) 96/2019 Page 43 of 67 not the same as contended by the
+Petitioner and clause 3.6 of the SHA is not applicable to a sale of shares to
+a private participant. Under Clause 3.7 of the SHA, the only approvals
+required for a transfer from Respondent No. 1 to the Petitioner are approvals
+from Respondent No. 3 (required under Clause 2.5 of the Operation Management &
+Development Agreement ("OMDA"), and consent from the security trustee (and
+accordingly, the lenders) under the Share Pledge Agreement. Approval from the
+Competition Commission of India ("CCI") is not required for a transfer of the
+PP Purchase Shares from Respondent No. 1 to the Petitioner, and accordingly,
+no prior notice needs to be provided to the CCI. Under Regulation 4 read with
+Item 2 of Schedule I of the Competition Commission of India (Procedure in
+regard to the transaction of business relating to combinations) Regulations,
+2011, an acquisition of shares is exempt from approval where an acquirer prior
+to the acquisition has 50% or more shares in the target and the transaction
+does not result in a transfer from joint to sole control, which is the case
+herein. Further, it was submitted that procuring approval prior to issuance of
+a PP Offer Notice to the other shareholders is not within the framework of the
+SHA and any averment to the contrary leads to a preposterous conclusion.
+
+36\. With respect to the interpretation of the ROFR clause and the 30-day
+timeline, it was argued that the interpretation sought to be given by the
+learned counsel for the Petitioner is flawed as the 30-day period set out in
+Clause 3.7.1(iii) of the SHA was the result of a negotiation between
+sophisticated commercial entities in 2006, and reflects the bargain struck by
+the parties. This balanced the risks for the proposed seller (who would not
+want an extended ROFR period), and the buyer (who would want to ensure O.M.P.
+(I) (COMM.) 96/2019 Page 44 of 67 that enough time is available for the
+purchase to be consummated). Moreover, clause 3.7.1(vii) of the SHA
+contemplates a 90-day period for the sale of shares to a Third Party, thereby
+affording what can clearly be perceived as sufficient time for obtaining
+requisite regulatory and third party approvals. Under Clause 3.7.2 of the SHA,
+Respondent No. 3 has been granted the very same 30-day period for sale of its
+shares to a Private Participant in furtherance of a Private Participant's
+ROFR. In fact, even if Respondent 3 were a seller, the very same 30 day ROFR
+construct, and 90 day Third Party sale construct, have been envisaged in the
+SHA.
+
+37\. Further, with respect to interpretation, it was argued that a "business
+sense" driven interpretation cannot be applied only when it benefits the
+Petitioner. The decision in Satya Jain(supra) in fact affirms the position
+adopted by Respondent No. 1, in that, absent manifest ambiguity in Clause
+3.7.1(iii) of the SHA it has to be interpreted as per its plain terms, without
+any implied terms being read into it. To support the proposition that Clause
+3.7.1 of the SHA is to be read as is (which is the bargain arrived at by
+parties to the SHA), without supplying any further words as is being suggested
+by the Petitioner, Respondent No. 1 relied on the following judgments: City
+Alliance Ltd v Oxford Forecasting Services Ltd [2001] 1 All ER (Comm) 233, CA,
+Central Bank of India Ltd. v. Hartford Fire Insurance Co. Ltd. - AIR 1965 SC
+1288, Novartis Vaccines and Diagnostics Inc. vs. Aventis Pharma Limited [2010
+(2) BomCR 317] citing the Supreme Court in M.O.H. Uduman and Ors. v. M.O.H.
+Aslum (AIR 1991 SC 1020).
+
+38\. It was further argued by the learned counsel for Respondent No.1 that the
+30-day timeline set out in Clause 3.7 of the SHA cannot be deemed to be O.M.P.
+(I) (COMM.) 96/2019 Page 45 of 67 extended on account of events subsequent to
+execution of the SHA in 2006, being: (i) the relevant provisions of the
+Competition Act, 2002 coming into force in 2011; and (ii) the agreement being
+entered into by lenders with MIAL in 2017 and 2018 and if the parties (being
+sophisticated commercial entities) thought that the ROFR timelines needed to
+be amended once competition laws came into force and/or lender agreements were
+executed, nothing prevented them from doing so. However, the parties did not.
+
+39\. The Court has given a thoughtful consideration to the arguments raised by
+both the parties. First and foremost, as noted above, the court reiterates
+that it is for the Arbitrator to determine whether there is a concluded
+contract between the parties or not. The other related questions such as
+whether the time is the essence of the contract; whether the long stop date
+was envisaged under the contract between the parties etc. would require oral
+evidence to be led by the parties. Thus, at this stage, bearing in mind the
+scope of the present proceedings, the Court would like to refrain itself from
+giving its finding on such questions. Nevertheless, the contentions of the
+parties have been noted and are also being discussed only to determine whether
+there is a prima facie case made out for the grant of injunction as prayed
+for.
+
+40\. At this preliminary stage, the Court would have to first construe whether
+the terms of the contract convey the sense that the parties intended, by a
+plain reading of the words actually used therein. Thus it will be apt to note
+the wordings of the clauses which are the fulcrum of the disputes between the
+parties. The said Clauses have been reproduced in para 3 above.
+
+41\. Clause 3.7.1 (iii) of the SHA provides for the sale of PP purchase shares
+O.M.P. (I) (COMM.) 96/2019 Page 46 of 67 to be completed within 30 days of the
+PP Offer Notice being issued. The interpretation of the aforesaid Clause,
+proffered by the Petitioner is that the same has to be given a meaningful
+construction.
+
+42\. There is no quarrel on the proposition in law advanced by Mr. Neeraj
+Kishan Kaul as to the application of the "business efficacy" test. The effort
+of the Court should no doubt to give a meaning to the contract and not reject
+the same to be meaningless. The meaning of a contract must be gathered by
+adopting a sensible commercial approach. Before interpreting the terms of a
+Commercial Contract, it has to be borne in mind that an unexpressed term can
+be implied if and only if it is found by the reading of the contract that
+parties intended such a term to form part of the contract. From the plain
+reading of the Contract, it should bear that at the time of making of the
+Agreement, the parties intended such a term would apply. The Court would not
+substitute its own views, if the terms are explicit and clear. To put it
+differently, as held in City Alliance Limited v. Oxford Forecasting Services
+and Ltd. 2001 All ER (Comm) 233, "Before the Court can introduce words which
+the parties have not used, it is necessary to be satisfied (i) that the words
+actually used produce a result which is so commercially nonsensical that the
+parties could not have intended it.....". Petitioner contended that Clause
+3.7.1 should be interpreted to give a meaningful construction to the Contract,
+as the transfer of shares is permissible only if the requisite approvals are
+in place. Such regulatory approvals are provided in Clause 3.6 and 3.7 of the
+SHA. A reading of the aforesaid provision as reproduced above, clearly shows
+that approvals prescribed under Clause 3.6 are applicable in case the shares
+are to be transferred to a third party. Mr. Kaul O.M.P. (I) (COMM.) 96/2019
+Page 47 of 67 initially argued that as such approvals are also applicable on
+the transfer to the Petitioner who is admittedly a private participant. This
+contention also finds mention in the pleadings. However, much later Mr. Rajiv
+Nayar, during the rejoinder arguments, clarified that Clause 3.6 is not
+applicable. Thus the only approvals envisaged in the Contract that are
+applicable to the Petitioner are those provided in Clause 3.7.1. I am of the
+prima facie view that the wordings of the said Clause do not indicate the
+exposition given by the learned Senior Counsels appearing on behalf of the
+Petitioner. There cannot be any doubt that both the parties are commercial
+entities having expertise in the field and the agreement was a result of
+negotiations between them. There can be a plausible view that the Contract
+does not expressly stipulate that the 30 days ROFR period would apply after
+the last date of the approvals. Prima facie, Clause 3.7.1 (c) of SHA reflects
+the final understanding between the parties. The Contract between the parties
+also does bring out a distinction between the ROFR period that is applicable
+for a private participant and that is applicable to a third party. This is
+discernible from Clause 3.7.1 (vii) of SHA which contemplates a 90 day period
+for the sale of shares to a third party, because in case of sale to third
+party, there are regulatory and third party approvals as prescribed under
+Clause 3.6 of SHA. Under Clause 3.7.2 of the SHA, Respondent No. 3 has been
+granted the very same 30 day period for sale of its shares to private
+participant in furtherance of private participant's ROFR. At this stage, for
+the purpose of the present petition, the Court is of the prima facie view that
+allowing the Petitioner to interpret Clause 3.7 in the manner it desires,
+would amount to re-writing the terms and conditions of the Contract. The terms
+are express and clear and unambiguous. In this regard, the Court would rely
+upon the judgment of the O.M.P. (I) (COMM.) 96/2019 Page 48 of 67 Supreme
+Court in Novartis Vaccines and Diagnostics Inc. vs. Aventis Pharma Limited
+[2010 (2) BomCR 317] citing the Supreme Court in M.O.H. Uduman and Ors. v.
+M.O.H. Aslum (AIR 1991 SC 1020), relating to the construction of the
+Commercial Contracts:
+
+> "It is settled canon of construction that a contract of partnership must be
+> read as a whole and the intention of the parties must be gathered from the
+> language used in the contract by adopting harmonious construction of all the
+> clauses contained therein. The cardinal principle is to ascertain the
+> intention of the parties to the contract through the words they have used,
+> which are key to open the mind of the makers. It is seldom that any
+> technical or pedantic rule of construction can be brought to bear on their
+> construction. The guiding rule really is to ascertain the natural and
+> ordinary sensible meaning to the language through which the parties have
+> expressed themselves, unless the meaning leads to absurdity."
+
+Thus, prima facie there is no merit in the contention of the Petitioner and
+the court cannot interpret the clause as suggested by the Petitioner.
+
+Controversy surrounding the requirement of obtaining approvals for transfer of
+shares
+
+43\. Mr. Rajiv Nayar has argued that there are certain pre-requisite approvals
+necessary in order to complete the transaction, such as 1) under relevant
+provisions of the Competition Act, 2002; 2) the approval from the Banks/
+lenders on account of an agreement between lenders and MIAL. Both the above-
+noted approvals, that may be necessary, arose on account of subsequent events.
+The necessity of approval, if any, under the provisions of Competition Act,
+2002, became necessary in 2011 and the agreement O.M.P. (I) (COMM.) 96/2019
+Page 49 of 67 between the lenders and MIAL was executed in 2017 and 2018.
+However, the parties did not incorporate any such extension of timelines on
+account of the above. Another approval that has been envisaged under Clause
+3.7 is the approval from Airport Authority of India in terms of Clause 2.5 of
+OMDA. On the question of necessity of taking approval from AAI, Mr. Abhinav
+Vashisht, learned Senior Counsel appearing on behalf of AAI, has drawn the
+attention of this Court to letters dated 22nd March 2019 written by AAI to
+MIAL and response thereto. The said two letters read as under:-
+
+> "Subject: AAI approval in terms of OMDA and Shareholder's Agreement.
+
+> This is with reference to your letter dated 18th March 2018 in response to
+> AAI mail dated l5th March 2018 on the subject stating that the permission of
+> AAI need to be obtained by the Prime members and the evaluated entities for
+> the transfer of the shares of MIAL from ACSA and Bid vest to GVK Airport
+> Holdings. Ltd. and not MIAL
+
+> 2\. In this regard, reference is made to Article 2.5(c) and 2.5(h) of. OMDA
+> as per which the permission of AAI needs to be obtained by the JVC which
+> would be given subject to AAl ensuring that the capabilities of the JVC are
+> not inferior pursuant to the share transfer of the JVC than prior to the
+> transfer .
+
+> 3\. Keeping in view tile above, it is MIAL whose shares are being
+> transferred and whose various capabilities are assessed pursuant to the'
+> transfer to obtain permission of AAI.
+
+> 4\. MIAL is requested to comply with the OMDA provisions and seek AAI
+> approval to ensure that the transfer takes place with the specified
+> timelines.
+
+> 5\. This issues with the approval of the competent authority."
+
+> "Subject: AAI Approval in terms of OMDA and Shareholders Agreement Ref: 1)
+> Your email dated 15th March, 2019
+
+> 2) MIAL letter No. MIAL/CE0/104 dated 181h March,  2019 O.M.P. (I) (COMM.)
+> 96/2019 Page 50 of 67
+
+> 3) AAI Letter No. AAI/MC/MIAL-07 /EC/2019 dated 22nd March, 2019 With
+> reference to subject above and further to correspondences exchanged between
+> AAI and MIAL so far, we would like to mention as follows:
+
+> 1) MIAL was first intimated about the PP Offer Notices of Bid Services
+> Division (Mauritius)Ltd and ACSA Global Ltd by AAI vide its letters No.
+> AAI/MC/MIAL-07/EC/2019 dated 7thMarch.
+
+> 2) After your email of 15th March, 2019, we had responded that approval is
+> to be obtained by Prime Member(s).
+
+> 3) We are in receipt of your letter no. AAI/MC/MIAL- 07/EC/2019 dated 22nd
+> March 2019stating that approval under the OMDA is to be sought by JVC only.
+> We have not received any request from the Prime Member for seeking AAI
+> approval. Upon receipt of such request, along with all supporting
+> documentation, we are agreeable to make a request for such approval to the
+> AAI. Please note that we making such a request does not dilute the
+> obligation of the Prime Members (Private Participant(s)) under the
+> Shareholders Agreement.
+
+> 4) We stand committed to comply with all applicable provisions of OMDA,
+> Shareholders Agreement and Article of Association of MIAL in this respect."
+
+44\. Mr. Vashisht has further informed that in furtherance to the said letter,
+MIAL never made a request to AAI for the requisite approval under the
+provisions of OMDA. Since the question of approvals is being discussed, it
+would also be apt to take note of the fact that Mr. Rajiv Nayar has
+strenuously argued that such approval from SBI is a prerequisite and the same
+has not been obtained it indicates that the Respondent No. 1 is not in a
+position to transfer the shares and the same are not in a deliverable state.
+Strong emphasis is also placed on a letter dated 28 th March 2019, written by
+SBI to MIAL, wherein the Bank has indicated that MIAL should give 60 days
+prior notice to SBI for the Bank to take a view in the matter. The said O.M.P.
+(I) (COMM.) 96/2019 Page 51 of 67 letter reads as under:-
+
+> "MUMBAI INTERNATIONAL AIRPORT LIMITED (MIAL):
+
+> Date: 28 .03 .2019 PROPOSED TRANSFER OR EQUITY SHAR.E HELD BY BID SERVICES
+> DIVISION (MAURITIUS LIMITED) With reference to your letter dated March 27,
+> 2019 (received by us through email) on the captioned subject, while we have
+> taken note of the contents of your letter, we have to advise as under:- l.
+> As per the existing terms of sanction, such request should come from the
+> borrowing Company i.e., MIAL Therefore, we cannot treat .your said letter as
+> formal request for approval or notice as per provisions of existing loan
+> documents.
+
+> li. Please note that as per the existing terms of sanction, MIAL has to give
+> 60 days prior notice to State Bank of India ("SBI" or "Bank") for
+> undertaking such activity to enable the Bank to take a view. If, in the
+> opinion of the Bank, the move contemplated by the borrower Company is not in
+> the interest of the Bank, the Bank will have the right of veto for the
+> activity.
+
+> 111\. Please also note that MIAL has to take approval of all lenders as well
+> as other share holders/AAI/Regulators as per the provision of OMDA/Loan
+> Documents.
+
+> iv. Please provide us the copy of acceptance of GVK Airport Holding limited
+> along with term sheet for the stake purchase from Bid Service Division
+> (Mauritius) limited."
+
+45\. Mr. Nayar also referred to a letter dated 25th April 2019 written by
+Respondent No. 1 to SBI, requesting for consent to transfer the entire
+shareholding of Respondent No. 1. It was argued that the aforesaid letter
+shows that Respondent No. 1 admits that it is not in a position to transfer
+the shares pending the approval of the lender, with whom the shares in
+question are pledged. In absence of this approval, the 30 day ROFR period
+should be applied only after all the approvals have been obtained.
+
+O.M.P. (I) (COMM.) 96/2019 Page 52 of 67
+
+46\. The approval from SBI does not find mention in Clause 3.7 of the SHA in
+question. Moreover, this requirement arose subsequent to the execution of the
+SHA. Pertinently, the request for approval had to be initiated by MIAL. The
+approval is in the nature of the consent of SBI that the shares in MIAL that
+would be acquired from Respondent No.1, would be pledged with the Bank in
+accordance with Clause 2.7 of the Share Pledge Agreement. In this background,
+Respondent No. 1 wrote the letter to SBI asking them to reconsider the request
+for seeking a term sheet setting forth the terms and conditions of the
+proposed sale. The said letter was written by Respondent No. 1 after the
+filing of the present petition and was also issued without prejudice to its
+rights [Para 6 of the said letter]. Thus, the said letter cannot be construed
+to mean that Respondent No. 1 took upon itself the obligation to obtain the
+consent of SBI. Be that as it may, it was for MIAL to have obtained the
+consent, as was mentioned in the SBI letter dated 28th March 2019. Concededly,
+such a request has not been sent till date. There is also no such request to
+AAI, pursuant to the letters reproduced in the foregoing paras. The parties
+have just been playing blame game on this issue.
+
+47\. Mr. Sibal has rightly argued that ROFR is always triggered by a desire to
+ultimately sell the shares to a third party, with the preemptory ROFR
+condition for such sale. ROFR, by its very definition, has to be a time bound
+offer and can never be in perpetuity. Extending the ROFR Clause, would defeat
+the purpose and the intent of the Clause itself. In such matters, time is
+inherently of the essence of the Contract. The value of shares can O.M.P. (I)
+(COMM.) 96/2019 Page 53 of 67 skyrocket or nosedive in a short span of time
+and in case the sale is not matured within the short span of time envisaged in
+the agreement, the transaction would be frustrated. In case the timelines are
+not adhered and there is increase in the value of the shares, it can
+cause/incur depreciation/loss in consideration, since the ROFR holder would
+buy the shares at lower than fair market value. Likewise, decrease in the
+value of the shares can cause re-negotiations with the third party requiring
+the ROFR process to be initiated all over again. Respondent No. 1's right to
+sell the shares would be defeated, in case ROFR is not exercised in a time
+bound manner. Court can also not lose sight of the fact that after the ROFR
+period, the right of the other share holder gets crystallized and they can
+then acquire the underlying shares on the same terms. ROFR is the privilege
+given to a party and in the present case, the Petitioner, ought to have
+exercised its right strictly in accordance to the conditions stipulated in the
+agreement. It is critically important that this contract should be strictly
+and rigidly enforced within the time frame provided for under the Agreement as
+the subject matter of dispute relates to 'shares', which by its nature, is
+susceptible to continual variation unlike other contracts. The approvals prior
+to the issuance of the PP Offer Notice have not been recorded in the terms and
+conditions of the SHA. The Petitioner's contention that such prerequisite
+approvals ought to have been obtained prior to the PP Offer Notice is thus not
+correct. The Court also does not find merit in the submission of the
+Respondent that the Respondent's interpretation of 30 days ROFR period is
+absurd. What would be the correct interpretation of the time period mentioned
+in 3.7.1 of SHA and the conduct of the parties evidencing their understanding
+of this Clause would have to be decided by the Arbitral O.M.P. (I) (COMM.)
+96/2019 Page 54 of 67 Tribunal after considering the evidence that could be
+led before it.
+
+Long Stop Date
+
+48\. The controversy has also been raised with respect to "long stop date". It
+is Petitioner's contention that there was no such long stop date specified in
+the shareholder's agreement. This issue also relates to another bone of
+contention between the parties as to whether there is concluded contract or
+not between the parties. According to the Petitioner, Respondent No. 1 had
+affirmed that there is a concluded Contract. On the other hand, Respondent No.
+1 had contended that the Petitioner did not accept the offer notice dated 4th
+March 2019 but rather sent a counter offer in response to the same. When
+Respondent No. 1 issued the notice dated 4 th March 2019, the Petitioner did
+not accept the same and instead stated that it would shortly send its revision
+to the draft agreement. It was, however, stated that the Petitioner was re-
+confirming exercise of its option to purchase Respondent No. 1's shares. This
+was replied by Respondent No. 1 vide letter dated 15 th March 2019 pointing
+out that Petitioner was not entitled to make counter- proposals or suggests or
+negotiate amendments. On 16 th March 2019, Petitioner addressed a letter to
+Respondent No. 1 annexing therewith changes to the terms offered. The
+suggested changes read as under:-
+
+> (i) "Deleting, in its entirety, Clause 1.3(k) of the SPA (Interpretation
+> Clause), which read: "time is of the essence in the performance of the
+> Parties‟ respective obligations under this Agreement. To the extent that any
+> such time periods stand extended, the extended time periods shall also be of
+> essence."
+
+O.M.P. (I) (COMM.) 96/2019 Page 55 of 67
+
+> (ii) Amending Clause 4.1 of the draft SPA to read "Closing shall not occur
+> after the expiry of the applicable time period within which the Transfer of
+> the Sale Shares is required to take place as set forth in Clause 3.7 of the
+> [SHA]... as extended by the time period required to obtain all approvals and
+> consents from any Government Authority and third party as may be required
+> for the Transaction... " (Text in bold being the addition suggested by the
+> Petitioner to the version shared by Respondent No. 1 on March 4, 2019)
+
+> (iii) Amending Clause 4.3 of the draft SPA to read that the long stop date
+> would be "the earlier later of (i) [•] the applicable time period within
+> which the Transfer of the Sale Shares is required to take place as set forth
+> in Clause 3.7 read with Clause 3.6 of the [SHA]... or (ii) the date falling
+> 14 (fourteen) days after the date on which all approvals and consents as are
+> required from Government Authorities and third parties for the Transaction
+> have been obtained..." (Text in bold being the addition suggested by the
+> Petitioner and strikethrough being the deletions to the version shared by
+> Respondent No. 1 on March 4, 2019)"
+
+49\. A perusal of the aforementioned communication exchanged between the
+parties and the terms of the contract suggests that the offer of sale of
+shareholding had to be accepted without terms and conditions and a concluded
+contract could only come into existence by fulfillment of obligations on the
+part of both the parties. The Petitioner ceaselessly tried O.M.P. (I) (COMM.)
+96/2019 Page 56 of 67 that Respondent No. 1 agrees to the changes in the SPA.
+However, when the Respondent did not relent, the Petitioner signed the
+unamended draft of the SPA to seemingly convey that the offer was accepted and
+the contract stood concluded. It is a fact that the terms offered by
+Respondent No. 1 were not accepted. Thus prima facie there appears to be no
+consensus on certain key terms of the agreement and it is doubtful that the
+contract stood concluded.
+
+B) WHETHER THE PETITIONER IS AND HAS BEEN READY AND WILLING TO PERFORM THEIR
+PART OF THE OBLIGATION?
+
+50\. To determine this question, the Court will have to assess the contentions
+of the parties from the stand point of a case relating to specific performance
+of the contract, as essentially in the arbitration proceedings, the Petitioner
+would be seeking enforcement of its preferential right to purchase the shares
+offered by the Respondent No. 1 by way of specific performance of the
+contract. It is also the stated stand of the Petitioner in the pleadings that
+the Petitioner is and has always been ready and willing to perform his
+obligation to purchase the shares and it cannot escape from showing that it is
+ready and willing to perform its obligations under the agreement.
+
+51\. Petitioner contends that Respondent No. 1 has delayed completion of the
+transaction by not performing its reciprocal obligations and is still not in a
+position to deliver the shares to the Petitioner in a freely transferable
+form. It is further argued that Respondent has deliberately delayed in
+applying and / or assisting MIAL in applying for approvals from the third
+Respondent and the lenders. In matters relating to Specific Performance, the
+question of readiness has been defined by the Supreme Court in innumerable
+decisions.
+
+O.M.P. (I) (COMM.) 96/2019 Page 57 of 67
+
+One such decision which requires to be noted here is Kalawati v Rakesh
+Kumar(2018) 3 SCC 658 wherein the Supreme Court has recently held as under:-
+
+> "18. The law on the subject of specific performance of contracts is quite
+> clear and it is not necessary to cite the dozens of judgments delivered by
+> this Court on the issue. However, it is necessary to refer to two decisions
+> which are quite apposite to the facts of the case before us.
+
+> 19\. In His Holiness Acharya Swami Ganesh Dassji v. Sita Ram Thapar
+> MANU/SC/0522/1996 : (1996) 4 SCC 526 this Court drew a distinction between
+> readiness to perform the contract and willingness to perform the contract.
+> It was observed that by readiness it may be meant the capacity of the
+> Plaintiff to perform the contract which would include the financial position
+> to pay the purchase price. As far as the willingness to perform the contract
+> is concerned, the conduct of the Plaintiff has to be properly scrutinised
+> along with attendant circumstances. On the facts available, the Court may
+> infer whether or not the Plaintiff was always ready and willing to perform
+> his part of the contract. It was held in paragraph 2 of the Report:
+
+> "There is a distinction between readiness to perform the contract and
+> willingness to perform the contract. By readiness may be meant the capacity
+> of the Plaintiff to perform the contract which includes his financial
+> position to pay the purchase price. For determining his willingness to
+> perform his part of the contract, the conduct has to be properly
+> scrutinised...... The factum of readiness and willingness to perform
+> Plaintiff's part of the contract is to be adjudged with reference to the
+> conduct of the party and the attending circumstances. The court may infer
+> from the facts and circumstances whether the Plaintiff was ready and was
+> always ready and willing to perform his part of the contract. The facts of
+> this case would amply demonstrate that the Petitioner/Plaintiff was not
+> ready nor had the capacity to perform his part of the contract as he had no
+> financial capacity to pay the consideration in cash as contracted and
+> intended to bide for the time which disentitles him as time is of the
+> essence of the contract."
+
+> 20\. In I.S. Sikandar (Dead) by L.Rs. v. K. Subramani and Ors.
+> MANU/SC/1093/2013 : (2013) 15 SCC 27 this Court noted that O.M.P. (I)
+> (COMM.) 96/2019 Page 58 of 67 the Plaintiff is required to prove that from
+> the date of execution of the agreement of sale till the date of the decree,
+> he was always ready and willing to perform his part of the contract. In this
+> case, looking the attendant facts and circumstances, the Court upheld the
+> view of the Trial Judge that the Plaintiff had no money to pay the balance
+> sale consideration and was apparently not capable of making necessary
+> arrangements for payment of the balance consideration. It was held in
+> paragraph 45 and paragraph 47 of the Report:
+
+> "45.........Further, the Plaintiff is required to prove the fact that right
+> from the date of execution of the agreement of sale till the date of passing
+> the decree he must prove that he is ready and has always been willing to
+> perform his part of the contract as per the agreement......
+
+> 47\. Further, there is nothing on record to show that the Plaintiff could
+> have made arrangement for payment of the balance consideration amount to
+> them. But, on the other hand the trial court has recorded the finding of
+> fact to the effect that the correspondence between the parties and other
+> circumstances would establish the fact that the Plaintiff had no money for
+> payment of balance sale consideration......."
+
+> 21\. In so far as the present appeal is concerned, the material on record
+> clearly indicates that Rakesh Kumar did not have the necessary funds
+> available with him to pay the balance consideration. His low income and low
+> bank balance indicated his incapacity to make the balance payment. As far as
+> his capacity to arrange for funds is concerned, it has come on record that
+> Rakesh Kumar did take a loan from his cousin but that was only for his
+> business and not for paying the balance consideration for the land in
+> dispute. There is nothing on record to indicate that Rakesh Kumar could have
+> not only repaid the loan taken from his cousin, but additionally, could have
+> arranged sufficient funds to pay the balance consideration. It is very
+> doubtful, and it is easy and reasonable to infer this, that Rakesh Kumar was
+> incapable of meeting both liabilities."
+
+52\. Mr. Nayar had argued that there is no requirement under the SHA or the PP
+Offer Notice for the Petitioner to show the financial capacity. Petitioner
+O.M.P. (I) (COMM.) 96/2019 Page 59 of 67 is only required to remit the
+purchase consideration within 14 days after all the necessary approvals have
+been obtained. On acceptance of the PP Offer Letter, a right has accrued in
+its favour to purchase the shares and the Court should now preserve the same
+by granting an injunction. There are obvious and glaring inconsistencies in
+these propositions. A party desirous of specific performance of a Contract for
+purchase cannot merely on the strength of an agreement and purported breach,
+seek an order of injunction. The entire case law relating to specific
+performance of contract ubiquitously holds that readiness and willingness is a
+key feature that is required to be met in order to succeed in such action. The
+Petitioner has remained conspicuously silent on this issue in its
+correspondence and also before this Court. Petitioner's statement that it is
+ready to fulfill its obligations is not enough. The same has to be
+substantiated by its conduct and by establishing the same by means of
+documentary evidence. This is a pre-requisite for a claim for Specific
+Performance and also for seeking the equitable relief of injunction. The
+failings of the Petitioner to prove and exhibit its readiness ends up showing
+that it was never in a position to fulfill its obligations. The Supreme Court
+has held that the readiness to complete the transaction means that the party
+has the capacity to perform the contract which includes the financial position
+to pay the purchase price. Readiness and willingness to perform the Contract
+has to be scrutinized on the basis of the conduct of the parties with
+attendant circumstances. The party seeking specific performance is required to
+prove that from the date of execution of the agreement till the final
+decision, it was always ready and willing to perform his part of the Contract.
+Mr. Amit Sibal, has all throughout in his arguments cast serious doubt on the
+Petitioner's financial capacity to fulfill its O.M.P. (I) (COMM.) 96/2019 Page
+60 of 67 obligations. At the initial stage, the Court nudged the parties to
+explore the possibilities of resolution. There were several rounds of
+negotiation between the parties, however, nothing fructified. In this regard,
+on 8 th May 2019, the Court, during hearing of the arguments, queried from the
+Respondent about his willingness to complete the transaction, and pursuant
+thereto, an order was passed recording the stand of the parties. The text of
+the order has been reproduced in the preliminary paragraphs. In response
+thereto, Petitioner did not show any genuine inclination to complete the
+transaction. During the subsequent hearing, Petitioner sought to present
+certain documents in a sealed cover to show its financial capability to
+perform the Contract. Thereafter, as desired by the parties, a Chamber hearing
+was also held in the presence of learned Senior Counsels. In chamber hearing,
+a general discussion took place regarding the manner in which the Petitioner
+proposed to make a payment for the shares, but the same was not acceptable to
+Respondent No. 1. Be that as it may, the Petitioner has chosen not to place on
+record any material to show its financial means and capacity to complete the
+transaction. The Petitioner has in fact circumvented the issue of readiness by
+firstly contending that this question cannot be examined in the present
+petition, being beyond the scope of Section 9 of the Act and secondly, on the
+ground that Petitioner is only seeking an injunction to perform the negative
+covenant and for which the Court has not to examine the aspect of readiness
+and willingness. These arguments are nothing but disjointed attempts to avoid
+scrutiny of the court on this question. This exposes the Petitioner and the
+court can firmly say that Petitioner is not ready to go forward with the
+transaction. There is undeniably no genuine exhibition of readiness which
+could show that the O.M.P. (I) (COMM.) 96/2019 Page 61 of 67 Petitioner is
+serious in completing the transaction. There is not even an iota of evidence
+before the Court to substantiate the plea of readiness. Mr. Sibal repeatedly
+asserted throughout the arguments that the Petitioner should be called upon to
+prove its genuine readiness. Petitioner maintained resolute silence on this
+issue. The facts as they have been unfolded, come across to the Court to show
+that the Petitioner has merely inflated the expectation of its readiness.
+Perhaps, the Petitioner is still struggling to get the ready funds. This is
+the blatant truth of the matter. Petitioner may be extremely ambitious to
+purchase the shares, but the enormity of the transaction amount requires the
+Court to be satisfied that the Petitioner has sufficient funds. There may be
+constraints to show the entire transaction amount of INR 1248,75,00,000 in its
+bank account and the court is mindful of this fact. But the Petitioner has not
+even cared to place any material on record to show that the funds will be
+readily available in case there arises a situation to make the payments to
+Respondent No. 1. Petitioner has also not shown any inclination to erase the
+doubts about its financial capacity and means to complete the transaction.
+Even if arguably, it is assumed there is a concluded contract between the
+parties, and that Petitioner has exhibited its willingness to complete the
+transaction, in order to seek an injunction, it would still entail the
+Petitioner to show readiness. The conduct of the Petitioner appears to
+validate the apprehension expressed by Mr. Sibal regarding the financial
+distress of the Petitioner. Thus, even if the Court were to gloss over all the
+disputed aspects such as whether there is a concluded contract between the
+parties or whether the Respondent is in breach of the agreement, the
+underlying factor remains that readiness has not been proved before the Court.
+The transfer of shares has to be instantaneous O.M.P. (I) (COMM.) 96/2019 Page
+62 of 67 with the payment. It is highly improbable that if the Petitioner is
+genuinely desirous of purchasing the shares, it would not have the readily
+available funds with it. It is rather obscure that the Petitioner who still
+had the option to purchase the shares as recorded in the order dated 8th May
+2019, did not deem it necessary to present to the Court material that could
+convincingly show that it had the financial means to complete the transaction.
+It is incomprehensible as to why the Petitioner who is purportedly earnest to
+purchase the shares, has chosen not to show to the Court its financial
+capability. At this stage, granting an order of injunction in its favour and
+against the Respondent would amount to incentivizing the Petitioner's
+speculative interest to purchase the shares. In this regard, the principles as
+laid down in Wander Ltd. Vs. Antox India P. Ltd, 1990 (SUPP) SCC 727 become
+relevant. In the said case, the Supreme Court held as under:-
+
+> ""9. Usually, the prayer for grant of an interlocutory injunction is at a
+> stage when the existence of the legal right asserted by the plaintiff and
+> its alleged violation are both contested and uncertain and remain uncertain
+> till they are established at the trial on evidence. The court, at this
+> stage, acts on certain well settled principles of administration of this
+> form of interlocutory remedy which is both temporary and discretionary. The
+> object of the interlocutory injunction, it is stated is to protect the
+> plaintiff against injury by violation of his rights for which he could not
+> adequately be compensated in damages recoverable in the action if the
+> uncertainty were resolved in his favour at the trial. The need for such
+> protection must be weighed against the corresponding need of the defendant
+> to be protected against injury resulting from his having been prevented from
+> exercising his own legal rights for which he could not be adequately
+> compensated. The court must weigh one need against another and determine
+> where the "balance of convenience lies". The interlocutory remedy is
+> intended to preserve in status quo, the rights of parties which may appear
+> on a prima facie."
+
+O.M.P. (I) (COMM.) 96/2019 Page 63 of 67
+
+53\. Mr. Nayar's reliance on Clause 9.3.1 of the SHA to impress upon the Court
+that it is entitled to an injunctive relief, is also misplaced. The said
+Clause reads as under:-
+
+> "9.3.1 The Parties to this Agreement agree that. to the extent permitted
+> under ApplicableLaw, the rights and obligations of the Parties under this
+> Agreement shall besubject to the right of specific performance and may be
+> specifically enforcedagainst a Defaulting Party. The Parties acknowledge
+> that any breach of the provisions of this Agreement will cause immediate
+> irreparable harm to the adversely affected Party ("Affected Party") for
+> which any compensation payable in damages shall not be an adequate remedy.
+> Accordingly, the Parties agree that the Affected Party still be entitled to
+> immediate and permanent injunctive relief, specific performance or any other
+> equitable relief from a court of competent jurisdiction in the event of any
+> such breach or threatened breach by any other Party. The Parties agree and
+> stipulate that the Affected Party shall be entitled to such injunctive
+> relief, specific performance or other equitable relief without (i) the
+> necessity of proving actual damages; or (ii) posting a bond or other
+> security.
+
+> Nothing contained herein shall limit the Affected Parties right to any
+> remedies at law or in equity, including without limitation the recovery of
+> damages from thedefaulting Party."
+
+54\. The aforesaid Clause only emphasizes that the effective party is entitled
+to specific performance or equitable relief without proving actual damages or
+posting a bond or other security. This Clause cannot be interpreted to mean
+that the Petitioner does not have the obligation to meet the criteria of
+exhibiting its readiness to fulfill the transaction. Significantly, the Clause
+contains an expression "to the extent permitted by applicable law" in the
+opening sentence of Clause 9.3. Moreover, the Court while deciding the O.M.P.
+(I) (COMM.) 96/2019 Page 64 of 67 entitlement to the relief would have the
+jurisdiction to apply the basic test for grant of injunction, irrespective of
+what is stated in the Clause. Notwithstanding the said provision, the
+Petitioner is still required to demonstrate availability of funds to satisfy
+that it is ready and willing to perform its obligations under Section 16 (c)
+of SHA, which it has not done. Posting a bond or other security is not the
+same thing as demonstration of availability of funds. The Court's jurisdiction
+cannot be impinged or affected by the understanding of the parties. It would
+always remain a discretion of the Court when it comes to matters relating to
+grant of injunction, which has to be exercised in accordance with law and
+judicial precedents.
+
+2\. Balance of Convenience and Irreparable injury
+
+55\. Mr. Nayar's further arguments that in case the first Respondent is not
+restrained from offering or selling the shares to any person other than the
+Petitioner, would render its claim infructuous and present the Petitioner with
+"fait accompli" which would result in defeating Petitioner's preferential
+right to purchase the shares is also misconceived. The basic tenets for grant
+of interlocutory injunction require the Court to also examine the question of
+balance of convenience and the question of irreparable loss. In Kashimath
+Samsthan vs. Shri Madsudhindra Thirtha Swamy (2010) 1 SCC 689, the Supreme
+Court holds as under:-
+
+> "13. It is well settled that in order to obtain an order of injunction, the
+> party who seeks for grant of such injunction has to prove that he has made
+> out a prima facie case to go for trial, the balance of convenience is also
+> in his favour and he will suffer irreparable loss and injury if injunction
+> is not granted. But it is equally well settled that when a party fails to
+> prove prima facie O.M.P. (I) (COMM.) 96/2019 Page 65 of 67 case to go for
+> trial, question of considering the balance of convenience or irreparable
+> loss and injury to the party concerned would not be material at all, that is
+> to say, if that party fails to prove prima facie case to go for trial, it is
+> not open to the Court to grant injunction in his favour even if, he has made
+> out a case of balance of convenience being in his favour and would suffer
+> irreparable loss and injury if no injunction order is granted. "
+
+56\. Bearing in mind the noted principles, the Court notes that the balance of
+convenience would not lie in favour of the Petitioner as granting an
+injunction can lead to a situation where the value of the property/subject
+matter would be altered. On the other hand even if the shares are not freely
+tradeable, the Petitioner would still have the remedy in the form of the
+damages and it is not that the Petitioner would be rendered remediless. More
+importantly, its conduct disentitles it to inequitable relief of injunction as
+it has not exhibited that it possesses adequate financial capacity to complete
+the acquisition of the shares.
+
+57\. In view of the aforesaid discussion, the Court does not find any merit in
+the present petition. Accordingly, the petition is dismissed with no order as
+to costs.
+
+58\. The opinion expressed by the Court is only a prima facie view. Needless
+to say that the same shall not be binding on the Arbitral Tribunal and
+contentions of the parties and merits of the claims and/or counterclaims shall
+be examined uninfluenced by the observations made in the this judgment.
+
+O.M.P. (I) (COMM.) 96/2019 Page 66 of 67
+
+The interim order stands vacated.
+
+SANJEEV NARULA, J.
+
+JULY 01, 2019/ss/nk O.M.P. (I) (COMM.) 96/2019 Page 67 of 67
+

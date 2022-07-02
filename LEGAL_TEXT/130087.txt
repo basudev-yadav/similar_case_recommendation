@@ -1,0 +1,230 @@
+
+
+Delhi High Court
+
+Burlington Home Shopping Pvt. ... vs Rajnish Chibber on 20 October, 1995
+
+Equivalent citations: 1995 IVAD Delhi 732, 61 (1995) DLT 6, 1995 (35) DRJ 335,
+(1996) 113 PLR 31
+
+Author: R Lahoti
+
+Bench: R Lahoti
+
+JUDGMENT R.C. Lahoti, J.
+
+(1) This order shall dispose of an application for the grant of ad interim
+injunction and an application filed by the defendant seeking certain
+directions to the Local Commissioner in a suit for perpetual injunction
+restraining the breach of copyright and confidentiality, and for rendition of
+account, etc. (2) The plaintiff is a mail order service company. According to
+the plaintiff it publishes mail order catalogues dealing with several consumer
+items which are posted to the select list of the plaintiff's clients. By this
+method the plaintiff does substantial business. A major investment notably in
+the business of mail order shopping is the compilation of a list of
+clientele/customers database which is of essential importance and consequence.
+The plaintiff has developed a list of clientele/customers database over a
+period of three years prior to the institution of the suit by investing
+considerable amount of money and time. The said database is an expensive and
+gradual process of compilation. The defendant was at one time an employee of
+the plaintiff. His nature of the duties had nothing to do with the compilation
+and development of the database. However, on severing relationship with the
+plaintiff the defendant has established himself as a competitor by entering
+into mail order shopping business. He has managed to get a copy of the
+database, an otherwise guarded secret of the plaintiff and has started making
+use of the same for the purpose of establishing relationship with the
+plaintiff's customers. It is submitted that the said database is an original
+`literary work' wherein the plaintiff has the copyright and the defendant has
+infringed the same by his illegal act.
+
+(3) The defendant has denied all the material plaint averments. It is
+submitted that the said database is neither developed by the plaintiff nor
+does he have any copyright therein. It is also submitted by the defendant that
+he has developed his own database and utilisation thereof does not amount to
+any infringement of the copyright of the plaintiff.
+
+(4) The questions which arise for consideration are whether a database
+consisting of compilation of mailing addresses of customers can be subject
+matter of a copyright and whether the defendant can be said to have committed
+infringement of the plaintiff's copyright.
+
+(5) A few provisions of the Copyright Act 1957, as amended by the Copyright
+(Amendment) Act, 1994 ( Act No. 38 of 1994) may be looked into. Section 2(o)
+defines `literary work' to include (among others) computer programmes, tables
+and compilations including computer databases. Section 2(y) defines `work' as
+meaning any of the following works namely: (i) a literary, dramatic, musical
+or artistic work,(ii) a cinematographic film, (iii) sound recording. Under
+section 14, literary work is one of the items wherein exclusive rights can be
+claimed so as to amount to copyright. Under Section 17(c) if a work is made in
+the course of other's employment under a contract of service or apprenticeship
+it is the employer who is the first owner of the copyright therein in the
+absence of any agreement to the contrary.
+
+(6) Laddie, Prescott and Victoria have stated in The Modern Law Of Copyright (
+1980 EdN) : "FORM in which program or data is expressed 2.138 If a program or
+collection of data is first expressed in the form of invisible magnetic
+patterns on a tape, and still more if in the form of core storage, it is
+doubtful whether this constitutes `writing' within the meaning of the Act.
+`Writing' is defined as including `any form of notation, whether by hand or by
+printing, typewriting or any similar process'. Although it is arguable that
+`notation' should be given a wide meaning, there may be some difficulty in
+accepting that it includes the magnetisation states of an array of rings on
+wires; and all the concrete instances given in the definition involve visible
+symbols appreciable directly by humans. However, if the view be correct that a
+literary work need not be expressed in writing these difficulties largely
+disappear, and all the more so if it be accepted that the literary work is the
+thing which is the product of the author's mind."
+
+    
+    
+    (7) Copinger & Skone James on Copyright ( 1991 Edn.) deal with law in the context of compilation and state that "compilations" are included in `literary work'. They further state :    "TRADE catalogues are generally compilations, and as such are capable of protection as literary works. On similar principles, a computer database, stored on tape, disk or by other electronic means, would also generally be a compilation and capable of protection as a literary work"  
+    
+    (8) David Bainbridge has in Software Copyright Law (at p.48) dealt with computer database in the following terms:    "A computer database is a collection of information stored on computer media. The information may be a list of clients and their addresses or it may be the full text of various documents or it may be a set of co- ordinates relating to a three-dimensional building structure. The range of things which may be included in a computer database is enormous. The information contained in the database may, itself, be confidential and protected by the law of breach of confidence but what of the copyright position? The simplest way of looking at a computer database is to consider the work it represents, for example, a printed listing of names and addresses, a printed set of documents or a drawing of a building. Those works are protected by copyright as literary or artistic works. It does not matter if the work is never produced on paper and only ever exists on computer storage media. Example : Xyz Supplies Ltd has a computer database containing names, addresses, telephone and fax numbers of customers. This database has been developed over a couple of years and it is usual for a new customer's details to be entered directly into the computer by XYZ's telesales' staff without a written record being made. The customer database is protected by copyright as an original literary work (assuming a modicum of skill and judgment is involved in compiling the database, for example, if the telesales staff have to exercise judgment in deciding whether to accept a new customer). Being a compilation, it is a literary work. By storing the information in a database, it has been recorded in `writing or otherwise' as required by the Act ( `Writing 'is defined widely and includes any form of notation or code regardless of the method or medium of storage). Even if the database is never printed out on paper, it will be protected by copyright."  
+    
+    
+
+(9) What is confidentiality or secret information has been dealt with by
+McComas, Davison and Gonski in The Protection Of Trade SECRETS-A in General
+Guide (1981 Ed). The authors have stated that it is not possible to provide an
+exhaustive list of all that a court may regard as confidential or a trade
+secret. However, some examples of what has been held to constitute the subject
+matter of an action to protect confidential information or a trade secret
+include ( amongst others) customers lists and information concerning the
+proposed contents of a mail order catalogue. [at p.8,para 3.2] (10) In
+Copyright - Principles Law and Practice, ( Vol Ii para 15.11.1.2) :-Paul
+Goldstein states "TRADE secret law protects a wide array of business data :
+...... Customer lists and other compilations of business data may be
+copyrightable as fact works. In theory, copyright and trade secret law protect
+different elements of compiled business data, with copyright protecting the
+expression in these compilations and trade secret law protecting the
+underlying data. In fact, copyright and trade secret protection for
+compilations of business data frequently converge. Copyright protection for
+business directories often extends to the underlying data, and trade secret
+protection may extend to particular expressive arrangements of data."
+
+10.1The same author in Copyright Vol.1 (at para 2.16.1.1) states : "Database
+designers typically arrange the stored data in ways that, though
+unintelligible to the user, will increase the efficiency of the database by
+making the stored data most easily accessible. Most if not all of these
+arrangements probably contain sufficient authorship to satisfy the originality
+requirements. If the compiler selected the data for the database from a larger
+mass of data, protection may extend to her particular selection as well."
+
+10.2In footnote 21, below para 2.12.1.1 the same author states : " "Protection
+for the arrangement within the database will give the copyright owner rights
+only against someone- typically a competitor when directly copies expression
+embodying that arrangement from the database. Cf. Contu Final Report 42: "The
+retrieval and reduplication of any substantial portion of a data base, whether
+or not the individual data are in the public domain, would likely constitute a
+duplication of the copyrighted element of a data base and would be an
+infringement. In any event, the issue of how much is enough to constitute a
+copyright violation would likely entail analysis on a case-by-case basis with
+considerations of fair use bearing on whether the unauthorised copying of a
+limited portion of a data base would be held noninfringing."
+
+(11) Apart from the above said authorities, reference may be had to a few
+decided cases.
+
+11.1In Waterlow Directors Ltd vs Reed Information Service Ltd, 1992 Fsr (
+Fleet Street Report) 409, the names and addresses appearing in the plaintiff's
+directory but not in the defendant's directory were copied on to a word
+processor which was used to produce letters inviting the prospective clients
+to appear in the new editions of the defendant's directory. It was held: " It
+was clear that a person could not copy entries from a directory and use such
+copies to compile his own directory. Even if it was correct that a person
+could use the information in a directory to compile another directory provided
+that reproduction did not take place, that was not the case before the court.
+The defendant had reproduced the names and addresses from the plaintiff's
+directory onto a word processor and a computer."
+
+11.2William Hill (Football) Ltd vs Ladbroke (Football) Ltd, 1980 Rpc 539, was
+a case of compilation of certain lists by the plaintiff which were copied down
+by the defendant. It was held : " In my judgment the selection of those 16
+lists and the writing of them down in the coupon, with headings and notes, it
+a compilation which is the subject of copyright. Test it by an illustration I
+gave in the course of the argument. Suppose a bookseller let us call him
+William Hill, who is himself an expert critic, reads 500 books and selects 16
+of them as the best of the year. He makes a list of them and prints it on a
+circular which he heads "William Hill's selection of the 16 best books of the
+year" and sends it round to his customers. Is he not entitled to copyright in
+his circular ? I should have thought he clearly was. "
+
+11.3Govindan vs Gopalakrishna, was a case of compilation. It was held that
+though in the case of "compilation" the amount of originality will be very
+small but even that small amount is protected by law and no man is entitled to
+steal or appropriate for himself the result of another's brain, skill or
+labour even in such works. On the defense plea of common source it was held :
+" A person relying on it must show that he went to the common source from
+which he borrowed, employing his skill, labour and brains and that he did not
+merely do the work of the copyist, by copying away from another work."
+
+11.4Sham Lal Paharia vs Gaya Prasad Air 1971 Allahabad 182, it was held : "A
+compilation derived from a common source falls within ambit of literary work."
+"A work of compilation of a nature similar to that of another will not by
+itself constitute an infringement of the copyright of another person's work
+written on the same pattern. The question whether an impugned work is
+colourable imitation of another person's work is always a question of fact.
+The determining factor is to see whether the impugned work is a slavish
+imitation and a copy of another person's work or it bears the impress of the
+author's own labours and exertions." " It is true that from the mere fact that
+the defendant had the plaintiff's book with him will not by itself lead to an
+irresistible inference that he had copied the calculations from plaintiff's
+work. But from the fact that the mistakes committed by the plaintiff in
+certain calculations in his book are found in the defendant's book in similar
+calculations it must be held that the defendant had copied the calculations
+from plaintiff's book and must be deemed to have infringed the copyright of
+the plaintiff with regard to such calculations."
+
+THE learned Judge has during the course of his judgment laid down a few
+principles based on a review of the case law which are reproduced hereunder so
+far as relevant for the decision of the case at hand : " Some of the rules of
+law that emerge from the principles enunciated in the aforesaid cases may be
+briefly summarised.
+
+(1)Acompilation which may be derived from a common source falls within the
+ambit of literary work. (2)A work of compilation of a nature similar to that
+of another will not by itself constitute an infringement of the copyright of
+another person's work written on the same pattern. (3)The question whether an
+impugned work is a colourable imitation of another persons' work is always a
+question of fact and has to be determined from the circumstances in each case.
+(4)The determining factor in finding whether another person's copyright has
+been infringed is to see whether the impugned work is a slavish imitation and
+copy of another person's work or it bears the impress of the author's own
+labours and exertions. The aforesaid principles are by no means exhaustive.
+
+(12) From the above statement of the authorities and the trend of judicial
+opinion it is clear that a compilation of addresses developed by any one by
+devoting time, money labour and skill though the sources may be commonly
+situated amounts to a `literary work' wherein the author has a copyright.
+
+(13) On the institution of the suit the court directed appointment of a court
+commissioner well versed in operating computers. The Commissioner visited the
+premises of the defendant, operated the computer available there by utilising
+the defendant's floppies. Floppies were seized and have been brought to the
+court. On comparison of the data made available by the plaintiff with the data
+available on the floppies seized from the custody of the defendant it is found
+that a substantial number of entries are comparable word by word, line by line
+and even space by space. In some of the entries the locations of commas and
+full stop ( punctuation marks) are comparable. In a good number of entries
+spelling mistakes occurring in the plaintiff's data are to be found in the
+data compilation of the defendant as well. These provide an intrinsic
+irrebuttable circumstantial evidence of defendant having indulged into slavish
+imitation of plaintiff's compilation, making out a clear case of infringement
+of copyright. The database available with the defendant is substantially a
+copy of the database available with the plaintiff and compiled by him. The
+striking similarities noticed in the two databases could not have existed but
+for the fact of the defendant having made use of plaintiff's database. A
+strong prima facie case of infringement by the defendant of the plaintiff's
+copyright has been made out to the satisfaction of the court.
+
+(14) If the defendant is permitted to make use of the plaintiff's database, it
+is sure to cause an injury to the plaintiff which would be incapable of being
+estimated in terms of money. The balance of convenience is also in favor of
+the plaintiff.
+
+(15) For the foregoing reasons the application filed by the plaintiff is
+allowed. The defendant shall remain restrained during pendency of the suit
+from carrying on any business including mail order business by utilising the
+list of clientele/customers included in the database exclusively owned by the
+plaintiff.
+

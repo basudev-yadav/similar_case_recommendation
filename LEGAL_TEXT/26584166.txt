@@ -1,0 +1,619 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Global E-Business Operations ... vs Assistant Commissioner Of Income ... on 4
+December, 2020
+
+    
+    
+                                                      IT(TP)A No.725/Bang/2017
+                                  Global e-Business Operations Pvt. Ltd., Bangalore
+    
+    
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                         "A'' BENCH: BANGALORE
+    
+         BEFORE SHRI GEORGE GEORGE K., JUDICIAL MEMBER
+                               AND
+             SHRI B.R. BASKARAN, ACCOUNTANT MEMBER
+    
+                          IT(TP)A No.725/Bang/2017
+                           Assessment Year: 2012-13
+    
+         M/s. Global E-Business
+            Operations Pvt. Ltd.
+    2nd Floor Kalyani Platina, Phase-II                           ACIT
+    Building Survey Number 16 & 24                            Circle-3(1)(2)
+          of Kundanahalli Village             Vs.              Bangalore
+             K.R. Puram, Hobli
+            Bangalore-560 066
+    
+        PAN NO : AABCG2843D
+             APPELLANT                                       RESPONDENT
+    
+      Appellant by         :   Shri Sarath Rao, A.R.
+      Respondent by        :   Shri Sanjay Kumar, D.R.
+    
+                Date of Hearing       :                 01.12.2020
+                Date of Pronouncement :                 04.12.2020
+    
+                                    ORDER
+    
+
+PER B.R. BASKARAN, ACCOUNTANT MEMBER:
+
+The assessee has filed this appeal challenging the assessment order dated
+23.01.2017 passed by the assessing officer u/s 143(3) r.w.s 144C of the
+Income-tax Act,1961 ['the Act' for short] for assessment year 2012-13 in
+pursuance of directions given by Ld Dispute Resolution Panel (DRP).
+
+2\. Though the assessee has raised many grounds, at the time of hearing the Ld
+A.R pressed the grounds relating to the issue of IT(TP)A No.725/Bang/2017
+Global e-Business Operations Pvt. Ltd., Bangalore  Page 2 of 18
+
+(a) Exclusion of two comparable companies viz., M/s Infosys BPO Ltd and M/s
+TCS E-Serve Limited and
+
+(b) Treatment of foreign exchange gain/loss as operating income/expenses or
+not.
+
+3\. The assessee is a company belonging to M/s. Hewlette Packard (HP) group.
+The assessee is engaged in ITES services. The assessee undertakes HP's
+worldwide accounting and transaction processing work, provision of back office
+operation and customer support services to various associated enterprises. The
+assessee is being compensated at cost + 8%. The assessee adopted TNMM method
+to benchmark his transactions and the profit level indicator was taken as
+operating profit by operating cost (OP/OC). The assessee declared net margin
+of 19.08%. The TPO recomputed the margin of the assessee by excluding interest
+income and non-operating income and also reducing the expenditure.
+Accordingly, he computed the net margin of the assessee at 15.75%.
+
+4\. The assessee had selected 11 comparable companies in its transfer pricing
+study. The TPO rejected the transfer pricing study and he selected following
+set of comparable companies: Sl.No. Name of the case Operating income
+Operating cost OP/OC 1 Accentia Technologies Ltd. 126,38,02,000 112,89,16,000
+11.75 2 Universal Print Systems Ltd. 6,17,67,000 3,87,49,000 52.46 (Seg)(BPO)
+3 Informed Technologies India Ltd. 1,96,36,431 1,82,45,770 6.08 4 Infosys B P
+O Ltd. 1316,75,11,974 962,91,06,964 36.30 5 Jindal Intellicom Ltd.
+30,27,51,875 30,29,02,990 0.05 6 Microgenetic Systems Ltd. 1,29,93,217
+1,08,63,390 19.61 7 T C S E-Serve Ltd. 15,78,44,000 9,64,28,000 63.69 8 B N R
+Udyog Ltd. (Seg)(Medical 1,47,04,000 97,87,000 41.58 Transcription) 9 Excel
+Infoways Ltd. (Seg) 790,96,95,000 559,06,04,000 29.79 (IT/BVPO) 10 E4e
+Healthcare Services Pvt. Ltd. 89,50,04,209 74,59,23,078 19.85 Average PLI
+28.11% IT(TP)A No.725/Bang/2017 Global e-Business Operations Pvt. Ltd.,
+Bangalore  Page 3 of 18
+
+5\. After adding negative working capital adjustment of -0.06%, the adjusted
+margin was arrived at by the TPO at 28.17%. While working out the margin, the
+assessing officer treated the foreign exchange gain as non-operating in
+nature. Accordingly, he made transfer pricing adjustment of Rs.57,69,82,545/-.
+The Ld. DRP gave partial relief to the assessee which resulted in relief of
+Rs.45.20 crores. Accordingly, the assessing officer passed the final
+assessment order.
+
+6\. As noticed earlier, the assessee seeks exclusion of M/s Infosys BPO Ltd
+and M/s TCS E-Serve Limited. The Ld A.R submitted that the co-ordinate bench,
+vide its order dated 21.04.2017 passed in the assessee's own case in IT(TP)A
+No.147/Bang/2015 for assessment year 2010-11, has excluded M/s Infosys BPO
+Ltd. He submitted that the Hon'ble Karnataka High Court did not admit the
+appeal filed by the revenue challenging the order passed by the Tribunal by
+observing that no substantial question of law arises, vide its order dated 6th
+July, 2018 in ITA No.896/2017.
+
+7\. With regard to functionality of M/s Infosys BPO Ltd, the assessee
+submitted as under:-
+
+> (a) it is engaged in providing integrated IT and business process
+> outsourcing solutions,
+
+> (b) it is also engaged in providing consultancy, management and strategic
+> transformation services
+
+> (c) it caters to diverse business segments.
+
+> (d) It has got delivery centres in USA, Australia, Czech Republic, Poland,
+> Thailand and Phillippines and also earns 'on site' revenues.
+
+> (e) It is a market leader.
+
+IT(TP)A No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore
+Page 4 of 18 Accordingly it was submitted that this company's functions are
+different from that of the assessee company. It is also submitted that this
+company owns IPR and brand and incurs advertisement and marketing expenses on
+brand building. It is backed by M/s Infosys Ltd. It was further submitted that
+there was an extra ordinary event during the year, i.e., it has acquired
+Portland Group Pty Ltd, Australia during the year under consideration. The
+above said company has expertise in Strategic outsourcing and category
+management services. Further the said acquisition has enhanced the delivery
+presence in high end sourcing and procurement space in Asia Pacific region. It
+was submitted that this company has been excluded in various decisions.
+
+8\. With regard to functionality of M/s TCS E-Serve Limited, the assessee
+submitted as under:-
+
+> (a) it is engaged in delivering core business processing services,
+> analytics/insights (KPO) and support services for both data and voice
+> processes.
+
+> (b) it offers integrated portfolio of service ranging from IT services to
+> BPO services.
+
+Accordingly, it is submitted that this company is providing KPO services and
+hence functionally different. It is further submitted that the company is
+backed by M/s TCS Ltd and Tata brand equity. This company did not disclose BPO
+services as separate segment. It was submitted that major business of TCS E
+Service is from Citi Group pursuant to prior global arrangement making it a
+deemed international transaction. Further, Citi has signed an agreement with
+TCS to provide process outsourcing services to Citi and its affiliates for an
+aggregate amount of USD 2.5 billion over a period of 9 years during the FY
+2008-09. The Ld A.R submitted that this company has also been excluded in many
+decisions.
+
+IT(TP)A No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore
+Page 5 of 18
+
+9\. The Ld D.R submitted that both the assessee and Infosys BPO Ltd fall under
+the category of companies providing ITES services in the form of business
+process outsourcing, i.e., both the companies are providing solutions to
+business processes outsourced to them. Even though M/s Infosys BPO is catering
+to various types of industries and the assessee is catering to the needs of HP
+group, yet the functions performed by them remain the same. He submitted that
+both the companies are operating worldwide. The turnover of both the companies
+are also comparable, i.e., the turnover of the assessee company was Rs.1130
+crores, while the turnover of M/s Infosys BPO Ltd was Rs.1530 crores. the He
+submitted that the assessee herein is part of Hewlett-Packard Group. Hence
+both the companies have huge brand presence. Hence it cannot be said that the
+brand value would affect profitability of the companies. He further submitted
+that the extra ordinary event, viz., acquisition of Portland group Pty Ltd,
+Australia has taken place in the last quarter of the financial year and hence
+the said acquisition would not affect FAR analysis.
+
+10\. The Ld D.R further submitted that assessee company also reports all its
+revenues under single head "Revenue from Data processing and other ITES".
+Hence there is no material difference in this aspect also. The ld D.R further
+submitted that various case laws relied upon by the assessee are
+distinguishable.
+
+11\. He submitted that all the above said contentions would apply to TCS
+e-serve Ltd also. Accordingly he submitted that the Ld DRP was justified in
+including both the above said comparable companies.
+
+12\. The Ld A.R submitted that, under broad classification, both the companies
+would fall under ITES segment. However, specific IT(TP)A No.725/Bang/2017
+Global e-Business Operations Pvt. Ltd., Bangalore  Page 6 of 18 services
+rendered by both the companies would show that the functions performed by the
+assessee company is different from the functions performed by M/s Infosys BPO
+Ltd and M/s TCS E-serve Ltd. While the assessee is providing basic backend
+services to HP group, both the above said companies are providing multiple
+services across the globe. He submitted that the assessee is providing
+services only to its group companies and hence the effect of "brand value"
+will not be there. While dealing with third parties, "brand value" commands a
+premium on pricing. Hence both the companies cannot be compared with the
+assessee company.
+
+13\. The Ld A.R submitted that while "Hewlett-packard" may be a known brand,
+yet it is not known for rendering back-end BPO support services, i.e., it is
+known for providing hardware and IT solutions to its customers. Hence
+providing ITES services is not the core business of HP group and hence its
+brand value of HP cannot be compared with that of M/s Infosys and M/s Tata
+group. He submitted that M/s Infosys Ltd, the parent company has provided
+performance guarantee to clients of M/s Infosys BPO Ltd. He submitted that
+there is close connection between M/s TCS E-serve and Tata Consultancy
+Services Ltd, which has got high brand value.
+
+14\. The Ld D.R submitted that the "service delivery" is more important than
+the brand value. He further submitted that the annual reports do not show that
+the revenue growth of both the companies are attributable to its parent
+companies. The Annual report adduces other reasons for their growth. He
+submitted that the details of performance guarantee provided by M/s Infosys
+Ltd are not available and hence it cannot be presumed that such type of
+guarantee was provided to all the clients. The Ld D.R submitted that the
+impact of brand value was not examined in any of the earlier decisions
+rendered by the Tribunal in the assessee's own case. He IT(TP)A
+No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore  Page 7 of
+18 further submitted that to perpetuate an error is no heroism as held by
+Hon'ble Supreme Court in the case of Distributors Baroda Ltd (155 ITR 120). He
+submitted that the Hon'ble Supreme Court has held in the case of Rameshlal
+Sanwarmal (122 ITR 162) has held that the error committed in earlier decision
+could be corrected in a later decision.
+
+15\. The Ld A.R, in reply, submitted that, in various decisions rendered by
+High Courts, it has been held that the brand value plays a significant role.
+He submitted that M/s Infosys Ltd has given brand value computation at page 70
+of its annual report. It is stated that its total profit before interest and
+tax was Rs.11683 crores, consisted of brand profits of 9969 crores and non-
+brand income of Rs.1714 crores. He submitted that above consolidated profits
+also include profits of Infosys BPO Ltd as well.
+
+16\. We have heard rival contentions and perused the record. We notice that
+the main thrust of Ld D.R's contention was that the HP group is also
+possessing equal brand value, that the turnover of the assessee and that of
+M/s Infosys Ltd falls under the same bracket, that there is no evidence to
+show that the comparable companies have capitalised its brand value, that both
+the companies are rendering ITES services only. With regard to the submission
+on performance guarantee provided by parent company, the Ld D.R submitted that
+the relevant details are not available. In respect of acquisition of a new
+company in Australia by M/s Infosys, the Ld D.R contended that it may not have
+impact during the year, since the acquisition has taken place in the last
+quarter of the year.
+
+17\. On the contrary, the contention of Ld A.R is that both the comparable
+companies have been excluded in many cases on the reasoning that they possess
+huge brand value. One main distinction IT(TP)A No.725/Bang/2017 Global
+e-Business Operations Pvt. Ltd., Bangalore  Page 8 of 18 brought out by Ld A.R
+was that the Hewlett-Packard is having brand value for providing hardware and
+IT solutions to its customers, i.e., it is not known for rendering back-end
+BPO support services. We appreciate this distinction brought out by Ld A.R.
+There should not have any doubt that the "brand value" possessed by a company
+has definite role to play in fixing the pricing of product/services, but it
+may have effect only in the field, in which it possesses expertise. Hence the
+brand value held by M/s Hewllett-Packard may be helpful in marketing of
+hardware and IT solutions, i.e., it cannot be said that their brand value
+would command a premium in respect of back end BPO support services.
+
+18\. The Ld A.R placed his reliance on host of decisions to contend that the
+companies having huge brand value cannot be considered as comparable company.
+In the case of Pr. CIT vs. M/s Sanvih Info Group P Ltd (ITA 420/2019 dated
+16.05.2019)(Delhi), the Hon'ble Delhi High Court referred "M/s Infosys Ltd" as
+giant corporation. In the case of Avaya India (P) Ltd vs. ACIT (2019)(108
+taxmann.com
+
+222), the Hon'ble Delhi High Court has made following observations with regard
+to TCS E-Serve Ltd:-
+
+> "21. A reference may next be made to the decision in Evalueserve Sez
+> (Gurgaon) (P.) Ltd. (supra) where a reference is made to the earlier
+> decision to the BC Management Services (P.) Ltd. (supra). This decision
+> dealt with the exclusion of three specific comparables, which have also
+> involved in the present case namely M/s. TCS E-Serve Ltd., M/s. TCS E-Serve
+> International Ltd. and M/s. Infosys BPO Ltd. This Court upheld the exclusion
+> of all three comparables and in particular since the entities had "a high
+> brand value and therefore were able to command greater profits; besides they
+> operated on economic upscale."
+
+> 22\. The Revenue's appeal against the same Assessee for AY 2011-2012 against
+> another order of the ITAT excluding TCS E-
+
+Serve International Limited, Infosys BPO Limited from comparables met the same
+fate. In its decision dated 29th August, 2018 the Court referred to the
+earlier decision dated 26th February, IT(TP)A No.725/Bang/2017 Global
+e-Business Operations Pvt. Ltd., Bangalore  Page 9 of 18 2018 which again
+pertained to AY 2010-2011. Reference was again made to the decision in BC
+Management Services Ltd.
+
+23\. It appears therefore that this Court has consistently upheld decisions of
+the ITAT excluding both these very comparables. The ITAT itself appears to
+have taken a consistent view in a large number of cases excluding these two
+comparables and its decisions have been upheld by this Court. Illustratively
+reference may be made to the decision of the Tribunal in Vertex Customer
+Services India (P.) Ltd. v. Dy. CIT [2017] 88 taxmann.com 286 (Delhi - Tri.),
+Stryker Global Technology Centre (P.) Ltd. v. Dy. CIT [2017] 87 taxmann.com 43
+(Delhi - Tri.), Samsung Heavy Industries India (P.) Ltd. v. Dy. CIT [2017] 84
+taxmann.com 154 (Delhi - Tri.) and Equant Solutions India (P.) Ltd. v. Dy. CIT
+[2016] 66 taxmann.com 192/157 ITD 292 (Delhi - Trib.).
+
+24\. All of these decisions pertained to AY 2010-2011. What weighed invariably
+is the fact that both companies had huge turnovers when compared to the tested
+entity. Both entities had close connection of the Tata Group of Companies and
+TCS E- Serve International had given a huge amount to TCS towards brand
+equity. Further there was no segmental bifurcation between the transaction
+processing and technical services. The assets employed by TCS E-Serve along
+with huge intangibles in the form of brand value were found to have a definite
+considerable effect on its PLI. These factors vitiated its comparability under
+the FAR analysis with the tested company, which could be a capital service
+provider without much intangible and risks.
+
+25\. In this context it requires to be noted that the ITAT also referred to
+the decision of this Court CIT v. Agnity India Technologies (P.) Ltd. [2013]
+36 taxmann.com 289/219 Taxman
+
+26\.
+
+26\. The Court may also note that the Karnataka High Court has in Pr. CIT v.
+Softbrands India (P.) Ltd. [2018] 94 taxmann.com 426/406 ITR 513 (Kar.) noted
+as under:
+
+> "48. The Tribunal of course is expected to act fairly, reasonably and
+> rationally and should scrupulously avoid perversity in their Orders. It
+> should reflect due application IT(TP)A No.725/Bang/2017 Global e-Business
+> Operations Pvt. Ltd., Bangalore  Page 10 of 18 of mind when they assign
+> reasons for returning the particular findings.
+
+> 49\. For instance, while dealing with comparables of filters, if unequals
+> like software giant Infosys or Wipro are compared to a newly established
+> small size Company engaged in Software service, it would obviously be wrong
+> and perverse. The very word "comparable" means that the Group of Entities
+> should be in a homogeneous Group. They should not be wildly dissimilar or
+> unlike or poles apart. Such wild comparisons may result in the best judgment
+> assessment going haywire and directionless wild, which may land up the
+> findings of the Tribunal in the realm of perversity attracting interference
+> under section 260-A of the Act."
+
+27\. There is merit in the contention of the Assessee that the scale of
+operations of the comparables with the tested entity is a factor that requires
+to be kept in view. TCS E-Serve has a turnover of Rs. 1359 crores and has no
+segmental revenue whereas the Assessee's entire segmental revenue is a mere 24
+crores. As observed by this Court in its decision in Pr. CIT v. Actis Global
+Service (P.) Ltd. [IT Appeal No. 417 of 2016, dated 5-8- 2016]"Size and Scale
+of TCS's operation makes it an inapposite comparable vis-a- vis the
+Petitioner." As already pointed out earlier there is a closer comparison of
+TCS E-Serve Limited with Infosys BPO Limited with each of them employing
+13,342 and 17,934 employees respectively and making Rs. 37 crores and Rs. 19
+crores as contribution towards brand equity. When Rule 10(B) (2) is applied
+i.e. the FAR analysis, namely, functions performed, assets owned and risks
+assumed is deployed then brand and high economic upscale would fall within the
+domain of "assets" and this also would make both these companies as unsuitable
+comparables.
+
+28\. The Director's report of TCS E-Serve Limited bears out the contention of
+the Assessee that both entities have been leveraging TCSs scale and large
+client base to increase their business in a significant way. The submission
+that the two comparables offer an illustration of "an identical transaction
+being conducted in an uncontrolled manner" overlooks the effect of the Tata
+brand on the performance of the impugned comparables. The question was not
+merely whether the margins earned by the Tata IT(TP)A No.725/Bang/2017 Global
+e-Business Operations Pvt. Ltd., Bangalore  Page 11 of 18 group in providing
+captive service to the Citi entities were at arm's length. The question was
+whether they offered a reliable basis to re-calibrate the PLI of the Assessee
+whose scale of operations was of a much lower order than the two impugned
+comparables. The mere fact that the transactions were identical was not, in
+terms of the law explained in the above decisions, either a sole or a reliable
+yardstick to determine the apposite choice of comparables." In the above said
+case, the Hon'ble High Court has considered multiple criteria to hold that M/s
+TCS E Serve Ltd and M/s Infosys BPO Ltd are not comparable. Further all these
+decisions pertained to AY 2010-11. We are conscious of the fact that we are
+dealing with the case relating to AY 2012-
+
+19\. In our view, the decision rendered by the Hon'ble High Court and various
+benches of Tribunal holding that the companies having high brand value cannot
+be considered as comparable companies can be conveniently applied to the year
+under consideration also. We have also noticed that M/s Infosys BPO Ltd is
+being consistently excluded in the assessee's own case in the earlier years.
+
+20\. M/s TCS E Serve Ltd was considered by the co-ordinate bench in the case
+of M/s Arctern Consulting Pvt Ltd (IT(TP)A No.352/Bang/2017 dated 15.10.2019
+relating to AY 2012-13) and it was held as under:-
+
+> "10. As far as TCS E Service Ltd., is concerned, the comparability of this
+> company was considered by this Tribunal in the case of Zyme Solutions Ltd.,
+> in its order dated 16.11.2018 as follows:-
+
+"11. TCS E Service Ltd.:
+
+> This company was selected by the TPO and objected by the assessee for
+> inclusion in the list of comparables on the ground that it is functionally
+> different as it is engaged in the business of BPO, banking, finance,
+> insurance domain. This contention was rejected by the TPO by holding that it
+> is engaged in BPO, business of banking, finance, insurance IT(TP)A
+> No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore  Page 12
+> of 18 domain, which are purely in the nature of ITES. Even the Hon'ble DRP
+> confirmed the findings of the TPO.
+
+11.1 Being aggrieved, the assessee is before us contending that this company
+is functionally different as it is engaged in diversified business activities
+of BPO such as banking, finance, insurance. Learned AR of the assessee has
+also drawn our attention to the Annual Report placed at pages 563 to 563 of
+the paper book and reliance in this regard was placed on the following
+decisions:
+
+Turnover Filter:
+
+i. McAfee Software (India) Pvt Ltd US-136-ITAT- 2016(Bang)-TP] ii. Swiss Re
+Global Business Solutions India (P.) Ltd. FS- 307-ITAT- 2017(Bang)
+Functionally different filter:
+
+i. XL Health Corporation India (P.) Ltd. (supra) ii. Baxter India (P.) Ltd. v.
+ACIT12017185 taxmann.com 285 (Delhi - Trib.) iii. CGI Information Systems and
+Management Consultants (P.) Ltd.(supra) IT(TP)A No. 352/Bang/2017 11.2 On the
+other hand, ld. CIT(DR) opposed its exclusion. He submitted that this company
+is engaged in KPO services and there is no difference between KPO and ITES.
+
+11.3 We have heard rival submissions and perused material on record. The issue
+of comparability of this company was considered by the co-ordinate bench of
+Tribunal in the case of XLHealth Corpn. India (P.) Dd. (supra). The relevant
+findings of the Tribunal are as under:
+
+> '. . . We have heard the rival submissions and perused the material on
+> record. From the perusal of the Annual Report of this entity placed at page
+> Nos. 583 to 678 of paper book, at page No. 604 it is stated as under.
+
+> "2. COMPANY OVERVIEW Your Company, along with its subsidiary companies - TCS
+> e-Serve International Limited and TCS e-Serve America IT(TP)A
+> No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore  Page 13
+> of 18 Inc., is primarily engaged in the business of providing Business
+> Process Services (BPO) for its customers in Banking, Financial Services and
+> Insurance domain.
+
+> The Company's operations include delivering core business processing
+> services, analytics & insights (KPO) and support services for both data and
+> voice processes.
+
+> Your Company is an integral part of the Tata Consultancy Services' (TCS)
+> strategy to build on its 'Full Services Offerings' that offer global
+> customers an integrated portfolio of services ranging from IT services to
+> BPO services.
+
+> The Company provides its services from various processing facilities, backed
+> by a robust and scalable infrastructure network tailored to meet clients'
+> needs. A detailed Business Continuity Plan has also been put in place to
+> ensure the services are provided to the customers without any disruptions."
+
+> Thus, this company is also stated to be a Knowledge Process Outsourcing and
+> therefore for the reasons stated by us while dealing with this issue of
+> comparability of the company Infosys BPO Ltd. shall equally hold good and
+> therefore we direct the AO/TPO to exclude this company from the list of
+> comparables.
+
+> Since the appellant company is into low end BPO, it cannot be compared with
+> KPO service provider.
+
+> 11.4 Respectfully following the decision of the co-ordinate bench of
+> Tribunal, we direct for exclusion of this company from the list of
+> comparable."
+
+> 11\. Respectfully following the aforesaid decision, we hold that TCS E
+> Service Ltd., should be excluded from the list of comparable companies."
+
+We notice that M/s TCS E-serve Ltd has been excluded, inter alia, for the
+reason that it is providing KPO services and further it is IT(TP)A
+No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore  Page 14 of
+18 explicitly stated that it is an integral part of Tata Consultancy Services
+strategy to build on its "Full Service offerings" that offer global customers
+an integrated portfolio of services ranting from IT services to BPO services.
+It is further observed by the co-ordinate bench that the decision taken in
+respect of M/s Infosys BPO Ltd would equally apply to M/s TCS E serve Ltd
+also.
+
+21\. We have noticed that the assessee herein is undertaking backend
+processing of accounting and other transactions, back office operations,
+customer support services to various Associated Enterprises. Hence they are in
+the nature of BPO services only, while M/s Infosys BPO Ltd and M/s TCS E serve
+Ltd are providing variety of other services. Besides both the above said
+companies are supported by their parent companies, having huge brand value.
+Accordingly, we hold that both the above said companies cannot be considered
+as comparable companies. Accordingly, we direct the AO/TPO to exclude both M/s
+Infosys BPO Ltd and M/s TCS E serve Ltd from final list of comparables.
+
+22\. The next issue is whether foreign exchange fluctuation gain/loss shall
+form part of operating income/loss or not. We notice that an identical issue
+has been decided by the co-ordinate bench in the case of M/s Arctern
+Consulting Pvt Ltd (IT(TP)A No.352/Bang/2017 dated 15.10.2019) as under:-
+
+> "12. The next issue that needs to be adjudicated is as to whether foreign
+> exchange fluctuation gain or loss should be considered as part of the
+> operating profit while computing the profit margin of the assessee as well
+> as the comparable companies. The main reason why the DRP considered foreign
+> exchange gain should not be treated as a part of the operating profit was
+> due to the fact that the assessee in the preceding Assessment year did not
+> consider foreign exchange loss as operating in nature. The DRP was of the
+> IT(TP)A No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore
+> Page 15 of 18 view that the assessee has to be consistent in the approach in
+> this regard.
+
+13\. At the time of hearing, however, the learned Counsel for the assessee
+brought to our notice the decision of the ITAT Bangalore Bench in the case of
+Finastra Software Solutions (India) Pvt. Ltd., Vs. ACIT (2018) 93 taxmann.com
+460 (Bangalore - Trib.) wherein this Tribunal considered the very same issue
+and held as follows:-
+
+> "38. As far the issue treating foreign exchange gain as operating revenue is
+> concerned, it has been held a several decisions of various Benches of ITAT
+> that foreign exchange gain, to the extent it relates to or connected with
+> the business for which ALP is determined, is to be regarded as operating
+> revenue or loss as the case may be. In the case of SAP Labs India (P.) Ltd.
+> v. Asstt. CIT [2010] 8 taxmann.com 207/[2011] 44 SOT 156 (Bang.) and Trilogy
+> E Business Software India (P.) Ltd. v. Dy. CIT [2011] 12 taxmann.com 464/47
+> SOT 45 (Bang)(URO), which decisions have subsequently been consistervs
+> followed by this Tribunal, lays down the proposition that foreign exchange
+> gain or loss has to be regarded as IT(TP)A No. 352/Bang/2017 operating
+> revenue or loss. The learned DR however brought to our notice a decision of
+> the ITAT Bangalore Bench in the case of Commonscope Networks (India) (P.)
+> Ltd. v. ITO IT(TP: A.No.166 & 181/Bang/2016 order dated 22.2.2017 wherein it
+> was the foreign exchange gain or loss that arises should relate to the
+> concerned AY because what is compared is the profit margin of a particular
+> AY. According to him therefore the TPO/AO should examine the nature of
+> foreign exchange gain or loss in the case of the Assessee and the comparable
+> companies and to the extent it relates to turnover of the relevant AY and
+> the segment for which ALP is being determined, the same should alone be
+> considered as part of the operating revenue or loss. The learned counsel for
+> the Assessee pointed out that it is impossible to carry out such an
+> exercise. The Assessee might be willing to carry out such an exercise but
+> the same cannot be expected from the comparable companies who have to
+> furnish the relevant data. He also pointed out that under rule 10B(3) of the
+> IT(TP)A No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore
+> Page 16 of 18 criteria for comparability is the effect of profit on account
+> of differences. Rule 10B(3) reads thus:
+
+> "(3) An uncontrolled transaction shall be comparable to an international
+> transaction if--
+
+> (i) none of the differences, if any, between the transactions being
+> compared, or between the enterprises entering into such transactions are
+> likely to materially affect the price or cost charged or paid in, or the
+> profit arising from, such transactions in the open market; or
+
+> (ii) reasonably accurate adjustments can be made to eliminate the material
+> effects of such differences."
+
+> The learned counsel for the Assessee therefore submitted that profit arising
+> from comparable transaction will not be materially affected by adopting the
+> foreign exchange gain as reflected in the accounts of the comparable
+> companies because the terms of credit are almost identical in the line of
+> business of SWD Services and ITES.
+
+> 39\. We have considered the rival submissions and are of the view that in
+> the light of Rule 10B(3) of the Rules and the business cycle in the relevant
+> business, the comparability will not be materially affected if the foreign
+> exchange gain is considered as reflected in the accounts of the comparable
+> companies as available in public domain. To this extent the decision
+> rendered by the Bangalore Bench of ITAT in the case of Commonscope Networks
+> (India) Pvt.Ltd. (supra) is distinguishable. Therefore respectfully
+> following the decision of the ITAT Bangalore in the case of SAP Labs India
+> (P.) Ltd. (supra), we hold that the DRP was justified in directing the AO to
+> IT(TP)A No. 352/Bang/2017 consider the foreign exchange gain or loss as
+> operating in nature. Therefore, in light of the above, this ground of the
+> Revenue is liable to be dismissed."
+
+14\. In view of the aforesaid decision, we are of the view that the foreign
+exchange gain has to be treated as part of the operating profit while
+computing the profit margin of the assessee as well of the comparable
+companies. The TPO is directed to compute the IT(TP)A No.725/Bang/2017 Global
+e-Business Operations Pvt. Ltd., Bangalore  Page 17 of 18 ALP in the light of
+the directions given above, after affording opportunity of being heard to the
+assessee. All other issues arising on account of TP adjustments were not
+argued and therefore treated as not pressed for adjudication."
+
+23\. The Ld D.R submitted that the TPO had treated the foreign exchange
+fluctuation loss incurred by the assessee in the immediately preceding year as
+non-operating in nature and the assessee did not object to the same.
+Accordingly he submitted that the assessee cannot change its stand and contend
+that the foreign exchange gain should be treated as operating income. The Ld
+A.R submitted that the assessee, in its transfer pricing study, has always
+been treating foreign exchange loss/gain as operating in nature. In the
+preceding year, the assessee had incurred foreign exchange fluctuation loss
+and exclusion of the same resulted in increase of operating margin. Since it
+was advantageous to the assessee, the action of TPO was not objected to. He
+submitted that the nature of transaction is more relevant than the stand taken
+by the assessee.
+
+24\. We notice that the Tribunal, in the above said case, has taken the view
+that the foreign exchange fluctuation gain/loss is operating in nature.
+Accordingly, following the same, we hold that that foreign exchange fluction
+gain/loss should be treated as operating profit/loss in nature while computing
+the profit margin of the assessee as well as of the comparable companies.
+
+25\. In view of the foregoing discussions, the ALP of the transactions require
+to be determined afresh in the light of decisions rendered supra. Accordingly,
+we restore this matter to the file of the AO/TPO.
+
+IT(TP)A No.725/Bang/2017 Global e-Business Operations Pvt. Ltd., Bangalore
+Page 18 of 18
+
+26\. In the result, the appeal of the assessee is treated as allowed. Order
+pronounced in the open court on 4th Dec, 2020 Sd/- Sd/-
+
+    
+    
+     (George George K.)                                 (B.R. Baskaran)
+      Judicial Member                                 Accountant Member
+    
+    Bangalore,
+    Dated 4th Dec, 2020.
+    VG/SPS
+    
+    Copy to:
+    
+    1.    The Applicant
+    2.    The Respondent
+    3.    The CIT
+    4.    The CIT(A)
+    5.    The DR, ITAT, Bangalore.
+    6.    Guard file
+                                                  By order
+    
+    
+    
+                                     Asst. Registrar, ITAT, Bangalore.
+     
+

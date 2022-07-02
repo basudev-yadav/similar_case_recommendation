@@ -1,0 +1,526 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+M/S. Motherson Sumi Infotech & ... vs Dcit, New Delhi on 31 August, 2020
+
+    
+    
+          IN THE INCOME TAX APPELLATE TRIBUNAL
+               (DELHI BENCH 'I-1' : NEW DELHI)
+    
+               (THROUGH VIDEO CONFERENCE)
+    
+      BEFORE SHRI N.K.BILLAIYA, ACCOUNTANT MEMBER
+                            and
+           SHRI KULDIP SINGH, JUDICIAL MEMBER
+    
+                        ITA No.1751/Del./2015
+                      (Assessment Year : 2010-11)
+    
+    M/s Motherson Sumi Infotech       Vs.   DCIT
+    & Designs Limited                       Circle-17(1), Room No. 317-B
+    F-7, B-1, Mohan Cooperative             C.R.Building, I.P.Estate
+    Industrial Estate, Mothura Road
+    New Delhi- 110044                       New Delhi-110002
+    (PAN : AACCM3199B)
+    
+    (APPELLANT)                       (RESPONDENT)
+    
+    ASSESSEE BY : Shri Ravi Sharma, Sh. Anubhav Rastogi, Adv.
+    REVENUE BY : Shri Surendra Pal, CIT-DR
+    Date of Hearing : 25.08.2020
+    Date of Order : 31.08.2020
+    
+                               ORDER
+    
+
+PER KULDIP SINGH, JUDICIAL MEMBER The Appellant, M/s. Motherson Sumi Infotech
+& Designs Limited (MIND) (hereinafter referred to as 'the Taxpayer') by filing
+the present appeal sought to set aside the impugned order dated 14.11.2014
+passed by the Assessing Officer (AO) in consonance with the orders passed by
+the ld. DRP/TPO under  2 ITA No.1751/Del/2015 section 254/143 (3) read with
+section 144C of the Income-tax Act, 1961 (for short 'the Act') qua the
+assessment year 2010-11 on the grounds inter alia that :-
+
+"That on the facts and circumstances of the case, and in law;
+
+1\. The assessment order passed by the Learned Assessing Officer ('Ld. AO')
+pursuant to the directions of Learned Dispute Resolution Panel ('Ld. DRP') is
+bad in law and void ab-initio.
+
+2\. The Ld. AO (following the directions of the Ld. DRP), erred both on facts
+and in law in confirming the addition of Rs. 3,24,37,885/- to the income of
+the Appellant proposed by the Transfer Pricing Officer ('Ld. TPO') by holding
+that its international transactions pertaining to provision of software
+development services do not satisfy the arm's length principle envisaged under
+the Income- tax Act, 1961 ('the Act') and in doing so, the Ld. DRP and the Ld.
+AO has grossly erred in agreeing with and upholding the Ld. TPO's action of:
+
+> 2.1 not appreciating that none of the conditions set out in section 920(3)
+> of the Act are satisfied in the present case; 2.2 ignoring the fact that the
+> appellant is entitled to tax holiday under section 10B of the Act on its
+> profits and therefore would not have any untoward motive of deriving a tax
+> advantage by manipulating transfer prices of its international transactions;
+
+> 2.3 disregarding the arm's length price ('ALP'), as determined by the
+> Appellant in the Transfer Pricing ('TP') documentation maintained by it in
+> terms of section 92D of the Act read with Rule 10D of the Income-tax Rules,
+> 1962 ('Rules') as well as fresh search; and in particular modifying/
+> rejecting the filters applied by the Appellant;
+
+> 2.4 disregarding multiple year/ prior years' data as used by the Appellant
+> in the TP documentation and holding that current year [i.e. Financial Year
+> ('FT) 2009-10] data for comparable companies should be used;
+
+> 2.5 rejecting comparability analysis undertaken by the Appellant in the TP
+> documentation/ fresh search and conducting a fresh comparability analysis
+> based on application of additional/ revised filters, or disregarding
+> Appellant's filters in determining the ALP for the international
+> transactions;
+
+2.6 including companies having high margin / volatile operating profit margins
+in the final comparables' set for benchmarking a  3 ITA No.1751/Del/2015 low
+risk service provider such as the Appellant; 2.7 including certain companies
+in the final set of comparables that are not comparable to the Appellant in
+terms of functions performed, assets employed and risks assumed; 2.8 resorting
+to arbitrary rejection of low-profit/ loss making companies and companies with
+diminished revenues based on erroneous and inconsistent reasons;
+
+2.9 excluding certain companies on arbitrary/ frivolous grounds even though
+they are comparable to the Appellant in terms of functions performed, assets
+employed and risks assumed; 2.10 by committing a number of factual
+/computational errors in selection/ rejection of proposed comparables and/ or
+in the operating profit margins of the comparables; 2.11 ignoring the
+business/ commercial reality that the Appellant undertakes limited business
+risks as against comparable companies that are full-fledged risk taking
+entrepreneurs, and by not allowing a risk adjustment to the Appellant on
+account of this fact;
+
+2.12 by denying the benefit of a working capital adjustment while computing
+the ALP and thereby disregarding the law, international guidance and judicial
+precedents in this regard;
+
+2.13 by making the TP addition to the entire value of transactions entered
+into by the Appellant in its export segment and not only to the value of
+international transactions entered into by the Appellant (i.e. proportionate
+adjustments) and ignoring established jurisprudence in this regard;
+
+2.14 disregarding judicial pronouncements in India in undertaking the TP
+adjustment;
+
+3\. On a without prejudice basis to the other grounds, the Ld. AO / DRP has
+erred in facts and in law, in ignoring the alternative benchmarking analysis
+conducted by the Appellant considering Internal Comparable Uncontrolled Price
+('CUP') method to determine the arm's length price of the software development
+services provided by the Appellant;
+
+4\. On a without prejudice basis to the other grounds, the Appellant craves to
+submit alternative benchmarking analysis considering Internal Transactional
+Net Margin Method ('TNMM') to determine the arm's length price of the software
+development services provided by the Appellant;
+
+5\. The Ld. DRP erred in disregarding the detailed arguments/ submissions put
+forth by the Appellant during the  4 ITA No.1751/Del/2015 course of the DRP/
+assessment proceedings while passing its direction under section 144C of the
+Act;
+
+6\. The Ld. AO has grossly erred by proposing to compute interest under
+section 234A, 234B, 234C and 234D of the Act;
+
+7\. The Ld. AO has grossly erred in initiating penalty under section 27l(l)(c)
+of the Act mechanically and without recording any satisfaction for its
+initiation.
+
+The above grounds are without prejudice to each other. The Appellant craves
+leave to alter, amend or withdraw all or any of the grounds herein or add any
+further grounds as may be considered necessary either before or during the
+hearing."
+
+2\. Briefly stated the facts necessary for adjudication of the controversy at
+hand are : (M/s. Motherson Sumi Infotech & Designs Ltd. (MIND) Taxpayer is a
+Joint venture between Sumitomo Wiring Systems Ltd., Japan and Motherson Group,
+India. Taxpayer is into providing customized business solutions and software
+services to its Associated Enterprises (AE). Customised business solutions are
+provided in the areas of ERP, Bar-coding solutions, supply chain management
+(SCM), Business Intelligence, Workflow automation, Device Interface solutions
+and Network Management. MIND has been catering to manufacturing automotive,
+banking industries and the government sector.
+
+3\. During year under assessment, taxpayer entered into International
+Transaction with its associated enterprises (AE) reported in Form No. 3 CEB as
+under :-
+
+    
+    
+    
+    S. No.        International Transaction            Amount (In Rs.)
+        1.        Services rendered                    28,25,40,187
+        2.        Services received                        14,92,933
+                                           5                     ITA No.1751/Del/2015
+    
+    
+         3.        Reimbursement paid                        38,85,945
+         4.        Reimbursement received                     3,44,606
+         5.        Payment of interest on loan               6,98,011
+                               Total                        28,89,61,682
+    
+    4.        Taxpayer    in   its   Transfer     Pricing      (TP)    study    for
+    
+    benchmarking         its   international     transaction     qua    Software
+    
+    
+
+Development Services (SDS) used transactional net margin method (TNMM) with
+Operating Profit (OP) / Total Cost (TC) as Profit Level Indicator (PLI) chosen
+16 comparables and computed their margin at 13.18% as against taxpayer's own
+OP/TC margin of 12.99% and found its international transactions are at arm's
+length.
+
+5\. However, Ld. Transfer Pricing Officer (TPO) in its TP Analysis adopted
+fresh search by applying various quantitative and qualitative filters finally
+selected 19 comparables and computed their average at 24.40% and thereby
+proposed ALP adjustment of Rs. 3,24,37,885.
+
+6\. Taxpayer carried the matter before Ld. DRP by way of filing objections who
+has confirmed the proposed additions made by the TPO. Feeling aggrieved the
+taxpayer has come up before the Tribunal by way of filing the present appeal.
+
+7\. We have heard the ld. Authorized Representatives of the parties to the
+appeal, gone through the documents relied upon and  6 ITA No.1751/Del/2015
+orders passed by the revenue authorities below in the light of the facts and
+circumstances of the case.
+
+8\. Undisputedly, TNMM with OP/TC as the Profit Level Indicator (PLI) as Most
+Appropriated Method (MAM) used by the taxpayer to benchmark its international
+transaction qua Software Development Services has been accepted by the Ld. TPO
+/ DRP. Ld. TPO / DRP proposed / confirmed the adjustment of Rs. 3,24,37,885/-
+after applying TNMM with OP/TC as the most appropriated method chosen 19
+comparables with average of 24.40%. Final comparables are as under :-
+
+    
+    
+    Sl. No.        Name of the Company                   OP/TC
+    1.             Akshay Software Technologies Ltd.     -1.07%
+    2.             CTIL Ltd.                             18.11%
+    3.             E-infochips                           71.38%
+    4.             Evoke Tech                            18.56%
+    5.             E-zest Solutions                      18.66%
+    6.             Infinite Data System Private          88.25%
+                   Limited
+    7.             Infosys Limited                       45.47%
+    8.             Larsen & Toubro Infotech Ltd.         19.06%
+    9.             Mindtree Ltd. (segment)               13.92%
+    10.            Persistent System Limited             29.02%
+    
+
+11\. Persistent Systems & Solutions Ltd. 11.37%
+
+12\. Quintegra Solutions Ltd. -8.20%
+
+13\. R S Software (India) Ltd. 10.18%
+
+14\. Sasken Communication 17.54% Technologies Ltd.
+
+    
+    
+    15.            Sonata Software                       35.87%
+    16.            Tata Elxsi (Segment)                  20.29%
+    17.            Thinksoft Global Services Ltd.        17.35%
+    18.            Zylog Systems Limited                 25.07%
+    19.            LGS Global Limited                    12.78%
+                        AVERAGE                           24.40%
+                                         7                  ITA No.1751/Del/2015
+    
+    
+    
+
+9\. Consequently Ld. TPO computed the arm's length price of the International
+Transactions as under :-
+
+    
+    
+    Operational Cost                        28,43,98,071
+    Arm's Length Price at a Margin of       35,37,91,200
+    24.40%
+    Price Received                          32,13,53,315
+    Proposed Adjustment u/s 92CA            3,24,37,885
+    
+    
+
+10\. Ld. AR for the taxpayer challenging the impugned order passed by Ld. TPO
+/ DRP contended that now the only dispute left to be decided is arbitrary
+selection of some comparables by TPO / DRP and has sought exclusion of 7
+comparables namely E- Infochips Bangalore Ltd. ; E-Zest Solutions Ltd. ;
+Infinite Data System Private Limited; Infosys Limited; Sasken Communication
+Technologies Ltd.; Sonata Software Ltd. and Zylog Systems Ltd. We would
+discuss the suitability of aforesaid comparables vis-à-vis taxpayer, which a
+routine software development service provider working on cost plus model, one
+by one.
+
+E-infochips Bangalore Ltd.
+
+11\. Taxpayer sought exclusion of E-infochips on grounds of functional
+dissimilarity and non-availability of its segmental financial.
+
+12\. Perusal of the annual report of E-infochips available at page 147 of the
+Annual Reports Compendium (ARC) shows that E- infochips is primarily engaged
+in Software Development and  8 ITA No.1751/Del/2015 I.T.enabled Services which
+is considered the only reportable business segment as per Accounting Standard-
+AS 17 'Segment Reporting' issued by mandatory Accounting Standards prescribed
+in Companies (Accounting Standard) Rules, 2006 and the relevant provisions of
+Companies Act, 1956. But segmental financials are not available. Since,
+taxpayer is a routine software development service provider working on cost
+plus model cannot be compared with E-infochips which is engaged in both
+software development and IT enabled services.
+
+13\. Coordinate Bench of Tribunal in case of Agilent Technologies
+(International (P.) Ltd. vs. Income Tax Officer, found E-infochips not a
+suitable comparable vis-à-vis routine software development service provider on
+ground of non- availability of segmental financials for both the segments.
+
+14\. So, in view of what has been discussed above, we are of the considered
+view that E-infochips is not a suitable comparables vis- à-vis taxpayer,
+hence, order to be excluded. E-Zest Solutions Ltd.
+
+15\. Taxpayer sought exclusion of E-zest Solutions from the final set of
+comparable for benchmarking international transaction on grounds of functional
+dissimilarity as E-zest is a product Engineering and software development
+company and has been  9 ITA No.1751/Del/2015 excluded by the Tribunal in
+taxpayer's own case in AY 2007-08 and 2011-12.
+
+16\. Undisputedly there is no change in the business model and FAR of the
+taxpayer during the year under assessment since 2007-
+
+08\. Perusal of annual report available at page 452 and 453 of annual
+Compendium report (ARC) shows that E-zest is a product engineering and
+software development company whereas taxpayer is a captive software
+development service provider to its AE.
+
+17\. Ld. DR for the revenue relied upon the order passed by the TPO and drew
+our attention towards para 10.6 and contended that TPO has examined FAR of the
+company and found it a suitable comparable. But, we are of the considered view
+that when functional dissimilarity are apparent between E-zest Solutions vis-
+à-vis taxpayer as discussed in the preceding para comprehensive exercise
+carried out by the Ld. TPO is a futile exercise.
+
+18\. Coordinate Bench of Tribunal in taxpayer's own case for AY 2011-12
+excluded E-zest Solutions ltd. vide order dated 30.10.2019 passed in ITA No.
+5801/Del/2011 on ground of its diversified activities without having any
+segmental information on record. In view of the matter, we order to exclude
+E-zest Solutions Ltd. from the final set of comparables.
+
+10 ITA No.1751/Del/2015
+
+Infinite Data System Private Limited (Infinite)
+
+19\. Taxpayer sought exclusion of Infinite Data System Pvt. Ltd. on ground of
+functional dissimilarity and non-availability of segmental financial. Perusal
+of the Annual report of Infinite Data System Pvt. Ltd. available at page 60
+and 64 of the ARC paper book goes to prove that Infinite is primarily a
+service company engaged in technical consulting, design & development of
+software, maintenance, systems integration, implementation, testing and
+infrastructure management services, hence, it is not possible to give the
+quantitative details of sales and certain information as required under
+paragraphs 3, 4C and 4D of Part II of Schedule VI to the Companies Act, 1956".
+Since its segmental reporting shows that its revenue primarily come from
+technical support and infrastructure management services but no segmented data
+is available.
+
+20\. Suitability of Infinite as a comparable vis-à-vis routine Software
+Development service provider has been examined by the Tribunal in case of Lime
+Labs (I) (P.) Ltd. vs. Income Tax Officer and found the same not a suitable
+comparables in AY 2010-11 on ground of functional dissimilarity and on ground
+of super normal profit to the tune of 1496% by returning following finding :-
+11 ITA No.1751/Del/2015
+
+> "15. Furthermore, it is brought on record by the taxpayer that the
+> profitability of Infinite is increased by 1496% as compared to the preceding
+> year despite the fact that for computation of OP/OC, foreign exchange loss
+> has been excluded from OC. So, we are of the considered view that super-
+> normal profit to the tune of 1496% certainly affects OP/OC but, in this
+> case, even foreign exchange loss has been excluded from the OC by the TPO
+> and as such, it makes the Infinite not a valid comparable vis-à-vis the
+> taxpayer. So, we are of the considered view that because of functional
+> dissimilarity of Infinite vis-à-vis the taxpayer and earning super-normal
+> profit by 1496% as compared to preceding years makes Infinite as invalid
+> comparable. So, we direct the AO/TPO to exclude Infinite from the final set
+> of comparables."
+
+21\. So, in view of what has been discussed above, we are of the considered
+view that Infinite is not a suitable comparable vis-à-vis taxpayer, hence,
+order to be excluded from the final set of comparables.
+
+Infosys Limited (Infosys)
+
+22\. Taxpayer sought exclusion of Infosys as a comparable on the ground that
+Infosys deals in both product and services and that Infosys incurred huge
+research and development expenses and having huge brand value. It is brought
+on record by the ld. AR that Infosys has been excluded as a comparable by the
+Tribunal in Taxpayer's own case in AY 2007-08 and 2011-12. In AY 2011-12
+Infosys was also excluded by Ld. DRP in assessee's own case.
+
+23\. Ld. DR for the revenue relied on order passed by TPO and drew our
+attention towards para 10.2 wherein he has discussed all the objections raised
+by the taxpayer regarding brand profits,  12 ITA No.1751/Del/2015 significant
+intangibles, product development sales and marketing expenses and significant
+R and D expenses.
+
+24\. We are of the considered view that Infosys as a comparable has been found
+to be not a suitable comparable having huge brand value and significant
+expenses on R & D vis-à-vis captive software development service provider in
+number of judgement. Coordinate Bench of Tribunal in assessee's own case in
+A.Y. 2007-08 and 2011-12 excluded Infosys by relying upon decision rendered by
+Hon'ble Delhi High Court in case of Agnity India Technologies Pvt. Ltd. by the
+Hon;ble High Court of Delhi in ITA No. 1204/2011 by returning following
+findings :-
+
+> "24. The Annual Report of this company is placed at pages 346 to 615 of the
+> paper book. Infosys Technologies Limited has substantial intangible assets
+> and is a giant company with a substantial brand value. Infosys owns
+> products/IPR. The turnover of this company is approximately 700 times than
+> the turnover of the appellant company and has substantial investment in
+> intangibles. Being a giant company, this company has been excluded in the
+> case of Agnity India Technologies Pvt Limited by the Hon'ble High Court of
+> Delhi in ITA No. 1204/2011."
+
+25\. So, keeping in view the functionality and huge brand value and
+significant expenditure on R & D we find Infosys not a suitable comparable
+vis-à-vis taxpayer, hence, order to be excluded. Sonata Software Ltd.
+
+13 ITA No.1751/Del/2015
+
+26\. Taxpayer sought exclusion of Sonata on the ground that it fails TPO's
+related party (RPT) /sales filter of 25%. Since the RPT/sales of Sonnata is
+59.35%, thus apparently fails TPOs filter of 25%, this comparable is remitted
+back to the Ld. TPO to decide afresh after providing opportunity of being
+heard to the taxpayer. Sasken Communication Technologies Ltd.
+
+27\. Taxpayer sought exclusion of Sasken on ground of functional dissimilarity
+as well as on ground of extraordinary circumstances.
+
+28\. perusal of annual report at page 307 and 310 of the annual report
+compendium shows that "Sasken Communication Technologies Limited is a provider
+of telecommunication software services and solutions to network equipment
+manufacturers, mobile terminal vendors and semiconductor companies around the
+world. Sasken delivers end-to-end solutions that enable richer content
+delivery on next generation networks". Annual report also shows that Sasken
+has undertaken business restructuring during the year under assessment by
+making investment in the subsidiaries and joint ventures.
+
+29\. Since functional profile of Sasken is different vis-à-vis taxpayer and
+has went into business restructuring affecting profitability. It is not a
+suitable comparable.  14 ITA No.1751/Del/2015
+
+30\. In assessee's own case for AY 2007-08 and 2011-12, Sasken was order to be
+excluded as a comparable. In A.Y. 2011-12, Sasken has been ordered to be
+excluded by the Coordinate Bench of Tribunal in taxpayer's own case by
+returning following findings :-
+
+> "21. On hearing the rival contentions, we are of the view that first step
+> which has to be seen is functional comparability. The concerns are providing
+> variety of services and application of service filter of 75% would come in
+> the next rung of comparability. M/s Sasken Communication Technologies
+> Limited was developing mobile enterprise applications and solutions across
+> various mobile platforms including iOS, Android, Blackberry, RIM and Symbiam
+> platform; which are clearly mentioned in the annual report of the said
+> concern. The assessee on the other hand was only providing Software
+> Development Services to its AE. Hence the concern Sasken Communication
+> Technologies Limited is not functionally comparables to the assessee and
+> same needs to be excluded from the final list of comparable. Accordingly, we
+> hold so."
+
+31\. So, in view of the discussion made in preceding para, we are of the
+considered view that Sasken is not a suitable comparable on ground of
+functional dissimilarity and business restructuring. Zylog Systems Ltd.
+
+32\. Taxpayer sought to exclude Zylog on ground of functional dissimilarity as
+well as on ground of business restructuring. Perusal of annual report at page
+433 shows that Zylog has income from software development services and
+products. Annual report at page 412 shows that "Zylog is making a software
+solution from concept to reality is a complex and arduous process. At ZSL. We
+continue to offer value to our customers and market place through value  15
+ITA No.1751/Del/2015 added Research & Development, Product Engineering, and
+end-to- end Product Lifecycle Management (PLM) solutions from
+conceptualization, prototyping, development, integration with Enterprise
+applications, Migration, Porting, Performance Turning, Application Upgrade,
+testing and maintenance".
+
+33\. Suitability of Zylog has been examined by the Coordinate Bench of
+Tribunal in case of Lime Lab (I) (P.) Ltd. vs. ITO , ITA No. 1703/Del/2015, AY
+2010-11 and ordered to exclude Zylog on ground of extra ordinary event in FY
+2009-10 by returning following findings :-
+
+> "31. Perusal of the annual report available at page 457 goes to prove that
+> Zylog has acquired directly M/s. Matrix Primus Partners Inc. USA, M/s.
+> Algorithm Solutions Private Limited, India and acquired M/s. Brainhunters
+> Inc., Canada, through our WOS Zylog Systems (Canada) Ltd., during the
+> Financial years 2009-10 relevant for year under assessment in case of the
+> tax payer.
+
+> 32\. Furthermore the Zylog has invested in acquiring this business an amount
+> of Rs. 62,12,04,848/- and has adopted the policy of amortizing this amount
+> over a period of 5 years. Thus, the company has amortized a sum of Rs.
+> 10,72,97,170/- in the year under assessment. So the acquisition being an
+> extraordinary event has certainly affected the profitability of the company
+> and as such cannot be a valid comparable."
+
+34\. In view of what has been discussed above, we are of the considered view
+that Zylog is not a valid comparable vis-à-vis taxpayer hence, order to be
+excluded.
+
+16 ITA No.1751/Del/2015
+
+Grant of working capital adjustment
+
+35\. Ld. TPO / DRP have denied the benefit of working capital adjustment while
+computing the ALP on the ground that the assessee has not demonstrated that
+there is a difference in levels of working capital employed by the taxpayers
+vis-à-vis comparables. TP study referred to by the taxpayer for benchmarking
+its International Transaction shows that the complete detail has been provided
+to grant working capital adjustment. So, in view of the matter, we are of the
+considered view that the matter is required to be reconsidered by the TPO by
+providing opportunity of being heard to the assessee. Moreover working capital
+adjustment has been granted to the taxpayer in the earlier years and since
+then there is no change in the business model of the assessee. So, this issue
+is remitted back to the Ld. TPO.
+
+36\. In view of what has been discussed above, appeal filed by the taxpayer is
+allowed for statistical purpose. Order pronounced in open court on 31st
+August, 2020 Sd/- Sd/-
+
+    
+    
+        (N.K.BILLAIYA)                           (KULDIP SINGH)
+      ACCOUNTANT MEMBER                         JUDICIAL MEMBER
+    
+    Dated: the 31st day of August, 2020
+    *Binita*
+                                     17               ITA No.1751/Del/2015
+    
+    
+     Copy forwarded to:
+     1.Appellant
+     2.Respondent
+     3.CIT
+     4.CIT(A)
+     5.CIT(ITAT), New Delhi.                         AR, ITAT
+                                                    NEW DELHI.
+    
+    
+    Date of dictation                               28 .08.2020
+    Date on which the typed draft is placed         31 .08.2020
+    before the dictating Member
+    Date on which the typed draft is placed          31.08.2020
+    before the Other Member
+    Date on which the approved draft comes to       31.08.2020
+    the Sr. PS/PS
+    
+
+Date on which the fair order is placed before 31.08.2020 the Dictating Member
+for pronouncement Date on which the fair order comes back to 31.08.2020 the
+Sr. PS/PS Date on which the final order is uploaded on .08.2020 the website of
+ITAT Date on which the file goes to the Bench .08.2020 Clerk Date on which the
+file goes to the Head Clerk The date on which the file goes to the Assistant
+Registrar for signature on the order Date of dispatch of the Order
+

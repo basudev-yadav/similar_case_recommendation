@@ -1,0 +1,736 @@
+
+
+Income Tax Appellate Tribunal - Bangalore
+
+Dcit, Bangalore vs M/S Aztec Soft Limited, Bangalore on 22 October, 2020
+
+    
+    
+                                         IT(TP)A Nos.349 & 878/Bang/2014
+                                              M/s. Mindtree Ltd., Bangalore
+    
+    
+               IN THE INCOME TAX APPELLATE TRIBUNAL
+                        "B'' BENCH: BANGALORE
+    
+         BEFORE SHRI B. R. BASKARAN, ACCOUNTANT MEMBER
+                               AND
+               SMT. BEENA PILLAI, JUDICIAL MEMBER
+    
+                       IT(TP)A No.349/Bang/2014
+                        Assessment Year: 2005-06
+    
+    M/s. Mindtree Limited
+    (Previously known as M/s.
+    Aztecsoft Limited now merged         Deputy Commissioner of
+    with M/s. Mindtree Limited)          Income-tax
+    Global Village, RVCE Post        Vs. Circle-11(1)
+    Mysore Road                          Bangalore
+    Bangalore-560 059
+    
+    PAN NO : AABCA2122R
+            APPELLANT                            RESPONDENT
+    
+                       IT(TP)A No.878/Bang/2014
+                        Assessment Year: 2005-06
+    
+                                         M/s. Mindtree Limited
+                                         (Previously known as M/s.
+    Deputy Commissioner of               Aztecsoft Limited now merged
+    Income-tax LTU                   Vs. with M/s. Mindtree Limited)
+    Bangalore                            Global Village, RVCE Post
+                                         Mysore Road
+                                         Bangalore-560 059
+            APPELLANT                          RESPONDENT
+    
+      Appellant by      :    Shri Jaya Krishna, A.R.
+      Respondent by     :    Shri Priyadarshi Mishra, D.R.
+    
+               Date of Hearing       :           21.10.2020
+               Date of Pronouncement :           22.10.2020
+                                               IT(TP)A Nos.349 & 878/Bang/2014
+                                                   M/s. Mindtree Ltd., Bangalore
+    
+    
+                                   Page 2 of 17
+    
+                                  ORDER
+    
+
+PER B.R. BASKARAN, ACCOUNTANT MEMBER:
+
+These cross appeals are directed against the order dated 24- 04-2014 passed by
+Ld CIT(A)-IV, Bangalore and they relate to the assessment year 2005-06.
+
+2\. Both the parties have filed revised grounds of appeal. The revenue is
+contesting following issues:-
+
+> (a) Whether the Ld CIT(A) was justified in directing deduction of Satellite
+> link charges from Total turnover also while computing deduction u/s 10A of
+> the Act.
+
+> (b) Relief granted in respect of Transfer pricing adjustment.
+
+3\. The assessee is in appeal in respect of following issues:-
+
+> (a) Whether the tax authorities are justified in deducting Satellite link
+> charges from Export turnover while computing deduction u/s 10A of the Act.
+
+> (b) Transfer pricing adjustment sustained by Ld CIT(A).
+
+4\. Facts relating to the case are discussed in brief. The original name of
+the company was M/s Aztec Software & Technology Services Ltd. It has merged
+with M/s Mindtree Limited. The assessee is engaged in developing software
+solutions for its customers in USA. The Transfer Pricing Officer (TPO) noticed
+that there were contradictions between Transfer pricing report and Audit
+report given in Form 3CEB with regard to the nature and amount of
+international transactions pertaining to this year. Ultimately, the TPO
+rejected the transfer pricing study of the assessee.
+
+IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 3 of 17
+
+5\. The TPO noticed that the turnover of the assessee was Rs.82.34 crores. The
+TPO adopted Transactional Net Margin Method (TNMM) as most appropriate method.
+He adopted Operating Profit /Operating Revenue (OP/OR) as the Profit level
+indicator. The TPO, by making his own search, selected following 17 comparable
+companies.
+
+    
+    
+                                                           Sales       OP to
+          SI. No.    Comparables Selected by TPO        (Rs. In Cr.)   Total
+                                                                       Cost
+            1.      Bodhtree Consulting Ltd.               3.87        24.85
+            2.      Lanco Global Systems Ltd.              6.11        13.65
+            3.      Exensys Software Solutions Ltd.        7.30        70.68
+            4.      Sankhya Infotech Ltd.                  12.99       27.39
+            5.      Sasken Network Systems Ltd.            14.44       16.64
+            6.      Four Soft Ltd.                         15.94       22.98
+            7.      Thirdware Solution Ltd.                29.11       66.09
+            8.      R S Software (India) Ltd.              81.69       8.07
+            9.      Geometric Software Solutions           95.44       20.34
+           10.      Tata Elxsi Ltd. (seg.)                146.46       24.35
+           11.      Visualsoft Technologies Ltd.          185.43       23.52
+           12.      Sasken Communication                  189.05       14.42
+           13.      iGate Global Solutions Ltd.             406        4.32
+           14.      Flextronics Software Systems Ltd.     457.45       32.19
+           15.      L&T Infotech Ltd.                     562.45       10.33
+           16.      Satyam Computer Services Ltd.         3464.2       29.44
+           17.      Infosys Technologies Ltd.             6859.7       42.83
+         Arithmetical Mean                                             26.59
+    
+    
+    
+
+6\. The average margin of above said comparables calculated at OP/TC was
+26.59% and at OP/OR was 21%. The TPO computed the transfer pricing adjustment
+as under:-
+
+> IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 4 of 17
+> Total Sales of the tax payer - 82,34,36,000 Total cost by applying margin of
+> 21% 65,05,14,440 (ALP of cost) Actual cost incurred by the tax payer
+> 70,10,27,000 Break up of Actual cost:-
+    
+    
+              Pertaining to Unrelated parties         53,98,36,000
+              Pertaining to related parties           16,11,91,000
+    
+
+> The TPO held that the unrelated party costs are at arms length.
+    
+    
+              ALP cost                                 65,05,14,440
+              Less:- Unrelated parties cost            53,98,36,000
+                                                     -------------------
+              ALP of related party costs               11,06,78,440
+                                                      =============
+    
+              Actual related party costs              16,11,91,000
+              (-) ALP of related party costs          11,06,78,440
+                                                     -------------------
+              Transfer pricing adjustment               5,05,12,560
+                                                      ============
+    
+    
+
+> 7\. During the course of arguments, the Ld A.R submitted that the TPO has
+> made transfer pricing adjustment at entity level instead of doing the same
+> to AE transactions. However, the computation made by the TPO would show that
+> the TPO has made adjustment in respect of AE transactions only.
+
+8\. The AO completed the assessment by making the TP adjustment proposed by
+the TPO. The assessee challenged the transfer pricing adjustment made by the
+TPO by filing appeal before Ld CIT(A). The first appellate authority excluded
+following five comparables accepting the contention of the assessee for
+application of turnover filter.
+
+    
+    
+                                             IT(TP)A Nos.349 & 878/Bang/2014
+                                                 M/s. Mindtree Ltd., Bangalore
+    
+    
+                                Page 5 of 17
+          Sl. No.      Name of Company                            Turnover
+                                                               (Rs.In crores)
+          (a)          Igate Global                                   406
+          (b)          Fletronics software systems Ltd               457.45
+          (c)          L & T Infotech Ltd                            562.45
+          (d)          Satyam Computer Services Ltd                 3464.20
+          (e)          Infosys Ltd                                  6859.70
+    
+    
+    
+
+In this regard, the ld CIT(A) followed the decision rendered by Bangalore
+bench of Tribunal in the case of Genisys Integrating Systems Vs. DCIT (15 ITR
+(Trib) 475) and certain other decisions, wherein identical view has been
+expressed. In the above said cases, it was held that the companies having
+turnover of less than 200 crores cannot be compared with the companies having
+more than 200 crores. The turnover of the assessee company is Rs.82.34 crores
+and hence it falls under the category of companies having turnover of 1 to 200
+crores. The above said five companies are having turnover of more than 200
+crores and hence the Ld CIT(A) held that these companies cannot be considered
+as comparable companies.
+
+9\. The assessee also sought exclusion of certain other companies on the
+ground of functional dissimilarity. The Ld CIT(A), however, rejected the same
+by following certain case laws. All those case laws had expressed the view
+that once a company falls under the category of "software development
+services, they cannot be excluded merely on the reason that they are operating
+in different verticals.
+
+10\. The revenue is in appeal challenging the decision of Ld CIT(A) in
+excluding above said five comparable companies. The Ld D.R placed his reliance
+on the decision rendered by Tribunal in the case of Wills Processing services
+india (P) Ltd and also in the case of IT(TP)A Nos.349 & 878/Bang/2014 M/s.
+Mindtree Ltd., Bangalore  Page 6 of 17 Societe Generale Global Solutions P Ltd
+and contended that the turnover filter is not to be applied.
+
+11\. On the contrary, the ld A.R supported the order passed by Ld CIT(A) on
+this issue.
+
+12\. We heard rival contentions and perused the record. The question of
+application of turnover filter was examined by the co- ordinate bench in a
+detailed manner in the case of Autodesk India (P) Ltd (2018)(96 taxmann.com
+263)(Bang.) and it was held that the turnover filter can be applied. The
+relevant discussions and decision taken by the co-ordinate bench are extracted
+below for the sake of convenience:-
+
+> IT(TP)A No.616/Bang/2013: Revenue's appeal for AY 2005-06
+
+> 17\. The first issue to be decided in Revenue's appeal is the application of
+> turnover filter for exclusion of companies that are otherwise found to be
+> functionally comparable. The Grievance of the revenue in this regard is
+> projected in Gr.No.2 of the Grounds of appeal raised by the revenue in its
+> appeal. The basic facts to be noticed with regard application of turnover
+> filter are that the Assessee's turnover for the relevant previous year was
+> Rs.10.65 crores. The TPO excluded from the list of comparable companies
+> chosen by the Assessee in its TP study companies whose turnover was less
+> than Rs.1 Crore. The contention of the Assessee before the CIT(A) was that
+> while the TPO excluded companies with low turnover, he failed to apply the
+> same yardstick to exclude companies with high turnover compared to the
+> Assessee. The reason for excluding companies with low turnover was that such
+> companies do not reflect the industry trend as their low cost to sales ratio
+> made their results less reliable. The contention of the Assessee was that
+> there would be effect on profitability wherever there is high or low
+> turnover and therefore companies with high turnover should also be excluded
+> from the list of comparable companies. The CIT(A) agreed with the submission
+> of the Assessee and he excluded the following 5 companies whose turnover was
+> above Rs.200 Crores from the list of comparable companies, viz., (i)
+> Flextronics Ltd., (ii) L & T Infotech Ltd., (iii) M/s. Infosys Technologies
+> Ltd.,
+
+> (iv) Satyam Computer Services Ltd., (v) iGate Global Solutions Ltd. The
+> CIT(A) in coming to the above conclusion placed reliance on the decision of
+> the ITAT Bangalore in the case of Genisys Integrating Systems (India) (P)
+> Ltd. v. Dy. CIT [2012] 53 SOT 159/20 taxmann.com 715 (Bang.) wherein it was
+> held when there is a limit for the lower end for identifying the IT(TP)A
+> Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 7 of 17
+> comparable companies, there is no reason why there should not be an upper
+> limit also, as size matters in business.
+
+17.1 The learned DR submitted that high turnover is not a relevant criterion
+to regard a company as not comparable, so long as the two companies are
+functionally comparable. If functions by two companies are identical then they
+have to be regarded as comparable. According to him therefore the CIT(A) was
+not justified in excluding 5 companies on the ground that their turnover was
+above Rs.200 Crores and cannot be compared with the Assessee whose turnover
+was around Rs.10.65 Crores. In support of his contention the learned DR placed
+reliance on the following decisions:
+
+    
+    
+     Sl.       Name of the case                  Citation             Relevant
+     No.                                                             paragraph
+     1.    NTT      DATA       Global [2016] 69 taxmann.com 7          23 & 24
+           Delivery           Services (Bang. - Trib.)
+           Ltd. v. Asstt. CIT
+     2.    LSI Technologies India [2016] 70 taxmann.com 189              14.3
+           Pvt. Ltd. v. ITO       (Bang. - Trib.)
+     4.    Societe Generale Global [2016] 69 taxmann.com 336              10
+           Solution     Centre (P.) (Bang. - Trib.)
+           Ltd. v. Dy. CIT
+     5.    Willis Processing Services [2013] 30 tamann.com                47
+           (I) (P.) Ltd. v. Dy. CIT   350/57 SOT 339 (Mum.)
+     6.    Capgemini India        (P.) [2015] 58 taxmann.com             4.3
+           Ltd. v. Asstt. CIT          175/232 Taxman 149 (Bom.)
+    
+    
+    
+
+17.2 The learned DR also filed before us a note contending that in software
+industry, size has no influence on the margins earned by an entity. According
+to him economies of scale are relevant only in capital intensive companies
+which have substantial fixed assets in the form of plant and machinery.
+According to him, in software industry, size does not matter, what matters is
+the human capital. According to him application of the filter of turnover
+might be justified for excluding companies with low turnover of say Rs.1 crore
+or less because the margin earned by these companies might widely fluctuate
+due to narrow capital base and lack of competitive strength, lack of
+operational efficiencies and also lack of human resources. They also escape
+the eyes of regulators. He drew our attention to the turnover and profit
+margins of company Infosys Technologies Ltd. For FY 1997 to 2010 and submitted
+that in FY 1997 the company had turnover of Rs.139 Crores and its profit
+margin was 34.95% whereas in FY 2010 its turnover was Rs.21140 crores but its
+profit margin was only 44.91%. According to him therefore the profit margins
+hover between 35% and 40% over the period of 15 years and therefore high
+turnover does not necessarily mean high profit margins. He also gave a chart
+showing turnover and margin of 20 companies IT(TP)A Nos.349 & 878/Bang/2014
+M/s. Mindtree Ltd., Bangalore  Page 8 of 17 in the IT-BPO industry for three
+years. According to him the chart would show that for the same range of
+turnover companies earned different profit margins. Therefore according to him
+there is no relation between the margins earned and the turnover of a company.
+According to him software industries operate on the basis of cost plus margin
+of profits and therefore turnover would be irrelevant and have no impact of
+the profit margins. His further submission was that under Rule 10B(3) of the
+Income Tax Rules, 1962 (Rules) it is only functions performed, assets employed
+and the risks assumed that are relevant criteria for comparison and turnover
+is not a prescribed criterion for the purpose or comparison. He fairly
+admitted that there are differences of opinion amongst various benches of the
+Tribunal on the application of turnover filter and that some Benches have held
+that high turnover was relevant criteria for excluding comparable companies.
+His prayer in the alternative was for constitution of a special bench to
+resolve the conflict.
+
+17.3 Per Contra the learned counsel for the Assessee submitted that ITAT
+Bangalore Bench in the case of Dell International Services India (P) Ltd. v.
+Dy. CIT [2018] 89 taxmann.com 44 order dated 13.10.2017, considered the
+various aspects of application of turnover filter for excluding companies and
+has noted that the first decision rendered on application of this filter was
+in the case of Genisys Integrating Systems (I)(P) Ltd. (supra) rendered on
+5.8.2011. In the case of Dell International Services India (P) Ltd. (supra),
+the tribunal took note of a divergent view expressed by ITAT Bangalore Bench
+in the case of Robert Bosch Engg. and Business Solutions Ltd. v. Dy. CIT ITA
+No.1519/Bang/2013 order dated 13.9.2017 after considering the decision
+rendered by the Hon'ble Delhi High Court in the case of Chryscapital
+Investment Advisors India (P.) Ltd. v. Dy. CIT [2017] 82 taxmann.com 167
+(Delhi - Trib.), that high turnover ipso facto does not lead to the conclusion
+that a company which is otherwise comparable on FAR analysis can be excluded
+and that the effect of such high turnover on the margin should be seen. The
+Tribunal in the case of Dell International (supra) also took note of the
+decision of the ITAT Bangalore Bench in the case of Sysarris Software (P.)
+Ltd. v. Dy. CIT [2016] 67 taxmann.com 243 (Bang. - Trib) wherein the Tribunal
+after noticing the decision of the Hon'ble Delhi High Court in the case of
+Chryscapital Investment Advisors India (P.) Ltd. (supra) and the decision to
+the contrary in the case of CIT v. Pentair Water India (P.) Ltd. [2016] 69
+taxmann.com 180/381 ITR 216 (Bom.) wherein it was held that high turnover is a
+ground to exclude a company from the list of comparable companies in
+determining ALP, held that there were contrary views on the issue and hence
+the view favourable to the Assessee laid down in the case of Pentair Water
+India (P.) Ltd. (supra) should be adopted. The following were the conclusions
+of the Tribunal in the case of Dell International (supra):
+
+'41. We have given a very careful consideration to the rival submissions. ITAT
+Bangalore Bench in the case of Genesis Integrating Systems (India) Pvt. Ltd.
+v. DCIT, ITA No.1231/Bang/2010, relying on Dun and Bradstreet's analysis, held
+grouping of companies having turnover of Rs.
+
+IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 9 of 17 1
+crore to Rs.200 crores as comparable with each other was held to be proper.
+The following relevant observations were brought to our notice:-- "9. Having
+heard both the parties and having considered the rival contentions and also
+the judicial precedents on the issue, we find that the TPO himself has
+rejected the companies which .ire (sic) making losses as comparables. This
+shows that there is a limit for the lower end for identifying the comparables.
+In such a situation, we are unable to understand as to why there should not be
+an upper limit also. What should be upper limit is another factor to be
+considered. We agree with the contention of the learned counsel for the
+assessee that the size matters in business. A big company would be in a
+position to bargain the price and also attract more customers. It would also
+have a broad base of skilled employees who are able to give better output. A
+small company may not have these benefits and therefore, the turnover also
+would come down reducing profit margin. Thus, as held by the various benches
+of the Tribunal, when companies which arc loss making are excluded from
+comparables, then the super profit making companies should also be excluded.
+For the purpose of classification of companies on the basis of net sales or
+turnover, we find that a reasonable classification has to be made. Dun &
+Bradstreet & Bradstreet and NASSCOM have given different ranges. Taking the
+Indian scenario into consideration, we feel that the classification made by
+Dun & Bradstreet is more suitable and reasonable. In view of the same, we hold
+that the turnover filter is very important and the companies having a turnover
+of Rs.1.00 crore to 200 crores have to be taken as a particular range and the
+assessee being in that range having turnover of 8.15 crores, the companies
+which also have turnover of 1.00 to 200.00 crores only should be taken into
+consideration for the purpose of making TP study."
+
+42\. The Assessee's turnover was around Rs.110 Crores. Therefore the action of
+the CIT(A) in directing TPO to exclude companies having turnover of more than
+Rs.200 crores as not comparable with the Assessee was justified. As rightly
+pointed out by the learned counsel for the Assessee, there are two views
+expressed by two Hon'ble High Courts of Bombay and Delhi and both are non-
+jurisdictional High Courts. The view expressed by the Bombay High Court is in
+favour of the Assessee and therefore following the said view, the action of
+the CIT(A) excluding companies with turnover of above Rs.200 crores from the
+list of comparable companies is held to correct and such action does not call
+for any interference.' 17.4 His submission was that the decision rendered by
+the Hon'ble Delhi High Court in the case of Chryscapital Investment Advisors
+India (P.) Ltd. (supra) was not on the application of turnover filter. He
+brought to our notice that the relevant substantial question of law in the
+case of Christcapital decided by the Hon'ble Delhi High Court was (i) whether
+comparables can be rejected on the ground that they have exceptionally high
+profit margins as compared to the Assessee in Transfer Pricing Analysis.(ii)
+Whether factors like differential functional and risk profile coupled with
+high IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 10 of
+17 degree of volatility in operating profit margins is sufficient ground to
+reject comparables for transfer pricing analysis. In answering the above
+question, the Hon'ble Court however at page 218 of the report (the said
+decision is Chryscapital Investment Advisors India (P.) Ltd. (supra)) observed
+that the mere circumstance that a company-otherwise confirming to the
+stipulations in rule 10B(2) of the Rules in all details, presenting a peculiar
+feature- such as a huge profit or a huge turnover, ipso facto does not lead to
+its exclusion. The Court further observed that the Transfer Pricing officer,
+first, has to be satisfied that such differences do not "materially affect the
+price .......... or cost". Secondly, an attempt to make reasonable adjustment
+to eliminate the material effect of such differences has to be made. According
+to him therefore the observations of the Hon'ble Delhi High Court in so far as
+it relates to application of turnover filter are obiter dictum. Obiter dictum
+though is entitled to a weight cannot be equated with ratio decidendi of a
+case. In support of his contention as above, he relied on the decision of the
+Hon'ble Supreme Court in the case of Director of Settlements A.P. v. M.R.
+Apparao [2002] 4 SCC 638. Countering the submission of the learned DR that the
+decision of the Hon'ble Bombay High Court rendered in the case of Pentair
+(supra) is not ratio decidendi as it was merely dismissal of appeal u/s.260A
+of the Act on the ground that no substantial question of law arose for
+consideration, learned counsel drew our attention to the decision of the
+Bombay High Court in the case of Pentair water India (P.) Ltd. (supra)
+paragraph 9, wherein the Hon'ble Bombay High Court after referring to a
+decision of the Hon'ble Delhi High Court rendered in the case of CIT v. Agnity
+India Technologies (P) Ltd. [2013] 36 taxmann.com 289/219 Taxman 26 (Delhi),
+clearly observed that turnover is obviously a relevant fact to consider the
+comparability. Our attention was also drawn to paragraph-3 of the decision
+rendered in the case of Pentair (supra) wherein the department specifically
+contended that the Tribunal erred in holding that size and turnover of a
+company are deciding factors for treating a company as comparable. According
+to him therefore it was not a case of merely dismissal of appeal u/s.260A of
+the Act as unadmitted on the ground that no substantial question of law arose
+for consideration but was precedent in so far as the Hon'ble Court has
+expressed a clear opinion on the issue. 17.5 The learned counsel for the
+Assessee also drew our attention to a decision of the Hon'ble Delhi High Court
+rendered in the case of Pr. CIT v. New River Software Services (P) Ltd. [2017]
+85 taxmann.com 302 wherein the Hon'ble Delhi High Court followed the decision
+of the Hon'ble Bombay High Court rendered in the case of Pentair (supra) and
+held that Infosys BPO was rightly excluded as not being a comparable company.
+Our attention was also drawn by him to a decision of the Hon'ble Punjab &
+Haryana High Court in the case of CIT v. Mercer Consulting (I) (P) Ltd. [2016]
+76 taxmann.com 153/390 ITR 615 wherein the Hon'ble Court held that a giant
+company cannot be compared with a company which was a captive service provided
+assuming limited risks.
+
+17.6 As far as the decisions of the Tribunal rendered on the application of
+turnover filter that are contrary to the decision rendered in the case IT(TP)A
+Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 11 of 17 of
+Genisys Integrating Systems (supra), the first submission of the learned
+counsel for the Assessee was that those decisions were rendered at a later
+point of time and were to be regarded as per incurium since these decisions
+were also rendered by a bench of equal strength and either the subsequent
+decisions refused to follow or were rendered in ignorance of an earlier
+binding precedent. He submitted that if a bench of equal strength differs with
+a view taken earlier, the proper course for them is to make a reference to
+larger bench. They cannot refuse to follow a binding decision. If they do so,
+the decisions so rendered have to be regarded as per incurium. Even if they
+are rendered in ignorance of the earlier binding precedent, they have to be
+regarded as per incurium. In this regard the learned counsel for the Assessee
+placed reliance on the decisions of Hon'ble Supreme Court in the case of Union
+of India v. Raghubir Singh AIR 1989 SC 1933, Union of India v. S.K. Kapoor
+[2011] 4 SCC 589 and Sundeep Kumar Bafna v. State of Maharashtra [2014] 16 SCC
+623. In the aforesaid decisions the Hon'ble Supreme Court held that in a
+situation where there are conflicting decisions of High Court on an issue
+which are irreconcileable and pronounced by judges of co-equal strength, then
+the earlier view has to be followed as the later decision has to be regarded
+as per incuriam. The Hon'ble Supreme Court in the case of Sundeep Kumar Bafna
+(supra) held that a decision or judgment can also be per incuriam if it is not
+possible to reconcile its ratio with that of a previously pronounced judgment
+of a Co-equal or Larger Bench and when High Courts encounter two or more
+mutually irreconcilable decisions of the Supreme Court cited at the Bar, the
+inviolable recourse is to apply the earliest view as the succeeding ones would
+fall in the category of per incuriam. The following were the relevant
+observations of the Hon'ble Supreme Court:
+
+"19. It cannot be over-emphasised that the discipline demanded by a precedent
+or the disqualification or diminution of a decision on the application of the
+per incuriam rule is of great importance, since without it, certainty of law,
+consistency of rulings and comity of Courts would become a costly casualty. A
+decision or judgment can be per incuriam any provision in a statute, rule or
+regulation, which was not brought to the notice of the Court. A decision or
+judgment can also be per incuriam if it is not possible to reconcile its ratio
+with that of a previously pronounced judgment of a Co-equal or Larger Bench;
+or if the decision of a High Court is not in consonance with the views of this
+Court. It must immediately be clarified that the per incuriam rule is strictly
+and correctly applicable to the ratio decidendi and not to obiter dicta. It is
+often encountered in High Courts that two or more mutually irreconcilable
+decisions of the Supreme Court are cited at the Bar. We think that the
+inviolable recourse is to apply the earliest view as the succeeding ones would
+fall in the category of per incuriam."
+
+It was therefore submitted by him that the earliest view rendered by the ITAT
+Bangalore Bench in the case of Genisys Integrating (supra) should be followed.
+
+IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 12 of 17
+17.7 We have considered the rival submissions. The substantial question of law
+(Question No.1 to 3) which was framed by the Hon'ble Delhi High Court in the
+case of Chryscapital Investment Advisors (India) Pvt. Ltd., (supra) was as to
+whether comparable can be rejected on the ground that they have exceptionally
+high profit margins or fluctuation profit margins, as compared to the Assessee
+in transfer pricing analysis. Therefore as rightly submitted by the learned
+counsel for the Assessee the observations of the Hon'ble High Court, in so far
+as it refers to turnover, were in the nature of obiter dictum. Judicial
+discipline requires that the Tribunal should follow the decision of a non-
+jurisdiction High Court, even though the said decision is of a non-
+jurisdictional High Court. We however find that the Hon'ble Bombay High Court
+in the case of Pentair Water India (P.) Ltd. (supra) has taken the view that
+turnover is a relevant criterion for choosing companies as comparable
+companies in determination of ALP in transfer pricing cases. There is no
+decision of the jurisdictional High Court on this issue. In the circumstances,
+following the principle that where two views are available on an issue, the
+view favourable to the Assessee has to be adopted, we respectfully follow the
+view of the Hon'ble Bombay High Court on the issue. Respectfully following the
+aforesaid decision, we uphold the order of the DRP excluding 5 companies from
+the list of comparable companies chosen by the TPO on the basis that the 5
+companies turnover was much higher compared to that the Assessee.
+
+17.8 In view of the above conclusion, there may not be any necessity to
+examine as to whether the decision rendered in the case of Genisys Integrating
+Systems (I) (P.) Ltd. (supra) by the ITAT Bangalore Bench should continue to
+be followed. Since arguments were advanced on the correctness of the decisions
+rendered by the ITAT Mumbai and Bangalore Benches taking a view contrary to
+that taken in the case of Genisys Integrating Systems (I) (P.) Ltd. (supra),
+we proceed to examine the said issue also. On this issue, the first aspect
+which we notice is that the decision rendered in the case of Genisys
+Integrating Systems (I) (P.) Ltd. (supra) was the earliest decision rendered
+on the issue of comparability of companies on the basis of turnover in
+Transfer Pricing cases. The decision was rendered as early as 5.8.2011. The
+decisions rendered by the ITAT Mumbai Benches cited by the learned DR before
+us in the case of Willis Processing Services (supra) and Capegemini India (P.)
+Ltd. (supra) are to be regarded as per incurium as these decisions ignore a
+binding co-ordinate bench decision. In this regard the decisions referred to
+by the learned counsel for the Assessee supports the plea of the learned
+counsel for the Assessee. The decisions rendered in the case of NTT Data
+(supra), Societe Generale Global Solutions (supra) and LSI Technologies
+(supra) were rendered later in point of time. Those decisions follow the ratio
+laid down in Willis Processing Services (supra) and have to be regarded as per
+incurium. These three decisions also place reliance on the decision of the
+Hon'ble Delhi High Court in the case of Chriscapital Investment (supra). We
+have already held that the decision rendered in the case of Chriscapital
+Investment (supra) is obiter dicta and that the ratio decidendi laid down by
+the Hon'ble Bombay IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd.,
+Bangalore  Page 13 of 17 High Court in the case of Pentair (supra) which is
+favourable to the Assessee has to be followed. Therefore, the decisions cited
+by the learned DR before us cannot be the basis to hold that high turnover is
+not relevant criteria for deciding on comparability of companies in
+determination of ALP under the Transfer Pricing regulations under the Act. For
+the reasons given above, we uphold the order of the CIT(A) on the issue of
+application of turnover filter and his action in excluding companies by
+following the ratio laid down in the case of Genisys Integrating (supra)."
+
+We have noticed that the Ld CIT(A) has followed the decision rendered by co-
+ordinate bench in the case of Genisys Integrating Systems (supra) and the
+decision rendered in the above said case was followed in the Autodesk India
+(P) Ltd extracted supra. In the case of Autodesk India (P) Ltd, the co-
+ordinate bench has distinguished the decisions relied upon by Ld D.R.
+Accordingly, we uphold the order of Ld CIT(A) in excluding above said five
+comparable companies applying turnover filter.
+
+13\. We shall now take up the appeal of the assessee. Though the assessee has
+raised many grounds, the ld A.R submitted that the assessee is seeking
+exclusion of following four companies upheld by Ld CIT(A):-
+
+> (a) Bodhtree Consulting Ltd
+
+> (b) Tata Elxsi Ltd
+
+> (c) Exensys Software Solutions Ltd
+
+> (d) Thirdware Solution Ltd.
+
+The Ld A.R submitted that all the above said four companies were examined by
+the Bangalore bench of Tribunal in the case of CGI Information Systems &
+Management Consultants (P) Ltd (IT(TP)A No.612/Bang/2013) on functionality
+different basis. Accordingly, he prayed for exclusion of above said four
+companies.
+
+IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 14 of 17
+
+14\. On the contrary, the Ld A.R submitted that the Ld CIT(A) has relied upon
+certain case laws and held that the functionality difference cannot be a
+criteria to exclude the companies.
+
+15\. We have heard rival contentions and perused the record. We notice that
+the Bangalore bench of Tribunal has excluded above said four companies holding
+that these are not comparable companies in the case of CGI Information systems
+& Management Consultants (P) Ltd (supra). The relevant discussions made by the
+Tribunal in respect of above said four companies are extracted below:-
+
+(A) Bodhtree Consulting Ltd:-
+
+> 15.2. We have perused submissions advanced by both sides in light of records
+> placed before us.
+
+> We find that Ld.CIT(A) directed their exclusion of these comparables as they
+> are functionally dissimilar to Assessee. Ld. CIT (A) observed that engaged
+> in developing Software Products and for the reason that this company was
+> rendering both SWD services and was also in providing Information Technology
+> Enabled Services (ITES) and break up of revenues from diverse segments was
+> not available. This Tribunal in case of Sysarris Software (P.) Ltd.vs.DCIT,
+> reported in, (2016)67 taxmann.com 243, IT(TP)A No.612/Bang/2013 A. Y : 2005
+> - 06 wherein vide paras 20-21, Bodhtree has been held to be not functionally
+> comparable with a company providing SWD services.
+
+(B) Tata Elxsi Ltd:-
+
+> 17\. Ground No. 6 is against exclusion of Tata Elxsi Ltd Ld. CIT. DR
+> submitted that this company is into software development services as
+> provided in the annual report of the company. He also submitted that there
+> are segmental information available in respect of both the segments being
+> software development services and system integration and support services
+> and therefore Ld. CIT (A) should not have excluded the same.
+
+> 17.1. Ld.AR on the contrary placing reliance upon view expressed by Ld.
+> CIT(A) submitted that the segment selected by Ld. TPO for purposes of
+> comparability comprises of services such as product design, design
+> engineering and visual computing labs which are in the nature of IT enabled
+> services, and therefore not comparable with software development services
+> IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 15 of 17
+> provided by assessee. He also placed reliance upon orders passed by this
+> Tribunal in assessee's own case for assessment year 2007-08 reported in
+> (2013) 36 Taxmann.com 374, assessment year 2008- 09 by order dated
+> 18/07/2014 in ITA (TP) A No. 1192/B/2012 IT(TP)A No.612/Bang/2013 A. Y :
+> 2005 - 06 and assessment year 2009-10 by common order dated 18/03/2016 in
+> ITA(TP)A No. 1621 and 1664/be/2014. 17.2. We have perused submissions
+> advanced by both sides in light of records placed before us.
+
+> We note that Ld. CIT (A) excluded this comparable as it was engaged in
+> development of niche products and services which was entirely different from
+> services rendered by assessee to its associated enterprises. Ld.CIT(A)
+> categorically observed that revenue earned by this company comprises of
+> products as well and therefore though the company satisfies that turnover
+> criteria the functional differences requires it to be eliminated. We do not
+> find any infirmity in the observations of Ld. CIT (A) and the same is
+> upheld.
+
+(C) Exensys Software Solutions Ltd:-
+
+> 18\. Ground No.7 is against exclusion of Exensys software solutions Ltd and
+> Thirdwere solutions Ltd by Ld.CIT (A) Ld.CIT.DR submitted that these
+> comparables were excluded for having abnormal profits by Ld.CIT (A). Ld.CIT
+> DR referred to and relied upon his arguments advanced while dealing with
+> ground No. 2 on turnover filter considered herein above. 18.1. On the
+> contrary, Ld.AR placed reliance upon decision of this Tribunal in case of
+> ITO vs Net Devices Pvt.Ltd reported in [2015] 63 taxmann.com 94.
+
+> 18.2. We have perused submissions advanced by both sides in light of records
+> placed before us.
+
+> Apart from the fact that, profit margins of these companies were abnormally
+> high owing to extraordinary events that happened during the relevant
+> previous year, these two companies have to IT(TP)A No.612/Bang/2013 A. Y :
+> 2005 - 06 be excluded on the ground that these two companies are
+> functionally dissimilar to that of the Assessee which is contract software
+> service provider. As far as Exensys Software Solutions Ltd., is concerned,
+> we have already held that Ld.CIT(A) was justified in excluding this company
+> from the list of comparable companies on the ground that its profits were
+> abnormally high owing to extraordinary event of merger/amalgamation that
+> took place during the relevant previous year.
+
+(D) Thirdware Solutions Ltd:-
+
+> 18.2.1. Ld.AR submitted that Thirdware Solutions Ltd., is engaged in
+> multiple diverse activities in FY 2004-05 including (a) software development
+> services under which the company provides application development, customer
+> relationship management and ERP; and (b) sale of software IT(TP)A Nos.349 &
+> 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 16 of 17 product and
+> related services, without proper segmental data being available for the said
+> diverse activities.
+
+> 18.2.2. We note that it is for such reasons Bangalore ITAT in Net Devices
+> India Pvt. Ltd. (supra) at paras 8.1-8.3 and 9.1-9.3 at pages 15-19 and 19-
+> 21 respectively] excluded these comparables as functionally not similar
+> service provider such as Assessee. Respectfully following the same we uphold
+> observations of learn CIT (A).
+
+> Accordingly this ground raised by revenue stands dismissed.
+
+16\. Following above said decision of the Tribunal, we direct exclusion of
+above said four companies. The AO/TPO shall re- compute ALP of the
+international transactions accordingly.
+
+17\. The assessee has raised a ground as to whether the satellite charges
+incurred in foreign currency are required to be reduced from export turnover
+while computing deduction u/s 10A of the Act. The revenue has raised a ground
+as to whether the Ld CIT(A) was justified in following the decision of
+Karnataka High Court rendered in the case of Tata Elxsi Ltd, i.e., exclusion
+of expenses incurred in foreign currency from both export turnover and total
+turnover while computing deduction u/s 10A of the Act. The Ld A.R submitted
+that the assessee would be satisfied, if parity is given in respect of
+deduction from both export turnover and total turnover.
+
+18\. The Hon'ble Supreme Court has settled this issue in the case of CIT vs.
+HCL Technologies Ltd (TS \- 218 - SC -2018). The relevant observations made by
+Hon'ble Supreme Court are extracted below:-
+
+> "20. Even in common parlance, when the object of the formula is to arrive at
+> the profit from export business, expenses excluded from export turnover have
+> to be excluded from total turnover also. Otherwise, any other interpretation
+> makes the formula unworkable and absurd. Hence, we are satisfied that such
+> deduction shall be allowed from the total turnover in same proportion as
+> well.
+
+> IT(TP)A Nos.349 & 878/Bang/2014 M/s. Mindtree Ltd., Bangalore  Page 17 of 17
+
+> 21\. On the issue of expenses on technical services provided outside, we
+> have to follow the same principle of interpretation as followed in the case
+> of expenses of freight, telecommunication etc., otherwise the formula of
+> calculation would be futile. Hence, in the same way, expenses incurred in
+> foreign exchange for providing the technical services outside shall be
+> allowed to exclude from the total turnover."
+
+Accordingly, following the decision rendered by Hon'ble Supreme Court, we
+uphold the order passed by Ld CIT(A) on this issue.
+
+19\. In the result, the appeal of the revenue is dismissed and the appeal of
+the assessee is treated as allowed.
+
+Order pronounced in the open court on 22nd Oct, 2020 Sd/- Sd/-
+
+    
+    
+            (Beena Pillai)                                 (B.R. Baskaran)
+          Judicial Member                                Accountant Member
+    
+    Bangalore,
+    Dated 22nd Oct, 2020.
+    VG/SPS
+    Copy to:
+     1. The Applicant
+     2. The Respondent
+     3. The CIT
+     4. The CIT(A)
+     5. The DR, ITAT, Bangalore.
+     6. Guard file
+                                                       By order
+    
+    
+                                              Asst. Registrar,
+                                              ITAT, Bangalore.
+     
+

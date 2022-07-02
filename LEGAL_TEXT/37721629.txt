@@ -1,0 +1,510 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Acit, Gurgaon vs M/S. Comverse Networks System ... on 19 June, 2019
+
+    
+    
+    ITA No. 3680/D/2013
+    C.O. No. 94/D/2016
+    
+    
+    
+    
+                  IN THE INCOME TAX APPELLATE TRIBUNAL
+                       DELHI BENCH 'I-2' NEW DELHI
+    
+            BEFORE SHRI N.S. SAINI, ACCOUNTANT MEMBER
+                                AND
+           SHRI SUDHANSHU SRIVASTAVA, JUDICIAL MEMBER
+    
+                               ITA NO 3680/DEL/2013
+                                   AY: 2004-05
+    
+    ACIT,                 vs     M/s Comverse Network Systems India Pvt. Ltd.,
+    Circle-1(1),                6th Floor, Vatika Triangle, Block-A,
+    Gurgaon.                    Sushant Lok, Phase-I, Gurgaon.
+                                (PAN: AABCC3425B)
+    (Appellant)                 (Respondent)
+    
+                              C.O. No. 94/Del/2016
+                           (IN ITA NO. 3680/DEL/2013)
+                                    AY: 2004-05
+    
+    M/s Comverse Network Systems India Pvt. Ltd., vs           ACIT,
+    DLF Building No. 14, Tower D,                              Circle 1(1),
+    18th Floor, Sector-25 & 25A,                               Gurgaon.
+    DLF Cyber City,
+    Gurgaon-122002
+    
+                          Assessee by:      Shri G.C. Srivastava, Adv.
+                                            Shri Parichay Solanki, Adv.
+                          Respondent by:    Ms Saweta Nakra, Sr. DR
+                        Date of hearing :        14.06.2019
+                Date of Pronouncement :          19.06.2019
+    
+                                   ORDER
+    
+
+PER SUDHANSHU SRIVASTAVA, JM This appeal by the revenue is preferred against
+the order of the Ld. Commissioner of Income Tax (Appeals), Rohtak {CIT (A)}
+dated 28.3.2013 and pertains to assessment year 2004-05 and the C.O. has been
+preferred by the assessee.  1 ITA No. 3680/D/2013 C.O. No. 94/D/2016 2.0 Brief
+facts of the case are that, as per the assessment records, Comverse Technology
+Inc., which is the ultimate holding company of the group, was incorporated in
+the year 1984 and is engaged in designing, developing, manufacturing,
+marketing and supporting telecommunication systems and software for
+multimedia, communications and information processing applications. The
+holding company through its various subsidiaries primarily makes communication
+systems and software that telecom companies use to offer call answering,
+voice/fax mail, communications surveillance and recording etc. The assessee
+i.e. Comverse Network Systems India (P) Ltd. is a subsidiary of Comverse
+Technology Inc. USA which holds 99.90% of the capital. The assessee was
+incorporated in the year 1999 to provide pre-sales support and post-sales
+support services primarily to the customers of Comverse Network Systems Ltd.,
+Tel Aviv and also to the Indian customers of Verint Systems Inc (another
+subsidiary of the holding company) which are the Associated Enterprises (AE).
+
+2.1 During the captioned year, the return of income was was filed declaring
+income of Rs. 61,18,410/-. Subsequently, the case was selected for scrutiny.
+During the year under  2 ITA No. 3680/D/2013 C.O. No. 94/D/2016 consideration,
+the assessee had shown total service income of Rs. 9,88,99,921/-. In view of
+the international transactions entered into by the assessee during the year
+under consideration, the Assessing Officer (AO) made a reference to the
+Transfer Pricing Officer (TPO) u/s 92CA(3) of the Income Tax Act, 1961
+(hereinafter called 'the Act') to determine the Arm's Length Price (ALP) with
+respect to the two transactions as under:-
+
+i) Sales and post sales support - Rs. 9,00,08,187/-
+
+ii) Payment of medical insurance fee - Rs. 1,63,705/- 2.2 The assessee had
+adopted Transactional Net Margin Method (TNMM) to compute the Profit Level
+Indicator (PLI). The assessee computed its operating profit margin at 6.58%
+whereas the mean Net Operating Profit of the four comparables selected by the
+assessee was computed at 3.08%. However, the Transfer Pricing Officer (TPO)
+determined the Arm's Length Price (ALP) of the international transactions
+related to providing services to the AEs at Rs. 10,86,91,099/- and proposed an
+addition of Rs. 18,682,912/- as transfer pricing adjustment in terms of the
+provisions of section 92CA(4) of the Act. Apart from this, the Assessing
+Officer also made addition of Rs. 8,55,136/- on account of disallowance of
+provision for gratuity and a further  3 ITA No. 3680/D/2013 C.O. No. 94/D/2016
+disallowance of Rs. 40,500/- being disallowance of payment made to Golf Club.
+The total income of the assessee was computed at Rs. 2,56,96,958/-.
+
+2.3 Aggrieved, the assessee approached the Ld. First Appellate Authority. The
+Ld. Commissioner of Income Tax (Appeals) partly allowed the assessee's appeal
+by deleting five out of the six comparables introduced by the TPO for
+determining the ALP. The Ld. Commissioner of Income Tax (Appeals) also deleted
+the partial disallowance of the Golf Club expenses and also gave relief to the
+assessee with respect to the disallowance of the provision for gratuity.
+
+2.4 Aggrieved by the order of the Ld. Commissioner of Income Tax (Appeals),
+the department is now in appeal before this Tribunal (ITAT) and has raised the
+following grounds of appeal:-
+
+> "1. Whether the Ld. CIT has erred in rejecting 5 of the 6 comparables taken
+> by the AO/TPO for determining Arms Length Price.
+
+> 2\. Whether the Ld CIT has erred in deleting the part disallowance of club
+> expenses, despite the fact that the assessee could not submit any evidence
+> either during assessment proceedings or during appellate proceedings in
+> favour of these expenses being 'wholly and exclusively' for the purpose of
+> business.
+
+4
+
+ITA No. 3680/D/2013 C.O. No. 94/D/2016
+
+3\. Whether the Ld CIT (A) erred in admitting additional evidence pertaining
+to approval status of the assessee's gratuity fund without calling for the
+remand report from the AO.
+
+4\. Whether the Ld CIT (A) erred in treating the provision for gratuity and
+provision for leave encashment as ascertained liabilities for the purpose of
+book profit calculation u/s 115JB without any basis.
+
+Keeping in view the above facts & the tax effect i.e. 62,18,019/- which is
+more than the prescribed monetary limit of Rs. 3,00,000/- for appeal before
+the Hon'ble ITAT & as also suggested by the Range Head, further appeal to the
+ITAT is recommended in this case on the below mentioned issues."
+
+2.5 The assessee is also before the ITAT by means of a Cross Objection (CO)
+and the grounds raised in the CO are as under:-
+
+> "1. That the learned Commissioner of Income Tax [Appeals], Rohtak ("CIT-A")
+> erred in not holding the order passed by the learned Assistant Commissioner
+> of Income tax, Circle 1(1), Gurgaon ("AO") and the learned Assistant
+> Commissioner of Income tax, Transfer Pricing Officer - IV, New Delhi ("TPO")
+> as being contrary to the facts, law and the principles of natural justice.
+
+> 2\. That the learned CIT-A erred in law in not holding that the learned AO
+> did not meet the preconditions for making reference to the learned TPO under
+> section 92CA(1) of the Act and erred in not providing an opportunity of
+> 'being heard' to the Respondent before referring the transfer pricing issues
+> to the learned TPO.
+
+3\. That the CIT-A erred in law innot holding that the order of the learned
+TPO is bad in law and contrary to the  5 ITA No. 3680/D/2013 C.O. No.
+94/D/2016 principles of natural justice since 'no sufficient opportunity' was
+provided to the Respondent while concluding the assessment under section
+92CA(3) of the Act in respect of determination of arm's length price.
+
+4\. The learned CIT-A erred in law and in facts by upholding the following
+erroneous approach taken by the learned AO and the learned TPO:
+
+4.1 Rejecting 3 out of 4 comparables selected by the Respondent at the time of
+maintaining TP documentation and not accepting the economic analysis
+undertaken by the Respondent.
+
+4.2 Failing to make appropriate adjustments as prescribed under the Rules for
+differences in the functions performed, risks undertaken and assets employed
+by the Respondent vis-a-vis the comparables. 4.3 Adopting a flawed approach by
+using single year dataas against the multiple year data used by the Respondent
+in accordance with law, to compute the arm's length price of the international
+transactions entered by the Respondent, using Transaction Net Margin Method
+('TNMM').
+
+5\. Without prejudice to above, the learned CIT-A has erred in holding that
+the benefits given by Proviso to section 92C of the Act is not available to
+the Respondent."
+
+3.0 The Ld. Senior Departmental Representative (Sr. DR) submitted that the
+assessee had selected four comparables in the Transfer Pricing study viz.
+Enviro Technologies Ltd., Intelligent Communication System (India) Limited,
+Yashmun Engineers Limited and Vaibhav Heavy Vehicles Limited. The Ld. Sr. DR
+6 ITA No. 3680/D/2013 C.O. No. 94/D/2016 submitted that with respect to all
+these comparables the TPO had made observations in his order. It was submitted
+that the TPO observed that no data about product or services being provided by
+M/s Vaibhav Heavy Vehicles Limited was available. Similarly, no data for the
+products or services being provided by M/s Yashmun Engineers Ltd. was
+available. It was further submitted that as per the TPO, Intelligent
+Communication System (India) Limited was engaged in diverse activities ranging
+from sale of cables, computer accessories, personal computers and printers etc
+and repair and AMC was only one of the activities of the company and no
+segmental data was available with respect to the service activity. It was
+submitted that the TPO had no other option but to select seven comparables
+which was based on the Transfer Pricing study report in assessment year
+2002-03. These comparables were Hindustan Housing Co. Ltd., Scal Services
+Ltd., Wartsila Operations & Maintenance India Ltd., Choksi Laboratories Ltd.,
+Artson Engineering Ltd., Isgec Coverma Ltd., Enviro Technology Ltd. and Vimta
+Labs Ltd. It was submitted by the Ld. Sr. DR that the final set of comparables
+selected by the TPO had an average PLI of 17.2%. The Ld. Sr. DR drew our
+attention to the observations and comments of the TPO with  7 ITA No.
+3680/D/2013 C.O. No. 94/D/2016 respect to each of the comparables selected by
+the TPO and submitted that all these comparables were functionally comparable
+to the assessee company and had been rightly selected.
+
+3.1 The Ld. Sr. DR drew our attention to the impugned order and submitted that
+the Ld. Commissioner of Income Tax (Appeals) had rejected five out of the six
+comparables selected by the TPO which was incorrect inasmuch as the five
+comparables viz. Hindustan Housing Co. Ltd., Scal Services Ltd., Choksi
+Laboratories Ltd., Isgec Coverma Ltd. and Vimta Labs Ltd. were assessee's own
+comparables in assessment year 2002-03 and, therefore, they could not be taken
+as being functionally different in the year under consideration when the
+nature of assessee's business has remained the same. It was submitted that the
+Ld. Commissioner of Income Tax (Appeals) had completely disregarded the
+reasons recorded by the Transfer Pricing Officer for inclusion of these
+comparables. It was vehemently argued that the Ld. Commissioner of Income Tax
+(Appeals) had erred greatly in rejecting these five comparables.  8 ITA No.
+3680/D/2013 C.O. No. 94/D/2016 3.2 With respect to ground no. 2 relating to
+disallowance pertaining to Golf Club expenses, it was submitted that the
+assessee had debited an amount of Rs. 81,000/- in the profit and loss account
+being payment made to DLF Golf Resort Ltd. and since personal element could
+not be ruled out in the expenditure of this nature, 50% of the expenditure had
+rightly been disallowed by the Assessing Officer but the Ld. Commissioner of
+Income Tax (Appeals) had erred in deleting the disallowance. 3.3 With respect
+to ground no. 3 pertaining to the relief granted to the assessee with respect
+to the disallowance pertaining to provision of gratuity, it was submitted that
+the Ld. Commissioner of Income Tax (Appeals) had erred in admitting additional
+evidence pertaining to the approval of the gratuity fund without calling for a
+remand report from the Assessing Officer. 3.4 With respect to ground no. 4
+pertaining to the adjustment of book profits u/s 115JB of the Act with respect
+to provision of gratuity and provision for leave encashment, the Ld. Sr. DR
+submitted that the Ld. Commissioner of Income Tax (Appeals) had erred in
+treating these two provisions as  9 ITA No. 3680/D/2013 C.O. No. 94/D/2016
+ascertained liability whereas these two provisions were based on assumptions
+and were not based on any actuarial valuation. 4.0 In response, the Ld.
+Authorised Representative (AR) put forth his arguments on the issue of various
+comparables as under:
+
+(i) M/s Hindustan Housing Co. Ltd.
+
+The Ld. AR submitted that Hindustan Housing Co. Ltd. did not exist in the data
+base list generated using the comprehensive search process generated through
+comprehensive search process adopted by the assessee at the time of
+undertaking the economic analysis and hence was not accepted by the assessee
+as a comparable. It was further submitted that this company was not
+functionally comparable to the assessee company as it was primarily engaged in
+providing air conditioning, lift and intercom services which typically
+included operating and service maintenance services thereof. The Ld. AR
+further submitted that there were certain Related Party Transactions
+undertaken by this company during the year under consideration and which
+constituted 38.86% of its operating revenue. For this, a reference was made to
+the annual report of this company (which was placed  10 ITA No. 3680/D/2013
+C.O. No. 94/D/2016 at pages 263-267 of the paper book filed by the assessee
+company). The Ld. AR argued that this company could not be compared to the
+assessee company for the above reasons.
+
+(ii) M/s Choksi Laboratories Ltd.
+
+With respect to this company, the Ld. AR submitted that this company was also
+not functionally comparable as this is a commercial testing and analysis
+laboratory engaged in testing of various products which included food and
+agricultural products, cement and building materials, chemicals, drugs and
+paints. It was submitted that the other services rendered by the company are
+calibration services, consultancy and pollution control. Our attention was
+drawn to page 9 of the TPO's order wherein the TPO himself has observed that
+the core activity of this company was providing analytical and testing
+services. It was further submitted that this company had a significantly high
+proportion of testing instruments which was approximately 58% of its total net
+assets which implied that the functions performed by the company were more
+capital intensive than the functions of a service provider. Our attention was
+drawn to page 315 of the paper book of the assessee which contained the annual
+report to  11 ITA No. 3680/D/2013 C.O. No. 94/D/2016 highlight this fact. It
+was submitted that the high proportion of investment of this company would
+suggest that this company was engaged in a significantly different business
+function than that of the assessee which was only a sales support and post
+sales support service provider.
+
+(iii) Vimta Labs Ltd.
+
+With respect to this company, the Ld. AR submitted that this company was a
+leading provider of multi-disciplinary contract- research and testing services
+in India. It was submitted that this company is mainly engaged in providing
+testing services in India in areas of clinical research, environmental
+assessments, pre- clinical animal studies, clinical reference lab services and
+analytical testing of a wide variety of products. Our attention was drawn to
+page 340 of the paper book containing the annual report of this company
+wherein these functions were mentioned. It was also highlighted that this
+company had incurred huge expenditure on testing and analysis whereas the
+assessee company did not incur any expenditure on testing services. It was
+also submitted that the assets employed by the assessee in terms of plant and
+machinery were approximately 70% of its total  12 ITA No. 3680/D/2013 C.O. No.
+94/D/2016 net assets which implied that the functions performed by this
+company were more capital intensive than the assessee company which was a mere
+service provider and, therefore, this company was also not comparable to the
+assessee company. 4.0.1 With respect to the other two comparables viz. Scal
+Services Ltd. and Isgec Coverma Ltd., whose exclusion by the Ld. CIT (A) was
+being challenged, the Ld. AR submitted that the assessee had no objection if
+these two comparables were included in the final set of comparables.
+
+4.1 With respect to the disallowance deleted by the Ld. Commissioner of Income
+Tax (Appeals) with respect to the Golf Club expenses, the Ld. AR drew our
+attention to the nature of the expenditure which was duly reflected in page
+371 of the paper book and it was submitted that the nature of expenditure was
+membership fee which was an allowable expenditure. Reliance was placed on the
+judgment of the Hon'ble Bombay High Court in the case of C.I.T. (Large Tax
+Payer Unit, Mumbai) vs. Lubrizol India Ltd. reported in (2013) 37 taxmann.com
+294 (Bombay) wherein it had been held that entrance fee for membership of a
+club would be considered as revenue expenditure. It was  13 ITA No.
+3680/D/2013 C.O. No. 94/D/2016 submitted that the Ld. CIT (A) had rightly
+deleted the disallowance.
+
+4.2 With respect to ground no. 3 pertaining to the contention of the
+department that the Ld. Commissioner of Income Tax (Appeals) had erred in
+admitting additional evidence pertaining to the approval of the assessee's
+gratuity fund without calling for the remand report from the Assessing
+Officer, the Ld. AR submitted that no fresh evidence had been admitted by the
+Ld. Commissioner of Income Tax (Appeals) in this respect and the approval of
+the gratuity fund w.e.f. 29.03.2004 was a matter of record.
+
+4.3.0 With respect to ground no. 4, wherein the department has challenged the
+action of the Ld. Commissioner of Income Tax (Appeals) in treating the
+provisions of gratuity and provision for leave encashment as ascertained
+liabilities for the purpose of book profit calculation u/s 115JB of the Act,
+the Ld. AR submitted that as far as provision for gratuity was concerned, a
+provision of Rs. 5,13,162/- had been made for the year under consideration
+whereas the corresponding provision was of Rs. 3,41,974/- in the immediately
+preceding year and the  14 ITA No. 3680/D/2013 C.O. No. 94/D/2016 accumulated
+provision as on 29.03.2004 was of Rs. 8,55,136/-. The Ld. AR further submitted
+that against this accumulated provision, a payment of Rs. 8,50,000/- was made
+by the assessee company during the year under consideration and, thus, it was
+not a provision since the payment against the same had been made during the
+year. Our attention was drawn to pages 373- 374 of the paper book containing
+the chart pertaining to gratuity and notes on account wherein these figures
+had been duly mentioned.
+
+4.3.1 With respect to provision of leave encashment amounting to Rs.
+4,21,697/- our attention was drawn to the notes on account wherein in Para (e)
+it had been mentioned that this provision was based on actuarial valuation of
+assessee's liability. Reliance was placed on the judgment of the Hon'ble
+Bombay High Court in the case of C.I.T. vs. Echjay Forgings (P) Ltd. reported
+in (2001) 116 Taxmann 322 (Bombay) wherein it has been held that where the
+assessee had made a provision for doubtful debts, gratuity etc. on the basis
+of actuarial valuation, such provisions would have to be excluded from net
+profit for working out the book profit u/s 115J of the Act.  15 ITA No.
+3680/D/2013 C.O. No. 94/D/2016 5.0 The Ld. AR submitted that the C.O. of the
+assessee was not being pressed.
+
+6.0 We have heard the rival submissions and perused the material available on
+record. We take up the issue relating to the comparables first. Our
+adjudication on the comparables is as under:-
+
+(i) Hindustan Housing Co. Ltd.
+
+It has been submitted that this company was not functionally comparable to the
+assessee company as it was primarily engaged in providing air conditioning,
+lift and intercom services which typically included operating and service
+maintenance services thereof. It has also been submitted that there were
+certain Related Party Transactions undertaken by this company during the year
+under consideration and which constituted 38.86% of its operating revenue. A
+perusal of the Directors' Report and the Annual Financial Statements shows
+that the contentions of the Ld. AR are correct on both the counts.
+Undisputedly, the assessee company is engaged in providing pre-sales support
+and post-sales support services primarily to the customers of Comverse Network
+Systems Ltd., Tel Aviv and also to the Indian  16 ITA No. 3680/D/2013 C.O. No.
+94/D/2016 customers of Verint Systems Inc (another subsidiary of the holding
+company) which are the Associated Enterprises (AE). On the other hand,
+Hindustan Housing Co. Ltd. undertakes a wider variety of activities like
+providing air conditioning, lift and intercom services which typically
+included operating and service maintenance services thereof. Thus, although
+providing post sales services is a part of the activities of Hindustan Housing
+Co. Ltd., its spectrum includes providing air conditioning, lifts and
+intercoms also. Thus, it cannot be considered as a company which is
+functionally comparable to the assessee company. Also, the company fails the
+Related Party Transaction filter. Therefore, we find no infirmity in the order
+of the Ld. CIT (A) directing the exclusion of this company from the final set
+of comparables.
+
+(ii) Choksi Laboratories Ltd.
+
+With respect to this company, it has been submitted that this company is not
+functionally comparable as this is a commercial testing and analysis
+laboratory engaged in testing of various products which included food and
+agricultural products, cement and building materials, chemicals, drugs and
+paints. It has also been submitted that the other services rendered by the
+company are calibration services, consultancy and pollution control. A  17 ITA
+No. 3680/D/2013 C.O. No. 94/D/2016 perusal of the Directors' Report and the
+Annual Financial Statements shows that the contentions of the Ld. AR are
+correct on both the counts. We also note that the TPO himself has observed in
+page 9 of his order that the core activity of this company was providing
+analytical and testing services. We also note that this company had a
+significantly high proportion of testing instruments which was approximately
+58% of its total net assets which implies that the functions performed by the
+company are capital intensive in nature and there is no similarity with the
+functions of a service provider. Therefore, we find no infirmity in the order
+of the Ld. CIT (A) directing the exclusion of this company from the final set
+of comparables.
+
+(iii) Vimta Labs Ltd.
+
+With respect to this company, it has been submitted that this company is a
+leading provider of multi-disciplinary contract- research and testing services
+in India. It has also been submitted that this company is mainly engaged in
+providing testing services in India in areas of clinical research,
+environmental assessments, pre-clinical animal studies, clinical reference lab
+services and analytical testing of a wide variety of products. A perusal of
+the Directors' Report and the Annual  18 ITA No. 3680/D/2013 C.O. No.
+94/D/2016 Financial Statements shows that the contentions of the Ld. AR are
+correct on both the counts. We also note that this company had incurred huge
+expenditure on testing and analysis whereas the assessee company did not incur
+any expenditure on testing services. We also note that the assets employed by
+the assessee in terms of plant and machinery were approximately 70% of its
+total net assets which implies that the functions performed by this company
+were more capital intensive than the assessee company which was a mere service
+provider. Thus, it can be safely concluded that this company is not a good
+comparable to the assessee company. Therefore, we find no infirmity in the
+order of the Ld. CIT (A) directing the exclusion of this company from the
+final set of comparables.
+
+6.0.1 With respect to the other two comparables viz. Scal Services Ltd. and
+Isgec Coverma Ltd., whose exclusion by the Ld. CIT (A) was being challenged,
+the Ld. AR has submitted that the assessee had no objection if these two
+comparables were included in the final set of comparables. Accordingly, we
+direct the TPO/AO to include these two companies in the final set of
+comparables.
+
+19 ITA No. 3680/D/2013 C.O. No. 94/D/2016 6.1 As far as the disallowance of
+club expenses is concerned, the Ld. Commissioner of Income Tax (Appeals) has
+deleted the disallowance by observing that the Assessing Officer has made the
+disallowance on ad hoc basis without bringing any fact on record to prove that
+some kind of personal element was involved. We further note that the Hon'ble
+Bombay High Court in the case of C.I.T. (Large Tax Payer Unit) vs. Lubrizol
+India Ltd. (supra) has held that entrance fee for membership of a club is to
+be considered as revenue expenditure. Although entrance fee does have an
+enduring benefit, it was not considered to be capital in nature by the Hon'ble
+Bombay High Court as no asset was created. Applying the same analogy,
+membership fee would also necessarily have to be regarded as revenue in
+nature. The nature of expenditure is not in doubt here. The Assessing Officer
+also has not brought out any fact which would justify the disallowance.
+Therefore, we are unable to differ with the findings of the Ld. Commissioner
+of Income Tax (Appeals) on this issue and we dismiss ground no. 2 of the
+department's appeal. 6.3 As far as ground no. 3 challenging the action of the
+Ld. Commissioner of Income Tax (Appeals) in allegedly admitting additional
+evidence with respect to approval of gratuity fund is  20 ITA No. 3680/D/2013
+C.O. No. 94/D/2016 concerned, a perusal of the impugned order shows that the
+Ld. Commissioner of Income Tax (Appeals) has not admitted any evidence which
+could be taken as being in the nature of additional evidence. The approval
+letter pertaining to the gratuity fund is a matter of record and we find no
+infirmity in the action of the Ld. Commissioner of Income Tax (Appeals) in
+taking cognizance of this approval letter while deleting the related
+disallowance. Thus, ground no. 3 also stands dismissed. 6.4 As far as ground
+no. 4 is concerned wherein the department has contested the action of the Ld.
+Commissioner of Income Tax(A) in treating the provision of gratuity and the
+provision for leave encashment as ascertained liability for the purpose of
+calculation of book profit u/s 115JB of the Act, it is undisputed from the
+disclosure made by the assessee in its notes on account that as against
+accumulated provision of Rs. 8,55,136/-, a payment of Rs. 8,50,000/- has been
+made against the gratuity and, thus it is not an estimate as inferred by the
+Assessing Officer but is based on actual payment. As far as the provision for
+leave encashment is concerned, it is undisputed that it is based on actuarial
+valuation of the assessee's liability in this regard. The same has been duly
+disclosed by way of a note in the  21 ITA No. 3680/D/2013 C.O. No. 94/D/2016
+'notes on accounts' annexed to the annual financial statement of the assessee
+company. We also find support from the judgment of the Hon'ble Bombay High
+Court in the case of C.I.T. vs. Echjay Forgings (P) Ltd. wherein the Hon'ble
+Bombay High Court had held that provision for doubtful debts, gratuity etc. on
+the basis of actuarial valuation would have to be excluded from the net profit
+for computing the book profit u/s 115JB of the Act. Therefore drawing analogy
+from this judgement and respectfully following the ratio of the judgment of
+the Hon'ble Bombay High Court as aforesaid, we dismiss ground no. 4 of the
+department's appeal. 6.5 Ground no. 5 is general in nature and needs no
+separate adjudication.
+
+7.0 In the result, the appeal of the revenue stands partly allowed.
+
+8.0 Since the assessee has not pressed its Cross Objection, the same stands
+dismissed.
+
+9.0 In the final result the appeal of the department stands partly allowed and
+the assessee's C.O. stands dismissed.  22 ITA No. 3680/D/2013 C.O. No.
+94/D/2016 Order pronounced in the open court on 19.06.2019.
+
+    
+    
+                Sd/-                                   Sd/-
+    
+      (N.S. SAINI)                              (SUDHANSHU SRIVASTAVA)
+     ACCOUNTANT MEMBER                                JUDICIAL MEMBER
+    
+    
+    Dated: 19th JUNE, 2019
+    'GS'
+    
+    Copy forwarded to: -
+    
+           1)      Appellant
+           2)      Respondent
+           3)      CIT(A)
+           4)      CIT
+           5)      DR
+                          By Order
+                                                        ASSTT. REGISTRAR
+    
+    
+    
+    Date of dictation
+    
+    
+
+Date on which the typed draft is placed before the dictating Member Date on
+which the typed draft is placed before the Other Member Date on which the
+approved draft comes to the Sr.PS/PS Date on which the fair order is placed
+before the Dictating Member for pronouncement Date on which the fair order
+comes back to the Sr.PS/PS Date on which the final order is uploaded on the
+website of ITAT Date on which the file goes to the Bench Clerk Date on which
+the file goes to the Head Clerk The date on which the file goes to the
+Assistant Registrar for signature on the order Date of dispatch of the Order
+23
+

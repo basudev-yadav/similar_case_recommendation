@@ -1,0 +1,831 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+M/S. Rolls Royce India Pvt. Ltd., ... vs Acit, New Delhi on 30 October, 2019
+
+    
+    
+               IN THE INCOME TAX APPELLATE TRIBUNAL
+                     DELHI BENCH : I-2: NEW DELHI
+         BEFORE SHRI R.K. PANDA, ACCOUNTANT MEMBER
+                             AND
+            MS SUCHITRA KAMBLE, JUDICIAL MEMBER
+                                    ITA No.658/Del/2017
+                                  Assessment Year: 2012-13
+    Rolls Royce India Pvt. Ltd.,                    Vs ACIT,
+    2nd Floor, Birla Tower West,                       Circle 21(2),
+    25, Barakhamba Road,                               New Delhi.
+    New Delhi.
+    
+    PAN: AABCR5277Q
+    
+           (Appellant)                                     (Respondent)
+    
+                  Assessee by               :      Shri Pradeep Dinodia, Advocate,
+                  Revenue by                :      Ms Nidhi Sharma, Sr. DR
+    
+                  Date of Hearing       :           22.10.2019
+                  Date of Pronouncement :           30.10.2019
+    
+                                           ORDER
+    
+
+PER R.K. PANDA, AM:
+
+This appeal filed by the assessee is directed against the order dated
+20.12.2016 of the Assessing Officer passed u/s 143(3)/144C/92CA(4) of the IT
+Act, 1961, relating to assessment year 2012-13.
+
+2\. The grounds of appeal raised by the assessee read as under:-
+
+> "1. That the DRP/AO has erred in law and on facts in the circumstances of
+> the case in confirming the addition of Rs.7,26,52,018/- on account of
+> transfer pricing adjustment u/s 92CA(3) and non-TP disallowances on wholly
+> illegal, erroneous and untenable grounds.
+
+> 2\. The order of assessment is bad in law.
+
+ITA No.658/Del/2017 Transfer Pricing Adjustment
+
+3\. That the Ld. DP/AO has erred in law in confirming the addition of
+Rs.5,97,94,267/- u/s 92CA(3).
+
+4\. That the Ld. DRP has erred in law in disposing off the objection of the
+assessee in summary manner without analyzing and appreciating the facts of the
+assessee's case.
+
+5\. The learned AO's order based on the findings of the learned Transfer
+Pricing Officer and the directions of the learned Dispute Resolution Panel
+u/s.144C(5) of the Income- tax, is erroneous, untenable in law and on facts
+for the various reasons and not limited to the following: -
+
+> 5.1. The TPO as well as the DRP and consequently the AO have grossly erred
+> in law and on facts and in the circumstances of the case in erroneously:
+
+> 5.1.1. Rejecting the scientifically run search process of the assessee
+> without cogent reason 5.1.2. Rejecting the search process of the assessee
+> was bad in law in view of the facts the final set of 7 comparables of the
+> Ld. TPO had 3 of the originally chosen comparables by the assessee.
+
+> 5.1.3. Carrying out a new search process based on erroneous filters 5.1.4.
+> Cherry Picking the comparables 5.2. The TPO as well as the DRP and
+> consequently the AO have grossly erred in law and on facts and in the
+> circumstances of the case for the choice of comparable companies by
+> erroneously:
+
+> 5.2.1. Determining the ALP of the international transactions of the assessee
+> related to project management services (PMS), marketing support services
+> (MSS) and corporate services that are support services in nature by treating
+> and comparing them to high-end technical services, which is not in line with
+> Rule 10B(2)(b), such that it does not satisfy the Functions performed,
+> Assets employed and Risk assumed (FAR) Tests.
+
+> 5.2.2. Ignoring the fact that the AE service segment of the assessee
+> constitutes of more than 90% i.e. substantially  2 ITA No.658/Del/2017 and
+> predominantly comprising of support services and therefore comparable
+> companies which provided similar support services to the support service
+> segment of the assessee should have been chosen, thus not satisfying the
+> Functions Test.
+
+> 5.2.3. In not appreciating the fact that the new comparables chosen bear
+> different risk in rendering technical services, while the assessee is non-
+> risk bearing entity in its support services segment.
+
+> 5.2.4. In not appreciating the Risks assumed by the assessee is NIL vis-a-
+> vis the comparables which are high end service providers such that a Risk
+> Adjustment should also be allowed to the assessee to fulfill the criteria
+> laid down in Rule 10B(2)(b) of the IT Rules.
+
+> 6\. That the Ld. TPO and consequently DRP/AO has erred in law and on facts
+> in not selecting Cyber Media Research & Services Ltd in final list of
+> comparables which has been selected comparable of the assessee for last 2
+> years.
+
+> 7\. That the Ld. TPO and consequently DRP/AO has erred in law and on facts
+> in not including assessee comparables namely Office Care Services Ltd and
+> Vatika Marketing Ltd in final list of comparables stating them to be low end
+> and functionally different.
+
+> 8\. Without prejudice to the above, the AE service segment of the assessee
+> is prayed to be segregated into 2 segments namely, Technical Segment and
+> Business Support Segment (including Project Management Services, Corporate
+> services & Market Support services) and ALP of each segment be determined
+> separately with separate set of comparables as all information to the effect
+> in on records.
+
+> 9\. That the proposed addition of Rs.5,97,94,267/- is bad in the law and is
+> prayed to be deleted."
+
+3\. Ground Nos.1 to 4 being general in nature are dismissed. Ground of appeal
+No. 5 to 7 relate to inclusion/exclusion of certain comparables.
+
+4\. Facts of the case, in brief, are that the assessee is a subsidiary of
+Rolls Royce Overseas Holding Limited and operates in India primarily in the
+power generation  3 ITA No.658/Del/2017 and oil and gas markets with a range
+of reciprocating engines covering gas engines, HFO engines and crude oil
+engines. It also undertakes servicing contracts wherein it purchases spare
+parts from overseas Rolls Royce entities for subsequent sale. The company also
+undertakes services such as repair and maintenance and other services
+including technical project management and marketing support. It filed its
+return of income on 9th October, 2013 declaring total income of
+Rs.75,72,74,676/-. The Assessing Officer referred the matter to the TPO u/s
+92CA for determination of the arm's length price of the international
+transaction entered into by the assessee. The TPO noted that the assessee
+during the year under consideration has entered into the following
+transactions:-
+
+    
+    
+    No.    Nature of transaction                          Method
+                                                                         Value of transaction (in Rs.)
+    
+    1.     Purchase of spares for trading                 TNMM (PLI as                        8,18,13,383
+                                                          OP/OR)
+    2.     Provision of technical services                                                    5,72,53,977
+    3.     Provision of project management Services       TNMM (PLI as                        1,24,70,910
+    4.     Provision of Marketing Support Services        OP/OC)                             40,11,67,754
+    5.     Recharge of payroll expenses                                                       1,41,34,741
+    6.     Reimbursement of Bank Guarantee Charges                                               1,96,053
+                                                          NA
+    7.     Reimbursement of Insurance Charges                                                   26,19,566
+    8.     Recharge of expenses                                                              13,00,47,169
+    
+    
+    
+
+5\. While the TPO accepted the purchase of spares for trading and recharge of
+expenses, however, he did not accept the TP approach of the assessee for the
+service segment. According to the TPO, the services rendered by the assessee
+are high-end support services. After applying various filters, the TPO
+proposed the following comparables, whose average OP/OC is 30.66%, the details
+of which are as under:-
+
+4
+
+> ITA No.658/Del/2017 S.No Company Name OP/OC (%) 1 Apitco Ltd. 20.46 2 B VG
+> India Ltd. 24.46 3 H S C C (India) Ltd. 48.83 4 ICR A Management Consulting
+> Services Ltd. 6.62 5 Info Edge (India) Ltd. 56.79 6 Kitco Ltd. 37.97 7 Tata
+> Consulting Engineers Ltd. 19.47 Average 30.66
+
+6\. Rejecting the submissions of the assessee that it was providing simple
+business support services and not high end marketing support services and,
+therefore, the comparables should be taken from the segment broadly classified
+as ''Business support services' and observing that in the past also the same
+approach was adopted by him has been followed, the TPO finally adopted the
+following comparables for benchmarking the international transaction in
+support services:-
+
+> S.No Company Name OP/OC
+
+> 1\. Apitco Ltd. 20.46
+
+> -■ r-S H S C C (India) Ltd.
+    
+    
+          2.                                                                         48.83
+          3.      ICRA Management Consulting Services Ltd.                            6.62
+          4.      Info Edge (India) Ltd.                                             56.79
+          5.      Kitco Ltd.                                                         37.97
+          6.      Tata Consulting Engineers Ltd.                                     19.47
+          7.      UB Engineering                                                       6.1
+                               Average                                               28.03
+    
+    
+    
+
+> 7\. Accordingly, he proposed an upward adjustment of Rs.6,22,45,975/-. The
+> assessee approached the DRP. The DRP rejected all the contentions of the
+> assessee. However, the DRP directed the TPO to recompute/benchmark the
+> margin of M/s UB Engineering Ltd. The Assessing Officer, thereafter,
+> calculated  5 ITA No.658/Del/2017 the arm's length price and revised the
+> same to Rs.5,97,94,267/- as against Rs.6,22,45,975/- made earlier.
+
+8\. Aggrieved with such order of the A.O./TPO/DRP, the assessee is in appeal
+before the Tribunal.
+
+9\. The ld. counsel for the assessee submitted that the assessee is operating
+in trading and service segment and the only area of dispute is the service
+segment comprising PMS, MSS and technical services. In AE service segment, the
+assessee is providing more than 95% of the risk free services and only 10%
+technical services. Referring to page 209 of the paper book, he submitted that
+this was also submitted before the Assessing Officer. Further, there is no
+change in the facts from assessment year 2007-08 onwards including assessment
+year 2011-12. He submitted that the assessee had selected 11 comparables with
+15.63% margin based on three year average as per TP study copy of which is
+placed at page 175 of the paper book. He submitted that out of seven
+comparables proposed by the TPO, only three comparables selected by the
+assessee were included. So far as the various comparables selected by the TPO
+and upheld by the DRP are concerned, the ld. counsel for the assessee
+submitted that the assessee is non-risk bearing in support services segment
+and high end chosen by the TPO and upheld by the DRP should be excluded.
+Referring to the order of the Tribunal in assessee's own case for assessment
+year 2010-11 and 2011-12, he submitted that the Tribunal has given the finding
+that the assessee is providing approximately 90% of risk free support  6 ITA
+No.658/Del/2017 services and the comparables should be selected which assumes
+low or no risk. He submitted that there is no change in facts of the case
+during the year under consideration. He submitted that the revenue in support
+service segment is Rs.42.62 crores while in technical service it is
+Rs.5.27crores. Thus, 89% of total service income is from rendering support
+service. So far as the allegation of the TPO that the services provided by the
+assessee are high end support services, he submitted that the Tribunal has
+already given a finding in assessee's own case that the assessee is a non-risk
+bearing service provider. It is also evident from the support service
+agreement, copy of which is placed at page 222 to 243 of the paper book. Now,
+coming to the various comparables selected by the TPO, the ld. counsel filed
+the following chart:-
+
+S. Company Business Profile Reliance placed for rejection No. Name
+
+1\. Aptico Ltd. Imparting consultancy in entirely Covered by ITAT order for
+different field and is not A.Y. 2010-11 & A.Y.2011-
+
+comparable to functions performed 12 in assessee's own case by the assessee
+(PB Pg.313) (Para 37 PB Pg.338 & Para 15 PB Pg.323 respectively)
+
+2\. Kitco Ltd. Functionally not comparable to the Covered by ITAT order for
+assessee because of nature of A.Y. 2010-11 & A.Y. 2011-
+
+    
+    
+                           services rendered (PB pg.314)        12 in assessee's own case
+                                                                (Para 38-39 PB Pg.338 &
+                                                                Para     15   PB     Pg.323
+                                                                respectively)
+    3.    Info Edge    Info Edge (India) Limited (Info          Covered by ITAT order for
+          (India) Pvt. Edge) is India's premier online          A.Y. 2011-12 in assessee's
+          Ltd.         classifieds company in recruitment,      own case. (Para 21 PB Pg.
+                       matrimony, real estate, education        325)
+                       and related services (PB Pg.315-
+                       316)
+    4.    TCE          Tata Consulting Engineers Limited        Covered by ITAT order
+          Consulting   (TCE) is an Indian engineering           for A.Y. 2011-12 in
+          Engineers                                             assessee's own case. (Para
+                       consulting firm. The company is a
+    
+                                               7
+                                                                            ITA No.658/Del/2017
+    
+    
+         Ltd.           wholly owned subsidiary of Tata        17 PB Pg.324)
+                        Sons Ltd. The company provides         M/s Verizon (India) Pvt.
+                        engineering services & solutions       Ltd. Vs JCIT [ITA No.
+                                                               4187/Del/2010],
+                        for power, nuclear, infrastructure,
+                        industrial, mining & minerals,         "EIL RITES, WAPCOS
+                                                               AND TCE operate in
+                        steels and metals, transportation,
+                                                               engineering consultancy
+                        water building, manufacturing,         industry, the risks and
+                        spatial    planning,   and      the    returns vary significantly
+                        environment. Lately an advanced        from     those  of     the
+                        technology business unit has also      marketing         support
+                        been started. Hence highly             services        company
+                        technical. See profile on PB           operating on a cost plus
+                                                               model."
+                        Pg.311-312)
+                                                               Delhi ITAT in Fluor
+                        Moreover      all TATA        group    Daniel India Pvt. Ltd.,
+                        companies own IPR which makes it       New... vs ACIT, ITA
+    
+
+functionally different from assessee 973/DeI/2006 which does not own any IPR
+Therefore, in our view it is apparent that this company is engaged in
+providing high end engineering consulting services which is not comparable
+with limited functions performed by assessee. Therefore we direct to exclude
+this comparable.
+
+5\. HSCC (India) HSCC India Ltd. is a Government The company is a Govt. of
+Ltd. of India enterprise set up in 1983 India Undertaking providing with an
+authorized capital of Rs.20 high quality professional million. HSCC is one of
+the few services. Considering these organization in South East Asia, facts,
+ITAT in case of Shell rendering comprehensive range of India Markets Pvt. Ltd.
+[TS- professional consultancy services in 430-ITAT-2014 (MUM)- health-care and
+other social sectors, TP] held that the company in India and abroad. The
+services was not functionally of HSCC's being government of comparable and
+directed its India enterprise, have been utilized exclusion. Reliance is by
+various organization, both in placed on International SOS Public and Private
+Sectors, Central Services India P Ltd. [TS-  8
+
+ITA No.658/Del/2017 Government Department, State 493-SC-2018-TP] in which
+Governments as also international judgement of Delhi HC in agencies like the
+World Bank, same case has been upheld WHO, among others for their and it has
+been held that projects in India and abroad. It Government of India undertakes
+various IT projects and Undertaking cannot be Procurement projects as evident
+included as a comparable. from the website of the company.
+
+Hence highly technical. See profile Reliance is also placed on on PB Pg.
+307-310. ITAT rulings in Chemtex Global Engineers Pvt. Ltd.
+
+Copy of relevant extract of [TS-161-ITAT-2013 financials enclosed as Annexre-1
+(Mum)-TP] and Yum Restaurants (India) Pvt. Ltd.
+
+[TS-166-ITAT-2014 (DEL)-
+
+    
+    
+                                                         TP] in which it was held that
+                                                         engineering,    consultancy,
+                                                         chemical testing services not
+                                                         comparable to assessee's
+                                                         marketing support services.
+    
+                                                              Delhi Bench of the Tribunal
+                                                              in the case of Bachtel India
+                                                              Pvt. Ltd. vs. DCIT in ITA
+                                                              No.882/Del/2014.
+    
+                                                              Thus this comparable is
+                                                              prayed to excluded due to
+                                                              functionally different and
+                                                              being government company.
+    
+    
+    
+
+10\. Referring to the order of the Tribunal in assessee's own case for
+assessment year 2010-11and 2011-12, copy of which is placed at page 317 to 341
+of the paper book, he submitted that the Tribunal has held that such
+comparables should be selected which are providing non-risk bearing business
+support services. If above mentioned high end technical services comparables
+are excluded from the final list of comparables, then, average PLI of the
+remaining comparables shall be 6.36%.
+
+9
+
+ITA No.658/Del/2017
+
+11\. So far as the inclusion of Cyber Media Research & Services in the final
+list of comparables is concerned, he submitted that the TPO did not include
+the above comparable in the final list of comparables although it passes all
+the filters of TPO's search process. He submitted that since this comparable
+is functionally similar to that of the assessee and was taken as the
+assessee's comparable in the preceding two years, therefore, this comparable
+should be included in the final list of comparables. Referring to the decision
+of the Mumbai Bench of the Tribunal in the case of Siemens Technology Services
+Pvt. Ltd. [TS-220-ITAT-2016 (MUM)- TP], he submitted that the Tribunal in the
+said decision has held that if a company was a good comparable in earlier
+years because of functional similarity, it should have been included for
+arriving at the average PLI of comparables. So far as inclusion of Cyber Media
+Research & Services is concerned, he submitted that the assessee had filed
+objections before the TPO for not including the above comparable. However, the
+TPO had excluded this comparable merely because its turnover decreased from
+the previous year from Rs.12.70 crore to Rs.3.33 crore in the year under
+consideration and alleged abnormal reduction in revenue. He submitted that
+this observation of the TPO is without any basis since in subsequent year it
+again increased to 5.61 crore. He submitted that the TPO had applied turnover
+criteria for obtaining comparables of above Rs.1 crore as per page 12 of the
+TPO's order. Therefore, the TPO cannot artificially reject this criteria and
+apply any turnover test for rejecting this company. He submitted that the DRP
+in para 10 of the order has upheld the exclusion of this comparable for being
+10 ITA No.658/Del/2017 functionally different. Since there is no abnormal
+business circumstances in the year under consideration so as to warrant
+exclusion of Cyber Media Research & Services from the final list of
+comparables when it was a good comparable in the last two years, therefore, he
+submitted that this company should be included in the final list of
+comparables. Referring to the decision of the Delhi Bench of the Tribunal in
+the case of Trend Micro India Pvt. Ltd. [TS-556-ITAT-2015 (DEL)- TP], he
+submitted that the Tribunal in the said decision has held that the Revenue
+cannot challenge own comparables absent CIT(A)/DRP directions.
+
+12\. So far as the exclusion of assessee's comparables, namely Office Care and
+Vatika Marketing from the final list of comparables are concerned, he
+submitted that both the companies are functionally similar to the assessee's
+support services segment. So far as Office Care Services Ltd. is concerned, he
+submitted that the company is engaged in providing housekeeping support
+services for offices and homes, electrical maintenance work, civil management,
+manpower of support services and other allied services. Since this company
+performs the same kind of support functions as the functions performed by the
+assessee, therefore, this company should be included in the final list of
+comparables. Further, the company does not fail 75% service income filter as
+alleged by the TPO at page 9 of his order. Referring to the Profits & Loss
+Account of the above company, he submitted that there is revenue of Rs.7.16
+crore and no revenue from trading or finished goods sale as there is no or
+negligible cost of goods and nil inventory.  11
+
+ITA No.658/Del/2017 12.1 So far as Vatika Marketing Ltd. is concerned, he
+submitted that the company was set up by Ashiana Housing group and is engaged
+in providing building repair and maintenance services and performs the similar
+kind of support functions as the functions performed by the assessee. This
+company does not fail 75% service income filter as alleged by the TPO at page
+10 of his order. He submitted that out of total revenue of Rs.11.13 crore, an
+amount of Rs.9.85 crore is from service income and there is no revenue from
+trading or finished goods sale as there is no or negligible cost of goods and
+nil inventory. Accordingly, he submitted that this company should be included
+in the final list of comparables. He submitted that the ld. DRP upheld the
+exclusion of the above two comparables in an ad hoc manner by just referring
+to the reasoning given by the TPO and without giving any cogent reason for not
+appreciating the submissions of the assessee. He accordingly submitted that
+both the companies be included in the final list of comparables.
+
+13\. The ld. DR, on the other hand, strongly supported the order of the
+A.O./TPO/DRP. So far as the various comparables which have been tested by the
+Tribunal in assessee's case in the preceding years are concerned, she relied
+on the order of the A.O./TPO/DRP. So far as the new comparables are concerned,
+she submitted that the FAR analysis has not been considered by the
+A.O./TPO/DRP and, therefore, merely on the basis of the submissions made by
+the ld. counsel for the assessee, these companies cannot be included/excluded.
+She submitted that she  12 ITA No.658/Del/2017 has no objection if these
+comparables are restored to the file of TPO/A.O. for verification of the
+functionality test and the FAR analysis.
+
+14\. We have considered the rival arguments made by both the sides. So far as
+the companies Aptico Ltd. and Kitco Ltd. are concerned, we find the Tribunal
+in assessee's own case, vide ITA No.6336/Del/2015, order dated 22nd April,
+2016 for assessment year 2011-12, has directed the TPO for exclusion of the
+companies holding that they are functionally different and they are not
+comparable with that of the assessee. The relevant observations of the
+Tribunal at para 15-16 of the order reads as under:-
+
+> "15. We have carefully considered the rival contentions. Comparable No.1
+> Apitco Ltd. and no 2. Kitco Ltd. are submitted to functionally not
+> comparable and further it is submitted that they have been considered by the
+> coordinate bench in the order of the assessee for A.Y. 2010-11 in assessee's
+> own case as under:-
+
+> "36. The second comparable, inclusion of which is disputed by the assessee,
+> is Apitco Ltd. In the synopsis filed by the assessee it is mentioned that
+> the services provided include but not limited to the domains of project
+> report preparation, techno economic studies, feasibility studies, micro
+> enterprise development, skill development, project management consulting,
+> industrial cluster development, environmental management consulting, energy
+> management consulting, market & social research and asset reconstruction
+> management services. This company was promoted jointly by All India
+> Financial Institutions (IDBI, IFCI, ICICI), State Industry Development
+> Corporations (APIDC, APSFC) and commercial banks (Andhra Bank, Indian Bank,
+> State Bank of India, Syndicate Bank),
+
+> 37\. From a bare perusal of the services rendered by Apitco Ltd. it is clear
+> that it is imparting consultancy in entirely different field and is not
+> comparable to the functions performed by different service segments of
+> assessee. We, therefore, direction for exclusion of this comparable from the
+> list of comparables.
+
+13
+
+> ITA No.658/Del/2017 KITCOLTD.
+
+38\. The functional profile of this company, as given in the synopsis filed by
+the assessee, is as under:
+
+"1. KITCO, the first technical consultancy organization(TCO) in India, was
+established in 1972 by Industrial Development Bank of India, other national
+and state level financial institutions, Govt. of Kerala and 7 Public Sector
+Banks for rendering services to Entrepreneurs, Govt. Departmental PSUs, Local
+Bodies, etc. Presently, Small Industries Development Bank of India (SIDBI) is
+the prime shareholder with 49% shares of the company.
+
+2\. The aim of setting up of TCO, which had the blessing of Govt. of India and
+the Reserve Bank of India, was to provide professional technical consultancy
+assistance to banks by appraisal of projects for priority sector lending and
+to entrepreneurs in the 5MB Sector by way of preparation of Project Reports &
+Market Studies and conducting training programmes for entrepreneurship
+development. Subsequently similar TCOs were set up in almost all the states
+with one of the National Financial Institutions (IDBI, IFCI or ICICI) as the
+prime shareholder.
+
+3\. KITCO has successfully implemented projects like Cochin International
+Airport Ltd., Titanium Sponge Project, International Marina, Cochin Special
+Economic Zone, etc and presently implementing a multimodal Mobility Hub at
+Cochin, all of which are first of its kind in the country in their own
+respect. KITCO has successfully completed the Phase-1 of CIAL Golf Course &
+Country Club and Ghallah Wentworth Golf Course at Muscat, Sultanate of Oman,
+thereby establishing itself in an area, which was considered to be the forte
+of European Consultants. The prestigious overseas assignments KITCO so far has
+completed include the technical evaluation of electrical power distribution
+network at King Abdul Aziz International Airport, Jeddah.
+
+4\. All its clients are either central government, state government, PSU etc.
+Snapshot enclosed.
+
+5\. It is working In divisions like infrastructure, tourism, aviation, IT
+services, HRD, financial services etc. which are dissimilar to the functional
+profile of the assessee company. Snapshot enclosed.
+
+39\. From the above submissions it is evident that this comparable is not
+functionally comparable with the assessee because it is the nature of services
+rendered and not per se rendering of services is relevant in accepting or
+rejecting a company as comparable.  14
+
+ITA No.658/Del/2017 Therefore, we direct exclusion of this comparable from the
+list of comparables."
+
+16\. In view of above finding of coordinate bench for exclusion of Aptico and
+Kitco Ltd. holding that they are functionally different Rolls Royce India
+Private Limited V DCIT ITA No 6636 Del 2015 A.Y. 2011-12 and are not
+comparable with the assessee. Therefore respectfully following the decision of
+coordinate bench we direct to exclude both these comparables accordingly."
+
+15\. Respectfully following the decision of the Tribunal in assessee's own
+case and in absence of any contrary material brought to our notice, we direct
+the A.O./TPO exclude the above two companies from the list of comparables.
+15.1 So far as Info Edge (India) Pvt. Ltd. is concerned, we find the Tribunal
+in assessee's own case in the immediately preceding assessment year at para 21
+of the order has discussed the issue and has directed the TPO for exclusion of
+this comparable. The relevant observation of the Tribunal at para 21 reads as
+under:-
+
+> "21. Regarding Infoedge India Pvt. Ltd we are of the view that this company
+> has been included by the TPO holding that it is functionally comparable.
+> Assessee contended before the ld. TPO as well as DRP that this company is
+> functionally not comparable in view of it engaged in management of online
+> portals and also has major sources of revenue as advertisement income. Both
+> the lower authorities rejected the contention of the assessee. We have
+> carefully considered the rival contentions. It is apparent that the
+> comparable selected by TPO is engaged in online portal activities such as
+> employment website, matrimonial website and its major revenue is
+> advertisement and subscriptions. It has diversified services such as
+> recruitment related, real estate related, matrimonial related services and
+> owns significant Rolls Royce India Private Limited V DCIT ITA No 6636 Del
+> 2015 A.Y. 2011-12 intangibles/websites such as naukri.com, 99 acre.com
+> etc.Therefore this company is functionally different as it is providing an
+> advertisement space as well as online portal based on subscription by the
+> buyer and seller of the services compared to services provided by the
+> assessee of marketing support services . In view of this we direct ld. TPO
+> for exclusion of this comparable."
+
+15
+
+> ITA No.658/Del/2017
+
+> 16\. Respectfully following the decision of the Tribunal in assessee's own
+> case and in the absence of any contrary material brought to our notice, we
+> direct the TPO to exclude this company from the list of comparables.
+
+17\. So far as TCE Consulting Engineers Ltd., is concerned, we find the
+Tribunal in assessee's own case in the immediately preceding assessment year
+at para 17 of the order has discussed the issue and has directed the A.O./TPO
+to exclude this company from the list of comparables. The relevant observation
+of the Tribunal reads as under:-
+
+> "17. Regarding TCE Consulting Engineers Ltd. it is submitted that it is also
+> engaged in providing highly technical services. The profile submitted by the
+> assessee shows that it has successfully managed complex engineering projects
+> across the infrastructure spectrum and also associated with prestigious
+> urban infrastructure facilities such as Airports, Railway and Aerotropolis
+> engineering consulting projects. Therefore it is apparent that this company
+> is engaged in providing high end engineering consulting services which is
+> not comparable with the functional analysis of the assessee. Therefore we
+> direct to exclude this comparable."
+
+18\. Respectfully following the order of the Tribunal in assessee's own case
+and in absence of any contrary material brought to our notice, we direct the
+A.O./TPO to exclude this company from the list of comparables.
+
+19\. So far as HSCC (India) Ltd. is concerned, we find the Tribunal in
+assessee's own case for the immediately preceding assessment year at para 24
+of the order has discussed the issue and restored the issue to the file of the
+TPO with certain directions by observing as under:-
+
+16
+
+> ITA No.658/Del/2017 "24. The next comparable is HSCC India Ltd. which has
+> been included by ld. TPO based on page no.7 of the annual report of that
+> company. However, on reading of the order of TPO we do not find any argument
+> of the assessee regarding exclusion of this comparable. On reading of the
+> order of the DRP also this comparable was not objected to its inclusion by
+> TPO. Only objection was raised regarding correction of the margins andthis
+> grievance of the assessee is resolved by ld. DRP. In view of this
+> respectfully following the decision of honourable special bench in Deputy
+> Commissioner of Income-tax V Quark Systems (P.) Ltd. 2010] 38 SOT 307 (CHD.)
+> (SB) We remit this comparable back to the file of the Ld. TPO for exclusion
+> or retention of this comparable as plea for its exclusion has been raised
+> before us for the first time."
+
+19.1 Respectfully following the decision of the Tribunal in assessee's own
+case, we restore this issue to the file of the TPO/A.O. for fresh adjudication
+of the issue in the light of the direction of the Tribunal.
+
+20\. So far as inclusion of Cyber Media Research & Services in the final list
+of comparables is concerned, it is the submission of the ld. counsel for the
+assessee that it passes all the filters adopted by the TPO. It has also been
+the submission of the ld. counsel for the assessee that since this company is
+functionally similar and was taken as assessee's comparable in previous two
+years i.e., 2010-11 and 2011- 12, therefore, this being a good comparable in
+the earlier years because of functional similarity, it should be included in
+the list of comparables. In view of the above submission of the ld. counsel
+for the assessee, we restore this issue to the file of the A.O./TPO with a
+direction to verify as to whether the above company passes the filters adopted
+by the TPO himself and in case it passes all the filters adopted by the TPO,
+then, the TPO/A.O. is directed to include this company as a comparable for
+arriving at the average PLI of the comparables.  17
+
+ITA No.658/Del/2017
+
+21\. So far as the company Cyber Media Research & Services is concerned, we
+find the TPO excluded this company merely because its turnover decreased from
+Rs.12.70 crore the previous year to Rs.3.33 Crore in the year under
+consideration. It is the submission of the ld. counsel that in subsequent year
+the turnover has gone up to Rs.5.61 crore. Further, the TPO has applied the
+turnover criteria of more than Rs.1 crore and, therefore, it is the submission
+of the ld. counsel that the TPO should not have artificially rejected this
+criteria and applied another turnover test for rejecting this comparable. We
+find force in the above argument of the ld. counsel. However, the submission
+of the ld. counsel that the turnover of the above comparable company has gone
+up in the subsequent year and that it passes all the filters of the TPO needs
+verification at the level of A.O./TPO. We, therefore, remit this issue to the
+file of A.O./TPO with a direction to verify as to whether the turnover has
+gone up to Rs.5.61 crore in the subsequent year as against Rs.3.33 crore in
+the current year and, if the same is found to be correct, then, this company
+should be included in the list of comparables.
+
+22\. So far as Office Care Services Ltd. is concerned, it is the submission of
+the ld. counsel for the assessee that this company is engaged in providing
+house keeping support services for offices and homes, electrical maintenance
+work, civil management, manpower support services and other allied services.
+Thus, it is his submission that this company performs the similar kind of
+support functions as the functions performed by the assessee and it does not
+fail 75% service income filter.  18
+
+ITA No.658/Del/2017 It is the submission of the ld. counsel for the assessee
+that this company has earned the revenue of Rs.7.16 crore and no revenue from
+trading or finished goods sale. We, therefore, deem it proper to restore this
+issue to the file of the TPO with a direction to verify that this company does
+not fail the 75% service income filter and performs the similar kind of
+support functions as performed by the assessee company. In case the same is
+found to be correct, then, the A.O./TPO is directed to include this company in
+the list of comparables.
+
+23\. So far as Vatika Marketing Ltd. is concerned, here also, it is the
+submission of the ld. counsel for the assessee that it is engaged in providing
+building repair & maintenance services and performs the similar kind of
+support functions as the functions performed by the assessee and does not fail
+75% service income filter. According to the ld. counsel, out of the total
+revenue of Rs.11.13 crore, an amount of Rs.9.85 crore is from service income
+and there is no revenue from trading or finished goods sale as there is no or
+negligible cost of goods and nil inventory. We, therefore, deem it proper to
+restore this issue to the file of the A.O./TPO with a direction to verify that
+it does not fail 75% service income filter as alleged by him in the order and
+also to verify as to whether the above companies perform similar kind of
+support functions as performed by the assessee company and if found correct,
+then to retain this company in the final list of comparables. Ground of appeal
+No.5 to 7 are accordingly allowed in the terms indicated above.  19
+
+ITA No.658/Del/2017
+
+24\. Ground of appeal No.8 was not pressed by the assessee for which ld. DR
+has no objection. Accordingly the same is dismissed.
+
+25\. The Corporate Tax grounds and other grounds are as under:-
+
+> "Corporate Tax
+
+> 10\. That the Ld. DRP/AO has erred in law in confirming the addition on
+> account of unbilled revenue write off and security deposit write off of Rs.
+> 1,15,59,310 & Rs. 12,98,441/- respectively.
+
+> 11\. That the Hon'ble DRP has erred in law and on facts in holding that
+> unbilled revenue write off shall be entitled to be allowed only when found
+> to be credited again in books of the assessee in subsequent year.
+
+> 12\. That the Hon'ble DRP has erred in law in not appreciating that the
+> condition of Sec 36(l)(vii) read with Sec 36(2) has already been complied
+> with to claim the allowance of unbilled revenue write off.
+
+> 13\. That the Hon'ble DRP and consequently Ld. AO has grossly erred in law
+> and on facts, in the circumstances of the appellant's case in confirming the
+> addition of security deposit written off amounting to Rs. 12,98,441/- merely
+> on the basis of assumptions, surmises and conjectures.
+
+> 14\. That the Hon'ble DRP has erred in law in holding that the claim of
+> security deposit write off shall be allowed only if it was received against
+> contract earned by the assessee in the course of its business.
+
+> Common Grounds
+
+> 15\. That the penalty proceedings initiated u/s Sec 271(l)(c ) are on wholly
+> illegal and untenable grounds since there was no concealment of any income
+> nor submission of inaccurate particulars of income, nor any default
+> according to law by the assessee.
+
+> 16\. That the interest charged u/s Sec 234B and 234C of the Act is on wholly
+> illegal and untenable grounds and is prayed not to be upheld. _
+
+> 17\. That each ground is independent of and without prejudice to the other
+> grounds raised herein."
+
+20
+
+> ITA No.658/Del/2017
+
+> 26\. Ground Nos. 13 and 14 were not pressed by the ld. counsel due to
+> smallness of the amount for which ld. DR has no objection. Accordingly, the
+> same are dismissed as not pressed. Ground Nos.15 and 16 are either premature
+> or consequential in nature. Accordingly, the same are dismissed. Ground
+> No.10-17 being general in nature are dismissed.
+
+27\. So far as Ground No.11 to 12 are concerned, they relate to the addition
+on account of unbilled revenue written off and security written off of
+Rs.1,15,59,310/-
+
+28\. Facts of the case, in brief, are that during the assessment proceedings
+the Assessing Officer noted that the assessee has claimed unbilled revenue
+written off to the extent of Rs.1,15,59,310/- u/s 36(2)(vii) of the Act. On
+being questioned by the Assessing Officer, the assessee replied as under:-
+
+> " In this respect, we would like to submit before your good self that during
+> the year under consideration, assessee company written off unbilled revenue
+> of Rs. 1,15,59,310/- during the relevant year. This revenue has already
+> accrued to the assessee company earlier years, so the same had already been
+> offered to taxation in earlier years. So, it is allowable .Further reliance
+> is placed on the case of M/s Nortel Networks India Pvt. Ltd. ITA No.
+> 1938/Del/2009.
+
+> Relying on the above facts and the case laws, we hereby submit before your
+> honour that the assessee case is very much identical to the case Nortel
+> Networks India Pvt. Ltd. As mentioned supra that is Assessee Company claimed
+> the amount of unbilled revenue written off hence it should be allowed."
+
+29\. However, the Assessing Officer did not accept the submissions made by the
+assessee and made addition of Rs.1,15,59,310/-. The assessee approached the
+DRP and the DRP restored the issue to the file of the Assessing Officer with
+21 ITA No.658/Del/2017 certain directions. Subsequently, the Assessing Officer
+passed the order retaining the same addition by observing as under:-
+
+> "6.5 I have considered the submission and accompanying documents. However,
+> upon a perusal of the submission of the assessee, it is not clear whether
+> the amount actually booked as revenue of Rs. 38.98 Cr. From M/s Rolls Royce
+> International Ltd. during F.Y 2011-12 includes the sum of Rs. 1,15,59,310/-
+> booked as unbilled-revenue during F.Y. 2010-11. As per directions of DRP,
+> the claim of assessee shall be allowed only if a contra entry of
+> Rs.1,15,59,310/- is found credited again during the year under
+> consideration. Since, the contra reversal entry is allowable subject to the
+> same amount being credited during FY 201-12, the claim of the assessee is
+> not allowed in the absence of credit amount booked in the accounts. In view
+> of this, the amount of Rs. 1,15,59,310/- on account of unbilled revenue
+> written off shall be disallowed. Since, I am satisfied that the assessee has
+> furnished inaccurate particulars of its income, penalty proceedings under
+> section 271(1)(c) are being initiated separately."
+
+30\. Aggrieved with such order of the A.O./TPO/DRP, the assessee is in appeal
+before the Tribunal.
+
+31\. The ld. counsel for the assessee submitted that due to certain small
+error, the Assessing Officer has repeated the addition, however, the
+fundamental principle is same and since the assessee in the preceding year has
+offered the amount to taxation and in the current year it has reversed the
+same, therefore, this being a contra entry, the addition is uncalled for. He
+accordingly submitted that the addition made by the Assessing Officer should
+be deleted.
+
+32\. The ld. DR, on the other hand, submitted that the assessee has failed to
+substantiate with evidence that the amount booked as revenue of Rs.38.98
+crores from M/s Rolls Royce International Ltd. for F.Y. 2011-12 includes the
+sum of Rs.1,15,59,310/- booked as unbilled revenue during F.Y. 2010-11. He
+submitted  22 ITA No.658/Del/2017 that the assessee has failed to substantiate
+the same before the Assessing Officer after the direction of the DRP,
+therefore, the order of the Assessing Officer should be upheld and the grounds
+raised by the assessee on this issue should be dismissed.
+
+33\. We have considered the rival arguments made by both the sides and perused
+the material available on record. We find the Assessing Officer, in the
+instant case, made an addition of Rs.1,15,59,310/- on account of unbilled
+revenue written off on the ground that the assessee could not explain properly
+as to whether the amount actually booked as revenue of Rs.38.98 crore from M/s
+Rolls Royce International Ltd. during F.Y. 2011-12 includes the sum of
+Rs.1,15,59,310/- booked as unbilled revenue during F.Y. 2010-11. It is the
+submission of the ld. counsel for the assessee that due to certain small
+arithmetical error there is some minor difference in the figures shown in
+2012-13. However, it is his submission that given an opportunity, the assessee
+is in a position to reconcile the same before the A.O/TPO that these are mere
+contra entries and no addition is called for. Considering the totality of the
+facts and circumstances of the case and in the interest of justice, we deem it
+proper to restore the issue to the file of the A.O./TPO with a direction to
+grant one more opportunity to the assessee to substantiate its case. The
+A.O./TPO shall decide the issue as per fact and law, after giving due
+opportunity of being heard. We hold and direct accordingly. The grounds raised
+by the assessee are accordingly allowed for statistical purposes.  23
+
+ITA No.658/Del/2017
+
+34\. In the result, the appeal filed by the assessee is partly allowed for
+statistical purposes.
+
+The decision was pronounced in the open court on 30.10.2019.
+
+    
+    
+                Sd/-                                                     Sd/-
+    
+    (SUCHITRA KAMBLE)                                           (R.K. PANDA)
+     JUDICIAL MEMBER                                        ACCOUNTANT MEMBER
+    
+    Dated: 30th October, 2019
+    
+    dk
+    
+    Copy forwarded to :
+    
+    1.    Appellant
+    2.    Respondent
+    3.    CIT
+    4.    CIT(A)
+    5.    DR
+                                                      Asstt. Registrar, ITAT, New Delhi
+    
+    
+    
+    
+                                              24
+     
+

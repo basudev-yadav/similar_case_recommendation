@@ -1,0 +1,1089 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Godaddy.Com Llc, Gurgaon vs Dcit, Circle- 1(3)(1), ... on 24 July, 2018
+
+    
+    
+                                              1                ITA No. 7123/DEL/2017
+    
+    
+    
+                      IN THE INCOME TAX APPELLATE TRIBUNAL
+                           DELHI BENCH: 'C' NEW DELHI
+    
+                   BEFORE SHRI R. K. PANDA, ACCOUNTANT MEMBER
+                                         AND
+                     MS SUCHITRA KAMBLE, JUDICIAL MEMBER
+    
+                        I.T.A .No. 7123/DEL/2017 (A.Y 2014-15)
+    
+    Godaddy.com LLC                  Vs           DCIT
+    C/o. Deloitte Haskins & Sells,                Circle-1(3)(1), International
+    Building No. 10B, 7th Floor, DLF              Taxation, Room NO. 410, 4th
+    Cyber City, Phase-2, Gurgaon                  Floor, Block-
+    Haryana                                       E2, Civic Centre, J. L. N.
+    AAECG7133K                                    Marg, New Delhi
+    (APPELLANT)
+                                                  (RESPONDENT)
+    
+    
+                   Appellant by       Sh. S. P. Singh, AR, Sh.
+                                      Manoneet Dalal, AR, Smt.
+                                      Prachi Bhtia, AR
+                   Respondent by      Sh. G. K. Dhall, CIT DR
+    
+                       Date of Hearing             18.07.2018
+                       Date of Pronouncement        24.07.2018
+    
+    
+                                        ORDER
+    
+
+PER SUCHITRA KAMBLE, JM This appeal is filed by the assessee against the
+Assessment Order dated 26.10.2017 passed by the DCIT, Circle-(1)(3)(1), New
+Delhi for Assessment Year 2014-15.
+
+2\. The grounds of appeal are as under:-
+
+"Appeal against the order under section 143(3) read with Section 144C(13) of
+the Income- tax Act, 1961 ("the Act") dated 26 October 2017 for the Assessment
+Year  2 ITA No. 7123/DEL/2017 2014-15 passed by the Deputy Commissioner of
+Income Tax, Circle 1(3)(1), Intl. Taxation, New Delhi ("AO") pursuant to the
+directions of Dispute Resolution Panel-I ("DRP")
+
+1\. That on the facts and in the circumstances of the case and in law, the
+impugned order of assessment framed by the AO pursuant to the directions of
+the DRP is erroneous and bad in law as well as in facts.
+
+2\. That on the facts and in the circumstances of the case and in law, the
+AO/DRP has wrongly alleged that receipts from domain name registration
+amounting to INR 437,761,396 should be charged to tax as royalty as per the
+provisions of section 9(l)(vi) read with section 115A of the Act.
+
+3\. That on the facts and circumstances of the case and in law, the AO/DRP has
+erred in holding that the web hosting services provided/rendered by the
+Appellant qualify as fees for included services as per Article 12(4)(a) of the
+India- USA Tax Treaty as well as under Section 9(l)(vii) of the Act.
+
+4\. That on the facts and circumstances of the case and in law, the AO/DRP has
+erred in not appreciating that the Appellant has characterized income from web
+hosting services as royalty and already offered the same to tax as per the
+provisions of section 9(l)(vi) read with section 115A of the Act.
+
+5\. That on the facts and circumstances of the case and in law, the A.O/DRP
+has erred in holding that the appellant has concealed its particulars of
+income or has not disclosed accurate particulars of income and has separately
+initiated penalty proceedings u/s 271 (1)(c)
+
+6\. That on the facts and circumstances of the case and in law the AO/DRP has
+erred in charging interest under section 234B and 234C of the Act to the
+Appellant."
+
+3\. The assessee, M/s Godaddy.com LLC has filed a return of income for A.Y.
+2014-15 on 30.09.2014 declaring income of Rs. 41,19,81,166/- as royalty and
+FTS for web hosting services/on demand sale and web designing/SSL
+Certification services respectively. The case was selected for scrutiny.
+Notice  3 ITA No. 7123/DEL/2017 u/s 143(2) of the Act was issued dated
+01.09.2015 and served upon the assessee. Subsequently, notice under Section
+142(1) issued on 12.04.2016 and served upon the assessee. The assessee through
+CAs attended the proceedings and filed various details which were examined by
+the Assessing Officer. Thus, the draft Assessment order was passed on
+14.12.2016 against which the objections were filed by the Assessee before the
+DRP. The DRP vide directions dated 22.09.2017 directed the Assessing Officer
+to complete the assessment as per the directions given therein. The Assessing
+Officer vide order dated 26.10.2017 held that the payment for domain name
+registration is for use of server of the assessee and hence amounts to royalty
+as per Section 9(1)(vi) of the Income Tax Act, 1961 as well as Article
+12(3)(a) of the India-US Tax Treaty. This view was also taken for earlier
+Assessment Year 2013-14 by the Assessing Officer. Being aggrieved by the same
+the Assessee filed appeal before us. During the hearing the Ld. DR pointed out
+that for A.Y. 2013-14, the Tribunal vide order dated 03.04.2018 held this
+issue against the assessee being ITA No. 1878/Del/2017.
+
+4\. The Ld. AR put up his written submission and the same are as under:-
+
+> Background
+
+> 1\. The Appellant, a Delaware Limited Liability Company, (located in
+> Arizona, USA), is the world's largest ICANN (Internet Corporation for
+> Assigned Names and Numbers) accredited domain name registrar. During the
+> captioned year, the Appellant earned revenues from the following services
+> rendered to Indian customers [Refer Para 3.2 final assessment order at Page
+> 81 of Appeal Set]:
+    
+    
+                 Particulars             Amount (INR)             Offered      to    tax
+                                                                  (INR)
+    
+                 Web          hosting    411,981,166              411,981,166
+                 services/on-demand
+                                               4                   ITA No. 7123/DEL/2017
+    
+    
+          sale
+    
+          Web designing/SSL          437,761,396/-
+          Certification Services
+    
+          Domain registration
+    
+    Meaning of domain name
+    
+    
+
+> 2\. A website is a combination of files, images, text, music etc. As there
+> are more than a billion websites on the internet, it is important for each
+> website to have a unique identity which could be used to connect to that
+> particular website. This identity of a website is its IP address (Internet
+> Protocol address). Any person with internet access can type in the website's
+> IP address that he wishes to browse on his device and he will land on that
+> website. IP address is a series of numbers, which is unique to each website.
+
+For instance, the IP address of the website of the Hon'ble Delhi High Court is
+'164.100.60.183'.
+
+3\. Obviously, it is not practical to remember each website's IP address. To
+solve this problem, Domain Name System was introduced in the early 1980s.
+Under this system, a website's IP address can be assigned a domain name, a
+name which can consist of alphabets and numbers. Now, instead of typing the IP
+address, a user can type the domain name which is assigned to that IP address
+and reach the website. For instance, the domain name of the website of the
+Hon'ble Delhi High Court is 'delhihighcourt.nic.in'.
+
+Domain name registration process
+
+4\. The internet began as a program called ARPANET in the early 1970s. As the
+internet began to expand, a process evolved to establish a new organization
+which would organize and co-ordinate a database of the domain names in
+addition to performing other important functions in respect of internet.
+Internet Corporation for Assigned Names and Numbers (ICANN) was established in
+1998 as a 'not for profit organization' and selected to perform  5 ITA No.
+7123/DEL/2017 this role.
+
+5\. With respect to domain name registration, ICANN formulates policies and
+inter-aiia helps in coordinating and supporting the registration and
+maintenance of domain names.
+
+6\. For this purpose, ICANN enters into agreements with 'Registries', whose
+function is to keep the master database of all the registered domain names.
+ICANN has also accredited around 2500 companies to be 'Registrars' (the
+Appellant is one of them). Their function is to register the domain names of
+the customers, i.e. the 'Registrants' and facilitate the entire domain name
+registration process.
+
+7\. In a typical domain name registration, a 'Registrant' (i.e. the customer),
+desirous of registering a domain name, approaches the 'Registrar' (the
+Appellant). The 'Registrar' then asks the 'Registry' whether the proposed
+domain name is available. The 'Registry' checks its database and informs the
+'Registrar' accordingly. If the domain name is available, i.e., it is not
+registered in the name of anyone else, the 'Registrant' can pay a fees and get
+the name registered with the help of the 'Registrar'. In order to keep the
+domain name, the 'Registrant' has to pay a periodical fee to the 'Registrar'
+i. e. the fee for domain name registration.
+
+Assessment History - AY 2013-14
+
+8\. Assessing Officer ("AO") while passing the assessment order for AY 2013-
+14 held that the payment for domain name registration is for use of server of
+the Appellant and hence amounts to royalty as per section 9(l)(vi) of the
+Income-tax Act, 1961 ("Act") as well as Article 12(3)(a) of the India-US tax
+treaty. [Refer Para 3 of the assessment order at Page 134 of the Paper Book]
+
+9\. Hon'ble Bench vide order dated April 13, 2018 held that the domain  6 ITA
+No. 7123/DEL/2017 names were similar to trademarks and the services provided
+by the Appellant were in connection with the use of the trademarks and the
+income therefrom constitutes 'royalty' within the meaning of clause (vi) read
+with clause (iii) of constitutes 'royalty' within the meaning of clause (vi)
+read with clause (iii) of Explanation 2 to section 9(1) of the Act. [Refer
+Para 12 of the ITAT order at Page 208 of the Paper Book]
+
+10\. Hon'ble ITAT while passing order for AY 2013-14 has not appreciated an
+important fact that the owner of domain name is the ultimate customer and not
+the Appellant. Consequently, clause (iii) of Explanation 2 to section 9(l)(vi)
+of the Act will not apply since the Appellant wasn't competent to grant the
+right to use in the said property which was owned by the ultimate customers.
+Hence, clause (vi) of Explanation 2 to section 9(l)(vi) of the Act will not
+apply.
+
+11\. The Appellant is in the process of filing an appeal before the Hon'ble
+Delhi High Court again the said order.
+
+Assessing Officer's Contentions for the AY 2014-15
+
+1\. The AO passed the assessment order alleging that income from domain name
+registration amounting to INR 437,761,396 should be charged to tax as royalty
+as per the provisions of section 9(l)(vi) of the Act. [Refer Para 6.5 of the
+final assessment order at Page 95 of Appeal Set]. The contentions of the AO
+while passing the order for captioned AY is similar to AY 2013-14.
+
+2\. The Ld. AO/DRP have linked web hosting services with domain name
+registration services.
+
+3\. The AO while passing the order has alleged that the payment for domain
+name registration is for use of server of the Appellant and hence amounts to
+royalty. Relevant extracts of the AO's order at Page 94 of the Appeal Set are
+as below:
+
+7 ITA No. 7123/DEL/2017
+
+Quote "Domain registration partakes the character of web hosting charges since
+without domain registration being in place, web hosting is not possible. As
+domain registration charges have been essentially charged for granting right
+to use the servers of the assessee, domain registration being the precondition
+to web hosting etc and the same being highly technical process and because of
+its inherent quality, the same squarely falls under the definition of royalty
+under the provisions of the Act and Double Taxation Avoidance Agreement."
+
+Unquote
+
+4\. The AO also alleged that web hosting services provided/ rendered by the
+Appellant qualify as fee for technical services ("FTS") as per Article
+12(4)(a) of the India-USA tax treaty as well as under section 9(l)(vii) of the
+Act. of income as royalty u/s 9(l)(vi) of the Act.[Refer Page 85 of the Appeal
+Set]
+
+5\. The Appellant filed an appeal before Dispute Resolution Panel ("DRP")
+which upheld the order of the AO. The AO framed final assessment order dated
+26 October, 2017 maintaining the aforesaid position.
+
+6\. Being aggrieved by the final assessment order passed by Ld. AO, the
+Appellant filed an appeal before Hon'ble ITAT.
+
+Appellant's contentions with respect to taxability of domain name registration
+services
+
+1\. At the outset the Appellant wishes to submit that facts involved in AY
+2013-14 are similar to the AY 2014-15 (i.e. the present AY).
+
+2\. The AO while passing orders for both AYs 2013-14 (prior year) and 2014- 15
+(year in appeal) has assessed income from domain name registration services as
+'royalty' under section 9(l)(vi) of the Act by holding that the income was
+received by the Appellant on account of granting to the  8 ITA No.
+7123/DEL/2017 customers, the right to use its server and thus is in the nature
+of right to use industrial, commercial or scientific equipment.
+
+3\. The Hon'ble Bench while passing its order for AY 2013-14 held that the
+domain names were similar to trademarks. The services provided by the
+Appellant were in connection with the use of the trademarks and the income
+therefrom constitutes 'royalty' within the meaning of clause (vi) read with
+clause (iii) of Explanation 2 to section 9(1) of the Act.
+
+4\. It is relevant to note that the Hon'ble Bench while passing its order for
+AY 2013-14 considered the order and findings of the AO. However, the Bench has
+upheld that the income is taxable as royalty by holding that the same is in
+connection with the use of trademark and not on account of the fact that it is
+for the granting to the customers, the right to use server (as contented by
+the AO). Accordingly, the contention of the AO, that income from domain name
+registration service is for granting a right to use server, no longer holds
+good.
+
+5\. The Appellant in the foregoing paragraphs has mentioned its contentions
+against the findings and decision of the Hon'ble ITAT for AY 2013-14 since the
+facts involved in the AY 2014-15 are similar to the facts for AY 2013-14.
+
+Contentions with respect to the order passed bv Hon'ble ITAT for AY 2013-14
+
+6\. The Hon'ble ITAT has held that the domain name registration services were
+"services rendered in respect of domain name" and the charges for such
+services were royalty within the meaning of clause (vi) read with clause (iii)
+of Explanation 2 to section 9(1) of the Act.
+
+7\. It may be clarified that the Registrant or Customer is the owner of domain
+name. The Appellant is neither the owner, nor does it have the right to use
+the domain names, which are registered by the customers. The Appellant is
+authorized by the international regulatory body-ICANN only to take domain  9
+ITA No. 7123/DEL/2017 name requests from customers, forward it to the Registry
+Operators, and upon its acceptance by such registry operators, facilitate the
+registration of such domain names. Further, the fact that a domain name is
+owned by the Registrants (i.e. the customers) is also recognized by Hon'ble
+Supreme Court in case of Satyam Infoway (2004) (2 SCR 465) and Hon'ble Bombay
+High Court in the case of Rediff Communications (AIR 2000 bnombay 27) (i.e.
+the decisions relied upon by the Hon'ble Bench). The same have been summarized
+in paras below.
+
+8\. It is submitted that without the ownership of an Intellectual Property
+right ("IPR) like trademark, there cannot be any licensing and there cannot be
+any royalty. Para 8.1 of the OECD's commentary on 'Model Tax Convention on
+Income and on Capital 2014' provides: "The definition does not, however, apply
+to payments that, whilst based on the number of times a right belonging to
+someone is used, are made to someone else who does not himself own the right
+or the right to use it." The Hon'ble Calcutta High Court has also given a
+similar finding in the case of CIT vs. Davy Ashmore India Ltd. (1991)(190 ITR
+626).
+
+9\. The Hon'ble AAR in the case of Cushman & Wakefield (S) Pte. Ltd. (305 ITR
+
+208)(2008)(AAR) held: 'When the above definition of trademark is placed
+against the definition of royalty arising out of the use of 'trademark', as
+contained in clauses of Explanation 2 to section 9(l)(vi) of the Act, it
+emerges that the recipient of the consideration, should be either the owner of
+the 'trademark' or registered holder of the 'trademark'. There should also
+exist a connection in course of trade between the payer and the recipient.'
+
+10\. The domain names requested by the customers (if not already registered)
+are not owned by anyone for that matter, they simply do not exist. It is the
+customer who becomes the owner of such domain names upon registration, and can
+license it to a third party if it so desires. It is perhaps this subsequent
+licensing by a registered owner of a domain name which  10 ITA No.
+7123/DEL/2017 could be examined for royalty characterization.
+
+11\. The Hon'ble Bench while passing its order relied on the judgment of the
+Hon'ble Supreme Court in the case of Satyam Infoway Ltd. v. Siffynet Solutions
+Pvt. Ltd. (2004)(2 SCR 465), Hon'ble Delhi High Court in the case of Tata Sons
+Ltd. v. Mr. Manu Kishori & Ors. 90(2001) DLT 659 and Hon'ble Mumbai High court
+in the case of Rediff Communications Ltd. Vs. Cyberbooth (AIR 2000 Bombay 27).
+The findings in the said decisions are summarized below:
+
+• In the decision of Satyam Infoway Ltd. v. Siffynet Solutions Pvt. Ltd.
+(supra), the Plaintiff, Satyam Infoway Ltd. had registered a domain names with
+the word 'Sify' with ICANN in the year 1999. Subsequently, in the year 2001,
+the Respondent, Siffynet Solutions Pvt. Ltd. registered domain names with the
+word 'Siffy' with ICANN. The Plaintiff alleged that the Respondent was
+'passing off' its services as those belonging to the Petitioner by using a
+deceptively similar word as part of its domain name. The decision was only in
+the context of granting a trade mark protection to a domain name in light of
+fraudulently 'passing off' of domain names.
+
+• Similarly, in the case of Tata Sons Ltd. (supra), it was held that the
+Respondent's use of domain names was violative of the Plaintiff's trademark
+and that internet sites have also to be recognized and accepted and given
+protection from passing off.
+
+• In the case of Rediff Communications Ltd. (supra) as well, the user of the
+domain name "www.radiff.com" was injuncted as it was held deceptively similar
+to the plaintiff's website www.rediff.com. It was held that domain name is
+entitled to protection equal to a trade mark.
+
+12\. In fact, the Hon'ble Supreme Court in the case of Satvam Infowav (supra)
+has observed that it is the registrant (i.e. customer! which owns the domain
+name and can protect the same against use by a subsequent  11 ITA No.
+7123/DEL/2017 registrant. The said decision accordingly is in favour of the
+Appellant's contention. Relevant extracts mentioned below:
+
+" Therefore, the domain name not only serves as an address for internet
+communication but also identifies the specific internet site. In the
+commercial field, each domain name owner provides information/services which
+are associated with such domain name "
+
+"The outcome of consultation between ICANN and WIPO has resulted in the
+setting up not only of a system of registration of domain names with
+accredited Registrars but also the revolution of the Uniform Domain Name
+Disputes Resolution Policy (UDNDR Policy) by ICANN on 24th October 1999. As
+far as registration is concerned, it is provided on a first come first serve
+basis."
+
+While registration with such Registrars may not have the same consequences as
+registration under the Trademark Act, 1999 nevertheless it at least evidences
+recognised user of a mark. Besides the UDNDR Policy is instructive as to the
+kind of rights which a domain name owner may have upon registration with ICANN
+accredited Registrars. In Rule 2 of the Policy, prior to application for
+registration of a domain name, the applicant is required to determine whether
+the domain name for which registration is sought "infringes or violates
+someone else's rights ...........
+
+These rules indicate that the disputes may be broadly categorised as : (a)
+disputes between trademark owners and domain name owners and (b) between
+domain name owners inter se. What is important for the purposes of the present
+appeal is the protection given to intellectual property in domain names. A
+prior registrant can protect its domain name against subsequent registrants.
+Confusing similarity in domain names may be a ground for complaint and
+similarity is to be decided on the possibility of deception  12 ITA No.
+7123/DEL/2017 amongst potential customers. The defences available to a
+compliant are also substantially similar to those available to an action for
+passing off under trademark law."
+
+13\. Similarly, Bombay High court in the case of Rediff Communications Ltd.
+(supra) recognized the fact that the registrant is the owner of domain name
+and domain name registrars merely performs the function of registering a
+domain name. The domain name registrar does not determine the legality of
+domain names. Relevant extracts reproduced:
+
+"Internet Domain names are similar to telephone number mnemonics, but they are
+of greater importance, since there is no satisfactory Internet equivalent to a
+telephone company white pages or directory assistance, and Domain names may be
+a valuable corporate asset, as it facilitates communication with a customer
+base. The uniqueness of Internet addresses is ensured by the registration
+services of the Internet Network Information Center ("Internic"), a
+collaborative project established by the National Science Foundation. I may
+hasten to add that it is the NSI which provides registration services of
+domain names under the name Internet Network Information Center ("Internic").
+NSI registers names free on the basis of "first come first served". NSI does
+not determine the legality of the domain name registration, or otherwise
+evaluate whether that registration or use may infringe upon the rights of a
+third party. Anyone can apply for the registration of a domain name and if the
+name is available, it is allotted to the applicant. "
+
+14\. It is also submitted that once a customer is registered with a particular
+Registrar, the customer has the option of switching to any other Registrar for
+the very same domain name at its will. If the Registrar, in fact, had the
+right to license and assign a domain name, it would have been at the
+discretion of the Registrar to transfer the domain name to any customer and
+not at the discretion of the customer to discontinue the services of the
+Registrar which had registered its domain name to begin with. Customers are
+13 ITA No. 7123/DEL/2017 allowed to and as a matter of fact do shift from one
+Registrar to another. It could not be said that the right to use an IPR is
+given by one entity in one year and by another entity in another year.
+Reference may be drawn to Clause 4 of Domain Name Registration Agreement
+between the Appellant and the customers. (Refer Clause 4 of the Domain Name
+Registration Agreement at Page 58 of the Paper Book)
+
+15\. Appellant wishes to highlight Clause 3.5 of the Registrar Accreditation
+Agreement between Godaddy and ICANN which indicates that the Appellant does
+not any right in the domain names "Rights in Data. Registrar disclaims all
+rights to exclusive ownership or use of the data elements listed in
+Subsections 3.2.1.1 through 3.2.1.3 for all Registered Names submitted by
+Registrar to the Registry Database for, or sponsored by Registrar in, each
+gTLD for which it is Accredited."
+
+16\. It is submitted that the services provided by the Appellant are similar
+to services provided by professionals who help in registering a company's name
+with the Registrar of Companies (ROC).
+
+17\. Simply providing services in connection with a trade mark is not
+sufficient to invite the application of clause (vi). The said clause shall
+apply when the services are in connection with "the activities" referred to in
+that section. It may be noted that the activity referred to in clause (iii) is
+'the use of any patent, invention, model, design, secret formula or process or
+trade mark or similar property;'. Accordingly, an entity which licenses its
+trade mark and also provides services in connection with the activity of
+licensing will be covered in clause (iii) for the first set of services and in
+clause (vi) for the second set of services.
+
+18\. If simply providing services in connection with trademark, patent etc. is
+taken to be covered within the definition of 'royalty' (without there
+additionally being the grant of a license thereto), the consequences would be
+14 ITA No. 7123/DEL/2017 absurd. In such a situation, even an advocate
+drafting an Intellectual Property Right ("IPR") transfer agreement will be
+receiving 'royalty' for his services as they will be in connection with the
+IPR.
+
+19\. For the service fee to be characterized as royalty, the entity which
+provides services in connection with the right to use an IPR must also be in a
+position to grant the license to use such IPR. Clause (vi) can never apply
+independently.
+
+In view of facts and law discussed above, the Appellant, most respectfully
+wishes to submit that income from domain name registration services is not in
+the nature of royalty and is not taxable under the provisions of Income-tax
+Act"
+
+5\. The Ld. DR submitted as under:-
+
+> 1\. Either the client enters into a WHA with Appellant or gives the details
+> of domain settings of its web host. In case of GoDaddy customer who has
+> already set up its customer profile, designating the its domain name
+> settings for new domain name registration, it need not complete this step
+> again. (Cl. 10 of DRA, p.43 of PB)
+
+> 2\. Appellant is the "Default Web Host" (Cl. 10 of DRA, p.44 of PB)
+
+> 3\. In case the details of domain settings of the web host is not given, the
+> domainname is directed to a "Parked Page" and the client can't customise it
+> as per its needs and can't modify the content displayed in it.(CI.10 of DRA,
+> p.44 of PB)
+
+> 4\. The content, advertisement and revenue from the websites in the 'parked
+> page' are provided by the appellant who uses them to generate revenue. (Cl.
+
+10 of DRA, p.44 of PB) Ouestion-1  15 ITA No. 7123/DEL/2017 Whether DNR and
+WHA are inter-related or independent processes:
+
+Claim of the Appellant That the transactions described in stages 5 & 8 (i.e.
+DRA & WHA) are processes independent of each other and the taxabilty of the
+amounts received by it in lieu of these have to examined separately.
+
+Claim of Revenue The transactions are NOT processes independent of each other
+but rather are directly associated or inextricably connected to each other and
+need to be treated as parts of one single and integrated process. DNR can't be
+completed and Registered Domain names can't be customised and used for the
+benefit of the client without entering WHA (irrespective of whether with the
+appellant or any other agency) and specifying the details of domain name
+settings and name servers. (Ref. Cl. 10 of DRA, p.43-44 of PB as discussed
+above) Ouestion-2 Taxability of the receipts in lieu of DNR and WHA:
+
+Claim of the Appellant > Amount received for web-hosting (WHA) is taxable in
+India and offered to tax as Royalty;
+
+> Amount received for domain name registration (DNR) is not taxable in India
+> because-
+
+o It is not in the nature of FTS as it doesn't involve any human intervention
+(Ref. submissions before AO, DRP & ITAT in Pages- 62 of Paperbook);
+
+16 ITA No. 7123/DEL/2017
+
+o It is not in the nature of Royalty as the appellant does not own copyright
+in the domain names(Ref. submissions before AO, DRP & ITAT in Pages- 62 of
+Paper book);
+
+o No activity is carried out in India and all the services are rendered
+outside India. Hence, no part of the payment for such services would be deemed
+to accrue in India even if the agreement gives rise to a business connection.
+
+Claim of Revenue A. Domain Name Registration-
+
+> Amount received for DNR is a part of a single and composite process and
+> can't be treated on a separate footing from that of Web Hosting.
+
+> The DRA gives rise to a business connection - a fact accepted by the
+> appellant.
+
+> Amount received for domain name registration (DNR) is taxable in India as
+> Royalty because-'Domain Name' is an intangible asset in the nature of
+> 'trademark' as held in the following decisions:
+
+Satyam Infoway Ltd. Vs. Siffynet Solutions Pvt. Ltd. (SC) 2004 supp (2) SCR
+465 In that case, the principal question raised was whether internet domain
+names are subject to the legal norms applicable to other intellectual
+properties such as trademarks. It was contended by the respondents before
+Hon'ble SC "that registration of a domain namewith ICANNdid not confer any
+intellectual property right: that it is a contract with a registration
+authority allowing communication to reach owners computervia internet links
+channelled through the registration authority's server and that it is akin to
+registration of a  17 ITA No. 7123/DEL/2017 company name which is a unique
+identifier o f a company but o f itself confers no intellectual property
+rights."
+
+The Hon'ble SC in its order observed that "The original role of a domain name
+was no doubt to provide an address for computers on the internet. But the
+internet has development from a mere means of communication to a mode of
+carrying on commercial activity. With the increase of commercial activity on
+the internet, a domain name is also used as business identifier. Therefore,
+the domain name not only serves as an address for internet communication but
+also identifies the specific internet site. In the commercial field, each
+domain name owner provides information/services which are associated with such
+domain name. Thus domain name may pertain to provision of services within the
+meaning of Section 2(zl A domain name is easy to remember and use, and is
+chosen as an instrument of commercial enterprise not only because it
+facilitates the ability of consumers to navigate the Internet to find websites
+they are looking for, but also at the same time, services to identify and
+distinguish the business itself, or its goods or services, and to specify its
+corresponding online internet location. Consequently a domain name as an
+address must, of necessary, be peculiar and unique and where a domain name is
+used in connection with a business, the value of maintaining an exclusive
+identity becomes critical. "As more and more commercial enterprises trade or
+advertise their presence on the web, domain names have become more and more
+valuable and the potential for dispute is high. Whereas large number of
+trademarks containing the same name can comfortably co-exist because they are
+associated with different products, belong to business in different
+jurisdictions etc.. the distinctive nature of the domain name providing global
+exclusivity is much sought after. The fact that many consumers searching of a
+particular site are likely, in the first place, to try and guess its domain
+name has further enhanced this value"
+
+18 ITA No. 7123/DEL/2017
+
+The Hon'ble SC, after recapitulating the provisions of the Indian Trade Marks
+Actl999 (sections 2(l)(m) to 2(zb)), rejected the submissions of the
+respondents by concluding that a domain name is a sign which can have a
+distinguishing function indicating the source of a good or of a service and
+that it thus has the usual features of a trademark. After putting domain names
+in the same category as trademarks, the Court did not focus on domain names
+anymore, since there is no use of the phrases domain name' or 'domain names'.
+It then shifts its focus to passing-off actions in trademark law and held
+that"... although the operation oh the Trademarks Act. 1999 itself is not
+extra territorial and may not allow for adequate protection of domain names,
+this does not mean that domain names are not to be legally protected to the
+extent possible under the laws relating to passing off."
+
+In that case permanent injunction was sought against the defendants from using
+the trademark/domain name www.tatainfotech.in or any other mark/domain name
+which is identical with or deceptively similar to the plaintiffs trademarks
+TATA/TATA INFOTECH. The Hon'ble Delhi High Court held that "... domain names
+or internet sites are entitled to protection as a trademark because they are
+more than a address. The rendering of internet servicesis also entitled
+toprotection in the samewav as goods and services are, and trade mark law
+applies to activities on internet."
+
+The Hon'ble High Court also reaffirmed the decision of the Hon'ble Mumbai High
+Court in the case of Rediff Communication Ltd. Vs Cyberbooth (2000) wherein it
+was held that ".. the internet domain names are of importance and can be a
+valuable corporate asset and such domain name is more than an internet address
+and is entitles to protection equal to a trademark."
+
+Gary Kremen vs. Stephen Michael Cohen et al. US Court of Appeal. Ninth Circuit
+(2003) 337 F.3d 1024  19 ITA No. 7123/DEL/2017 Perhaps the best depiction of
+the nature of the domain names and the right they enshrine upon the registrant
+has been made in the above case. In this case, the question before the Hon'ble
+Court was whether registrants have property rights in their domain names. The
+Hon'ble Court reversed the judgement of the District Court by applying a
+three- part test to determine whether a property right exists i.e. "First,
+there must be an interest capable of precise definition: second, it must be
+capable of exclussive possession or control: and third, the putative owner
+must have established a legitimate claim to exclusivity." It was concluded by
+the Hon'ble Court that "Domain names satisfy each criterion. Like a share of a
+corporate stock or a plot o f land, a domain name is a well-defined interest.
+Someone who registers a domain name decides where on the internet those who
+invoke that particular name- whether bv typing it into their web browsers, by
+following a hyperlink, or by other means - are sent. Ownership is exclusive in
+that the registrant alone makes that decision. Moreover, like other forms of
+property, domain names are valued, bought and sold, often for millions of
+dollars....Finally, registrants have a legitimate claim to exclusivity.
+Registering a domain name is like staking a claim to a plot of land at the
+title office. It informs others that the domain name is the registrant's and
+no one elses's."
+
+Makemytrip (India) Pvt. Ltd. Vs Dv. CIT (2012)(lTA Nos. 3961/Del/2009 & 4087
+/Del/2009) In this case, the issue in question was whether website development
+cost should be treated as "software" or as "intangible asset" for the purpose
+of capitalization and allowance of depreciation. The Hon'ble ITAT, Delhi,
+dismissed the appeal affirming the decision of CIT(A) that it is in the nature
+of an "intangible asset."
+
+> That in lieu of receipt of Domain Registration charges, the Registrar
+> appellant has permitted the Registrantto use all or some rights in the said
+> asset;
+
+20 ITA No. 7123/DEL/2017
+
+> The claim of the appellant that it is only a channel between the Registrant
+> and the Registree can't be accepted on account of the following -
+
+a. That the appelant has been accredated by ICAAN to register domain names and
+as per the Accredition Agreement between the appellant and ICAAN, the rights
+to register, assign and transfer and managespecific domain names lies
+exclussively with the appellant.
+
+b. The Appellant enjoys absolute and exclussive rights to assign domain names
+under specific domain extensions. Neither ICAAN nor Registry Operator can
+allocate, assign, insert, transfer, deactivate the domain names. The ICAAN
+owns domain extensions but has granted the registrar all the rights and risks
+relating to theassignment, allocation, transfer and management of specific
+domain names within such extensions to various registrars like the
+appellant.(Clause 2& 3 of Accreditation agreement) c. What the Appellant
+Registrar pays to ICAAN is the Accreditation Fee to use and enjoy an asset in
+the form of 'domain names'. The Accreditation agreement transfers a bundle of
+rights to the Registrar that include-
+
+i. Right to own domain names for the purpose of conducting its Registrar
+services. (Cl. 3.7.7 of Accreditation Agreement, p.93 of PB) ii. Right to
+allocate, register new domain names and transfer existing ones and insert such
+names into the registry database (Cl.2.1 of Accreditation Agreement, p.84 of
+PB);
+
+iii. Right to cancel/de-activate the domain registrations/names in certain
+given situations like false declaration by the client, Non-renewal etc. (Cl.
+3.7.5 of Accreditation Agreement, p.91 of PB & Cl.2 & 10 of Domain
+Registration Agreement) iv. Right to Renew domain registration without
+explicit consent of the registrant.(Cl. 3.7.5.2 of Accreditation Agreement,
+p.91 & Cl.3(B) of Domain  21 ITA No. 7123/DEL/2017 Registration Agreement, P.
+36 of PB) v. Right to suspend and put the registered domain names in "Parked
+Site" under certain given situations ( Cl.3(B) & 10 of Domain Registration
+Agreement, P. 37 & 43 of PB);
+
+    
+    
+    vi.     Right to auction and transfer domain names;
+    
+    vii.    Right to exploit the registered domain name to generate revenue in case
+    
+
+of default by domain owner, before the domain returns to ICAAN, right to
+retain the same for a limited time in a parking site and use it to earn
+income.(Cl. 10 of Domain Registration Agreement, P. 44 of PB) viii. Right of
+refusal/exclusion of registrant from accessing the registered domain and
+customising it or advertising there in in case the domain has been parked.
+(Cl. 10 of Domain Registration Agreement, P. 44 of PB) ix. Right to issue
+Certified Domain seal which is a trademark and is protected by copyright,
+trademark and other intellectual property laws.
+
+> The appellant Registrar thus, has right to own, assign, allocate, transfer,
+> cancel, deactivate, suspend, auction, renew and exploit domain names under
+> accreditation agreement with ICANN.
+
+> The appellant Registrar in turn, transfers and allocates all or part of such
+> assigned rights to the Registrant to enable it to use such rights in respect
+> of such property i.e. domain names.
+
+> Domain Registration charges were made to the Appellant inside India:
+
+> Accordingly, and in view of the above, the amount received by the appelant
+> towards Domain Registration chrges are in the nature of 'Royalty" within the
+> meaning of section 9(l)(vi) and should be taxed accordingly.
+
+22 ITA No. 7123/DEL/2017
+
+> Provisions of DTAA not aplicable as the appellant has requested not to be
+> considered under the provisions of India-USA DTAA.
+
+> Since the nature of payment is in the nature of "Royalty" which was
+> paid/received in India and there is business connection, the enire amount
+> received towards Domain Registration Chrges should be treated as accrued or
+> arises or as deemed to accrue or arise in India.
+
+> Even otherwise, the appellant does not challenge the fact that income has
+> already been 'received' within the meaning of section 5(2)(a) of the Act.
+
+> Moreover, the claim of the appellant that there is no human intervention
+> involved is also not acceptable because of the following -
+
+a. In case of manual renewal, registrant may renew the domain by calling the
+customer care. (Cl. 3(B)(iii) of Domain Registration Agreement] b. When the
+domain name is in non-renewal status, the client can renew the domain name
+only by calling GoDaddy and requesting that the domain name be renewed. It
+cannot renew the domain name through your Account Manager. (Cl. 3(B)(iii) of
+Domain Registration Agreement) c. Registrar shall either verify the applicable
+contact information manually or suspend the registration, until such time as
+Registrar has verified the applicable contact information. If Registrar does
+not receive an affirmative response from the Account Holder), Registrar shall
+verify the applicable contact information manually, but is not required to
+suspend any registration Accredation Agreement, P.120 of PB) d. Registrar
+shall verify the telephone number of the registered name holder by either
+calling or sending an SMS (Accredation Agreement, P.119 of PB) B. Web Hosting
+-
+
+23 ITA No. 7123/DEL/2017
+
+> > Amount received for web-hosting (WHA) is a part of a single and composite
+> processand can't be treated on a separate footing from that of Domain Name
+> Registration.
+
+> The appellant has already offered and need to be taxed Royalty/FTS;"
+
+6\. We have heard both the parties and perused the material available on
+record. It is pertinent to note that this issue is already decided in favour
+of Revenue in assessee's own appeal and the contentions taken herein by the
+Ld. AR that the issue of ownership with whom it is applicable has also been
+dealt with in the said order The Tribunal held as under:-
+
+> "8. We have carefully considered the arguments of both the sides and perused
+> relevant material placed before us. The limited question before us is
+> whether the domain registration fee received by the assessee can be termed
+> as royalty. At the outset, we clarify that the appellant himself has
+> mentioned that since it is not a tax resident of USA, therefore, it is not
+> claiming any benefit under the provisions of India-US tax treaty.
+> Accordingly, we have to examine within the meaning of Income-tax Act, more
+> particularly, Section 9(1)(vi) to examine whether the receipt by the
+> assessee on account of domain registration fee can be termed as royalty.
+> Section 9(1)(vi) of the Income-tax Act reads as under :-
+
+> "9. (1) The following incomes shall be deemed to accrue or arise in India :-
+
+> (vi) income by way of royalty payable by -
+
+> (a) the Government; or
+
+> (b) a person who is a resident, except where the royalty is payable in
+> respect of any right, property or information used or services utilised for
+> the purposes of a business or profession carried on by such person outside
+> India or for the purposes of making or earning any income from any source
+> outside India; or  24 ITA No. 7123/DEL/2017
+
+> (c) a person who is a non-resident, where the royalty is payable in respect
+> of any right, property or information used or services utilised for the
+> purposes of a business or profession carried on by such person in India or
+> for the purposes of making or earning any income from any source in India:
+
+> Provided that nothing contained in this clause shall apply in relation to so
+> much of the income by way of royalty as consists of lump sum consideration
+> for the transfer outside India of, or the imparting of information outside
+> India in respect of, any data, documentation, drawing or specification
+> relating to any patent, invention, model, design, secret formula or process
+> or trade mark or similar property, if such income is payable in pursuance of
+> an agreement made before the 1st day of April, 1976, and the agreement is
+> approved by the Central Government :
+
+[Provided further that nothing contained in this clause shall apply in
+relation to so much of the income by way of royalty as consists of lump sum
+payment made by a person, who is a resident, for the transfer of all or any
+rights (including the granting of a licence) in respect of computer software
+supplied by a non-resident manufacturer along with a computer or computer-
+based equipment under any scheme approved under the Policy on Computer
+Software Export, Software Development and Training, 1986 of the Government of
+India.]."
+
+9\. Explanation 2 after the sub-section defines the word "royalty", which
+reads as under :-
+
+"Explanation 2. - For the purposes of this clause, "royalty" means
+consideration (including any lump sum consideration but excluding any
+consideration which would be the income of the recipient chargeable under the
+head "Capital gains") for -
+
+(i) the transfer of all or any rights (including the granting of a licence) in
+respect of a patent, invention, model, design, secret formula or process or
+trade mark or similar property;
+
+25 ITA No. 7123/DEL/2017
+
+(ii) the imparting of any information concerning the working of, or the use
+of, a patent, invention, model, design, secret formula or process or trade
+mark or similar property;
+
+(iii) the use of any patent, invention, model, design, secret formula or
+process or trade mark or similar property;
+
+(iv) the imparting of any information concerning technical, industrial,
+commercial or scientific knowledge, experience or skill;
+
+[(iva) the use or right to use any industrial, commercial or scientific
+equipment but not including the amounts referred to in section 44BB;]
+
+(v) the transfer of all or any rights (including the granting of a licence) in
+respect of any copyright, literary, artistic or scientific work including
+films or video tapes for use in connection with television or tapes for use in
+connection with radio broadcasting, but not including consideration for the
+sale, distribution or exhibition of cinematographic films; or
+
+(vi) the rendering of any services in connection with the activities referred
+to in sub-clauses (i) to [(iv), (iva) and] (v)."
+
+10\. The contention of the Revenue is that the domain name is an intangible
+asset which is similar to trademark. The assessee is rendering services in
+connection with such domain name registration and therefore, the charges
+received by the assessee clearly fall within the definition of royalty as
+provided in Section 9(1)(vi) of the Income-tax Act. We find that Hon'ble Apex
+Court has considered the similar aspect in the case of Satyam Infoway Ltd.
+(supra). The question before Hon'ble Apex Court was whether internet domain
+names are subject to the legal norms applicable to other intellectual
+properties such as trademarks. Hon'ble Apex Court decided the issue in favour
+of the assessee. The relevant observation of their Lordships reads as under :-
+
+"The use of the same or similar domain name may lead to a diversion of users
+which could result from such users, mistakenly accessing one domain name
+instead of another. This may occur in e-commerce with its rapid progress and
+instant (and theoretically limitless) accessibility to users and potential
+customers and particularly so in areas of specific  26 ITA No. 7123/DEL/2017
+overlap. Ordinary consumers/users seeking to locate the functions available
+under one domain name may be confused if they accidentally arrived at a
+different but similar web site which offers no such services. Such users could
+well conclude that the first domain name owner had mis- represented its goods
+or services through its promotional activities and the first domain owner
+would thereby lose their custom. It is apparent therefore that a domain name
+may have all the characteristics of a trademark and could found an action for
+passing off.
+
+Over the last few years the increased user of the internet has led to a
+proliferation of disputes resulting in litigation before different High Courts
+in this country. The Courts have consistently applied the law relating to
+passing off to domain name disputes. Some disputes were between the trademark
+holders and domain name owners. Some were between domain name owners
+themselves. These decisions namely Rediff Communication Ltd. v. Cyberbooth and
+Anr., AIR (2000) Bombay 27, Yahoo Inc. v. Akash Arora, (1999) PTC 19 201, Dr.
+Reddy's Laboratories Ltd. v. Manu Kosuri, (2001) PTC 859 (Del.), Tata Sons
+Ltd. v. Manu Kosuri, (2001) PTC 432 (Del.), Acqua Minerals Ltd. v. Pramod
+Borse & Anr., (2001) PTC 619 (Del.), and Info Edge (India) Pvt.Ltd. & Anr. V.
+Shailesh Gupta & Anr., (2002) 24 PTC 355 (Del.) correctly reflect the law as
+enunciated by us. No decision of any court in India has been shown to us which
+has taken a contrary view. The question formulated at the outset is therefore
+answered in the affirmative and the submission of the respondent is rejected."
+
+(emphasis by underlining supplied by us)
+
+11\. That Hon'ble Jurisdictional High Court in the case of Tata Sons Limited
+(supra) has also examined the identical question and held as under :-
+
+"6. In Yahoo Inc! Vs Akash Arora 1999 PTC 201 while granting an injunction
+restraining the defendants from using Yahoo either as a part of its domain
+name or as a trademark, learned Single Judge of this Court applied the law
+relating to trademark to a dispute regarding Internet. It was further held
+that considering the vast import of Internet and its user, several Internet
+users are not sophisticated enough to distinguish between the domain names of
+the parties. It was also held that with the ease of access from all corners of
+the world, Courts should take a strict view of copying as the potentiality of
+the harm is far greater because of the easy  27 ITA No. 7123/DEL/2017 access
+and reach by any one from every corner of the globe. The Court also held after
+analyzing Section 27 and Section 29 of the Trade & Merchandise Marks Act, that
+passing off action can be maintained in respect of services as well as goods.
+
+7\. In British Telecom Plc. Vs. One in a Million 1999 FSR 1 the Court held
+that in the case of a registration of domain names of third party trademarks
+of well-known names, there was jurisdiction to grant injunctive relief when
+the defendant was equipped with or was intending to equip another with an
+instrument of fraud. It was also held that a name which would by reason of
+similarly to the name of another, inherently lead to passing off, was such an
+instrument. It was held that in case it would not inherently lead to passing
+off but the Court concluded on the facts without regard to the defendant's
+intention that the name was produced to enable passing off, was adapted to be
+used for passing off and, if used, was likely to be used fraudulently, an
+injunction would be appropriate.
+
+8\. In Rediff Communications Ltd. Vs. Cyberbooth AIR 2000 Bombay 27 the user
+of the Website "www.radiff.com" was injuncted as it was held deceptively
+similar to the plaintiff's website "www.rediff.com". In the above decision,
+the Court held that the Internet domain names are of importance and can be a
+valuable corporate asset and such domain name is more than an Internet address
+and is entitled to protection equal to a trade mark. It was held that with the
+advancement and progress in technology the services rendered by an Internet
+site have also to be recognized and accepted and are being given protection
+from passing off.
+
+9\. In view of the above decisions, I am satisfied that it is now settled law
+that with the advent of modern technology particularly that relating to
+cyberspace, domain names or Internet sites are entitled to protection as a
+trade mark because they are more than a mere address. The rendering of
+Internet services is also entitled to protection in the same way as goods and
+services are, and trade mark law applies to activities on Internet."
+
+(emphasis by underlining supplied by us)
+
+12\. Learned counsel for the assessee has also relied upon the decision of
+Hon'ble Jurisdictional High Court in the case of Asia Satellite
+Telecommunications Co.Ltd. (supra). However, we find that the facts in that
+case were altogether different. In the said case, the assessee company carried
+on the business of private satellite communications and broadcasting  28 ITA
+No. 7123/DEL/2017 facilities. During the relevant assessment year, it was the
+lessee of a satellite, called Asia-Sat 1 and was the owner of a satellite,
+called Asia Sat 2. Those satellites were launched by the assessee and were
+placed in a geostationary orbit in the orbital slots. Those satellites neither
+used the Indian orbital slots nor were they positioned over Indian airspace.
+However, the footprint area (the area of earth's surface over which a signal
+is relayed from satellite) of those satellites covered the territory of India.
+The assessee entered into an agreement with TV channels, communication
+companies or other companies who desired to utilize the transponder capacity
+available on its satellite to relay their signals. The customers had their own
+relaying facilities, which were not situated in India. From those facilities,
+the signals were beamed into space where they were received by a transponder
+located in the assessee's satellite. The role of the assessee in this cycle
+was that of receiving the signals, amplifying them and after changing
+frequency relaying them over the entire footprint area. For that service, the
+TV channels made payments to the assessee. The question before the Hon'ble
+High Court was whether such payments can be said to be royalty chargeable to
+tax in India. Hon'ble High Court answered the question in the negative.
+However, the facts in the assessee's case are clearly different. In the case
+under appeal before us, the issue is whether the fees received by the assessee
+for rendering services for domain registration can be said to be royalty.
+Therefore, in our opinion, the above decision of Hon'ble Delhi High Court
+relied upon by the learned counsel for the assessee would have no application.
+The learned counsel has also relied upon the decision of Authority for Advance
+Rulings in the case of Dell International Services (India) Private Limited
+(supra). In that case also, the issue before the Authority for Advance Rulings
+was whether the payment for providing communication through telecom bandwidth
+can be termed as royalty within the meaning of Section 9(1)(vi) of the Income-
+tax Act. Thus, the facts in the above case were also different than the facts
+under appeal before us. On the other hand, the issue before Hon'ble Apex Court
+in the case of Satyam Infoway Ltd. (supra), Hon'ble Jurisdictional High Court
+in the case of Tata Sons Limited (supra) and Hon'ble Bombay High Court in the
+case of Rediff Communications Ltd. - AIR 2000 Bombay 27 was whether the domain
+names can be considered as intellectual properties such as trademark. Hon'ble
+Apex Court in the case of Satyam Infoway Ltd. (supra) has held that the domain
+name is a valuable commercial right and it has all the characteristics of a
+trademark and accordingly, it was held that the domain names are subject to
+legal norms applicable to trademark. Hon'ble Bombay High Court in the case of
+Rediff Communications Ltd. (supra) held that domain names are of importance
+and can be a valuable corporate asset  29 ITA No. 7123/DEL/2017 and such
+domain name is more than an internet address and is entitled to protection
+equal to a trademark. Hon'ble Jurisdictional High Court in the case of Tata
+Sons Limited (supra) held that domain names are entitled to protection as a
+trademark because they are more than an address. Respectfully following the
+above decisions of Hon'ble Apex Court, Hon'ble Bombay High Court and Hon'ble
+Jurisdictional High Court, we hold that the rendering of services for domain
+registration is rendering of services in connection with the use of an
+intangible property which is similar to trademark. Therefore, the charges
+received by the assessee for services rendered in respect of domain name is
+royalty within the meaning of Clause (vi) read with Clause (iii) of
+Explanation 2 to Section 9(1) of Income-tax Act. In view of the above, we
+uphold the orders of the lower authorities on this point and reject ground
+No.2 of the assessee's appeal.
+
+13\. Ground Nos.3 & 4 of the assessee's appeal, which read as under, were not
+pressed by the assessee at the time of hearing :-
+
+"3. That on the facts and circumstances of the case and in law, the AO/DRP has
+erred in holding that the web hosting services provided/rendered by the
+Appellant qualify as fees for included services as per Article 12(4)(a) of the
+India-USA Tax Treaty as well as under Section 9(1)(vii) of the Act.
+
+4\. That on the facts and circumstances of the case and in law, the AO/DRP has
+erred in not appreciating that the Appellant has characterized income from web
+hosting services as royalty and already offered the same to tax as per the
+provisions of section 9(1)(vi) read with section 115A of the Act."
+
+14\. At the time of hearing, the learned counsel stated that the assessee
+itself has offered the income from web hosting services as royalty. The
+Assessing Officer has assessed the same as fees for technical services which
+is upheld by the DRP. He stated that since the rate of tax for royalty as well
+as for FTS is the same, the assessee would not like to contest ground Nos.3 &
+4 because so far actual tax liability is concerned, these grounds are only
+academic. In view of the above, ground Nos.3 & 4 of the assessee's appeal are
+rejected being not pressed.
+
+30 ITA No. 7123/DEL/2017
+
+15\. Ground No.5 is against initiation of penalty proceedings u/s 271(1)(c) of
+the Act. This ground is premature at this stage and accordingly, rejected as
+such.
+
+16\. Ground No.6 relating to charging of interest u/s 234A, 234B and 234C is
+admitted to be consequential and since no relief is allowed on any other point
+in this appeal, accordingly, there would be no variation in the quantum of
+interest. Thus, ground No.6 is also rejected.
+
+17\. In the result, the appeal of the assessee is dismissed."
+
+The Ld. AR during the course of the hearing submitted that the ITAT while
+passing order for AY 2013-14 has not appreciated that the owner of domain name
+is the ultimate customer and not the assessee and consequently, clause (iii)
+of Explanation 2 to section 9(l)(vi) of the Act will not apply since the
+assessee wasn't competent to grant the right to use in the said property which
+was owned by the ultimate customers. Hence, clause (vi) of Explanation 2 to
+section 9(l)(vi) of the Act will not apply as per the contentions of the Ld.
+AR. But this aspect was also dealt by the Tribunal for A.Y. 2013-14. Thus,
+this issue is decided by the Tribunal in the assessee's own case against the
+assessee. Therefore, this appeal is dismissed.
+
+7\. In result, appeal of the assessee is dismissed.
+
+Order pronounced in the Open Court on 24th July, 2018.
+
+    
+    
+         Sd/-                                                                Sd/-
+    (R. K. PANDA)                                             (SUCHITRA KAMBLE)
+    ACCOUNTANT MEMBER                                         JUDICIAL MEMBER
+    
+    Dated:          24/07/2018
+    R. Naheed *
+                                                 31                     ITA No. 7123/DEL/2017
+    
+    
+    Copy forwarded to:
+    
+    1.                          Appellant
+    2.                          Respondent
+    3.                          CIT
+    4.                          CIT(Appeals)
+    5.                          DR: ITAT
+    
+    
+    
+    
+                                                          ASSISTANT REGISTRAR
+    
+                                                              ITAT NEW DELHI
+    
+    
+    
+                    Date of dictation                                  19.07.2018
+    
+                    Date on which the typed draft is placed before     23.07.2018
+                    the dictating Member
+    
+                    Date on which the typed draft is placed before
+                    the Other Member
+    
+                    Date on which the approved draft comes to the
+                    Sr. PS/PS
+    
+                    Date on which the fair order is placed before
+                    the Dictating Member for pronouncement
+    
+                    Date on which the fair order comes back to the       24.07.2018
+                    Sr. PS/PS
+    
+                    Date on which the final order is uploaded on         24.07.2018
+                    the website of ITAT
+    
+                    Date on which the file goes to the Bench Clerk       24.07.2018
+    
+                    Date on which the file goes to the Head Clerk
+    
+                    The date on which the file goes to the Assistant
+                    Registrar for signature on the order
+    
+                    Date of dispatch of the Order
+     32   ITA No. 7123/DEL/2017
+     
+

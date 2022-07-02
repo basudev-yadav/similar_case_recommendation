@@ -1,0 +1,867 @@
+
+
+Income Tax Appellate Tribunal - Ahmedabad
+
+Dy.Cit, Intl. Taxn.-1, A'Bad Now ... vs Bombardier Transportation India ... on
+3 January, 2017
+
+    
+    
+                                                                                  ITA No.555/Ahd/2016
+                                                                            Assessment Year: 2013-14
+    
+                                                                                         Page 1 of 16
+    
+                      IN THE INCOME TAX APPELLATE TRIBUNAL
+                         AHMEDABAD "I" BENCH, AHMEDABAD
+    
+                    [Coram: Pramod Kumar AM and S S Godara JM]
+    
+                                   ITA No.555/Ahd/2016
+                                 Assessment Year: 2013-14
+    
+    Dy. Commissioner of Income Tax
+    International Taxation, Baroda.                           ..............................Appellant
+    
+    Vs.
+    
+    Bombardier Transportation India Pvt. Ltd.                 ............................Respondent
+    Plot No.724, Phase-III, GIDC Savli,
+    Post: Manjusar, Vadodara - 391 775.
+    [PAN - AAACA 5584 C]
+    
+    Appearances by:
+    
+    Mahesh Shah and Madhusudan for the appellant
+    Kanchal Kaushal, Piyush Chawla and Dhaval Trivedi for the respondent
+    
+    Date of concluding the hearing          :       04.10.2016
+    Date of pronouncing the order           :       03.01.2017
+    
+                                   O    R       D     E   R
+    
+    Per Pramod Kumar AM:
+    
+    
+    1.     By way of this appeal, the Assessing Officer has challenged correctness of the
+    order dated 21.12.2015, passed by the learned CIT(A)-13, Ahmedabad, in the matter of
+    assessment under section 201(1) & 201(1A) r..w.s. 195 of the Income Tax Act, 1961, for
+    the assessment year 2013-14.
+    
+    2.    Ground no. 1 is general in nature and does not call for any specific judication by
+    us.
+    
+    3.    In ground no. 2, the Assessing Officer has raised the following grievance:
+    
+          The learned CIT(A) has erred on facts and in law in holding that the payment
+          of Rs.9,19,96,649/- made towards various IT support services received from
+          the Holding Company and associated enterprises of the group concerns are
+          not in the nature of Fee for Technical Services (FTS).
+    
+    4.     So far as this grievance of the assessee is concerned, the relevant material facts
+    are like this. The assessee before us is a wholly owned subsidiary of Bombardier
+                                                                                    ITA No.555/Ahd/2016
+                                                                             Assessment Year: 2013-14
+    
+                                                                                                Page 2 of 16
+    
+    Transportation (Holdings) Singapore Pte Ltd, a part of Bombardier Group, and is
+    engaged in the business of manufacturing and supply of rail transportation system, which
+    includes traction, auxiliary converters, vacuum circuit breakers, control electronics,
+    signaling equipment, coaches and bogies for metro trains. During the course of scrutiny
+    of TDS returns, the Assessing Officer noticed that the assessee has made payments,
+    aggregating to Rs 9,19,96,649 to Bombardier Transportation Canada Inc (BTCI, in
+    short). The details of these payments are as follows:
+    
+    Service Units Text    (USD)         (INR)      TDS                Nature of service
+    
+                                                           ERP application used at Maneja site of
+                                                           the company      by    employees     in
+     Finance System -     48,711      2,647,306     NO     Finance department to do accounting
+          Maneja                                           and    reporting    of   all  financial
+                                                           transactions
+    
+                                                           Common standard            HR platform
+                                                           used throughout BT, which enables
+                                                           employees and managers to modify
+                                                           their     personnel      data     through
+                                                           employee self-service (ESS) and
+                                                           manager self-service (MSS). It is the
+                                                           sole HR IT database that feeds all
+                                                           other systems in 'HR. Additionally, HR
+                                                           Conned defines clear points of
+                                                           contacts and       reduces     interfaces.
+        HR Connect        45,321      2,463,072     NO     This reduces the HR workload
+                                                           (reduces uncertainties      to    discuss
+                                                           due      to     common access           to
+                                                           standardized         data,       common
+                                                           processes to provide consistent HR
+                                                           services, efficient data management,
+                                                           even     clearer definition of roles and
+                                                           responsibilities)    and    thus     frees
+                                                           resources and provides data for a
+                                                           faster and better HR service.
+    
+                                                           Intens is a 3-tier application framework
+                                                           used to do scientific calculations in the
+          Intens           4,716      256,283       NO     fields of engineering.
+    
+                                                           Kronos is a Time and Attendance
+                                                           system used to record time and
+                                                           attendance of all employees of the
+                                                           company. In oilier words in conjunction
+                                                           with "time clocks" all blue and white
+                                                           collar employees in the company can
+                                                           record their attendance time into a
+                                                           timesheet by using this equipment.
+       Kronos India       123,436     6,708,397     NO     This is the new version resulting from
+                                                           the consolidation of '3 previous
+                                                           instances and will 'be the basis for
+                                                           future deployments.
+    
+                                                           Lotus Notes server used by employees
+                                                           in the Locomotives Division of the
+                                                           company to communicate with various
+                                                           stakeholders and to receive and send
+                                                           e-mails both    internally within the
+                                                           company and also to external people
+    LN DB Locomotives -   89,324      4,854,528     NO     and also to access, as and when
+      Freight Division                                     required, information stored on the
+                                                           server database.
+    
+                                                           Lotus Notes server used by employees
+                                                           in the Mainline     /      Passenger
+                                                           Division    of    the company      to
+                                                           communicate         with      various
+                                                           stakeholders and to receive and send
+                                                                              ITA No.555/Ahd/2016
+                                                                       Assessment Year: 2013-14
+    
+                                                                                          Page 3 of 16
+    
+                                                    e-mails both internally within the
+                                                    company and also to external people
+                                                    and also lo access, as and when
+                                                    required, information stored on the
+     LN DB Mainline      140,759   7,649,869   NO   server database
+        Division
+    
+                                                    Lotus Notes server used by employees
+                                                    in the Rail Control Solutions (RCS)
+    LN DB Rail Control                              Division     of    the   company    to
+    Solutions-Division                              communicate with various stakeholders
+                                                    and to receive and send e-m ails both
+                                                    internally within the company and also
+                         10,945    594,850     NO   to external people and also to access,
+                                                    as and when required, information
+                                                    stored on the server database
+    
+                                                    It is Customer Claim Managem ent tool /
+                                                    database used by employees in the
+                                                    Mainline Division, of the company vi/..
+                                                    as and when any claim is filed by any
+                                                    customer      against     the company,
+                                                    employees        working      in    project
+         LOGOS            7,912    429,995     NO   management function of the mainline
+                                                    division have to record and enter the
+                                                    details of that claim in this database.
+    
+                                                    It is a Enterprise Asset Managem ent
+                                                    solution that has unique industry
+                                                    solutions    for   various    business
+                                                    processes. This flexible solution
+      Maximo - DB        28,511    1,549,481   NO   provides a single platform to deliver
+       MAXPPC                                       asset lifecycle and maintenance
+                                                    management from end-to-end across
+                                                    the enterprise.. Consisting of six core
+                                                    modules -- Materials, Procurement,
+                                                    Asset, Work, Service and Contract,
+                                                    Maximo Asset Management-provides a
+                                                    comprehensive answer for asset
+                                                    management
+    
+       Other global        40       2,154
+       adjustments
+    
+    PPC Serialisation      54       2,940           Bar Coding application used to check
+                                                    and control the inventory
+    
+                                                    Project Management application, used
+                                                    to keep and archieve all records and
+                                                    database separately for each custom er
+                                                    project/ contract pertaining to all
+                                                    divisions of the company other than
+                                                    RCS. All records and documents
+                                                    relating to each project viz. custom er
+                                                    agreement, financial information, all
+                                                    customer correspondences, custom er
+                                                    claims/ disputes, minutes of the
+          PPRS           25,955    1,410,564   NO   meetings, etc. are archieved and kept
+                                                    in this database for future reference
+                                                    purpose
+    
+                                                    Project Management application used
+                                                    to keep and archieve all records and
+       P...... China          1,375     74,716     NO   database separately for each custom er
+                                                    project/contract in the RCS division of
+                                                    the company.
+    
+                                                    It is a Version Control tool, a
+                                                    Change Management         tool    and
+                                                    a   Requirement Package used as
+                                                    Configuration   Tool in Engineering,
+                                                    Software       development        and
+                                                    maintenance for the software that -
+                                                    support all the products. Used in the
+                                                                                 ITA No.555/Ahd/2016
+                                                                          Assessment Year: 2013-14
+    
+                                                                                             Page 4 of 16
+    
+                                                       Field support as well as       in    new
+                                                       products      development. Engineers
+    PVCS - Vaesteras       56,390    3,064,656    NO   use it from their desktops and from
+                                                       remote connections, all           around
+                                                       the world for all software related work
+                                                       products (releases-working source
+                                                       files).
+    
+        QT - India          2,451     133,185     NO   Programming Tool
+    
+                                                       SAP Sprint is a     transfer program
+                                                       used to print output from a rem ote
+      SAP - SPRINT          9,363     508,880     NO   location using a Microsoft Windows
+                                                       operating system
+    
+                                                       Finance Global consolidation system
+                                                       used by-employees       in     Finance
+                                                       department      of  the company for
+                                                       reporting financial     results of the
+    SAP Global FORE        26,519    1,441,245    NO   company and also to maintain contract
+                                                       wise financial summary viz. sales, cost
+                                                       gross margin, overheads, Net margin,
+                                                       etc.
+    
+      VCM Template         221,003   12,010,931   NO   SAP Value Change            Managem ent
+        Solution                                       (VCM) system for Asia
+    
+                                                       Customer Relationship Management./
+                                                       Sales system to identify, handle
+                                                       and       report possible opportunities/
+                                                       leads in the market, enter detailed
+       Sales Force         14,798     804,215     NO   information      about customer and
+                                                       requirements of the custom er and other
+                                                       identified Key Performance Indicators
+    
+                                                       ECAD          Application;      electrical
+                                                       engineering software; software suite
+                                                       that offers solutions for     numerous
+                                                       industries (among others machinery
+        E3 - Global        20,286    1,102,485    NO   and              plant      engineering,
+                                                       equipment       cabling,     autom otive,
+                                                       railways, special vehicles)
+    
+                                                       Bar Coding application for PPC Maneja
+                                                       site of     the    company      used     to
+        Bar Coding          9,634     523,555     NO   do        inventory management         viz.
+                                                       keep record of all the inventory of
+                                                       raw material, finished goods, etc. at
+                                                       the site. It is an efficient way to keep a
+                                                       check and control on the inventory in
+                                                       the site.
+    
+                                                       HR Payroll    System    for   India -
+                                                       containing data base of all employees
+     Payroll System -      14,323     778,400     NO   of the company .and used to prepare
+          India                                        the monthly payroll of all Indian
+                                                       employees
+    
+                                                       MS Project Server 2010 and project
+                                                       professional managed by GPM MS
+     PRO BT Global         22,773    1,237,637    NO   Project Server 2010 and project
+                                                       professional
+    
+    Visual Factory India   21,624    1,175,186    NO   Tool to supervise manufacturing
+                                                       operations at Savli Site
+    
+      Office Support       2,244      121,931     NO   Office support viz. PDF writer etc.
+    
+    EB PPC Vaesteras       10,059     546,661     NO   Database for Mainline division of
+                                                       the company      used   for    storing
+                                                       engineering     related    documents
+                                                       between the divisions
+                                                                                        ITA No.555/Ahd/2016
+                                                                                 Assessment Year: 2013-14
+    
+                                                                                                   Page 5 of 16
+    
+    Depreciation - 2011-     477          25,929         NO     Depreciation of Project managem ent
+    8947 Segregation of                                         application
+    
+    Depreciation - 2012-      55           3,002         NO     Depreciation of Project managem ent
+    4062 EPPM Template                                          application
+             F
+    
+                                                                Product Data Management (PDM)
+                                                                tool PDM enhancements & bug fixing
+                                                                for PDM LAE               division
+                                                                Project
+                                                                Scope;
+    
+                                                                •  Fit Gap and Blueprint             for
+                                                                PDM stabilization / optimisation
+    
+                                                                • Deployment of template functionalities
+                                                                as agreed      between       Business
+                                                                and    IS
+    
+                                                                • Change management for the
+                                                                adaptation to the template processes
+    
+                                                                • Template localization based on legal
+                                                                or contractual requirements
+    
+                                                                •   Data    migration   from legacy
+      PDM Metaphase         11,603        630,593        NO     applications to PDM (if applicable)
+                                                                •   Post             go         live
+                                                                support
+    
+                                                                •   Change Management
+    
+                                                                 • Decommissioning of      the legacy
+                                                                system (if: applicable)
+    
+                                                                Internal   BT     cost  viz. salaries,
+                                                                other overheads, etc. of employees
+       Project Costs       653,346       35,507,617      NO     working in IS/IT department to globally
+                                                                manage IS/IT operations
+    
+       Infrastructure       68,750       3,736,383       NO     Purchase of other small consum ables
+        Application                                             required to run the business.
+    
+           Total           1,692,754     91,996,649
+    
+    
+    
+    
+    5.     These payments, as evident from the nature of payments set out above and as
+    was claimed by the assessee, were towards information system support services at a
+    group level and has been charged from the appellant based on costs incurred towards
+    consumption of various service elements by the appellant. The cost for each service
+    element is determined by (a) applying an explicitly given price to the number of units of
+    service consumed, or (b) calculating the share of globally incurred cost based on
+    defined keys. The stand of the assessee was that these payments were in the nature of
+    reimbursements and cannot partake the character of income in the hands of the recipient
+    concerned. It was also contended that unless there is a transfer of all or any of the rights
+    (including granting of any licence) in respect of copyright of a literary, artistic or scientific
+    work, taxability under section 9(1)(vi) could not be invoked and there was no such
+    transfer of right in this case. The assessee further clarified that in the context of Indo
+    Canadian tax treaty, only such payments as have an element for use of IPRs could be
+    considered as royalties, but then the present payments are for standard facilities. It was
+                                                                              ITA No.555/Ahd/2016
+                                                                       Assessment Year: 2013-14
+    
+                                                                                    Page 6 of 16
+    
+    also explained that the BT Canada has not received any payments for commercial
+    exploitation of copyright embedded in the applications. The Assessing Office, however,
+    rejected this stand and proceeded to hold that these amounts are taxable as royalties
+    under section 9(1)(vi) of the Income Tax Act as also under article 12(3) of the India
+    Canada Double Taxation Avoidance Agreement (Indo Canadian tax treaty, in short;
+    (1998) 229 ITR (St) 44]. He was of the view that the impugned payments are in covered
+    by the consideration for "use or right to use any industrial, commercial or scientific
+    equipment" which was taxable under section 9(1)(vi) read with Explanation 2(iva) as also
+    article 12(3)(b) of the Indo Canada tax treaty. The Assessing Officer, after a detailed
+    analysis of the payments, was of the view that a major portion of the payment is for the
+    use or right to use industrial, commercial or scientific equipment, while remaining cover
+    the use of various processes for which access has been granted by the assessee
+    company". He thus held that the assesse ought to have withheld tax at source @10%
+    from these payments. Accordingly, a demand under section 201(1) r.w.s. 195 was raised
+    on the assessee. Aggrieved, assessee carried the matter in appeal before the CIT(A)
+    who upheld the plea of the assessee and deleted the impugned tax withholding demand.
+    While doing so, in a very well reasoned order, learned CIT(A), inter alia, observed as
+    follows:
+    
+          2.10.13       I have carefully considered the facts of the case, the
+          submissions of the appellant and the impugned order of the AO. The
+          fundamental submission of the appellant is that the IT support services are
+          not in the nature of 'Royalties' as no right to use of any equipment/secret
+          process is conferred upon the appellant. The relevant provisions under the
+          Act relating to taxation of income from royalty income are as follows:
+    
+          Section 9(1)(vi) income by way of royalty payable by-
+          -------
+    
+
+(b) a person who is a resident, except where the royalty is payable in respect
+of any right, property or information used or services utilised for the
+purposes of a business or profession carried on by such person outside India
+or for the purposes of making or earning any income from any source outside
+India ;
+
+Explanation 2. - For the purposes of this clause, "royalty" means
+consideration (including any lump sum consideration but excluding any
+consideration which would be the income of the recipient chargeable under the
+head "Capital gains") for--
+
+(i) the transfer of all or any rights (including the granting of a licence) in
+respect of a patent, invention, model, design, secret formula or process or
+trade mark or similar property ;
+
+\-----------------
+
+ITA No.555/Ahd/2016 Assessment Year: 2013-14  Page 7 of 16 (iva) the use or
+right to use any industrial, commercial or scientific equipment but not
+including the amounts referred to in section 44BB;
+
+\------------------
+
+Explanation 4. - For the removal of doubts, it is hereby clarified that the
+transfer of all or any rights in respect of any right, property or information
+includes and has always included transfer of all or any right for use or right
+to use a computer software (including granting of a licence) irrespective of
+the medium through which such right is transferred.
+
+Explanation 5 - For the removal of doubts, it is hereby clarified that the
+royalty includes and has always included consideration in respect of any
+right, property or information, whether or not -
+
+(a) the possession or control of such right, property or information is with
+the payer;
+
+(b) such right, property or information is used directly by the payer;
+
+(c) the location of such right, property or information is in India."
+
+The term royalty has been defined in the India-Canada DTAA as under "3. The
+term 'royalties' as used in this Article means :
+
+(a) payment of any kind received as a consideration for the use of, or the
+right to use, any copyright of a literary, artistic, or scientific work
+including cinematograph films or work on film tape or other means of
+reproduction for use in connection with radio or television broadcasting, any
+patent, trademark, design or model, plan, secret formula or process, or for
+information concerning industrial, commercial or scientific experience,
+including gains derived from the alienation of any such right or property
+which are contingent on the productivity, use, or disposition thereof; and
+
+b) payments of any kind received as consideration for the use of, or the right
+to use, any industrial, commercial, or scientific equipment, other than
+payments derived by an enterprise described in paragraph 1 of Article 8 from
+activities described in paragraph 3(c) or 4 of Article 8.
+
+The software application/services such as e-mail database, control tools, bar
+coding solutions, HR Payroll System, finance reporting, applications for
+recording time & attendance etc. used by the appellant are primarily in the
+nature of applications for data processing or warehousing wherein the
+appellant does not get control/power of use/disposal of hardware or server
+involved. No use or right to use of any equipment or process is conferred upon
+the appellant. The appellant is merely granted a facility and the
+consideration for the same cannot be construed as royalty.
+
+Therefore, going by the principles as elucidated by the Technical Advisory
+Group of the OECD and the commentaries of renowned authors as well as the
+judicial precedents relied upon by the assesses, as referred to above, it ITA
+No.555/Ahd/2016 Assessment Year: 2013-14  Page 8 of 16 is apparent that the
+provision of software services cannot be said to be transactions for use of or
+right to use either any "process" or "equipment" by the appellant so as to
+render the amounts payable by the appellant to BT- Canada as "royalties" under
+the I.T. Act or the DTAA. The transactions are merely in the nature of
+provision of standard services. When we see from the perspective of the DTAA,
+it is trite that for any consideration to be taxed as 'royalties', it has to
+be first showed that the customer/payer has a 'right to use' of an right,
+information or property and secondly, such right, information or property
+should be in the nature of Intellectual Property Rights such as patent,
+formula, secret process, copyright or any other similar property. In the light
+of the various judicial decisions relied upon by the appellant, it is clear
+that amendment in domestic law does not affect the provisions of the tax
+treaty and even otherwise the said payments cannot be taxed in India
+subsequent to the amendments in the Act as the primary condition of right to
+use of equipment or process is not being fulfilled. Having said so, in the
+absence of right to use of equipment or the cloud server, the concept of cloud
+computing also cannot be invoked to tax the above said payments as royalties.
+There are enough judicial reliance that can placed on this proposition
+including the landmark judgement of the Hon'ble Supreme Court in the case of
+Azadi Bachao Andolan vs. UOI 263 ITR 706 (SC) where it has been unequivocally
+held that the interpretation given under the DTAAs ought to be given even
+where it is inconsistent with the provisions of the I.T Act. On going through
+the items for the purpose of which payments have been made by the appellant
+clearly shows that there was no 'use of' or 'right to use of' any right,
+property or information by the appellant. The nature of these items are
+clearly licensed softwares and applications, the cost of which has been
+incurred by BT-Canada and later recouped from the appellant. The Hon'ble Delhi
+High Court in Director of Income-tax vs. Infrasoft Ltd. [2013] 264 CTR 329 and
+Nokia Networks Oyj [2013] 358 ITR 259 has unequivocally held that payment
+towards software for self-use is nothing but consideration towards a
+copyrighted article but not towards right to use the embedded copyright.
+Strictly speaking, use of a copyright in a software for the purpose of
+commercial exploitation in terms of reproduction, sub-lisence etc. only would
+tantamount to royalties. Further, none of the payments have also been made
+towards use of any industrial, commercial, or scientific equipment.
+
+In view of discussion above, I am of the considered view that the payment made
+by the Appellant for the provision of IT support services cannot be taxed as
+'Royalties' under the beneficial provisions of Article 12 of the India- Canada
+DTAA. Further, as stated in the earlier ground of appeal in the light of the
+Apex Court decision in GE India Technology Centre Pvt. Ltd. [2010] 327 ITR 456
+(SC) wherein it has been held that payment made to a non- resident will be
+subject to withholding of tax u/s. 195(1) of the Act only if the ITA
+No.555/Ahd/2016 Assessment Year: 2013-14  Page 9 of 16 sum payable is
+'chargeable to tax ' in India in the hands of non-resident, the appellant was
+not per se obliged to deduct any tax at source u/s 195 of the Act in the
+absence of any component of income involved. Thus, there existed no liability
+of the appellant to deduct any TDS u/s 195 (1) of the I.T. Act. This ground of
+appeal is allowed accordingly.
+
+6\. Aggrieved by the relief so granted by the CIT(A), the Assessing Officer is
+in appeal before us.
+
+7\. We have heard the rival contentions, perused the material on record and
+duly considered facts of the case in the light of the applicable legal
+positon.
+
+8\. We find that the related payments made by the assessee to BT Canada were
+in the nature of reimbursements, and, as evident from the details taken to
+record earlier in this order, there were specific cost allocations which were
+borne by the assessee. These payments, by no stretch of logic, could be viewed
+as payments for right to use the equipment. The assessee was entitled to
+certain services, during rendition of which even if certain equipment were to
+be used, but that by itself did not result in any use of or right to use the
+equipment by the assessee. The service may involve use of equipment but that
+does not vest right in the assessee to use the equipment. Even if a part of
+consideration can be said to be on account of use of equipment by breaking
+down all the components of economic activity for which consideration is paid,
+it is neither practicable, nor permissible, to assign monetary value to each
+of the segment of this economic activity and consider that amount in
+isolation, for the purpose of deciding character of that amount. Similarly,
+even if the payment is to be considered as payment for use of software, as is
+the settled legal position as on now, unless there is no transfer of
+copyright, there cannot be any occasion to hold it as royalty. In any event,
+so far as the transaction between the assessee and the BT Canada is concerned,
+it is simply in the nature of reimbursement of expenses incurred by BT Canada,
+on behalf of the assessee, and it has no income element so far as BT Canada is
+concerned. During the course of hearing before us, when we put this
+proposition to the learned Departmental Representative, he did not have much
+to say beyond placing reliance on the stand of the Assessing Officer. We also
+find that this issue is also covered, in favour of the assessee, by a
+coordinate bench decision of this Tribunal which has, in the case of Kotak
+Mahindra Primus Ltd vs DDIT [(2007) 11 SOT 578 (Mum)] wherein it was observed
+by the bench that "The Indian company does not have any control over, or
+physical access to, the mainframe computer in Australia. There cannot,
+therefore, be any question of payment for use of the mainframe computer. It is
+indeed true that the use of mainframe computer is integral to the data
+processing but what is important to bear in mind is the fact that the payment
+is not for the use of mainframe computer per se, that the Indian company does
+not have any control over the mainframe computer or physical access to the
+mainframe computer, and that the payment is for act of specialized data
+processing by the Australian company. Use of mainframe computer in the course
+of processing of data is one of the important ITA No.555/Ahd/2016 Assessment
+Year: 2013-14  Page 10 of 16 aspects of the whole activity but that is not the
+purpose of, and consideration for, the impugned payment being made to
+Australian company. The payment, as we have observed earlier, is for the
+activity of specialized data processing. It is neither practicable, nor
+permissible, to assign monetary value to each of the segment of this economic
+activity and consider that amount in isolation, for the purpose of deciding
+character of that amount. Therefore, neither the impugned payment can be said
+to be towards use of, or right to use of, the mainframe computer, nor is it
+permissible to allocate a part of the impugned payment, as attributable to use
+of, or right to use of, mainframe computer. Accordingly, the provisions of
+art. 12(3)(b) cannot have any application in the matter." Going by this logic
+even if one proceeds on the basis that any equipment is used in rendition of
+these services, such a payment, or part thereof, cannot be treated as payment
+for use of equipment. Revenue's case is thus acceptable as payment for use of
+equipment. In any case, the details furnished by the assessee also support the
+fact of reimbursement. When recipient does not have any income embedded in the
+related payment as reimbursement, there cannot be any occasion for deduction
+of tax at source under section 195. In view of these discussions, as also
+approving the reasoning adopted by the CIT(A), we uphold the conclusions
+arrived at by the learned CIT(A) and decline to interfere in the matter.
+
+9\. Ground no. 2 is thus dismissed.
+
+10\. In ground no 3, the Assessing Officer has raised the following grievance:
+
+> The ld. CIT(A) has erred on facts and in law in holding that the payment of
+> Rs.7,21,21,518/- made towards providing of services to use of equipment and
+> right to use equipment received from the Holding Company and associated
+> enterprises of the group concerns are not in the nature of Royalty.
+
+11\. So far as this ground of appeal is concerned, the relevant material facts
+are like this. During the course of verification of TDS returns, the Assessing
+Officer noticed that the assessee has made payments of Rs 6,80,54,110, on
+account of Administration, Marketing, Procurement and CCR Services and Rs
+40,67,408, on account of Human Resources Services, to BT Canada. These
+services were rendered by BT Canada, at the group level, to the assessee under
+a contract. These services were in several categories- namely, (a) finance an
+accounting, (b) group taxation, (c) engineering, (d) human resources, (e)
+marketing and strategic planning (f) management support (g) HR back office;
+(h) legal, (i) corporate office fees, (j) supply management, (k)
+communication, (l) bids, (m) intellectual property (n) six sigma and (j)
+others. There is no dispute, however, about the nature of services inasmuch as
+all these services are in the nature of management support and advisory
+services. On these facts, the Assessing Officer was of the view that these
+services result in "passing on suitable knowledge, skill ITA No.555/Ahd/2016
+Assessment Year: 2013-14  Page 11 of 16 and experience during the course of
+execution of these services" which itself "makes available experience and
+skill of the non resident to the assessee which gets hit by the mischief of
+definition of fees for technical services in the DTAA". The Assessing Officer
+was also of the view that "the service of technical input, advice, expertise
+etc rendered by the non resident company are technical in nature as provided
+for definition in the DTAA and not merely a standard service". All along in
+the discussions, the Assessing Officer emphasized on the technical inputs and
+benefits to the assessee which leads to the services being technical in nature
+and making available benefits of these services to the assessee. It was thus
+held, without giving any findings to the effect that there was a transfer of
+technology inasmuch as the assessee was enabled to perform the same services
+in future without recourse to the service provider, that the fees for these
+services is covered by the definition of 'fees for technical services' in the
+Indo Canadian tax treaty. Accordingly, the assessee was held to have committed
+a default in not deduction tax at sources from these payments, @ 15%, under
+section 195 of the Act. The resultant demand under section 201 r.w.s. 195 was,
+therefore, raised by the Assessing Officer. Aggrieved, assessee carried the
+matter in appeal before the CIT(A). Learned CIT(A) upheld the grievance of the
+assessee and deleted the impugned demand on the basis of following reasoning:
+
+> 2.9.9 I have carefully considered the facts of the case/ the submissions of
+> the appellant and the impugned order of the AO. As per the agreement between
+> BT-Canada and the appellant, the services include common services towards
+> Finance and Accounting, Group Taxation, Engineering, human resource,
+> Marketing and Strategic Planning, Management Support, Others, HRSSO, Legal,
+> Corporate Office Fees, Supply Management, Communication, Bids, Intellectual
+> Property, Six Sigma. The services rendered by the appellant may at best be
+> categorized as 'technical' in nature under domestic law. However, under the
+> treaty, the qualifying words 'make available' are of significance and hence,
+> if any technical or consulting service is not making available technology to
+> the service recipient, the same cannot suffer TDS u/s.195(1) of the I.T.
+> Act. The AO has not established how 'make available' clause has been
+> satisfied other than stating that the services rendered by BT-Canada would
+> invariably lead to imparting of suitable skill sets/knowledge in the hands
+> of the appellant in the area in which these services are rendered with
+> consequent improvement in the performance of the local employees. In my
+> considered opinion, such finding based on conjectures is too farfetched and
+> contrary to the legal jurisprudence on the concept of 'make available'.
+
+From the perusal of the agreement with BT-Canada and the annexures thereto,
+the nature of services are such that these do not enable the service recipient
+to make use of the said technical or managerial services independently. More
+so in the instant case where such services have been availed by the appellant
+regularly year on year, there is no scope of ITA No.555/Ahd/2016 Assessment
+Year: 2013-14  Page 12 of 16 appellant being equipped enough to carry out such
+services/functions on its own. More importantly, there is no training involved
+under the agreement neither has there been any material evidence to prove so.
+Merely because the appellant benefits out of the services being provided by
+BT-Canada which is common for the Bombardier Group as a whole, would not
+automatically bring these services within the purview of 'making available'
+any technology to the employees of the appellant for them to further apply
+this technology in their routine business operations. The case laws referred
+by the appellant buttress the argument put forward by the appellant that the
+services rendered by BT-Canada are in effect towards the proper functioning of
+the appellant's business operations and alignment with the Bombardier group's
+global best practices. Such arrangements are not uncommon among various multi-
+national enterprises and have also been favourably considered by the following
+decisions:
+
+• Bharti AXA General Insurance Co. Ltd (234 CTR 62) • Bovis Lend Lease (India)
+Pvt. Ltd. vs. ITO [2010] 127 TTJ 25 (Bang.) • Invensys Systems Inv. V. DCIT
+317 ITR 438 (AAR) Furthermore, recently the Ahmedabad Tribunal in the case of
+Shell Global Solutions International BV vs. Income Tax Officer in I.T.A.
+No.1283/Ahd/2010 dated November 10, 2015 held that consideration received by
+Shell Global for rendering services to an Indian co. under the Basic Refinery
+Package i.e. services in the nature of best practice manuals, guidelines,
+newsletters, etc. developed by assessee based on its expertise/ experience in
+running refineries and services like undertaking site inspection,
+technical/organizational review of processes, providing recommendations etc.
+could not to be taxed as fees for technical services ('FTS' } under India-
+Netherlands DTAA. It was observed that none of them involve transfer of
+technology and absent 'make available' of technology the same cannot be taxed
+as Fees for technical service. This case is squarely applicable on the facts
+of the present matter and hence, the action of the AO in concluding that BT
+Canada is making available technology to the appellant is incorrect and liable
+to be reversed.
+
+Further, the Ahmedabad Bench of the Tribunal observed in the case of Income-
+tax Officer (International Taxation), Vadodara v. Denial Measurement Solutions
+(P.) Ltd. {[2014] 52 taxmann.com 443 (Ahmedabad - Trib.)}, that the condition
+precedent for invoking the "make available" clause is that the services should
+enable the person acquiring the services to apply technology contained
+therein. It further held that unless there is a transfer of technology
+involved in technical services the "make available" clause is not satisfied.
+Thus payment made by assessee, engaged in business of manufacturing ultrasonic
+meters, to a US company towards calibration and ITA No.555/Ahd/2016 Assessment
+Year: 2013-14  Page 13 of 16 testing of equipment, could not be treated as,
+fee for technical services' due to non-compliance with make available cause.
+
+Further, Ahmedabad Tribunal, in the case of ITO, International Taxation- II v.
+Veeda Clinical Research (P.) Ltd. {[2013] 35 taxmann.com 577}, held that the
+training services rendered by the service provider were general in nature as
+the training is described as 'in house training of IT staff and medical staff'
+and of 'market awareness and development training'. Clearly, this training
+does not involve any transfer of technology and fees for same was not taxable
+as fees for technical services as per article 13 of India-UK DTAA. The law is
+settled so far as the connotations of 'make available' clause in the
+definition of fees for technical services in the contemporary tax treaties are
+concerned. It is held to be a condition precedent for invoking this clause
+that the services should enable the person acquiring the services to apply
+technology contained therein. The Tribunal observed that there are two non-
+jurisdictional High Court decisions, namely Delhi High Court in the case of
+DIT v. Guy Carpenter & Co. Ltd. [2012] 346 ITR 504/207 Taxman 121/20
+taxmann.com 807 and Karnataka High Court in the case of CIT v. De Beers India
+(P.) Ltd. [2012] 346 ITR 467/208 Taxman 406/21taxmann.com 214 in support of
+this proposition, and there is no contrary decision by the jurisdictional High
+Court or by the Supreme Court. Therefore, unless there is a transfer of
+technology involved in technical services extended by the UK based company,
+the 'make available' clause is not satisfied and, accordingly, the
+consideration for such services cannot be taxed under article 13 (4) (c) of
+India-UK tax treaty.
+
+In view of discussion above and respectfully following the above stated
+decisions of the jurisdictional Tribunal and plethora of rulings from various
+Courts & Tribunals, I am of the considered opinion that the impugned payment
+for support services does not warrant to be characterized as 'fee for
+technical services' under India-Canada DTAA. Further, in view of the decision
+of the Apex Court in the case of GE India Technology Centre Pvt. Ltd. [2010]
+327 ITR 456 (SC) wherein it has been held that payment made to a non-resident
+will be subject to withholding of tax u/s. 195(1) of the Act only if the sum
+payable is 'chargeable to tax' in India in the hands of non- resident, the
+payer was not per se obliged to deduct any tax at source u/s 195 of the Act in
+the absence of any component of income involved. Thus, where the sum payable
+to BT-Canada did not consist any income chargeable to tax in India, there
+existed no liability of the appellant to deduct TDS u/s 195(1) of the I.T.
+Act. The AO is directed to grant the relief accordingly. The ground of appeal
+is accordingly allowed.
+
+12\. Aggrieved by the relief so granted by the CIT(A), the Assessing Officer
+is in appeal before us.
+
+ITA No.555/Ahd/2016 Assessment Year: 2013-14  Page 14 of 16
+
+13\. We have heard the rival contentions, perused the material on record and
+duly considered facts of the case in the light of the applicable legal
+positon.
+
+14\. We find that the relevant provisions in the Indo Canadian tax treaty,
+which govern the taxability of fees for technical services, are as follows:
+
+> Article 12: Royalty and fees for included services
+
+> 4\. For the purposes of this Article, 'fees for included services' means
+> payments of any kind to any person in consideration for the rendering of any
+> technical or consultancy services (including through the provision of
+> services of technical or other personnel) if such services :
+
+> (a) are ancillary and subsidiary to the application or enjoyment of the
+> right, property or information for which a payment described in paragraph 3
+> is received; or
+
+> (b) make available technical knowledge, experience, skill, know-how, or
+> processes or consist of the development and transfer of a technical plan or
+> technical design.
+
+> 15\. We find that so far as taxability under Article 12, i.e. with respect
+> to 'Royalties and fees for included services' is concerned, we find that
+> Article 12(4) provides that, "The term "fees for technical included
+> services" as used in this Article means payments of any kind to any person
+> in consideration for services of a managerial, technical or consultancy
+> nature (including the provision of such services through technical or other
+> personnel) if such services : (a) are ancillary and subsidiary to the
+> application or enjoyment of the right, property or information for which a
+> payment described in paragraph 3 is received ;
+
+or (b) make available technical knowledge, experience, skill, know-how or
+processes, which enables the person acquiring the services to apply the
+technology contained therein". In order to invoke article 12(4)(a) it is
+necessary that such services should "make available" technical knowledge,
+experience, skill, know-how, or processes or consist of the development and
+transfer of a technical plan or technical design The services provided by BT
+Canada were simply management support or consultancy services which did not
+involve any transfer of technology. It is not even the case of the Assessing
+Officer that the services were such that the recipient of service was enabled
+to perform these services on its own without any further recourse to the
+service provider. It is in this context that we have to examine the scope of
+expression 'make available'.
+
+16\. As for the connotations of make available clause in the treaty, this
+issue is no longer res integra. There are at least two non-jurisdictional High
+Court decisions, namely ITA No.555/Ahd/2016 Assessment Year: 2013-14  Page 15
+of 16 Hon'ble Delhi High Court in the case of DIT Vs Guy Carpenter & Co Ltd
+([(2012) 346 ITR 504 (Del)] and Hon'ble Karnataka High Court in the case of
+CIT Vs De Beers India Pvt. Ltd [(2012) 346 ITR 467 (Kar)] in favour of the
+assessee, and there is no contrary decision by Hon'ble jurisdictional High
+Court or by Hon'ble Supreme Court. In De Beers case (supra), Their Lordships
+posed the question, as to "what is meaning of make available", to themselves,
+and proceeded to deal with it as follows:
+
+> The technical or consultancy service rendered should be of such a nature
+> that it "makes available" to the recipient technical knowledge, know-how and
+> the like. The service should be aimed at and result in transmitting
+> technical knowledge, etc., so that the payer of the service could derive an
+> enduring benefit and utilize the knowledge or know-how on his own in future
+> without the aid of the service provider. In other words, to fit into the
+> terminology "making available", the technical knowledge, skill?, etc., must
+> remain with the person receiving the services even after the particular
+> contract comes to an end. It is not enough that the services offered are the
+> product of intense technological effort and a lot of technical knowledge and
+> experience of the service provider have gone into it.
+
+> The technical knowledge or skills of the provider should be imparted to and
+> absorbed by the receiver so that the receiver can deploy similar technology
+> or techniques in the future without depending upon the provider. Technology
+> will be considered "made available" when the person acquiring the service is
+> enabled to apply the technology. The fact that the provision of the service
+> that may require technical knowledge, skills, etc., does not mean that
+> technology is made available to the person purchasing the service, within
+> the meaning of paragraph (4)(b). Similarly, the use of a product which
+> embodies technology shall not per se be considered to make the technology
+> available. In other words, payment of consideration would be regarded as
+> "fee for technical/included services" only if the twin test of rendering
+> services and making technical knowledge available at the same time is
+> satisfied.
+
+17\. As we have noted earlier, it is not even the case of the Assessing
+Officer that the assessee, i.e. recipient of services, was enabled to use
+these services in future without recourse to BT Canada. The tests laid down by
+Hon'ble Court were clearly not satisfied. There mere fact that there were
+certain technical inputs or that the assessee immensely benefited from these
+services, even resulting in value addition to the employees of the assessee,
+is wholly irrelevant. The expression 'make available' has a specific meaning
+in the context of the tax treaties and there is, thus, no need to adopt the
+day to day meaning of this expression, as has been done by the Assessing
+Officer.
+
+ITA No.555/Ahd/2016 Assessment Year: 2013-14  Page 16 of 16
+
+18\. In view of these discussions, and as we concur with the well reasoned
+findings of the learned CIT(A), we approve the conclusions arrived at by the
+learned CIT(A) and decline to interfere in the matter on this count as well.
+The order of the CIT(A) stands confirmed.
+
+19\. Ground no. 3 is thus dismissed.
+
+20\. Ground no. 4 and 5 are general and do not call for any adjudication by
+us.
+
+21\. In the result, the appeal is dismissed. Pronounced in the open court
+today on 3rd day of January, 2017.
+
+    
+    
+         Sd/-                                                          Sd/-
+    S S Godara                                                    Pramod Kumar
+    (Judicial Member)                                             (Accountant Member)
+    
+    Ahmedabad, the 3 rd day of January, 2017
+    
+    Copies to:   (1)    The appellant
+                 (2)    The respondent
+                 (3)    Commissioner
+                 (4)    CIT(A)
+                 (5)    Departmental Representative
+                 (6)    Guard File
+                                                                                     By order
+    
+    TRUE COPY
+                                                                      Assistant Registrar
+                                                            Income Tax Appellate Tribunal
+                                                         Ahmedabad benches, Ahmedabad
+     
+

@@ -1,0 +1,2937 @@
+
+
+Income Tax Appellate Tribunal - Chennai
+
+Gamesa Renewable Private ... vs Dcit, Chennai on 13 November, 2017
+
+    
+    
+               आयकर अपील
+    य अ धकरण, 'डी'  यायपीठ, चे नई
+    
+               IN THE INCOME TAX APPELLATE TRIBUNAL
+                        "D" BENCH, CHENNAI
+    
+             ी चं  पज
+                    ू ार
+    , लेखा सद य एवं  ी ध"ु व#
+                                                 ु आर.एल रे $डी,
+                           या%यक सद य के सम'
+    
+         BEFORE SHRI CHANDRA POOJARI, ACCOUNTANT MEMBER
+            AND SHRI DUVVURU RL REDDY, JUDICIAL MEMBER
+    
+                 आयकर अपील सं./ITA Nos. 1420 & 376/Mds/2017
+                 नधा रण वष  /Assessment Years : 2011-12 & 2012-13
+    
+     M/s. Siemens Gamesa                     The Deputy Commissioner of
+    Renewable Power Pvt. Ltd.,         v.    Income-tax,
+    No.334, Futura Tech Park,                Corporate Circle-2(1),
+    8th floor, Block-B, Rajiv Gandhi         Chennai.
+    Salai, Sholinganallur,
+    Chennai - 600 119.
+    PAN AACCG6027C
+    (अपीलाथ /Appellant)                      (  यथ /Respondent)
+
+अपीलाथ क ओर /Appellant by : Shri B.Ramakrishnan, FCA & Shri S. Dwarakesh, ACS
+यथ क ओर से/Respondent by : Smt. Vijayalakshmi, CIT,D.R सन ु वाई क तार ख/Date
+of Hearing : 16.08.2017 घोषणा क तार ख/Date of Pronouncement: 13.11.2017 आदे श
+/O R D E R PER CHANDRA POOJARI, ACCOUNTANT MEMBER These two appeal are filed
+by the assessee, aggrieved by the order of the ld. Assessing Officer, Chennai,
+passed u/s.143(3) read with sec.144C(1) of the Act pursuant to the order  2 of
+the T.P.O, Chennai and the directions issued by the Dispute Resolution
+Panel-2, (D.R.P-2), Bangalore, (DRP) under sec.144C(5) of the Income-tax Act,
+1961, for the assessment years 2011-12 and 2012-13
+
+2\. The first common issue in these two appeals is with regard to downward
+adjustment in respect of payment of royalty to Associated Enterprises (AEs) on
+the reason that the royalty payment is in excess of limits prescribed under
+the provisions of Foreign Exchange Management Act, 1999.
+
+3\. The brief facts of the case are that Siemens Gamesa Renewable Power Pvt.
+Ltd.,(formerly known as 'Gamesa Renewable Private Limited') ('Gamesa India' or
+'the assessee') is an Indian company engaged in the business of manufacture of
+renewable energy equipments like Wind Energy Generation ('WEG', commonly known
+as 'windmills') and Solar Power Generators. The assessee provides turnkey
+solutions to its customers which includes the following activities:
+
+> a) Undertaking preliminary activities such as identifying land, obtaining
+> approvals for developing wind farms
+
+> b) Manufacture and sale of WEGs  3
+
+> c) Erection and commissioning of WEGs
+
+> d) Operation & Maintenance of wind turbine generators 3.1 The facts of the
+> issue as narrated in the assessment year 2012-13 are that the assessee
+> maintained the documentation as required under the Rule 10D of the I.T
+> Rules, 1962 with respect to international transaction for the financial year
+> 2011-12. The assessee is engaged in manufacturing and assembly of wind
+> turbines, wind farm development, erection and commissioning and operations &
+> maintenance of wind turbines. Based on the Functional Asset and Risk
+> Analysis (FAR) and the economic analysis, the Transactional Net Margin
+> Method (TNMM) had been considered as the most appropriate method under the
+> Indian transfer pricing regulations, for analyzing the arm's length nature
+> of these international transactions between Gamesa India and it's A.Es. The
+> assessee conducted a common analysis for the international transactions
+> involving purchase of raw materials and components, purchase of
+> manufacturing tools, payment for royalty and management fee as these
+> transactions are inextricably linked to the assembly, erection and
+> installation function performed by Gamesa India. In the transfer pricing  4
+> study report, the assessee considered TNMM as the most appropriate method.
+> The TPO in his order has remarked that the PLI of the comparables works out
+> to (-1.53) percent as against the PLI of the assessee (-0.37 percent).
+> Further, the assessee submitted before the TPO that if the economic
+> adjustments and extra-ordinary costs are factored, the PLI of the assessee
+> works out to 4.40%. Thus, it was concluded that Gamesa India's international
+> transactions with AEs was consistent with the arm's length standard from an
+> Indian transfer pricing regulations perspective.
+
+3.2 The assessee entered into Technology Transfer Agreements with Gamesa
+Innovation and Technology SL Unipersonal ('Gamesa Spain') dated 1st January
+2009 and 11th July 2011 for availing technology in relation to AE 59 and G 97
+models respectively. As per the agreements, Gamesa India would pay royalty at
+the rate of 4 percent and 4.50 percent respectively on Net Annual Turnover.
+The assessee has also considered CUP as alternate method for benchmarking the
+royalty transaction. The assessee has considered certain comparables
+agreements and the arithmetic mean of the royalty  5 as per the comparable
+agreements amount to 6.43 percent. Given that the rate of royalty as per the
+comparable transactions is higher than the royalty paid by the assessee, the
+transaction has been regarded as within arm's length price. During the course
+of transfer pricing assessment proceedings, the TPO re- computed the Arm's
+Length Price(ALP) of royalty and proposed downward adjustment in the following
+manner :
+
+    
+    
+          S.No.   Particulars                                 Amount (₹ )
+          1       Development revenue                          1,98,92,236
+          2       Royalty on Erection & Commissioning          3,99,55,152
+          3       Imported & bought out components            33,10,48,591
+                  Total                                       39,08,95,979
+    
+    
+
+The TPO contended that no technology is required for development of wind-farm,
+erection and commissioning activities.
+
+3.3 Further, the TPO questioned why imported bought- out components should not
+be reduced from turnover and applied the rate of royalty on net turnover. In
+this regard, the TPO mentioned that under the provisions of the Foreign
+Exchange Management Act, 1999 (FEMA), no royalty can be paid on bought out
+components. With respect to adoption of CUP as alternate method, the TPO
+remarked that he is not  6 inclined to accept the supplementary benchmarking
+done to prove the ALP of royalty on the ground that the database and copies of
+the agreements of comparables are not available for verification. In this
+regard, it is pertinent to note that the TPO has not disputed the said
+position in the preceding year and in the show cause notice for the subject
+assessment year. The DRP has upheld the adjustment made by the TPO in this
+regard without appreciating the submissions of the assessee. Against this, the
+assessee is in appeal before us.
+
+4\. The ld. AR submitted that there is no transfer pricing adjustment in a
+scenario where the transactions are at Arm's Length in accordance with the
+method prescribed under Rule 10B. Without prejudice to the above, he submitted
+that technology is required even in respect of other activities such as
+development of wind farm and erection and commissioning. The ld. AR submitted
+that the action of the TPO in proposing transfer pricing adjustment is not
+tenable on account of the submissions provided by the assessee.
+
+4.1 Further, the ld. AR submitted that in the transfer pricing study, the
+assessee considered TNMM as the most appropriate  7 method. For the subject
+assessment years, the PLI of the assessee is higher as compared to the
+comparable companies. Further, the assessee considered CUP as the most
+appropriate method and contended that average rate of royalty as per
+comparable agreements is higher as compared to the subject royalty rate.
+Therefore, the assessee arrived at a conclusion that the royalty paid to its
+AE is at ALP. The assessee submitted that technology is a critical factor for
+undertaking its operations and therefore, royalty expenditure is inextricably
+linked to its business. The determination of ALP of royalty on a standalone is
+basis in the first place. The TPO has erred in not appreciating the basis fact
+that royalty is inextricably linked to business of the assessee and therefore,
+benchmarking the PLI at entity level is sufficient in order to substantiate
+that the transactions with AE are at arm's length. Without prejudice to the
+above submission, the assessee has undertaken supplementary benchmarking under
+CUP method thereby considering the royalty rate of uncontrolled transactions
+as well and substantiated that the average rate of royalty in respect of
+uncontrolled transactions was at 6.43 percent which is higher than the rate of
+royalty paid  8 by the assessee to its AE (4 / 4.50 percent), that was not
+appreciated by the TPO and DRP as well. Further, it was submitted that the
+methodology adopted by the TPO is not in accordance with any of the methods
+prescribed in Rule 10B of the Rules and the action of the TPO is beyond his
+jurisdiction as provided in the law. The ld. AR relied on the following
+decisions, wherein it has been held that where the PLI of the assessee is
+determined under TNMM, a separate analysis and consequent deletion of royalty
+/ technical fee payment is unwarranted:
+
+> 1\. Magneti Marelli Powertrain India (P) Ltd. vs DCIT (389 ITR 469) (Delhi)
+
+> 2\. DCIT vs. Air Liquide Engineering India (P) Ltd. (43 Taxmann.com
+> 299(Hyd.)
+
+> 3\. Daksh Business Process Services (P) Ltd. vs. DCIT (Delhi-ITAT)
+> 2666/Del./2014)
+
+> 4\. ACIT vs. Sakata Inx (India) Ltd. (Jaipur-ITAT) (ITA No.376/Jaipur/2012)
+> 4.2 The ld. AR submitted that the transactions entered into by the assessee
+> with its AE are at arm's length under the methods prescribed under Rule 10B
+> of the Rules and the TPO has no jurisdiction to identify any method which is
+> not prescribed under the aforesaid Rules. To support his view, the ld. AR
+> relied on the  9 following decisions, wherein it has been held that the TPO
+> has no jurisdiction to apply any method other than those prescribed under
+> the Rules.
+
+1\. DCIT vs. Diebold Software Services (P) Ltd. [151 ITD 463]
+
+2\. Merck Ltd. vs. DCIT [148 ITD 513] 4.3 Regarding the jurisdiction of the AO
+and the TPO to determine the commercial expediency of the assessee, it was
+submitted by the ld. AR that under the provisions of sec.92CA of the Act, the
+TPO is vested with the power to determine the ALP, which needs to be computed
+in accordance with the methods prescribed. The TPO has remarked that the
+assessee has not substantiated the necessity for use of technology in relation
+to wind farm development and erection and commissioning activities. According
+to the ld. AR, business transactions of the assessee taken place in the
+ordinary course cannot be questioned by the TPO and he placed reliance on the
+judgment of the Delhi High Court in the case of Hive Communication (P) Ltd.
+vs. CIT (353 ITR 200) wherein the Court in the context of sec.40A(2) has
+clearly held that while examining the reasonableness of an expenditure, the
+Assessing Office is  10 expected to exercise his conclusion in a reasonable
+and fair manner. It should be borne in mind that the provision is meant to
+check evasion of tax through excessive or unreasonable payments to relatives
+and associate concerns and should not be applied in a manner which will cause
+hardship in bona fide cases. The ld. AR, also placed reliance on the judgment
+of the Delhi High Court in the case of CIT vs. EKL Appliances Ltd., (345 ITR
+241) wherein it has been held that it is not necessary for the assessee to
+show that any legitimate expenditure incurred by him was also incurred out of
+necessity. In addition, the Court held that it is also not necessary for the
+assessee to show that any expenditure incurred by him for the purpose of
+business carried on by him has actually resulted in profit or income either in
+the same year or in any of the subsequent years.
+
+4.4 Further, the ld. AR, relied on the judgment of the Madras High Court in
+the case of CIT vs. Computer Graphics Ltd.,(155 Taxman 612) wherein it was
+held that the reasonableness of the expenditure for the purpose of business
+had to be adjudged from the view point of a businessman and not that of the
+Revenue,  11 even while invoking sec.40A(2) of the Act. The ld. AR, also
+placed reliance on the decision of the Tribunal, Delhi Bench, in the case of
+Showa India (P) Ltd. vs. DCIT ( ITA No.166/Del./2013) wherein it was held that
+where the assessee company has provided the details of royalty and technical
+assistance fees paid to AE, it cannot be said that the assessee would be
+competent to make use of such machinery without the support of the AE and
+according to the ld. AR, the TPO cannot determine the ALP of any transaction
+merely based on assumptions. The ld. AR submitted that the TPO does not extend
+to stepping into the shoes of the assessee and determining the necessity of
+incurrence of expenditure and the commercial expediency of a transaction has
+to be evaluated from the assessee's stand point and not from Revenue's
+standpoint. Therefore, the ld. AR, submitted that the contention of the TPO
+that no technology is required for wind farm development and erection and
+commissioning activities is unwarranted.
+
+4.5 Without prejudice to the above submissions, the ld. AR submitted that for
+the subject A.Ys. there is no such restriction  12 on payment of royalty on
+bought out components under the provisions of FEMA on the reasons that as per
+erstwhile Foreign Exchange Management (Current Account Transactions) Rules,
+2000, any remittance under technical collaboration agreement to the extent of
+5% on local sales and 8% on exports was permitted without any prior approval
+of RBI. Further, it was submitted that the aforesaid ceiling on payment of
+royalty has been lifted with effect from 16th December, 2009 and for the
+subject A.Y., there was no restriction on payment of royalty vide Circular and
+Notification issued by the Reserve Bank of India. Accordingly, there is no
+requirement for such approval with reference to 16th December 2009. Therefore,
+according to the ld. AR, the action of the TPO in proposing transfer pricing
+adjustment thereby relying on the provisions of FEMA is in appropriate in the
+first place. Further, the ld. AR submitted that the TPO relied on the
+'Standard conditions attached to automatic approvals for Foreign Investment &
+Technology Agreement', which emphasizes for calculation of royalty on the
+basis of net ex-factory sale price of products excluding the excise duty and
+other taxes, cost of standard bought out components and landed cost of
+imported  13 components etc. and relying on the conditions, the TPO held that
+no royalty is permissible under the provisions of FEMA in respect of bought
+out components. According to the ld. AR, standard conditions form part of Form
+FC-SIA, which has been withdrawn by RBI, have no relevance for these subject
+A.Ys. and reliance on the standard conditions by the TPO is baseless. 4.6 The
+ld. AR further submitted that the rate of royalty prescribed under the
+provisions of FEMA cannot be regarded as ALP for transfer pricing purposes. To
+support his view, the ld. AR, relied on the following decisions:
+
+1\. Oracle India (P) Ltd. vs. DCIT [386 ITR 1](Delhi)
+
+2\. Gruner India (P) Ltd. vs. DCIT[ITA No.6794 of 2015-Delhi, ITAT]
+
+3\. A.W.Faber Castell (India) (P) Ltd. vs. DCIT [ITA No.1027 of 2017-
+
+Mumbai, ITAT] The ld. AR submitted that in the case of A.W.Faber Castell
+(India) (P) Ltd. vs. DCIT, supra, pertaining to the A.Y. 2012-13 referred to
+the Press Note No.8 of 2009 and upheld the twin principles as follows :
+
+• A perusal of the aforesaid notification shows that the Government of India
+has now waived all the restrictions on payment of royalty under foreign
+technology collaboration  14 and put the same under automatic route. Since
+there are no restrictions on payment of royalty by the Government of India,
+therefore, any amount paid by assessee on account of royalty would ipso-facto
+be its 'ALP' also.
+
+• Both the legislations operate into different fields. The rates allowed under
+the automatic route by the RBI or FIPB are meant to achieve objectives in
+different areas. The whole thrust of the income tax proceedings and transfer
+pricing regulations is to ensure that taxable profit earned by an entity India
+are not shifted to foreign tax jurisdiction without payment of legitimate
+share of tax due in India. Therefore, according to the ld. AR, the transfer
+pricing adjustment proposed by the TPO on the ground that the royalty payment
+is not within the limits prescribed under FEMA purposes is not tenable.
+
+4.7 The ld. AR, further submitted that the TPO has no jurisdiction to
+interpret the provisions of FEMA. In other words, the issue on whether the
+assessee has remitted excess royalty or not is a prerogative of regulatory
+authorities and not tax authorities. In this regard, the ld. AR relied on the
+decision of the Tribunal, Pune Bench, in the case of Akzo Nobel Chemicals  15
+(India) Limited vs. DCIT,( ITA No.1477/Pune/2010) wherein it has held that the
+TPO has no jurisdiction to interpret the provisions of FEMA in order to
+compute net sales/turnover for the purpose of royalty. Applying the rationale,
+according to the ld. AR, in the instant case, the TPO has exceeded his
+jurisdiction by interpreting the provisions of FEMA in order to propose
+transfer pricing adjustments and submitted that the TPO has misinterpreted the
+provisions of FEMA and restricted the quantum of royalty. The ld. AR submitted
+that it is pertinent to note that the term 'bought out components' is not
+defined in FEMA and the said term includes only components which are not
+subject to further processing and sold on as-is-basis to end customers.
+According to the ld. AR, the intent of FEMA is to curb royalty payment on
+product in respect of which no value has been added by the assessee company.
+
+4.8 According to the ld. AR, for example if a company engaged in manufacture
+of laptop procures web camera from a third party vendor and sells both the
+products to end customers as a combined product, royalty should be confined
+only to the selling price of laptop (thereby excluding the cost of web camera
+16 from the overall selling price). Whereas, in the instant case, the
+components procured by the assessee are processed further and therefore, the
+same cannot qualify to be 'standard bought out components' in order to be
+excluded from turnover for the purpose of computation of royalty. Further, it
+is submitted that the components procured from its AEs have been processed
+further for completing the end product and delivering to its customers. In
+other words, the same does not constitute bought out components that are ready
+for assembling, which issue has been discussed in detail by the Pune Bench,
+Tribunal in the case of Akzo Nobel Chemicals (India) Limited vs. DCIT, supra.
+Therefore, the ld. AR, submitted that the TPO has erred in re- computing the
+quantum of royalty by misinterpreting the provisions of FEMA and no transfer
+pricing adjustment is warranted in this regard.
+
+4.9 Regarding the royalty on wind farm development and erection and
+commissioning, the ld. AR, submitted that the TPO has remarked that the scope
+of work involved under these activities do not involve any technology which is
+not available in India and for which the assessee is dependent on the AE as a
+17 part of the technology transferred under the agreement and based on the
+observation, the TPO computed the ALP of the transaction to be Nil. According
+to the ld. AR, these activities involve the following processes which require
+tremendous expertise and cannot be undertaken directly by semi-skilled or
+unskilled workmen :
+
+Wind farm development Erection & Commissioning Environmental sustainability -
+Providing guidelines to use tools
+
+-Visual aspects - Validation of foundation designs 
+
+-Ecological/architectural protection - Training to personnel of Gamesa India at the time of development of new prototypes Technical sustainability - Supervisory control and Data 
+
+\- Wind speed acquisition (SCADA - for monitoring
+
+\- Grid connection WTG throughout the year on remote
+
+\- Providing drawings and design basis Professional support
+
+\- Conceptual design
+
+\- Design verification
+
+\- Process validation
+
+\- Wind measurement and assessment The ld. AR, further submitted that the TPO
+himself has agreed that such activities require technology support. The only
+contention raised by the TPO is that such activities do not require any
+technology, which is not available in India. According to the ld. AR, it is
+not the prerogative of the TPO to decide whether the assessee should have used
+the technology provided by its AE or not. The TPO ought to have appreciated
+the basic fact that the assessee developed wind farms, installed and
+commissioned WEGs on the basis of the inputs provided by  18 its AE. The AE
+has substantial past experience in implementing similar projects across the
+globe and therefore, the assessee obtained technology and expertise from its
+AE in order to ensure better quality to its customers. Therefore, according to
+the ld. AR, the contention of the TPO that the ALP of royalty in relation to
+wind farm development activities, erection and commissioning is Nils is not
+tenable. The ld. AR further submitted that the copy of sample reports provided
+by its AE in relation to wind farm development and sample mail correspondences
+evidencing the fact that the assessee has sought the inputs from its AE are
+also provided. In view of the above, the ld. AR, submitted that robust
+technology and knowledge support is required for the purpose of executing the
+wind farm development, erection and commissioning activities and the
+contention of the TPO and DRP that no technology from its AE for undertaking
+such activities is required, is factually incorrect.
+
+5\. The ld. DR, submitted that the TPO has not determined the ALP for the
+royalty paid by the assessee to its AE based on FEMA Regulations instead he
+has substantiated his point of view that no royalty can be paid on the bought
+out components using  19 the method of calculation of royalty provided in
+FEMA. According to the ld. DR, it is pertinent to note that almost all the
+companies operating in India and paying royalty to its foreign AEs for the
+technology provided by the AEs are calculating royalty on the turnover after
+reducing the value of the bought out components for the simple reason that the
+cost of the technology were impeded in the price of the raw material. Indian
+Transfer Pricing regulations provide the choice to the assessee for selecting
+most appropriate method for benchmarking its international transactions with
+its AEs. So, there is no logic behind the supplementary benchmarking done to
+prove the ALP of the royalty using CUP method. The TPO has rightly rejected
+the supplementary benchmarking done by the assessee. Even for the arguments
+sake the contention of the assessee is accepted, the availability of the
+details and accessibility of the foreign company's database is essential for
+the comparability analysis which is a first step in determining the ALP of a
+transaction. If the assessee could not provide the details in support of its
+claim, the benchmarking done by the assessee should be rejected for the above
+mentioned reasons.  20 5.1 The ld. DR, submitted that the assessee is not
+correct in stating that no method prescribed under the statute has been
+followed by the TPO. In a comparable situation involving an unrelated party,
+such payment would not have been made by that party without commensurate
+benefits accruing to it. Even otherwise, the assessee did not demonstrate the
+need and benefit relating to such a payment. This has been elaborately dealt
+with by the TPO in his order u/s.92CA(3) of the Act dated 29.1.2015. Such
+comparison has been contemplated in the OECD Guidelines 2010 which held the
+field at the relevant time of passing the order. The same is reproduced below
+:
+
+> "7.6 Under the arm's length principle, the question whether an intra-group
+> service has been rendered when an activity is performed for one or more
+> group members by another group member should depend on whether the activity
+> provides a respective group member with economic or social value top enhance
+> its commercial position. This can be determined by considering whether an
+> independent enterprise in comparable circumstances would have been willing
+> to pay for the activity if performed for it by an independent enterprise or
+> would have performed the activity in-house for itself."
+
+21
+
+According to the ld. DR, the transactions can be aggregated only if they are
+intricately intertwined and cannot be separately analyzed. This is not the
+case here. Moreover, aggregated approach to transfer pricing analysis is the
+exception rather than the norm. This issue has been dealt with extensively by
+the DRP of its order dated 24.03.2017. The DRP has quoted case laws to reject
+the assessee's objection in this regard. The OECD Guidelines of 2010 has also
+taken the view that as far as possible, transactions are to be evaluated
+separately. Considering this, according to the ld. DR, the action of the TPO
+is in order.
+
+5.2. Further, the ld. DR submitted that the commercial expediency may not be
+questioned if the transactions carried out between uncontrolled parties. If
+the transactions between the two parties are controlled then the nature of
+transactions should be analyzed including the commercial expediency. Needless
+to say the comparability study which forms the basis of Transfer Pricing
+proceedings requires an analysis of the need for such a transaction and the
+benefit derived by the assessee from that transaction. The TPO has not sought
+to  22 question the commercial expediency of the royalty. What has been done
+is to compare the circumstances surrounding the payment and the services said
+to have received with an independent party in an uncontrolled situation. The
+way in which the TPO is looking at each transactions, are altogether different
+from the AO. The need benefit analysis in the light of the uncontrolled
+transactions are essential for the comparability analysis.
+
+5.3 The ld. DR submitted that the contention of the assessee that no
+restriction on payment of royalty under the provisions of FEMA, Rates
+prescribed under FEMA cannot be regarded as ALP for transfer pricing purposes
+is not acceptable as the assessee tried to mislead the ITAT that the TPO has
+determined the ALP for the royalty paid by the assessed to its AE using the
+provisions of FEMA which is not correct. The TPO has opined that even the
+royalty paid by the Indian companies to its AE are not considering the value
+of the standard bought out components while calculating the royalty and
+similar method of calculation for royalty also provided under FEMA
+regulations. So the TPO has formed  23 his opinion based on the royalty
+calculation of unrelated parties which does not include the value of bought
+out components as the cost for the technology already impeded into the price
+of the raw material (bought out components). The ld. DR submitted that the RBI
+is an authority to regulate the foreign payments including royalty, put
+restriction on the royalty payments. However, the RBI has relaxed the ceiling
+for the payment of royalty does not mean that the assessee can pay entire
+profits to its AE as royalty. Though the ceilings for royalty relaxed by RBI,
+the method of calculation of royalty provided by the RBI can be taken as a
+reference as the same method followed by most of the companies for calculating
+the value of royalty.
+
+5.4 The ld. DR submitted that the reason behind the reduction of the value of
+bought out components from the total sales while calculating the royalty is
+the cost of the technology already embedded in the price of the raw material
+and for better understanding, the royalty calculation of Mobis India Ltd. is
+provided below:
+
+ROYALTY TO MOBIUS KOREA FOR FY 2013-14  24 Year Months Sales Less:Trading Less
+Net Sales Royalty & MDI sales Imports 2013 April 3480790763.14 332329122
+680868160 2477593481 74327804 May 3421868459.14 266548375 693651740 2461668344
+73850050 June 3405444134.38 214242332 706660060 2484541742 74536252 July
+3132628736.49 278692197 651524555 2202411985 66072360 August 3493824299.49
+215174696 683986456 2594663147 77839894 Sept. 3431848518.09 183107653
+661691049 2587049816 77611494 Oct. 3562398246.85 176505491 814222529
+2571670227 77150107 Nov. 3330501933.26 153164362 708028323 2469309249 74079277
+Dec. 3199347306.31 152503092 873569387 2173274827 65198245 2014 Jan.
+3387231588.36 165947311 809826502 241157775 72343733 Feb. 3419453077.38
+172590752 781271436 2465590889 7396727 March 3693961712.76 150903444
+1088060649 2454997620 73649929 Total 40959298775.65 2451708826.57
+9153360845.99 29354229103 880626873 .09 R & D Cess 5% 44031344 Total 924658217
+As per GL 924658216  Difference 0 5.5 The ld. DR further submitted that the
+issue of royalty ex- brought out components is discussed in detail by the TPO.
+Royalty is to be paid on turnover less brought out component as per the Press
+Note of the Department of Industries Policy and Promotion. The assessee has
+not effectively countered the stand of the TPO that the royalty is to be paid
+net of brought out components. Nor has the assessee given any reason why the
+official policy document relied upon by the TPO is to be discarded. This issue
+has also been confirmed by the DRP and the reasoning therefore are explained
+by the Panel. The assessee had claimed royalty on substation development
+charges, development revenues and revenue on erection and  25 commissioning of
+Wind Turbine Generators (WTGs), which was discussed by the TPO in his order.
+He has, after a perusal of the agreements relating to the above activities,
+held that what was being done under these categories did not involve any
+technology out of common infrastructure activities which do not involve any
+element of transfer of technology. This has not been countered by the assessee
+and the issue has been dealt with by the DRP in its order.
+
+6\. We have heard both the parties and perused the material on record. In this
+case, under the technology transfer agreement dated 01.01.2009 and 11.07.2011
+with Gamesa Innovation and Technology SL (Gamesa Spain), for availing
+technology in relation to A.E 59 and G97 models respectively, the assessee
+agreed to pay royalty @ 4% / 4.50% respectively on net amount of annual
+turnover on sale of Wind Energy Generators (WEG) to its customers including
+charges for development of land, substation, and erection & commissioning. The
+assessee aggregated the royalty payment which is being international
+transaction with AE and benchmarking it by using Net Present Cost (NPC) on
+Revenues as PLI with TNMM method as most  26 appropriate method. The
+assessee's NPC on revenue was claimed to be at 1.49% with three year weighted
+margin on revenue of comparables of 0.07% and therefore, the AE transactions
+were claimed to be at arm's length. According to TPO, the assessee's approach
+of computation of Royalty and Managerial services by benchmarking them on an
+aggregation basis was not accepted by TPO / AO. According to TPO, no royalty
+payable on the standard bought out components and thereby reduced the cost of
+standard bought out components from the turnover of the assessee and applied
+the royalty rate on net turnover so as to determine the ALP. The plea of the
+assessee is that it has considered certain comparables, agreements and the
+arithmetic mean of the royalty as per the comparable agreement amount to
+6.43%. The average rate of royalty as per the uncontrolled transactions is
+higher than the royalty paid by the assessee, the transactions has been
+regarded as within arm/s length price. However, the AO /TPO pointed out that
+royalty paid by the assessee is in excess of royalty permitted under the
+provisions of FEMA. The plea of the assessee is that no adjustment can be
+applied following any  27 method other than those prescribed under Rule-10B of
+the Income Tax rules. More so, the PLI of the assessee is at 4.84% as compared
+to the comparables at 3.77%. Further, considering economic adjustments such as
+customs duty and idle capacity adjustment, the margin of the assessee would be
+up to 13.28%, which was accepted by TPO as the PLI is higher than the
+comparables. Even considering the CUP as a secondary method for benchmarking
+the royalty payment, average rate of royalty at comparable companies is at
+6.43% as compared to the royalty paid by the assessee company at 4%/ 4.5%.
+Therefore, even applying the CUP method percentage of payment royalty is
+lesser than the comparable cases. In the case of DCIT Vs. Diebold Software
+Services (P) Ltd., in 151 ITD 463(Mum.) it was held that when the TPO did not
+accept TP analysis made by assessee without giving any reasons and made TP
+adjustment without applying any prescribed method, such TP adjustment is not
+sustainable either in law or on facts.
+
+6.1 Similar view was taken in the case of Merck Ltd. Vs. DCIT in 148 ITD
+513(Mum.) wherein held that the  28 "TP adjustment is required to be made by
+applying one of the prescribed methods. The TPO has not applied any prescribed
+method and has only disallowed part of the expenses as done in the normal
+assessment, which is not permitted under transfer pricing regulation as per
+which adjustment on account of any international transaction is required to be
+made as per the method prescribed. The learned CIT (DR) pointed out that the
+TPO in respect of the nine services not availed by the Assessee has treated
+the payment as nil since no independent party would make any payment for
+services not provided. The TPO thus had applied the CUP method and made
+adjustment on account of nine services on average basis.
+
+(para 24.6) Agreement listed certain services on which the Assessee requires
+guidance/assistance from time to time. The Assessee was thus entitled to any
+of the services as and when required. Therefore, applying CUP method to the
+service not availed by the Assessee during the year is not justified. It would
+have been appropriate if the AO had applied CUP method to the payment made
+during the year by the Assessee for the three services and compared with
+similar payment for such services by an independent party. No efforts have
+been made by TPO/AO to determine the market value of services received by the
+Assessee during the year relating to SAP implementation and quality control to
+show that the Assessee had paid more compared to any independent party for the
+same services. The Assessee had submitted that in case the Assessee had paid
+to the AE at man hour rate for the technical services provided during the year
+in relation to SAP implementation, the fees payable would have been
+significantly higer. There is nothing produced before ITAT to controvert the
+said claim. The Assessee has applied TNMM which shows that the margin shown by
+the Assessee was higher than the comparable companies. The case of the
+Assessee is also supported by the decision of Tribunal in case of Mc Can
+Erricson India Pvt. Ltd. (Supra) in which the decision of TPO to take the
+value of certain services at nil has not been upheld. Considering the entirety
+of facts  29 and circumstances, the adjustment made by TPO which is nothing
+but disallowance of expenses cannot be upheld. ITAT, therefore, set aside the
+order of CIT (A) on this point and delete the addition made." 6.2 It is also
+observed that where the assessee has adopted TNMM method for the purpose of
+bench marking its profits, adoption of CUP method solely for the purpose of
+evaluating technical assistance fee would lead to absurdity and be detrimental
+to the interests of both the Department and the assessee. In other words, once
+the arm's length criteria is tested at entity level, the TPO has no
+jurisdiction to examine the need, benefit etc. in relation to each
+transaction. Thus, the transaction approach is not required, if the PLI of the
+assessee at arm's length. This view is fortified by the judgment of Delhi High
+Court in the case of Magneti Marelli Powertrain India Pvt. Ltd. Vs. DCIT in
+(2016) 389 ITR 0469 (Delhi) wherein held that:-
+
+> "17. As far as the second question is concerned, the TPO accepted TNMM
+> applied by the assessee, as the most appropriate method in respect of all
+> the international transactions including payment of royalty.
+
+> The TPO, however, disputed application of TNMM as the most appropriate
+> method for the payment of technical assistance fee of Rs.
+
+> 38,58,80,000 only for which Comparable Uncontrolled Price ("CUP") method was
+> sought to be applied. Here, this court concurs with the assessee that having
+> accepted the TNMM as the most appropriate, it  30 was not open to the TPO to
+> subject only one element, i.e payment of technical assistance fee, to an
+> entirely different (CUP) method. The adoption of a method as the most
+> appropriate one assures the applicability of one standard or criteria to
+> judge an international transaction by. Each method is a package in itself,
+> as it were, containing the necessary elements that are to be used as filters
+> to judge the soundness of the international transaction in an ALP fixing
+> exercise. If this were to be disturbed, the end result would be distorted
+> and within one ALP determination for a year, two or even five methods can be
+> adopted. This would spell chaos and be detrimental to the interests of both
+> the assessee and the revenue. The second question is, therefore, answered in
+> favour of the assessee; the TNMM had to be applied by the TPO/AO in respect
+> of the technical fee payment too."
+
+6.3 Similar view was taken by co-ordinate Bench of Hyderabad Tribunal in the
+case of Air Liquid Engineering India (P) Ltd., in 152 ITD 157 wherein held
+that:-
+
+"20. Furthermore, we are of the opinion that once TNMM has been applied to the
+assessee company's transaction, it covers under its ambit the Royalty
+transactions in question too and hence separate analysis and consequent
+deletion of the Royalty payments by the TPO in the instant case seems
+erroneous. We draw support from the Hon'ble Mumbai ITAT decision in Cadbury
+India Ltd vs. ACIT (ITA No 7408/Mum/2010 and ITA No.7641/Mum/2010 dated
+13-11-2013) wherein the Hon'ble ITAT upheld the use of TNMM for Royalty as
+well as relied on many of the above decisions to hold adjustment by TPO was
+erroneous:
+
+31
+
+"33. The TPO has made the disallowance in question mainly on the basis of the
+benefit test. In this regard, it is seen that the payment of royalty cannot be
+examined divorced from the production and sales. Royalty is inextricably
+linked with these activities. In the absence of production and sale of
+products, there would be no question arising regarding payment of any royalty.
+Rule 10A(d) of the ITAT Rules defines 'transaction' as a number of closely
+linked transactions. Royalty, then, is a transaction closely linked with
+production and sales. It cannot be segregated from these activities of an
+enterprise, being embedded therein. That being so, royalty cannot be
+considered and examined in isolation on a standalone basis. Royalty is to be
+calculated on a specified agreed basis, on determining the net sales which, in
+the present case, are required to be determined after excluding the amounts of
+standard bought out components, etc., since such net sales do not stand
+recorded by the assessee in its books of account. Therefore, it is our
+considered opinion that the assessee was correct in employing an overall TNMM
+for examining the royalty. The TPO worked out the difference in the PLI of the
+outside party (the assessee) at 4.09% and the comparables at 7.05%. This has
+not been shown to fall outside the permissible range.
+
+34\. The decision of the Tribunal in 'Ekla Appliances', 2012- TII-01-HCDel-
+TP, has been sought to be distinguished by the TPO, observing that the facts
+in that case are not in pari materia with those of the assessee's case.
+However, therein also, the benefit test had been applied by the TPO, as in the
+present case. The matter was carried in appeal before the Hon'ble High Court.
+The Hon'ble Delhi High Court has held that the so-called benefit test cannot
+be applied to determine the ALP of royalty payment at nil and that the TPO
+could apply only one of the methods prescribed under the law. A similar view
+has been taken in 'Sona Okegawa Precision Forgings Ltd.' (supra) and in 'KHS
+Machinery Pvt. Ltd. vs. ITO', 53 SOT 100 (Ahmd) (URO).
+
+35\. It is, thus, seen that the royalty payment @ 3% by the assessee is at
+arm's length. The Technical Collaboration Agreement stands approved by the
+Government of India. The royalty payment has been accepted by the department
+as having been made by the assessee wholly and exclusively for its business
+purposes. For Assessment Years 2004-05 and 2005-06, such payment of royalty
+has been allowed by the CIT (A). As per the FEMA Regulations, royalty can be
+paid on net  32 sales @ 5% on domestic sales and @ 8% on export sales. The
+royalty payment by the assessee falls within these limits. It also falls
+within the limits of payment of royalty in the automobile sector, as per the
+market trend. This payment of royalty is at the same percentage as that paid
+by other auto ancillaries in the automotive industry. Then, in 'Ekla
+Appliances' (supra) and in 'Ericsson India Pvt. Ltd. vs. DCIT',
+2012-TII-48-ITAT-Del-TP, it has been held that royalty payment cannot be
+disallowed on the basis of the so-called benefit test and the domain of the
+TPO is only to examine as to whether the payment based on the agreement
+adheres to the arm's length principle or not. That being so, the action of the
+TPO in the present case, to make the disallowance mainly on the ground of the
+benefit test, is unsustainable in law.
+
+36\. Keeping in view all the above factors, the disallowance made on account
+of royalty is found to be totally uncalled for and it is deleted as such.
+...".
+
+21\. Hence, following the ratio of the Honb'le Delhi High Court in CIT vs. EKL
+Appliances (supra) and various other decisions as noted above and given the
+facts and circumstances of the instant case, we hold that the addition made by
+the TPO and upheld by the DRP is unsustainable and is to be deleted. Hence
+Ground No. 2 is held in favour of the assessee. Hence, the appeal of the
+Revenue ITA.No.1040/Hyd/2011 is dismissed and Assessee's appeal in
+ITA.No.1159/Hyd/2011 is allowed."
+
+6.4 It is noticed that similar view was taken by the Co- ordinate Bench of
+Jaipur in the case of ACIT vs. Sakata Inx (India) Ltd. in ITA
+No.376/Jaipur/2012 vide order dated 14.11.2016.
+
+33
+
+6.5 One more reason given by TPO is with regard to downward adjustment in
+respect of payment of royalty to AE on the reason that royalty payment is in
+excess limit prescribed under the provisions of FEMA, 1999. According to
+ld.D.R, royalty was required to be calculated by the assessee on the basis of
+net ex-factory sale price of products excluding the excise duty, cost of
+standard bought out components and landed cost of imported components etc.,
+irrespective of the source of procurement, including ocean freight, insurance,
+custom duties, etc. However, the assessee has not done so. The assessee has
+claimed that the above condition no longer apply after the issue of RBI
+circular RBI/2009-10/465 A.P.(DIR Series) Circular No.52 dated 13th May 2010
+liberalizing royalty payment under technology collaboration agreements. The
+ld.D.R submitted that there is no merit in the argument of the assessee. These
+conditions are still applicable. Further, such conditions also give a method
+regarding calculation of the amount of royalty to be paid to a foreign entity.
+The method is a good guideline for determination of arm's length payment of
+royalty between two unrelated parties. According to ld.D.R, the downward
+adjustment  34 has been done by the TPO by excluding bought out component for
+the purpose of calculation of royalty. In our opinion, an erstwhile regulatory
+law of FEMA regarding royalty payment was permitted to the tune of 5% on
+domestic sales and 8% in the case of export sales. However, the above said
+ceiling on payment of royalty has been lifted with effect from 16.12.2009 vide
+Circular No.52 dated 13th May 2010, which is reproduced herein below:-
+
+> RESERVE BANK OF INDIA ____ Foreign Exchange Department Central Office Mumbal
+> - 400 001 RB1I2009-1 01465 A. P. (DIR Series) Circular No. 52 May 13, 2010
+> To All Category-I Authorised Dealer Banks Madam I Sir, Foreign Exchange
+> Management Act (FEMA), 1999 -
+
+Current Account Transactions -- Liberalisation Attention of Authorised Dealer
+Category-I (AD Category-I) banks is invited to Foreign Exchange Management
+(Current Account Transactions) Rules, 2000 notified vide Notification
+No.G.S.R.381(E) dated 3rd May 2000, as amended from time to time.
+
+2\. In terms of Rule 4 of the Foreign Exchange Management (Current Account
+Transactions) Rules 2000, prior approval of the Ministry of Commerce and
+Industry, Government of India, is required for drawing foreign exchange for
+remittances under technical collaboration agreements where payment of royalty
+exceeds 5% on local sales and 8% on exports and lump- sum payment exceeds USD
+2 million [item 8 of Schedule Ii to the Foreign Exchange Management (Current
+Account Transactions) Rules, 2000]. The Government of India has reviewed the
+extant policy with regard to liberalization of foreign technology agreement an
+it was decided to omit item number 8 of Schedule II to the Foreign Exchange
+Management (Current Account Transaction) Rules, 2000, and the entry relating
+thereto.  35
+
+3\. Accordingly, AD Category-I banks may permit drawal of foreign exchange by
+persons for payment of royalty and lump-sum payment under technical
+collaboration agreements without the approval of Ministry of Commerce and
+Industry, Government of India.
+
+4\. The amendment to the Foreign Exchange Management (Current Account
+Transactions) Rules, 2000, in this regard has been notified by the Government
+of India vide Notification No.G.S.R.382 (E) dated May 5, 2010 (copy enclosed).
+
+5\. AD Category-I banks may bring the contents of this circular to the notice
+of their constituents and customers concerned.
+
+6\. The directions contained in this Circular have been. issued under Section
+10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and
+is without prejudice to permissions /approvals, ifany, required under any
+other law.
+
+Yours faithfully, (Salim Gangadharan) Chief General Manager-in-Charge MINISTRY
+OF FINANCE (Department of Economic Affairs) NOTIFICATION New Delhi, the 5th
+May, 2010 Foreign Exchange Management (Current Account Transactions)
+(Amendment) Rules, 2010 G.S.R. 382(E)-In exercise of the powers conferred by
+Section 5 and sub- section (1) and clause (a) of sub-section (2) of Section 46
+of the Foreign Exchange Management Act, 1999 (42 of 1999) and in consultation
+with the Reserve Bank, the Central Government, having considered it necessary
+in the public interest, hereby makes the following further amendment in the
+Foreign Exchange Management (Current Account Transactions) Rules, 2000,
+namely:
+
+1\. (1) These rules may be called the Foreign Exchange Management (Current
+Account Transactions) (Amendment) Rules, 2010. (2) They shall be deemed to
+have come into force with effect from the 16th day of December, 2009.
+
+2\. In the Foreign Exchange Management (Current Account Transactions) Rules,
+2000, in Schedule II, item number 8 and the entry relating thereto shall be
+omitted.
+
+Sd/-
+
+Dr. K. P. KRISHNAN Joint Secretary  36 Issued by:
+
+Government of India Ministry of Finance (Department of Economic Affairs), New
+Delhi.
+
+[F.No. 1111EC12004J Explanatory Memorandum:- The Government of India reviewed
+the extant policy with regard to liberalization of foreign technology
+agreement and it was decided to permit, with immediate effect, payments for
+royalty, lump sum fee for transfer of technology and payments for use of
+trademark/brand name on the automatic route. Accordingly, Government of India
+issued a Press Note on 16.12.2009.
+
+Hence, the rule shall be deemed to have come into force with retrospective
+effect, i.e. from 16.122009.
+
+1\. It is certified that no person will be adversely affected by giving
+retrospective effect to these rules.
+
+6.6 In view of this, there is no merit in applying the provisions of FEMA as
+indicated by the TPO and placing reliance on the provision of FEMA is
+incorrect.
+
+6.7 Further, it is to be noted that there cannot be any restriction on payment
+of royalty on bought out components which were subject to further processing
+by the assessee and which was not sold on as is basis to end customers. This
+view of ours is fortified by the decision of the Tribunal in the case of Akzo
+Nobel Chemicals (India) Ltd., in ITA No.1477/Pune/2010 dated 11.02.2014
+wherein held in para -23 that "what is liable to  37 be considered as standard
+bought-out components are such material on which no further processing is
+required and are directly fitted into the final product; and, cost of such
+material only needs to be deducted from the sale price to compute the royalty
+payable. Applying the said clarification to the present situation, considering
+the manufacturing process explained, it cannot be construed that the so-called
+constituent material are merely fitted into the final product; on the
+contrary, it is a case where such material also undergoes a chemical reaction
+in the process of producing the final product and the same are irretrievable
+once the finished product is manufactured. For the said reason also, in our
+considered opinion considered opinion, the so-called 'constituent materials'
+classified by the TPO cannot be equated to standard bought-out components so
+as to reduce their cost from the sales value to compute the royalty payable.
+For all the above reasons, we therefore find no justification on the part of
+the TPO in rejecting the methodology adopted by the assessee to calculate net
+sales for the purpose of computing the royalty payable".
+
+38
+
+6.8 Further, in our considered opinion, the TPO has no jurisdiction to
+interpret the provisions of FEMA and restrict the quantum of royalty. It is
+pertinent to note that the 'bought out components is not defined in FEMA.
+Further, the said term includes only components which are not subject to
+further processing and sold on as is basis to end customers. In the instant
+case, the components procured by the assessee are processed further and
+therefore, the same cannot be excluded from turnover for the purpose of
+computation of royalty. Reliance placed on pra-16 of Tribunal decision in the
+case of Akzo Nobel Chemicals (India) Ltd., in ITA No.1477/Pune/2010 dated
+11.02.2014 wherein held that the examination of controlled transaction should
+ordinarily be based on the transaction as it has been actually undertaken and
+structured by the AE. The TPO should not disregard the actual transaction or
+substitute other transaction for them. The two exceptions which have been
+prescribed are (i) where the economic substance differs from its form; and
+(ii) where the form and substance of the transaction is the same but
+arrangements made in relation to the transaction, viewed in its totality,
+differ from those which would have been  39 adopted by independent enterprises
+be having in a commercially rational manner. In this case, the TPO has
+reworked the royalty payable by the assessee to its AE on the basis of his
+interpretation of the expression "Net Sales" for the purposes of determining
+ALP of the international transaction of royalty payment to the AE, while
+applying the CUP method. The moot point to be considered is whether the action
+of the TPO in interpreting the expression "Net Sales", contained in the
+Foreign Technology Collaboration agreement approved by the Govt. of India,
+differently from what has been understood by the assessee is justified and
+falls within the exceptions provided in the OECD guidelines which permit the
+TPO to re-write the transaction or to disregard actual transactions.
+Considered in the context of the OECD guidelines which have been exhaustively
+referred by the Hon'ble Delhi High Court in the case of EKL Appliances Ltd.,
+(345 ITR241), the impugned situation does not fit into the two exceptions.
+Firstly, neither the Revenue has alleged and nor is there any material on
+record to suggest that the economic substance of the impugned transaction
+differs from its form. Secondly, there is no material on record to suggest
+that  40 there is an arrangement between assessee and the Ae made in relation
+to the impugned transaction which would differ from those which would have
+been adopted by independent enterprises behaving in a commercially rational
+manner. We say so for the reason that the entire gamut of royalty payment by
+the assessee to the AE is in terms of the Foreign Technology Collaboration
+agreement, which is duly approved by Govt. of India in terms of its Policy,
+which is applicable across the spectrum. Moreover, it is not the case of the
+TPO or even of the Revenue before us that the royalty remitted by the assessee
+to the A.E has been found to be inconsistent or violative of the respective
+Government or RBI guidelines or any other authority in law. Further, in our
+considered opinion the royalty prescribed under FEMA are irrelevant for
+transfer pricing purposes. In other words, merely because a payment is not
+restricted under the provisions of FEMA, the said payment cannot be said to be
+at ALP and vice versa. For this purpose, the reliance placed by the ld. A.R in
+the following case law is justified:
+
+i) Oracle India (P) Ltd., Vs. DCIT (386 ITR 1 (Delhi) )
+
+ii) Gruner India (P) Ltd. Vs. DCIT (ITA No.6794/Delhi/2015)  41
+
+iii) A.W.Faber Castell (India) (P) Ltd., Vs. DCIT (ITA No.1027/Mum/2017) dated
+12.04.2017 Accordingly, this ground raised by the assessee in both the appeals
+is allowed.
+
+7\. The next common ground in these appeals is with regard to downward
+adjustment on royalty payment to A.E on the ground that no royalty is
+allowable on turnover pertaining to development of land, substation
+development and erection and commissioning.
+
+8\. The facts of the issue are that for erection and commissioning of WTG the
+Gamesa-Spain provides how the erections are to be done and necessary steps for
+commissioning is provided in the way of manual. Further, Gamesa-Spain has
+developed software called Product Data Management ('PDM') a web based portal,
+which contains such manuals for development, erection and commissioning. A
+guide to access of the portal is attached which enables the users to use such
+manuals. The TPO held that no royalty is payable on revenue pertaining to
+development of land, substation development and  42 erection and
+commissioning. The TPO himself has not disputed the fact that such activities
+require technology support. The only contention raised by the TPO is that such
+activities do not require any technology, which is not available in India.
+
+9\. The ld. AR submitted that the TPO is not correct in holding that no
+technology is required for allied activities such as erection and
+commissioning, development etc. During the course of proceedings before the
+TPO and DRP, the assessee has clearly explained the reasons for requirement of
+technology at different stages including development of land, erection and
+commissioning. The TPO ought to have appreciated that WEG is not a standard
+product to be manufactured based on a tailor made technology. In other words,
+it requires detailed examination right from soil testing, examining the
+appropriateness of wind direction etc. which requires cumbersome technology
+failure of which the entire product would be of no use to the customers.
+Therefore, the action of the TPO and DRP in holding that no royalty is
+required on allied activities such as development of land, erection and
+commissioning etc, is not tenable ion the first place. The ld. AR further
+submitted that  43 the copy of sample reports provided by its AE in relation
+to wind farm development and sample mail correspondences evidencing the fact
+that the assessee has sought the inputs from its AE are also provided.
+
+10\. The ld. DR's submitted that the assessee had claimed royalty on
+substation development charges, development revenues and revenue on erection
+and commissioning of Wind Turbine Generators (WTGs). This issue has been
+discussed in para 9.7 to 11.2 by the TPO, who has after a perusal of the
+agreements relating to the above activities, held that what was being done
+under these categories did not involve any technology transfer and that a
+third party would not have agreed to pay royalty on income arising out of
+common infrastructure activities which do not involve any element of transfer
+of technology. This has not been countered by the assessee. This issue has
+been dealt by the DRP also.
+
+10.1 The ld.D.R, drew our attention to the relevant part of the order of DRP
+for AY 2012-13 which is reproduced as follows: "On the issue of Royalty, the
+TPO examined the Technology Transfer agreements between the assessee and its
+AE and found that the assessee had not been calculating royalty in a manner,
+which a person at arm's length would  44 have done. The royalty was being paid
+even on readymade components bought by the assessee from its AB and for which
+price had separately been paid by it. The TPO has also referred to the "Note
+for guidance of entrepreneurs for foreign and technology transfer under
+Automatic route of RBI" and the "Standard conditions attached to automatic
+approval for foreign investrnent technology agreements" included in the said
+note The relevant part of the same is reproduced as follows "2. (a) The
+royalty will be calculated on the basis of the net ex-factory sale price of
+the product, exclusive of excise duties, minus the cost of the standard
+bought- out components and the landed cost of imported components,
+irrespective of the source of procurement including ocean freight insurance,
+custom duties, etc. The payment of royalty will be restricted to the licensed
+capacity plus 25% in excess thereof for such items requiring industrial
+licence or on such capacity as specified in the approval letter. This
+restriction will not apply to items not requiring industrial licence. In case
+of production in excess of this quantum, prior approval of Government would
+have to be obtained regarding the terms of payment of royalty in respect of
+such excess production.
+
+(b) The royalty would not be payable beyond the period of the agreement f the
+orders had not been executed during the period of agreement. However, where
+the orders themselves look a long time to execute, then the royally for an
+order booked during the period of agreement, but executed after the period of
+agreement, would be payable only after a Chartered Accountant certifies that
+the orders in fact have been firmly booked and execution began during the
+period of agreement and the technical assistance was available on a continuing
+basis even after the period of agreement
+
+(c) No minimum guaranteed royalty would be allowed.
+
+3\. The lump sum shall be paid in three installments as detailed below, unless
+otherwise stipulated in the approval letter:- First 1/3 rd after the approval
+for collaboration proposal is obtained from the Reserve Bank of India and
+collaboration agreement is filed with the Authorized Dealer in Foreign
+Exchange.
+
+Second 1/3rd on delivery of know-how documentation.  45 Third and final 1/3rd
+on commencement of commercial production, or four years after the proposal is
+approved by the Reserve Bank of India and agreement is filed with the
+Authorised Dealer in Foreign Exchange, whichever is earlier." 3.2 Thus the
+royalty was required to be calculated by the assessee on the basis of the net
+ex-factory sale price of the product, exclusive of excise duties, minus the
+cost of the standard bought-out components and the landed cost of imported
+components, irrespective of the source of procurement, including ocean
+freight, insurance, custom duties, etc. However, the assessee has not done so.
+The assessee has claimed that the above conditions no longer apply after the
+issue of RBI circular RBI/2009-10/465 A.P (DIR Series) Circular No.52 dated
+13th May 2010 liberalizing Royalty payment under technology collaboration
+agreements. However, this argument of the assessee does not have any merit.
+These conditions are still applicable. Further, such conditions also give a
+method regarding calculation of the amount of royalty to be paid to a foreign
+entity. The method is a good guideline for determination of arm's length
+payment of royalty between two unrelated parties. Considering above there is
+merit in the downward adjustment as done by the TPO by excluding bought out
+components for the purposes of calculation of royalty. The objection of the
+assessee on this issue is thus not accepted.
+
+3.3 The next objection of the assessee is in relation to the adjustment done
+by the TPO by considering that royalty is not to be paid on revenue from
+erection and commissioning and development of land. The assessee has made
+detailed submissions on these issues. The submissions of the assessee have
+duly been considered. The issue has been discussed by TPO in para 12 and 13 of
+his order. The issue has duly been confronted to the assessee by the TPO and
+the objections of the assessee have been dealt in detail in the order. The TPO
+has examined the agreement between the assessee and its customers to bring out
+as to how the work performed by the assessee did not require use of any
+special technology, for which the payment of royalty could be considered. The
+assessee has put unnecessarily stress on the words "manufacture, sell, install
+& commission and carry out O&M activities and use all technical documents,
+drawings, type certificates" in its agreement with AB, for claiming  46 that
+the royalty is meant for "install & commission" technology also. However, the
+observation of the TPO that these words have been used in generic sense only
+and are meant to indicate the activities that would follow the transfer of
+technology, deserve special consideration e.g. the words include "sell"
+however the assessee has not replied as to how the transfer of technology was
+linked to the sale of its products and how the same has been used by it for
+sale of its products. Similarly, how separate technology for O&M activities is
+required when the assessee has already got the entire technology for the
+manufacture of the product. The assessee has not explained as to how the
+technology could have been transferred without technical documents, drawings,
+type certificates etc. So reliance of the assessee on these words in the
+agreement to support its claim, is totally misplaced. The action of the TPO is
+found to be correct and the objection of the assessee on this issue is not
+accepted." 10.2 Further, ld.D.R submitted that during the year under
+consideration, the issues regarding royalty payment on bought out components,
+royalty on substation development charges, royalty on development revenue and
+royalty on erection & commission charges remain same as for the AY 2012-13.
+Since the facts remain the same, there is no reason to differ with the order
+on the same issues for AY 2012-13 and the DRP concurs with the reasoning given
+by the DRP for AY 2012-13 for rejecting the objections of the assessee. In
+addition to the reasoning of DRP for AY 2012-13, as regards the issue of
+Royalty payment on bought out components, the assessee was asked (order sheet
+entry 23.02.2017) by the Panel to  47 explain as to whether any Royalty is
+paid by the various group companies to Gamesha Innovation & Tech (GIT), the
+owner of IPR, as such companies were using the technology owned by GIT in the
+process of manufacturing the component being supplied to the assessee.
+According to ld.D.R, in the written submissions dated 15.03.2017, the assessee
+submitted that as per its Group Policy, the royalty is not required to be paid
+if sales are made to the group companies and same is charged only when the
+sales are made to the outside parties. To support its claim the assessee
+produced copy of some selected pages of a document titled 'Gamesha Group
+Transfer Priing-2014 and the following Years' before DRP. This document, as
+the title suggests, is not relevant for the year under consideration i.e. F.Y.
+2010-11. The assessee could not explain as to how this document was relevant
+for the year under consideration and why it could not produce the complete set
+of the relevant documents. So no cognizance can be taken of this document.
+Further, no other documents were produced by the assessee to substantiate its
+claim that GIT was not charging any royalty from the company's manufacturing
+the  48 components. If it is considered the concept of arm's length price, GIT
+would be charging Royalty from the manufacturers utilizing its technology and
+the selling price of these manufacturers (which is cost price of the
+components for the assessee) will already be loaded with cost related to
+royalty. So in an arm's length scenario: payment of royalty on bought out
+components would not make any business logic other than unduly benefitting the
+AE. In fact, even as per the agreement between the assessee and GIT, the
+royalty is to be paid 'to manufacture, sell, install & commissioning and carry
+out O&M activities', however the bought-out components are not at all
+manufactured, but the same are just purchased and then sold. So the issue of
+payment of royalty on the same would not arise even as per terms of the
+agreement. The assessee has made request for admission of certain additional
+evidences before this Panel.
+
+11\. We have heard both the parties and perused the material on record. The
+assessee claimed royalty of 4% on revenue generated from erected and
+commission, which worked out at `2,96,65,850/- for assessment year 2011-12 and
+a sum of  49 `5,98,47,389/- for assessment year 2012-13. The ld. Assessing
+Officer after going through the agreement entered into by the assessee with
+the customer in this respect and scope of work agreed to perform by the
+assessee to its customers, was of the opinion that it does not involve any
+application of technology transferred to the assessee by the AE for which the
+assessee is depending on the AE as part of the Technology Transfer Agreement.
+Therefore, the claim of arm's length price on royalty claimed on development
+of revenue was determined as 'Nil'. Before us, the assessee explained the
+activities, which involved high degree of expertise and cannot be undertaken
+directly by semi-skilled or unskilled workmen, which is as follows:-
+
+Wind farm development Erection & Commissioning
+
+\- Providing guidelines to use Environmental sustainability tools
+
+\- Visual aspects - Validation of foundation
+
+\- Ecology/architectural protection designs
+
+\- Training topersonnel of Gamesa India at the time of Technical
+sustainability development of new
+
+\- Wind speed prototypes.
+
+    
+    
+      - -Grid connection
+      - -Providing drawings and design     -   Supervisory control and Data
+      -                                        acquisition (SCADA) - for
+                                               monitoring WTG throughout
+      Professional support                     the year on remote basis.
+      -Conceptual design
+      -Design Verifiction                  Process explained in detail in page
+      -Process validation                  425 to 428 of paper book volume-2
+                                    50
+    
+      -Wind measurement and assessment
+    
+    
+    
+    
+                 Nature of services rendered by Gamesa Spain.
+    
+    Erections:
+    
+    
+
+For erection WTC, all the technical support for crane capacity and erection
+procedure and safety procedures, validating the site conditions are provided.
+
+Tools For erection the guidelines to use erecting tools are provided and the
+necessary validation of such tools are done by GCT.Training All necessary
+training at the time of development of new prototype.
+
+Transportation Moving blade from factory to the work site is a difficult job
+owing to the bulk nature of blades. The wind farms are generally located in
+hilly areas which warrant constructing proper approach roads with curvature.
+The needed technical support for building approach roads is provided.
+
+SCDA Supervisory Control and Data Acquisition (SCDA) is the remote monitoring
+equipment of wind turbines; it helps to monitor the  51 WTC all throughout the
+year. The necessary software training on how to maintain the equipment are
+provided by Gamesa-Spain. WTG Manufacturing & Erection & Commissioning All
+necessary drawing and required part are provided by GIT with the common tool
+of PDM the necessary document is attached herewith.
+
+Erection & Commissioning:-
+
+Foundation Validation of foundation designs are done by GIT. Each and every
+change in type of wind turbines requires necessary changes according to
+different foundations which are based the bearing capacity of soil. The
+necessary base drawings are approved through engineering department. The
+necessary standard details are to be provided for the same by Gamesa- Spain.
+Suggesting type of foundations based on the site conditions. Problems solving
+during construction as necessary An extract from the execution and quality
+control manual is given below Gamesa Instruction Code: ICA-1-011 Execution and
+quality Previous code:
+
+    
+    
+                          control for wind turbine
+                          foundations
+      Version:1           Language : EN              Page :1 of 37
+      Date:03/06/2011     Security      : Public
+                                         52
+    
+                               classification
+    
+    
+    
+    
+
+The aim is to define the control activities for the design and validation of
+foundations and to develop, in detail, the activities to be carried out for
+the execution o the slab or pile cap at the wind farm. This instruction
+applies to all shallow or deep foundations with piles in situ or micorpiles of
+Gamesa 850 dw and Gamesa 2.0 MW standard type wind turbines (with welded
+foundation section) and for those in which the farm is supplied concrete from
+a factory.
+
+Construction Operations:
+
+Erecting wind turbines requires the efforts of many skilled construction
+workers. The work begins before the turbine components arrive on site:
+construction laborers and construction equipment operators are responsible for
+building local access roads and the foundations that support the turbines.
+Based on the experience Gamesa Spain provide know-how on, how to build the
+access roads, transport the wind turbine blades across remote places which
+more challenging. They also provide the technical feasibility to approach the
+site.  53 After the turbine components arrive, crane operators set the first
+tower segment vertically onto the ground, where other workers secure it to the
+foundation. The remaining tower segments are then stacked atop one another and
+fastened together. When the tower has been erected, crane operators carefully
+lift the nacelle and the blades. The nacelle is placed on the top of the tower
+and the blades are attached to the turbine's hub.
+
+Construction labourers often work on wind farms as contractors and are
+responsible for preparing the site and building the surrounding
+infrastructure. Their work includes clearing tress and debris from the wind
+farm, cleaning machines, and helping to break up the ground on which the
+turbine will rest. Construction workers employed by companies that specialize
+in developing wind farms are sometimes in supervisory roles. They might work
+under the project manager to direct local contractors and confirm that all on-
+site work is performed safely and correctly. These workers might also be
+trained as wind turbine service technicians.
+
+Construction equipment operators, with the help of construction laborers, are
+responsible for building accessible roads directly to  54 the construction
+site, helping ensure that the wind turbine components can arrive without
+damage or delay. They use bulldozers, road graders and other equipment to set
+up the construction site.
+
+Crane operators are necessary in building a wind farm because the components
+are so large. They use their cranes to lift the pieces of the turbine off the
+trucks as they arrive. Crane operators are integral to the actual construction
+job, as well. For example, they operate cranes to stack the tower segments and
+life the blades to the hub.
+
+Electricians are needed to get the energy from the turbine's generator to the
+power grid on the ground. They wire the turbine to connect its electrical
+system to the power grid. When installing wiring, electricians use hand tools
+such conduit benders, screwdrivers, pliers, knives, and wire strippers, as
+well as power tools such as drills and saws. Support of Gamesa- Spain entities
+is drawn in all the above aspects of operations. Education andTraining:
+
+Although some construction labourer jobs have no specific education or
+training requirements, some construction workers  55 receive more formal
+training in the form of apprenticeships. These programs consist of several
+years of classroom and on the job training. High school classes in English,
+mathematics, physics, mechanical drawing, blueprint reading, welding and
+general shop can be helpful to prepare for the apprenticeships. Many
+construction labourers' skills are learned on the job and by assisting more
+experienced workers.
+
+Local contractors may or may not have worked with wind turbines before.
+However, construction workers and wind turbine service technicians employed by
+companies specializing in wind farm development handle the more technical
+operations and usually have extensive experience in the wind industry.
+Construction equipment operators and crane operators learn their skills
+through on-the-job training, apprenticeships, or, for some, union instruction.
+In addition, the operators are expected to be certified to operate their
+equipment. Crane operators need to be highly skilled, especially when handling
+large, expensive cargo like wind turbine components. Most electricians learn
+their trade through apprenticeship programs that combine on-the- job training
+with related classroom instruction. Apprenticeship  56 programs usually last 4
+years, and, in them, electricians learn skills such as electrical theory,
+blueprint reading, electrical code requirements, and soldering. Depending on
+the State, electricians might have to pass an examination that tests their
+knowledge of electrical theory, the National Electrical Code, and local and
+State electrical and building codes. For this connection Gamesa --Spain
+empowers the company to able to conduct training programs for their employees
+as well as contractors, so that skilled work force is available to them.
+
+Project Managers It takes a large number of people to build a wind farm, and
+managing the project can be a difficult task. Project managers oversee the
+construction of the wind farm from site selection to the final installation of
+turbines. A project manager will oversee a diverse team, including engineers,
+construction workers, truck drivers, crane operators, and wind technicians.
+Project managers must have excellent attention to detail and be good at time
+and resource management.
+
+Project managers usually have experience in construction and management or in
+engineering. They must be familiar with all  57 aspects of wind farm
+development: from budgeting, site selection, site studies, and permitting
+processes and safety policies to construction and transportation of wind
+turbines. Project managers are employed by larger construction companies,
+energy companies, or land owners and work under contract or as salaried
+employees. Because of the size and complexity of some wind farms, project
+managers may manage portions of the construction, such as site clearing,
+foundation construction, or tower erection These Managers report to a senior
+project manager or site manager.
+
+Project managers split their time between the wind farm site and their office,
+which may be located onsite or offsite. Primary office responsibilities
+include managing permitting, contracting, and the budget. At the construction
+site, the project manager monitors progress and performs inspections for
+quality control. Project managers oversee the contracting process and manage
+various contractors and subcontractors. They are responsible for promoting a
+safe work environment and ensuring strict adherence to site safety policies.
+
+EDUCATION AND TRAINING  58 Experience in construction, particularly wind farm
+construction, is vital for project managers. Most managers have experience
+working on several wind farm projects before they are selected to manage one.
+Education is becoming important, and most project managers hold a bachelor's
+degree or higher in construction management, business management, or
+engineering. Advanced degrees, such as an MBA, are becoming more common.
+Because experience is so important for these positions, years of experience
+may substitute for some educational requirements. However, this is becoming
+increasingly rare, as projects grow more complex and employers place more
+emphasis on specialized education. New graduates from construction management
+or engineering programs may be hired as assistants to project managers to gain
+experience. Towards empowering the project managers, Gamesa-Spain helps the
+company in providing suitable training to the staff.
+
+    
+    
+            Gamesa              Guideline                Code: GDE-TEC-004
+                           Short circuit claculations    Previous code: N/A
+      Edition:1            Language :                    Page :1 of 133
+      Date:14/02/2012      Security       : Public
+                           Rating
+                                    59
+    
+    
+    
+
+The above guidelines are explaining how to proceed with the calculations of
+short-circuits currents and its connection with cable sizing and protective
+devices sizing documents. It is important to know the correct application of
+the various short- circuit ratings by the circuit designer, in order to avoid
+leaving a circuit or equipment with inadequate cable size or over-current
+protection device. This guideline analyses the calculation method described in
+the IEC 60909 standard and is compared with the procedures described in IEC
+61363-1. This guide is directly linked with ETAP to let the designer a more
+practical view of the design.
+
+    
+    
+            Gamesa              Guideline           Code: GDE-TEC-002
+                           Cable Sizing Guideline   Previous code: N/A
+      Edition:1            Language :               Page :1 of 57
+      Date:14/02/2012      Security     : Public
+                           Rating
+    
+    
+    
+    
+
+The aim of this document is to write down a guideline for sizing the following
+cable types:
+
+Power medium voltage, power low voltage, and supply low voltage cables,
+considering the corresponding IEC and NEC Standards. Additionally, a detail
+study about how to proceed with Cable Sizing in ETAP software is written down.
+The  60 limitations of the software are explained as well as the procedure of
+sizing all the cables.
+
+Usage of SCADA SCADA is the equipment which will monitor the each and every
+wind turbine from the necessary training for software usage and equipment
+handling are provided by them.
+
+11.1 It is brought to our notice that the TPO himself has agreed that such
+activities required technology support. The only contention raised by the TPO
+is that such activity did not require any technology, which is available in
+India. In other words, the contention of the TPO is that required technology
+for this activity is available in India. In our opinion, it is not the
+prerogative of TPO to decide whether the assessee should have used the
+technology provided by its AE or not. It is to be noted that assessee
+developed wind farms, installed and commissioned WGS on the basis of input
+provided by its AE. The AE has vast experience in implementing such projects
+across global and therefore, the assessee obtained expertise knowledge from AE
+in order to ensure better quality to its customers. In our opinion, the TPO
+cannot question commercial expediency of incurring  61 any expenditure by the
+assessee as held by the following judgments:-
+
+a) In the case of Hive Communication (P) Ltd., Vs. CIT in 353 ITR 200(Delhi)
+
+b) In the case of CIT Vs. EKL Appliances Ltd. in 345 ITR 241(Delhi)
+
+c) In the case of CIT Vs. computer Graphic Ltd. in 155 Taxman 612 (Mad.) 11.2
+Further, once the TNMM has been applied for the transaction and it covered
+under its ambit the royalty transaction in question. A separate analysis and
+consequent deletion of royalty payment is unwarranted. Placing reliance in the
+case of Magneti Marelli Powertrain India (P) Ltd., Vs, DCIT wherein held
+that:-
+
+> 17\. As far as the second question is concerned, the TPO accepted TNMM
+> applied by the assessee, as the most appropriate method in respect of all
+> the international transactions including payment of royalty. The TPO,
+> however, disputed application of TNMM as the most appropriate method for the
+> payment of technical assistance fee of Rs.
+
+> 38,58,80,000 only for which Comparable Uncontrolled Price ("CUP") method was
+> sought to be applied. Here, this court concurs with the assessee that having
+> accepted the TNMM as the most  62 appropriate, it was not open to the TPO to
+> subject only one element, i.e payment of technical assistance fee, to an
+> entirely different (CUP) method. The adoption of a method as the most
+> appropriate one assures the applicability of one standard or criteria to
+> judge an international transaction by. Each method is a package in itself,
+> as it were, containing the necessary elements that are to be used as filters
+> to judge the soundness of the international transaction in an ALP fixing
+> exercise. If this were to be disturbed, the end result would be distorted
+> and within one ALP determination for a year, two or even five methods can be
+> adopted. This would spell chaos and be detrimental to the interests of both
+> the assessee and the revenue. The second question is, therefore, answered in
+> favour of the assessee; the TNMM had to be applied by the TPO/AO in respect
+> of the technical fee payment too.
+
+11.3 A similar view was taken by Co-ordinate Bench of Hyderabad in the case of
+DCIT Vs. Air Liquid Engineering India (P) Ltd., in 43 Taxmann.com 229 wherein
+held that:-
+
+20\. Furthermore, we are of the opinion that once TNMM has been applied to the
+assessee company's transaction, it covers under its ambit the Royalty
+transactions in question too and hence separate analaysis and consequent
+deletion of the Royalty payments by the TPO in the instant case seems
+erroneous. We draw support from the Hon'ble Mumbai ITAT decision, Cadbury
+India Ltd. vs. ACIT (ITA No  63 7408/Mum/2010 and ITA No.7641/Mum/2010 dated
+13-11-2013) wherein the Hon'ble ITAT upheld the use of TNMM for Royalty as
+well as relied on many of the above decisions to hold adjustment by TPO was
+erroneous:
+
+"33. The TPO has made the disallowance in question mainly on the basis of the
+benefit test. In this regard, it is seen that the payment of royalty cannot be
+examined divorced from the production and sales. Royalty is inextricably
+linked with these activities. In the absence of production and sale of
+products, there would be no question arising regarding payment of any royalty.
+Rule 1 OA(d) of the ITAT Rules defines 'transaction' as a number of closely
+linked transactions. Royalty, then, is a transaction closely linked with
+production and sales. ft cannot be segregated from these activities of an
+enterprise, being embedded therein. That being so, royalty cannot be
+considered and examined in isolation on a standalone basis. Royalty is to be
+calculated on a specified agreed basis, on determining the net sales which, in
+the present case, are required to be determined after excluding the amounts of
+standard bought out components, etc., since such net sales do not stand
+recorded by the assessee in its books of account. Therefore, it is our
+considered opinion that the assessee was correct in employing an overall TNMM
+for examining the royalty. The TPO worked out the difference in the PU of the
+outside party (the assessee) at 4.09% and the comparables at 7.05%. This has
+not been shown to fall outside the permissible range.
+
+34\. The decision of the Tribunal in 'Ekla Appliances', 2012- TH-01-HCDe1- TP,
+has been sought to be distinguished by the TPO, observing that the facts in
+that case are not in pan matena with those of the assessee's case. However,
+therein also, the benefit test had been applied by the TPO, as in the present
+case. The matter was carried in appeal before the Hon'ble High Court. The
+Hon'ble Delhi High Court has held that the so-called benefit test cannot be
+applied to determine the ALP of royalty payment at nil and that the TPO could
+apply only one of the methods prescribed under the law. A similar view has
+been taken in 'Sona Okegawa Precision Forgings Ltd.' (supra) and in 'KHS
+Machinery Pvt. Ltd. vs. ITO', 53 SOT 100 (Ahm) (URO).
+
+35\. It is, thus, seen that the royalty payment @ 3% by the assessee is at
+arm's length. The Technical Collaboration Agreement stands approved by the
+Government of India. The royalty payment has been accepted by the department
+as having been made by the assessee wholly and exclusively for its business
+purposes. For Assessment Years 2004-05 and 2005-06, such payment of royalty
+has been allowed by the CIT (A). As per the FEMA Regulations,  64 royalty can
+be paid on net sales @ 5% on domestic sales and @ 8% on export sales. The
+royalty payment by the assessee falls within these limits. ft also falls
+within the limits of payment of royalty in the auto mobile sector, as per the
+market trend. This payment of royalty is at the same percentage as that paid
+by other auto ancillaries in the automotive industry. Then, in 'Ekia
+Appliances' (supra) and in 'Ericsson India Pvt. Ltd. vs. DCIT',
+2012-TII-48-ITAT-Del- TP, it has been held that royalty payment cannot be
+disallowed on the basis of the so-called benefit test and the domain of the
+TPO is only to examine as to whether the payment based on the agreement
+adheres to the arm's length principle or not. That being so, the action of the
+TPO in the present case, to make the disallowance mainly on the ground of the
+benefit test is unsustainable in law.
+
+36\. Keeping in view all the above factors, the disallowance made on account
+of royalty is found to be totally uncalled for and it is deleted as such. ...
+".
+
+21\. Hence, following the ratio of the Honb'le Delhi High Court in CIT vs. EKL
+Appliances (supra) and various other decisions as noted above and given the
+facts and circumstances of the instant case, we hold that the addition made by
+the TPO and upheld by the DRP is unsustainable and is to be deleted. Hence
+Ground No. 2 is held in favour of the assessee. Hence, the appeal of the
+Revenue ITA.No.1040/Hyd/2011 is dismissed and Assessee's appeal in
+ITA.No.1159/Hyd/2011 is allowed." 11.4 Being so, in our opinion, there is no
+question of downward adjustment towards on royalty payment to AE on the ground
+that no royalty is allowable on turnover pertained to development of land,
+substation development and erection and commissioning. This ground of assessee
+in both the appeals is allowed.  65
+
+12\. The next ground for the asst. year 2011-12 is with regard to downward
+adjustment in respect of royalty paid pertaining to the turnover of preceding
+year.
+
+13\. The facts of the issue as noted by the Authorities are that the
+technology agreement is dated 1st April, 2010 and therefore, it is valid only
+with effect from that date. Going by the rational business behavior of
+economic activities, no royalty would have been otherwise paid to an unrelated
+party. No business entity would willfully impose on itself any financial
+obligation for a period for which there was no legal obligation.
+
+14\. The ld. AR submitted that the Technology Transfer Agreement has been
+signed on 1st January 2009. Further, the ld. AR submitted that the TPO has not
+disputed the fact that the assessee utilized the technology of the AE during
+the preceding year. Further, the expenditure has not been booked during the
+preceding year on account of the fact that the invoice has been received from
+its AE only during the subject asst. year. Therefore, according to the ld. AR,
+the contention of the TPO that such expenditure is unwarranted is baseless.
+66
+
+15\. The ld.D.R submitted that the assessee had claimed royalty on substation
+development charges, development revenues and revenue on erection &
+commissioning of wind turbine generator (WTG5). This issue has been discussed
+by the TPO in paras 9.7 to 11.2 of his order. He has after the perusal of
+Agreements relating to the above activities, held that what was being done
+under these categories did not involve any technology transfer and that a
+third party would not have agreed to pay royalty on income arising out of
+common infrastructure activities which do not involve any element of transfer
+of technology. This has not been countered by the assessee. This issue has
+been dealt with by the DRP in its order dt 24.03.2017 in para 4.1 & 4.2.
+Further, the assessee had claimed before the DRP that it was normal practice
+to have some products as ex- works at the end of the year and the royalty
+accrues only on the execution. The DRP has asked the assessee to furnish
+details of such ex-works products for the F.Y 2010-11 which were carried over
+and the assessee had admitted that there were no such carry over either in the
+F.Y 2010-11 or later years. In short, the assessee could not prove that such
+carryover were normal in its  67 line of business. The assessee has not been
+able to explain as to why royalty was paid for prior period sales when the
+agreement itself had come into effect only from 01-04-2010. This has been
+recorded by the DRP in para 4.4 of its order dt 24.03.2017.
+
+16\. We have heard both the parties and perused the material on record. In
+this case, the Technology Transfer Agreement has been signed on 1st January,
+2009. The assessee utilized the technology of the A.E during the preceding
+year. However, no expenditure was booked by the assessee on the reason that no
+invoice has been received from its AE during the preceding assessment year.
+The assessee claimed that all the sales in F.Y 2009-10 were EXWORKS,
+installation of which was completed y it in F.Y 2010-11. The assessee paid the
+royalty in the year in which installation and commissioning was completed.
+Before TPO, the assessee not furnished the details of "product sold date" and
+EXWORK" details in relation to each supply agreement along with the copies of
+relevant agreement for the Financial years 2009-10 to 2012-13 and it was also
+not proved that there was carry forward one year to another year. Before the
+DRP,  68 there was no details provided by the assessee regarding date of
+installation and only furnished the product sold date for F.Y 2009-10 and no
+such details of other years were provided and the assessee failed to
+substantiate its own claim. Before us, the ld. A.R made a plea that since the
+invoice has been received from the AE during the assessment year under
+consideration, it was subject to TDS and it is to be allowed. In our
+considered opinion, if the expenditure was crystallized and accrued in the
+assessment year under consideration, the same is to be allowed subject to
+deduction of TDS as held by Delhi High Court in the case of SMCC Construction
+India (ITA No.12/2010, dated 15.01.2010). Similar view was taken by Tribunal
+in the case of i)Termo Penpol Ltd., (ITA No.410/coch/2014 dt.12.12.2014) and
+ACIT Vs. M/s.Ennore Coke Ltd.,(ITA No.1921/Mds./2015 dt.22.01.2016). The
+assessee has to furnish the details of product sold date and date of
+completion of installation work with corresponding agreements. The A.O/TPO
+should examine the same and decide the issue in the light of above judgments.
+This ground is remitted to the file of AO for fresh consideration.
+
+69
+
+17\. The next common ground in these appeals is with regard to downward
+adjustment in respect of management fee. 17.1 The assessee filed the following
+additional evidences for A.Y 2012-13 and submitted that the assessee could not
+foresee the requirement of the tax authorities and DRP, therefore the assessee
+did not specifically submit the details of allocation of management fee:-
+
+    
+    
+       Sl. No.     Particualrs
+       1           Statement showing allocation of management fees
+       2           List of invoices raised on group entities by Gamesa
+    
+
+Corporation Technological SA Spain(Gamesa Spain) for the calendar year 2011 3
+Sample copy of invoices raised on Gamesa goup entities by Gamesa spain It was
+submitted by ld. A.R that only pursuant to the observations of the DRP in the
+order dated 26th November, 2016, the assessee understood the requirement of
+authorities and therefore, filed the above information before this Tribunal.
+It was also submitted that non-submission of the above details before the ld.
+Assessing Officer/TPO/DRP is neither intentional nor wanton. He drew our
+attention to the decision of Tribunal in the case of Abhay Kumar Shroff Vs.
+I.T.O in (1997) 63 ITD 144 wherein held that "if the documents sought to be
+admitted even at second appellate stage are of a nature and qualitatively such
+that they render assistance  70 to Tribunal in passing orders or are required
+to be admitted for any 'other substantial cause', it would rather be duty of
+Tribunal to admit them. Such proposition has been laid down further by Delhi
+High Court in the case of CIT vs. Text Hundred India (P) Ltd., in 351 ITR 57
+wherein held that the Court has held that Rule 29 categorically permits the
+Tribunal to allow such additional evidences for proper adjudication of the
+matter and in the interest of substantial cause.
+
+17.2 The ld.D.R was of the view that the assessee has not given any
+justification for admission of these additional evidences at this stage. The
+assessee was asked for the reasons of not producing these documents before the
+TPO. In response to this assessee only submitted that the TPO did not make any
+specific request for production of these documents and so the same were not
+produced before the TPO. The assessee submitted that since the DRP rules allow
+submission of additional evidence, so the same should be admitted. The
+assessee has failed to give any reason for not furnishing these documents
+before the TPO to support its case. The assessee has not given any explanation
+as to what prevented it from producing such documents before the TPO at  71
+the time of transfer pricing proceedings before the TPO, especially when
+sufficient opportunity of being heard was given to it by the TPO. The onus was
+on the assessee to produce all such relevant documents before the TPO, which
+in its opinion could support its case. However, the assessee failed to do so.
+The assessee has not brought anything on record to show that the documents
+could not have been produced by it before TPO despite its best efforts
+Admission of the additional evidence cannot be claimed as a matter of right
+and it is the duty of the assessee to explain the circumstances which
+prevented it from submitting such documents before the lower authorities.
+Since the assessee failed to provide sufficient cause to furnish these,
+documents before the TPO, the same cannot be admitted at this stage.
+
+17.3. The ld.D.R, by placing reliance in the judgment of ITAT, Bangalore in
+case of Anupam Kothar in ITA No 837 (Bang) 2012 held that for admission of
+additional evidence, it is required for the assesse to show that authorities
+had decided its grounds without giving sufficient opportunity to adduce
+evidence. Considering above the request of assessee for admission of
+additional evidences is not accepted. Even on merits, these additional  72
+evidences the assessee has not explained as to how the said document was
+relevant to its case, which relates to F.Y 2011-12, The TPO has not disputed
+that the assessee is carrying out the business of setting up of Wind Turbines.
+The TPO has only disputed the payment of royalty on certain sales/activities.
+These documents do not at all contradict the same. The ld.D.R submitted that
+in view of the above, the action of the TPO cannot be faulted with and the
+objections of the assessee are not accepted. 17.4 We have heard both the
+parties and perused the material on record. In view of the observation of the
+DRP, the basic evidence to support the claim of cost incurred at the A.E's end
+are not available for verification. This is the very minimum that the TPO
+required to investigate and to establish whether the cost floated as per pre-
+determined keys is reasonable / legitimate or not. No evidence from the books
+of the AE with regard to cost, both direct and indirect, and primary documents
+maintained by AE in support of this claim in its books, has been produced by
+the assessee either before TPO or DRP on this issue. Now, the assessee
+produced the details as stated above. In our considered opinion, in view of
+the judgment of Supreme Court in the case of  73 National Thermal Power Co.
+Ltd Vs. CIT [(1998) 229 ITR 0383] wherein it was held that:-
+
+"Under s. 254 the Tribunal may, after giving both the parties to the appeal an
+opportunity of being heard, pass such orders thereon as it thinks fit. The
+power of the Tribunal in dealing with appeals is thus expressed in the widest
+possible terms. The purpose of the assessment proceedings before the taxing
+authorities is to assess correctly the tax liability of an assessee in
+accordance with law. If, for example, as a result of a judicial decision given
+while the appeal is pending before the Tribunal, it is found that a non-
+taxable item is taxed or a permissible deduction is denied, there is no reason
+why the assessee should be prevented from raising that question before the
+Tribunal for the first time, so long as the relevant facts are on record in
+respect of that item. There is no reason to restrict the power of the Tribunal
+under s. 254 only to decide the grounds which arise from the order of CIT(A).
+Both the assessee as well as the Department have a right to file an
+appeal/cross- objections before the Tribunal. Tribunal should not be prevented
+from considering questions of law arising in assessment proceedings although
+not raised earlier.--Jute Corporation of India Ltd. vs. CIT (1990) 88 CTR (SC)
+66 : (1991) 187 ITR 688 (SC) : TC 7R.343 applied; CIT vs. Anand Prasad (1981)
+128 ITR 388 (Del) : TC 8R.1021, CIT vs. Karamchand Premchand (P) Ltd. (1969)
+74 ITR 254 (Guj) : TC 8R.547 and CIT vs. Cellulose Products of India Ltd.
+(1985) 44 CTR (Guj) 278 (FB) : (1985) 151 ITR 499 (Guj)(FB) : TC 8R.965
+overruled.
+
+(Para 3) The view that the Tribunal is confined only to issues arising out of
+appeal before the CIT(A) takes too narrow a view of the powers of the
+Tribunal. Undoubtedly, the Tribunal will have the discretion to allow or not
+allow a new ground to be raised. But where the Tribunal is only required to
+consider a question of law arising from the facts which are on record in the
+assessment proceedings such a question should be allowed to be raised when it
+is necessary to consider that question in order to correctly assess the tax
+liability of an assessee."
+
+Hence, it is appropriate to admit the same as additional evidence for
+adjudication for the assessment year 2012-13.  74
+
+18\. The facts of the issue are that the assessee has entered into a Service
+Agreement dated 1st April, 2010 with Gamesa Corporation Technologica SA ('GCT
+Spain) for availing the following services from GCT Spain:
+
+> 1\. General management services
+
+> 2\. Internal audit and risk services
+
+> 3\. Legal services
+
+> 4\. Commercial, marketing and promotion services
+
+> 5\. Financial management services
+
+> 6\. Operations management services
+
+> 7\. Business development services
+
+> 8\. Human capital management services 18.1 During the course of proceedings
+> before the TPO and DRP, the assessee filed detailed submissions inter-alia
+> encompassing the following points:
+
+> 1\. The rationale for availing the services from the AE;
+
+> 2\. Copy of the management services agreement;
+
+> 3\. The documentary evidences / justifications to demonstrate that the
+> assessee has indeed received the services in the form of email exchanges
+> between the assessee and the AE;
+
+> 4\. Summary of the benefits received by the assessee on account of receipt
+> of services;
+
+> 5\. Details of department wise management charge along with the basis of
+> allocation of costs;
+
+> 6\. Detailed workings pertaining to derivation of allocation rate per hour;
+
+75
+
+> 7\. Corroborative benchmarking analysis conducted by the assessee with AE as
+> the tested party, to demonstrate the arm's length nature of pricing of the
+> international transaction.
+
+18.2 The assessee also submitted a detailed note on the various services
+availed by them under the terms of the agreement. Further, it was also
+submitted before the TPO that the AE party had identified the nature of
+stewardship/shareholder activities in each of the above department/services
+and such costs was excluded and not charged back to the assessee. Since the
+commercial value of such services was not quantifiable in exact monetary
+terms, the assessee on identification of above services, excluded the cost of
+stewardship/shareholding activity in the range of 20 percent to 50 percent
+depending on the close nature of activities.
+
+18.3 The TPO computed the ALP of management fee to be Nil citing the
+followings reasons:
+
+• The scenario is one of control and hold exercised by the AE over the
+affiliates rather than in the form of any services rendered. The costs
+incurred by the holding company are charged to affiliates globally on some
+basis on the  76 assumption that the AEs exist for the benefit of the
+affiliates.
+
+• The costs are allocated to all affiliates principally on the basis of
+'revenue' which is based on the principle of 'capacity to pay' rather than on
+the basis of the need and extent of services available by the affiliates. • A
+multinational enterprise functioning globally may like to co-ordinate with the
+affiliates taking into account the principle of optimization of profits. But
+such an exercise is not necessarily comparable to a service provided by a
+third party professional service provider.
+
+• In the instant case, the ultimate holding company either by itself or
+through step down subsidiaries have stakes in affiliates and in pursuit of
+such investment interest, constantly exercise control, direction, supervision
+and hold over the affiliates. Such a monitoring is not necessitated by the
+needs of the affiliates, rather they stem from the inherent interest of the
+holding company in the affiliates and the resulting costs need not be passed
+on to the affiliates.
+
+77
+
+18.4 The TPO relied on the following decisions without mentioning the
+citations and held that the ALP of the management fee is NIL :
+
+a. Gemplus India (P) Ltd. vs. ACIT (Bangalore, ITAT) b. Deolitte Consulting
+India (P) Ltd. vs. DCIT (Mumbai, ITAT) c. Knorr-Bremse India (P) Ltd. vs. ACIT
+(Delhi, ITAT)
+
+19\. The ld. AR submitted that the adoption of CUP as most appropriate method
+for benchmarking management service fee by the TPO and determining the ALP to
+be Nil. Further, the ld. AR submitted that under the Agreement with AEs, the
+assessee availed various services in the nature of legal, administrative,
+human resources, finance, business development etc. The services are
+specifically rendered by the said entities which act as the global hub for
+rendering the corresponding services. The services would either b e rendered
+directly by the AEs through its resources or it would employ third party
+consultants to render such services. The service fee has been charged on the
+basis of allocated cost to all group entities across the globe. It is
+pertinent to note that such similar services have not been availed  78 by the
+assessee during the year from third party consultants and therefore, there is
+no price available to be regarded as 'internal CUP'. Further, due to
+confidentiality issues, it is the general practice to undertake such services
+through group entities. In addition, GCT Spain has not rendered similar
+services to unrelated parties. In addition, it is not practically possible to
+determine how much third party consultants would have charged to render
+similar services in a routine manner considering the various contingencies
+involved in the business. Therefore, the question of adopting CUP as
+appropriate method would not arise. The ld. AR relied on the judgment of the
+Delhi High Court in the case of Magneti Marelli Powertrain India (P) Ltd. vs.
+DCIT, wherein it has been held that in a case where the assessee company had
+adopted TNMM for the purposes of benchmarking its profits, adoption of CUP
+solely for the purposes of evaluating technical assistance fee would lead to
+chaos and be detrimental to the interests of both revenue and the assessee.
+Further, the ld. AR submitted that the question of applying CUP would arise
+only in a case where the comparison is made with uncontrolled transaction
+identified with regard to similar services rendered for  79 the purpose of
+transfer pricing. In the instant case, the TPO has merely held that the ALP of
+the transaction is Nil without even identifying comparables which is not in
+accordance with the methodologies provided in the Rules. The ld. AR, also
+relied on the following judgments, wherein it has been held that no transfer
+pricing adjustment is warranted in a scenario where the officer has not taken
+any step to identify a comparable to determine the ALP :
+
+a. Merck Ltd. vs. DCIT (148 ITD 513 - Mumbai, ITAT) - upheld by Bombay High
+Court [ITA 272 of 2014] b. DCIT vs. Flakt India Ltd. [ITA No.1032 of 2014 -
+Chennai ITAT] c. Sabic Innovative Plastics India Pvt. Ltd. vs. ACIT [ITA No
+1125 of 2014
+
+\- Ahmedabad ITAT] Applying the above principles to the current fact pattern,
+the assessee submitted that the action of the TPO in determining the ALP to be
+Nil without even identifying a comparable transaction is inappropriate.
+Therefore, the ld. AR submitted that the transfer pricing adjustment in this
+regards needs to be set aside. 19.1 The ld. AR argued that there is no
+transfer pricing adjustment in a scenario where the transactions are at arm's
+length in accordance with the methods prescribed under Rule  80 10B. Without
+prejudice to the above submission that the said management fee satisfies the
+NEED-EVIDENCE-BENEFIT test, the ld. AR submitted that the action of the TPO in
+proposing transfer pricing adjustment is not tenable on account of the
+following submissions :
+
+• As elaborated above, in the transfer pricing study, the assessee considered
+TNMM as the most appropriate method. For the subject asst. year, the PLI of
+the assessee is higher as compared to the comparable companies. Further, the
+assessee considered CUP as the most appropriate method and contended that
+average rate of royalty as per comparable agreements is higher as compared to
+the subject royalty rates. Therefore, the assessee arrived at a conclusion
+that the royalty paid to its AE is at arm's length.
+
+• The assessee submitted that management service is a critical factor for
+undertaking its day to day operations and therefore it is inextricably linked
+to its business. Therefore, the determination of ALP of management fee on a
+standalone basis is unwarranted in the first place. The  81 TPO has erred in
+not appreciating the basis fact that management service is inextricably linked
+to business of the assessee and, therefore, benchmarking the PLI at entity
+level is sufficient in order to substantiate that the transactions with AE are
+at arm's length.
+
+• Further, it is pertinent to note that the methodology adopted by the TPO is
+not in accordance with any of the methods prescribed in Rule 10B of the Rules.
+In other words, the action of the TPO is beyond his jurisdiction as provided
+in the law. In the following decisions, it has been held that where the PLI of
+the assessee is determined under TNMM, a separate analysis and consequent
+deletion of royalty /technical fee payment is unwarranted : a. DCIT vs. Air
+Liquid Engineering India (P) Ltd.(43 Taxman.com 299 (Hyd.)) b.Daksh Business
+Process Services (P) Ltd.(Del.,ITAT)(2166/Del./2011) c.DCIT vs. Cornell
+Overseas (P) Ltd. (Del., ITAT)(2166/Del/2011) 19.2 The ld. AR, reiterated the
+submission stated above, in respect of jurisdictional of the TPO to determine
+the commercial expediency of the assessee and submitted that the TPO has  82
+remarked that the assessee has not substantiated the NEED- EVIDENCE-BENEFIT in
+relation to management fee. Further, the ld. AR submitted that the said
+transaction satisfies all the tests, the tax authorities have no jurisdiction
+to question the commercial expediency of the transactions. In other words, the
+TPO has the limited responsibility of computing the arm's length price of the
+transactions consideration the methods prescribed in the Act read with Rules.
+The said principle has been laid down in the following decision:
+
+a. Hive Communication (P) Ltd. vs. CIT (Delhi)(353 ITR 200) b. CIT vs. EKL
+Appliances Ltd. (Delhi HC)(345 ITR 241) c. CIT vs. Computer Graphics
+Ltd.Madras HC)(155 Taxmann 612) d. Showa India (P) Ltd. vs. DCIT (Delhi,
+ITAT)(166/Del/2013,dt.30.06.2016) Therefore, the ld. AR submitted that the
+jurisdiction of the TPO does not extend to stepping into the shoes of the
+assessee and determining the necessity of incurrence of expenditure and the
+contention of the TPO that there is no necessity on the part of the assessee
+to avail the management fee is unwarranted in the first place.
+
+83
+
+19.3 Without prejudice to the submission that the assessee has availed
+substantial benefits on account of management service, the ld. AR submitted
+that the assessee has entered into agreement with GCT Spain for the purpose of
+availing services in the avenues of finance, legal assistance, advisory,
+operations management, business development etc. It is pertinent to note that
+all the operating companies belonging to the Group have executed similar
+agreement with GCT Spain to avail benefits in the form of global consistency
+in business, improvement in efficiency and access to common skill set and
+centralized portals etc. It is pertinent to note that the benefits arising out
+of the services are intangible in nature. The ld. AR submitted that the model
+of availing services from a centralized hub is a common phenomenon in all
+multinational corporations and it is critical for the assessee to avail such
+services in order to sustain in the market. Further, given that it is an
+ongoing activity carried on by the AE and considering the fact that the
+benefits availed by the assessee are intangible in nature which cannot be
+measured in monetary terms in all scenarios. Therefore, according to the ld.
+AR, the questioning of examining the benefits availed by the  84 assessee out
+of such services would not arise in the first place. The ld. AR, further
+submitted that even in case of availing services from a third party service
+provider, the resulting benefit cannot be assured and the assessee pays for
+the expertise of the service provider which may or may not result in
+substantial benefits having monetary impact. To support his view, the ld. AR
+relied on the following decisions, wherein the Courts and the Tribunal have
+held that benefit test is not a pre-condition to determine the genuineness or
+ALP of expenditure:
+
+> a. RAK Ceramics India Pvt. Ltd. vs. DCIT (Hyd., ITAT)[ITA No.1492/2014 dated
+> 04.02.2015] - upheld by Andhra Pradesh High Court [in ITA No.595 of 2016] b.
+> TNS India Pvt. Ltd. vs. ACIT (ITA No.944/Hyd./2007 dated 22.01.2014) 19.4
+> Regarding need for availing management service from GCT Spain, the ld. AR,
+> submitted that in the current era of globalization, centralization of costs
+> lead to significant group cost savings. Gamesa Group is a multinational
+> group, which has its headquarters in Spain. The Group is dedicated to the
+> manufacturing, sale, operation and maintenance of wind turbine  85
+> generators, as well as in the development of wind farms. Its business covers
+> all items of the wind value chain: design, manufacture, construction,
+> Balance of Plant (BOP - also known as civil works for wind farms-),
+> development, additional services and operation and maintenance (O&M) of wind
+> farms. According to the ld. AR, as per the Gamesa Group corporate policy,
+> all central activities are carried out by GCT and where necessary, GCT
+> obtains the assistance of third party vendors in providing the central
+> services in the nature of management activities. The affiliates companies
+> (which include the assessee) obtain advice and assistance from GCT and the
+> cost incurred (GCT owns cost and cost charged by third party vendors) were
+> charged to all the group companies. GCT has tremendous managerial talent and
+> experience in the field of Wind Turbine industry. It has senior
+> professionals with lots of years of experience in the field. As a new player
+> in India, there was a critical need for the assessee to draw managerial
+> services from this entity to face the challenges in the emerging market like
+> India, where the market is very early phase of development and challenging.
+> With further expansion of manufacturing operations and globalization of
+> customer  86 activities, it was essential for the assessee to adopt a global
+> approach for its own activities to serve its global customer base and
+> maintain competitive position in the market. It would have been difficult
+> for the assessee to procure the services from third party service providers
+> which are group and product specific.
+
+Therefore, the assessee availed the services from its AEs instead of
+approaching any third party service provider. Given that the services are
+peculiar and can be rendered only by the AEs by way of pooling the resources
+at group level, the contention of the TPO that it is merely in the nature of
+shareholder activity is baseless. Further, due to confidentiality issues, it
+is the general practice to undertake such services through group entities.
+Further, the assessee has substantiated that the services have actually been
+rendered by its AE and established the underlying benefit derived out of such
+services. Description of need, benefit on account of management service is
+captured. Therefore, the contention of the TPO and DRP that there is no
+requirement to avail management service from its AE is inappropriate.
+
+87
+
+19.5 In respect of benefits derived by the assessee on account of the
+management services, the ld. AR submitted that the subject year was the second
+year of commercial operations of Gamesa India. This year saw a huge increase
+in the assessee's turnover with increased activity due to new WTG Model G-58
+in India coupled with new wind farm development in this year. To meet this
+increased activity, the assessee had to avail professional support services in
+the nature of management support (general, legal, operational etc.). The AE
+possessed in- depth knowledge and understanding about the wind industry and
+the business realities. Therefore, the assessee being part of the Gamesa
+Group, obtained the centralized support services from the AE. Further, the ld.
+AR, submitted that the assessee produced the copy of mail correspondences and
+reports evidencing the rendition of management services and underlying
+benefits availed by the assessee. Description of need, benefit on account of
+management service in relation to each of the service is captured. The ld. AR
+relied on the decision of the Tribunal, Delhi Bench, in the case of Showa
+India (P) Ltd. vs. DCIT [ITA No.166 of 2013], wherein it has been held that
+where the  88 assessee has produced the documents/evidence, the TPO cannot by
+any stretch of imagination hold that the evidences are irrelevant, without
+even perusing such evidences. Further, the Tribunal recognized the principle
+that the TPO has no jurisdiction to question the commercial expediency of
+transactions entered into by the assessee company.
+
+19.6 The ld. AR, submitted that allocation of cost based on turnover of AEs
+cannot be a factor to propose transfer pricing adjustments. In the transfer
+pricing order, the TPO remarked that the costs are allocated to all affiliates
+principally on the basis of 'revenue' which is based on the principle of
+'capacity to pay' rather than on the basis of the need and extent of services
+availed by the affiliates. In this regard, the ld. AR, submitted that under
+the provisions of sec.92CA of the Act, the TPO has the authority to determine
+the ALP of the transactions undertaken by the assessee. The jurisdiction of
+the TPO cannot extend to decide the basis of charge/allocation of expenses. In
+the instant case, the TPO ought to have confined his jurisdiction in
+determining whether the costs allocated by GCT Spain are at arm's length or
+not. For the purposes of benchmarking the  89 profits, the assessee considered
+TNMM as the most appropriate method and the PLI of the assessee is higher than
+that of the comparable companies. Recently, in the case of Durr India (P) Ltd.
+[ITA No.754/Mds/2014], the co-ordinate Bench of the Tribunal held that
+allocation of cost partly on the basis of turnover and net profit cannot be
+considered as a factor to propose transfer pricing adjustment. The Bench has
+held that where the PLI of the assessee under TNMM is at arm's length and it
+is not possible on the part of the department to identify a comparable
+rendering similar services, the question of considering CUP method would not
+arise at all. Interestingly, in the said decision, a portion of cost (50%) has
+been allocated on the proportion of net profits of the group entities. As a
+result, only companies having profits would suffer such cost whereas companies
+that have incurred loss would not remit the same. Even in a scenario where net
+profit is considered as allocation key, the co-ordinate Bench has held that no
+transfer pricing adjustment is required on management fee in a scenario where
+the PLI of the assessee company is at arm's length as compared to its
+comparables. Relevant extracts of the decision are  90 captured. Applying the
+rationale, the ld. AR, submitted that the allegation of the TPO in holding
+that the mechanism adopted by the assesseeis based on the principle of
+'capacity to pay' is baseless. The TPO has no jurisdiction to question the
+allocation methodology adopted by the assessee. In other words, the TPO should
+have confined his jurisdiction only to the extent of determining ALP. Further,
+in the said decision, the Tribunal has specifically held that CUP cannot be
+considered as method for determination of ALP of management fee in a case
+where the PLI of the assessee is at arm's length.
+
+19.7 According to the ld. AR, there is no transfer pricing adjustment in
+respect of transactions which are otherwise considered as genuine for tax
+purposes. The ld. AR submitted that management fee is not tax free. In other
+words, the assessee has been remitting service tax on reverse charge mechanism
+(being receiver of service). Further, the assessee has obtained a Nil
+withholding certificate from the tax authorities. The said principle has been
+laid down by the Tribunal, Chennai Bench, in the case of Aban Offshore Ltd.
+vs. DCIT [ITA No.585 of  91 2015], wherein the Tribunal has held that any
+payment which is systematically subject to deduction of tax at source cannot
+be said to be non-genuine. Therefore, the ld. AR, submitted that the TPO has
+no jurisdiction to question the genuineness of management fee since it has
+been subject matter of service tax and specific lower tax deduction
+certificate has been availed.
+
+20\. The ld. DR submitted that the basic issue before the TPO was to determine
+ALP of the fee paid by the assessee. For determining the ALP of the
+transaction, a proper show cause notice was issued and served upon the
+assessee. The assessee has only referred to the service agreement, summary of
+the cost allocation among various services provided and copy of the various
+invoices/debit notes/credit notes raised during the relevant year under
+consideration; however the queries of the TPO still remained unanswered. When
+the assessee is paying on cost to cost basis to AE, then where are the actual
+details of the cost, how assessee has calculated that the invoice raised by AE
+is correct, when details of costs are not available to it? Where such a
+transaction at arm's length, the assessee would have asked for the complete
+details of the cost incurred by the  92 AE before accepting the amount claimed
+by AE from it. However, assessee has not brought on record any such details to
+satisfy the TPO. Documents relied upon by the assessee are thus just
+unsupported piece of papers, without any evidentiary value. So there doesn't
+appear to be any arbitrariness on the part of the TPO. This is not the claim
+of the TPO that the assessee should not have taken some or any services, but
+the issue is the value of such services at arm's length and the quantum of
+services actually received by the assessee. The agreement between related
+parties and the invoices raised there from cannot be considered adequate and
+sufficient evidenced of service performance. Thus, it is observed that the
+basic evidence to support the claim of costs incurred at the AE's end are not
+available for verification. This is the very minimum that the TPO is required
+to investigate to establish whether the cost allocated as per predetermined
+keys is reasonable/legitimate or not. No evidence from the books of the AE
+with regard to its costs, both direct and indirect and the primary documents
+maintained by the AE in support of this claim in its books, has been produced
+by the assessee either before the TPO or before  93 the Panel; for
+verification of this important and key ingredient in the TP analysis. As
+discussed by the TPO in his order, the assessee has failed to substantiate its
+claim of having received any such services which were for its own business
+interest. The services rendered, if any, are in the nature of control and hold
+to be exercised by the AE over its affiliates. So the objections of the
+assessee are not accepted. The reliance of the TPO on the decision of Gemplus
+India (supra) as well as other cases is also well placed. In Gemplus India
+(supra) the order of the TPO was upheld under similar circumstances.
+
+20.1 The ld. DR, submitted that the assessee is seeking to justify the payment
+of management service fee on the ground that even after payment of these
+amounts, the net margins of the assessee was more than that of comparable
+companies in the same industry. This is a specious argument. The profits of
+the Indian entity are due to the efforts of this entity and consequently, the
+entire profits are taxable in India even if the margins are above the arm's
+length level. This does not in any way impact on the royalty and management
+service fee. The need for incurring such expenses and the benefits accruing as
+a  94 result are needed to be justified on a stand-alone basis without taking
+recourse to the argument of availability of sufficient profits. These are two
+separate issues and are needed to be dealt with separately. In any case, the
+assessee could not substantiate the need-benefit analysis before the TPO as a
+result of which downward adjustments were proposed in respect of royalty and
+management service fee. The transactions can be aggregated only if they are
+intricately intertwined and cannot be separately analyzed. This is not the
+case here. Moreover, aggregated approach to transfer pricing analysis is the
+exception rather than the norm. This issue has been dealt with extensively by
+the DRP in its order dated 24.3.2007. The DRP has quoted the case laws to
+reject the assessee's objections in this regard. The Guidelines of 2010 has
+also taken the view that as far as possible, transactions are to be evaluated
+separately. 20.2 The ld. DR, further submitted that the TPO has not sought to
+question the commercial expediency of the management fee. What has been done
+is to compare the circumstances surrounding the payment and the services said
+to have received with an independent party in the uncontrolled  95 situation.
+After analyzing the agreement and other documents in this regard, the TPO has
+come to the conclusion that the transaction was not at arm's length as an
+independent entity would not have agreed to shoulder the liability for
+services which do not the benefit to it. Only a cost-benefit analysis has been
+undertaken from the perspective of arm's length and the commercial expediency
+of entering into the agreement was never questioned. The DRP has analyzed the
+transaction in details and has come to the conclusion that the services which
+the AE is supported to render to the assessee are general and non-specific and
+the assessee also failed to furnish documents called for by the DRP.
+
+20.3 The ld. DR, also submitted that in the analysis of services rendered by a
+group company to one or more group companies, it requires the economic value
+or commercial contribution and the benefit which can made a difference in the
+commercial position of the service receiver to be analyzed. This concept
+called benefit test, which takes place in the OECD guidelines and the
+importance of the test in questions emphasized in for  96 justification of the
+performance of intra-group services. OECD guidelines state that a payment made
+by a group company does not constitute a sufficient evidence for the provision
+of the services in return for the payment. Moreover, it is also stated that
+absence of payment or agreement between the parties regarding the services
+does not mean that the services have not been rendered. In this case, the
+service agreements are available for intra-group services but conduct of the
+parties is in question. The need for the services from the perspective e of
+the purchasing entity must be evaluated in order to determine that the intra-
+group services has in fact been received which constitutes the basis of the
+benefit test concept. In order to determine whether an intra-group service has
+been rendered, it is necessary to examine whether the service in question
+provides a commercial or economic value that would strengthen the commercial
+position of the receiving entity. Hence, the assessee's contention regarding
+the need benefit test is not acceptable. In this context the following OECD
+Guidelines (para No.79, page No.207) :
+
+"In a narrow range of such case, an intra group activity may be performed
+relating to group members even though those group  97 members do not need the
+activity (and would not be willing to pay for it were they independent
+enterprises). Such an activity would be one that a group members, i.e. in its
+capacity as shareholder. This type of activity would not justify a charge to
+the recipient companies" assumes significance."
+
+The European Union Joint Transfer Pricing Forum (JTPF), in their summit at
+Brussels on 04.02.2010 on the "Guidelines on low value adding Intra-Group
+Services" has discussed this issue elaborately. It says that Costs of
+managerial and control (monitoring) activities related to the management and
+protection of the investments in participations are of shareholders activities
+only and these costs are to be classified as shareholders cost only.
+
+20.4 Hence, the ld. DR, submitted that the benefit received from such
+stewardship services can only be considered as 'incidental benefits' as per
+the OECD guidelines and do not require a separate payment. The relevant para
+No.7 of OECD guidelines states that :
+
+"The incidental benefits ordinarily would not cause these other group members
+to be treated as receiving on intra-group service because the activities
+producing the benefits would not be ones for which an independent enterprise
+ordinarily would be willing to pay".  98 The ld. DR further submitted that it
+is the responsibility of the assessee to prove the receipt of service with
+supporting documents. According to the ld. DR, the assessee has failed to
+submit the documentation to substantiate to prove the receipt of service and
+need for such service. In the absence of evidences and the services received
+are in the nature of routine services from a shareholder the TPO determined
+the ALP as nil because the services are not be ones for which an independent
+enterprise ordinarily would be willing to pay. The ld. DR also submitted that
+the purpose of transfer pricing analysis is to ensure that the Indian tax
+jurisdiction gets its due share of taxes in the International transactions
+carried by the Indian companies with its AEs abroad. So the TPO should
+consider all the aspects which may affect due share of taxes to Indian tax
+jurisdiction. 20.5 We have heard both the parties and perused the material on
+record. In our considered opinion, transaction to transaction approach is not
+required if the Profit Level Indicator ('PLI) of assessee at entity segment
+level is at arm's length where the  99 assessee company has adopted TNMM for
+the purposes of bench marking, its adoption of CUP solely for the purposes of
+evaluating technical assistance fee would lead to chaos and be detrimental to
+the interests of both revenue and the assessee. In other words, once the arm's
+length criterion is tested at entity level, the learned TPO has no
+jurisdiction to examine the need, benefit etc in relation to each transaction.
+This view was supported by the judgement of Delhi High Court in the case of
+Magnetic Marelli Powertrain India (P) Ltd. vs DCIT [389 ITR 469] (Delhi HC)
+wherein held that:-
+
+17\. As far as the second question is concerned, the TPO accepted TNMM applied
+by the assessee, as the most appropriate method in respect of all the
+international transactions including payment of royalty. The TPO, however,
+disputed application of TNMM as the most appropriate method for the payment of
+technical assistance fee of Rs. 38,58,80,000 only for which Comparable
+Uncontrolled Price ("CUP") method was sought to be applied. Here, this court
+concurs with the assessee that having accepted the TNMM as the most
+appropriate, it was not open to the TPO to subject only one element, i.e
+payment of technical assistance fee, to an entirely different (CUP) method.
+The adoption of a method as the most appropriate one assures the applicability
+of one standard or criteria to judge an international transaction by. Each
+method is a package in itself, as it were, containing the necessary elements
+that are to be used as filters to judge the soundness of the international
+transaction in an ALP fixing exercise. If this were to be disturbed, the end
+result would be distorted and within one ALP determination for a year, two or
+even five methods can be adopted. This would spell chaos and be detrimental to
+the interests of both the assessee and the revenue. The second question is,
+therefore, answered in favour of the assessee; the TNMM had to be applied by
+the TPO/AO in respect of the technical fee payment too."
+
+100
+
+20.5.1 In the case of DCIT vs Air Liquide Engineering India (P) Ltd. [152 lTD
+157) (Hyderabad ITAT) held that:-
+
+> "33. The TPO has made the disallowance in question mainly on the basis of
+> the benefit test. In this regard, it is seen that the payment of royalty
+> cannot be examined divorced from the production and sales. Royalty is
+> inextricably linked with these activities. In the absence of production and
+> sale of products, there would be no question arising regarding payment of
+> any royalty. Rule 10A(d) of the ITAT Rules defines 'transaction' as a number
+> of closely linked transactions. Royalty, then, is a transaction closely
+> linked with production and sales. ft cannot be segregated from these
+> activities of an enterprise, being embedded therein. That being so, royalty
+> cannot be considered and examined in isolation on a standalone basis.
+> Royalty is to be calculated on a specified agreed basis, on determining the
+> net sales which, in the present case, are required to be determined after
+> excluding the amounts of standard bought out components, etc., since such
+> net sales do not stand recorded by the assessee in its books of account.
+> Therefore, it is our considered opinion that the assessee was correct in
+> employing an overall TNMM for examining the royalty. The TPO worked out the
+> difference in the PU of the outside party (the assessee) at 4.09% and the
+> comparables at 7.05%. This has not been shown to fall outside the
+> permissible range.
+
+> 34\. The decision of the Tribunal in 'Ekla Appliances', 2012- TH-01-HCDe1-
+> TP, has been sought to be distinguished by the TPO, observing that the facts
+> in that case are not in pan matena with those of the assessee's case.
+> However, therein also, the benefit test had been applied by the TPO, as in
+> the present case. The matter was carried in appeal before the Hon'ble High
+> Court. The Hon'ble Delhi High Court has held that the so-called benefit test
+> cannot be applied to determine the ALP of royalty payment at nil and that
+> the TPO could apply only one of the methods prescribed under the law. A
+> similar view has been taken in 'Sona Okegawa Precision Forgings Ltd.'
+> (supra) and in 'KHS Machinery Pvt. Ltd. vs. ITO', 53 SOT 100 (Ahm) (URO).
+
+> 35\. It is, thus, seen that the royalty payment @ 3% by the assessee is at
+> arm's length. The Technical Collaboration Agreement stands approved by the
+> Government of India. The royalty payment has been accepted by the department
+> as having been made by the assessee wholly and exclusively for its business
+> purposes. For Assessment Years  101 2004-05 and 2005-06, such payment of
+> royalty has been allowed by the CIT (A). As per the FEMA Regulations,
+> royalty can be paid on net sales @ 5% on domestic sales and @ 8% on export
+> sales. The royalty payment by the assessee falls within these limits. ft
+> also falls within the limits of payment of royalty in the auto mobile
+> sector, as per the market trend. This payment of royalty is at the same
+> percentage as that paid by other auto ancillaries in the automotive
+> industry. Then, in 'Ekia Appliances' (supra) and in 'Ericsson India Pvt.
+> Ltd. vs. DCIT', 2012-TII-48-ITAT-Del- TP, it has been held that royalty
+> payment cannot be disallowed on the basis of the so-called benefit test and
+> the domain of the TPO is only to examine as to whether the payment based on
+> the agreement adheres to the arm's length principle or not. That being so,
+> the action of the TPO in the present case, to make the disallowance mainly
+> on the ground of the benefit test, is unsustainable in law.
+
+> 36\. Keeping in view all the above factors, the disallowance made on account
+> of royalty is found to be totally uncalled for and it is deleted as such.
+> ... ".
+
+21\. Hence, following the ratio of the Honb'le Delhi High Court in CIT vs. EKL
+Appliances (supra) and various other decisions as noted above and given the
+facts and circumstances of the instant case, we hold that the addition made by
+the TPO and upheld by the DRP is unsustainable and is to be deleted. Hence
+Ground No. 2 is held in favour of the assessee. Hence, the appeal of the
+Revenue ITA.No.1040/Hyd/2011 is dismissed and Assessee's appeal in
+ITA.No.1159/Hyd/2011 is allowed." 20.5.2 In the case of ACIT vs Sakata Inx
+(India) Ltd. (Jaipur) ITA No. 376/JP/2012] wherein held that:- "2.9 We have
+heard the rival contentions and perused the material available on record. In
+our considered view, there is no infirmity in the order of Ld.CIT(A) in as
+much as:
+
+(i) ld.D.R could not justify the application of CUP method to Arm's Length
+working.
+
+102
+
+(ii) The products manufactured by the appellant were developed from technology
+support provided by the AE, it would not have been possible so without the
+continuous AE support. The rights of access to the ongoing technical support
+and development of new products received by the appellant were clearly
+provided in the agreements entered into with the AE.
+
+(iii) The cost benefit test as worked out by the TPO was not based on proper
+appreciation of the facts and thus CUP method applied by the AO/TPO was not
+justifiable.
+
+(iv) The judicial citations relied on by Ld.CIT(A) as well as further
+judgements relied on by the assessee including Hon'ble High Court in the case
+of Delhi EKL appliance Ltd.(Supra) support the view taken by Ld.CIT(A).
+
+In view of the foregoing, we uphold the order of the CIT(Appeals) and dismiss
+the revenue's appeal."
+
+20.6 In our considered opinion, ALP of management service cannot be said to be
+Nil in the absence of a valid comparable. Since no effort had been made by TPO
+to determine market value of services received by assessee, adjustment made by
+TPO as a disallowance of expense could not be upheld. In other words, the TPO
+cannot simply arrive at a conclusion that quality and volume of services
+received by the Appellant were not commensurate with payment made by the
+Appellant. This view is fortified by the order of Tribunal in the case of
+Merck Ltd. vs DCIT [148 lTD 513] (Mumbai) - upheld by Bombay High Court [ITA
+272 of 2014]  103 24.7 Such argument in our view is not convincing. The
+argument would have been valid if fees was fixed in respect of each service,
+which was compulsorily required tobe provided to the assessee, but it is not
+so in the present case. The agreement listed certain services on which the
+assessee requires guidance/assistance from time to time. The assessee was thus
+entitled to any of the services as and when required. Therefore, applying CUP
+method to the service not availed by the assessee during the year is not
+justified. It would have been appropriate if the AO had applied CUP method to
+the payment made during the year by the assessee for the three services and
+compared with similar payment for such services by an independent party. No
+efforts have been made by TPO/AO to determine the market value of services
+received by the assessee during the year relating to SAP implementation and
+quality control to show that the assessee had paid more compared to any
+independent party for the same services. The assessee had submitted that in
+case the assessee had paid to the AE at man hour rate for the technical
+services provided during the year in relation to SAP implementation, the fees
+payable would have been significantly higher. There is nothing produced before
+us to controvert the said claim. The assessee has applied TNMM which shows
+that the margin shown by the assessee was higher than the comparable
+companies. The case of the assessee is also supported by the decision of
+Tribunal in case of Mc Can Erricson India Pvt. Ltd. (Supra) in which the
+decision of TPO to take the value of cergain services at nil has not been
+upheld. Considering the entirity of facts and circumstances, the adjustment
+made by TPO which is nothing but disallowance of expenses cannot be upheld.
+We, therefore, set aside the order of CIT (A) on this point and delete the
+addition made.
+
+20.7 Further, this view was supported by the decision of Co- ordinate Bench,
+Chennai in the case of DCIT vs Flakt India Ltd.,  104 vide order dated 9th
+June, 2016 for assessment year 2009-10 and in the case of Da Business Process
+Services (P) Ltd. vs DCIT ITAT in ITA No. 2166 of 2011.
+
+20.8 In our considered opinion, Jurisdiction of the TPO is to determine the
+commercial expediency and necessity in the hands of the assessee. The learned
+TPO has remarked that the Assessee has not substantiated the necessity to
+incur such expenditure. In this regard, it is pertinent to note that the
+business transactions of the Assesses taken place in the ordinary course,
+which cannot be questioned by the TPO. Further, the learned TPO cannot
+conclude based on mere assumptions without examining the commercial expediency
+of the assessee. This view is fortified by the judgments/order of the various
+courts as below:-
+
+i) Hive Communication (P) Ltd. vs CIT [353 ITR 200] (Deli HC) CIT vs EKL
+Appliances Ltd. [345 ITR 241] (Deli HC)
+
+ii) CIT v Computer Graphics Ltd [155 Taxman 612] 20.9 In our considered
+opinion, benefit test is not a pre- condition for justifying arm's length
+price. Under Rule 10B of the  105 Income Tax Rules, 1962 which deals with
+'Determination of the arm's length price', there is no mention of the 'benefit
+test' being adopted for the purpose of determining such arm's length price. It
+is not a pre-condition to conclude that the payment is within arm's length. In
+other words, the TPO cannot apply the benefit test for determining ALP as he
+cannot assess the benefit derived by assessee in a particular transaction.
+This view is fortified by the following judgments:-
+
+(i) R.A.K Ceramics India Pvt. Ltd. vs DCIT (Hyderabad) (ITA No. 1492/2014
+dt.4.02.2015) which was upheld by Andhra Pradesh High court [ITA No. 595 of
+2016]-
+
+> "10. We are really surprised to see the reasoning of TPO in fixing the ALP
+> of royalty payment at 2%. It is manifest from TPO's order he has rejected
+> assessee's TP analysis under TNMM. Further, in para 6.4 of his order, TPO
+> has mentioned of undertaking an independent analysis under TNMM for
+> selecting comparables and determining ALP. However, even after repeatedly
+> scanning through his order, we failed to find any such analysis being done
+> by him.
+
+Similarly, though in para 5.1.1, ld. DRP has observed that TPO has benchmarked
+intangible transactions by using CUP, but, the order passed by TPO does not
+support such conclusion. It is an accepted principle of law that TPO has to
+determine the ALP by adopting any one of the methods prescribed u/s 92C of the
+Act. Mode and manner of computation of ALP under different methods have been
+laid down in rule 10B. Even, assuming that TPO has followed CUP  106 method
+for determining ALP of royalty payment, as held by ld. DRP, it needs to be
+examined if it is strictly in compliance with statutory provisions. Rule
+10B(1)(a) lays down the procedure for determining ALP under CUP method. As per
+the said provision, TPO at first has to find out the price charged or paid for
+property transferred or services provided in a comparable uncontrolled
+transaction, or a number of such transactions. Thereafter, making necessary
+adjustments to such price, on account of differences between the international
+transaction and comparable uncontrolled transactions or between the
+enterprises entering into such transactions, which could materially affect the
+price in the open market, TPO will determine the ALP. It is patent and obvious
+from TPO's order, the determination of ALP at 2% is not at all in conformity
+with Rule 10B(1)(a). The TPO has not brought even a single comparable to
+justify arm's length percentage of royalty at 2% either under CUP or TNMM
+method. On the contrary, observations made by TPO gives ample scope to
+conclude that adoption of royalty at 2% is neither on the basis of any
+approved method nor any reasonable basis. Rather it is on adhoc or estimate
+basis, hence, not in accordance with statutory provisions. The approach of TPO
+in estimating royalty at 2% by applying the benefit test, in our view, is not
+only in complete violation of TP provisions but against the settled principles
+of law. ITAT, Mumbai Bench in case of M/s Castrol India Ltd. Vs. Additional
+CITY, ITA No. 1292/Mum/2007 dated 20/12/2013 while examining identical issue
+of determination of ALP at 'Nil' by applying the benefit test held as under:
+
+"11. We have considered the rival submissions and perused the relevant
+material on record. It is observed that the impugned royalty was paid by the
+assessee company to its AE namely Castrol Ltd. UK at 3.5 % of the net
+exfactory sale price of products manufactured and sold in India as per the
+technical collaboration  107 agreement. This international transaction
+involving payment of royalty to its AE was bench-marked by the assessee R.A.K.
+Ceramics India P. Ltd. by following CUP method in its TP study report and
+since average rate of royalty of three comparables selected by it was higher
+at 4.67% than the rate at which royalty was paid by the assessee to its AE,
+the transaction involving payment of royalty was claimed to be at arm's
+length. A perusal of the order passed by the TPO u/s 92CA (3) of the Act shows
+that neither these comparables selected by the assessee in its TP study report
+were rejected by her nor any new comparables were selected by her by making a
+fresh search in order to show that the payment of royalty by the assessee to
+its AE was not at arm's length. She simply relied on the approval of SIA to
+hold that any royalty paid by the assessee on exports and other income was not
+allowable and disallowed the royalty payment to the extent of Rs. 40,51,486/-
+treating the same as the royalty paid by the assessee in respect of exports
+sale and other income. We are unable to agree with this strange method
+followed by the TPO to make a TP adjustment in respect of royalty payment
+which is not sustainable either in law or on the facts of the case. She has
+neither rejected the method followed by the assessee to bench-mark the
+transaction in respect of payment of royalty nor has been adopted any
+recognized method to determine the ALP of the said transactions. The approval
+of SIA adopted by the TPO as basis to make TP adjustment in respect of royalty
+payment was untenable and even going by the said basis wrongly adopted by the
+TPO, no TP adjustment in respect of royalty payment was liable to be made. As
+per the said basis, the net sales of the assessee after excluding export sale
+and other income were to the extent of Rs. 1118.70 crores and the royalty paid
+thereon at Rs. 24.38 crore being less than the rate of 3.5% approved by SIA,
+there was no case of any excess payment made of royalty by assessee than
+approved by SIA to justify its disallowance by way of TP adjustment. In our
+opinion, the ld. CIT (A) could not appreciate these infirmities in the order
+of the TPO despite the same were specifically brought to his notice on behalf
+of the assessee and confirmed the TP adjustment made by the TPO in respect of
+royalty payment which was totally unjustified. We therefore, delete the
+addition made by the AO/TPO and confirmed by the ld. CIT on account of TP
+adjustment in respect of royalty payment and allow ground no. 3 of the
+assessee's appeal."
+
+(ii) TNS India Pvt. Ltd. vs ACIT [ITA No. 944/Hyd.2007, dated 22.01.2014  108
+"16. We have considered the issue. We are unable to accept the contention of
+the Assessing Officer/TPO with reference to the services provided by AEs.
+Assessee has provided the agreements which were entered not during the year
+but in earlier year and has been paying the service fee termed as management
+fee accordingly. This claim is not arising for the first time in this year
+but, is also there in earlier years and later years. Assessee is part of a
+worldwide group and they have placed some corporate centers for guidance of
+various units run by them across the globe. It was submitted that the costs
+being incurred by the centers are being shared by various units and assessee's
+share in this year has come to 5% of the receipts payable to NFO Worldwide Inc
+USA and at 4% to NFO Asia Pacific Ltd. Hongkong on the net revenues. These
+amounts are within the norms prescribed for payment of fees to various group
+companies of similar nature. There is no dispute with reference to services
+being provided by the group companies to assessee and assessee also paid
+various other amounts including royalty. As submitted by assessee, even though
+some correspondence was placed on record with reference to the advise given to
+assessee, providing a concrete evidence with reference to the services in the
+nature of specific activities is difficult, like proving the role of an
+anesthesian in an operation conducted by a surgeon. There may be an evidence
+of operation being performed by the Doctor in the form of sutures or scars
+etc, which can be proved later but the role of an anesthesian before operation
+and after gaining consciousness is difficult to prove as that is not tangible
+in nature. Likewise, for the advise given by various group centers to the
+group companies in day-to-day manner is difficult to place on record by way of
+concrete evidence but the way business is conducted, one can perceive the
+same. Assessee has given a detailed write-up as well as the services provided
+and benefit obtained which were not contradicted. The Assessing Officer did
+not believe the same in the absence of concrete evidence. Unless the Assessing
+Officer steps into assessee's business premises and observes the role of these
+companies/ assessee's business transactions, it will be difficult to place on
+record the sort of advice given  109 in day-to-day operations. What sort of
+evidence satisfies the AO is also not specified. Assessee has already placed
+lot of evidence in support of claims. Therefore, on that count, we are not in
+agreement with the Assessing Officer and TPO that services were not rendered
+by the group companies to assessee.
+
+16.1. Even otherwise, the role of Transfer pricing Officer is to determine the
+arms length price of a transaction. He cannot reject the entire payment under
+the provisions of sec. 92CA as held by the Hon'ble Delhi High Court in the
+case of EKL Appliances ltd (supra) wherein the Hon'ble Delhi High Court, on
+similar facts where the TPO also determined the ALP at Nil, has held as under
+:
+
+"21. The position emerging from the above decisions is that it is not
+necessary for assessee to show that any legitimate expenditure incurred by him
+was also incurred out of necessity. It is also not necessary for assessee to
+show that any ϭϱ ITA.No.944/H/07, 194 & 74/H/08, 793/H/09, 654,655/H/10 &
+7/H/2012 TNS India Pvt. Ltd. expenditure incurred by him for the purpose of
+business carried on by him has actually resulted in profit or income either in
+the same year or in any of the subsequent years. The only condition is that
+the expenditure should have been incurred "wholly and exclusively" for the
+purpose of business and nothing more. It is this principle that inter alia
+finds expression in the OECD guidelines, in the paragraphs which we have
+quoted above.
+
+22\. Even Rule IOB(l)(a) does not authorise disallowance of any expenditure on
+the ground that it was not necessary or prudent for assessee to have incurred
+the same or that in the view of the Revenue the expenditure was unremunerative
+or that in view of the continued losses suffered by assessee in his business,
+he could have fared better had he not incurred such expenditure. These are
+irrelevant considerations for the purpose of Rule lOB. Whether or not to enter
+into the transaction is for assessee to decide. The quantum of expenditure can
+no doubt be examined by the TPO as per law but in judging the allowability
+thereof as business expenditure, he has no authority to disallow the entire
+expenditure or a part thereof on the ground that assessee has suffered
+continuous losses. The financial health of assessee can never be a criterion
+to judge allowability of an expense; there is certainly no authority for that.
+What the TPO has done in the present case is to hold that assessee ought not
+to have entered into the agreement to pay royalty/brand fee, because it has
+been  110 suffering losses continuously. So long as the expenditure or payment
+has been demonstrated to have been incurred or laid out for the purposes of
+business, it is no concern of the TPO to disallow the same on any extraneous
+reasoning. As provided in the OECD guidelines, he is expected to examine the
+international transaction as he actually finds the same and then make suitable
+adjustment but a wholesale disallowance of the expenditure, particularly on
+the grounds which have been given by the TPO is not contemplated or
+authorized.
+
+23\. Apart from the legal position stated above, even on merits the
+disallowance of the entire brand fee / royalty payment was not warranted.
+Assessee has furnished copious material and valid reasons as to why it was
+suffering losses continuously and these have been referred to by us earlier.
+Full justification supported by facts and figures have been given to
+demonstrate that the increase in the employees cost, finance charges,
+administrative expenses, depreciation cost and capacity increase have
+contributed to the continuous losses. The comparative position over a period
+of 5 years from 1998 to 2003 with relevant figures have been given before the
+CIT (Appeals) and they are referred to in a tabular form in his order in
+paragraph 5.5.1. In fact there are four tabular statements furnished by
+assessee before the CIT (Appeals) in support of the reasons for the continuous
+losses. There is no material brought by the revenue either before the CIT
+(Appeals) or before the Tribunal or even before us to show that these are
+incorrect figures or that even on merits the reasons for the losses are not
+genuine.
+
+24\. We are, therefore, unable to hold that the Tribunal committed any error
+in confirming the order of the CIT (Appeals) for both the years deleting the
+disallowance of the brand fee royalty payment while determining the ALP.
+Accordingly, the substantial questions of law are answered in the affirmative
+and in favour of assessee and against the Revenue. The appeals are accordingly
+dismissed with no order as to costs".
+
+20.10 In our considered opinion, centralization of costs leads to significant
+group cost savings. It would be difficult for the Applicant to procure the
+services from third party service providers which are specific to the group
+and products. Given that the services are peculiar and can be rendered only by
+the  111 AEs by way of pooling the resources at group level, the contention of
+the learned TPO that it is merely in the nature of shareholder activity is
+baseless. Further, due to confidentiality issues, it is the general practice
+to undertake such services through group entities. The Appellant has
+substantiated that the services have actually been rendered by its AE and
+established the underlying benefit derived out of such services. Description
+of need, benefit on account of management service is captured in Page 660 to
+680 of Paper book Volume11. Therefore, the contention of the learned TPO and
+DRP that there is no requirement to avail management service from its AE is
+inappropriate. The Applicant has submitted the copies of invoice and
+elaborates the list of services rendered by the AE and basis of charging
+management fee. Further, the Assessee has submitted the copy of various mail
+correspondences which evidences rendition of management services by its AE.
+Sample mail correspondences and reports shared by the AE evidencing the actual
+rendition of management service is furnished in Paper book Volume-3. In our
+considered opinion where appropriate evidences have been provided by the
+Appellant, the action of  112 the learned TPO in holding that the ALP of
+management fee is Nil is unwarranted as held by the Delhi Tribunal in the case
+of Showa India (P) Ltd. vs DCIT in ITA No.166 of 2013 dt. 30.06.2016.
+
+20.11 The ld. A.R submitted that under the provisions of section 92CA of the
+Act, the learned TPO has the authority to determine the arm's length price of
+the transactions undertaken by the assessee. The jurisdiction of the learned
+TPO cannot extend to decide the basis of charge/ allocation of expenses. In
+the instant case, the learned TPO ought to have confined his jurisdiction in
+determining whether the cost allocated by GCT Spain is at arm's length or not.
+
+20.12 For the purposes of benchmarking the profits, the Appellant considered
+TNMM as the most appropriate method and the PLI of the Appellant is higher
+than that of the comparable companies. Recently, in the case of Durr India (P)
+Ltd in ITA. No. 754/Mds/2014 dated 21.12.2016, the co-ordinate Bench of
+Tribunal held that allocation of cost partly  113 on the basis of turnover and
+net profit cannot be considered as a factor to propose transfer pricing
+adjustment. Further, it was held that where the PLI of the Appellant under
+TNMM is at arm's length and it is not possible on the part of the department
+to identify a comparable, which is rendering similar services, the question of
+considering CUP method would not arise at all. 20.13 The Appellant remitted
+service tax under reverse charge mechanism in respect of the said management
+fee. Further, the Appellant has obtained a certificate under section 197 of
+the Act from the Deputy Director of Income Tax, International Taxation,
+Chennai in relation to the management fee. Recently, in the case of Aban
+Offshore Ltd. vs DClT in ITA No. 585 of 2015 dated 14th September, 2016, the
+Co-ordinate bench has held that any payment which is systematically subject to
+deduction of tax at source cannot be said to be non-genuine and further held
+that:-
+
+> "6. We have heard both the parties and perused the material on record.
+> Admittedly, this expenditure was incurred in terms of agreement entered into
+> by the assessee and India Offshore Inc. vide agreement dated 15.12.1986,
+> which was extended upto 15.12.2014. This agreement was subject to  114
+> scrutiny before the authorities and the Tribunal in earlier years and there
+> was no addition on this count. The payment has been made originally, vide
+> agreement dated 15.12.1986 and it was further extended upto 15.12.2014.
+> Therefore, there is no question of raising invoices for each assessment year
+> and the payment is made in terms of approved agreement. Further, in our
+> opinion, the genuineness agreement cannot be questioned by the assessing
+> authorities when it is duly approved by the Central Govt., Ministry of
+> Commerce & Industry, Department of Industrial Policy and Promotion and by
+> the Reserve Bank of India as well. It is brought on record that Ministry of
+> Commerce & Industry, Department of Industrial Policy and Promotion approved
+> this payment vide their letter dated 25.4.2005. It is also brought on record
+> that the payment made to Indian Offshore Inc was subjected to withholding
+> taxes u/s.195 of the Act and TDS was duly deducted and deposited in the
+> Govt. Bank as seen from Form 16A placed on paper book at page 204. When the
+> Department has given "No Objection Certificate" for remittance made to
+> Indian Offshore Inc for earlier years which is placed on record at page
+> Nos.211-212 of the paper book. Further, it is brought on record that there
+> was no addition in earlier assessment years as evident from the copies filed
+> before us for the assessment years 2005-06 to 2008-09 which is kept on
+> record at pages 1 to 146 of the paper book. Therefore, it is not possible to
+> hold that the payment is not genuine.
+
+6.1 Further, the Tribunal in the case of Cadbury India Ltd. V.ADCIT in ITA
+No.7408/Mum/2010 dated 13.11.2013 held in paragraph 39 that if the assessee
+has paid the payments in relation to royalty to its parent AE for use of
+technical know-how and trademark after getting due approval from RBI and SIA,
+the disallowance cannot be made. Further, if the amount paid by assessee was
+lesser  115 than similar payments made by other group entities to parent AE,
+then, TPO should not make the TP adjustment in respect of the royalty payment
+to its parent AE. 6.2 It is pertinent to note that the Tribunal, Hyderabad
+Bench in the case of Air Liquid Engineering India P. Ltd. In ITA Nos.1040 &
+1159/Hyd/2011 and 1408/Hyd/2010, vide order dated 13.2.2014 held that in
+transfer pricing proceedings TPO could not sit in judgment on business and
+commercial expediency of assessee company so as to conclude that payment of
+royalty made by assessee to its AE was unreasonable and thus ALP of said
+payment was to be taken as nil.
+
+6.3 It is to be noted that in the case of DCIT v. Sona Okegawa Precision
+Forgings Ltd. in ITA No. 5386/Del/2010 dated 16.12.2011, the Tribunal held
+that the assessee entered into an international transaction with its overseas
+associates and paid royalty @ 3% which was considered as excessive by TPO did
+not bring any material on record which could suggest that payment of royalty
+as excessive order of TPO was to be dismissed and a collaboration agreement
+had been approved by the Ministry of Industries, Department of Industrial
+Policy and Promotion. 6.4 The Tribunal also held in the case of Abhishek Auto
+Industries Ltd. in ITA No.1433/Del/2009 dated 12.11.2010, that it is a settled
+proposition of the law that legally binding agreements between unrelated
+parties cannot be disregarded without assigning any cogent reasons thereto. In
+this case, it has agreements that are duly approved by RBI and other
+regulatory agencies. It is also a settled proposition that commercial
+transactions are in the domain of the businessman and Income-tax Department
+cannot intervene in realm of intricacies of commercial expediencies involved
+in these arrangements.  116 6.5 In view of the above discussion, we are of the
+opinion that the payment is made in accordance with agreement entered into by
+the parties, which is evident from the record and it was subjected to TDS,
+disallowance is not justified. Accordingly, we allow the ground raised by the
+assessee."
+
+21\. However, for the A.Y 2012-13, though the assessee was asked to explain as
+to how the cost of allocation for the management fee was done. The assessee
+had submitted vide letter dated 20.03.2017 a copy of application filed with
+Centre for Wind Energy Technology which was rejected by the DRP stating that
+no cognizance is required to be taken of these documents submitted after the
+hearing were completed. Regarding copy of correspondence with the AE for
+allocation of cost, it was observed by the DRP that no such document was
+furnished by the assessee. However, before us the assessee filed additional
+evidences for the A.Y 2012-13 as discussed in earlier para elsewhere in the
+order and we are in principle agree with the contention of the assessee
+regarding the allowability of management fees and there is no requirement of
+transfer pricing adjustment on this issue, subject to verification of availing
+of actual services and allocation of its cost to the assessee. For the A.Y
+2011-12, it was stated that all the  117 relevant evidences were already
+available with the Assessing Officer/TPO and on that basis; it is required to
+be verified with regard to availing actual services and its allocation of cost
+to the assessee. Accordingly, this ground relating to Management fees is
+remitted to the file of ld. Assessing Officer for fresh consideration for both
+the assessment years and the Assessing Officer after going through the
+evidences filed by the assessee decide the issue fresh as indicated above.
+This ground is partly allowed for statistical purposes for both the assessment
+years.
+
+22\. Next ground for the asst. year 2012-13 is with regard to disallowance
+u/s.14A read with Rule 8D of the Income-tax Rules,1962 for the purpose of
+computing total income.
+
+23\. The facts of the issue are that for the subject asst. year, the company
+had investments in its wholly owned subsidiaries i.e. GM Navarra Wind Energy
+Pvt. Ltd. RSR Power Pvt. Limited and Kintech Santalpur Pvt. Ltd. amounting to
+₹12,25,00,000/-. The assessee had also submitted the Tax Audit Report in Form
+3CA and 3CD, which clearly indicates that the Company had not incurred any
+expenditure towards maintenance of the aforesaid investments or for earning
+any exempt income from the said  118 investment. The assessee claimed that no
+expenditure is required to be disallowed u/s.14A of the Act. However, the AO
+modified the facts that there is a direct nexus between increase in
+investments and borrowed capital and as per the given portfolio of investment;
+the assessee should have incurred minor expenditure embedded in the indirect
+expenditure of the assessee towards maintaining these investments.
+
+24\. The ld. AR submitted that sec.14A of the Act cannot be applied if there
+is no exempt income earned during the year. The ld. AR, further submitted that
+the AO erred in not considering the fact that no exempt income had been earned
+during the said financial year and no expenditure has also been incurred
+towards earning exempt income. Therefore, disallowance u/s.14A of the Act is
+not applicable to the assessee's case. Sec.14A of the Act emphasizes on
+disallowance of expenditure incurred in relation to exempt income. The
+question of disallowance of expenditure would arise only in a scenario where
+the assessee has earned exempt income during the year. To support his view, he
+relied on the following judicial precedents:
+
+119
+
+a. CIT vs. Chettinad Logistics (P) Ltd. [248 Taxman 55](Madras) wherein held
+that:-
+
+b. Redington India Ltd. vs. Addl. CIT [TCA 520 of 2016](Madras) wherein held
+that:-
+
+Similar view was fortified by the following case laws:-
+
+i) Cheminvest Ltd. v. ACIT [378 ITR 33](Delhi)
+
+ii) M. Baskaran v. ACIT [152 ITR 844](Chennai, ITAT) According to the ld. AR,
+the AO relied on Circular 5 of 2014, which has been annulled by the
+Jurisdictional High Court and the Tribunal in the above decisions.
+
+24.1 The ld. AR argued that there is no disallowance u/s.14A of the Act, if
+the investment is on account commercial expediency or facilitates the business
+of the assessee. The ld. AR, submitted that the business carried on by the
+subsidiaries is integrated to the business of the assessee and therefore the
+investments have been made on account of commercial expediency and it
+indirectly facilitates the business of the assessee. In other words, the
+investments have not been made with an intention to earn dividend income but
+for furtherance of their existing business. Therefore, the question of
+applying the  120 provisions of sec.14A of the Act, would not arise. The ld.
+AR relied on the following decisions, wherein the said principle has been
+upheld:
+
+a. CIT vs. Oriental Structural Engineers (P) Ltd. [ITA No. 605/2012
+dt.15.01.2013.] (Delhi) b. DCIT v. Regen Powertech Pvt. Ltd. (ITA 766 of 2016
+dated 17.08.2016)[Chennai].
+
+24.2 The ld. AR, further submitted that there is no proportionate disallowance
+of interest cost, since the assessee had sufficient interest free funds to
+make investments. The ld. AR submitted that loan funds have not been utilized
+for making investments and therefore no disallowance can be made by applying
+the second limb of Rule 8D i.e. no requirement to disallow proportionate
+interest cost. The ld. AR also submitted the extracts of bank statement
+substantiating that only interest free funds in the form of share capital has
+been invested in subsidiaries. Therefore, the AO has factually erred in not
+appreciating the same. The ld. AR relied on the decision in the case of Beach
+Minerals Co. (P) Ltd. v. ACIT, wherein the Tribunal, Chennai Bench upheld the
+above principle.  121 24.3. On the other hand, the ld. DR relied on the orders
+of the DRP.
+
+25\. We have heard both the parties and perused the material on record. It was
+submitted before us that there was no exempted income; hence, Sec.14A read
+with Rule 8D cannot be applied. In our considered opinion, this issue came for
+consideration before the jurisdictional High Court in the following cases and
+held as follows:-
+
+i) CIT Vs. Chettinad Logistics (P) Ltd.(supra) where in held that:-
+
+> In our opinion Section 14A, can only be triggered, if, the Assessee seeks to
+> square off expenditure against income which does not form part of the total
+> income under the Act. The legislature, in order to do away with the
+> pernicious practice adopted by the Assessees', to claim expenditure, against
+> income exempt from tax, introduced the said provision. In the instant case,
+> there is no dispute that no income i.e., dividend, which did not form part
+> of total income of the Assessee was earned in the relevant assessment year.
+> Therefore, to our minds, the addition made by the AO by relying upon Section
+> 14 A of the Act, was completely contrary to the provisions of the said
+> Section. It was submitted that the Revenue could disallow the expenditure
+> even in such a circumstance by taking recourse to Rule 8D. According to us,
+> Rule 8D, only provides for a method to determine the amount of expenditure
+> incurred in relation to income, which does not form part of the total income
+> of the Assessee. Rule 8 D, in our view, cannot go beyond what is provided in
+> Section 14A of the Act."
+
+ii) Redington India Ltd. Vs. ACIT (supra) wherein held that:-  122 "13.
+Reliance is also placed on a decision of the jurisdictional High Court in the
+case of Beach Minerals Company Pvt. Ltd. Vs. Assistant Commissioner of Income
+Tax in TCA No.681 of 2013, dated 2.12.2013. In that case, payments of interest
+by the assessee were sought to be disallowed invoking the provisions of s.14A
+on the premise that the same related to borrowings that had been invested and
+would yield exempt returns. The assessee contested the disallowance u/s 14A on
+multiple grounds. It was contended that there were sufficient reserves and
+surpluses available for the purpose of investments, and borrowed funds, for
+which the payment of interest had been incurred, had not been invested. The
+assessee sought to draw a nexus between the borrowed funds and the interest
+payments, highlighting the position that the quantum of available free funds
+was far in excess of the investments made. The Bench, in the light of the
+above submissions, remanded the issue to the file of the assessing officer to
+be considered de novo and after conducting a proper enquiry. Inter alia a
+direction was issued to the assessee to tender a proper explanation for the
+interest payments. The open remand was made in the facts and circumstances of
+that case and no conclusion was drawn by the Bench on the position of law
+involved. In fact, the substantial question of law raised in that case for the
+consideration of the Court was couched in general terms as follows:
+
+"Whether on the facts and in the circumstances of the case. the Income Tar
+Appellate Tribunal is right in law in confirming the disallowance under
+Section 11.1 of the income Tax Act, of an amount of Rs.55,00.000/- in relation
+to assessment year 2007- 2008?"
+
+14\. Nothing much turns on the use of the word 'includable' and the phrase
+'under the act' in s. 14A and we are not persuaded to accept the emphasis laid
+or the interpretation of the same by the Revenue. An assessment in terms of
+the Income tax Act is specific to an  123 assessment year and the related
+previous year. S.4 of the Act, which imposes the charge to tax reads thus:
+
+Charge of income-tax
+
+4\. (1) Where any Central Act enacts that income --tax shall be charged for
+any assessment year at any rate or rates, income-tax at that rate or those
+rates shall be charged for that year in accordance with and subject to the
+provisions (including provisions for the levy of additional income-tax) of,
+this Act in respect of the total income of the previous year of every person:
+
+Provided that where by virtue of any provision of this Act income- tax is to
+be charged in respect of the income of a period other than the previous year,
+income tax shall be charged accordingly. Thus, where the statute indented that
+income shall be recognized for taxation in respect of any previous other than
+that immediately preceding the relevant assessment year, the provision shall
+expressly state so. The provisions of s.10 in Chapter III of the Act dealing
+with 'Incomes not included in total income' commences with the phrase 'In
+computing the total income of a previous year, any income falling within any
+of the following clauses shall not be included.
+
+15\. The exemption extended to dividend income would relate only to the
+previous year when the income was earned and none other and consequently the
+expenditure incurred in connection therewith should also be dealt with in the
+same previous year. Thus, by application of the matching concept, in a year
+where there is no exempt income, there cannot be a disallowance of expenditure
+in relation to such assumed income. (Madras Industrial Investment Corporation
+Ltd. Vs. CIT (225 ITR 802). The language of S.14A(1) should be read in the
+context and such that it advances the scheme of the Act rather than distort
+it."
+
+25.1 Accordingly the above ground is decided in favour of the assessee and
+there cannot be any disallowance u/s.14A when  124 there is no exempted
+income. This ground of appeal of the assessee for the A.Y 2012-13 is allowed.
+
+26\. The next ground for the asst. year 2012-13 is with regard to disallowance
+u/s.14A with Rule 8D while computing book profits u/s.115JB of the Act.
+
+26.1 The facts of the issue are that the AO while computing book profits
+u/.s.115JB, expenditure attributable to earning exempted income added to net
+profit by invoking the clause (f) to Explanation 1 to sec.115JB of the Act at
+₹ 51,24,351/-.
+
+27\. After hearing both the sides, we are of the opinion that this issue came
+for consideration before the Special Bench of the Tribunal in the case of ACIT
+Vs. Vireet Investments (P) Ltd., in 165 ITD 27(Delhi) wherein held that
+Sec.14A r.w.Rule 8D has no application while computing the book profit
+u/s.115JB of the Act. More so, in this case there is no exempted income, this
+provision cannot be applied. This ground of the assessee is allowed.
+
+28\. The next ground for the a.y. 2011-12 is with regard to deduction of
+interest on service tax and TDS.
+
+125
+
+28.1 The facts of the issue are that the assessee has incurred expenditure in
+the nature of interest on delayed payment of service tax (`12,02,485) and TDS
+(₹ 3,81,650). The AO disallowed the expenditure citing that under the
+provisions of sec.37(1) of the Act, any expenditure for any purpose in the
+nature of offence which is prohibited by law shall not be eligible for
+deduction.
+
+28.2 The ld. AR submitted that as per the Explanation to sec.37 of the Act,
+allowability of any expenditure would depend on whether the expenditure
+incurred is penal or compensatory in nature. Where the expenditure incurred is
+compensatory in nature, the same should be allowed as deduction. It is
+pertinent to note that any interest payment is compensatory in nature and
+therefore cannot be said to be a penal expenditure. The ld. AR relied on the
+decision of the Tribunal, Delhi Bench in the case of Messee Dusseldorf India
+(P) Ltd. vs. CIT [129 TTJ 81] regarding the interest on service tax. He also
+relied in respect of interest on TDS, on the decision of the Bombay High Court
+in the case of Arthur Anderson & Co. vs. ACIT [190 Taxman 279].
+
+29\. On the other hand, ld.D.R relied on the order of DRP.  126
+
+30\. After hearing both the parties with regard to deduction of interest on
+TDS and service tax and TDS, this issue is squarely covered in favoru of
+assessee by the decision of Bombay High Court in the case of Arthur Anderson &
+Co., vs. ACIT in 190 Taxman 279(Bom) wherein held that:-
+
+"9. Apart from the fact that there has been no failure on the part of the
+assessee to make a full and true disclosure of all material facts, it will be
+necessary to advert to the decision of the Supreme Court in Harshad Shantilal
+Mehta vs. Custodian & Ors. (1998) 231 ITR 871 (SC). The Supreme Court, in the
+course of its judgment observed that under the IT Act, 1961 the definition of
+tax under s. 2(43) does not include penalty or interest and that the concepts
+of tax, penalty and interest are different concepts under the Act. Justice
+Sujata Manohar speaking for a Bench of three learned Judges of the Supreme
+Court observed thus :
+
+"We are concerned in the present case with penalty and interest under the IT
+Act. Tax, penalty and interest are different concepts under the IT Act. The
+definition of 'tax' under s. 2(43) does not include penalty or interest.
+Similarly, under s. 156, it is provided that when any tax, interest, penalty,
+fine or any of other sum is payable  127 in consequence of any order passed
+under this Act, the AO shall serve upon the assessee a notice of demand as
+prescribed. The provisions for imposition of penalty and interest are distinct
+from the provisions for imposition of tax."
+
+10\. The decision of the Supreme Court was delivered in an appeal which arose
+out of the Special Court (Trial of Offences Relating to Transaction in
+Securities) Act, 1992. The interpretation which has been placed on the
+provisions of s. 2(43) and the observations of the Supreme Court noted
+earlier, however, bind this Court as regards the ground on which the reopening
+of the assessment has been sought in this case."
+
+31\. Further, the Co-ordinate Bench of Delhi in the case of Messee Dusseldorf
+India (P) Ltd., vs. DCIT in 129 TTJ 81 (Delhi) wherein held that:-
+
+"Interest paid for delayed payment of service-tax is compensatory and has the
+same character as service-tax and, therefore, it is allowable as deduction."
+
+31.1 Further, in the case of CIT vs. Udaipur Distillary (160 ITR 444
+(Rajasthan) wherein it was held that interest paid for delay in payment of
+sales tax is allowable expenditure. Kerala High Court in the case of CIT vs.
+TM Chacko And Partners (115 ITR 40) (Kerala) wherein it was held that interest
+paid for late payment of Kist is allowable business expenditure. The same view
+was taken by the Kerala High Court  128 in the case of CIT vs. Pachi Phillip &
+Co., 212 ITR 75 (Kerala). Further, the Tribunal in the case of Remfry & Sagar
+Consultants Pvt. Ltd. Vs. ACIT (34 CCH 131 (Delhi) wherein it has been held
+that interest paid for delayed payment of service-tax is allowable. However,
+in respect of payment of interest on delayed TDS payment it cannot be allowed
+in view of the judgement of Supreme Court in the case of Bharat Commerce &
+Industries Ltd. Vs. CIT (230 ITR 733). Further, the Kolkotta High Court in the
+case of East India Pharmaceutical India Ltd. Vs. CIT 114 ITR 423 wherein it
+was held that interest paid on money borrowed for the payment of income tax
+could not be allowed as a business expenditure.In view of the above
+discussion, we are of the opinion that interest on delay in payment of service
+tax, which is only compensatory nature paid on account of delay in these
+payments and to be allowed as business expenditure. However, interest paid for
+delay in payment of TDS cannot be allowed as business expenditure. This ground
+raised by assessee in its appeal for the assessment year 2011-12 is partly
+allowed.  129
+
+32\. The next ground for the assessment year 2012-13 is with regard to
+disallowance of spill over of additional depreciation u/s.32(1)(iia) on plant
+and machinery put into use during the preceding year.
+
+33\. The facts of the issue are that the assessee acquired and installed plant
+and machinery during the preceding year in respect of which additional
+depreciation at the rate of 20% has been claimed. In respect of assets put
+into use for a period of less than 180 days during the preceding year,
+additional depreciation has been claimed at the rate of 10 per cent.
+Therefore, the remaining spill over of 10 percent has been claimed during the
+subject AY. The AO held that additional depreciation would be allowable only
+in the year in which the asset is put into use and rejected the claim of the
+assessee. 33.1 The provisions of the Act are ambiguous and in case asset is
+put to use for less than 180 days in an year then additional depreciation
+u/s.32(1)(iia) has to be reduced to half the specified rate. Further, there
+isn't any provision of carry forward of balance additional depreciation to the
+succeeding previous year. So there isn't any flaw in the order of the AO in
+130 this regard and the objection of the assessee is not accepted. This is
+important to note that realizing this aspect of loss to the assessee of
+balance depreciation, an amendment in the Act has already been carried out
+which allows this benefit of carry forward to the assessee in immediately
+succeeding year, however such benefit is available only w.e.f. 01.04./2016 and
+not for the year under consideration. Memorandum to Finance Bill, 2015 while
+introducing this amendment reads as follows:
+
+> "Non-availability of full 100% of additional depreciation for acquisition
+> and installation new plant and machinery in the second half of the year may
+> motivate the assessee to defer such investment to the next year for availing
+> full 100% of additional depreciation in the next year. To remove the
+> discrimination in the matter of allowing additional depreciation on plant or
+> machinery used for less than 180 days and used for 180 days or more"
+
+Thus, the memorandum acknowledges that as of today if the assets are used for
+less than 180 days, it is not eligible for full 100% of additional
+depreciation. Accordingly, the amendment is more for the future years rather
+than an amendment as applicable even to earlier years prior to financial year
+2015-16. Thus, it was never the intention of the legislature to allow the  131
+claim of balance 50% additional depreciation in the immediately subsequent
+year in case of financial years prior to 2015-16. The issue also has been
+decided by the Tribunal, Chennai Bench in the case of Brakes India Ltd. vs.
+(96 DTR 281), where the Tribunal did not allow the balance additional
+depreciation in subsequent financial year.
+
+34\. After hearing both the parties, we find that similar issue was considered
+by the Karnataka High Court in the case of ACIT Vs. M/s.Rittal IndiaPvt Ltd.
+in vide order dated 24.11.2015 in 2016-TIOL-07-HC-KAR-IT wherein held that:-
+"It has been consistently held by this Court, as well as the Apex Court, that
+beneficial legislation, as in the present case, should be given liberal
+interpretation so as to benefit the assessee. In this case, the intention of
+the legislation is absolutely clear, that the assessee shall be allowed
+certain additional benefit, which was restricted by the proviso to only half
+of the same being granted in one assessment year, if certain condition was not
+fulfilled. But, that, in our considered view, would not restrain the assessee
+from claiming the balance of the benefit in the subsequent assessment year.
+The Tribunal, in our view, has rightly held that additional depreciation
+allowed under Section 32(i) (iia) of the Act is a onetime benefit to encourage
+industrialization, and the provisions related to it have to be construed
+reasonably, liberally and purposively, to make the provision meaningful while
+granting additional allowance. We are in full agreement with such observations
+made by the Tribunal. In view of the aforesaid, we do not find that any
+interference is called  132 for with the order of the Tribunal, or that any
+question of law arises in this appeal for determination by this Court."
+
+35\. Similar view was taken by the jurisdictional High Court in the case of
+CIT Vs. T.P. Textiles Pvt Ltd., (TCA No.157 of 2017, dt.06.03.2017) and the
+Tribunal in the case of R.R Donnelley Publishing India (P) Ltd., Vs. ACIT (ITA
+No.909/Mds./2016 dt.24.08.2016). Respectfully following the above precedents,
+we are inclined to decide the issue in favour of the assessee. Accordingly,
+this ground of appeal of the assessee is allowed.
+
+36\. In the result, both the appeals of the assessee are partly allowed for
+statistical purposes.
+
+Order pronounced on 13th November, 2017 at Chennai.
+
+    
+    
+                Sd/-                                        Sd/-
+          (धु$वु% आर.एल रे 'डी)                           (चं* पज
+                                                                ू ार )
+       (Duvvuru RL Reddy)                              (Chandra Poojari)
+    8या यक सद:य/Judicial Member               लेखा सद:य/Accountant Member
+    
+      चे8नई/Chennai,
+                              th
+      Cदनांक/Dated, the 13 November, 2017.
+      K S Sundaram
+                                 133
+    
+    
+    आदे श क    तEलFप अGेFषत/Copy to:
+                            1. अपीलाथ /Appellant
+                            2.   यथ /Respondent
+                            3. आयकर आयुHत (अपील)/CIT(A)
+                            4. आयकर आयुHत/CIT
+                            5. Fवभागीय   त नKध/DR
+                            6. गाड  फाईल/GF.
+     
+

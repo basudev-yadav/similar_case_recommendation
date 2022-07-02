@@ -1,0 +1,945 @@
+
+
+Income Tax Appellate Tribunal - Hyderabad
+
+Hyundai Motor India Engineering ... vs Ito, Ward-2(3), Hyd, Hyderabad on 21
+December, 2016
+
+    
+    
+              IN THE INCOME TAX APPELLATE TRIBUNAL
+               HYDERABAD BENCHES "A", HYDERABAD
+    
+    
+           BEFORE SHRI D. MANMOHAN, VICE PRESIDENT
+                             AND
+           SHRI B. RAMAKOTAIAH, ACCOUNTANT MEMBER
+    
+       ITA No.      Asst. Year         Appellant             Respondent
+    128/Hyd/2016     2011-12      Hyundai Motor India       The Income Tax
+                                   Engineering Private          Officer,
+                                        Limited,              Ward-2(3),
+                                     HYDERABAD               HYDERABAD
+                                  [PAN: AABCH7867C]
+    216/Hyd/2016      2011-12       The Income Tax       Hyundai Motor India
+                                        Officer,          Engineering Private
+                                       Ward-2(3),              Limited,
+                                     HYDERABAD              HYDERABAD
+                                                         [PAN: AABCH7867C]
+    
+             For Assessee       : Shri K. R. Vasudevan, AR
+             For Revenue        : Shri S.V.S.S. Prasad, CIT-DR
+    
+                  Date of Hearing               : 27-09-2016
+                  Date of Pronouncement         : 21-12-2016
+    
+                                     ORDER
+    
+
+PER B. RAMAKOTAIAH, A.M. :
+
+These are cross-appeals by Assessee and Revenue against the order(s) of the
+Assessing Officer (AO) u/s. 143(3) r.w.s. 92CA(4) r.w.s. 144C of the Income
+Tax Act [Act].
+
+2\. Briefly stated, assessee Hyundai Motor India Engineering Private Limited
+was incorporated in November, 2006 as a subsidiary of Hyundai Motor India
+Ltd., under the Companies Act, 1956. Assessee is a 100% Export Oriented Unit
+and is registered under the Software Technology Parks of India (STPI) :- 2 -:
+I.T.A. Nos.128 & 216 /Hyd/2016 Scheme of the Ministry of Information
+Technology, Government of India. Hyundai Motor India Ltd., itaelf is a
+subsidiary of Hyundai Motor Company, Korea [Associated Enterprise (AE)] 2.1.
+Assessee is involved in providing support services in connection with CAE/CAD
+modeling and iterative simulation. It receives the basic design from its group
+company with respect to CAD modeling and makes a 3D CAD modeling data of
+vehicle components using CAD software tools. Assessee is a routing support
+service provider and it assumes less than normal risk associated with carrying
+out such business. The International transactions reported by assessee are as
+under S.No. Name of the Nature of the Amount Associated international
+transactions in Rs.
+
+    
+    
+                Enterprise
+    1.      Hyundai       Motor   Engineering/Consulting             43,57,37,674
+            Company, Korea        Engineering Services/ IT
+    2.      Kia           Motor   enabled Services (ITeS)
+            Corporation, Korea                                       20,52,60,386
+                                Purchase of computers                 2,64,56,224
+    3.      Hyundai Autoever Purchase       of  Security                   64,667
+            Corporation, Korea equipment
+                                Annual License fee for                 98,95,527
+                                software
+                                Purchase of computer                   23,07,715
+                                Software
+                                Reimbursement         of               11,08,347
+                                expenses
+    4.      Hyundai       Motor Reimbursement         of              2,72,10,590
+            Company, Korea      expenses
+    
+    
+    
+
+3\. Assessee has selected seven companies as comparables in its Transfer
+Pricing documentation whose arithmetic mean was arrived at 7.35% as against
+the margin of assessee at 9.02%. As assessee has international transactions
+with its Associated :- 3 -: I.T.A. Nos.128 & 216 /Hyd/2016 Enterprise [AE], a
+reference u/s. 92CA was made to the Transfer Pricing Officer [TPO] for
+determining Arm's Length Price [ALP]. The TPO vide his order dt. 30-09-2015
+determined the adjustment in ALP at Rs. 11,92,51,438/-. In doing so, the TPO
+rejected assessee's TP study and has selected his own filters and after
+issuing show cause notice to assessee, has selected thirteen comparable
+companies whose arithmetic mean was determined at 25.73%. After providing the
+working capital adjustment, the adjusted arithmetic mean was determined at
+24.32%. On the operating cost of Rs. 65.81 Crores, the said adjustment was
+proposed. The comparables selected by the TPO and the margins are as under:
+
+    
+    
+         S.No               Company Name                       Unadjusted
+                                                                 Margins
+                                                             AY. 2011-12 (%)
+           1.    Accentia Technologies Ltd.,                            29.29
+           2.    Acropetal Technologies Limited                         15.57
+           3.    Cosmic Global Limited                                    9.81
+           4.    Crossdomain Solutions Pvt. Ltd.,                       25.04
+           5.    e4e Healthcare                                         16.60
+           6.    Eclerx Services Ltd.,                                  69.78
+           7.    Informed Technologies Ltd.,                              9.24
+           8.    Infosys BPO                                            18.85
+           9.    Jeevan Scientific Technologies Ltd.,                   28.93
+          10.    Jindal Intellicome Ltd.,                               13.54
+          11.    Mastiff Tech Pvt Ltd.,                                 21.78
+          12.    Microgentic Systems Ltd.,                             -0.22%
+          13.    TCS E-serve Ltd.,                                      76.28
+                 Arithmetic mean                                        25.73
+    
+    
+    
+
+4\. Accordingly, a draft assessment order was made. Aggrieved by the draft
+assessment order, assessee approached the Dispute Resolution Panel [DRP]-1,
+Bangalore and DRP vide its order dt. 03-11-2015, directed to determine the ALP
+according to its directions. The DRP has excluded certain comparables like
+Infosys BPO, Acropetal Technologies Ltd., Jeevan Scientific :- 4 -: I.T.A.
+Nos.128 & 216 /Hyd/2016 Technologies Ltd., e4e Healthcare, TCS E-serve Ltd.,
+and Mastiff Tech Pvt Ltd. It also gave certain other directions. Revised ALP
+addition was determined at Rs. 10,39,16,986/- and assessment order has been
+passed accordingly. Assessee is aggrieved on the above said TP adjustment and
+also on two other corporate issues, whereas Revenue is aggrieved on the
+directions of the DRP excluding certain comparables.
+
+5\. These issues were discussed in detail in this order, after considering the
+arguments of the Ld. Counsel for assessee and Ld. CIT-DR and also perusing the
+written submissions placed by assessee and Revenue. It is to be placed on
+record that on completion of hearing on 27-09-2016, Ld. CIT-DR wanted to file
+written submissions for which time was permitted up to 05-10- 2016\. However,
+vide letter dt. 04-10-2016, the office of the CIT-DR sought further time of
+another two weeks to furnish, whereas the JCIT(TP) wanted time up to second
+week of November, 2016. Finally, the written submissions submitted by ITO,
+Ward-2(3) / DCIT, TPO-2 were placed on record with a covering letter dt.
+11-11- 2016\. In the written submissions, the officers have reiterated their
+submissions as considered by the TPO and the DRP only.
+
+Assessee's Appeal in ITA No. 128/Hyd/2016:
+
+6\. Aggrieved on the orders of the DRP/TPO, assessee has raised various
+grounds running from 1 to 20 and an additional ground Ground No. 16A on
+working capital adjustment which has arisen consequent to the directions of
+the DRP in the final order.
+
+:- 5 -: I.T.A. Nos.128 & 216 /Hyd/2016
+
+7\. Ld. Counsel at the time of arguments has submitted that Ground Nos. 1, 2,
+3 & 20 are general in nature along with Ground Nos. 13 to 15. Ground No. 16
+pertains to adjustment of (+/-) 5% as provided in second proviso to Section
+92C(1) of the Act. Ground Nos. 17 to 19 pertains to corporate issues.
+
+Transfer Pricing Issues:
+
+8\. The TP issues are covered from Ground No. 4 to 12 and additional ground
+No. 16A which are considered as under:
+
+Ground No. 4. "That on the facts and circumstances of the case and in law, the
+AO/DRP erred in considering the upfront fee amounting to Rs. 6,31,227 paid for
+obtaining the loan for capital purpose as a part of operating cost, while
+computing the net margin of the Appellant under Transactional Net Margin
+Method ('TNMM')".
+
+8.1. The facts leading to the above is that the TPO has considered other
+Finance charges of Rs. 6,31,227/- as 'operating cost'. It was contended that
+these charges are in the nature of up- front fees for obtaining loan which was
+used for capital purposes hence, the same should not be considered as
+operating in nature. The DRP has directed the AO to verify from the
+computation of total income as to whether the above expenses have been
+disallowed treating the same as capital in nature and if so, directing the AO
+to reduce the same from the operating cost. The DRP also directed that if it
+is claimed and allowed as 'revenue expenditure', it has to be considered as
+part of operating cost.
+
+8.2. After considering the submissions by assessee and Revenue, we are of the
+opinion that there is no need to interfere :- 6 -: I.T.A. Nos.128 & 216
+/Hyd/2016 with the directions of the DRP on the issue. Whether the up-front
+fees paid is part of the operating cost or not is a factual matter to be
+verified and therefore, the ground does not deserve any merit at this end.
+Accordingly, the same is rejected.
+
+Ground No.5. That on the facts and the circumstances of the case and in law,
+the AO/DRP erred in accepting the following comparable companies as selected
+by the TPO:
+
+> a) Accentia Technologies Limited;
+
+> b) Eclerx Services Limited; and
+
+> c) Crossdomain Solutions Private Limited.
+
+Ground No. 6. That on the facts and the circumstances of the case and in law,
+the AO/DRP erred in not following the order of Hon'ble Income Tax Appellate
+Tribunal in Appellant's own case for AY 2008-09, AY 2009-10 and AY 2010-11.
+
+9\. Assessee is contesting the selection of the following three companies:
+
+> i) Accentia Technologies Limited;
+
+> ii) Eclerx Services Limited; and
+
+> iii) Cross domain Solutions Private Limited.
+
+9.1. Assessee has objected to the above companies stating that they are
+functionally different but DRP has rejected them.
+
+9.2. Ld. Counsel submitted that each of the company cannot be selected for the
+following reasons:
+
+i) Accentia Technologies Limited;
+
+9.3. It was submitted that Accentia Technologies Limited cannot be considered
+as a comparable based on the functional dissimilarity as the said company is
+into diversified outsourcing services. It has relied on annual report for AY.
+2010-11 showing :- 7 -: I.T.A. Nos.128 & 216 /Hyd/2016 that assessee is having
+multi location, diversified knowledge process outsourcing company and also it
+has products such as instaKare and instaweb which makes the company a product
+based company as well. Not only that, it was also submitted that there was no
+segmental information provided by the Accentia Technologies Limited in its
+annual report and margin calculated was done at over all entity level, whereas
+it was involved in various activities like medical transcription, billing and
+collections and income from coding etc. It was also further submitted that
+there are extraordinary events during the year like acquiring companies in USA
+such as GSR Physicians Billing Services INC, GSR Systems INC and Denmed Inc.
+It was also submitted that the said company has shown abnormal growth pattern
+due to acquisition and is a super normal profit company. It also has
+Intellectual property rights and accordingly, functionally different from
+assessee- company.
+
+9.4. It was submitted that in the case of Exevo India Pvt. Ltd., Vs. ITO in
+ITA No.907/Del/2016 (AY.2011-12) dt. 25-07- 2016, the above said company was
+excluded from the ITES category. Like-wise, it is also excluded in Orange
+Business Services for AY. 2011-12 on account of functional differences, good
+will and extraordinary events. It was further submitted that the above company
+was also rejected in assessee's own case for AY. 2008-09 to 2010-11.
+
+9.5. Ld. DR, however, relied on the orders of the TPO and DRP to submit that
+company is a comparable one.
+
+:- 8 -: I.T.A. Nos.128 & 216 /Hyd/2016 9.6. We have considered the rival
+contentions and perused the details placed on record. There is justification
+in assessee's contentions as the above said company is involved in
+multifarious activities including products and IPR rights. Consequently, it
+cannot be considered as functionally similar to assessee-company which is
+categorised as a KPO company, being in engineering business process services.
+The Co-ordinate Bench in the case of Exevo India Pvt. Ltd., Vs. ITO in ITA
+No.907/Del/2016 (AY.2011-
+
+12) dt. 25-07-2016 (supra) has considered this comparable and excluded by
+stating as under:
+
+"Accentia Technologies Ltd.
+
+4.1. Ld.TPO considered this as a comparable. Assessee objects to the
+compatibility of this company is due to functional incompatibility. Ld.AR
+submitted that this company was having supernormal profit and is engaged in
+providing KPO services which is distinct from the nature of services provided
+by the assessee before us. He has placed reliance upon the decision of
+coordinate benches of this tribunal in the case of M/s.Capital IQ Information
+Systems (India) Pvt. Ltd. Vs. DCIT in ITA No. 1961/H/2011 and Symphony
+Marketing Solutions India Pvt. Ltd., in ITA No. 1316/BANG/2012, wherein the
+dissimilarities between KPO services and BPO service has been drawn up. He
+further contended similar view has been upheld by the Hon'ble jurisdictional
+High Court in the case of Rampgreen Solutions Pvt. Ltd., vs. CIT in ITA
+102/2015.
+
+6.2. Ld. DR, however, referred to extracts from the ld.TPO's order to submit
+that Accentia Technologies Ltd. is comparable with assessee. The ld. DR relied
+upon order dated 27.04.2015 passed by Hon'ble Delhi High Court in the case of
+Chris Capital Investment versus DCIT reported in I.T.A.No. No.417/2014,
+wherein Hon'ble Delhi High Court has held that:
+
+> ".... the mere fact that an entity makes high / extremely high profits /
+> losses does not ipso facto, lead to its exclusion from the list of
+> comparables for the purpose of determination of ALP. In such circumstances
+> enquiry under Rule 10B(3) ought to be carried out, to determine as to
+> whether the material differences between the assessee and the said entity
+> can be eliminated. Unless such differences cannot be eliminated, the entity
+> should be included as a comparable."
+
+> :- 9 -: I.T.A. Nos.128 & 216 /Hyd/2016 6.3. After considering the rival
+> submissions and pursuing the relevant material on record, we find that
+> functionally, this company is into development of software products for
+> healthcare. It is submitted by the ld.AR that Accentia Technologies Ltd is
+> engaged into diversified activities such as Knowledge Process
+> outsourcing(KPO), Legal process outsourcing(LPO), Data process
+> Outsourcing(DPO), high end software services. It is submitted by the ld.AR
+> that segmental information in respect of this company is not available. We
+> find that the Ld. TPO had adopted this company as a comparable as the Ld.
+> TPO is of the view that the services rendered by this comparable are in the
+> nature of BPO or back office services and that nothing he is earned from
+> sale of products.
+
+We have perused the annual reports of this company and have observed that
+Accentia owned a brand and goodwill on account of acquisition/amalgamation of
+a defendant in force. Further it is observed that this company is providing
+services in the field of medical transcription billing and collections income
+from coding etc for which complete segmental information are not available.
+
+In our considered opinion this company is functionally dissimilar to that of
+the assessee. Accordingly we direct the Ld. TPO to exclude this company from
+the list of comparables".
+
+Accordingly, respectfully following the above, we direct the AO/TPO to exclude
+the above company from the list of comparables.
+
+ii) Eclerx Services Limited;
+
+9.7. It was submitted that this company is a Knowledge Process Outsourcing
+Company and as per the annual report of the company, it is engaged in the
+provision of services in business units of financial services and sale and
+marketing support. It was also further submitted that there was an
+extraordinary events as a subsidiary company of Eclerx Services Limited was
+wound-up. It has super normal profits during the year and cannot be compared
+to assessee-company. It was further submitted that this company was rejected
+in assessee's own case for AY. 2008-09 to 2010-11 on :- 10 -: I.T.A. Nos.128 &
+216 /Hyd/2016 functionally dissimilar and peculiar economic circumstances. Ld.
+Counsel relied on the orders in earlier year.
+
+9.8. We have perused the rival contentions and the documents placed on record.
+Assessee raised the similar contentions before the DRP and DRP vide it order
+in pg. 12 has considered as under:
+
+"Having considered the submission, we are of the view that the engineering
+design services provided by the assessee is comparable to the services
+provided by the above company. Further, in the safe harbor guidelines issued
+by the CBDT, engineering design services have been considered under KPO.
+Further, the objection in regard to the exclusion of the company due to high
+profit is not found acceptable due to the detailed reasons given in paragraph
+2.6 of this order. There is no extraordinary event have been pointed out by
+the assessee similar to the earlier years in which the Hon'ble ITAT directed
+to exclude the company due to such event. Further, it appears to us that the
+high end function of the company were not brought to the notice of the Hon'ble
+ITAT, which resulted in exclusion of the above company. Accordingly,
+considering the function of the assessee, we are of the view that there is no
+infirmity in inclusion of the above company in comparables".
+
+9.9. We notice that this company is categorised as KPO company and the
+services are similar being provided to the services being provided by the
+above company. Further, as seen from the so called extraordinary event, it is
+noticed that the said company has wound-up a subsidiary company w.e.f.
+29-03-2011. Since it has not acquired the company whose turnover is included
+in assessee-company but only wound-up a dormant company, we are of the opinion
+that it does not have any bearing on assessee's operating results. Super
+normal profits cannot be a basis for exclusion of a company and since the DRP
+has considered the objections, we agree with the findings of DRP. Even though
+the company was excluded in earlier year, we are of the opinion that :- 11 -:
+I.T.A. Nos.128 & 216 /Hyd/2016 each year is to be considered separately on the
+basis of the facts and in TP matters the facts will vary from year to year.
+Accordingly, we are of the opinion that this company cannot be excluded. To
+that extent, the ground raised by assessee is rejected.
+
+iii) Crossdomain Solutions Private Limited:
+
+9.10. With reference to this company, it was submitted that the company is
+functionally dissimilar as it has a diversified Knowledge Process Outsourcing
+Company providing services in insurance, health care, HR and accounting
+domains. Company also offers business excellence market research and data
+analytics and IT services. It was also submitted that the company is engaged
+in software development activities. It was also submitted that in assessee's
+own case in AY. 2008-09, this company was rejected by the ITAT due to the fact
+that it has diversified activity and further, segmental information was not
+available. It was also contended that the margin calculated by the TPO is
+incorrect and furnished a revised computation. The issue was whether the bad
+debts were non-operating expenses and TPO has not followed the guidelines on
+the issue.
+
+9.11. We have considered the rival contentions and perused the documents
+placed on record. Assessee has raised the same objections before DRP which
+gave a finding that the engineering design services being rendered by assessee
+are akin to KPO services of the above company. It further considered that
+functional comparability need to be decided on the basis of the information
+available in the annual report and not based on the :- 12 -: I.T.A. Nos.128 &
+216 /Hyd/2016 website information which may vary and may not be reliable. It
+was further noted that in the case of M/s. Excellence Data Research Pvt. Ltd.,
+in ITA No. 159/Hyd/2015, the ITAT rejected the objection of assessee for
+exclusion of above company noting that the annual report refers only service
+and is in the pay roll service activity. Thus, stating DRP rejected assessee's
+objections. We do not find any reason to interfere with the said objections as
+the very basis of the contentions are based on the website information but not
+on the annual report. However, the DRP has directed the TPO to verify the
+margin which assessee submits that has not been considered. Therefore, while
+retaining the company as a comparable one, we direct the AO/TPO to examine the
+contentions with reference to margin computation of the above said company
+after giving due opportunity to assessee to make submissions. This issue is
+considered partly allowed.
+
+9.12. In the result, grounds are considered partly allowed.
+
+Ground No. 7. That on the facts and the circumstances of the case and in law,
+the AO/DRP erred in confirming the TPO's stand of treating the provision for
+bad and doubtful debts and bad debts written off as non- operating expenses
+for the purpose of margin computation of comparable companies as selected by
+TPO.
+
+10\. This ground pertains to the issue of provision for bad and doubtful debts
+and bad debts written off which should be considered as operating in nature
+while computing the margin of comparable companies. This is a general ground
+pertaining to computation of margin of the comparable companies. It was the
+submission that the provision for bad and doubtful debts and bad debts written
+off are part of its operating expenditure as an entity :- 13 -: I.T.A. Nos.128
+& 216 /Hyd/2016 undertakes marketing and creates a customer base for itself.
+Some of them fail to make the payment due to which the provision is created in
+the books of account. Since this provision is in relation to the services
+rendered, this expenditure is an operational expenditure. It was submitted
+that this contention, even though was accepted by the DRP in its various
+findings, the TPO has not acted upon the same.
+
+10.1. After considering assessee's objections and perusing the orders of the
+DRP, we are of the opinion that the DRP has correctly directed the TPO with
+reference to the above issue. The directions of the DRP are as under:
+
+"Having considered the submissions, in our view provision for bad & doubtful
+debts is not made in all the cases and further, the provision is not an
+ascertained liability. Therefore, there is no debate here as to whether the
+provisions for bad debts is "operating in nature" or not? As per the Act, it
+is permitted to be debited to the expenses. The issue here is while
+considering comparative analysis for TP purpose, the provision of this sort,
+which has nexus to the performance of the assessee for the previous years, if
+allowed to remain debited to the books of the relevant FY, creates
+complications when considered for comparative analysis and creates
+distortions. This provision as the name suggests is a provision and allowed to
+be treated as bad by the assessee per its own assessment and it may be
+realizable subsequently and reversed. This relates to the sales accounted in
+the earlier years. Essentially, this provisions refers to the past performance
+of the company. Even otherwise, for the comparability analysis, if such
+provisions are excluded from the tested parties as well as the comparables,
+the error in the margins of the relevant year are taken care of. Therefore, we
+do not find any infirmity in the approach of the TPO.
+
+However, it is noticed by us that in the case of Jindal Intellicom Ltd., on
+perusal of the Annual Report of the company, it is noticed that the TPO has
+not reduced the provision for bad & doubtful debts of Rs. 79,35,297/- from the
+operating cost. Considering the same, we direct the AO to rework the margin of
+the above company".
+
+:- 14 -: I.T.A. Nos.128 & 216 /Hyd/2016 We do not find any reason to interfere
+with the directions of the DRP. However, TPO is directed to re-workout the
+margins considering that annual report of each of the companies which are
+being objected to by assessee. AO/TPO is directed accordingly. The ground is
+considered allowed.
+
+Ground No. 8. That on the facts and circumstances of the case and in law, the
+AO/DRP erred in excluding the following companies, viz., a. e4e Healthcare
+Business Services Private Limited; b. Mastiff Tech Private Limited.
+
+Ground No. 9. That the AO/DRP erred in excluding the companies without
+providing any show cause notice or a reasonable opportunity of being heard to
+the Appellant, completely disregarding the provisions of the Act and in utter
+disregard to the principles of natural justice.
+
+Ground No. 10. That the AO/DRP erred in excluding the companies not objected,
+when the AO/TPO had already examined and decided the issues based on the facts
+and material available on record.
+
+11\. As can be seen from the grounds, the two companies are excluded by the
+DRP, even though these are not objected to by assessee and Revenue also has
+raised objections in their grounds. Considering that TPO has included them as
+comparable companies and assessee has not objected to them and also on the
+fact that Revenue is raising the ground on the issue before us, we are of the
+opinion that DRP has wrongly excluded the above two companies on the reason of
+inconsistency in accounting and huge variation in the margin due to
+uncertainty of the receivables. These cannot be considered as a valid reason
+for excluding the company when all other filters have been compared and
+accepted by the TPO. In view of this, we modify the order of the DRP and
+direct the AO/TPO to consider these companies as comparable companies.
+However, if :- 15 -: I.T.A. Nos.128 & 216 /Hyd/2016 there is any objection
+with reference to the margins as considered in Ground No. 7 with reference to
+inclusion of bad and doubtful debts/bad debts written off, the TPO is directed
+to work out the correct margin after giving due opportunity to assessee.
+Grounds of assessee are allowed.
+
+Ground No. 11. That on the facts and circumstances of the case or in law,
+AO/DRP erred in confirming the rejection of following comparable companies, as
+rejected by the TPO:
+
+> a) Microland Limited;
+
+> b) R Systems International Limited;
+
+> c) Accuspeed engineering Limited; and
+
+> d) CSS Technology Limited.
+
+12\. This ground pertains to rejection of comparables selected/proposed by
+assessee. In this ground, assessee is requesting for inclusion of the
+following four companies selected by it.
+
+i. Microland Limited;
+
+ii. R Systems International Limited;
+
+    
+    
+          iii. Accuspeed engineering Limited;       and
+          iv. CSS Technology Limited.
+    
+    The detailed submissions are as under:
+    
+    
+    i. Microland Limited;
+    
+    
+
+12.1. It was submitted that Microland Limited is functionally comparable to
+that of assessee. It qualifies quantitative filters applied by the TPO
+including different financial year ending filters. It was also submitted that
+TPO himself has chosen the company for AY. 2009-10. It proves that the company
+satisfied the persistent :- 16 -: I.T.A. Nos.128 & 216 /Hyd/2016 loss making
+filter applied by the TPO. Hence, ought to have accepted.
+
+12.2. After considering the rival contentions, we are of the opinion that DRP
+has correctly gave a finding that this company is not comparable to assessee-
+company. The findings of the DRP are as under:
+
+"Having considered the submission, on perusal of the annual report, it is
+noticed from segment reporting that the revenue from IT enabled service
+segment is Rs. 2,73,94,000/- as against the revenue from infrastructure
+management services of Rs. 26,12,95,000/- and therefore, the company fails the
+revenue earning filter applied by the TPO. Further, it is also noticed that
+the company is engaged in IT infrastructure management services and takes
+support services which are not comparable with the function of the assessee
+company and therefore, the above company in our view cannot be retained as a
+comparable".
+
+Since the turnover is very small in the IT Enabled Services Agreement, we
+affirm the findings of the DRP and reject the assessee's contentions.
+
+ii. R Systems International Limited;
+
+12.3. It was submitted that this company was selected by the TPO in the
+earlier year and hence, this company should be selected as comparable. It was
+further submitted that TPO excluded the company on the basis of different
+financial year ending which was upheld by the DRP. It was contended that if
+the company is having financial year, data available in the public forum can
+be adjusted for the financial year ending 31-03-2011. Then, this company can
+be considered as a comparable. Assessee relied on the Co-ordinate Bench
+decision in the case of Techbooks International Private Limited (ITA No.
+240/Del/2015) and also the :- 17 -: I.T.A. Nos.128 & 216 /Hyd/2016 decision of
+Hon'ble Delhi High Court in the case of CIT Vs. Mckinsey Knoweldge Centre
+India Pvt. Ltd., in ITA No. 217/2014 dt. 27-03-2015 for the proposition that
+if from the available data on record, the results for the financial year can
+reasonably be extrapolated then, the comparable cannot be excluded solely on
+the ground that comparables have different financial year endings.
+
+12.4. Since the objection of assessee is valid, we direct the AO/TPO to
+examine afresh this comparable and to verify whether the comparables satisfy
+other filters, then select the company as comparable. AO/TPO is directed
+accordingly.
+
+iii. Accuspeed engineering Limited;
+
+12.5. It was submitted that Accuspeed engineering Limited is engaged in the
+provision of engineering consultancy services which were functionally
+comparable to the appellant. It was submitted that the company is engaged in
+design and detailed engineering for instrumentation for various projects and
+relied on the annual report for the year ending 2009-10. The DRP however,
+noticed that this company has only employee cost of 1.98 Crores which is less
+than 25% and thus fails the employee cost filter. It relied on the Co-ordinate
+Bench decision in the case of Navisita India Pvt. Ltd., in ITA No.
+5329/Del/2012. The DRP also relied on the judgement of Delhi High Court in the
+case of Rampgreen Solutions Pvt Limited Vs. CIT in ITA No 102/2015 dt
+10-08-2015 to come to a finding that assessee is not a comparable company. We
+also notice that the said company is functionally different. As seen from P &
+L account, revenues include sales and services. Consequently, in the abscne of
+any segmental information, it cannot be concluded :- 18 -: I.T.A. Nos.128 &
+216 /Hyd/2016 that the said company is comparable company to assessee which is
+in ITES providing engineering services. We are of the opinion that the TPO/DRP
+has rightly excluded the company as functionally dissimilar. Assessee's
+contentions are rejected.
+
+iv. CSS Technology Limited:
+
+12.6. With reference to this company, it was submitted that CSS Technology
+Limited is engaged in provision of information technology enabled services
+which is functionally comparable to assessee. It was noticed from the order of
+the DRP that the said company fails export earning filter as the export
+turnover was 91.41 Lakhs as against domestic turnover of Rs. 13.33 Crores. We
+do not see any reason to differ from the findings of the DRP. Accordingly, we
+are of the opinion that TPO/DRP has rightly excluded the above company. In the
+result, the ground is partly allowed.
+
+13\. Ground No. 12 pertains to the issue of adjustment which should be
+restricted to the international transactions. The ground is as under:
+
+Ground No. 12. That on the facts and circumstances of the case or in law,
+AO/DRP has erred in making the adjustment by considering total revenue of the
+Company without appreciating that the transfer pricing adjustment should be
+restricted only to the value of international transactions with the AE.
+
+13.1. It was submitted that the adjustment should be restricted to the
+International transaction and assessee has furnished the segmental report
+reporting to the TPO. Assessee relied on the following case law:
+
+    
+    
+                                     :- 19 -:       I.T.A. Nos.128 & 216 /Hyd/2016
+    
+    
+    
+    
+     i.     Saven Technologies Ltd. Vs. ACIT (ITA No. 1456/Hyd/2010);
+    ii.     DCIT Vs. M/s. Firestone International (P) Ltd (ITA No
+            4520/Mum/2011); and
+    iii.    DCIT Vs. M/s. Federal Mogul Bearing India Ltd            (ITA No.
+            1255/Mum/2014;
+    
+    
+
+13.2. In principle, we agree with assessee's contentions that the ALP
+adjustment should only be restricted to international transactions and not to
+the entire turnover of assessee. However, this requires verification by the
+AO/TPO. Therefore, we direct the AO/TPO to verify and restrict the adjustment
+only to the international transactions. Ground is considered allowed for
+statistical purposes.
+
+Working capital adjustment Ground No. 16A : The Appellant submits that
+negative working capital adjustment, if any, resulting from the exclusion or
+inclusion of the companies mentioned in Grounds No 5, 6, 7, 8, 9, 10 and 11,
+should not be made while computing the arm's length margin under the
+provisions of the Income-tax Act, 1961.
+
+14\. This is an additional ground raised by assessee consequent to the orders
+of the DRP. Even though TPO has given positive working capital adjustment,
+consequent to DRP order excluding certain comparable selected, the adjustment
+resulted in negative working. This ground being legal in nature was admitted.
+It was submitted that negative working capital adjustment should not be made
+in its case, as assessee is fully funded by the AO and does not bear any
+working capital risk. Assessee submits that the negative working capital
+adjustment cannot be made in the case of captive services provider. Reliance
+was placed on the decision of the ITAT Hyderabad Bench in the case of Adaptec
+(India) P. Ltd., :- 20 -: I.T.A. Nos.128 & 216 /Hyd/2016 Vs. ACIT in ITA No.
+206/Hyd/2014 (AY. 2009-10) dt. 25-03-2015 wherein it was held that negative
+working capital adjustment should not be made in the case of captive service
+provider.
+
+14.1. After considering the rival contentions, we are of the opinion that
+assessee has a valid ground. In the case of Adaptec (India) P. Ltd., Vs. ACIT
+in ITA No. 206/Hyd/2014 (AY. 2009-10) dt. 25-03-2015 (supra), the Co-ordinate
+Bench has considered the issue of negative working capital and held as under:
+
+"10. Ground No.8 pertains to the issue of negative working capital. As briefly
+stated above, after arriving at the arithmetic mean of all comparables at
+22.03%, the A.O. worked out negative working capital adjustment of 3.22%
+thereby, making arms length price at 25.25%. Even though, DRP refused to
+interfere with the objections of the assessee in its order, we were informed
+that DRP has directed the TPO/A.O. not to make any negative working capital
+adjustment in some of the cases in the next assessment year, in the cases of
+Market Tools Research P. Ltd., and Mega Systems Worldwide India P. Ltd.,
+assessee placed on record copies of orders of DRP. In that DRP considered the
+issue and directed the TPO as under :
+
+> "14. Ground No.11 : Negative Working Capital adjustment - Making a negative
+> working capital adjustment without appreciating the fact that the company
+> does not bear any working capital risks. On this issue, the assessee
+> submitted as under :
+
+> "The learned TPO determined the ALP for the international transactions with
+> A.Es by making a negative working capital adjustment for the differences in
+> working capital between the assessee and the companies considered as
+> comparables. The assessee does not agree with the learned TPO as :
+
+• The company does not bear any working capital risk since it is been fully
+funded by it's A.E. from its inception and has no working capital
+contingencies.
+
+• The company has never taken any loans till date from the date of
+incorporation nor has incurred any expense for meeting the working capital
+requirement."
+
+:- 21 -: I.T.A. Nos.128 & 216 /Hyd/2016 We have gone through the submissions
+and the order of the TPO. The assessee pleaded that the DRP has acceded such a
+plea in some other case. On examination, we find that the DRP, Hyderabad in
+the case of Cordys Software India P. ltd., for A.Y. 2008-09 in its directions
+dated 03.08.2012 has given a finding as under :
+
+> "7.7. 4 Thus, working capital adjustment is made for the time value of money
+> lost when credit time is provided to the customers. The applicant is not an
+> entrepreneur but a captive service provider. Its entire funding needs are
+> provided by the A.E. This being so, the applicant does not stand to lose
+> anything as it is compensated on a total cost plus basis. The TPO probably
+> was carried away by the large amount of receivables appearing in the books
+> of the applicant. But the applicant is running its business without any
+> working capital risk while comparable companies have such a risk for them.
+> If at all any working capital adjustment is to be made to t his situation,
+> only a positive adjustment has to be made to the comparables so that they
+> are brought on par with the applicant. In view of the same, the Panel
+> directs that negative working capital adjustment to the arithmetic mean
+> margin of the comparables shall not be made."
+
+> In view of the above, the Panel directs that negative working capital
+> adjustment to the arithmetic mean margin of the comparables shall not be
+> made."
+
+11\. In view of the above, we are of the opinion that assessee's case being
+similar, there is no need for making any negative working capital adjustment
+when assessee does not carry any working capital risk. In fact, TPO should
+have done necessary working capital adjustment to the profits of the selected
+comparables so as to make them comparable to the assessee. In view of this, we
+direct the TPO not to make negative working capital adjustment".
+
+Respectfully following the Co-ordinate Bench decision, we direct the AO/TPO
+not to make any negative working capital adjustment. Since some of the
+comparables are excluded and some are directed to be verified/ included, the
+TPO/ AO is directed to work out the adjustment afresh.
+
+Corporate Issues:
+
+15\. Ground No. 17 pertains to the issue of non-setting off of unabsorbed
+depreciation. The ground is as under:
+
+:- 22 -: I.T.A. Nos.128 & 216 /Hyd/2016 Ground No. 17. The AO erred by not
+setting off the unabsorved depreciation of AY 2008-09 and AY 2010-11 amounting
+to Rs. 83,16,472 available for set off under section 32 of the Act from the
+current year's taxable income under regular provisions of the Act as computed
+in the Assessment Order dated 28 December 2015.
+
+15.1. It was submitted that even though the DRP has directed the AO to verify
+the record and allow the set-off of deprecation, the AO has not followed the
+directions. Ld. DR however, submitted that this is a matter of verification of
+record.
+
+15.2. After considering the rival contentions, we are of the opinion that AO
+has not followed the directions of the DRP. DRP vide para 3 in page 26 has
+clearly directed the AO to verify the records and consider the submissions
+made in accordance with the provisions of the Act. AO in the order itself has
+stated that assessee filed revised return of income on 30-03-2013 revising the
+total income to Rs. 18,18,817/- after set-off of unabsorbed depreciation of
+earlier years. However, while computing the income, he has not started from
+the income returned, but has started from income from profits and gains of
+business and added income from other sources and the arm's length adjustment
+ignoring the set-off of unabsorbed depreciation. We direct the AO/TPO to
+follow the directions of the DRP and allow the unabsorbed depreciation as per
+the provisions of the Act. Ground is accordingly considered allowed.
+
+16\. Ground Nos. 18 & 19 pertaining to levy of interest u/s. 234A, 234B &
+234D. The Grounds are as under:
+
+:- 23 -: I.T.A. Nos.128 & 216 /Hyd/2016 Ground No. 18: The AO has erroneously
+levied interest under section 234A though the assessee has filed its return of
+income within due date specified in section 139(1) of the Act.
+
+Ground No.19: That the consequential effect should be given to the liability
+of interest under section 234B and 234D.
+
+16.1. This being consequential, we direct the AO to follow the provisions of
+the Act, principles of law on the basis of the total income computed after
+giving effect to this order. Grounds are accordingly considered allowed.
+
+17\. In the result, this appeal of assessee is partly allowed for statistical
+purposes.
+
+Revenue's appeal in ITA No. 216/Hyd/2016:
+
+18\. This appeal is against the order of the DRP in which the following three
+grounds are raised:
+
+"1. Whether on the facts and circumstances of the case, the Hon'ble DRP was
+justified in rejecting companies on the ground of functional difference when
+the taxpayer has not considered the verticals & horizontals (categorizing
+comparables. The TPO has also not gone into the verticals/horizontals of the
+comparables. The DRP failed to consider that the main search strategy of the
+taxpayer as well as the TPO has been to identify the companies which are
+engaged in the ITES.
+
+2\. Whether on the facts and circumstances of the case, the Hon'ble DRP was
+justified in rejecting Infosys BPO on ground of High turnover hence, it does
+not influence the net margins of the company.
+
+3\. Forward contracts are part and parcel of operations of the company and
+gain or loss arising out of the same is operations in nature hence, it does
+not influence profit origin. Thus the DRP erred in its decision of forward
+contracts influence the profit margin of the company".
+
+:- 24 -: I.T.A. Nos.128 & 216 /Hyd/2016 18.1. As can be seen from the above
+grounds, they are not very clear on what comparables the issues are raised but
+the only comparable which was specifically mentioned in Ground No. 2 is with
+reference to the Infosys BPO Ltd.
+
+18.2. We were informed by the Ld. DR that the Ground No. 3 pertains to the two
+comparables which are contested in the Ground Nos. 8, 9 and 10 (herein above
+in assessee's appeal) which were excluded by the DRP, when neither TPO nor
+assessee objected to their inclusion. Since the ground raised in assessee's
+appeal at Ground Nos. 8, 9 10 covers the ground No. 3 in Revenue's appeal and
+since those grounds were allowed, we treat this contention of Revenue also as
+allowed.
+
+18.3. Coming to Ground No. 1, there is no specific objection with reference to
+companies which are rejected and accepted on the principles that TPO has not
+gone into the verticals & horizontals of the comparables. Even though the said
+conceptual contention may be correct generally, but as seen from the order of
+the DRP, they have very clearly specified why a particular company is not
+functionally comparable. We do not see any reason to interfere with such
+findings. Thus the issue does not arise from the order of DRP. Accordingly,
+Ground No. 1 is rejected.
+
+18.4. Coming to Ground No. 2, we notice that DRP has excluded both Infosys BPO
+Ltd., as well as TCS E-serve Ltd. Revenue is objecting only one, Infosys BPO
+that it was wrongly excluded on the ground of high turnover as it does not
+influence the net margins of the company. However, there are other reasons :-
+25 -: I.T.A. Nos.128 & 216 /Hyd/2016 also on which the DRP has excluded the
+above company. The DRP's order with reference to Infosys BPO Ltd., is as
+under:
+
+"2.13 Ground of Objection 13 Infosys BPO Limited ("Infosys" or "the Company")
+has to be rejected based on the presence of the brand thereby warranting
+adjustments are required to eliminate the impact of brand on profits earned.
+Since it might not be possible, Infosys is to be rejected as a comparable.
+
+Infosys BPO Limited ("Infosys" or "the Company") has to be rejected based on
+the fact that it is an oversized company as compared to the tested party.
+
+The Learned TPO erred by not rejecting Infosys as comparable, as exclusion of
+Infosys as comparable is upheld by Jurisdictional ITAT in assessee own case
+(ITAT No.255/Hyd/2014 &ITA.No.1850/Hyd/2012) for AY 2009-10 and AY 2008-09.
+
+It is submitted that the company should be excluded due to the following
+reasons :-
+
+Functional dissimilarity - Niche Areas That Infosys SPO is backed by Infosys
+Technologies Limited which supports Infosys SPO to offer an integrated IT-BPO
+delivery model designed for 'one stop shop' solution model which helps
+managing the entire outsourcing operational chain of IT and process management
+services. Infosys BPO's Business Service Centre performs the back office
+functions for dispersed business units and locations. A pictorial presentation
+of back office functions is displayed below:
+
+Presence of brand That while considering Infosys BPO as a comparable company,
+due consideration should be given to the fact that Infosys spa possesses brand
+value which will tend to influence the pricing policy and thereby directly
+impacting the margins earned by Infosys spa.
+
+As seen from an extract of the Schedule 200200 (Selling and marketing
+expenses) to the Profit & Loss A/c of the Annual Report for the FY 2010-11 of
+Infosys spa, indicates that it is distinguished from the Assessee due to the
+presence of brand and its associated value.
+
+It is also submitted that Infosys spa has identified the presence of brand in
+its services/ products and has goodwill as a part of its Fixed Assets -
+
+:- 26 -: I.T.A. Nos.128 & 216 /Hyd/2016 Schedule 100600. Following is an
+extract which provides evidence to the fact stated above.
+
+It is also submitted that :-
+
+• Infosys BPO, being a subsidiary of lnfosys Limited, has an element of brand
+value associated with it. This can be further confirmed by the presence of
+brand related expenses incurred by Infosys BPO.
+
+• Presence of a brand is likely to command premium prices that the customers
+are willing to pay for the branded services/products.
+
+The Assessee wishes to humbly submit that the Assessee does not have any brand
+associated with it. Hence the Assessee submits that Infosys spa cannot be
+comparable to the Assessee.
+
+Ratio of sum of advertising and marketing expenses to sales greater than 3%
+The Learned TPO has failed to appreciate the marketing expenses filter. Since
+Infosys BPO spends 8.40% of its sales in advertisement, this has generated
+significant revenue and creation of brand value for Infosys spa as there is a
+high degree of correlation between advertising and sales.
+
+Size of the comparable The Learned TPO has failed to appreciate the fact that
+the ITES industry is clearly demarcated based on size and that Assessee cannot
+be compared to companies having sales disproportionate to the sales generated
+by the Assessee. If one were to look at the turnover/size of the 13 comparable
+companies selected by the Learned, TPO and plot it on a scattered diagram,
+then one could notice that both Infosys is a clear outlier. The scattered
+diagram of the 13 comparable companies is presented below:
+
+The assessee relied on the decision of the Hon'ble I TAT, Hyderabad in
+assessee's own case for A.Y. 2009-10 in which the Hon'ble ITAT held that 'We
+are in agreement with the contentions of the comparability on turnover ratio
+of assessee with this company on the ground that assessee's turnover is about
+RS.15.79 crores, as against turnover of Rs.1016 crores of the Infosys. We are
+also of the view that other contentions with regard to the brand value and
+brand building exercise, having huge asset base, can be considered to arrive
+at the conclusion that Infosys BPO is functionally not similar to that of
+assessee. Infosys BPO stands on its own as an exclusive BPO of the Infosys
+Technologies and in earlier years, generally Infosys BPO is excluded in many
+of the cases. Considering these aspects, we are of the opinion that even
+though the profits of the Infosys BPO Ltd. is reasonable and no super profits
+are earned, because of its big :- 27 -: I.T.A. Nos.128 & 216 /Hyd/2016 brand
+value this company has to be excluded on the grounds of functional
+dissimilarity on FAR Analysis. Therefore, we direct the Assessing Officer/TPO
+to exclude this company." The Hon'ble ITAT has taken similar view in A.Y.
+2008-09 also.
+
+Having considered the submission, even though we are in agreement of the
+exclusion of the above company, due to turnover, however, respectfully
+following the decision of the Hon'ble ITAT on functional differences,
+including the influence of the brand value on the margins, we direct the A.O.
+to exclude the above company from the comparables".
+
+18.5. In view of the detailed reasons given by the DRP in excluding the
+company, not only on the basis of the high turnover but also with reference to
+the brand value etc., we do not see any reason to interfere with the findings
+of the DRP. In fact the ground raised is not covering all the issues on which
+the DRP has rejected the above said company. In view of this, we do not find
+any merit in considering the Revenue's ground. Accordingly, ground 2 is
+rejected.
+
+19\. In the result, Revenue's appeal is partly allowed.
+
+20\. To sum-up, Assessee's appeal is partly allowed for statistical purposes
+and Revenue's appeal is partly allowed. If stay orders are pending if any,
+they are deemed to have been vacated.
+
+Order pronounced in the open court on 21st December, 2016 Sd/- Sd/-
+
+    
+    
+    (D. MANMOHAN)                                  (B. RAMAKOTAIAH)
+    VICE PRESIDENT                               ACCOUNTANT MEMBER
+    Hyderabad, Dated 21st December, 2016
+    TNMM
+                                   :- 28 -:       I.T.A. Nos.128 & 216 /Hyd/2016
+    
+    
+    
+    
+    Copy to :
+    
+
+1\. Hyundai Motor India Engineering Private Limited, Survey No. 5/2 & 5/3,
+Opposite Hitec City Railway Station (MMTS), Hyderabad.
+
+2\. The Income Tax Officer, Ward-2(3), Hyderabad.
+
+3\. Dispute Resolution Panel (DRP), Hyderabad.
+
+4\. The Director of Income Tax, International Taxation, Income Tax Towers,
+Hyderabad.
+
+5\. The Addl. Commissioner of Income Tax (Transfer Pricing), Hyderabad.
+
+6\. D.R. ITAT, Hyderabad.
+
+7\. Guard File.
+

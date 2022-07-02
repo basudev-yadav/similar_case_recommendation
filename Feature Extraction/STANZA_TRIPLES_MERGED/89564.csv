@@ -1,0 +1,960 @@
+tid,label,token
+89564,ORG,Supreme Court of India
+89564,ORG,Indian Bank
+89564,ORG,M/S Satyam Fibres
+89564,ORG,India} Pvt.Ltd
+89564,DATE,9 August
+89564,DATE,1996
+89564,PERSON,S S Ahmad
+89564,PERSON,Kuldip Singh
+89564,PERSON,S. Saghir Ahmad
+89564,ORG,INDIAN BANK
+89564,GPE,INDIA
+89564,CARDINAL,09/08/1996
+89564,GPE,KULDIP SINGH
+89564,GPE,S. SAGHIR
+89564,CARDINAL,two
+89564,ORG,"the National Consumer Disputes
+Redressal Commission"
+89564,GPE,New Delhi
+89564,CARDINAL,2
+89564,ORG,"Contract
+No.31/89"
+89564,NORP,French
+89564,PRODUCT,STE Kolori
+89564,QUANTITY,1 lac metres
+89564,NORP,French
+89564,CARDINAL,"4,37,500"
+89564,ORG,Buyer
+89564,CARDINAL,09.06.90
+89564,CARDINAL,two
+89564,ORG,Bills of Exchange
+89564,NORP,French
+89564,ORG,the Bills of Exchange
+89564,ORG,Buyer
+89564,ORG,Bank
+89564,CARDINAL,18.6.90
+89564,CARDINAL,9.7.90
+89564,PERSON,Banque Leumi
+89564,GPE,Paris
+89564,CARDINAL,13.7.90
+89564,CARDINAL,9.4.91
+89564,GPE,Banque Leumi
+89564,GPE,Paris
+89564,ORG,another French Bank
+89564,ORG,Society Lyonnaise De Banque
+89564,GPE,Lyon
+89564,GPE,France
+89564,DATE,the same day
+89564,ORG,"Bills of
+Exchange"
+89564,CARDINAL,6.3.91
+89564,ORG,the French Bank
+89564,ORG,these Bills of Exchange
+89564,ORG,the French Bank
+89564,CARDINAL,9.8.91
+89564,CARDINAL,3\
+89564,DATE,"26th August, 1991"
+89564,ORG,"Bills of
+Exchange"
+89564,ORG,the French Bank
+89564,ORG,The Bills of Exchange
+89564,ORG,Buyer
+89564,ORG,the French Bank
+89564,CARDINAL,4
+89564,ORG,Buyer
+89564,ORG,M/s STE Kolori
+89564,ORG,the Commercial Court
+89564,GPE,Lyon
+89564,GPE,France
+89564,ORG,Court
+89564,ORG,Liquidator
+89564,CARDINAL,5
+89564,DATE,"1st January, 1992"
+89564,ORG,Napean Sea Rood Branch
+89564,GPE,Bombay
+89564,ORG,the French Bank
+89564,ORG,the Bills of Exchange
+89564,ORG,The French Bank
+89564,CARDINAL,9.1.92
+89564,ORG,"the
+Bills of Exchange"
+89564,ORG,Buyer
+89564,ORG,Bank
+89564,NORP,French
+89564,PERSON,Law
+89564,ORG,Bank
+89564,ORG,"the Bank
+Guarantee"
+89564,CARDINAL,26.3.92
+89564,ORG,"the Bills
+of Exchange"
+89564,ORG,"the National Consumer
+Disputes Redressal Commission"
+89564,GPE,New Delhi
+89564,ORG,Commission
+89564,ORG,Buyer
+89564,GPE,France
+89564,ORG,Commission
+89564,CARDINAL,16.11.93
+89564,NORP,French
+89564,CARDINAL,"4,10,000"
+89564,PERCENT,18%
+89564,DATE,"31st December, 1989"
+89564,CARDINAL,"10,000"
+89564,ORG,Court
+89564,LAW,Civil Appeal No.1737
+89564,DATE,1995
+89564,LAW,Civil Appeal No.1334
+89564,DATE,1995
+89564,CARDINAL,13.12.94
+89564,ORG,Commission
+89564,LAW,the Review Petition
+89564,ORG,Court
+89564,CARDINAL,20.2.95
+89564,CARDINAL,6
+89564,ORG,Commission
+89564,LAW,the Uniform Rules for Collection
+89564,ORG,"the
+International Chamber of Commerce"
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,two
+89564,ORG,Bills of Exchange
+89564,ORG,Commission
+89564,ORG,the French Bank
+89564,ORG,the Bills of Exchange
+89564,ORG,the French Bank
+89564,ORG,Bills
+89564,ORG,the French Bank
+89564,ORG,Commission
+89564,CARDINAL,7\
+89564,DATE,"26th August, 1991"
+89564,ORG,the Bills of Exchange
+89564,ORG,the French Bank
+89564,ORG,Commission
+89564,DATE,"26th August, 1991"
+89564,ORG,French Bank
+89564,CARDINAL,26.8.91
+89564,ORG,the French Bank
+89564,ORG,Commission
+89564,CARDINAL,13.12.94
+89564,CARDINAL,8\
+89564,ORG,Commission
+89564,ORG,The Opposite Party - Bank
+89564,DATE,"26th August,
+> 1991"
+89564,ORG,Complainant
+89564,ORG,the Opposite Party - Bank
+89564,ORG,the Bills of Exchange
+89564,ORG,the Opposite Party - Bank
+89564,ORG,Bank
+89564,ORG,the Bills of Exchange
+89564,ORG,the French Bank
+89564,ORG,"The Opposite Party -
+>"
+89564,DATE,"26th August, 1991"
+89564,ORG,Complaint
+89564,ORG,Complainant
+89564,DATE,"26th August, 1991"
+89564,ORG,No.2775
+89564,ORG,Bills of Exchange
+89564,ORG,the French Bank
+89564,CARDINAL,two
+89564,DATE,"26th August, 1991"
+89564,ORG,Complainant
+89564,ORG,"the Opposite
+> Party - Bank"
+89564,CARDINAL,14.8.1991
+89564,CARDINAL,0005207
+89564,CARDINAL,17794
+89564,CARDINAL,0005208
+89564,CARDINAL,17795
+89564,CARDINAL,"3,50,000"
+89564,CARDINAL,"87,000"
+89564,ORG,Bills of Exchange
+89564,GPE,Societe Lyonnaise
+89564,GPE,De Banque
+89564,GPE,Lyon
+89564,GPE,France
+89564,PERSON,Bills
+89564,ORG,Societe Lyonnaise De Banque
+89564,CARDINAL,31.12.1991
+89564,ORG,No.2775
+89564,DATE,"26th August, 1991"
+89564,ORG,Complainant
+89564,ORG,"the
+> Opposite Party Bank"
+89564,CARDINAL,14.8.1991
+89564,LAW,FOBC 17794
+89564,CARDINAL,0005208
+89564,CARDINAL,"Rs.3,50,000"
+89564,CARDINAL,"87,000"
+89564,PERSON,Lyonnaise De Banque
+89564,GPE,Lyon
+89564,GPE,France
+89564,LAW,the Bills of Exchange
+89564,NORP,French
+89564,ORG,Bank
+89564,ORG,No.2775
+89564,WORK_OF_ART,No.2776
+89564,ORG,the Opposite Party - Bank
+89564,DATE,26th August No.2776
+89564,ORG,Complainant
+89564,ORG,the Opposite Party-Bank
+89564,ORG,No.2776
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,PERSON,No.2775
+89564,ORG,No.2776
+89564,ORG,Commission
+89564,DATE,16th November
+89564,DATE,1993
+89564,LAW,the Bills of Exchange
+89564,ORG,French Firm
+89564,ORG,the Opposite Party Bank
+89564,ORG,the foreign Bank
+89564,ORG,Bank
+89564,ORG,Bills
+89564,LAW,the Rules of Collection
+89564,ORG,"the
+> International Chamber of Commerce"
+89564,ORG,Complainant
+89564,ORG,the Opposite Party - Bank
+89564,ORG,Bills of Exchange
+89564,LAW,Rules
+89564,ORG,Bank
+89564,LAW,the Bills of Exchange
+89564,ORG,No.2776
+89564,DATE,"26th August, 1991"
+89564,ORG,"the Complainant to
+> the Bank"
+89564,ORG,Commission
+89564,DATE,"26th August, 1991"
+89564,ORG,Review Petition
+89564,ORG,the French Bank
+89564,ORG,the Bills of Exchange
+89564,ORG,the French Bank
+89564,ORG,Bills
+89564,ORG,Buyer
+89564,ORG,"the Bills of
+Exchange"
+89564,ORG,M/s STE Kolori
+89564,ORG,Bankers
+89564,ORG,Societe Lyonnaise De Banque
+89564,GPE,Lyon
+89564,GPE,France
+89564,ORG,Commission
+89564,CARDINAL,16.11.93
+89564,LAW,"Clauses of the Rules of the International
+Chamber of Commerce"
+89564,CARDINAL,10\
+89564,CARDINAL,two
+89564,ORG,Banks
+89564,ORG,the Indian Bank
+89564,ORG,Bombay
+89564,ORG,the Bills of Exchange
+89564,ORG,the French Bank
+89564,ORG,"Societe
+Lyonnaise De Banque"
+89564,ORG,Foreign Department
+89564,GPE,Lyon
+89564,GPE,France
+89564,PERSON,Banks
+89564,LAW,"the Uniform Rules for
+Collection"
+89564,LAW,the International Chamber of Commerce
+89564,LAW,ICC Rules)
+89564,ORG,Banks
+89564,LAW,the ICC Rules
+89564,ORG,Commission
+89564,CARDINAL,11\
+89564,LAW,Clause B of the ICC Rules
+89564,DATE,"January
+l, 1979"
+89564,CARDINAL,1
+89564,CARDINAL,3\
+89564,LAW,Rules
+89564,CARDINAL,2
+89564,CARDINAL,3
+89564,CARDINAL,15
+89564,LAW,Article 2 Banks
+89564,CARDINAL,3
+89564,CARDINAL,15
+89564,CARDINAL,12\
+89564,CARDINAL,2
+89564,CARDINAL,3
+89564,CARDINAL,1
+89564,ORG,Bank
+89564,ORG,"the ""Remitting
+Bank"""
+89564,ORG,Bank
+89564,ORG,"the ""Remitting Bank"""
+89564,ORG,Bank
+89564,ORG,Bank
+89564,ORG,"the
+""Collecting Bank"""
+89564,ORG,Bank
+89564,ORG,"the ""Remitting Bank"""
+89564,ORG,Bank
+89564,ORG,"the
+""Presenting Bank"""
+89564,ORG,"the
+""Collecting Bank"""
+89564,WORK_OF_ART,Drawee
+89564,LAW,Sub-clause 3 of Clause 8
+89564,CARDINAL,three
+89564,ORG,"the ""Remitting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,ORG,"the
+""Presenting Bank"""
+89564,ORG,"""Collecting Bank"""
+89564,ORG,"the ""Presenting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,ORG,"the
+""Remitting Bank"""
+89564,ORG,Drawee
+89564,ORG,"The ""Remitting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,ORG,"the
+""Presenting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,LAW,the ICC Rules
+89564,ORG,Bank
+89564,CARDINAL,13\
+89564,LAW,Clause C
+89564,ORG,Bank
+89564,LAW,the ICC Rules
+89564,CARDINAL,1
+89564,WORK_OF_ART,Clause B
+89564,ORG,Banks
+89564,ORG,"Files of
+Exchange"
+89564,LAW,"the INSTRUCTIONS OF
+THE PRINCIPAL"
+89564,LAW,Article 3
+89564,ORG,"the
+Remitting Bank"
+89564,ORG,the Collecting Bank
+89564,CARDINAL,14\
+89564,LAW,Article 15
+89564,LAW,the Bill of Exchange
+89564,ORG,"the ""Presenting Bank"""
+89564,CARDINAL,15
+89564,ORG,Commission
+89564,CARDINAL,16.11.93
+89564,ORG,the Bill of Exchange
+89564,ORG,Bills
+89564,PERSON,Bill
+89564,ORG,Buyer
+89564,ORG,the Foreign Bank
+89564,LAW,The Rules for Collection
+89564,LAW,the International Chamber of Commerce
+89564,CARDINAL,3
+89564,ORG,Bank
+89564,ORG,Bank
+89564,ORG,Bank
+89564,LAW,Article 15
+89564,ORG,Bank
+89564,LAW,"a Bill
+> of Exchange"
+89564,LAW,"Item C ""General
+> Provisions and Divisions"""
+89564,ORG,Bank
+89564,ORG,Bank
+89564,ORG,Bank
+89564,CARDINAL,16
+89564,ORG,Commission
+89564,ORG,Commission
+89564,ORG,"the
+""Remitting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,LAW,Article 15 of the ICC Rules
+89564,ORG,"the
+""Presenting Bank"""
+89564,ORG,Commission
+89564,ORG,"the ""Remitting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,ORG,"Presenting
+Bank"
+89564,ORG,"""Remitting Bank"""
+89564,ORG,"the ""Collecting Bank"""
+89564,ORG,"the
+""Presenting Bank"""
+89564,CARDINAL,17
+89564,ORG,Commission
+89564,CARDINAL,26.8.91
+89564,ORG,the Foreign Bank
+89564,CARDINAL,18\
+89564,DATE,"26th August,
+1991"
+89564,ORG,Commission
+89564,ORG,the French Bank
+89564,ORG,Commission
+89564,LAW,the Bill of Exchange
+89564,ORG,the French Bank
+89564,LAW,the Bill of Exchange
+89564,ORG,the French Bank
+89564,ORG,Buyer
+89564,ORG,Buyer
+89564,ORG,the French Bank
+89564,ORG,the French Bank
+89564,CARDINAL,19
+89564,LAW,the ICC Rules
+89564,ORG,Bank
+89564,LAW,"the ""Commercial/Financial Documents"""
+89564,ORG,Commission
+89564,ORG,the French Bank
+89564,ORG,Commission
+89564,ORG,Commission
+89564,ORG,No.2776
+89564,DATE,"26th
+August, 1991"
+89564,ORG,No.2775
+89564,DATE,"26th August, 1991"
+89564,ORG,Commission
+89564,ORG,the French Bank
+89564,CARDINAL,20\
+89564,CARDINAL,26.8.91
+89564,LAW,the Review Petition
+89564,ORG,Commission
+89564,CARDINAL,16.11.93
+89564,CARDINAL,2776
+89564,ORG,Commission
+89564,PERSON,No.2776
+89564,CARDINAL,26.8.91
+89564,ORG,Commission
+89564,LAW,Constitutional
+89564,ORG,Administrative
+89564,ORG,Justice
+89564,PERSON,Fraus
+89564,PERSON,Fraud
+89564,PERSON,Fraus
+89564,CARDINAL,21
+89564,PERSON,Smith
+89564,GPE,East Elloe
+89564,ORG,Rural District Council
+89564,DATE,1956
+89564,CARDINAL,736
+89564,ORG,"the House of
+Lords"
+89564,ORG,Court
+89564,ORG,Court
+89564,ORG,Court
+89564,ORG,Court
+89564,PERSON,Benoy Krishna Mukherjee
+89564,PERSON,Mohanlal Goenka
+89564,DATE,1950 Cal. 287
+89564,PERSON,"Gajanand
+Sha"
+89564,GPE,Dayanand
+89564,DATE,1943 Patna 127
+89564,PERSON,Krishna Kumar
+89564,PERSON,"Jawand
+Singh"
+89564,DATE,1947 Nagpur 236
+89564,WORK_OF_ART,Devendra Nath Sarkar
+89564,DATE,1926
+89564,DATE,ILR (1929
+89564,PERSON,Abdul Rahman
+89564,DATE,ILR (1932
+89564,DATE,1932 Oudh 63
+89564,PERSON,Lekshmi Amma Chacki Amma
+89564,PERSON,Mammen Mammen
+89564,DATE,1955
+89564,CARDINAL,459
+89564,ORG,Court
+89564,LAW,"the Court (Ishwar Mahton & Anr. vs. Sitaram Kumar & Ors. AIR
+1954 Patna 450"
+89564,DATE,"1958 Patna
+618"
+89564,PERSON,Tara Bai
+89564,DATE,1985 Karnataka 270
+89564,CARDINAL,24
+89564,CARDINAL,25
+89564,NORP,French
+89564,WORK_OF_ART,Termes de la Ley
+89564,PERSON,Stroud
+89564,ORDINAL,Fifth
+89564,CARDINAL,2
+89564,CARDINAL,26
+89564,ORG,Webst Comprehensive
+89564,WORK_OF_ART,International Edition
+89564,WORK_OF_ART,Forgery
+89564,CARDINAL,27\
+89564,PERSON,Rembert
+89564,CARDINAL,25
+89564,CARDINAL,639
+89564,ORG,State
+89564,DATE,34 Am. Dec. 672
+89564,WORK_OF_ART,Tomlin's Law Dictionary
+89564,CARDINAL,28\
+89564,CARDINAL,29
+89564,LAW,the Indian Penal Code
+89564,LAW,Section 463
+89564,LAW,Section 464
+89564,LAW,Section 465
+89564,LAW,Section 465
+89564,LAW,Section 470
+89564,LAW,Section 471
+89564,CARDINAL,30
+89564,CARDINAL,31
+89564,ORG,The Privy Council
+89564,PERSON,Satish Chandra Chatterjee
+89564,PERSON,"Kumar Satish Kantha
+Roy"
+89564,DATE,1923 PC 73
+89564,CARDINAL,one
+89564,CARDINAL,32
+89564,ORG,Commission
+89564,LAW,the Code of Civil Procedure
+89564,ORG,Commission
+89564,LAW,"the Consumer
+Protection Act"
+89564,DATE,1986
+89564,LAW,Section 22
+89564,LAW,Section 13(iv) and (v) of the Act
+89564,LAW,Sub-section (iv) of Section 13
+89564,ORG,Commission
+89564,ORG,Commission
+89564,ORG,"a
+Civil Court"
+89564,LAW,the Code Civil Procedure
+89564,DATE,1908
+89564,CARDINAL,34
+89564,LAW,the Review Petition
+89564,ORG,Commission
+89564,CARDINAL,35
+89564,ORG,Commission
+89564,ORG,the Civil Court
+89564,CARDINAL,36
+89564,CARDINAL,2
+89564,CARDINAL,3
+89564,CARDINAL,4
+89564,CARDINAL,5
+89564,CARDINAL,6
+89564,LAW,the Review Application
+89564,ORG,Commission
+89564,CARDINAL,2
+89564,ORG,this Hon'ble Commission
+89564,DATE,"the 26th August, 1991"
+89564,ORG,Bank
+89564,ORG,Societe Lyonnaise de Banque
+89564,ORG,the French Bank
+89564,ORG,Party
+89564,ORG,this Hon'ble Commission
+89564,ORG,the Opposite Party
+89564,DATE,"26th August, 1991"
+89564,WORK_OF_ART,Exhibit A to the Complaint
+89564,ORG,Complainant
+89564,DATE,"26th August, 1991"
+89564,ORG,Complainant
+89564,ORG,the Opposite Party
+89564,CARDINAL,26.8.1991
+89564,ORG,the French Bank
+89564,PERSON,Hon'ble
+89564,ORG,Bank
+89564,ORG,Bank
+89564,CARDINAL,2776
+89564,ORG,Bank
+89564,DATE,2775
+89564,ORG,The Opposite Party
+89564,ORG,this Hon'ble Commission
+89564,ORG,Bank
+89564,CARDINAL,One
+89564,ORG,this Hon'ble Commission
+89564,ORG,Commission
+89564,ORG,Bank
+89564,ORG,Bank
+89564,ORG,Complainant
+89564,ORG,Hon'ble Commission
+89564,ORG,Bank
+89564,CARDINAL,2775
+89564,CARDINAL,2776
+89564,ORG,Bank
+89564,ORG,Bank
+89564,FAC,the Napean Sea Road
+89564,ORG,Branches
+89564,ORG,Bank
+89564,WORK_OF_ART,"No.
+> 2776"
+89564,DATE,"26th August, 1991"
+89564,ORG,Complainant
+89564,ORG,this Hon'ble Commission
+89564,ORG,Bank
+89564,CARDINAL,2775
+89564,DATE,"26th August, 1991"
+89564,WORK_OF_ART,"Exhibit ""A"" to the Complaint"
+89564,ORG,Bank
+89564,CARDINAL,5
+89564,ORG,the French Bank
+89564,ORG,"The
+> Opposite Party"
+89564,DATE,"26th August, 1991"
+89564,ORG,Bank
+89564,ORDINAL,second
+89564,ORG,Bank
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,6
+89564,ORG,The Opposite Party
+89564,ORG,this Hon'ble Commission
+89564,ORG,Complainant
+89564,ORG,The Opposite Party
+89564,LOC,the Napean Sea
+89564,ORG,The Opposite Party
+89564,LAW,the Review Application
+89564,CARDINAL,4
+89564,ORG,Complainant
+89564,DATE,26th August 1991
+89564,CARDINAL,2775
+89564,PERSON,M/s STE Kolori
+89564,ORG,Societe Lyonnaise De Banque
+89564,GPE,lyon
+89564,GPE,France
+89564,ORG,Complainant
+89564,DATE,26th August 1991
+89564,WORK_OF_ART,Reference No. EF:E
+89564,CARDINAL,2775
+89564,ORG,Opponent
+89564,ORG,Complainant
+89564,ORG,the Outward Register
+89564,ORG,Complainant
+89564,ORG,Hereto
+89564,WORK_OF_ART,the Outward Register of the Complainant
+89564,ORG,"The
+> Complainant"
+89564,ORG,the Outward Register
+89564,DATE,26th August 1991
+89564,CARDINAL,2775
+89564,ORG,Bills of Exchange
+89564,ORG,the Foreign Bank
+89564,PERSON,Societe Lyonnaise
+89564,GPE,De Banque
+89564,GPE,Lyon
+89564,GPE,France
+89564,ORG,Complainant
+89564,DATE,26th August 1991
+89564,CARDINAL,2775
+89564,PERSON,M/s STE Klori
+89564,ORG,"the
+> Foreign Bank"
+89564,ORG,Societe Lyonnaise De Banque
+89564,DATE,26th August 1991
+89564,WORK_OF_ART,Reference No. SF:E
+89564,CARDINAL,2775
+89564,ORG,the Outward Register
+89564,ORG,Complainant
+89564,ORG,the Outward Register
+89564,WORK_OF_ART,Reference No. SF:F
+89564,CARDINAL,2775
+89564,CARDINAL,2776
+89564,DATE,"26th August, 1991"
+89564,ORG,Complainant
+89564,ORG,Opponent
+89564,ORG,Complainant
+89564,LAW,the Complainant's Advocates
+89564,ORG,Complainant
+89564,ORG,the Opponents Advocate
+89564,DATE,"14th October, 1992"
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2776
+89564,ORG,the Opponents Bank
+89564,DATE,"16th October, 1992"
+89564,WORK_OF_ART,Exhibit 'D'
+89564,ORG,Complainant
+89564,ORG,Review Application
+89564,DATE,"28th December, 1993"
+89564,DATE,"26th August, 1991"
+89564,WORK_OF_ART,Reference No.SF:E: 2776
+89564,ORG,the Opponent Bank
+89564,DATE,"26th August, 1991"
+89564,WORK_OF_ART,Reference No. SF:E:2775
+89564,WORK_OF_ART,"the
+> Inward Register"
+89564,ORG,the Opponent Bank
+89564,ORG,Complainant
+89564,DATE,"28th
+> December, 1993"
+89564,ORG,Advocates
+89564,ORDINAL,20th
+89564,DATE,"December, 1993"
+89564,ORG,the Inward Register
+89564,DATE,"29th December, 1993"
+89564,ORG,Complainant
+89564,ORG,the Office of the Opponents Advocates
+89564,DATE,"3rd
+> January, 1994"
+89564,ORG,SF:E
+89564,CARDINAL,2775
+89564,ORG,"The
+> Complainant"
+89564,WORK_OF_ART,Reference No. SF:E:2775
+89564,ORG,Complainant
+89564,LAW,"the Outward Register of the
+> Complainant"
+89564,ORG,Opponent
+89564,ORG,the Opponent Advocates
+89564,DATE,"4th January, 1994"
+89564,WORK_OF_ART,Exh
+89564,ORG,Advocates
+89564,DATE,"4th January, 1994"
+89564,WORK_OF_ART,Exhibit 'G
+89564,DATE,"4th
+> January, 1994\"
+89564,CARDINAL,38\
+89564,CARDINAL,7
+89564,CARDINAL,15
+89564,CARDINAL,39
+89564,LAW,No. 2776
+89564,CARDINAL,40\
+89564,ORG,Commission
+89564,CARDINAL,"3,7,12"
+89564,CARDINAL,21
+89564,CARDINAL,3
+89564,PERSON,the Reply of the Complainant
+89564,ORG,"the
+> Opposite Party"
+89564,ORG,Complainant
+89564,ORG,"this Hon'ble
+> Commission"
+89564,ORG,Complainant
+89564,PRODUCT,Hon'ble
+89564,ORG,Commission
+89564,LAW,the Bills of Exchange
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2776
+89564,ORG,the Opposite party
+89564,ORG,Complainant
+89564,ORG,Hon'ble Commission
+89564,ORG,the Opposite Party
+89564,LAW,the Review Petition
+89564,ORG,Complainant
+89564,ORG,The Opposite Party
+89564,CARDINAL,2775
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2776
+89564,DATE,"26th August, 1991"
+89564,ORG,Bills of Exchange
+89564,CARDINAL,only one
+89564,ORG,Bills
+89564,ORG,Complainant
+89564,ORG,this Hon'ble Commission
+89564,CARDINAL,2776
+89564,DATE,"26th August, 1991"
+89564,ORG,Bills of Exchange
+89564,CARDINAL,2776
+89564,DATE,"26th August, 1991"
+89564,ORG,the Opposite party
+89564,CARDINAL,4
+89564,PERSON,Reply
+89564,ORG,the Opposite Party
+89564,DATE,26th August
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,ORG,the Opposite party
+89564,ORG,Bills of Exchange
+89564,ORG,Bank
+89564,ORG,the Opposite Party
+89564,DATE,"26th
+> August, 1991"
+89564,CARDINAL,2776
+89564,ORG,the Opposite party
+89564,LAW,Bills of Exchange
+89564,ORG,Buyer
+89564,ORG,the foreign Bank
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2776
+89564,ORG,The Opposite Party
+89564,ORG,the Outward Register
+89564,ORG,The Opposite party
+89564,LAW,the Outward Register
+89564,ORG,Complainant
+89564,ORG,Outward Register
+89564,ORG,The Opposite Party
+89564,LAW,Outward Register
+89564,ORG,Complainant
+89564,ORG,Indian Bank
+89564,GPE,Nepean
+89564,ORG,The Opposite Party
+89564,LAW,the Review Application the Opposite Party
+89564,LOC,the Nepean Sea
+89564,ORG,the Opposite Party
+89564,ORG,Complainant
+89564,ORG,The Opposite Party
+89564,ORG,Complainant
+89564,DATE,26th Aug. 1991
+89564,WORK_OF_ART,No. 2776
+89564,ORG,"the
+> Complainant"
+89564,ORG,the Opposite Party
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,LAW,the Bills of Exchange
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2776
+89564,ORG,"the
+> Nepean Sea Road Branch"
+89564,ORG,the Opposite Party
+89564,CARDINAL,12
+89564,CARDINAL,7
+89564,PERSON,Reply
+89564,ORG,the Opposite Party
+89564,ORG,Complainant
+89564,DATE,"26th August,
+> 1991"
+89564,WORK_OF_ART,No. 2775
+89564,ORG,Complainant
+89564,ORG,Hon'ble Commission
+89564,ORG,The Opposite Party
+89564,ORDINAL,first
+89564,ORG,"the
+> Complainant"
+89564,ORG,the Opposite Party
+89564,ORG,this Hon'ble Commission
+89564,ORG,Complainant
+89564,DATE,"26th August, 1991"
+89564,WORK_OF_ART,No. 2775
+89564,ORG,Complainant
+89564,ORG,"The
+> Opposite Party"
+89564,ORG,Complainant
+89564,ORG,The Opposite Party
+89564,ORG,"The
+> Opposite Party"
+89564,ORDINAL,second
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2776
+89564,ORG,Complainant
+89564,ORG,the Opposite Party
+89564,CARDINAL,10
+89564,PERSON,Reply
+89564,ORG,Complainant
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,ORG,the Opposite Party
+89564,ORG,the Opposite Party
+89564,ORG,Complainant
+89564,CARDINAL,2775
+89564,ORG,The Opposite Party
+89564,ORG,Complainant
+89564,CARDINAL,two
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,CARDINAL,2776
+89564,ORG,Party
+89564,ORG,Complainant
+89564,DATE,"26th
+> August, 1991"
+89564,CARDINAL,2776
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,ORG,the Opposite Party
+89564,ORG,The Opposite Party
+89564,ORG,Complainant
+89564,ORDINAL,second
+89564,CARDINAL,21
+89564,CARDINAL,24
+89564,PERSON,Reply
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,ORG,Buyer
+89564,ORG,Bills
+89564,ORG,Buyer
+89564,ORG,Complainant
+89564,ORG,the Opposite Party
+89564,ORG,this Hon'ble Commission
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,ORG,The Opposite Party
+89564,DATE,"June,
+> 1990"
+89564,ORG,"Bills of the Exchange for
+>"
+89564,DATE,"August, 1991"
+89564,ORG,The Opposite Party
+89564,ORG,Party
+89564,LAW,the Bills of Exchange
+89564,ORG,The Opposite Party
+89564,ORG,Complainant
+89564,ORG,the Opposite Party
+89564,ORG,the Opposite Party
+89564,LAW,Bills of Exchange
+89564,ORG,"The
+> Opposite Party"
+89564,ORG,Complainant
+89564,ORG,Buyer
+89564,ORG,the Opposite Party
+89564,ORG,Complainant
+89564,ORG,Complainant
+89564,ORG,the Bills of Exchange
+89564,CARDINAL,41
+89564,ORG,Court
+89564,ORG,Commission
+89564,CARDINAL,42
+89564,PERSON,No. 2776
+89564,DATE,"26th August, 1991"
+89564,ORG,Commission
+89564,NORP,French
+89564,LAW,letter No. 2775
+89564,DATE,"26th August, 1991"
+89564,ORG,the French Bank
+89564,CARDINAL,2776
+89564,DATE,"26th
+> August, 1991"
+89564,CARDINAL,2775
+89564,CARDINAL,2775
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,DATE,"26th August,
+> 1991"
+89564,CARDINAL,26.3.92
+89564,LAW,the Bill of Exchange
+89564,PERSON,No. 2776
+89564,DATE,"26th August,
+> 1991"
+89564,CARDINAL,2775
+89564,ORG,Commission
+89564,LAW,letter No. 2776
+89564,DATE,"26th August, 1991"
+89564,CARDINAL,2775
+89564,DATE,2776
+89564,CARDINAL,2775
+89564,ORDINAL,first
+89564,GPE,France
+89564,WORK_OF_ART,"""Collection Order"""
+89564,ORG,Buyer
+89564,ORG,French Bank
+89564,ORG,the French Bank
+89564,ORG,a French Bank
+89564,NORP,French
+89564,PERSON,Law
+89564,ORG,the French Bank
+89564,ORG,the French Bank
+89564,ORG,the Bills of Exchange
+89564,ORG,the French Bank
+89564,LAW,the Preamble of ICC Rules
+89564,ORG,the French Buyer
+89564,NORP,French
+89564,CARDINAL,2776
+89564,CARDINAL,26.8.91
+89564,ORG,French Bank
+89564,NORP,Persian
+89564,WORK_OF_ART,DAROGH GO RA HAFIZA NA BASHAD
+89564,ORG,LIAR
+89564,CARDINAL,2776
+89564,WORK_OF_ART,"""Receipt and Rubber
+Stamp"""
+89564,LAW,2775
+89564,CARDINAL,43\
+89564,CARDINAL,2776
+89564,CARDINAL,2775
+89564,CARDINAL,26.8.1991
+89564,ORG,the French Bank
+89564,ORG,the French Bank
+89564,ORG,Commission
+89564,CARDINAL,16.11.1993
+89564,CARDINAL,13.12.1994
+89564,LAW,the Original Complaint
+89564,MONEY,"25,000"

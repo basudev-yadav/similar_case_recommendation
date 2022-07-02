@@ -1,0 +1,418 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Hrs Seismic Services Ltd.,, ... vs Department Of Income Tax on 30 September,
+2015
+
+    
+    
+                    IN THE INCOME TAX APPELLATE TRIBUNAL
+                          DELHI BENCH: 'C' NEW DELHI
+    
+               BEFORE SMT DIVA SINGH, JUDICIAL MEMBER
+                                   AND
+               SH.INTURI RAMA RAO, ACCOUNTANT MEMBER
+    
+                          I.T.A .No.-347/Del/2012
+                        (ASSESSMENT YEAR-2003-04)
+    
+        ADIT Intl. Taxation,     vs HRS Seismic Services Ltd.,
+        13A, Subhash Road,          Earlier known as Hamptson Russel Software
+        Aayakar Bhawan,             Services Ltd., C/o-Price Water House Coper
+        Dehradun-248001.            Pvt.Ltd., Plot No.-18A, Nanak Road,
+        (APPELLANT)                 Bandra (west), Mumbai-400050
+                                    (RESPONDENT)
+    
+                        Appellant by         Sh.A.K.Siroha, CIT DR
+                        Respondent by        Sh.Ravi Sharma, Adv.
+    
+    
+                             Date of Hearing              20.08.2015
+                          Date of Pronouncement           30.09.2015
+                                    ORDER
+    
+
+This is an appeal filed by the Revenue assailing the correctness of the order
+dated 16.11.2011 of CIT(A)-II, Dehradun pertaining to 2003-04 assessment year
+on the following grounds:-
+
+> 1\. "Whether on facts and circumstances of the case, the CIT(A) has erred in
+> not deciding the case on the merit.
+
+> 2\. Whether on facts and circumstances of the case, the CIT(A) has erred in
+> quashing the proceedings u/s 147/148 by holding the AO was not justified to
+> reopen the assessment proceedings on the basis of mere change of opinion
+> which is contrary to the facts of the case since the issue of taxing the
+> assessee's income from the grant of non- transferrable license to use
+> software to its client as "Royalty" was not discussed in the original
+> assessment.
+
+> 3\. Whether on facts and circumstances of the case, the CIT(A) had erred in
+> holding that the proceedings initiated u/s 147/148 in the wake of the
+> decision of the Hon'ble High Court in the case of the Forammar France
+> (229ITR438) and explanatory notes to the Finance Bill 2010 were merely
+> change of opinion and did not constitute material to initiate proceedings
+> u/s 147/148, which is contrary to the decision given by the Hon'ble
+> Allahabad High Court in the case of Kartikeya International V/s CIT
+> (228CTR288) in which it was held that any subsequent decision of the Apex
+> court or the jurisdictional High Court did constitute material to form a
+> belief that there is an escaped income and the initiation of proceedings was
+> legal and in accordance with the law.
+
+> I.T.A .No.-347/Del/2012
+
+> 4\. Whether on facts and circumstances of the case, the CIT(A) had erred in
+> quashing the proceedings u/s 147/148 contrary to the decision of the Hon'ble
+> Bombay High Court in the case of the Indo European Breweries Ltd. where in
+> it was held that reopening the assessment were valid despite lapse of 4
+> years time limit; Finding during subsequent year's assessment constituted
+> 'tangible material 'for reassessment.
+
+> 5\. Whether on facts and circumstances of the case, the CIT(A) has erred in
+> relying upon the decision given by a Single Judge of the Hon'ble Uttarakhand
+> High Court in the case of B.G Services Co. Middle Ease Ltd. (201 Taxman
+> 188)(UK) which has not been accepted by the Department and against which a
+> special petition has been filed before the Division Bench of the same court.
+
+> 6\. The appellant prays for leave to add, amend, modify or alter any grounds
+> of appeal at the time of before the hearing of the appeal."
+
+2\. Although the present has been filed by the Revenue however the Ld. AR at
+the outset submitted that the point at issue is fully covered in assessee's
+favour and this fact is brought in paras 3.2 & 3.3 of the impugned order
+itself. Copies of the following judgements and orders of the Tribunal were
+filed and relied upon in the 32 paged paper book:-
+
+> (i) B.J.Services Company Middle East Ltd. vs DDIT (Int. Taxation), Dehradun
+> [201 Taxmann 188] (UK HC);
+
+> (ii) ADIT vs Hampson Russell Ltd. Partnership (ITA No.6072-6073 and
+> 6074/Del/2012); and
+
+> (iii) CIT and Another vs ONGC {299 ITR 438} [UK HC].
+
+3\. On the date of hearing, Ld. Sr. DR sought time to study the decisions.
+Time was granted and the appeal was adjourned. On the next date, Ld. CIT DR
+placed reliance on the A.O. No distinguishing fact or circumstance was
+referred to in order to rebut the claim of the Ld.AR that the issue is
+conclusively concluded in favour of the assessee.
+
+4\. We have heard the rival submissions and perused the material available on
+record. In the facts of the present case, it is seen that for the following
+reasons the AO by the order passed u/s 144/147 held that the receipts of the
+assessee are in the nature of Royalty income covered under the provisions of
+Section 9(1)(vi) of the Act and hence taxable under section 115A of the Act:-
+
+> "The original assessment was completed by the ACTT, Circle 1, Dehradun u/s
+> 143(3) of Income Tax Act, 1961. The assessment was reopened by notice u/s
+> 148 of the IT Act, 1961 issued on 31/03/2010 requiring the assessee to file
+> its return of income for A.Y 2003-04. Despite several notices, to the
+> reasons best known to it the assessee failed to respond. Since the matter is
+> getting barred by limitation, the undersigned is left with no alternative
+> but to proceed with exparte assessment.
+
+Page 2 of 8
+
+> I.T.A .No.-347/Del/2012
+
+2\. The assessee has given various services to entities involved in business
+of Oil Exploration. Such services include supply, upgradation & maintenance of
+software. The Assessing Officer in its previous assessment order had accepted
+that such receipts are not taxable without even considering that they may fall
+in category of Royalties.
+
+3\. The assessee entered into an agreements with the Indian customers for the
+grant of non exclusive, nontransferable license to use the assessee software
+programs and provisions of related support/ installation. On payment the
+customers are granted a limited right to use the system.
+
+The software supplied by the assessee is not just another off- the-shelf
+software available to the customers but is a specially customized software
+program developed by the assessee which is used in oil & gas industry. In the
+agreement with the Indian customers the customers are not sold the copies of
+the programme but granted licences which are not exclusive and
+nontransferable. The license is granted for usage of software on specific
+terminals for which license fees is paid by the customer. The amount of
+license fee changes as per the number of workstations only to the software has
+been installed. The assessee undertakes the responsibility to configure,
+maintain and ensure compatibility of the software. The assessee also provides
+installation & commissioning at an additional charge. The copies and
+documents, in form of user manuals, made available to the customer remains the
+property of the assessee.
+
+A Process is a series of actions or steps towards achieving a particular end,
+whereas a Computer program means a set of instructions expressed in words,
+codes, schemes or in any other form, including a machine readable medium,
+capable of causing a computer to perform a particular function to achieve a
+particular result i.e a Computer Software is a set of computer programs that
+define a series of actions or steps that must be taken by the Computer
+Hardware to achieve the desired result. The Computer Software Program
+therefore defines a process to achieve the result through a set of
+instructions used to control the elements of hardware. The program is written
+in a language which can be comprehended by human beings, this is called source
+code. But when this set of instructions is converted into executable files i.e
+machine language, they become non- understandable by humans. It is these
+machine language executables which are provided to the user in form of
+Computer Software and not the set of instructions expressed in words which
+could be understood by humans. A software program in machine language or in
+form of executable files forms a sort of black box which accepts inputs and
+accordingly generates output by controlling the machine hardware. How the
+input commands are processed is not known unless one has access to the source
+code. Thus a software program basically acts as a secret process which
+processes the input commands of the user. The payment made for right to use of
+such secret process would definitely take form of 'royalty' as the definition
+of Royalty in DTAA as well as the Income Tax Act encompasses the right to use
+of a secret process.
+
+Even otherwise the Computer Program is a process protected as Intellectual
+Property and the payment made for right to use this process would certainly
+take the form of royalty.
+
+Without prejudice to anything discussed above, in Income Tax Act, the
+definition of Royalty is very wide and includes within its sweep, the transfer
+of rights or license in respect of a patent, invention,  Page 3 of 8 I.T.A
+.No.-347/Del/2012 model, design, secret formula or process, or in respect of a
+copyright, literary, artistic or scientific work, or the imparting of any
+information concerning technical, industrial, commercial or scientific
+knowledge or skill. With effect from 01.04.2002 use of any industrial,
+commercial or scientific equipment is also covered. The computer program
+forming part of the software falls within the description of literary or
+scientific work, and license to use of it would fall in definition of
+'Royalty'.
+
+A copyright in or over the computer software produced by the applicant is in
+the nature of an intangible, incorporeal right belonging to the category of
+intellectual property rights. All intellectual property rights in the licensed
+programs exclusively belong to the person who develops it. The enjoyment of
+some or all the rights which the copyright owner has, is necessary to trigger
+the 'royalty' definition. The present payment falls in territory of Royalties
+due to these considerations :
+
+a) The use of any right in Intellectual Property even for internal use is
+nonetheless a business/commercial use and would therefore tantamount to use of
+copyright.
+
+b) It is clear from the agreement that the product is licensed and not sold.
+The consideration received is license fee."
+
+4.1. Accordingly considering section 14 of the Copyright Act which defines
+copy right, the AO rejected the claim of the assessee on the following
+reasoning:-
+
+> "Mere perusal of section 14 of the Copyright Act, 1957 giving definition of
+> Copyright with regard to the software clearly indicates that in case of
+> computer programmes, selling or giving on hire of software for sale or hire
+> any copying of computer programme regardless of whether such copy has been
+> sold or given on hire on earlier occasions constitutes a grant of or right
+> to use copyright. The definition also makes it clear that copy of legally
+> obtained software on an electronic medium which may either be a computer or
+> a network constitutes grants or exercise of a copyright. Neither the Indian
+> Copyright Act, 1957 nor any circular issued by the CBDT makes any
+> distinction between copyright right and copyrighted article and such
+> distinction made in foreign regulations or OECD guidelines are not binding
+> on India and as such cannot be extended to the Indian territory because
+> India being a sovereign state, the laws promulgated by the Indian sovereign
+> should only apply.
+
+> c) The software is licensed not sold. The copyright of the software remains
+> with the assessee. However, it allows the use of copyright to the person
+> making payment to it. As per the Indian Copyright Act 1957 as amended in
+> 1994 software are entitled to copyright protection. The developer possesses
+> Copyright in the software, which it can enforce in India if any violation of
+> such right is notices by it. Further the Indian Copyright Act recognizes
+> 'copyright' as doing or authorizing the doing of any of the following acts
+> in respect of a work or any substantial part thereof namely, - in case of a
+> computer programme to sell or give on commercial rental or offer for sale or
+> for commercial rental any copy of the computer program. It is therefore
+> clear that the assessee has authorized to use of the copyright to the
+> customer in India.
+
+> d) The software owned by the developer is patented software.
+
+Consideration for allowing the use of the patented article falls within the
+definition or royalty payment. Even if it is considered that the  Page 4 of 8
+I.T.A .No.-347/Del/2012 software owned has not been patented, there is no
+denial of the fact that it is essentially an invention. The development of
+such software requires highly technical manpower, with highly sophisticated
+infrastructure and huge investments. Similarly the software can also be
+considered as a scientific work. Therefore, the software can also be said to
+be information developed out of scientific experience. The payment made for
+right to use of such item would certainly constitute royalty.
+
+e) As per provisions of section 9(l)(vi) the royalty income should satisfy
+twin conditions that there has to be consideration, and this consideration
+should be for transfer of all or any right (including the granting of the
+licence) in respect of the copyright, patent, invention, design, secret
+formula or process, scientific work. In this case the payment under software
+license agreement has fulfilled both the conditions and the income from
+software license was taxable in India as royalty.
+
+f) As per provision of section 9 the payment made for import of software are
+royalty payment and the only exception provided is in the form of second
+proviso to section 9(l)(vi) of the Act which excludes such royalty income from
+purview of section 9(l)(vi) only when the computer software is supplied by a
+non-resident manufacturer along with computer or computer based equipment
+under any scheme approved under the policy of computer software export,
+software development and training 1986 of the Government of India. However,
+this exception is not applicable to the facts of this case where appellant had
+granted software licence to various Indian customers.
+
+g) The characterization taxability of income from import of software has been
+made amply clear in the Income-tax Act through section 1I5A of the Act which
+specifically refers to cases where royalties are paid to non-resident for the
+transfer of all or any right (including the granting of the license) in
+respect of any computer software to a person resident in India.
+
+h) A copy of software supplied by the appellant did not amount to a sale but
+it is a licence to use the software. This is because software is an
+intellectual property right (IPR) which can be licensed to one user and can be
+given further to any number of user. In other words the IPR in software still
+remain intact with the supplier. The "sales treatment" of computer software
+under sales tax law, does not, per se, influence income-tax treatment of
+software transactions, as income-tax law defines this transaction differently.
+Therefore the license of mere usage is a sort of lease of software and thus
+the software has been merely given on rental and the payment received against
+it would constitute royalty.
+
+i) OECD recommendations remain mere recommendations unless they are
+incorporated into domestic law and/or DTAAs. The distinction between
+"copyright right" and "program copy" recommended by the OECD has been
+dissented from even by several member States not to speak of India which is
+not even a member of the OECD. Indian laws and India's DTAA recognize only two
+types of transactions in respect of computer software: sale and licence
+(letting). No further dissection of  Page 5 of 8 I.T.A .No.-347/Del/2012
+licensing (on the lines of the OECD commentary) is permitted under the Indian
+Copyright Act, Income-tax Act and Indian DTAAs. Therefore, notwithstanding
+attractive phraseology and nomenclature, any computer software licence fees,
+where the vendor retains ownership and grants user rights only to the licensee
+are, without an iota of doubt, taxable as 'royalties, having an Indian source.
+
+The next is whether the receipts from installation, maintenance and
+commissioning under the head royalties. Even if such installation and
+commissioning is a part of the contract, it is included in the cost of
+licensing of the software. Thus such receipt would invariably be the part of
+supply of software and would come under the purview of royalty. Such gross
+receipts would be taxable @20%u/s 115A."
+
+4.1.1. Accordingly the taxable income of the assessee was computed in the
+following manner as under:-
+
+> 4\. "With the above comments the tax of the assessee is being calculated as
+> under:
+
+> Gross receipts taxable as FTS @20% $ 68,746.66 = Rs 30,93,600 (@45)"
+
+4.2. In appeal before the CIT(A apart from various other arguments on
+jurisdiction it was also pleaded that the appeal of the assessee deserved tobe
+allowed on the basis of the decision of the Hon'ble Uttarakhand High Court in
+the case of B.J. Services Company Middle East Ltd. vs DDIT (Int. Taxation),
+Dehradun [201 Taxmann 188] (UK HC) which on similar facts has held that it
+amounted to a change of opinion.
+
+4.3. Considering the said plea, the Ld. CIT(A) allowed the appeal of the
+assessee holding as under:-
+
+> 3.2 "The facts on this issue are that the original assessment was completed
+> by the ACIT, Circle-1, Dehradun u/s 143(3) of the Act. Thereafter a notice
+> u/s 148 of the Act was issued on 31.03.2010. The reasons recorded by the Id.
+> AO (copy has been placed on record) show that the reopening has taken place
+> due to the contention that the appellant's income is taxable as Fees for
+> Technical Services considering the judgement in the case of CIT vs. ONGC (as
+> agent for Foramer France) reported in 299 ITR 438 (UK) and the insertion of
+> proviso to section 44DA(1) of the Act through the Finance Act, 2010. While
+> the case laws cited by the Id. AR may have some bearing on the issue at
+> hand, it is seen that the recent judgement in the case of B.J.Services
+> (supra) is squarely applicable on the facts of this case. The head notes of
+> this case law are reproduced as under:-
+
+> "Section 147, read with section 9, 44BB and 44DA, of the Income-tax Act,
+> 1961 -Income escaping assessment - Non- disclosure of primary facts -
+> Assessment year 2003-04 - Whether reassessment can be initiated on a mere
+> change of opinion to merely re-examine an issue on basis of information or
+> material which was already available to Assessing Officer at time of
+> completion of original assessment - Held, no - Whether  Page 6 of 8 I.T.A
+> .No.-347/Del/2012 subsequent pronouncement by a Court or a Superior Court
+> entitle Assessing Officer to reopen assessment proceedings on ground that
+> Assessing Officer has reasons to believe that income has escaped assessment
+> or that assessee has not fully and truly disclosed all material facts -Held,
+> no - Assessee, a British company, was engaged in business of providing
+> services and facilities in connection with exploration and extraction as
+> well as production of mineral oil - For relevant assessment year, it offered
+> its gross revenue to be taxed under section 44BB \- Assessing Officer, after
+> examining return of income and other documents and replies filed by assessee
+> and after applying its mind, issued an assessment order under section 143
+> (3) - After a lapse of more than four years. Assessing Officer issued notice
+> under section 148 proposing to reassess assessee 's income on grounds that
+> assessee's income was liable to be taxed as a fee for technical services in
+> view of decision of Uttaranchal High Cowl in case of CIT v. O.N.G.C. [2008]
+> 299 ITR 438 ; and that in view of Explanatory Note to Finance Bill, 2010,
+> combined effect of provisions of sections 44BB, 44DA and 115A is that if
+> income of a non-resident is in nature of fee for technical services, it is
+> taxable under provision of section 44DA or section 115A irrespective of
+> business to which it relates - Whether when under existing provisions
+> contained in sections 44BB. 44D, 115A and Explanation II of section
+> 9(1)(vii). it was open to Assessing Officer to tax assessee either under
+> section 44BB or 44D or under section 9(1)(vii) on basis of material produced
+> before him and Assessing Officer, after due enquiry and verification and
+> after applying mind to facts of case, came to conclusion that assessee was
+> liable to be taxed under section 44BB, reopening of assessment on basis of
+> subsequent decision of High Court was unjustified - Held, yes.
+
+> Section 44BB of the Income-tax Act. 1961 - Mineral oil, special provisions
+> for computation in case of business exploration - Whether amendments to
+> sections 44BB and 44DA by Finance Act, 2010 would take effect from 1-4-2011
+> and would apply in relation to assessment year 2011-12 and subsequent years
+> - Held, yes [in favour of assessee]"
+
+> 3.3. Since the above mentioned case of the jurisdictional High Court is
+> squarely applicable on the facts of this case, the proceedings emanating
+> through issue of notice u/s 148 of the Act are hereby quashed. Since the
+> first ground has been accepted there is no adjudication on the merits of
+> this case and the rest of the grounds are not decided."
+
+5\. Aggrieved by this, the Revenue is in appeal before the Tribunal. Before
+us, the Ld. AR apart from relying upon the judgement of the Single judge of
+the Hon'ble Uttarakhand High Court dated 20.08.2011 in the case of B.J.
+Services Company Middle East Ltd. & Others has placed on record a later
+judgement of the Hon'ble Uttarakhand High Court dated 07.07.2014 in Al
+Mansoori Specialized Engineer and other batch of appeals where the Hon'ble
+Court in the  Page 7 of 8 I.T.A .No.-347/Del/2012 absence of any contrary
+decision was pleased to follow the decision in the case of B.J.Services
+Company Middle East Ltd.(cited supra). Apart from that order of the Co-
+ordinate Bench dated 11.09.2013 in the case of ADIT vs Hampson Russel Ltd.
+Partnership (cited supra) has been relied taking a similar. In the absence of
+any contrary fact, circumstance or argument, we find no infirmity in the
+finding of the Ld.CIT(A). Accordingly for the reasons given herein above the
+departmental appeal is dismissed.
+
+6\. In the result, the appeal of the Revenue is dismissed. The order is
+pronounced in the open court on 30th of September, 2015.
+
+    
+    
+          Sd/-                                                                 Sd/-
+    
+    (INTURI RAMA RAO)                                               (DIVA SINGH)
+    ACCOUNTANT MEMBER                                          JUDICIAL MEMBER
+    
+    Dated:30/09/2015
+    *Amit Kumar*
+    
+    
+    Copy forwarded to:
+    
+    1.    Appellant
+    2.    Respondent
+    3.    CIT
+    4.    CIT(Appeals)
+    5.    DR: ITAT
+                                                            ASSISTANT REGISTRAR
+                                                                  ITAT NEW DELHI
+    
+    
+    
+    
+                                                                                Page 8 of 8
+     
+

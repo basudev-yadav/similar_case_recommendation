@@ -1,0 +1,1143 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Omniglobe Information ... vs Addl. Cit, Special Range -7, New ... on 15
+October, 2018
+
+    
+    
+                      In the Income-Tax Appellate Tribunal,
+                            Delhi Bench 'I-2', New Delhi
+    
+                Before : Shri Bhavnesh Saini, Judicial Member And
+                         Shri L.P. Sahu, Accountant Member
+    
+                             ITA No. 6980/Del./2017
+                            Assessment Year: 2013-14
+    
+          Omniglobe Information                vs. Addl. CIT, Spcl.Range-7,
+          Technologies (India) Pvt. Ltd.,          New Delhi.
+          E-11, Rajouri Garden, New Delhi          (Respondent)
+          PAN-AAACO 6606M
+          (Appellant)
+    
+              Appellant by       Shri Abhishek Agarwal, Advocate
+              Respondent by      Shri Sanjay Kumar Yadav, Sr. DR
+    
+                    Date of Hearing                  19.07.2018
+                    Date of Pronouncement            15.10.2018
+    
+    
+                                       ORDER
+    
+
+Per L.P. Sahu, A.M.:
+
+This is an appeal filed by the assessee against the order of the AO/TPO passed
+u/s. 143(3)/92CA/144C of the IT Act dated 16.10.2017 passed in pursuance to
+the direction of the DRP dated 25.08.2017 on the following grounds of appeal :
+
+> 1\. That the assessing officer ('AO') erred on facts and in law in
+> completing assessment under section 144C read with section 143(3) of the
+> Income-tax Act, 1961 ('the Act') at an income of Rs. 4,72,94,133 as against
+> returned income of Rs. 2,61,11,546.
+
+> 2\. That the AO erred on facts and in law in making adjustment of Rs
+> 2,11,82,587 to the arm's length price of the 'international transactions of
+> BPO/Data Processing Services rendered to the associated enterprise on the
+> basis of order passed by the Transfer Pricing Officer ('TPO') under section
+> 92CA(3) of the Act.
+
+ITA No. 6980/Del./2017 2
+
+3\. That the AO/TPO erred on facts and in law in computing the operating
+profit margin of the appellant at 6.99% as against the correct operating
+profit margin of 7.98%, allegedly holding that:
+
+i. The values reported in the Transfer Pricing Documentation for computation
+of operating profit margin of the appellant do not reconcile with the values
+reported in the audited financial statement for the financial year 2012-13.
+
+ii. The foreign exchange gain/loss is to be considered as non- operating for
+computing operating profit margin of the appellant and the comparable
+companies.
+
+4\. That the AO/TPO, erred on facts and in law in considering exchange
+fluctuation income of Rs. 29,03,948 as non-operating item of income for
+computing the operating profit margin of the appellant disregarding the
+directions of the Dispute Resolution Panel ('DRP').
+
+4.1 That the AO/TPO erred on facts and in law in not appreciating that in
+terms of Rule 10B(1)(e) of the Income Tax Rules, 1963, while applying TNM
+method, net profit earned by the appellant from transaction undertaken with
+associated enterprise is required to be benchmarked.
+
+5\. That the AO/TPO erred on facts and in law in rejecting comparable
+companies on the basis of additional filter of export sales less than 75% of
+the total income, without appreciating that selection of comparable companies
+on the basis of such quantitative filters alone, defies the purpose of the
+benchmarking analysis.
+
+6\. That the TPO erred on facts and in law in considering the following
+companies in the final set of comparable companies not appreciating that there
+were not functionally comparable to the appellant for the purpose of
+undertaking benchmarking analysis applying TNMM i. Igate Solutions Ltd.
+
+    
+    
+          ii.    Capgemini Business Services (India) Pvt. Ltd.
+          iii.   e4e Healthcare
+    
+    
+
+7\. That the AO/TPO erred on facts and in law in not allowing appropriate risk
+adjustment to establish comparability on account of the  ITA No.
+6980/Del./2017 3 appellant being a low-risk-bearing captive service provider
+as opposed to the comparable companies who were independent ITES service
+provider
+
+8\. That on the facts and in the circumstances of the case and in law the
+AO/TPO erred in rejecting the contention of the appellant regarding risk
+adjustment, allegedly holding that the appellant failed to provide any
+evidence to demonstrate that whether any risk was actually undertaken by the
+comparable companies and such risks affected their operating profit margin.
+
+9\. That the AO/TPO erred on facts and in law in not allowing comparability
+adjustment on account of working capital employed by the appellant vis-a-vis
+comparable companies.
+
+10\. That the Assessing Officer erred on facts and in law in levying interest
+under section 234B and section 234C of the Act."
+
+2\. The brief facts of the case are that the assessee filed return of income
+on 26.11.2013 declaring income of Rs.2,61,11,546/-. The case was selected for
+scrutiny and statutory notices were issued to the assessee. The assessee is in
+the business of BPO/Data processing to its associate enterises. It is a
+company incorporated on 19.03.2004, during the year was wholly owned 100%
+subsidiary of M/s. Omniglobe International LLC, USA (Associate
+Enterprises/AE). The assessee also provided information technology enabled
+services (ITeS) relating to phone activation and local number portability to
+various clients for and on behalf of its parent company. The assessee company
+was covered under the transfer pricing audit and the case was referred to
+Transfer pricing Officer (TPO) on 05.08.2015 for determining the Arm's Length
+Price (ALP) u/s. 92CA(3) in respect of international transactions entered by
+the assessee with its AE. The ld. TPO included companies which were rejected
+by the assessee in the transfer pricing documentation either on account of
+functional dissimilarity or insufficient financial information and  ITA No.
+6980/Del./2017 4 arrived at a set of the 13 comparable companies. Accordingly,
+he passed the order on 13.10.2016 and determined the ALP for the provision of
+ITeS after considering 13 companies and calculated average mean by OP/OC at
+14.50% as under :
+
+    
+    
+    Sr.No.   Company Name                             OP/OC (%)
+    1.       Accentia Technologies Ltd.               13.92
+    2.       Informed Technologies India Ltd.         3.28
+    3.       Microgenetics Systems Ltd.               16.25%
+    4.       Jindal Intelecom Ltd.                    (-) 2.99%
+    5.       Acropetal Technologies                   14.98%
+    6.       E4e Healthcare                           17.11%
+    
+
+7\. Capgemini Business Services (India) Pvt. 26.30% Ltd.
+
+    
+    
+    8.       New VC Servces Pvt. Ltd.                 20.07%
+    9.       Datamatics Global Services Ltd.          17.11%
+    10.      Caliber Point business solutions         2.19%
+    11.      R Systems International                  15.34%
+    12.      Igate Solutions                          23.61%
+    13.      Tech Mahindra                            21.33%
+             Average                                  14.50%
+    
+    
+    
+
+After calculating the above Arm's length margin average at 14.50%, the ld.
+AO/TPO made upward adjustment in relation to international transactions
+related to ITeS as under :
+
+    
+    
+          Particulars                                        Amount in Rs.
+          Operating Cost                                     305,345,595
+          Arm's Length Margin (%)                            14.50%
+          Arm's Length Margin (Rs.)                          44,275,111
+          Arm's Length Price                                 349,620,706
+          Price charged by the assessee                      326,693,412
+          International Transaction                          626,638,206
+    
+
+3% of Price charged in international transaction 9,799,146 Difference between
+ALP and Price charged by 22,927,294 assessee Percentage of services provided
+to AEs to total 99.98 revenue Proportionate Difference for which adjustment is
+22,923,420 required to be made  ITA No. 6980/Del./2017 5 Accordingly, the ld.
+AO/TPO made upward adjustment of Rs.2,29,23,420/- being the ALP of
+international transactions for ITeS provided to its AE. Further, the AO also
+observed that the assessee has credited in his profit and loss account foreign
+exchange fluctuation gain of Rs.29,03,948/- which was not considered as
+operating income by the AO while passing the draft assessment order. During
+the course of determination of ALP by the TPO, it was noticed that the
+assessee had entered into the international transaction of provision of ITeS
+amounting to Rs.32,66,38,206/- with its AE. In the TP documentation for the
+purpose of benchmarking, the assessee had applied transactional net margin
+method as the most appropriate method considering itself as the tested party
+and operating profit to operating cost ratio as the most appropriate profit
+level indicator (PLI).
+
+3\. For application of TNMM, the assessee considered the following two
+comparable companies in the transfer pricing documentation with an average
+operating profit margin of (-) 8.48% as under :
+
+    
+    
+         S.No. Company Name                           OP/OC (%)
+         1.    Allsec Technologies Limited            (-)4.19
+         2.    Nucleus GIS & Ites Limited             (-)12.77
+               Average                                (-)8.48%
+    
+    
+    
+
+While calculating operating profit margin by the ld. TPO, he applied the
+following quantitative and qualitative filters for selection/rejection of
+comparable companies :
+
+> (i). Use of current year data
+
+> (ii). Companies having sales less than 1 Cr. were rejected
+
+> (iii). Companies having service income to total income ratio more than 75%
+> were selected.
+
+ITA No. 6980/Del./2017 6
+
+> (iv). Companies having income from export sales at least 75% of the total
+> income were selected.
+
+> (v). Companies having employee cost to total cost less than 25% were
+> rejected.
+
+> (vi). Companies having RPT more than 25% of total income were rejected.
+
+> (vii). Companies that are affected by some peculiar economic circumstances.
+
+> (viii). Companies undertaking significantly different functions compared to
+> assessee.
+
+Based on the aforesaid filters, the TPO in impugned order rejected all the
+comparable companies considered by the assessee in the transfer pricing
+documentation, for the reason submitted as under :
+
+    
+    
+         S.No. Company Name                       Remarks of TPO
+         1.    Allsec Technologies Limited        This company fails Export income
+                                                  more than 75%. Hence, not a suitable
+                                                  comparables.
+         2.      Nucleus GIS & Ites Limited       This company fails Export income
+                                                  more than 75%. Hence, not a suitable
+                                                  comparables.
+    
+    
+    
+
+4\. On the basis of the TPO order, the AO passed the draft assessment order.
+Against the draft assessment order, the assessee raised objection before the
+ld. DRP. The ld. DRP after considering the submissions and explanations of the
+assessee gave direction regarding the foreign exchange fluctuation as under :
+
+> "As far as foreign exchange fluctuation is concerned, as per the TP study
+> filed by the assessee, the assessee bears the foreign exchange risk since
+> its functional currency is rupees and it gets payments in US$. The AE of the
+> assessee does not bear foreign exchange risk. In view of this, the TPO is
+> directed to treat foreign exchange fluctuation as operating in nature if it
+> is linked to the operations of the assessee. Similar treatment (treating FE
+> fluctuation as operating) should be given in the case of comparables also."
+
+5\. Further, the turnover filter was also rejected by the DRP and risk
+adjustment was also rejected by the DRP. Further, the assessee objected to
+ITA No. 6980/Del./2017 7 five comparable companies out of 13 companies taken
+by the TPO. The ld. DRP after making detailed discussion issued directions to
+the TPO vide order dated 25.08.2017. In pursuance to the directions of the ld.
+DRP, the AO worked out the average margin at 13.93% and finally made
+adjustment of Rs.2,11,82,587/- to the income of the assessee. Feeling
+aggrieved from the final order of the Assessing Officer, the assessee is in
+appeal before the Income-tax Appellate Tribunal.
+
+6\. Ground No. 1 & 2 are general in nature and do not require any specific
+adjudication.
+
+7\. In respect of ground No. 3, 4 and 4.1, the AR of the assessee submitted
+that the foreign exchange gain earned by the assessee is generated from the
+services rendered to AE. It is an operating income. He further submitted that
+the assessee has followed the TNMM as most appropriate method for calculating
+the operating profit margin which has not been considered by the AO/TPO. He
+also relied on many judgments placed on the paper book. Even though the ld.
+DRP's specific directions were to consider the foreign exchange gain as
+operating income, the AO has not considered the same in the final assessment
+order. Therefore, the foreign exchange gain should be considered for
+calculation of operating profit margin. The TPO has calculated operating
+profit margin at 6.99% whereas it should be 7.98%.
+
+8\. On the other hand, the ld. DR relied on the order of the lower authority.
+
+9\. After hearing both the sides and perusing the entire material available on
+record and case laws cited by the assessee, we find that the AO was not  ITA
+No. 6980/Del./2017 8 justified in not following the directions given by the
+ld. DRP. We, therefore, remit this matter back to the AO/TPO to consider the
+foreign exchange gain as operating income of the assessee while working out
+the operating profit margin of the assessee, as directed by the ld. DRP. We
+further direct that the AO/TPO should calculate operating profit margin as per
+Rule 10B(1)(e) of the Income Tax Rules, 1963, if the assessee satisfies the
+conditions as per rules. Needless to say, the assessee shall be given
+reasonable opportunity of being heard. Accordingly, these grounds are allowed
+for statistical purposes.
+
+10\. Ground No. 5 challenges the rejection of comparable companies on the
+basis of additional filter of export sales less than 75% of the total income.
+In this context, we do not find any justification to discard the conclusion
+reached by the authorities below while considering this filter as appropriate
+filter for comparability analysis in the facts of the present case. The ld. AR
+of the assessee failed to rebut the finding of the ld. DRP that more than 86%
+of the operating revenue is earned by assessee out of export sales. Therefore,
+considering the quantum of export gross revenue of the assessee, the
+authorities below have rightly applied this filter as an appropriate filter
+for comparability analysis. Accordingly, this ground of assessee has no merit
+and is liable to fail.
+
+11\. Ground No.6 relates to selection of certain comparables, which according
+to the assessee are not comparable companies, although the assessee has
+challenged the selection of comparables, namely, Igate Solutions Ltd.,
+Capgemini Business Services (India) Pvt. Ltd. and e4e Healthcare Business
+Services Ltd.
+
+ITA No. 6980/Del./2017 9
+
+12\. iGATE Solutions Ltd. : The ld. AR of the assessee objected to the
+inclusion of this company in the list of comparables contending as under :
+
+a) the company is not passing RPT filter It is submitted that the company is
+not passing on the filter of related party transaction in excess of 25%,
+applied by the TPO.
+
+The related party transaction works out to 36.09% of sales (refer page 338 of
+the paper book), as under Particulars Amount ( in million) Revenue from
+operations I get technologies I NC. 9,551 I hate technologies I NC., Kannada
+1,236 I get computer systems (UK) Ltd 1,320  Others 235 Total 12,342 Sales
+revenue 34,195 RPT as % sales 36.09% The company, it is submitted, ought to be
+rejected from the final set of comparable companies, for this reason alone.
+
+a) Mergers/Accusations during the year During the year under consideration,
+IgateComputer Systems Ltd (formerly known as patni computer Systems Ltd.)
+merged with Igate Solutions Ltd. wide order dated 10.05.2013 w.e.f.
+01.04.2012.
+
+It is pertinent to note that the financial results of the company for the
+financial year 2012 - 13 are affected on account of the merger undertaken
+during the year under consideration. The figures reported in the audited
+financial statements ofIgateSolutions Ltd for the year ending March, 2013
+includes assets, liabilities, income, expenditure, profits and losses of
+IgateComputer Systems Ltd. for the period beginning from 01.04. 2012 to
+31/03/2013. The fact that the financial results of the company for the
+financial year 2012 - 13 are affected due to the merger undertaken during the
+year are reproduced at page 20 - 21 of the annual report (page 321 - 322 of
+the paper book).
+
+It shall further be noted that the merging entity, i.e.IgateComputer Systems
+(formerly known as patni computer systems), is engaged in the business of
+providing IT and IT enabled services. The services rendered by the company
+under the IT segment includes, application development, application
+maintenance and support, verification and validation, enterprise application
+solutions, business  ITA No. 6980/Del./2017 10 intelligence and data
+warehousing (refer page 8 of the annual report of patni computer systems).
+(annual report enclosed at pages 536 - 605 of the paper book).
+
+Accordingly, even if it is assumed that the company, iGATESolutions Ltd is
+engaged in providing IT enabled services, which is akin to the services
+rendered by the appellant, pursuant to the merger of Igate computer Systems
+Ltd (formerly known as patni computer systems), iGateSolutions Ltd ought not
+be considered as comparable to the appellant, as the merging entity is also
+engaged in providing IT services, which includes application development etc.
+
+b) Functionally not comparable and segmental daughter not available The
+company is engaged in the business of providing information technology and IT
+Enabled services to the customers. At page 21 of the annual report, it is
+mentioned that the company is specialised IT and ITES is provider (page 321 of
+the paper book).
+
+From notes to Accounts: Segment Reporting, it is evident that the company is
+engaged in two business segments, namely, Information Technology and IT
+Enabled services.
+
+It is submitted that since the operating results of the IT enabled services
+segment is not available in the audited financial statement, therefore, the
+company cannot be considered as comparable to the appellant.
+
+Decisions relied upon Reliance is placed on the following decisions, wherein
+the Hon'ble Benches of the Tribunal have consistently taken a view to exclude
+companies having extra-ordinary event during the year under consideration:
+
+• Capital IQ Information Syatems (India) Pvt. Ltd. (ITA No. 1961/Hyd/2011)
+approved by Hon'ble High Court in ITA No. 305 of 2014 - CL 481-508(ITAT)/
+697-698 (HC) • Xchanging Technology Services India Pvt. Ltd. Vs. DCIT (ITA No.
+1897/Del/2014) - Approved Hon'ble High Court in ITA No. 813/2015- CL 699- 700
+(HC) /701-711 (ITAT) • Ameriprise India Pvt. Ltd. Vs. DCIT (ITA No.
+7014/Del/2011) - Approved by Hon'ble High Court in ITA No. 461/2016- 759-786
+(ITAT) • Toluna India Pvt. Ltd. Vs ACIT (ITA No. 5645/Del/2011) • Lear
+Automotive India P. Ltd. Vs ACIT (ITA No. 5612/Del/2011) and • Global Logic
+India Pvt. Ltd. Vs ACIT (ITA No. 5809/Del/2011) • Agilent Technologies (
+International )Pvt. Ltd. Vs. ITO (ITA No. 1620/Del/2015, 477 & 6420/DEL/2016 •
+Transcend MT services Pvt. Ltd. Vs ACIT ( ITA No. 4048/Del/2013) • Vertex
+Customer Services India P.Ltd. vs. DCIT (ITA No. 1508/ Del/2015) • Exevo India
+Pvt. Ltd. vs DCIT (ITA No. 20/Del/2017) • Alcatel - Lucent India Ltd. vs Addl.
+CIT (ITA No. 1112 /Del/2017) • Ciena India Pvt. Ltd. vs DCIT (ITA No.
+3324/Del/2013) • Equant Solutions India Pvt. Ltd. vs DCIT in
+ITANo.1202/Del/2015 • NCS Pearson India Private Limited v ACIT (ITA No.
+2556/Del/2014)  ITA No. 6980/Del./2017 11 Reliance is also placed on the
+decision of Delhi Bench of Tribunal in the case of following decisions,
+wherein, the Hon'ble Tribunal directed to exclude a company on account of non-
+availability of segmental data:
+
+> i. Vodaphone India Services vs. DCIt( ITA No. 7140 & 7097 / Mum/2012 ) ii.
+> Macquire Global Services (P.) Ltd. (ITA 6803/ Delhi/2013) - CL 509-533
+> Hon'ble Tribunal in the case of appellant for the assessment year 2011 -
+> 12[ITA No. 1003/Del/2016] excluded Accentia Technologies Ltd from the final
+> set of comparable companies, interalia, on account of extraordinary event of
+> a merger/acquisitions and nonavailability of segmental accounts. - CL 615 -
+> 627.
+
+Further, Igate global Solutions Ltd itself has been rejected as comparable, on
+account of merger/acquisition and absence of segmental accounts, in the
+falling decisions;
+
+Vertex customer services vs DCIT, Circle 28 (1), India Private Limited vs DCIT
+(ITA number 1508/Del/2015) - CL 712 - 740 Evalueserve SEZ ( Gurgaon ) P. Ltd.
+Vs ACIT (ITA No. 1467/Del/2017) Ameriprise India Pvt. Ltd. vs DCIT (ITA No.
+7014/Del/2014) - CL 759 - 786 The assessee has further relied on the following
+decisions :
+
+(i). ITA No. 461/2016, PCIT vs. Ameriprise India Pvt. Ltd. dated 19.10.2016
+(Delhi H.C.)
+
+(ii). ITA No. 124/2018 PCIT vs. M/s. Oracle (OFSS)BPO Services Pvt. Ltd.
+(Delhi H.C.)
+
+13\. On the other hand, the ld. DR relied on the order of lower authorities
+and submitted that it is a good comparable company because it is engaged in
+providing ITeS. It was also submitted that the amalgamation will not affect
+the business of the company.
+
+14\. In our opinion, It is clear from the annual report of this company that
+related party transaction filter is more than 25% . The TPO has rejected has
+the RPT filter more than 25 % itself (supra). It is further seen from the
+directors' report which is on paper book page No. 307 that the company has
+merged with Igate Computer Systems Ltd. The Directors' report is as under :
+
+ITA No. 6980/Del./2017 12
+
+> "iGATE computer systems Ltd. (iCSL) (formerly known as Patni Computer
+> Systems Ltd) was merged with the company, pursuant to the approval of the
+> scheme of arrangement by the shareholders of both companies and order dated
+> May 10, 2013 of the Hon'ble High Court having judicature at Bombay, which
+> became effective from May 27, 2013. The appointed date fixed under the
+> scheme of arrangement was April 01, 2012. Accordingly, iCSL stands merged
+> with the company as on the appointed date."
+
+Due to extraordinary events occurred during the year, the financial result is
+affected. Further, no segmental information is available on the annual report.
+Moreover, iGATE has undergone restructuring by way of amalgamation, as
+discussed above. iGATE is also having huge turnover of Rs.34,195 . In view of
+both the counts as narrated above and after considering the case laws cited by
+the assessee , we directed to the AO/TPO to exclude this company not being a
+suitable comparable.
+
+15\. Capgemini Business Services (India) Pvt. Ltd.: The learned AR of the
+assessee relied on the written submissions for exclusion of this company from
+the list of comparables, stating as under :
+
+> a) Functionally not comparable it is submitted that as per the business
+> information provided under head notes to accounts of the annual report
+> (refer page 135 of the paper book), the company is a provider of financial
+> shard services and governance., Risk and compliance services. Further under
+> the head Revenue Recognition, the company states that it derives its revenue
+> primarily from business process management services and assurance and
+> compliance services.
+
+> The company is also engaged in the business of providing supply chain,
+> procurement, Technical Publication services in the financial year 2012 - 13.
+> The company also provides operational control assessments, IT risk
+> assessment, SAS 70, Assurance andRisk management services to many around the
+> globe.
+
+> It is submitted that the aforesaid services are in the nature of KPO
+> services and cannot be considered comparable to the captive services
+> rendered by appellant being in the phone activation.
+
+ITA No. 6980/Del./2017 13
+
+> Reference in this regard is also made to Rule 10 TA of the income tax rules,
+> which, the safe Harbour Rules, provides following services to be considered
+> in the nature of KPO services:
+
+> (g) " Knowledge process outsourcing services"means the following business
+> process outsourcing services provided mainly with the assistance or use of
+> information technology requiring application of knowledge and advanced
+> analytical and technical skills, namely:-
+
+> (i) geographic Information System;
+
+> (ii) human resource services;
+
+> (iii) engineering and design services;
+
+> (iv) animation or content development and management:
+
+> (v) business analytics;
+
+> (vi) financial analytics; or
+
+> (vii) market research, but does not include any research and allotment
+> services whether or not in the nature of contract research and development
+> services;
+
+it is submitted that the nature of services provided by the company, viz,
+financial shared services and governance, risk and compliance services,
+involve advance analytical and technological skills, and are in the nature of
+KPO services.
+
+Therefore, the company ought not be considered as comparable to the appellant
+on account of functional dissimilarity.
+
+It shall also be noted that as per the website of the company, the company is
+providing services in the following areas:
+
+> Transformation and innovation Digital Services Cloud Services Technology
+> solutions Business Operations Cybersecurity & Risk all our services Complete
+> details of services provided under each head as shown above is enclosed at
+> pages 609 to 614 of the paper book.
+
+In fact, on the website of the company under head featured jobs, the company
+has sought application of candidates having most advanced technology
+experiences, reproduced as under :
+
+Portfolio Management - 14-16 years- Bangalore;
+
+Salesforce - 6 to 9 years Bangalore Mulesolf developer - 6 to 9 years -
+Chennai Salesforce developer - Hyderabad Magento Developer - 6 to 9 years -
+Bangalore & Mumbai Senior consultants  ITA No. 6980/Del./2017 14 From the
+aforesaid, it shall be noted that the company is not only engaged in providing
+outsourcing services, but is also engaged in software development and related
+services and provision of KPO services.
+
+Needless to mention that in the absence of segmental results with regard to
+BPO/outsourcing segment, the company cannot be considered as comparable to the
+appellant with regard to its entity wide operation.
+
+b) Nonavailability of complete financial information It is further submitted
+that thecompany is a whollyowned subsidiary of Capgemini S.A. France and the
+entire group operates through its subsidiary across 40 countries.
+
+However, the related party transition detail is not available in the annual
+report being available in the public domain and therefore, the basis filters
+applied by the TPO cannot be verified.
+
+In view of the aforesaid, it is submitted that the company cannot be
+considered as an appropriate comparable for the purpose of applying TNMM."
+
+> Hon'ble Tribunal in the case of appellant for the assessment year 2012 - 13
+> in ITA No. 6014/Del/2016, excluded Informed Technologies India Ltd from the
+> final set of comparable companies, being engaged in provision of KPO
+> services such as financial research services, data management services to
+> the financial content industry. - CL 628 - 648.
+
+> A company engaged in provision of KPO services cannot be regarded as an
+> appropriate comparable for the purpose of benchmarking the international
+> transition of provision of BPO services[Rampgreen Solutions Pvt. Ltd vs. CIT
+> (377 ITR 533)]. - CL 670 - 696 Reliance, in this regard, is praised on the
+> following decisions, wherein, the Hon'ble Tribunal directed to exclude a
+> company on account of non-availability of segmental data:
+
+> iii. Vodaphone India Services vs. DCIT( ITA No. 7140 & 7097 / Mum/2012 ) iv.
+> Macquarie Global Services (P.) Ltd. (ITA 6803/ Delhi/2013) - CL 509-535
+
+16\. The ld. DR, on the other hand, relied on the orders of authorities below.
+
+17\. In our opinion, it is clear from the business profile of this company
+that the company is engaged in providing BPO services in the nature of
+business process management services and assurance and compliance services.
+The company is also providing business process outsourcing services in finance
+ITA No. 6980/Del./2017 15 and accounting in India. The company also offers
+financial share services and sharbanes Oxley compliance services to the
+industries in the domain of customer products, retail and distribution,
+financial services, life science and healthcare, manufacturing, media and
+entertainment and utilities. The arguments of the ld. DR has no force in view
+of the fact that the AO /TPO himself has admitted in his order that the
+assessee was in the business of BPO/data processing and in ITeS relating to
+phone activation and local number portability to various clients for and on
+behalf of its parent company. Nowhere in these orders, the authorities have
+observed that assessee was providing high-end knowledge based services
+requiring high skill. In our considered opinion, the above comparable company
+is engaged in BPO/KPO. The KPO is nothing but extended version of BPO. The
+contention of the assessee is also that the assessee is engaged in BPO/KPO
+services, but no segmental information is available, which is necessary to
+treat this company as appropriate comparable. We, therefore, direct the AO/TPO
+to analyse the comparability test of this company on the basis of segmental
+information, if he possesses the same.
+
+18\. E4e Healthcare: The ld. AR for exclusion of this company from the list of
+comparables has stated as under :
+
+a) Functionally not comparable and segmental data not available As per page 54
+(227 of the paper book), besides providing IT enabled services, the company is
+also engaged in the business of rendering software development services.
+
+However, segmental data with respect to IT enabled services segment is not
+available in the audited financial statement of the company.
+
+Further, as per page 56 (page 229 of the paper book), the company derives its
+revenue primarily from Revenue Cycle management of U.S. Based the Healthcare
+client. Revenue is derived from billing, coding and claim process services.
+
+ITA No. 6980/Del./2017 16
+
+A further scrutiny of the nature of services provided by the company from the
+website of the company revealed that the company is providing host of services
+and end - to - end solutions to the healthcare industry. A few snapshot of the
+website of company is as under;
+
+> Healthcare Business Solutions Enhance your margins Our 23 - year experience
+> has taught us that there is no magic potion are silver bullet for improving
+> financial performance. It can only be achieved by leveraging best practices,
+> tested process, and innovative technology. Our approach historically
+> addresses Revenue Cycle Management - from the moment a patient enters the
+> system to the final dollar being collected or paid - all this, while
+> delivering better outcomes in quality, turnaround times, and productivity.
+
+The various services and solutions provided by the company, as demonstrated on
+the website is reproduced hereunder Provider solutions Medical Billing
+Companies Integrated Practice and RCM Coding and Compliance Hospital Services
+Hospital Coding Payer Solutions Claims Management and Admin Cost Avoidance and
+Audit Medical Record Audit Contact Centre Solutions Technology Solutions Payer
+Platforms Computer - Assisted Coding Workflow Tools Value - Added Services
+Case Studies Healthcare & Life Science Analytics Detailed services as
+extracted from the website of the company is enclosed at pages 606 to 609 of
+the paper book.
+
+From the aforesaid, it shall be noted that for the revenue cycle management
+services provided to its health clients, the company is not only providing
+just billing, coding and claim processing services, but also providing audit
+services as well as technology solutions such as payer platform, workflow
+tools etc. It is submitted that the diverse services provided by the company
+is in the nature of IT services and KPO services apart from IT enabled
+services.
+
+ITA No. 6980/Del./2017 17
+
+Hon'ble Tribunal in the case of appellant for the assessment year 2011 -
+12[ITA No. 1003/Del/2016] excluded Accetia Technologies Ltd. form the final
+set of comparable companies, inter alia, on the basis that the company
+provides services in healthcare division and also engaged in the business of
+providing KPO services. The company was also excluded on account of non-
+availability of segmental accounts.
+
+Following the decision for assessment year 2011 - 12 the Hon'blelTirunal in
+the appeal for assessment year 2012 - 13 in ITA No. 6014/Del/ 2016, excluded
+Acropetal Technologies Ltd and BNR Udyog Ltd from the final set of comparable
+companies, being engaged in provision of KPO services in healthcare segment A
+company engaged in provision of KPO services cannot be regarded as an
+appropriate comparable for the purpose of benchmarking the international
+transition of provision of BPO services[Rampgreen Solutions Pvt. Ltd vs. CIT
+(377 ITR 533)].
+
+The company has itself been rejected as comparable is to a ITES enabled
+services provider in the following cases:
+
+HOV Services Ltd. Vs. JCIT (2016) 73 Taxmann.com 311 - CL 787 - 818
+Schlumberger India Technology Centre Pvt. Ltd. Vs. DCIT (ITA No. 640/Pn/2014)
+- CL 741- 758
+
+19\. On the other hand, the ld. DR relied on the orders of the lower
+authorities and submitted that the assessee has produced the print out of
+business profile of this company on 20.01.2018, which at PB-606 to 608, which
+is not reliable and may differ from actual business activities of the company.
+The case of assessee is related to A.Y. 2013-14.
+
+20\. In our opinion, the ld. DRP has given direction that if this company
+passes the employee cost filter, it can be retained as comparable. We further
+observe from the paper book of assessee that in assessee's own case for A.Y.
+2011-12, this company was selected as comparable on which no objection was
+raised by the assessee upto the stage of Tribunal. Similarly, in the case of
+assessee for A.Y. 2012-13, the DRP had mentioned that assessee has no
+objection on inclusion of this company. However, keeping in view the  ITA No.
+6980/Del./2017 18 objection of assessee in the submissions made before the
+Tribunal, the ITAT remitted this matter back to the file of DRP for re-
+deciding the same after affording reasonable opportunity of hearing to the
+assessee. No further information pursuant to the remand proceedings, is
+furnished by the assessee before us. It is notable that before the ld. DRP,
+the assessee raised objection on this company only on account of non-
+comparability of employees cost and no objection was raised either on
+functional test. The objection regarding non- availability of annual report
+was not raised by the assessee before the TPO. The ld. DRP was also of the
+view that when the assessee challenged the employees cost filter having not
+been passed, it leads to say that the assessee was having annual accounts of
+the said company. Keeping in view these facts, the ld. DRP remitted it to the
+AO to compare this company on the basis of employees cost filter. In pursuance
+to this, the AO/TPO after going through the annual report of this company
+found that this company passes the employees cost filter and therefore, in our
+considered opinion, has rightly included this company as an appropriate
+comparable. In presence of above facts, the objections of the assessee on
+functional dissimilarity or non- availability of segmental data are not found
+acceptable at all. We, therefore, conclude that the ld. Authorities below have
+rightly included this company as an appropriate comparable in the instant
+case.
+
+21\. In respect of ground No. 7 & 8, the assessee has raised grounds relating
+to risk adjustment not granted by the AO/TPO. The AR of the assessee
+reiterated the submissions made before the lower authorities and submitted
+that the assessee should be allowed risk adjustment because the assessee is
+dealing only with its holding company. On the other hand, the ld. DR relied on
+ITA No. 6980/Del./2017 19 the order of the lower authorities and he submitted
+that the authorities below have discussed this issue in detail.
+
+22\. After going through the orders of the authorities below and submissions
+of the assessee, we observe that there is no infirmity in the orders of the
+lower authorities. The findings reached by the authorities below are as under
+:
+
+RISK ADJUSTMENT The assessee has argued that it is working in a risk mitigated
+environment and does not take market risk, credit risk, pricing risk, etc. On
+single customer risk it is claimed that it is getting continuous business from
+the AE and there is no such risk. As regards political and country risk, it is
+stated that the same are applicable to ail and is not peculiar to assessee
+alone. The assessee has not provided any quantification of the different kinds
+of tasks assumed by the comparables and claimed not available in the case of
+assessee, Thus, the computation of risk adjustment by the assessee is vague
+and without any basis as the assessee has not furnished any factual input
+correlating its functioning, die functioning of the service sector and the
+functioning of die comparable companies. From the above, it is observed that
+the assessee has not been able to assign any evident and acceptable value to
+the adjustment claimed on account of Zero risk born by the assessee. The
+assessee has also not furnished the risk profiles of the comparables, even-
+while the assessee has objected the action of this office for not allowing any
+adjustment for difference in risk profile of the assessee and that of
+comparables. The primary' argument of the assessee is that it was remunerated
+on cost plus basis, i.e, the entire cost incurred by the assessee is
+reimbursed by its AE along with a certain markup and, accordingly, is was
+working in a risk free environment. 1'he assessee further contended that the
+profits are directly linked with the risk profile , t e., more is the risk
+more should be the profit and, therefore, since the assessee was not carrying
+any risk, it should have been allowed adjustment for assuming lower risk as
+compared to the compare' vs. This Panel has carefully considered the arguments
+of the assessee. The adjustment for function - : differences, if any. can be
+made only if those differences can be ascertained accurately and then impact
+on the margins can be assessed with reasonable accuracy. In this case, no
+information is available about the risk profile of the comparables, i.e. how
+much was the risk assumed in respect of functions carried out by them, what
+was their business model, i.e., either cost plus or full time equivalent (FIE)
+or lump-sum. consideration. In the absence of reliable information about the
+risk profile of the comparables, it is impossible to quantify the adjustment
+for difference in the risk profile. Moreover, the assessee also bears single
+customer risk which is a significant risk. In stock market also, companies
+with diversified customer base commands better valuations as compared to the
+companies having single customer or narrower customer base.
+
+After careful consideration of the matter this office is of the view that risk
+adjustment as a general rule cannot be allowed unless it is clearly shown that
+the comparable.- had actually  ITA No. 6980/Del./2017 20 undertaken such risk
+and how the same materially affected their margins. The revised OECD
+guidelines of 2010 has also stated in Para 3.54 as under:
+
+> "Ensuring the needed level of transparency of comparability adjustments nun
+> depend upon the availability of an explanation of any adjustment performed,
+> the reasons for the adjustments being considered appropriate how they were
+> calculated, how they changed the results for each comparable and how the
+> adjustment improves comparability. Issues regarding documentation of
+> comparability adjustments tire discussed in Chapter V ."
+
+8.2. Prom the above guidelines, it can be seen that unless it is shown that
+how the risk adjustment would change the result of each comparable and how the
+same would improve the comparability and unless adequate reasons are given for
+such adjustment, no adjustment can be allowed to the assessee. In the present
+case except pointing out various risks the assessee has not shown with
+evidence as to whether each of the risk was actually undertaken by the
+comparables or not and if so how these risks affected each of them and whether
+such adjustment would improve the comparability. It may also be mentioned
+that: it is incorrect to say that the assessee is working virtually in a risk
+free environment. The assessee too bears several risks like technology risk,
+foreign exchange risk, manpower risk, single customer risks, etc. The various
+risks to which assessee is exposed are being discussed below:-
+
+No. Risk to The discussion on various risks as per the matrix as assessee
+disclosed in transfer pricing report and also remarks of this office on the
+same
+
+1\. Market risk Disclosed in transfer pricing report, The assessee's claim
+that it does not bear market risk as it renders services- exclusively to its
+AE is not acceptable. In fact, the assessee bears a much bigger market risk
+viz. single customer risk, j As the assessee is wholly dependent on its AE,
+its entire existence is dependent on it. If the AE runs out of business or if
+AC - business gets reduced substantially, the assessees business will also get
+adversely affected The assessee being a captive service provider cannot even
+look, for other 1 customers. Thu?, in fact the assesses runs a greater risk
+than an average independent entity that can always look for other customers or
+other markets
+
+2\. Service liability Disclosed in transfer pricing report. The assesses
+argues that independent i comparables bear lull responsibility for delivery of
+final services to clients and hence exposed to service failures risk whereas
+the assessee is not exposed to this risk as it dries not have any contractual
+liability for losses or damages' for service failures and the cost of rework
+(if any) would be recoverable from AE on a cost plus basis. It is naive to
+argue that the assesses is not responsible for quality of service and  ITA No.
+6980/Del./2017 21 thus does not bear risk for delivery1 of services.
+
+Further, it is the duty of the independent enterprise to rectify such error at
+an additional cost, which in fact, reduces the profitability as it cannot get
+more than the prevailing rate in the market for the services rendered. The
+reworks unless exceptional are a part of running business and are factored in
+stated profits.
+
+3 Price Risk Not disclosed In transfer pricing report but actually borne by
+assesses.
+
+:
+
+4, Capacity Disclosed in transfer pricing, report. The assessee states that as
+utilization risk it is compensated even on' the idle capacity, it does not
+bear this risk. However, most independent companies are charging almost
+similar man-hour rates. Further, it is not the case of assessee that
+independent companies are charging at a premium rate to account for under
+utilization of capacity. Further, as the operating margin is computed after
+considering the complete employee cost which includes the salary for the
+period of under utilization of employees, the effect of this risk is already
+taken care of while computing the operating margin. It has also not been shown
+that margins change because of under utilization.
+
+5\. Foreign Disclosed in transfer pricing report. However, it has been
+exchange risk considered a nonoperating item both for assesses and comparable
+companies. Besides, hedging costs incurred by comparable companies are already
+part of their P&L and have already reduced their profits.
+
+6\. Credit & Disclosed in transfer pricing report. It is not shown that the AE
+collection risk pays the money in advance. If not so. assessee also has credit
+risk as there is no guarantee that the AE shall always be in a position to pay
+the assesses. In any. case, the risk on account of collection is very minimal
+and it gets nullified at net level due to the fact that the margin of the
+comparable companies is computed only after deducting the bad debts/ provision
+for bad debts as operating expenses.
+
+7\. Government & Not disclosed in transfer pricing report but actually borne
+by institutional assesses.
+
+8\. Operational risk Not disclosed in transfer pricing report but actually
+borne by assesses.
+
+    
+    
+    9.    Infrastructure    Not disclosed in transfer pricing report but actually borne by
+          failure risk      assessee.
+    10.   Manpower risk     Disclosed in transfer pricing report but actually borne by
+    
+
+assesses, It is argued that the high attrition rate resulting in higher
+training costs, idle time etc will have an impact on the pricing of
+comparables. However, it is an ongoing phenomenon in any running company and
+the costs on account of the same  ITA No. 6980/Del./2017 22 are already
+factored in the P&L of comparables. As regards loss of valuable personnel and
+related human intangible, even the assesses is exposed to this risk.
+
+11\. Security risk Not disclosed m transfer pricing report but actually home
+by assesses.
+
+    
+    
+      12.    Environmental       Not disclosed in transfer pricing report but actually borne by
+             risk                assessee.
+      13.    Technology Risk      Comparable companies as well .as the assesses tire exposed to
+    
+
+similar type of technological obsolescence or risk, further, technological
+changes are an ongoing phenomenon and place an additional cost burden which
+pull down the profitability of the comparable companies as well. It may be
+more relevant for companies which have substantial assets and run the risk of
+their products getting obsolete This risk is not very relevant for service
+industry.
+
+8.3. Judicial decisions: In various judicial pronouncements the risk
+adjustment has not been allowed by the ITATs. Some of these decisions are
+discussed below:
+
+(a) Vedaris technology (2010-TII-10-ITAT-DEL-TP: No risk adjustment to be
+allowed even on ad hoc basis
+
+(b) M/s Marubeni India Private Ltd. t20n-TII-36riTAT~DF.L-TP) in which it was
+held that as the assessee failed to bring any evidence on record to show that-
+there was any difference in risk profiles of comparable companies and since
+the assesses failed id file the details exhibiting risk borne by comparables,
+no risk adjustment can be given, even on ad hoc basis.
+
+M/S ADP Private Ltd. (2011-TII-44-ITAT-HYD-TP wherein the IT AT held that
+there is no thumb rule for allowance of risk adjustment
+
+(d) M/s Symantec Software Solutions Private Ltd, (2011-TII-60-ITAT-MUM-TP):
+The ITAT held that;-
+
+i. Until and unless it is shown that the difference in function and risk
+results in deflation or inflation of financial results of the comparables, it
+is not a general rule to grant it as a standard adjustment.
+
+ii. The assessee could not show how such difference in risk and functions
+affected the results of the- comparables.
+
+(e). M/S ST Micro Electronics (2011-TII-63-ITAT-DEL-TP): The assessee's claim
+that is was a risk tree captive service provider and hence cannot be compared
+with comparables who were lull entrepreneurs was not accepted by the ITAT.
+
+(f). M/s. Exxon Mobile Company India Pvt. Ltd. (201 l-TII 68-ITAT-MUM-TP): The
+ITAT held that since working capital adjustment has been given and the
+assessee has not worked out the risk adjustment, no adjustment can be granted
+on this account  ITA No. 6980/Del./2017 23
+
+(g). M/s Deloitte Consulting India P Ltd: ITA No. 1082/Hyd/2010, ITAT
+Hyderabad dated 22.7.2011: In this decision the ITAT held as under;
+
+> ''The next ground is with regard to the issue that the TPO/CIT (A) not
+> allowing any adjustment towards valuable intangibles owned by and in respect
+> of entrepreneurial risk borne by the comparables. We find that there are
+> several factors such as market risks environmental risk, entrepreneurial
+> risk and functional risk etc.. which affect this muter and which ultimately,
+> affect the results of the company. All the aforesaid factors make it
+> impracticable to any authority to find out exact duplicate company of the
+> assessee as comparable. Some variation bound to exist. We find that the TPO
+> had made efforts to identify the comparables whose functions are similar to
+> the assessee company by applying filter quantitatively and qualitatively to
+> eliminate, the differences between the assesses companies with that of
+> comparable companies neutralize the aforesaid risk factors. The argument of
+> the learned counsel for the assessee in the written submissions as well as
+> submissions made before us were all in the background of showing the
+> assessee company its low end performer. We do not find force in the
+> contention of the-learned counsel for the assessee that the assessee is a
+> risk free service provider and sufficient adjustment needs to be allowed to
+> compare with the other comparable companies. The learned counsel for the
+> assessee placed reliance on several decisions in support of his case that
+> there should be some adjustment for risk to be given However, we find that
+> the first appellate authority utter going through the agreement, entered by
+> the assessee company with the AE. observed that the assessee company is an
+> independent contracting entity and shall be solely responsible for
+> determining the manner, means and methods by which ii performs its
+> obligation under the said contract as per Articles, the assessee company has
+> undertaken the warranty that all its work and documentation to be delivered
+> to the associate enterprise shall be free of error In a nutshell, the
+> assessee company was carrying several risks while undertaking various works
+> services far as associate enterprise In view of this mater after considering
+> the detailed reasoning given by the CIT (A) TPO in their orders, in our
+> considered opinion, it cannot be said that the assessee company was
+> operating in a risk free environment and accordingly the assessee company is
+> not entitled to any adjustment towards risks borne by various comparable
+> companies. Therefore, we confirm their orders on this issue. Hence, the
+> ground raised by the assesses on this issue is rejected. "
+
+(h). Reliance on the judgment of M/s Inteilinet Technologies India Pvt. Ltd Vs
+ITO (ITA No. 1237 (Bang)/2010) is not of much help as in that case ITAT has
+not accepted the assessee's contention of risk adjustment of 5.5%, The ITAT
+has only set aside the matter to TPO to consider various contention of the
+assessee and decide the percentage of risk adjustment in accordance with law.
+However, if the methodology given by the-assessee in its contention does not
+lead to reasonably accurate adjustment, the law is not in favour of granting
+an adjustment. Hence, the judgment cannot said to be to laying down that a
+risk adjustment should be allowed even if it does not result in reasonable
+accurate adjustment.
+
+ITA No. 6980/Del./2017 24
+
+8.6. Hence, it can be seen from the analysis of various judgments that the
+issue of grant of risk adjustment is not yet settled. In some decisions,
+courts have not allowed any risk adjustment, in some decisions, courts have
+principally agreed that there are differences between risk profile of the
+assessee and comparables and so there should be risk adjustment. However, the
+courts have not yet ruled on the issue whether any particular method results
+in reasonably accurate adjustment or not. Further, whether the assessee has a
+significantly different risk profile from that of comparables, therefore
+warranting a risk adjustment is a question of fact and has to be decided on
+the facts of the case.
+
+8.7. It is not sufficient to merely spell out risks. It has to be shown which
+risk was actually undertaken by the comparables and to what extent it affected
+the profitability. The assessee has not done so. Adjustment can be allowed
+only if it is demonstrated that is leading to better comparability and only
+when a credible methodology is adopted for calculating a reasonably accurate
+adjustment.
+
+8.8. Since, the methodology is nor well established and-requires making
+several assumptions, the risk adjustment calculated as per the methodology
+will not lead to reasonably accurate adjustment as required as per the Income
+Tax Act and Rules. Therefore, it will not be possible to give risk adjustment
+under the Indian law.
+
+8.9. The discussion on the risk adjustment is summarized as under:
+
+a. As discussed above, the assessee has also undertaken several risks.
+Therefore, it is not correct to say that it is a risk mitigated entity.
+
+b. The assessee is totally dependent on the AE tor business. Thus the assessee
+takes the risks associated with heavy dependence on a single customer. In
+common business parlance it is known as "single customer risk'.
+
+c. The compensation model with the AE does not guarantee volume of business
+nor tire period. The agreement can be terminated by any party at any time
+after giving a stipulated period notice. Thus the assessee is not free from
+the risk of losing business entirely or losing volume of business.
+
+d. The assessee is not compensated any amount for termination of agreement
+even if it is terminated without any cause. No independent enterprise would
+like to agree for a termination clause without compensation if it is
+terminated without any cause.
+
+ITA No. 6980/Del./2017 25
+
+e. The independent entrepreneur has to incur expenditure on marketing, etc.
+which is debited to the profit and loss account. But, it is always not
+necessary that these risks reflected in the marketing, sales promotion
+expenses will automatically be compensated by increase in sales or higher
+margins For example, increased marketing efforts in some segments of market
+may not yield results for a company and thereby there may be a loss on this
+marketing effort which may bring down the overall profitability rather than
+increase the profitability. Thus if undertaking the market risk etc. helps in
+earning any extra margin, the benefit is more than set off by the
+corresponding expenditure. The same applies to credit risk, service-
+liability, technology risk etc. f. If is incomxt to say that higher the risk,
+the higher is the margin though it is true that one expects higher margin when
+one undertakes higher risk. Titus realization of risk is different from
+expected return based on risk undertaken. Finally selected comparables have
+almost similar risk' as all are independent entrepreneurs but their margins
+vary substantially.
+
+g. Different: comparables can have different risk profiles and different
+profit margins.
+
+The proviso to Sec. 92C{2) of the Act provides for adopting arithmetical mean
+of the different prices. This provision neutralizes the effect of difference
+in the risk profile, if any between the tax payer and the comparables as
+realized risk may pull down the profitability below the risk tree return.
+
+h. It is not sufficient to merely spell out .risks, .It has to be shown which
+risk was actually undertaken by the comparables and to what extent it affected
+the profitability. Adjustment can he allowed only if it is demonstrated that
+is leading to better comparability and only when a credible methodology is
+adopted for calculating a reasonably accurate adjustment. The methodology used
+by the assessee does not have any application in the area of transfer pricing.
+
+i. In the various decisions of the ITATs as referred to above no risk
+adjustment has been allowed in such cases in absence of any credible
+methodology to gram risk adjustment.
+
+In view of the above discussion it is held that no risk adjustment is to be
+given to the assessee.
+
+8.10. Further the assessee has quantified the risk adjustment based on the
+difference between bank rate and PLR. It is mentioned here that reference to
+PLR and bank rates in the context of transfer pricing is not pertinent. Though
+the honorable ITAT was persuaded in the case of Philips that bank rates and
+PLR are in some way connected with the under lying risk of lending; in fact it
+is not. so. Loosely speaking bank rate is the rate at which the central bank
+(RBI in India) advances credit to other banks. The bank rate also refers to
+the rate of interest charges on interbank short term borrowings (call money).
+However it is in no way connected with the perceived under lying risks. Before
+setting the base fate system, banks used another rate system called Prime
+Lending Rate (PLR) to set their lending rates. It was  ITA No. 6980/Del./2017
+26 noticed by the RBI that banks used to manipulate this PLR to lower level to
+offer discounted lending rates for the borrowers. It may cause the loss for
+the banks If they offer loan with much cheaper price. The real intention of
+the RBI is to make the banking system much stronger after the global financial
+crisis. The banks meet huge loss because of the default loans. The main reason
+is, when banks offer loans with cheaper price to lure the customers, most of
+the customers without adequate financial support to get the loans. Base rate
+system provides more transparency on selling the rates. Each bank uses same
+criteria to set their base rates. Base rate system is arrived at taking into
+the account, the cost of deposits and cost of keeping aside cash to meet CLR
+and SLR, It is convenient for the banks to adjust the lending rates after the
+changes on policy rates by the RBI.
+
+8.11. In the following categories of loans PLR or base rate is not applicable:
+• Agricultural Loans • Loans given to own employees * Loans against deposit *
+Export Credit 8.12. As per RBI guidelines Base Rate shall include all those
+elements of the lending rates that are common across all categories of
+borrowers. While each bank may decide its own Base Rate, some of the criteria
+that could go into the determination of the Base Rate are: (i) cost of
+deposits; (ii) adjustment for the negative carry in respect of CRR and SLR;
+(Hi) unallowable overhead cost for banks such as aggregate employee
+compensation relating to administrative functions in corporate office,
+directors' and auditors' lees, legal and premises expenses, depreciation, cost
+of printing and stationery, expenses incurred on communication and
+advertising, IT spending, and cost incurred towards deposit insurance; and
+(iv) profit margin. It is generally known fact that the RBI uses interest
+rates as a measure of monetary policy to control liquidity in the market or as
+an anti inflationary measure.
+
+8.13. The RBI policy announcement makes it very clear that PLR/Base Rate and
+bank rates are not the functions of risk adjustments but are measures used by
+the RBI as tools of monetary policy to control inflation; to regulate excess
+cash flow in the market and to release/suck out liquidity from the market. It
+is naive to postulate that the difference between the bank rate and the
+PLR/Base rate represent the underlying risk of lending,. The 29rystall's
+argument is therefore not acceptable. 8.14. Further, in the assessee own ease
+for AY 2012-13, the assessee has filed an appeal before DRP against the order
+u/s 92CA(3) passed by the TPO on this issue. However, the DRP vide its order
+dated 14.09.2016 has dismissed the assessee's ground with the remarks "It is
+also worth adding that it is not sufficient to merely spell out risks, it has
+to be shown which risk was actually undertaken by the comparables and to what
+extent it affected the profitability........... Since, the methodology is not
+well established and requires making several assumptions, the risk adjustment
+calculated as per the methodology will not lead to reasonably accurate
+adjustment as required as per the Income Tax Act and Rules. Therefore, it will
+not be possible to give risk adjustment under the India law."
+
+ITA No. 6980/Del./2017 27
+
+"DRP Directions:
+
+Objections ix and x are related to risk analysis and risk adjustments hence
+are being adjudicated together. Risk adjustment as a general rule cannot be
+allowed unless it is demonstrated that the comparables had actually undertaken
+such risk and how the same materially affected their margins. Unless it is
+shown that how the risk adjustment would change the result of each comparable
+and how the same would improve the comparability and unless adequate reasons
+are given for such adjustment, no adjustment can be allowed to the taxpayer.
+In the present case, the taxpayer has not shown with evidence as to whether
+each of the risk was actually undertaken or not by the comparables and if so,
+how these risks affected each of them and whether such adjustment would
+improve the comparability. Probability of risk and certainty of risk are two
+different aspects and cannot be equated for the purpose of adjustment. All
+this requires robust and reliable data, both for the assessee and the
+comparables in the absence of which risk adjustment cannot be considered for
+enhancing comparability. Thus, the objection is dismissed."
+
+23\. In the result, these grounds of appeal are rejected.
+
+24\. Ground No.9, challenges the working capital adjustment of assessee vis-
+a-vis comparable companies. After going through the order of the lower
+authorities, this issue has not been dealt and the assessee has also not
+raised this issue before the DRP, but raised before us. Therefore, this ground
+is not accepted.
+
+25\. Ground No. 10 regarding charging of interest 234B and 234C is
+consequential in nature. The AO is directed to give its consequential effect.
+
+26\. In the result, the appeal of the assessee is partly allowed.
+
+Order pronounced in the open court on 15th October, 2018.
+
+    
+    
+                  Sd/-                                                Sd/-
+           (Bhavnesh Saini)                                     (L.P. Sahu)
+          Judicial member                                  Accountant Member
+    
+    Dated: 15th October, 2018
+    *aks*
+     
+

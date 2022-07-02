@@ -1,0 +1,857 @@
+tid,label,token
+220229,city,Delhi
+220229,city,DELHI
+220229,city,New Delhi
+220229,city,Bombay
+220229,city,Bihar
+220229,city,Hyderabad
+220229,city,Sabha
+220229,city,grave
+220229,city,Calcutta
+220229,city,Ram
+220229,location,Delhi
+220229,location,DELHI
+220229,location,New Delhi
+220229,location,Bombay
+220229,location,Bihar
+220229,location,Hyderabad
+220229,location,Sabha
+220229,location,grave
+220229,location,Calcutta
+220229,location,Ram
+220229,location,KAILASAM
+220229,location,Mahadev Road
+220229,location,Maharashtra
+220229,location,Safdarjung Road
+220229,location,Andhra Pradesh
+220229,location,Saurashtra
+220229,location,Maligaon
+220229,location,Haryana
+220229,location,West Bengal
+220229,location,Sikkim
+220229,location,Lok
+220229,location,Kania
+220229,location,Kerala
+220229,location,Pandu
+220229,location,Act
+220229,location,Deogad
+220229,location,Kherkar
+220229,location,Shastri Bhavan
+220229,location,Khandpur
+220229,location,Safdarjung
+220229,location,Road
+220229,location,Ministry
+220229,location,Railway
+220229,location,Railway Station
+220229,location,Mr
+220229,location,Khedkar
+220229,location,Rajasthan Highway
+220229,location,Rajasthan
+220229,location,India
+220229,location,fold
+220229,location,Britain
+220229,location,England
+220229,location,US
+220229,location,Parliament
+220229,location,Central Hall of Parliament
+220229,location,Maruti Complex
+220229,location,PW
+220229,location,District
+220229,location,fazalali
+220229,location,syed
+220229,location,kailasam
+220229,location,p.s. koshal
+220229,location,a.d
+220229,location,new delhi
+220229,location,bombay
+220229,location,delhi
+220229,location,ors.
+220229,location,andhra pradesh
+220229,location,anr.
+220229,location,the state of delhi
+220229,location,maligaon
+220229,location,pandu
+220229,location,c.b.i.
+220229,location,india
+220229,location,haryana
+220229,location,west bengal
+220229,location,crl.
+220229,location,hyderabad
+220229,location,sikkim
+220229,location,sol.
+220229,location,the rajya sabha
+220229,location,chandrachud
+220229,location,england
+220229,location,kania
+220229,location,c. j.
+220229,location,the state of bihar
+220229,location,state of maharashtra
+220229,location,the state of west bengal
+220229,location,sastri
+220229,location,c.j.
+220229,location,mahajan
+220229,location,mukherjea j.
+220229,location,mukherjea
+220229,location,j.
+220229,location,safdarjung
+220229,location,us
+220229,location,rajasthan bye
+220229,organization,Delhi Administration
+220229,organization,State
+220229,organization,Special Court
+220229,organization,Parliament
+220229,organization,Central Government
+220229,organization,Board of Film Censors
+220229,organization,Supreme Court
+220229,organization,Coordination Committee
+220229,organization,Central Government PW
+220229,organization,Information and Broadcasting
+220229,organization,Central Bureau of Investigation
+220229,organization,Maruti Complex
+220229,organization,Maruti
+220229,organization,Court of Sessions
+220229,organization,E Parliament
+220229,organization,High Court
+220229,organization,Legislature
+220229,organization,LSB
+220229,organization,Deoman Upadhyaya
+220229,organization,Supreme Court in Re
+220229,organization,Political Department
+220229,organization,Political
+220229,organization,SCR
+220229,organization,Ors
+220229,organization,State of Andhra Pradesh
+220229,organization,Kerala Education Bill
+220229,organization,Parshad
+220229,organization,V C Shukla
+220229,organization,Government of India
+220229,organization,North Devon Hospital
+220229,organization,Cozons
+220229,organization,House of Parliament
+220229,organization,Atlas Cycle Industries Ltd
+220229,organization,SCC
+220229,organization,Appellate Court
+220229,organization,The State
+220229,organization,Anwal
+220229,organization,Ministry of Information
+220229,organization,Committee
+220229,organization,Prasad PW
+220229,organization,Ministry
+220229,organization,Union Government
+220229,organization,Sessions Court at Delhi
+220229,organization,K G Bhatat
+220229,organization,Lok Sabha
+220229,organization,Rajya Sabha
+220229,organization,Commissions of Inquiry
+220229,organization,Supreme Court of appeals
+220229,organization,Court of Session
+220229,organization,Presidential Reference
+220229,organization,House of Parliament Thus
+220229,organization,Commission Reports
+220229,organization,Calcutta Weekly Notes
+220229,organization,Cabinet
+220229,organization,Houses of Parliament
+220229,organization,Government Department
+220229,organization,Morgan
+220229,organization,Provincial Government
+220229,organization,Matajog Dobey
+220229,organization,Kerala Legislature
+220229,organization,Jyoti Pershad
+220229,organization,C Shukla
+220229,organization,Chinta Lingam & Ors
+220229,organization,Budhan Choudhry & Ors
+220229,organization,Court in Khudaran
+220229,organization,Cozens
+220229,organization,Central Bureau
+220229,organization,CIU
+220229,organization,CIA
+220229,organization,> Supreme Court
+220229,organization,Smt Indira Nehru Gandhi
+220229,organization,Supreme Court Under Art
+220229,organization,Special Tribunal
+220229,organization,District Magistrate
+220229,organization,Court of Magistrate
+220229,organization,State of West Bengal
+220229,organization,Anwar
+220229,organization,State Government
+220229,organization,Reliance
+220229,organization,IPC
+220229,organization,Central Board
+220229,organization,Board
+220229,organization,Defence of India Rules
+220229,organization,Janata Government
+220229,organization,Information & Broadcasting
+220229,organization,A-l
+220229,organization,Western Express
+220229,organization,Maruti -LRB- Company
+220229,organization,Maruti Complex Another
+220229,organization,Maruti Limited
+220229,organization,General Store
+220229,organization,Press Shop
+220229,organization,Court
+220229,organization,Appellant
+220229,organization,Delhi High Court
+220229,organization,Central Hall of Parliament
+220229,organization,supreme court of india
+220229,organization,state
+220229,organization,delhi administration
+220229,organization,parliament
+220229,organization,the central government
+220229,organization,the central board of film censors
+220229,organization,pw 1
+220229,organization,board
+220229,organization,examining committee of the board
+220229,organization,the revising committee
+220229,organization,pw 6
+220229,organization,the ministry of information & broadcasting incharge
+220229,organization,t.v. projects
+220229,organization,the film division auditorium
+220229,organization,the librarian-cum-projectionist
+220229,organization,auditorium
+220229,organization,technical officer
+220229,organization,ministry of information and broadcasting
+220229,organization,minister of information and broadcasting
+220229,organization,the supreme court
+220229,organization,the ministry of information and broadcasting
+220229,organization,amrit nahata
+220229,organization,union
+220229,organization,information and broadcasting
+220229,organization,the coordination committee
+220229,organization,pw 6 murshed
+220229,organization,government
+220229,organization,the central government pw 39
+220229,organization,t. v. division
+220229,organization,government of maharashtra
+220229,organization,court
+220229,organization,ministry
+220229,organization,pw 2
+220229,organization,films division
+220229,organization,the central bureau of investigation
+220229,organization,c.b.i.
+220229,organization,the delhi high court
+220229,organization,emergency
+220229,organization,court of sessions
+220229,organization,e. parliament
+220229,organization,special courts
+220229,organization,a high court
+220229,organization,each house of parliament
+220229,organization,the high court
+220229,organization,legislature
+220229,organization,a political department of the government
+220229,organization,the political executive
+220229,organization,cabinet
+220229,organization,department
+220229,organization,act
+220229,organization,no central government
+220229,organization,special court
+220229,organization,first information
+220229,organization,the agricultural income tax officer
+220229,organization,commission
+220229,organization,the union territory of delhi
+220229,organization,scr 125
+220229,organization,moti ram dekha
+220229,organization,general manager
+220229,organization,n.e.f. railways
+220229,organization,cozons v. north devon hospital management committee
+220229,organization,anr.
+220229,organization,houses of parliament
+220229,organization,house of parliament
+220229,organization,m/s atlas cycle industries ltd.
+220229,organization,an appellate court
+220229,organization,a special court
+220229,organization,the state of hyderabad
+220229,organization,the special court
+220229,organization,the ministry of information
+220229,organization,committee
+220229,organization,pw 8
+220229,organization,union government
+220229,organization,test identification
+220229,organization,the sessions court
+220229,organization,appellant
+220229,organization,bench
+220229,organization,one special court
+220229,organization,the members of the rajya sabha
+220229,organization,the rajya sabha
+220229,organization,constitution of india
+220229,organization,commissions of inquiry
+220229,organization,the commissions of inquiry
+220229,organization,state of u.p.
+220229,organization,political offices
+220229,organization,the lok sabha
+220229,organization,72 calcutta weekly notes
+220229,organization,the ministry or the administration
+220229,organization,crown
+220229,organization,parliamentary
+220229,organization,government departments
+220229,organization,the board
+220229,organization,the ministry of the day
+220229,organization,the houses of parliament
+220229,organization,a government department
+220229,organization,political executive
+220229,organization,central government
+220229,organization,the state of delhi
+220229,organization,provincial government
+220229,organization,the state of saurashtra this court
+220229,organization,india & ors.
+220229,organization,budhan choudhry & ors.
+220229,organization,party
+220229,organization,khudaran das deo
+220229,organization,the state of west bengal & ors.
+220229,organization,cozens v. north devon hospital management committee & anr
+220229,organization,the central 544 government
+220229,organization,the ministry of
+220229,organization,the central bureau
+220229,organization,government of india
+220229,organization,i.p.c.
+220229,organization,the court of session
+220229,organization,delhi high court
+220229,organization,information and broadcasting government of india
+220229,organization,m/s. atlas cycle industries ltd.
+220229,organization,the state of haryana
+220229,organization,another special court
+220229,organization,the appellate court
+220229,organization,the special tribunal
+220229,organization,courts
+220229,organization,notification
+220229,organization,the state government
+220229,organization,the special courts
+220229,organization,gazette
+220229,organization,reliance
+220229,organization,fazal ali
+220229,organization,the films division auditorium
+220229,organization,librarian-cum- projectionist
+220229,organization,ext. pw
+220229,organization,technical officer incharge
+220229,organization,information & broadcasting
+220229,organization,the ministry of information & broadcasting
+220229,organization,the central 565 government
+220229,organization,pw 39
+220229,organization,the films division
+220229,organization,ministry of information & broadcasting
+220229,organization,the janata government
+220229,organization,pw 17
+220229,organization,rules
+220229,organization,ghose
+220229,organization,pw 61
+220229,organization,sreedharan
+220229,organization,pw 18
+220229,organization,shastri bhavan
+220229,organization,pw 33
+220229,organization,pw 57
+220229,organization,v.s. tripathi
+220229,organization,pw 62
+220229,organization,the films to films division auditorium
+220229,organization,the central hall of parliament
+220229,organization,a-1
+220229,organization,pws 2
+220229,organization,pw 4
+220229,organization,pws ghose
+220229,organization,tripathi
+220229,organization,fir
+220229,organization,pw 40
+220229,organization,narayanan
+220229,organization,pw 60
+220229,organization,murshed
+220229,organization,coordination committee
+220229,organization,a-1s
+220229,organization,c.i.a.
+220229,organization,i & b
+220229,organization,jt. secy.
+220229,organization,pw2
+220229,organization,ex. pw 4/e
+220229,organization,ministry of 1 & b
+220229,organization,films division bombay
+220229,organization,ext. pw 4/e
+220229,organization,western express
+220229,organization,ext. pw 2/de
+220229,organization,the ministry of information &: broadcasting
+220229,organization,ml
+220229,organization,pw 63
+220229,organization,burney pw 62
+220229,organization,the maruti company
+220229,organization,the western express
+220229,organization,the maruti complex
+220229,organization,maruti complex
+220229,organization,the maruti limited
+220229,organization,pw 32
+220229,organization,the general store
+220229,organization,khedkar
+220229,organization,pw 3
+220229,organization,pw 31
+220229,organization,dw 3
+220229,organization,bus body manager
+220229,organization,bus body store
+220229,organization,press
+220229,organization,panna lal
+220229,organization,bus body supervisor
+220229,organization,om prakash
+220229,organization,bus body clerk incharge stores
+220229,organization,harrison tiger
+220229,organization,the press shop
+220229,organization,maruti
+220229,organization,ministries
+220229,country,India
+220229,country,fold
+220229,country,UK
+220229,country,US
+220229,person,v. c. shukla
+220229,person,s m fazalali
+220229,person,fazalali
+220229,person,syed murtaza
+220229,person,sri amrit
+220229,person,nahata pw 1
+220229,person,dhwani prakash
+220229,person,amrit nahata
+220229,person,n. s. thapa
+220229,person,thapa
+220229,person,s. m. murshed
+220229,person,k. p. sreedharam
+220229,person,murshed
+220229,person,a. j. kidwai
+220229,person,i. k. gujral
+220229,person,s. ghosh
+220229,person,pw 62
+220229,person,s. m. h. burney
+220229,person,l. dayal
+220229,person,sanjay gandhi
+220229,person,khedkar
+220229,person,bill
+220229,person,deoman upadhyaya
+220229,person,khandige sham bhatt
+220229,person,dantuluri ram raju
+220229,person,n. b. khare
+220229,person,kathi raning rawat
+220229,person,jyoti parshad
+220229,person,chinta lingam
+220229,person,budhan chaudhary
+220229,person,indira nehru gandhi
+220229,person,sri raj narain
+220229,person,anwal ali sarkar
+220229,person,kissa kursi ka
+220229,person,prasad pw 63
+220229,person,shukla
+220229,person,bench
+220229,person,j. s. wasu
+220229,person,m. l. nanda
+220229,person,m. n. shroff
+220229,person,k. l. arora
+220229,person,k. g. bhagat
+220229,person,harish gulati
+220229,person,madan bhatia
+220229,person,d. goburdhan
+220229,person,p. r. mridul
+220229,person,rajinder singh
+220229,person,o. p. sharma
+220229,person,r. c. bhatia
+220229,person,vivek tankha
+220229,person,k. g. bhatat
+220229,person,rajinder singh b. r. handa
+220229,person,soli j. sorabjee
+220229,person,ram jethmalani
+220229,person,grish chandra
+220229,person,s. markandeya
+220229,person,s. b. jaisinghani
+220229,person,shri soli j. sorabjee
+220229,person,subba rao
+220229,person,bhatia
+220229,person,c.j.
+220229,person,krishna iyer
+220229,person,krishna iyer j.
+220229,person,j.
+220229,person,chandrachud
+220229,person,honble
+220229,person,ferris
+220229,person,wade
+220229,person,phillips
+220229,person,o. hood phillips
+220229,person,ramsay muir
+220229,person,asirvatham
+220229,person,bouvier
+220229,person,c.j
+220229,person,khandige sham bhat
+220229,person,subba rao j
+220229,person,dantuluri ram raju ors
+220229,person,mridual
+220229,person,matajog dobey
+220229,person,h. c. bhart
+220229,person,jyoti pershad
+220229,person,ayyangar j.
+220229,person,moti ram deka
+220229,person,n. e. f. railway
+220229,person,shah j.
+220229,person,bhagwati j.
+220229,person,salmon
+220229,person,kissa kursi kaa
+220229,person,shri vidya charan shukla
+220229,person,shri sanjay gandhi
+220229,person,shri feroz gandhi
+220229,person,shri sanjay
+220229,person,gandhi
+220229,person,vidya charan shukla
+220229,person,mridul
+220229,person,shri raj narain
+220229,person,mathew
+220229,person,j. observed
+220229,person,shinghal
+220229,person,syed qasim razvi
+220229,person,jagannath sonu parkar
+220229,person,deogad
+220229,person,ratnagiri
+220229,person,anwar ali sarkar
+220229,person,sastri
+220229,person,anwar ali sarkars
+220229,person,act. fazal ali
+220229,person,mahajan
+220229,person,mukherjea
+220229,person,das
+220229,person,bose
+220229,person,sessions judge
+220229,person,shri amrit nahata
+220229,person,pw 1
+220229,person,s.m. murshed
+220229,person,k.p. sreedharan
+220229,person,i.k. gujaral
+220229,person,s. ghose
+220229,person,incharge
+220229,person,s.m.h. burney
+220229,person,kherkar
+220229,person,sreedharan
+220229,person,c. k. sharma
+220229,person,bhawani singh
+220229,person,babu ram
+220229,person,r. k. dhavan
+220229,person,c.k. sharma
+220229,person,r. l. bandish
+220229,person,burney
+220229,person,a-1
+220229,person,l. k. advani
+220229,person,advani
+220229,person,v. s. tripathi
+220229,person,ghose
+220229,person,tripathi
+220229,person,khandpur
+220229,person,jethmalani
+220229,person,shri narayanan
+220229,person,voltd
+220229,person,shri l. k. advani
+220229,person,narayanan
+220229,person,pw 17
+220229,person,pw 33
+220229,person,saheb
+220229,person,bandlish
+220229,person,sarin
+220229,person,vyas
+220229,person,pw 39
+220229,person,shri burney
+220229,person,shri k. l.
+220229,person,shri dayal
+220229,person,shri v.s. tripathi
+220229,person,shri
+220229,person,dayal
+220229,person,shri khandpur
+220229,person,shri k. l. khandpur
+220229,person,pw 57
+220229,person,shri k.l. khandpur
+220229,person,shri s. ghose
+220229,person,shri v. d. vyas
+220229,person,k. n. gupta
+220229,person,shri l. dayal
+220229,person,pw 4
+220229,person,kissa kursi
+220229,person,kaa
+220229,person,kane
+220229,person,v. p. raman
+220229,person,k. n. prasad
+220229,person,a. k. verma
+220229,person,verma
+220229,person,p.a.
+220229,person,a-l
+220229,person,shri nahata
+220229,person,shri shukla
+220229,person,shri k. n. prasad
+220229,person,shri a. k. verma
+220229,person,shri v. s. tripathi
+220229,person,kanwar singh yadav
+220229,person,om prakash
+220229,person,om parkash
+220229,person,khedkar pw 3
+220229,person,tarachand
+220229,person,ramdular
+220229,person,shrimati indira gandhi
+220229,person,k. p. mathur
+220229,person,vijay sharma
+220229,person,panna lal
+220229,person,godrej locks
+220229,person,godrej
+220229,person,ram lakhan
+220229,person,asstt
+220229,person,kanwar singh
+220229,person,yadav
+220229,person,sanjay
+220229,person,no 1
+220229,person,n. k. singh
+220229,law,section 120b
+220229,law,the indian penal code
+220229,law,special courts act
+220229,law,rule 25ii
+220229,law,the cinematograph censorship rules
+220229,law,ex. pw 1/d
+220229,law,several provisions of penal code
+220229,law,a-1
+220229,law,criminal appeal no. 494/79 under section 120b
+220229,law,ss. 409
+220229,law,201 indian penal code
+220229,law,section 409 indian penal code
+220229,law,under section 411
+220229,law,s. 109 i.p.c.
+220229,law,section 414
+220229,law,section 109 i.p.c.
+220229,law,section 201
+220229,law,section 109 i.p.c
+220229,law,criminal appeal no. 493/79
+220229,law,the sessions judge
+220229,law,201 penal code
+220229,law,ss. 435
+220229,law,section 409
+220229,law,section 109 of the penal code
+220229,law,s. 120b
+220229,law,s. 409
+220229,law,s. 414
+220229,law,s. 201
+220229,law,s. 435
+220229,law,s. 120 b
+220229,law,the special courts act
+220229,law,section 7 of the said act
+220229,law,sections 5 7 9 and 11 of the act
+220229,law,act
+220229,law,art. 14
+220229,law,the bill violated art. 14
+220229,law,bill
+220229,law,reference
+220229,law,emergency
+220229,law,the reference case
+220229,law,articles 14 and 21
+220229,law,section 7
+220229,law,section 111
+220229,law,section 93 of the act
+220229,law,warrant
+220229,law,the magistrate in sections 238 to 243
+220229,law,f. the act
+220229,law,section 181 of the code of criminal procedure
+220229,law,g. the act
+220229,law,504 h. section 5 of the act
+220229,law,section 5 1
+220229,law,article 14
+220229,law,section 51 of the act
+220229,law,sub-section 2 of section 5
+220229,law,section 51
+220229,law,section 51 of the act per se
+220229,law,section 5 of the act
+220229,law,section 13 of the act
+220229,law,k. section 51 of the act
+220229,law,the commissions of inquiry act
+220229,law,section 51 of the act. section 6
+220229,law,section 5
+220229,law,the entire code of criminal procedure
+220229,law,m. section 7
+220229,law,section 406 of the code of criminal procedure
+220229,law,section 406 crl. p.c.
+220229,law,the court ^ held
+220229,law,constitutional validity of the act 1
+220229,law,what art. 14
+220229,law,the act art. 14
+220229,law,art. 14 of the constitution
+220229,law,the act. 3
+220229,law,506
+220229,law,any special act
+220229,law,a special act
+220229,law,in re. special act
+220229,law,no special act
+220229,law,clause 4 of the preamble to the special courts act
+220229,law,the act. clause 4
+220229,law,sections 7 and 11
+220229,law,2 scr 476
+220229,law,special court bill
+220229,law,s. 51 of the act
+220229,law,articles 226
+220229,law,scr 476
+220229,law,section 13 of the special courts act
+220229,law,constitution
+220229,law,articles 14 19 31 or the power of amendment of the constitution
+220229,law,art. 368
+220229,law,section 6 of the act
+220229,law,section 7 of the act
+220229,law,section 5 of the act.
+220229,law,section 384 of the code of criminal procedure
+220229,law,the code of criminal procedure
+220229,law,section 384
+220229,law,section 111 of the act
+220229,law,code
+220229,law,s. 111
+220229,law,scr 589
+220229,law,section 3972
+220229,law,the criminal procedure code
+220229,law,scr 284
+220229,law,article 21
+220229,law,any other provision of the constitution
+220229,law,appeal 493/79
+220229,law,the preamble 513
+220229,law,section 8
+220229,law,the special leave petition
+220229,law,a 1 and a 2
+220229,law,criminal appeal nos. 492
+220229,law,section 7 of the special courts act
+220229,law,the judgment and 515 order
+220229,law,fazal ali
+220229,law,the penal code
+220229,law,no. 22 of 1979
+220229,law,the act
+220229,law,s.5 1 of the act
+220229,law,articles 14 and 21 of the constitution of india
+220229,law,a member of the lok sabha
+220229,law,constitutional
+220229,law,art. 21 of the constitution
+220229,law,the classification provided in clause 41 of the bill
+220229,law,the proclamation of emergency
+220229,law,s. 51 of the act the clauses of the preamble
+220229,law,the act 518
+220229,law,inquiry act
+220229,law,clause 4 makes the act
+220229,law,clause 5
+220229,law,clause 3
+220229,law,clause 9
+220229,law,the act in the provisions of the code of criminal procedure
+220229,law,section 2 of the act defines code
+220229,law,declaration
+220229,law,special court
+220229,law,the residuary clause d
+220229,law,section 31
+220229,law,the official gazette. section 31
+220229,law,section 4
+220229,law,the act. section 51
+220229,law,the act. section 52
+220229,law,section 6
+220229,law,criminal procedure
+220229,law,section 91
+220229,law,sub-section 3 of s.9
+220229,law,a 521 court of session
+220229,law,section 101
+220229,law,the provisions of s. 3972 of the code of criminal procedure
+220229,law,sub-section 2 of s. 11
+220229,law,under section 111
+220229,law,section 12
+220229,law,the act. section 13
+220229,law,sub-section 1 of s.
+220229,law,clause 1 of the bill
+220229,law,the act. clause
+220229,law,the act. clause 3 of the bill
+220229,law,the act. clause 4 of the bill is now section 5 of the act. clause 5 of the bill is now s.6 of the act. clause 6 of the bill
+220229,law,the act. clause 7 of the bill
+220229,law,s.32 of the act
+220229,law,clause 8 of the bill
+220229,law,the act. clause 9 of the bill
+220229,law,clause 10 of the bill
+220229,law,s.111 of the act
+220229,law,articles 14 and 21 of the constitution
+220229,law,the
+220229,law,the constitution of india
+220229,law,the cover of emergency
+220229,law,the declaration made under clause 41 of the bill
+220229,law,7 and 11 of the act
+220229,law,constitutional law
+220229,law,constitutional and administrative law
+220229,law,the act. clause 4 of the preamble to the act
+220229,law,the act. section 5
+220229,law,sections 7 and 11 of the act
+220229,law,clauses 6 and 10 of the bill
+220229,law,clauses 6 and 101 of the bill
+220229,law,article 2481
+220229,law,clauses 2 6 and 101 of the bill
+220229,law,special courts
+220229,law,clause 2 of the bill
+220229,law,clause 6 of the bill
+220229,law,clause 101
+220229,law,chapter xii of the code containing section 177 to 189
+220229,law,jurisdiction of the criminal courts in inquiries and trials
+220229,law,this
+220229,law,the central government
+220229,law,the p provisions of the act
+220229,law,the bill including cl. 36
+220229,law,the kerala legislature
+220229,law,the operative provisions of the statute with certainty the policy and purpose
+220229,law,s. 51
+220229,law,s. 51 lt the act
+220229,law,s. 5 1
+220229,law,s. 202 of the code of criminal procedure
+220229,law,s. 204 of the code of criminal procedure
+220229,law,s. 51 of the act per se
+220229,law,1 of the act
+220229,law,section 154 of the code of criminal procedure 2 of 1974
+220229,law,rc-2/77- ciu
+220229,law,article 352 of the constitution
+220229,law,section 120-b
+220229,law,section 109 of the i.p.c
+220229,law,nos. 71/79
+220229,law,section 3742 of the code of criminal procedure
+220229,law,the high court
+220229,law, 18-5-79
+220229,law,section 377
+220229,law,code i of criminal procedure no. 2 of 1974
+220229,law,the special courts act 7 1979 22 of 1979
+220229,law,section s of the special courts act
+220229,law,the preamble to that act
+220229,law,s. 5 of the act
+220229,law,s. 13 of the act
+220229,law,section 13
+220229,law,i of section 3 and every declaration made under sub- section 1 547 of section 5
+220229,law,sub- section 6 of section 3 of the act
+220229,law,section 3
+220229,law,section 3 of the act
+220229,law,articles 14 19 31
+220229,law,the power of amendment of the constitution
+220229,law,section 51 of the act.
+220229,law,judgment
+220229,law,s. 406 of the code of criminal procedure
+220229,law,amendment
+220229,law,the supreme court. clause
+220229,law,4
+220229,law,art. 21
+220229,law,the supreme court under art. 136
+220229,law,an appellate court
+220229,law,section 382
+220229,law,section 553 383
+220229,law,section 383
+220229,law,s. 111 of the act
+220229,law,a metropolitan magistrate
+220229,law, section 260
+220229,law,the court of magistrate
+220229,law,the court of session
+220229,law,the special magistrate
+220229,law,a special magistrate
+220229,law,a court of session under s. 93 of the act
+220229,law,s. 91 thereof
+220229,law,sections 238 to 243
+220229,law,the west bengal special courts act
+220229,law,the west bengal act
+220229,law,the commencement of this act
+220229,law,this act
+220229,law,section 5 of the west bengal act
+220229,law,section 5 of the west bengal special courts act
+220229,law,the special act
+220229,law,the present act
+220229,law,the procedural part of the act
+220229,law,the act are violative of art. 14 or art. 21
+220229,law,no. 494
+220229,law,s. 120
+220229,law,indian penal code
+220229,law,criminal appeal no. 493
+220229,law,the defence of india rules
+220229,law,pw 39
+220229,law,pw 63
+220229,law,criminal appeal no. 494
+220229,law,criminal appeal no. 492
+220229,norp,j.
+220229,norp,american
+220229,norp,swiss
+220229,norp,french
+220229,language,english

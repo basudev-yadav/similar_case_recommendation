@@ -1,0 +1,1717 @@
+
+
+Delhi High Court
+
+Chryscapital Investment ... vs Deputy Commissioner Of Income Tax on 27 April,
+2015
+
+Author: S.Ravindra Bhat
+
+    
+    
+    $~
+    *        IN THE HIGH COURT OF DELHI AT NEW DELHI
+    
+                                                          Reserved on: 26.03.2015
+                                                        Pronounced on: 27.04.2015
+    +        ITA 417/2014
+             CHRYSCAPITAL INVESTMENT ADVISORS (INDIA) PVT. LTD.
+                                                            ............Appellant
+                        Through: Sh. Vikas Srivastava, Sh. Parag Mohanty and
+                        Ms. Varsha Bhattacharya, Advocates.
+    
+                    Versus
+    
+             DEPUTY COMMISSIONER OF INCOME TAX
+                                                  .................Respondent
+
+Through: Sh. Rohit Madan, Sh. Ruchir Bhatia and Sh. P. Roy Choudhary,
+Advocates.
+
+CORAM:
+
+HON'BLE MR. JUSTICE S. RAVINDRA BHAT HON'BLE MR. JUSTICE R.K. GAUBA MR.
+JUSTICE S. RAVINDRA BHAT % "A phrase begins life as a literary expression; its
+felicity leads to its lazy repetition; and repetition soon establishes it as a
+legal formula, undiscriminatingly used to express different and sometimes
+contradictory ideas".
+
+\- Justice Felix Frankfurter in Tiller v. Atlantic Coast Line Railroad Co.,
+318 U.S. 54 (1943)
+
+1\. Is there a concept of "super profit" in the arm‟s length price/transfer
+price determining process under the Income Tax Act, 1961 ("the Act") or the
+Rules framed thereunder, entitling tax administrators to include high profit
+ITA 417/2014 Page 1 making companies‟ data in the list of "comparables"?
+Benches of Income Tax Appellate Tribunal ("ITAT"), appear to be riven in their
+opinion on this; it is the subject matter of the present appeal.
+
+2\. The questions framed for decision in this appeal, under Section 260-A of
+the Act, arising from an order of the Income Tax Appellate Tribunal ("ITAT")
+dated 20.12.2013 in ITA No. 6183/Del/2012 for assessment year (AY) 2008-09,
+are as follows:
+
+> 1) Whether the proviso to Rule 10B(4) of the Income Tax Rules, 1962 will be
+> applicable in case of fluctuations in the operating profit margins of
+> comparable companies during the relevant financial year under question as
+> compared to earlier years?
+
+> 2) Whether comparables can be rejected on the ground that they have
+> exceptionally high profit margins as compared to the assessee in transfer
+> pricing analysis?
+
+> 3) Whether factors like differential functional and risk profile coupled
+> with high degree of volatility in operating profit margins is sufficient
+> ground to reject comparables for transfer pricing analysis?
+
+> 4) Whether disallowances can be made under Section 36(1)(ii) when the bonus
+> paid to shareholders is not in the exact proportion of their shareholding
+> and there is no avoidance of taxes?
+
+3\. The assessee is a private limited company incorporated under the Companies
+Act, 1956 and is engaged in providing investment advisory services, which were
+reimbursed on a cost-plus mark-up basis. Ashish Dhawan and Kunal Shroff, in
+the concerned assessment year, were its two shareholders - holding shares in
+the assessee in the proportion of 2:l; they were also its full time employees.
+In AY 2008-09, the assessee entered into international transactions with
+associated enterprises (AEs) relating to ITA 417/2014 Page 2 advisory services
+and reimbursement of expenses incurred on behalf of AEs amounting to `
+56,61,99,829/- and ` 4,49,72,912/- respectively. For the purposes of
+determination of arm‟s length price (ALP), the assessee used the Transactional
+Net Margin Method ("TNMM"). The assessee treated the transactions relating to
+reimbursement received by it from its associated enterprises on actual basis
+(i.e. without mark-up) at ALP as such since no value addition was done by it
+in relation to the said expenses. The assessee identified four entities which
+were engaged broadly in the same economic activities as in its case and
+identified as comparables. The result of the arm‟s length analysis is given
+below:
+
+    
+    
+           S. No.   Comparable               Operating Profit Margins
+                    Entity
+                                   2005-06    2006-07   2007-08   Average
+               1.   IDFC               -      -55.50% 17.30%      -19.10%
+                    Investment
+                    Advisors
+                    Limited
+               2.   Future             -      0.88%     20.53%    10.71%
+                    Capital
+                    Holdings
+                    Limited
+               3.   Khandwala      43.35%     42.62%        -     42.99%
+                    Securities
+                    Limited
+               4.   Sumedha        -16.47% -20.36%          -     -18.42%
+                    Fiscal
+                    Services
+                    Limited
+    
+    
+    
+    
+    ITA 417/2014                                                              Page 3
+                    Final Average                                4.04%
+    
+    
+    
+    
+
+4\. The assessee‟s position was that because of fluctuation in the margins of
+the comparable entities, multiple year data of the comparables was warranted
+to remove the effect of year specific aberrations. Against the average
+Operating Profit Margin ("Operating Margin") of 4.04% earned by the comparable
+entities, the assessee earned an Operating Margin of 27.05% and concluded that
+its transactions with its AEs were at arm‟s length. The assessee relied on
+Rule 10B(4) of the Income Tax Rules, 1962 (hereafter "the Rules"). Rule 10B(4)
+reads as follows:
+
+> ―(4) The data to be used in analysing the comparability of an uncontrolled
+> transaction with an international transaction or a specified domestic
+> transaction shall be the data relating to the financial year in which the
+> international transaction or the specified domestic transaction has been
+> entered into:
+
+Provided that data relating to a period not being more than two years prior to
+such financial year may also be considered if such data reveals facts which
+could have an influence on the determination of transfer prices in relation to
+the transactions being compared.‖ The assessee argued that using multiple year
+data is consistent with the OECD Guidelines as well as transfer pricing
+regulations of several developed jurisdictions. The Operating Margin of the
+assessee was stable in contrast to the comparable companies, described below:
+
+    
+    
+                          Financial    Operating
+                          Year         Margin
+    
+    
+    
+    
+    ITA 417/2014                                                            Page 4
+                           2005-06      24.15%
+                          2006-07      21.14%
+                          2007-08      27.05%
+                          Average      24.11%
+    
+    
+    
+
+5\. On 30.09.2008, the assessee filed its return for AY 2008-09 declaring a
+total income of ` 12,41,83,160. Its case was scrutinized by the AO who
+referred the matter to the Transfer Pricing Officer ("TPO") under Section 92CA
+(3) of the Act. On 03.10.2011, the TPO passed an order recommending transfer
+pricing additions of ` 20,93,34,155/- to the income of the Assessee. The TPO
+computed the Operating Margins of the four comparables above using single year
+data i.e. for FY 2007-08 and ignoring the data for two prior financial years
+i.e. 2005-06 and 2006-07 while determining the ALP. The TPO concluded that
+multiple year data for the assessee‟s comparables could not be used but
+introduced two new comparables with abnormal business profits. The TPO also
+retained a comparable inspite of it showing abnormal growth in the assessment
+year under consideration and considered reimbursable expenses as part of
+operating expenses and corresponding reimbursement as part of operating
+revenue of the assessee for the purpose of determining the arm's length price.
+The TPO held that the assessee had not furnished any detail as to how the data
+for the earlier years had an impact on the profits in the concerned assessment
+year of the assessee or the comparables.
+
+6\. Based on the TPO‟s report, the AO passed the assessment order on
+21.12.2011, confirming the recommendations of the TPO. The AO also ITA
+417/2014 Page 5 disallowed the bonus paid by the assessee to its shareholder
+employees - M/s Ashish Dhawan (` 67,91,947) and Kunal Shroff (` 30,19,433) -
+under Section 36(l)(ii) of the Act. The assessee filed its objections against
+the draft assessment order before the Dispute Resolution Panel ("DRP"). The
+DRP, by order dated 21.09.2012, confirmed the transfer pricing additions as
+well as the disallowance of the bonus made by the Respondent. Thereafter, on
+19.10.2012, the AO completed the assessment under section 143(3) read with
+section 144C of the Act assessing the income of the assessee after sustaining
+the transfer pricing additions made by the TPO and disallowing the bonus paid
+to its shareholders. The ITAT dismissed the Assessee‟s appeal by its order
+dated 20.12.2013 and confirmed the additions made by the Respondent.
+
+7\. All the lower authorities included three entities as comparables which had
+very high profit margins as compared with that of the assessee. These entities
+namely, Brescon Corporate Advisors Limited ("Brescon") (Operating Margin of
+87.4%), Keynote Corporate Services Limited ("Keynote") (Operating Margin of
+191.58%) and Khandwala Securities Limited ("Khandwala") (Operating Margin of
+80.79%) had exceptional profit margins as compared with the Assessee
+(Operating Margin of 27.05%) and rejected three other comparables selected by
+the assessee (i.e. IDFC Investment Advisors Ltd. (17.35%), Sumedha Fiscal
+Services Limited (9.14%) and Future Capital Holdings Limited (20.56%).
+Khandwala had been selected as a comparable by the assessee itself based on
+the multiple year data for the comparability analysis. However, the TPO
+substituted the same with the data for the concerned financial year, in which
+Khandwala had exceptionally high profit margins. The ITAT upheld these
+findings and ITA 417/2014 Page 6 held that current year data should be used in
+the absence of abnormal or exceptional facts/circumstances in existence which
+could have an influence on the results as well as the determination of the
+transfer prices for the year under consideration. Further, the ITAT held that
+Rule 10B does not provide any basis to exclude an entity or eliminate it from
+the list of companies solely on the basis of high profitability. The
+authorities - including ITAT, held that the decisive factors for determining
+inclusion or exclusion of any entity in/from the list of comparables are the
+specific characteristics of the services provided by the said entities, assets
+employed, risks assumed, the contractual terms and conditions prevailing
+including the geographical location and size of the market, cost of labour and
+capital in the markets, etc. and high or low profit margins could not be
+criteria for inclusion or exclusion of entities in the list of comparables.
+
+Arguments of the assessee
+
+8\. The assessee submits that even if the ITAT‟s ruling on the issue is
+accepted, Brescon and Keynote should be excluded from the list of comparables
+as its (the assessee‟s) risk profile is not similar to that of those two
+companies. They are risk-taking entities whereas the assessee operates on a
+cost plus model wherein a guaranteed return of 25% on costs is assured to it.
+The assessee further argues that its functional profile is significantly
+different from that of Keynote. Unlike the assessee, Keynote is involved in
+capital market activities, including lead managing IPOs, Rights Offers,
+Buybacks and Takeovers. Also, Keynote considers its activities to be a
+Merchant Banker as evidenced by its Director's Report and Notes to Accounts of
+the concerned financial year. The assessee submits that in the audited
+financials of Keynote, there is no service-wise break-up of profits ITA
+417/2014 Page 7 and therefore, the profitability of the advisory services
+segment (which may be considered similar to the services being rendered by the
+assessee) is not available to be compared with the assessee‟s profitability.
+The assessee argues that Keynote's profit margins have shown volatility over
+the years which could be attributed to abnormal business conditions and
+therefore Keynote should be rejected as a comparable altogether. The Operating
+Margins of Keynote for the last 5 years are as follows:-
+
+    
+    
+                       Assessment Year      Operating Margin
+                            2004-05              (-)6.87%
+                            2005-06              13.33%
+                            2006-07              94.06%
+                            2007-08              145.83%
+                            2008-09              191.58%
+    
+    
+    
+    
+
+9\. The assessee highlights that CIT (Appeals) too had rejected Keynote in a
+preceding as well as succeeding assessment year i.e. AY 2007-08 and 2009-10.
+Further, Keynote has been excluded as a comparable by the DRP in a preceding
+assessment year i.e. AY 2006-07. In that order, dated 04.03.2013, the DRP
+observed:
+
+> ―As regards choice of Keynote Corporate services as a comparable by TPO
+> based on single year data, DRP finds no infirmity in principles. However,
+> after analyzing the economic circumstances as highlighted by the assessee
+> and corroborated from the annual report of the year, we do find it may not
+> be a robust comparable.
+
+> ITA 417/2014 Page 8 According to the assessee ‗we would like to state that
+> this company has very volatile profit margins and since the Ld. TPO has
+> computed the ALP on the basis of single year data (data for the FY 2005-06
+> only) this company should not be included in the final set of comparable as
+> it would lead to distortion of the ALP.' The assessee while determining the
+> ALP considered data for three years which mitigated the high volatility in
+> operating margins of this company. However on the basis of single year data
+> the operating margins of this company will substantially inflate the
+> operating margins.
+
+> ―The volatility in the operating margin of this company is clearly evident
+> from the three year profitability of the comparables submitted before you
+> are the Ld. TPO vide submission dated May 18, 2009 (copy enclosed at page
+> 139 of the paper book dated January 01, 2010 filed before the Hon'ble
+> Panel). The operating margin of this company during the FY 2003-04 was
+> negative 6.87% and which converted to positive 13.33. In the FY 2004-05,
+> thereby exhibiting the this margin further increased to 94.06% showing an
+> even higher volatility (80 percent points) vis-à-vis previous year.‖ Further
+> we would also like to state that Keynote can also not be considered a
+> comparable to the assessee (on the basis of single year data) for the reason
+> that on the basis of single year data this company is earning exceptionally
+> high profits (i.e. 94%). It is further submitted that on the possible
+> reasons due to which Keynote has derived exceptional profits during the year
+> may be due to some alliances formed by it with some foreign companies during
+> the year. The relevant extract (copy enclosed as Annexure
+
+> 3) from the annual report of Keynote is given hereunder: The company formed
+> alliances with a Middle East based consulting company and with a Swiss based
+> consulting company to offer its clients cross border transaction ability.
+
+Thus, the exceptional profit earned by Keynote during the relevant year may be
+due to such alliance formed by Keynote with other companies in Middle East and
+Swiss. The profit ITA 417/2014 Page 9 earned by it due to such alliance cannot
+be used for the arm's length analysis.‖ 2.3.4 In view of the above reasons,
+the DRP directs TPO to exclude this comparable as it is not a robust
+comparable for this year. TP grounds are accordingly disposed off as above.‖
+
+10\. On the issue of disallowance of bonuses paid by the assessee to its two
+full-time shareholder employees, it is submitted that bonuses were paid to all
+its employees during the relevant financial year on the basis of their
+performance and qualifications. Both the individuals to whom the bonuses paid
+were disallowed have requisite qualifications, experience and expertise in the
+field of investment advisory services. Accordingly, keeping in view their
+experience, expertise and performance, the assessee had compensated them. The
+assessee submits that bonus under Section 36(1)(ii) of the Act is allowed as
+deduction if the same amount would not have been payable to the shareholders
+as profits or dividends if it had not been paid as bonus. The provision
+requires the sum paid as bonus to be exactly the same as to be payable as
+dividend in absence of the bonus for there to be a disallowance. The assessee
+submits that the bonus paid to the shareholder employees is not in the same
+proportion as their shareholding. It is also submitted that the basis for
+disallowance of bonus paid - that no dividend was declared by the assessee -
+is incorrect as it paid interim dividend amounting to ` 5,47,47,000/- in the
+concerned assessment year. Thus, the bonus paid to the two shareholders was
+not in lieu of dividend and therefore, should be allowed as tax deductible
+expenditure.
+
+11\. Learned counsel argued that the ALP of an international transaction has
+to be determined by applying one of the methods provided in section 92- C (3)
+of the Act; it should be the most appropriate method and should also ITA
+417/2014 Page 10 take into account prescribed factors. This is, counsel
+stated, elaborated in Rule 10-B of the Rules, which contemplates adjustment on
+account of functional and other differences. He contended that adopting of any
+method ultimately envisages comparison of like functions, transactions and
+enterprises. Rule 10B(2)(a) provides that specific characteristic of services
+rendered by the two entities should be compared in order to treat the same as
+comparables for the purpose of transfer pricing analysis. Counsel also
+referred to the OECD guidelines and argued that accurate ALP determination is
+dependent on flexibility and sound exercise of discretion. Chapter III of the
+OECD guidelines was relied on to say that they recommend that where can it be
+determined that some uncontrolled transactions have a lesser degree of
+comparability than others, they should be eliminated. He also referred to
+Section A-5 of OECD guidelines on ―selecting and rejecting potential
+comparables‖ and pointed out that as per para 3.56, wherever uncontrolled
+transactions have a lesser degree of comparability than others, they should be
+eliminated. Counsel stated that similarly, Para 3.57 states that if the range
+of comparables includes a sizeable number of observations, statistical tools
+that take account of central tendency to narrow the range (e.g. the inter-
+quartile range or other percentiles); Para 3.59 suggests that where the
+application of the most appropriate method produces a range of figures, a
+substantial deviation among points in that range may indicate that the data
+used in establishing some of the points may not be as reliable as the data
+used to establish the other points in the range or that the deviation may
+result from features of the comparable data that require adjustments.
+
+ITA 417/2014 Page 11
+
+12\. Learned counsel also relied on A.7.3 of the OECD guidelines dealing with
+―extreme results in the context of comparability considerations‖ to point out
+that extreme results might consist of losses or unusually high profits. These
+can affect the financial indicators that are looked at in the chosen method;
+some potential comparables have extreme results, further examination would be
+needed to probe such results. This important issue was overlooked by ITAT.
+Counsel relied on proviso to Rule 10-B (4) and stated that though the mandate
+of the law is ordinarily to rely upon comparables' data for the current year,
+in certain circumstances, it is possible for the authorities to rely on
+previous years' data restricted to two previous years. This is to eliminate
+any distorted picture which might be the consequence of adherence to the
+contemporaneous data, like in the present case.
+
+13\. It was argued that the DRP's order for AY 2006-07 had accepted the
+assessee's argument and excluded Keynote from the list of comparables, on the
+ground that the said concern had earned abnormally high or super profits. On
+that occasion, as compared with its previous year (AY 2005-06) profit level of
+94%, the profit of the enterprise was 145%, registering a 51% increase over
+the previous year. This was considered to be too high to be allowed as a
+comparable. During the current year, the profit registered was 191%. In the
+circumstances, it was illogical and arbitrary for the revenue to have rejected
+the contention that data in respect of Keynote should have been excluded. It
+was also similarly argued that the ITAT fell into error in rejecting the
+assessee's objection with respect to Brescon whose total turnover was over `
+14 crores, of which the comparable business was only ` 2 crores; the absence
+of any sectional data with regard to this company, ITA 417/2014 Page 12 meant
+that its activities were not comparable, on a fair application of Rule 10-B
+(2) and (3).
+
+14\. Learned counsel relied on the decisions of the Special Bench in the case
+of Quark Systems Private Limited v. DCIT (2010 38 SOT 307- Chandigarh Bench)
+Adobe Systems India Pvt. Ltd. (Del) 2011-(TII)-13- ITAT-DEL); Teva India (P)
+Ltd v. DCIT, [2011] 44 SOT 105 (Mum); Sapient Corporation (P) Ltd. v. Deputy
+CIT, [2011] 11 Taxmann 69 (Delhi); Asst CIT vs. Maersk Global Services Centre
+(India) P. Ltd. (133 ITD
+
+543)(Mum.); Symantec Software Solutions (P) Ltd. v. Assistant CIT [2012] 25
+Taxmann 163 (Mum); and a Division Bench decision of this court, in
+Commissioner of Income Tax v Agnity India Technologies Pvt. Ltd. (2013) 219
+Taxman 26 (Del), were relied on. In Agnity India (supra) it was held that huge
+turnover companies like Infosys and Wipro cannot be considered as comparable
+to smaller companies like assessee.
+
+15\. Learned counsel for the assessee also argued that the rejection of
+previous years‟ data, in the facts of the present case, was unwarranted. It
+was submitted that given that the comparables introduced by the TPO distorted
+the margins, the AO and DRP erred in determining the ALP on the basis of data
+for financial year 2007-08 only and ignoring the data for two prior financial
+years i.e. FY 2005-06 and FY 2006-07. Learned counsel submitted that the TPO
+had the option of reaching back to previous years‟ data, since such power
+exists by virtue of proviso to Rule 10B (4). Learned counsel also relied on
+Part B.3, Paras 3.75 to 3.78 of OECD guidelines, in support of the submission.
+
+    
+    
+           Revenue's contentions
+    
+    
+    
+    
+    ITA 417/2014                                                          Page 13
+    
+
+16\. Mr. Rohit Madan, learned counsel for the revenue argued that five methods
+have been prescribed to determine ALP in relation to an international
+transaction and the comparability analysis requirements are method specific
+under Rule 10-B (1). Referring to the said Rule it was submitted that price
+charged or paid for the property transferred or service rendered in the
+comparable transaction is relevant in case of CUP and re- sale price method
+while the cost of production incurred in respect of property transferred or
+services provided is relevant for cost plus method. However, there is no
+mention of any property transferred or services provided in case of TNMM. They
+are provided for other methods. He contended that the relevant Rule thus makes
+it clear that specific characterization of the property transferred or
+services is not relevant for TNMM and this position is in conformity with the
+relevant OECD guidelines which suggest that broad comparability of functions
+should be done for TNMM.
+
+17\. Countering the submissions of the assessee, it was argued that neither
+the Act, nor the Rule contemplate exclusion of relevant transactions of like
+enterprises, in any manner other than what is prescribed. It was argued here
+that a comparable cannot be removed from consideration merely because it
+suffers loss; likewise, a unit or enterprise which enjoys higher profit (than
+the assessee or a significantly high profit in the industry) or even one
+making a so called "super profit" too cannot be eliminated. Generally, both
+loss making units and high profit making units cannot be removed from the list
+of comparables unless, such removal is statutorily permitted by Rule 10- B (2)
+or (3). Counsel also submitted that this is also evident from a reading of
+Rule 10-C. It was pointed out that Rule 10B (3) (ii) and Rule 10 C (2)(e) ITA
+417/2014 Page 14 permitted adjustment to eliminate material defects of the
+difference between the assessee and comparables. Counsel argued that only
+those factors which result in material difference in the comparables of
+transactions as between the assessee and the unrelated transaction or the
+third party enterprise, have to be reasonably adjusted to avoid distortions
+under the said provisions. The step envisioned there had to be necessarily
+followed keeping in view the mandate "shall".
+
+18\. It was also argued that the decision in Commissioner Of Income Tax v
+Mentor Graphics (Noida) Pvt.Ltd (ITA 1114/2008, decided by this court on
+04-04-2013) has held that OECD guidelines cannot be applied because there are
+specific provisions of Rule 10B (2) & (3) and the first proviso to Section
+92C(2) which apply. There, it was held that having held that the comparables
+given by the assessee were to be accepted and those searched by the TPO were
+to be rejected, the only option then left to the ITAT was to derive the
+arithmetical mean of the profit level indicators of the comparables. It was
+submitted that accepting the theory of "abnormally high profits" as a ground
+for rejection of a comparable would lead to vagueness and confusion because
+what constitutes abnormally high has nowhere been spelt out in the Act or
+rules. On the other hand, the margin of variation permitted is ± 3% (proviso
+to Section 92C (2), reduced from the 5% margin that existed earlier).
+Introduction of any other variation not based in law would not be justified.
+
+    
+    
+    
+           Analysis & Conclusions
+    
+    
+    
+    
+    ITA 417/2014                                                            Page 15
+    
+
+19\. Section 92-C which is relevant, for the purpose of determining ALP inter
+alia, reads as follows:
+
+> "92C. (1) The arm's length price in relation to an international transaction
+> [or specified domestic transaction] shall be determined by any of the
+> following methods, being the most appropriate method, having regard to the
+> nature of transaction or class of transaction or class of associated persons
+> or functions performed by such persons or such other relevant factors as the
+> Board may prescribe, namely :-
+
+> (a)comparable uncontrolled price method;
+
+> (b) resale price method;
+
+> (c)cost plus method;
+
+> (d)profit split method;
+
+> (e)transactional net margin method;
+
+> (f)such other method as may be prescribed by the Board. (2) The most
+> appropriate method referred to in sub-section (1) shall be applied, for
+> determination of arm's length price, in the manner as may be prescribed:
+
+> Provided that where more than one price is determined by the most
+> appropriate method, the arm's length price shall be taken to be the
+> arithmetical mean of such prices:
+
+> ** ** ** (3) Where during the course of any proceeding for the assessment of
+> income, the Assessing Officer is, on the basis of material or information or
+> document in his possession, of the opinion that-
+
+> ITA 417/2014 Page 16
+
+> (a) the price charged or paid in an international transaction [or specified
+> domestic transaction] has not been determined in accordance with sub-
+> sections (1) and (2); or
+
+> (b)any information and document relating to an international transaction [or
+> specified domestic transaction] have not been kept and maintained by the
+> assessee in accordance with the provisions contained in sub-section (1) of
+> section 92D and the rules made in this behalf; or
+
+> (c)the information or data used in computation of the arm's length price is
+> not reliable or correct; or
+
+> (d)the assessee has failed to furnish, within the specified time, any
+> information or document which he was required to furnish by a notice issued
+> under sub-section (3) of section 92D, the Assessing Officer may proceed to
+> determine the arm's length price in relation to the said international
+> transaction [or specified domestic transaction] in accordance with sub-
+> sections (1) and (2), on the basis of such material or information or
+> document available with him:
+
+> Provided that an opportunity shall be given by the Assessing Officer by
+> serving a notice calling upon the assessee to show cause, on a date and time
+> to be specified in the notice, why the arm's length price should not be so
+> determined on the basis of material or information or document in the
+> possession of the Assessing Officer."
+
+20\. Section 92C(1) thus visualizes determination of the "arms-length price"
+(ALP) by any of five enumerated methods, ―being the most appropriate method‖,
+having regard to the ―nature of transaction or class of transaction or class
+of associated persons or functions performed by such persons or such other
+relevant factors as the board may prescribe, namely
+
+(a) comparable uncontrolled price method, (b) resale price method, (c) cost \+
+method, (d) profit split method, (e) transactional net margin method, (f) ITA
+417/2014 Page 17 any such other method as may be prescribed by the board.
+Where more than one price is determined by the most appropriate method, the
+arm's length price shall be taken to be arithmetical mean of such prices.‖
+
+21\. Rule 10B of the Rules prescribes the determination of arm's length price
+under Section 92C. The first step in all methods is evaluation of differences
+between the international transaction undertaken with the ―unrelated
+enterprise performing the comparable functions‖ in similar circumstances. Rule
+10B of the Income-tax Rules inter alia, provides for various methods for
+determination of the arm's length price. Rule 10B (1)
+
+(e) prescribes the "transactional net margin method" (TNMM) with which the
+present case is concerned. Rule 10B (1) (e) (i) is as under:
+
+> "10B. (1) Determination of arm's length price under section 92C :-- . .
+
+> ************* *********
+
+> (e) transactional net margin method, by which,--
+
+> (i) the net profit margin realised by the enterprise from an international
+> transaction entered into with an associated enterprise is computed in
+> relation to costs incurred or sales effected or assets employed or to be
+> employed by the enterprise or having regard to any other relevant base."
+
+22\. These provisions prescribe, therefore, that even under the TNMM,
+importance is given to "assets employed or to be employed" as relevant factors
+for consideration. Rule 10B (2), as the second step, requires application of
+functions, asset, risk test for judging comparability of international
+transaction with an uncontrolled transaction. It provides:
+
+ITA 417/2014 Page 18 "10B (2). For the purposes of sub-rule (1), the
+comparability of an international transaction with an uncontrolled transaction
+shall be judged with reference to the following, namely :--
+
+(a) the specific characteristics of the property transferred or services
+provided in either transaction ;
+
+(b) the functions performed, taking into account assets employed or to be
+employed and the risks assumed, by the respective parties to the transactions
+;
+
+(c) the contractual terms (whether or not such terms are formal or in writing)
+of the transactions which lay down explicitly or implicitly how the
+responsibilities, risks and benefits are to be divided between the respective
+parties to the transactions ;
+
+(d) conditions prevailing in the markets in which the respective parties to
+the transactions operate, including the geographical location and size of the
+markets, the laws and the Government orders in force, costs of labour and
+capital in the markets, overall economic development and level of competition
+and whether the markets are wholesale or retail.
+
+(e) the extent to which reliable and accurate adjustments can be made to
+account for differences, if any, between the international transaction or the
+specified domestic transaction and the comparable uncontrolled transaction or
+between the enterprises entering into such transactions;
+
+(f) the nature, extent and reliability of assumptions required to be made in
+application of a method."
+
+Rule 10B (3) stipulates the third step, and spells out when the TPO is obliged
+to hold an uncontrolled transaction as comparable with others. This provision
+reads as follows:
+
+> ―(3) An uncontrolled transaction shall be comparable to an international
+> transaction or a specified domestic transaction if-
+
+> ITA 417/2014 Page 19
+
+> (i) none of the differences, if any, between the transactions being
+> compared, or between the enterprises entering into such transactions are
+> likely to materially affect the price or cost charged or paid in, or the
+> profit arising from, such transactions in the open market; or
+
+> (ii) reasonably accurate adjustments can be made to eliminate the material
+> effects of such differences.‖ Rule 10B (4) provides what should be the basis
+> of the calculations in terms of data, its contemporaneity, etc. It
+> stipulates that:
+
+> ―(4) The data to be used in analysing the comparability of an uncontrolled
+> transaction with an international transaction shall be the data relating to
+> the financial year in which the international transaction has been entered
+> into:
+
+> Provided that data relating to a period not being more than two years prior
+> to such financial year may also be considered if such data reveals facts
+> which could have an influence on the determination of transfer prices in
+> relation to the transactions being compared.‖
+
+> 23\. The assessee's argument is that entities earning "super normal" or
+> "abnormal" profits should be excluded from the list of comparables. For this
+> purpose, it relied on several rulings of various Benches of the ITAT. These
+> are Adobe Systems India (P) Ltd. v. Additional Commissioner of Income-tax,
+> [2011] 44 SOT 49 (Delhi) Teva India (P) Ltd v. DCIT, [2011] 44 SOT 105
+> (Mum); Sapient Corporation (P) Ltd. v. Deputy CIT, [2011] 11 Taxmann 69
+> (Delhi); Asst CIT vs. Maersk Global Services Centre (India) P. Ltd. (133 ITD
+> 543)(Mum.); Symantec Software Solutions (P) Ltd. v. Assistant CIT [2012] 25
+> Taxmann 163 (Mum); and a Division Bench ruling of this court in CIT v.
+> Agnity India Technologies (P) Ltd. [2013] 36 Taxmann 289 (Del ITA 417/2014
+> Page 20 HC). Besides, this court notices that a similar reasoning - of
+> applying what is known as the "turnover" filter or the exclusion of
+> "superprofit" making companies reasoning was applied in Continuous Computing
+> India (P) Ltd.
+
+vs. ITO (2012) (52 SOT 45)(Bang)(URO); Centillium India P. Ltd vs. DCIT
+(2012)(20 ITR 69) (Bang)(Tri.) and Addl CIT vs. Frost and Sullivan India (P)
+Ltd (supra). The revenue has on the other hand, relied on contrary views in
+Actis Advisers P. Ltd. v. Deputy CIT [2012] 20 ITR (Trib) 138 (Delhi); 24/7
+Customer.Com.Pvt.Ltd. v. Deputy CIT [2013] 21 ITR (Trib) 514 (Bang) and Willis
+Processing Services (I) P. Ltd. v. Deputy CIT [2014] 30 ITR (Trib) 39 (Mum).
+Such views are echoed in Trilogy E-Business Software India P. Ltd. v. Deputy
+CIT [2013] 23 ITR (Trib) 464 (Bang) and Stream International Services P. Ltd.
+v. Asst. DIT (International Taxation) [2013] 23 ITR (Trib) 70 (Mum) too.
+
+24\. Before analysing the relative strengths of the rival contentions, a
+tabular statement containing the reasoning which persuaded various Benches of
+the ITAT to conclude one way or the other is reproduced below:
+
+    
+    
+    S.             Judgment          Finding                 Rationale
+    No.
+          1. ITO v. Saunay      1.     One of the The excluded comparable had a
+    
+
+Jewels (P) Ltd., four comparables gross profit margin of 53.81% [2010] 42 SOT
+2 chosen by the TPO which was abnormal profits.
+
+    
+    
+             (Mum).             (Sovereign
+                                Diamonds        Ltd.)
+                                should be excluded.
+                                2.     Simple
+                                arithmetic average
+                                of    gross    profit
+                                margin cannot be
+                                adopted as there is
+                                a wide variation in
+    
+    
+    
+    
+    ITA 417/2014                                                          Page 21
+                             the      parameters.
+                            Weighted average
+                            should be taken.
+       2. Adobe Systems 1. Directed the                The said entities had shown
+          India (P) Ltd. v. exclusion of three         supernormal      profits.     By
+          Additional        entities         as        excluding      these       three
+          Commissioner of comparables.                 companies, the arithmetic mean
+          Income-tax,                                  of OP/TC comes to 17.15%,
+          [2011] 44 SOT                                which falls within the +-5%
+          49 (Delhi)                                   range as permitted by s. 92C(2).
+                                                       Further, the DRP has passed a
+                                                       cursory       order   without
+                                                       examining the submissions of
+                                                       the assessee.
+       3. Teva India (P)      Remitted the matter      M/s Vimta Labs had earned
+          Ltd v. DCIT,        to the AO to decide      supernormal profits. The ITAT
+          [2011] 44 SOT       the issue of inclusion   noted the decision in Adobe
+          105 (Mum).          of M/s Vimta Labs        Systems and directed the matter
+                              as a comparable          to be decided in light of that
+                                                       decision and taking into account
+                                                       the submissions of the assessee.
+       4. Sapient             Directed           the   TPO cannot exclude all loss
+          Corporation (P)     exclusion of one of      making      comparables   and
+          Ltd. v. Deputy      the     comparables      include an entity (Zenith)
+          CIT, [2011] 11      considered by the        making supernormal profits at
+          Taxmann      69     TPO            (Zenith   the same time.
+          (Delhi)             Infotech Ltd.)
+                                                       Zenith is predominantly a
+                                                       software product company
+                                                       whereas the assessee is a
+                                                       software development services
+                                                       company and a software
+                                                       product company shows higher
+                                                       margin.
+       5. Nortel Networks     Affirmed       the A concern will not lose its status
+    
+
+India (P) Ltd. v. exclusion of M/s merely because it is a loss-
+
+    
+    
+          Additional CIT,     Arraycom    as   a making entity. However, TPO
+          [2013]        36    comparable.        has not excluded Arraycom for
+          Taxmann      439                       the sole reason that it is a loss-
+    
+    
+    
+    
+    ITA 417/2014                                                                Page 22
+             (Delhi)                                 making entity but because it has
+                                                    been showing persistent losses.
+                              Further held that the Its operation also has a
+                              TPO has adequately reducing tendency.
+                              factored          the
+                              subjective elements
+                              in determining the
+                              ALP.                  In the absence of exceptional
+                                                    circumstances, previous year
+                                                    data under the proviso to Rule
+                                                    10B(4) cannot be used.
+       6. Carlyle     India   Directed         the   Keynote was into merchant
+          Advisors (P) Ltd.   exclusion of, inter    banking whereas the assessee
+          v.     Additional   alia,      Keynote     provided investment advisory
+          CIT, ITA No.        Corporate Services     and related support services.
+          7901/Mum/2011       Ltd. and S.R.E.I
+          dated               Capital Markets Ltd.
+          04/04/2012.         as comparable          SREI Caps' core business was
+                                                     merchant      banking    and
+                                                     consultancy income accounted
+                                                     for only 0.27% of the total
+                                                     income.
+    
+    
+                                                     Absence of segmental data
+                                                     insofar as the investment
+                                                     advisory service provided by the
+                                                     assessee is concerned led to the
+                                                     exclusion of comparables.
+       7. Deputy CIT v.       Inclusion of Vishal Assessee derived its income
+          Deloitte            Information         from software development and
+          Consulting India    Technology Limited IT enabled services.
+          Pvt. Ltd., ITA      as a comparable
+          No.                 was not incorrect.
+          1082/Hyd/2010                         Assessee itself argued before the
+          dated 22/07/2011                      TPO that VTIL is a comparable
+                              Wipro cannot be a company offering IT enabled
+                              comparable.       services.
+                                                     The    intangibles   will      not
+    
+    
+    
+    
+    ITA 417/2014                                                                 Page 23
+                                                      materially affect the price or
+                                                     profit-earning     [within  the
+                              Previous year data     meaning of Rule 10B(3)]. No
+                              can be used for        two comparable companies can
+                              comparables     only   be replicas of each other. Rule
+                              under    exceptional   10B should be applied on a
+                              circumstances.         broader perspective and not
+                                                     with technical rigour.
+                                                     Wipro cannot be a comparable
+                                                     as its turnover is 20 times that
+                                                     of the assessee.
+       8. Symantec            Two entities (ICC      These entities were required to
+          Software            International          be excluded on account of
+          Solutions     (P)   Agricultural   Ltd.    significantly higher operating
+          Ltd. v. Assistant   and TSR Darashaw       margins (82.92% and 78.29%)
+          CIT, [2012] 25      Ltd.) were directed    whereas the next highest was
+          Taxmann      163    to be excluded as      26.67%. Thus, unless it was
+          (Mum).              comparables.           demonstrated that these super
+                                                     normal profits were earned in
+                                                     the normal routine of activities,
+                                                     they could not be included.
+       9. Sony India (P)      Upheld           the   Exclusion may not be justified
+          Ltd. v. Deputy      revenue's decision     on the mere ground of loss and
+          CIT, [2008] 114     to exclude Godrej as   competition. However, on the
+          ITD 448 (Delhi)     a comparable.          facts of the case, a number of
+                                                     factors have the cumulative
+                                                     effect of justifying Godrej's
+                              Reversed         the   exclusion. These are: Godrej
+    
+
+revenue's finding on makes refrigerators and not inclusion on TVs, it has
+suffered huge losses Videocon as a over a period of several years, comparable.
+had huge unutilized capacity, needs financial restructuring, joint venture of
+the company stands terminated, etc. Re inclusion of Videocon, there are
+material differences which ITA 417/2014 Page 24 cannot be eliminated within
+the meaning of Rule 10B(3). Thus, Videocon has to be excluded as a comparable.
+
+10\. Philips Software Companies with An entity making supernormal Centre v.
+ACIT, supernormal profits profits cannot be a comparable.
+
+    
+    
+           [2008] 26 SOT       should have been       If at all it were to be considered
+           226 (Bang.)         excluded from the      as a comparable, appropriate
+                               list of comparables    adjustments to the material
+                               by the TPO.            differences would have to be
+                                                      made. However, normalization
+                                                      of the margins of super profit
+                                                      making companies is not
+                                                      envisaged on an ad hoc basis
+                                                      and has to be done as per the
+                                                      law.
+    
+    
+                                                      The assessee was a captive
+                                                      contract service provider and it
+                                                      did not bear any business and
+                                                      operational risks
+       11. E-gain              Excluded Thirdware The margin of profit shown by
+           Communication       Solutions Ltd. and these    two   entities   was
+           (P) Ltd. v. ITO,    WTI       Advanced extraordinary.
+           [2008] 23 SOT       Technology      as
+           385 (Pune)          comparables.
+                                                      All factors materially affecting
+                                                      the comparability of the
+                                                      assessee with the other entities
+                                                      need to be scrutinized and
+                                                      adjusted,      including     the
+                                                      operative profit.
+       12. SAP LABS India      Directed         the   These two entities were earning
+           (P) Ltd. v. ACIT,   exclusion of M/s       supernormal profits. Extreme
+           [2011] 44 SOT       Hinduja TMT and        cases should be avoided while
+           156 (Bang.)         M/s Aftek Infosys      making a comparative study of
+                               Ltd. as comparables.   analogous cases.
+    
+    
+    
+    
+    ITA 417/2014                                                                 Page 25
+        13. Exxon       Mobil    Rejected         the     As regards exclusion of entities
+           Company India        assessee's               earning abnormal profits, a
+           P. Ltd. v. Deputy    contention that two      general submission cannot be
+           CIT [2012] 15        loss         making      accepted; the assessee should
+           ITR (Trib) 353       concerns had to be       bring out the peculiar features
+           (Mum)                included     among       why such exclusion is necessary
+                                comparables.             in the circumstances of the case.
+       14. Maersk Global        Entities          with   The inclusion of entities with
+           Centres (India)      abnormally        high   supernormal profits would
+           (P) Ltd. v. ACIT,    profit        margins    depend upon the facts and
+           [2014]        43     cannot be rejected       circumstances of each case. It
+           Taxmann      100     outright            as   should        trigger     further
+           (Mumbai Special      comparables. In the      investigation      to   establish
+           Bench).              given facts of the       whether it can be taken as a
+                                case,              two   comparable or not - this would
+                                comparables sought       depend upon whether the high
+                                to     be    included    profits reflect a normal business
+                                indicated     unusual    condition or whether they are a
+    
+
+features for the year, result of some abnormal which qualified for conditions
+prevailing in the their exclusion. relevant year.
+
+The profit margin earned by such entity in the immediately preceding year may
+also be taken into account to determine this issue.
+
+If the high profit margin does not reflect normal business condition, it
+should be rejected.
+
+An entity cannot be rejected solely on the basis of abnormally high profit
+margin.
+
+15\. Goldman Sachs Directed the Assessee and the comparables (India)
+Securities exclusion of were functionally different and Pvt. Ltd. v. ACIT,
+comparables not in the same segment.
+
+    
+    
+           ITA            No.   ordered by the TPO.
+           7724/Mum/2011,
+    
+    
+    
+    
+    ITA 417/2014                                                                   Page 26
+             dated 23.01.2013
+       16. Advance Power       Directed         the BCC Fuba India Ltd. was a
+           Display Systems     exclusion of BCC persistently loss making unit
+           Ltd. v. ACIT,       Fuba India Ltd. as a and therefore, it cannot be
+           [2013]       35     comparable.
+                                                    considered to be a good
+           Taxmann     145
+           (Mum)                                    comparable.
+    
+                               Comparables have
+                               to be tested for each
+                               year independently.     Further, in respect of another
+                               The fact that an        company, the P&L A/c had an
+                               entity has been         extraordinary item of income on
+                               chosen       as     a   account of sale of business.
+                               comparable for one
+                                                       Therefore, this makes this
+                               year does not ipso
+                               facto mean that it      company as not a good
+                               would be chosen the     comparable for the year under
+                               subsequent year.        consideration.
+    
+       17. Syscom              A company cannot    If profit not supernormal, the
+           Corporation Ltd.    be excluded as a    mere fact that it is high does not
+           v. ACIT, [2013]     comparable solely   justify exclusion. Unless and
+           35 Taxmann 600      because it is a high
+                                                   until there are specific reasons
+           (Mum)               profit making unit.
+                                                   and factors as provided under
+                                                   Rule 10B, an entity cannot be
+    
+
+A persistently loss excluded or eliminated from the making unit cannot list of
+comparables.
+
+be considered as a comparable.
+
+Comparability of an uncontrolled transaction with an international transaction
+has to be measured by using current year data and only when the ITA 417/2014
+Page 27 current year data does not give a true picture due to abnormal
+circumstances that multiple year data is used.
+
+    
+    
+       18. Aztec Software v.   The          criteria There should be a proper
+           ACIT, ITA No.       prescribed under the analysis of transactions - FAR
+           584/Bang/2006       Act and Rules is the analysis.
+           dt.   12.07.2007    primary basis for
+           (Bang - Special     testing
+           Bench)              comparability.
+       19. CIT v. Agnity       Upheld the exclusion    Tribunal had excluded Infosys
+           India               of           Infosys    as it was a giant company in the
+           Technologies (P)    Technologies Ltd. as    area of software development
+           Ltd. [2013] 36      a comparable.           and it assumed all risks leading
+           Taxmann      289                            to higher profits whereas the
+           (Delhi HC)                                  assessee was a captive unit of
+                                                       the parent company and
+                                                       assumed only a small risk.
+                                                       HC upheld the reasons given by
+                                                       the Tribunal for the exclusion.
+       20. Cummins Turbo                               Companies with supernormal
+           Technologies v.                             profits and companies which are
+           DDIT, [2013] 35                             loss-making cannot straight
+           Taxmann 350                                 away       be      rejected  as
+                                                       comparables unless abnormal
+                                                       loss is projected.
+       21. Google India (P) Exclusion of two           The Tribunal has consistently
+           Ltd. v. DCIT, companies making              held that super profit making
+           [2013]        29 supernormal profits.       companies have to excluded
+           Taxmann 412.                                from the list of comparables
+                                                       before making transfer pricing
+                                                       adjustment.
+    
+    
+    
+    
+    ITA 417/2014                                                                Page 28
+    
+
+25\. Maersk Global Centres (India) (P) Ltd (supra) was a Special Bench (3
+Member) decision of ITAT which had to address the precise question which
+arises for consideration in this case, i.e whether in the facts of that case
+―companies earning abnormally high profit margin should be included in the
+list of comparable cases for the purpose of determining the arm's length price
+of international transactions‖. Although the ITAT did not specifically answer
+the question, in view of its findings that two comparables, i.e eClerx
+Services Ltd and Mold Tech Technologies Ltd, on account of unusual or peculiar
+features which were apparent from the materials on record, the Bench did
+indicate the general approach appropriate in this regard:
+
+> ―the comparability of an international transaction with an uncontrolled
+> transaction for the purpose of determining the arm's length price of an
+> international transaction by following the transactional net margin method
+> is required to be judged with reference to the functions performed as per
+> sub-rule (2)(b) of rule 10B read with sub-rule (1)(e) thereof and there is
+> no bar in the transfer pricing regulations in India to exclude certain
+> entities selected as potential comparables on a broad functionality test by
+> applying the functional test at narrow or micro level to attain the
+> relatively equal degree of comparability.
+
+On the other hand, rule 10B(3) provides that the uncontrolled transaction
+selected/judged as per rule 10B(2) shall be comparable to an international
+transaction only if none of the differences, if any, between the transactions
+being compared, or between enterprises entering into such transactions are
+likely to materially affect the price or cost charged or paid or the profit
+arising from such transaction in the open market or reasonably accurate
+adjustment can be made to eliminate the effects of such difference. In our
+opinion, sub-rule (3) of rule 10B thus clearly provides for further exclusion
+of the comparables selected by applying the test/criteria given in sub-rule
+(2) of rule 10B if there is any difference found between the enterprises
+entering into the ITA 417/2014 Page 29 transactions which materially affects
+the cost charged or the profit arising from such transaction in the open
+market.
+
+69\. Keeping in view the relevant portion of the OECD Transfer Pricing
+Guidelines discussed above and having regard to the relevant transfer pricing
+regulations as contained in rule 10B(3) of the Income-tax Rules, 1962, we are
+of the view that further dissection or classification of information
+technology enabled services can be done depending on the facts and
+circumstances of each case so as to select the entities having a relatively
+equal degree of comparability.‖ In Exxon Mobil Company India P. Ltd. (supra),
+a Mumbai Bench decision, (cited at Sl. No.13 in the table above), the ITAT
+held:
+
+> "(xi) Now, coming to the alternative arguments of the assessee that abnormal
+> profit making unit is also to be eliminated on the same analogy on which
+> loss making units are excluded, we, in principle, do not dispute this
+> proposition. The various case laws relied upon by the assessee lay down that
+> a comparable cannot be eliminated just because it is a loss making unit.
+> Similarly, a higher profit making unit cannot also be automatically
+> eliminated just because the comparable company earned higher profits than
+> the average. The reason for rejecting the two loss making units is not just
+> because they were loss making units but for the reasons which are already
+> stated in the preceding paragraphs. If similar reasons existed in the higher
+> profit making unit, then, it is for the assessee to bring out those reasons
+> and seek exclusion of the same. A general argument that you have to exclude
+> units which have high profit range, in case you exclude units which have
+> made loss is a general submission which cannot be accepted. In other words,
+> as a general principle, both loss making unit and high profit making unit
+> cannot be eliminated from the comparables unless there are specific reasons
+> for eliminating the same which is other than the general reason that a
+> comparable has incurred loss or has made abnormal profits.‖ ITA 417/2014
+> Page 30 This court notices that American Express Services India Ltd v Deputy
+> Commissioner Of Income-Tax, 2013 (57) SOT 22 (ITAT-Del) said, similarly,
+> that:
+
+> ―If the comparables are performing the same functions then merely on the
+> ground of they being earning super profits, cannot be excluded. Material
+> differences between their business modules, however, are required to be
+> taken care off and duly adjusted. In the case of Sundaram Finance
+> Distribution Ltd., we find that the main objection of assessee is that the
+> said comparable was included because assessee had supplied the same and the
+> second objection is that in the said comparable there was no staff. As far
+> as first objection is concerned, we are in agreement with the assessee's
+> counsel that merely because the said comparable was provided by assessee,
+> the same could not be included without proper examination to account for the
+> differences. The assessee is well within his right to demonstrate that a
+> comparable supplied by it in the transfer pricing analysis was not correct
+> and had to be excluded. This right of the assessee is not curtailed in any
+> manner, whatsoever, in the rules.
+
+> A similar reasoning was adopted in M/s. Premier Exploration Services
+> Pvt.Ltd., vs. ITO, Ward 14 (3) [2014] 29 ITR (Trib) 427 (ITAT) [Del]
+> ―Although assessee had taken this company as comparable on the basis of past
+> years data but in our considered view, the Saket Projects Ltd. was not
+> comparable to assessee because the event management was done by sponsorships
+> which is evident from various documents placed in paper book. Further the
+> segment allocation of expenses also appears to be not reliable. We agree
+> with the view of revenue that no comparable can be rejected merely on the
+> basis of high margins if the comparable is functionally comparable to the
+> assessee and also that there is miner variation in functional similarity.
+> However, in the case of Saket Projects Ltd. there is functional
+> dissimilarity. The company is organizing events with various kinds of
+> sponsorships. The facts also suggest that segmental allocation of expenses
+> were not ITA 417/2014 Page 31 reliable. We also hold that when direct
+> comparables are available then segmental results of companies engaged in
+> other business should not be taken as comparable. On the basis of these
+> facts, we hold that Saket Projects Ltd. was not comparable to the extent
+> wherein the various variations could be ruled out or iron out by provisions
+> of law and rules.‖
+
+26\. The assessee‟s position is supported by reasoning in cases like the
+ITAT‟s decision in Mentor Graphics (Noida) (P.) Ltd. v. Dy. CIT [2007] 109 ITD
+161 where contentions such as these were accepted:
+
+> ".....The wide difference in the ratio of operating margins in the final
+> selection of comparable ... is a clear pointer to the fact that the
+> selection made was faulty...The OECD guideline on this point is as under
+> ‗1.47 Where the application of one or more methods produces a range of
+> figures, a substantial deviation among points in that range may indicate
+> that the data used in establishing the some of the points may not be as
+> reliable as the data used to establish the other points in the range or that
+> the deviation may result from features of the comparable data that require
+> adjustments.' Inferring from the above ruling, we requests your goodself to
+> not consider companies displaying abnormal profits since they deviate from
+> the normal trend displayed by the data set."
+
+Many decisions of different benches of the ITAT indicate a rote repetition (in
+the words of Felix Frankfurter J, quoted in the beginning of this judgment a
+"lazy repetition") of this reasoning, without an independent analysis of the
+provisions of the Act and the rules. (Ref. IQ Information Systems India P.
+Ltd. [2013] 25 ITR (Trib) 185 (Hyderabad Bench) Symphony Marketing Solutions
+India P. Ltd. [2013] 27 ITR (Trib) 753 (Bangalore Bench)).
+
+ITA 417/2014 Page 32
+
+27\. An indication of what ought to be the correct approach was given by a
+Division Bench of this Court in Commissioner of Income Tax v Mentor Graphics
+(P) Ltd [2013] 259 CTR 1 (Del), where it was held that:
+
+> ―21. The sum and substance of the Tribunal's order is that the criteria
+> adopted by the TPO for searching comparables was not correct. Secondly, the
+> TPO had not specifically rejected any of the comparables of the
+> respondent/assessee. The Tribunal was of the view that the comparables of
+> the respondent/assessee ought to have been accepted and, had that been the
+> case, there would have been no need for the TPO to search for comparables.
+> Of course, in passing the order, the Tribunal made certain general
+> observations that unless and until the comparables drawn by the taxpayer
+> were rejected, a fresh search by the TPO could not be conducted. However,
+> this has to be tempered with the relevant statutory provisions which are
+> clearly set out in sub-s. (3) of s. 92C of the said Act which stipulates
+> four situations whereunder the AO/TPO may proceed to determine the ALP in
+> relation to an international transaction. If any one of those four
+> conditions is satisfied, it would be open to the AO/TPO to proceed to
+> determine the ALP. This clarification of the observation of the Tribunal was
+> necessary and that is why we have done so.
+
+22\. We also note that the Tribunal had gone further and reduced the list of
+comparables to merely four as indicated in para 46 of the impugned order. We
+do not think that it was the right approach to be adopted by the Tribunal. The
+Tribunal should have stopped at the point where it decided on facts that the
+comparables given by the respondent/assessee were to be accepted and those
+searched by the TPO were to be rejected. The only option then left to the
+Tribunal was to derive the arithmetical mean of the PLIs of the comparables
+which were accepted by it. In this case such comparables happen to be those of
+the respondent/assessee. The Tribunal, in selecting only one PLI out of a set
+of PLIs had clearly erred in law. However, in the facts of the present case
+that would not make any difference to the respondent/assessee's case in as
+much as even if the ITA 417/2014 Page 33 arithmetical mean of the comparables
+as accepted by the Tribunal is taken into account, the PLI would, whether the
+seven companies are taken into consideration or all eight companies are taken
+into consideration, be less than 6.99 per cent which is the PLI of the
+respondent/assessee for the relevant year, that is, financial year ending 31st
+March, 2002. We may also make it clear that the reference to the OECD
+Guidelines by the Tribunal in the impugned order are in the context of the
+reliance placed by the TPO on the very same guidelines, in particular, to para
+3.27 thereof. In the present case, there are specific provisions of sub- rr.
+(2) and (3) of r. 10B of the said rules as also of the first proviso to s.
+92C(2) of the said Act which apply. Therefore, the question of applying OECD
+Guidelines does not arise at all.‖ It is therefore, evident that the Special
+Bench and this Court stressed that mere distortion cannot be the basis of
+exclusion, given the mandate of Section 92C. The assessee had during the
+hearing, heavily relied on OECD guidelines and another Division Bench ruling
+in Agnity (supra). This court proposes to take up the latter decision first
+for discussion. In Agnity (supra), the revenue had questioned, inter alia, the
+ITAT decision to exclude the data relating to Infosys. One of the reasons was
+that the said company was a "giant" corporation and was involved in
+multifarious activities. After reproducing the comparative chart and noticing
+the facts, the Court reasoned as follows:
+
+> ―6. Learned counsel for the Revenue has submitted that the Tribunal after
+> recording the aforesaid table has not affirmed or given any finding on the
+> differences. This is partly correct as the Tribunal has stated that Infosys
+> Technologies Ltd. should be excluded from the list of comparables for the
+> reason latter was a giant company in the area of development of software and
+> it assumed all risks leading to higher profits, whereas the respondent-
+> assessee was a captive unit of the parent company and assumed only a limited
+> risk. It has also stated that Infosys ITA 417/2014 Page 34 Technologies Ltd.
+> cannot be compared with the respondent- assessee as seen from the financial
+> data etc. to the two companies mentioned earlier in the order i.e. the
+> chart. In the grounds of appeal the Revenue has not been able to controvert
+> or deny the data and differences mentioned in the tabulated form. The chart
+> has not been controverted.
+
+> 7\. Learned counsel for the appellant Revenue during the course of hearing,
+> drew our attention to the order passed by the TPO and it is pointed out that
+> based upon the figures and data made available, the TPO had treated a third
+> company as comparable when the wage and sale ratio was between 30% to 60%.
+> By applying this filter, several companies were excluded. This is correct as
+> it is recorded in para 3.1.2 of the order passed by the TPO. TPO, as noted
+> above, however had taken three companies, namely, Satyam Computer Service
+> Ltd., L&T Infotech Ltd. and Infosys Technologies as comparable to work out
+> the mean.
+
+> 8\. It is a common case that Satyam Computer Services Ltd. should not be
+> taken into consideration. The Tribunal for valid and good reasons has
+> pointed out that Infosys Technologies Ltd. cannot be taken as a comparable
+> in the present case. This leaves L&T Infotech Ltd. which gives us the figure
+> of 11.11 %, which is less than the figure of 17% margin as declared by the
+> respondent-assessee. This is the finding recorded by the Tribunal. The
+> Tribunal in the impugned order has also observed that the assessee had
+> furnished details of workables in respect of 23 companies and the mean of
+> the comparables worked out to 10%, as against the margin of 17% shown by the
+> assessee. Details of these companies are mentioned in para 5 of the impugned
+> order.
+
+> 9\. In view of the aforesaid position, we do not think that any substantial
+> question of law arises for consideration. The appeal is dismissed.‖
+
+28\. Quite evidently, the Court accepted the assessee‟s contentions with
+respect to dissimilarity of comparables; given the facts, equally, there was
+ITA 417/2014 Page 35 sufficient material to favour that view, in the facts of
+the case. The Court, unlike in Mentor Graphics (supra) did not undertake an
+analysis of the provisions involved- it was not also necessary, given the
+admitted state of facts.
+
+29\. Considerable inspiration was drawn from OECD guidelines to say that
+extraordinary facts in relation to a comparable should lead to its rejection
+in the TP analysis. The relevant provisions of the 2010 OECD Transfer Pricing
+Guidelines are extracted below:
+
+> ―A.7.3 - Extreme Results: Comparability Considerations 3.63: Extreme results
+> might consist of losses or unusually high profits. Extreme results can
+> affect the financial indicators that are looked at in the chosen method
+> (e.g. the gross margin when applying a resale price, or a net profit
+> indicator when applying a transactional net margin method). They can also
+> affect other items, e.g. exceptional items which are below the line but
+> nonetheless may reflect exceptional circumstances. Where one or more of the
+> potential comparables have extreme results, further examination would be
+> needed to understand the reasons for such extreme results. The reason might
+> be a defect in comparability, or exceptional conditions met by an otherwise
+> comparable third party. An extreme result may be excluded on the basis that
+> a previously overlooked significant comparability defect has been brought to
+> light, not on the sole basis that the results arising from the proposed
+> ―comparable‖ merely appear to be very different from the results observed in
+> other proposed ―comparables‖.
+
+> 3.64: An independent enterprise would not continue loss- generating
+> activities unless it had reasonable expectations of future profits. See
+> paragraphs 1.70 to 1.72. Simple or low risk functions in particular are not
+> expected to generate losses for a long period of time. This does not mean
+> however that loss-
+
+making transactions can never be comparable. In general, all relevant
+information should be used and there should not be any ITA 417/2014 Page 36
+overriding rule on the inclusion or exclusion of loss-making comparables.
+Indeed, it is the facts and circumstances surrounding the company in question
+that should determine its status as a comparable, not its financial result.
+
+3.65: Generally speaking, a loss-making uncontrolled transaction should
+trigger further investigation in order to establish whether or not it can be a
+comparable. Circumstances in which loss-making transactions/enterprises should
+be excluded from the list of comparables include cases where losses do not
+reflect normal business conditions, and where the losses incurred by third
+parties reflect a level of risks that is not comparable to the one assumed by
+the taxpayer in controlled transactions. Loss-making comparables that satisfy
+the comparability analysis should not however be rejected on the sole basis
+that they suffer losses.
+
+3.66: A similar investigation should be undertaken for potential comparables
+returning abnormally large profits relative to other potential comparables.‖
+On the use of multiple year data, this is what the said guidelines provide:
+
+> ―B.5 Multiple Year Data 3.75: In practice, examining multiple year data is
+> often useful in a comparability analysis, but it is not a systematic
+> requirement. Multiple year data should be used where they add value to the
+> transfer pricing analysis. It would not be appropriate to set prescriptive
+> guidance as to the number of years to be covered by multiple year analyses.
+
+> 3.76: In order to obtain a complete understanding of the facts and
+> circumstances surrounding the uncontrolled transaction, it generally might
+> be useful to examine data from both the year under examination and prior
+> years. The analysis of such information might disclose facts that may have
+> influenced (or should have influenced) the determination of the transfer
+> price.
+
+For example, the use of the data from past years will show whether a
+taxpayer's reported loss on a transaction is part of a history of losses on
+similar transactions, the result of particular ITA 417/2014 Page 37 economic
+conditions in a prior year that increased costs in the subsequent year, or a
+reflection of the fact that a product is at the end of its life cycle. Such an
+analysis may be particularly useful where a transaction profit method is
+applied. See paragraph 1.72 on the usefulness of multiple year data in
+examining loss situations. Multiple year data can also improve the
+understanding of long term arrangements.
+
+3.77: Multiple year data will also be useful in providing information about
+the relevant business and product life cycles of the comparables. Differences
+in business or product life cycles may have a material effect on transfer
+pricing conditions that needs to be assessed in determining comparability. The
+data from earlier years may show whether the independent enterprise engaged in
+a comparable transaction was affected by comparable economic conditions, or
+whether different conditions in an earlier year materially affected its price
+or profit so that it should not be used as a comparable.
+
+3.78: Multiple year data can also improve the process of selecting third party
+comparables, e.g. by identifying results that may indicate a significant
+variance from the underlying comparability characteristics of the controlled
+transaction being reviewed, in some cases leading to the rejection of the
+comparable, or to detect anomalies in third party information. 3.79: The use
+of multiple year data does not necessarily imply the use of multiple year
+averages. Multiple year data and averages can however be used in some
+circumstances to improve reliability of the range. See paragraphs 3.57-3.62
+for a discussion of statistical tools.‖
+
+30\. The reasoning adopted in various judgments noticed above, shows that
+functional analysis seeks to identify and compare the economically significant
+activities and responsibilities undertaken, assets used and risks assumed by
+the parties to the transaction. Quantitative and qualitative filters/criteria
+have been used in different cases to include or exclude ITA 417/2014 Page 38
+comparables. The intuitive logic for excluding big companies from the list of
+comparables while undertaking the FAR analysis of a smaller company is
+attractive, given that such big companies provide services to diverse
+clientele, perform multifarious functions, often assume risks and employ
+intangible assets which are specially designed, unlike in the case of smaller
+companies. The bigger companies have an established reputation in the segment,
+are well known and employ economies of scale to a telling end. On the other
+hand, these obvious - and apparent features should not blind the TPO from the
+obligation to carry out the transfer pricing exercise within the strict
+mandate of Section 92 C and Rules 10-A to 10-E.
+
+31\. Arm's length price determination, in respect of an international
+transaction has necessarily to confirm to the mandate of Rule 10B. In this
+case, the method followed for determining the arm's length price of the
+international transaction adopted by the assessee and the revenue is the TNMM.
+The comparability of an international transaction with an uncontrolled
+transaction has, in such cases, to be seen with reference to the functions
+performed, taking into account the assets employed or to be employed and the
+risks assumed by the respective parties to the transaction as per rule
+10B(2)(b). The specific characteristics of the property transferred or
+services provided (contemplated by Rule 10B(2)(a)) in either transactions may
+be secondary, for judging comparability of an international transaction in the
+TNMM, because the price charged or paid for property transferred or services
+provided and the direct and indirect cost of production incurred by the
+enterprise in respect of property transferred or services provided go into
+reckoning comparability analysis in the transaction methods, i.e the
+comparable uncontrolled price, resale price and cost plus whereas the profit
+ITA 417/2014 Page 39 based method such as transactional net margin method
+takes into account, the net margin realised. In TNMM, comparability of an
+international transaction with an uncontrolled transaction is to be seen with
+reference to functions performed as provided in sub-rule (2)(b) of rule 10B
+read with sub-rule (1)(e) of that rule after taking into account assets
+employed or to be employed and the risks assumed by the respective parties to
+the transaction. As noticed earlier, Rule 10B(3) mandates that a given or
+select uncontrolled transaction selected in terms of Rule 10B(2) "shall be
+comparable to an international transaction" if none of the differences, if
+any, between the compared transactions, or between enterprises entering into
+such transactions ―are likely to materially affect the price or cost charged
+or paid or the profit arising from such transaction in the open market or
+reasonably accurate adjustment can be made to eliminate the effects of such
+difference.‖
+
+32\. Now, the sequitur of Rule 10B (2) and (3) is that if the comparable
+entity or entity‟s transactions broadly conform to the assessee‟s functioning,
+it has to enter into the matrix and be appropriately considered. The crucial
+expression giving insight into what was intended by the provision can be seen
+by the use of the expression: ―none of the differences, if any, between the
+transactions being compared, or between the enterprises entering into such
+transactions are likely to materially affect the price or cost charged or paid
+in, .. such transactions in the open market‖. The other exercise which the TPO
+has to necessarily perform is that if there are some differences, an attempt
+to "adjust" them to "eliminate the material effects" should be made:
+
+―(ii) reasonably accurate adjustments can be made to eliminate the material
+effects of such differences.‖ ITA 417/2014 Page 40
+
+33\. Such being the case, it is clear that exclusion of some companies whose
+functions are broadly similar and whose profile - in respect of the activity
+in question can be viewed independently from other activities- cannot be
+subject to a per se standard of loss making company or an "abnormal" profit
+making concern or huge or "mega" turnover company. As explained earlier, Rule
+10B (2) guides the six methods outlined in clauses
+
+(a) to (f) of Rule 10B(1), while judging comparability. Rule 10B (3) on the
+other hand, indicates the approach to be adopted where differences and
+dissimilarities are apparent. Therefore, the mere circumstance of a company
+
+\- otherwise conforming to the stipulations in Rule 10B (2) in all details,
+presenting a peculiar feature - such as a huge profit or a huge turnover, ipso
+facto does not lead to its exclusion. The TPO, first, has to be satisfied that
+such differences do not ―materially affect the price...or cost‖; secondly, an
+attempt to make reasonable adjustment to eliminate the material effect of such
+differences has to be made.
+
+34\. The Court is also aware of the factors mentioned in Rule 10B (2), i.e
+characteristics of the service provided, functions performed taking into
+account assets employed or to be employed and the risks assumed, by the
+respective parties to the transactions; contractual terms of the transactions
+indicating how the responsibilities, risks and benefits are to be divided
+between the respective parties to the transactions; conditions prevailing in
+the markets in which the respective parties to the transactions operate,
+including the geographical location and size of the markets, the laws and the
+Government orders in force; costs of labour and capital in the markets,
+overall economic development and level of competition and whether the markets
+are wholesale or retail. These elements comprehend the similarities ITA
+417/2014 Page 41 and dissimilarities; clause (f) of Rule 10C(2) specifically
+provides that ―the extent to which reliable and accurate adjustments can be
+made to account for differences, if any, between the international transaction
+or the specified domestic transaction and the comparable uncontrolled
+transaction or between the enterprises entering into such transactions and the
+nature, extent and reliability of assumptions required to be made in
+application of a method‖ have to be taken into consideration by the TPO.
+
+35\. As regards the relevance of multiple year data for transfer pricing
+determination, this Court is of the opinion that the general rule as
+prescribed in Rule 10B(4) mandates the tax authorities to take into account
+only the relevant assessment year‟s data. The proviso to Rule 10B(4) permits
+data relating to two years prior to the relevant assessment year to be taken
+into account in the event that they have an influence on the determination of
+price. However, in such instances, the onus lies upon the assessee to
+establish the relevance of such data. The language of Rule 10B(4) does not
+leave any scope for ambiguity on this issue. This Court notices that this very
+ground- i.e applicability of previous years‟ data for reaching out
+comparables, was sought to be urged in Marubeni India (P) Ltd v DIT 354 ITR
+638 but deliberately left moot, because the assessee had given it up before
+the Tribunal. The TPO in his order dated 03.10.2011 has comprehensively
+examined the authorities on this issue and rightly held that ordinarily, the
+revenue has to consider only the relevant assessment year‟s data under Rule
+10B(4) and that data from earlier period may also be considered if "it reveals
+certain facts which have an influence on the determination of transfer prices
+in relation to the transaction being considered". The assessee has placed
+significant reliance on the OECD ITA 417/2014 Page 42 guidelines to contend
+the admissibility of previous year‟s data for transfer pricing determination.
+However, for reasons given in the paragraphs below, this Court is of the
+opinion that the OECD guidelines have no bearing on this issue.
+
+36\. This Court holds that in the facts of the present case, the assessee was
+incorrect, both in its reliance placed upon previous years‟ data as well as
+the manner of such reliance. First, the assessee‟s justification for relying
+on such data is the volatility in the comparables‟ profit margins and the
+consequent inability to transact at a consistent ALP. However, this is not
+warranted herein. Whilst there may be a wide fluctuation in the profit margins
+of comparables from year-to-year, this by itself does not justify the need to
+take into account previous years‟ profit margins. The transfer pricing
+mechanism provided in the Act and the Rules prescribes that while determining
+the ALP, the arithmetic mean of all comparables is to be adopted. This is to
+offset the consequence of any extreme margins that comparables may have and
+arrive at a balanced price. Similarly, the wide fluctuations in profit margins
+of the same entity on a year-to-year basis would be offset by taking the
+arithmetic mean of all comparables for the assessment year in question. In any
+case, in the event that the volatility is on account of a materially different
+aspect incapable of being accounted for, the analysis under would Rule 10B(3)
+would exclude such an entity from being considered as a comparable. Secondly,
+as regards the manner of using previous years‟ data, the assessee has taken
+the arithmetic mean of the comparables‟ profit margins for the assessment year
+in question and two previous years. This Court disagrees. The proviso to Rule
+10B(4), read with the sub-rule, itself indicates that the purpose for which
+previous years‟ data ITA 417/2014 Page 43 may be considered is - analysing the
+comparability of an uncontrolled transaction with an international
+transaction. It does not prescribe that once an uncontrolled transaction has
+been held to be a „comparable‟, in order to obviate an apparent volatility in
+the data, the arithmetic mean of three years (the assessment year in question
+and two previous years‟) may be taken. That would amount to assigning equal
+weight to the data for each of the three years, which is against the mandate
+of Rule 10B(4). The use of the word „shall‟ in Rule 10B(4) and, noticeably,
+„may‟ in the proviso, implies that the relevant assessment year‟s data is of
+primary consideration, as opposed to previous years‟ data.
+
+37\. The contention that OECD guidelines have to be taken into consideration
+requires a closer scrutiny. The Organisation for Economic Co- operation and
+Development (OECD) is an international economic organisation of 34 countries
+founded in 1961 to stimulate economic progress and world trade. India is not a
+member of this grouping; it has an observer status. She has, however, of late
+been actively co-operating with the organization. The Guidelines of OECD
+therefore, have only persuasive status; they do not have any legal sanction-
+unlike, for instance Double Taxation Avoidance Agreements which courts are
+duty bound to interpret and implement, in terms of municipal law, given the
+compulsion of provisions of the Income Tax Act. Secondly - and more
+importantly- the provisions of the Constitution compel a national legislation,
+to embody the terms of a treaty, for it to be enforceable in courts in India.
+This is because of Article 253 of the Constitution and the dualist tradition
+(of International law) followed by India, whereby treaties by themselves are
+legally unenforceable in courts, but are to be assimilated through municipal
+(or ITA 417/2014 Page 44 national) legislation. Our Supreme Court has, in the
+area of human rights - particularly in personal liberty, been emphasizing that
+to the extent the provision of any treaty is in consonance with provision of
+the Constitution (such as Article 21) it would be read along with such
+provision or right (Jolly George Varghese and Anr. v. The Bank of Cochin, AIR
+1980 SC 470, Apparel Export Promotion Council v. A.K. Chopra, AIR 1999 SC 625;
+Kubic Dariusz v Union of India AIR 1990 SC 605). Thus, the Courts are
+primarily bound by the law on the subject in India; if the law is clear and
+unambiguous, there is no question of resorting to extrinsic sources. The only
+rider is that if the terms of such conventions or treaties are similar to the
+law applicable in India, courts may consider precedents in that regard;
+however those are only of persuasive value.
+
+38\. The aforesaid conclusion is fortified by the Division Bench decision of
+this Court in Mentor Graphics (supra), where the Court noted:
+
+> ―We may also make it clear that the reference to the OECD guidelines by the
+> Tribunal in the impugned order are in the context of the reliance placed by
+> the Transfer Pricing Officer on the very same guidelines, in particular, to
+> paragraph 3.27 thereof. In the present case, there are specific provisions
+> of sub-
+
+rules (2) and (3) of Rule 10B of the said Rules as also of the first proviso
+to section 92C(2) of the said Act which apply. Therefore, the question of
+applying OECD guidelines does not arise at all.‖ This Court also notes that a
+recent decision in Sony Ericsson Mobile Communications India Pvt. Ltd. v. CIT
+(dated 16.03.2015) relied extensively on the OECD Guidelines. However, the
+said ruling itself recognized that the provisions of the Act and the Rules
+"are supreme". Therefore, this Court holds that where they (i.e., the Act and
+the Rules) adequately cover a field, reliance on the OECD Guidelines is not
+warranted. At this stage, we deem it ITA 417/2014 Page 45 fit to quote the
+following observations of the Supreme Court in Entertainment Network (India)
+Ltd. v. Super Cassette Industries Ltd., (2008) 13 SCC 30:
+
+> ―However, applicability of the International Conventions and Covenants, as
+> also the resolutions, etc. for the purpose of interpreting domestic statute
+> will depend upon the acceptability of the Conventions in question. If the
+> country is a signatory thereto subject of course to the provisions of the
+> domestic law, the International Covenants can be utilized. Where
+> International Conventions are framed upon undertaking a great deal of
+> exercise upon giving an opportunity of hearing to both the parties and
+> filtered at several levels as also upon taking into consideration the
+> different societal conditions in different countries by laying down the
+> minimum norm, as for example, the ILO Conventions, the court would freely
+> avail the benefits thereof. Those Conventions to which India may not be a
+> signatory but have been followed by way of enactment of new Parliamentary
+> statute or amendment to the existing enactment, recourse to International
+> Convention is permissible.‖ (emphasis supplied) The above excerpt indicates
+> that courts must be cautious of relying upon international conventions to
+> which India is not a signatory and with respect to which there is no
+> legislative mandate whatsoever.
+
+In any event, the OECD Guidelines relevant herein are in consonance with the
+Rules. Para 3.63 of the Guidelines states that an extreme comparable cannot be
+excluded "on the sole basis that the results arising from the proposed
+‗comparable' merely appear to be very different from the results observed in
+other proposed ‗comparables'‖ and that "further examination would be needed to
+understand the reasons for such extreme results‖.
+
+ITA 417/2014 Page 46 Similarly, para 3.65 states that "loss-making comparables
+that satisfy the comparability analysis should not however be rejected on the
+sole basis that they suffer losses‖. Further, para 3.64 states that "it is the
+facts and circumstances surrounding the company in question that should
+determine its status as a comparable, not its financial result‖. The same
+approach is prescribed in para 3.66 for entities making supernormal profits.
+Therefore, both the OECD Guidelines as well as Rule 10B (2) and 10B (3) do
+not, in any manner, prescribe automatic exclusion of entities with extreme
+financial results.
+
+Similarly, insofar as the use of multiple year data is concerned, Para 3.75 of
+the OECD Guidelines states that "[m]ultiple year data should be used where
+they add value to the transfer pricing analysis.‖ This is akin to the proviso
+to Rule 10B(4) which provides for "data relating to a period not being more
+than two years prior to such financial year [to] be considered if such data
+reveals facts which could have an influence on the determination of transfer
+prices in relation to the transactions being compared.‖ Crucially, as noted by
+the TPO, para 3.79 of the Guidelines states that the "use of multiple year
+data does not necessarily imply the use of multiple year averages". Thus, even
+if multiple year data is taken into consideration while determining the arm‟s
+length price, it may only be for the purposes of factoring in material changes
+in, inter alia, economic conditions, third party variables, etc.
+
+39\. This Court proceeds on the basis that there is sufficient guidance and
+clarity in Rule 10B on the principles applicable for determination of ALP.
+These include the various factors to be taken into consideration, approach to
+be adopted (functions performed, taking into account risks borne and assets
+employed, size of the market, the nature of competition, terms of labour, ITA
+417/2014 Page 47 employment and cost of capital, geographical location etc).
+The extent of accurate adjustments possible, too, is a factor to be
+considered. Rule 10B (3) then underlines what the ALP determining exercise
+entails, if there are dissimilarities which materially affect the price
+charged etc: the first attempt has to be to eliminate the components which so
+materially affect the price or cost. In other words, given the data available,
+if the distorting factor can be severed and the other data used, that course
+has to be necessarily adopted.
+
+40\. In the present case, this Court holds that once Brescon, Keynote and
+Khandwala Securities are held to be functionally similar to the assessee, they
+would be included as comparables, notwithstanding their high profit margins,
+provided that the material difference on account of such high profit margins
+can be eliminated under the Rule 10B(3) analysis.
+
+41\. This Court, on a perusal of the orders of the lower authorities and the
+assessee‟s submissions before them which have been placed on record in this
+appeal, finds that the assessee‟s contentions with respect to the exclusion of
+Brescon and Khandwala Securities were based only on their exceptionally high
+profit margins for the assessment year in question and not on the grounds of
+functional dissimilarities. Indeed, the assessee did not contend the latter
+before the lower authorities. The assessee has sought to highlight differences
+in the risk profiles of the assessee and Brescon in the present appeal.
+However, this Court holds that such a contention cannot be raised for the
+first time at this stage. Therefore, Brescon and Khandwala Securities are held
+to be functionally similar, and the matter is remitted to the DRP for the
+purposes of examination under Rule 10B(3) of the Rules. In the event that the
+material differences arising out of the extremely high ITA 417/2014 Page 48
+profits cannot be eliminated as per Rule 10B(3), these two entities will have
+to be discarded as comparables.
+
+42\. As far as Keynote is concerned, this Court notices that the assessee had
+challenged its inclusion as a comparable on two grounds: a) differences in the
+activities of Keynote and the assessee; and b) exceptionally high profit
+margins. The TPO rejected the first ground relying on the fact that the
+assessee had used it as a comparable for previous years and in the subject
+assessment year as well, it qualified as a comparable based on the assessee‟s
+search process. Further, the TPO held that Keynote was engaged in financial
+consultancy and would therefore be considered as a comparable. The ITAT, for
+reasons unknown, did not examine this issue. This Court notes that the
+assessee is engaged in the business of rendering financial research and
+advisory services. It is responsible for investigation and advice to some of
+its group companies on structuring potential investments and exit
+opportunities; advising the group companies of investment and disposition
+opportunities; collection and dissemination of financial information of
+prospective entities; and other related services. On the other hand, Keynote,
+as per its Directors‟ Report for FY 2007-08, is involved in "Lead Managing
+IPOs, Rights Offers, Buybacks and Takeovers. [It] also expanded its reach in
+Corporate Finance & M&A Advisory." The services provided by Keynote also
+include managing public issue of securities, underwriting, project appraisal,
+equity research, capital restructuring, loan and lease syndication, placement
+services, portfolio management, debenture trustee, managing/advising on
+international offerings of debt/equity, private placement of securities, etc.
+Evidently, the assessee does not provide any of these services enumerated
+above. Given such functional differences and the mandate of Rule ITA 417/2014
+Page 49 10B(2)(b), there could be merit in the argument that Keynote cannot be
+considered a comparable for determining the ALP. The fact that the assessee
+had included it in the previous assessment years does not have any bearing on
+its inclusion for the subject assessment year. In this regard, this Court
+relies on the Supreme Court‟s decision in Commissioner of Income Tax v. C.
+Parakh & Co (India) Ltd, 29 ITR 661, where the Court noted:
+
+> ―Whether the respondent is entitled to a particular deduction or not will
+> depend on the provision of law relating thereto, and not on the view which
+> it might take of its rights, and consequently, if the whole of the
+> commission is under the law liable to be deducted against the Indian
+> profits, the respondent cannot be estopped from claiming the benefit of such
+> deduction, by reason of the fact that it erroneously allocated a part of it
+> towards the profits earned in Karachi. What has therefore to be determined
+> is whether, notwithstanding the apportionment made by the respondent in the
+> profit and loss statements, the deduction is admissible under the law.‖
+> Further, a Division Bench of this Court in CIT v. Bharat General
+> Reinsurance, 81 ITR 303 has also held that there is no estoppel against law
+> under the Act. The Court therein held as follows:
+
+> ―It is true that the assessee itself had included that dividend income in
+> its return for the year in question but there is no estoppel in the Income
+> tax Act and the assessee having itself challenged the validity of taxing the
+> dividend during the year of assessment in question, it must be taken that it
+> had resiled from the position which it had wrongly taken while filing the
+> return.
+
+> Quite apart from it, it is incumbent on the income-tax department to find
+> out whether a particular income was assessable in the particular year or
+> not. Merely because the assessee wrongly included the income in its return
+> for a particular year, it cannot confer jurisdiction on the department to
+> tax that income in that year even though legally such income did not pertain
+> to that ITA 417/2014 Page 50 year.‖ For the sake of completion, this Court
+> would also deal with the assessee‟s reliance on the DRP‟s order dated
+> 04.03.2013 (for AY 2006-07) for the exclusion of Keynote as a comparable.
+> The DRP directed such exclusion on two grounds: a) the fact that Keynote was
+> making exceptionally high profits;
+
+and b) only single year data could be considered for determining ALP in the
+present case and the volatility in profit margins of Keynote would distort the
+ALP. Thus, the DRP did not examine the functional comparability of Keynote
+with the assessee.
+
+In light of the discussion above, this Court remits the matter for
+consideration to the DRP to properly apply the test indicated in this judgment
+and analyse the functional similarity of Keynote with the assessee. In the
+event that the DRP finds them to be functionally comparable, it would proceed
+to carry out the Rule 10B(3) analysis as in the case of Khandwala Securities
+and Brescon.
+
+43\. The final question that arises for this Court‟s determination in the
+present appeal is the assessee‟s claim for deduction under Section 36(1)(ii)
+of the Act in respect of the bonus paid by it to its two shareholders - Ashish
+Dhawan and Kunal Shroff. The lower authorities denied such claim, holding that
+the bonus was paid to the shareholders in lieu of dividend with the objective
+of avoiding tax. Such inference was drawn from two facts: a) the bonus paid
+was in proportion of their shareholding in the assessee company, i.e. 2:1; and
+b) no dividend had been declared by the assessee. However, a perusal of an
+excerpt from the DRP‟s order dated 21.09.2012 quoted by the AO in his order
+dated 19.10.2012 contradicts both these facts: a) bonus was not paid in the
+ratio of 2:1 and b) the assessee had declared interim dividend ITA 417/2014
+Page 51 of ` 5,47,47,000/-. Further, the bonuses paid to the two shareholder-
+directors in the preceding two financial years were in the ratio of
+60-65%:40-35%, even though their shareholding was 1:1. The balance sheet of
+the assessee placed on record also indicates that the two shareholders also
+hold directorial positions in the assessee. Therefore, the assessee‟s
+contention that the bonus was paid to the shareholders in their managerial
+capacity, like in the case of other managers, cannot be questioned merely on
+the basis of a speculation by the revenue that such payment was to avoid tax.
+In such circumstances, the deduction under Section 36(1)(ii) in respect of
+payment of bonus to the two shareholder-directors is allowed. The assessee has
+relied upon a number of judicial pronouncements to support its contention.
+However, we do not consider it necessary to discuss those decisions for ruling
+in its favour. Therefore, this question is answered in favour of the assessee.
+
+44\. In light of the above findings, this Court concludes as follows:
+
+> a. The mere fact that an entity makes high/extremely high profits/losses
+> does not, ipso facto, lead to its exclusion from the list of comparables for
+> the purposes of determination of ALP. In such circumstances, an enquiry
+> under Rule 10B(3) ought to be carried out, to determine as to whether the
+> material differences between the assessee and the said entity can be
+> eliminated. Unless such differences cannot be eliminated, the entity should
+> be included as a comparable.
+
+b. While determining the comparability of transactions, multiple year data can
+only be included in the manner provided in Rule ITA 417/2014 Page 52 10B(4).
+As a general rule, it is not open to the assessee to rely upon previous year‟s
+data.
+
+c. As regards Khandwala Securities and Brescon, the matter is remitted to the
+DRP to carry out the analysis under Rule 10B(3) and determine whether the
+material differences arising out of their exceptionally high profits can be
+eliminated. If not, the said entities cannot be included as comparables. For
+Keynote, firstly, enquiry is to be carried out by the DRP, preceding the
+analysis under Rule 10B(3), as to its functional similarity with the assessee;
+thereafter, the exercise of determining if there are material differences on
+account of exceptionally high profits which are capable of elimination has to
+be carried out. d. The deduction claimed by the assessee under Section
+36(1)(ii) of the Act, in respect of the bonuses paid to its shareholder-
+employees is allowed.
+
+45\. The appeal is accordingly partly allowed, in the above terms. No costs.
+
+S. RAVINDRA BHAT (JUDGE) R.K. GAUBA (JUDGE) APRIL 27, 2015 ITA 417/2014 Page
+53
+

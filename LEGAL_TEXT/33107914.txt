@@ -1,0 +1,825 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Blackrock Services India Pvt. ... vs Acit, Gurgaon on 2 February, 2018
+
+    
+    
+               IN THE INCOME TAX APPELLATE TRIBUNAL
+                     DELHI BENCH "I-1", NEW DELHI
+            BEFORE SHRI R. K. PANDA, ACCOUNTANT MEMBER
+                                 AND
+               MS. SUCHITRA KAMBLE, JUDICIAL MEMBER
+    
+                               ITA No.6408/Del/2012
+                             Assessment Year : 2008-09
+    Blackrock Services India Pvt. Ltd.,               ACIT, Circle- 1(1),
+    (Formerly known as Helix Advisors                 Gurgaon.
+    India Pvt. Ltd.),
+    3rd Floor, Rolta Corporate Towers,          Vs.
+    187, Phase- I, Udyog Vihar,
+    Gurgaon.
+    
+    PAN : AABCH4449Q
+        (Appellant)                                      (Respondent)
+    
+          Assessee by                       :         Shri Ravi Sharma, Adv.
+                                                      Shri Anubhav Rastogi, Adv.
+          Department by                     :         Shri Raman Chopra, CIT-DR
+          Date of hearing                   :         06-11-2017
+          Date of pronouncement             :         02-02-2018
+    
+                                  ORDER
+    
+
+PER R. K. PANDA, AM :
+
+This appeal filed by the assessee is directed against the order dated
+26.10.2012 passed by the Assessing Officer u/s 144C/143(3) of the I.T. Act,
+1961 for the assessment year 2008-09.
+
+2\. Facts of the case, in brief, are that the assessee is a Private Limited
+Company incorporated under the Companies Act, 1956 in June, 2004 and is a
+wholly owned subsidiary of Helix Financial Group LLC. The assessee  2 ITA
+No.6408/Del/2012 company is engaged in the business of providing Information
+Technology enabled back office process outsourcing and related services i.e.
+ITES to its Associated Enterprise (AE), Helix US. The IT enabled back office
+process outsourcing and related services performed by Blackrock India mainly
+include web search, data entry, data management support services etc. The
+assessee filed its return of income on 29.09.2008 declaring total income of
+Rs.2,07,80,346/-. The Assessing Officer made a reference to the TPO for
+determining the arm's length price u/s 92CA(3) in respect of the international
+transaction entered into by the assessee during the financial year 2007-08
+relevant to the impugned assessment year i.e. A.Y. 2008-09. During the TP
+assessment proceedings, the TPO observed that the assessee during the impugned
+assessment year has undertaken the following international transactions with
+its AE as per the report in Form No.3CEB :-
+
+    
+    
+          1)     Provision of IT enabled back office
+                 process outstanding and related
+                 service                                -     Rs.16,80,92,913/-
+          2)     Reimbursement of expenses              -     Rs.1,17,837/-
+    
+    
+    
+
+3\. The TPO observed that as per the TP study report, the assessee undertook a
+detailed functions, assets and risk analysis in accordance with Rule 10B(2)
+and selected itself as the tested party based on its least complex character
+while undertaking the international transactions with AEs. The assessee
+selected  3 ITA No.6408/Del/2012 TNMM as the most appropriate method and
+selected Operating Profit/Total Cost (OP/TC) as the relevant Profit Level
+Indicator (PLI). The assessee took 5 comparables for its TP study and
+determined the OP/TC of those comparables at 11.74%. After considering the
+OP/TC of the assessee at 12.52%, it was argued that the international
+transaction with its AE is at arm's length.
+
+4\. However, the TPO was not satisfied with the explanation given by the
+assessee. He observed that the assessee has selected some of the comparables
+by considering the financial results for the period ending between 01.04.2006
+and 31.06.2008. The earlier year's data was considered wherever the data was
+not available for the relevant financial year 2007-08. Certain other defects
+were also pointed out by the TPO as per page 3 of the order of the TPO.
+Thereafter, the assessee conducted a fresh search and selected six comparables
+with average profit margin @ 7.64% on cost. Since the margin earned by the
+taxpayers was at 12.52% on operating cost, it was argued that the transactions
+with its AE is at arm's length being within +/- 5% range.
+
+5\. However, the TPO was again not satisfied with the arguments advanced by
+the assessee and rejected the filters adopted by the assessee and went for
+additional filters for the selection of comparables. The TPO, thereafter,
+arrived at the set of 20 comparables and determined the arm's length price
+margin at 29.16%, the details of which are as per page 98 of the order of the
+TPO. After  4 ITA No.6408/Del/2012 granting benefit of working capital
+adjustment to the assessee, the TPO reduced the operating margin by 3% and,
+thereafter, made an upward adjustment of Rs.2,12,63,763/- to the total income
+of the assessee, the details of which are given at page 136 of the order of
+the TPO :-
+
+"a. Computation of Arms Length Price:
+
+The arithmetic mean of the Profit Level Indicators is taken as the arms length
+margin. (Please see Annexure E for details of computation of PLI of the
+comparables). Based on this, the arms length price of the IT enabled services
+rendered by you is computed as under :
+
+    
+    
+                  Arithmetic mean PLI                          :      29.16%
+                  Less: Working Capital Adjustment             :      3.00%
+                  Arm's Length Price:                          :      26.16%
+    
+           Operating Cost                                   Rs.150,092,483
+           Arms Length Margin                               26.16% of the Operating Cost
+           Arms Length Price (ALP)                          Rs.189,356,676
+    
+          b.     Price Received vis-à-vis the Arms Length Price:
+    
+
+The price charged by the tax payer to its Associated Enterprises is compared
+to the Arms Length price as under :
+
+Arms Length Price Rs.189,356,676 Price shown in the international transactions
+Rs.168,092,913 Shortfall being adjustment u/s 92CA Rs.21,263,763 The above
+shortfall of Rs.21,263,763 is treated as transfer pricing adjustment u/s
+92CA."
+
+6\. The Assessing Officer, thereafter, framed the draft assessment order
+determining the total income of the assessee at Rs.4,20,44,109/- as against
+returned income of Rs.2,07,80,346/-.
+
+7\. The assessee filed its objections before the DRP, who vide order dated
+03.09.12012 upheld most of the comparables taken by the TPO/Assessing  5 ITA
+No.6408/Del/2012 Officer. However, the DRP directed the TPO to exclude the
+comparable namely Mold-Tek Technologies Ltd. for determination of the arm's
+length price. The DRP also directed the Assessing Officer/TPO for exclusion of
+foreign exchange gains/loss from the calculation of operating
+income/expenditure of the assessee as well as the companies selected by the
+TPO.
+
+8\. Based on the directions of the DRP, the TPO issued a revised order dated
+19.10.2012 re-computing the arm's length price at 22.46% after working capital
+adjustment of 2.88%. The profit margin of comparable as computed by the TPO in
+his revised TP order is as under :-
+
+    
+    
+              S.No.                      Name of the company                         Margin
+                                                                                    (OP/TC)
+               1      Accentia Technologies Ltd.                                     44.68
+               2      Aditya Birla Minacs Worldwide Ltd.                              -3.87
+               3      Asit C Mehta                                                     9.42
+               4      Caliber Point Business Solutions Ltd. (Seg)                    13.46
+               5      Coral Hub Ltd. (Vishal Information Technologies Ltd)           51.84
+               6      Cosmic Global Ltd.                                             24.30
+               7      Crossdomain Solution Pvt. Ltd.                                 26.96
+               8      Datamatics Financial Services Ltd. (Seg)                       34.87
+               9      e4e Healthcare Business Solutions P. Ltd. (earlier known as    18.70
+                      Nittany Outsourcing Services Ltd.)
+               10     Eclerx Services Ltd.                                            59.39
+               11     Genesys International Corpn. Ltd.                               48.15
+               12     H C L Comnet Systems & Services Ltd. (Seg)                      32.97
+               13     I C R A Online Ltd. (Seg)                                       11.22
+               14     Infosys B P O Ltd.                                              19.66
+               15     I-service India Private Ltd.                                    10.92
+               16     Spanco Ltd. (Seg)                                                8.94
+               17     Acropetal Technologies Ltd. (Seg)                              35.30%
+               18     Wipro Ltd. (BPO Division)                                      30.23%
+               19     R System International Ltd. (Seg)                              4.30%
+                                                    6
+                                                                            ITA No.6408/Del/2012
+    
+    
+    
+              20     Mold Tech Technologies                                             Deleted by
+                                                                                          DRP
+                     Average                                                             25.34%
+                     Less: Working Capital Adjustment                                    2.88%
+                     Final Comparable Margin                                             22.46%
+    
+    
+    
+    
+
+9\. Accordingly, the TPO made an upward adjustment of Rs.1,48,66,764/- as
+against earlier proposed addition of Rs.2,12,63,763/-.
+
+10\. Aggrieved with such order of the Assessing Officer, the assessee is in
+appeal before the Tribunal by raising the following grounds of appeal :-
+
+> "1. The assessment order passed by the Learned Assessing Officer ('Ld. AO')
+> pursuant to the directions of Learned Dispute Resolution Panel ('Ld. DRP')
+> based on the facts and in the circumstance of the case is bad in law and
+> void ab-initio.
+
+> 2\. The reference made by the Ld. AO suffers from jurisdictional error as
+> the Ld. AO has not recorded any reasons in the assessment order based on
+> which he reached the conclusion that it was 'necessary or expedient' to
+> refer the matter to the Ld. TPO for computation of the Arm's Length Price
+> ('ALP'), as is required under section 92CA(1) of the Act.
+
+> 3\. The Ld. DRP and the Ld. AO (following the directions of the Ld. DRP),
+> erred both on facts and in law in confirming the addition to the extent of
+> Rs. 1,48,66,764 holding that the international transactions pertaining to
+> provision of routine IT enabled services do not satisfy the arm's length
+> principle envisaged under the Act and in doing so have grossly erred by:
+
+> 3.1 not finding any merit in the objections of the Appellant that none of
+> the conditions set out in section 92C(3) of the Act are satisfied in the
+> present case;
+
+> 3.2 rejecting the Transfer Pricing ('TP') documentation maintained by the
+> Appellant under section 92D of the Act and Rule 10D of the Rules and
+> disregarding the ALP as determined by the Appellant in the TP documentation;
+
+> 3.3 disregarding the fact that the Appellant is a captive IT enabled service
+> provider which does not bear substantial risks associated with its functions
+> and therefore cannot be compared to full fledged entrepreneur service
+> providers;
+
+> 3-4 disregarding multiple year/prior years' data used by the Appellant in
+> the TP documentation and holding that current year (i.e. Financial Year
+> ('FY') 2007-08) data for comparable companies should be used  7 ITA
+> No.6408/Del/2012 despite the fact that the same was not necessarily
+> available to the Appellant at the time of preparing its TP documentation;
+
+> 3.5 rejecting comparability analysis undertaken by the Appellant in the TP
+> documentation/fresh search and conducting a fresh comparability analysis
+> based on application of the following additional/revised filters in
+> determining the ALP:
+
+> (i) exclusion of companies whose data for FY 2007-08 was not available;
+
+> (ii) exclusion of companies with related party transactions greater than 25%
+> of their sales;
+
+> (iii) exclusion of companies with export sales that are less than 25% of
+> their total revenue;
+
+> (iv) exclusion of companies with diminishing revenues/persistent losses for
+> last three years up to and including FY 2007-08;
+
+> (v) exclusion of companies having different financial year ending (i.e. not
+> March 31, 2008);
+
+> and rejecting, in particular, the following filters applied by the Appellant
+> in its fresh search:
+
+> (i) companies having other operating income (i.e. income other than
+> manufacturing and trading income) to sales greater than 50% were accepted;
+
+> (ii) companies having research & development costs to sales less than 3%
+> were accepted;
+
+> (iii) companies with net worth less than zero were rejected;
+
+> (iv) companies having advertising, marketing and distribution costs to sales
+> less than 3% were accepted.
+
+3.6 including high-profit making companies with different scale of operations
+and high turnover in the final comparables' set for benchmarking a captive
+service provider such as the Appellant (disregarding judicial pronouncements
+on the issue), thus demonstrating an intention to arrive at a pre-formulated
+opinion without complete and adequate application of mind with the single-
+minded intention of making an addition to the returned income of the
+Appellant; 3.7 including ceratin companies that are not comparable to the
+Appellant in terms of functions performed, assets employed and risks assumed;
+3.8 including certain companies in the comparables' set that had achieved
+supernormal growth as a result of extraordinary circumstances during the year,
+thereby incorrectly comparing such companies to the Appellant which operates
+as a captive services provider and has stable growth under normal
+circumstances;  8
+
+> ITA No.6408/Del/2012 3.9 resorting to arbitrary rejection of low-profit/
+> loss making companies based on erroneous and inconsistent reasons;
+
+> 3.10 excluding certain companies on arbitrary/ frivolous grounds even though
+> they are comparable to the Appellant in terms of functions performed, assets
+> employed and risks assumed;
+
+> 3.11 ignoring the business/ commercial reality that since the Appellant is
+> remunerated on an a cost plus basis, (i.e. it is compensated for all its
+> operating costs plus a pre-agreed mark-up) the Appellant undertakes minimal
+> business risks as against comparable companies that are full-fledged risk
+> taking entrepreneurs, and by not allowing a risk adjustment to the Appellant
+> on account of this fact; 3.12 collecting selective information of the
+> companies by exercising power granted to him under section 133(6) of the Act
+> that was not available to the Appellant in the public domain and relying on
+> the same for comparability purposes (and to the extent of completely
+> ignoring reliable data available in public domain/ annual reports in
+> numerous cases); 3.13 exclusion of certain cost such as provision for
+> doubtful debts from the cost base in computation of mark-up of comparable
+> companies.
+
+> 4\. The Ld. AO has grossly erred on facts and in law by initiating penalty
+> under section 271(1)(c) of the Act mechanically and without recording any
+> satisfaction for its initiation.
+
+> 5\. The Ld. AO has grossly erred on facts and in law by proposing to compute
+> interest under section 234A, 234B, 234C and 234D of the Act mechanically and
+> without recording any satisfactory reasons for the same.
+
+> 6\. The Ld. AO has grossly erred on facts and in law by disregarding
+> judicial pronouncement in India in undertaking the TP adjustment. That the
+> above grounds of appeal are without prejudicial to each other. The Appellant
+> craves leave to alter, amend or withdraw all or any grounds herein or add
+> any further grounds as may be considered necessary either before or during
+> the hearing."
+
+11\. Although a number of grounds have been raised by the assessee in the
+grounds of appeal. Ld. counsel for the assessee confined his arguments to
+grounds of appeal no.3.6 to 3.9 wherein the assessee has challenged the
+selection of the following comparables :-
+
+9
+
+> ITA No.6408/Del/2012 S.No. Name of the company 1 Accentia Technologies Ltd.
+    
+    
+             2     Coral Hub Ltd. (Vishal Information Technologies Ltd)
+             3     Datamatics Financial Services Ltd. (Seg)
+             4     Eclerx Services Ltd.
+             5     Genesys International Corpn. Ltd.
+             6     H C L Comnet Systems & Services Ltd. (Seg)
+             7     Acropetal Technologies Ltd. (Seg)
+    
+    
+    
+    
+
+> 12\. So far as inclusion of Accentia Technologies Limited is concerned, ld.
+
+counsel for the assessee submitted that the said company is functionally
+different from that of the assessee company. He submitted that Accentia was
+engaged in providing diversified services i.e. software development and IT
+enabled services. The company's services and solutions are focused into two
+areas i.e. Healthcare Receivables Cycle Management (HRCM) services, Training
+Programs and development of software products. This company is engaged in
+Transcription services which is considered as high end services (KPO). He
+submitted that certain extraordinary circumstances occurred during the year.
+Accentia has made major acquisitions during the year as well as it has
+amalgamated its units with itself thereby making its profitability skewed. He
+submitted that despite various submissions made before the DRP, there is no
+specific direction by them. Referring to the following decisions he submitted
+that Accentia Technologies Ltd. has been held as not a good comparable  10 ITA
+No.6408/Del/2012 because of different functions and extraordinary
+circumstances that company occurred during the year :-
+
+> a. BA Continuum India (P.) Ltd. vs. Addl.CIT, (2017) 79 taxmann.com 85.
+
+> b. IT Cube Solutions (P.) Ltd. vs. ITO, (2016) 76 taxmann.com 187.
+
+> c. Avaya India (P.) Ltd. vs. DCIT, (2016) 71 taxmann.com 76.
+
+> d. Flagstone Underwriting Support Services India (P.) Ltd. (2014) 52
+> taxmann.com
+
+> 408\.
+
+13\. So far as inclusion of Coral Hub Limited (Formerly known as Vishal
+Information Technologies Limited) is concerned, he submitted that the above
+company is also functionally different from that of the assessee company. He
+submitted that Coral Hub Limited is into data digitization, conversion and
+publishing whereas the assessee's activity is with regard to provision of
+routine outsourced business processes like finance and accounting,
+collections, insurance, customer fulfillment, data modeling and analytics
+support, etc. which is low-end in nature. Accordingly, Coral Hub Limited
+cannot be included as it is not functionally comparable to the assessee's
+business. He submitted that a perusal of the annual report of the company
+shows that the company has significant payment towards vendors. The
+intermediary functions of Coral Hub Limited can only be compared to that of a
+distributor which takes title to service/ product for resale to the customer.
+On the contrary the assessee is a  11 ITA No.6408/Del/2012 provider of back
+office services on its own. Coral Hub Limited does not appear to be a service
+provider at all but is more of distributor and hence, it is not comparable to
+the assessee. For the above proposition, he relied on the following decisions
+:-
+
+> a. BA Continuum India (P.) Ltd. vs. Addl.CIT, (2017) 79 taxmann.com 85.
+
+> b. IT Cube Solutions (P.) Ltd. vs. ITO, (2016) 76 taxmann.com 187.
+
+> c. Avaya India (P.) Ltd. vs. DCIT, (2016) 71 taxmann.com 76.
+
+14\. So far as Datamatics Financial Services Limited is concerned, he
+submitted that the said company is functionally different from that of the
+assessee company, since Datamatics is acting as Registrar and share transfer
+agent as well as providing ITES. Referring to page 150, 155 of the Annual
+Report Compendium, he submitted there is no segment information available,
+therefore, the revenues from both the streams are not separable. Relying on a
+number of decisions, he submitted that when the segmental details are not
+available, the company cannot be selected as a comparable. He accordingly
+submitted that the Datamatics Financial Services Limited is included from the
+list of comparable.
+
+15\. So far as E Clerx Services Limited is concerned, he submitted that since
+this company is engaged in providing data analytics and data process solutions
+12 ITA No.6408/Del/2012 to the customers, therefore, it is functionally
+different from that of the assessee company which is engaged in outsourced
+business processes like technical support services, account management, etc.
+For the above proposition, he referred to page 159, 163, 170, 201 of Annual
+Report Compendium. Relying on the following decisions, he submitted that the E
+Clerx Services Limited has been held to be as not a good comparable :-
+
+> a. BA Continuum India (P.) Ltd. vs. Addl.CIT, (2017) 79 taxmann.com 85.
+
+> b. Avaya India (P.) Ltd. vs. DCIT, (2016) 71 taxmann.com 76.
+
+> c. Flagstone Underwriting Support Services India (P.) Ltd. (2014) 52
+> taxmann.com
+
+> 408\. d. HSBC Electronic Data Processing India (P.) Ltd. vs. ACIT, (2015) 53
+> taxmann.com 43.
+
+> e. Goldman Sachs Services (P.) Ltd. vs. DCIT, (2015) 60 taxmann.com 310.
+
+16\. So far as Genesys International Corporation Limited is concerned, he
+submitted that the above comparable is functionally different from the
+functions performed by the assessee under outsourced business processes like
+finance and accounting, collections, insurance, customer fulfillment, data
+modeling and analytics support, managed IT services, etc. He submitted that
+the GIS services being provided by Genesys is more value added and high end in
+nature than the outsourced service functions being performed by the assessee.
+Relying on the  13 ITA No.6408/Del/2012 following decisions, he submitted that
+Genesys International Corporation Limited cannot be considered as a comparable
+:-
+
+> a. BA Continuum India (P.) Ltd. vs. Addl.CIT, (2017) 79 taxmann.com 85.
+
+> b. Flagstone Underwriting Support Services India (P.) Ltd. (2014) 52
+> taxmann.com
+
+> 408\. c. HSBC Electronic Data Processing India (P.) Ltd. vs. ACIT, (2015) 53
+> taxmann.com
+
+> 43\.
+
+17\. So far as HCL Comnet Systems and Services Limited is concerned, he
+submitted that the above company is functionally different from that of the
+assessee company. Referring to the Annual Report of the company, he submitted
+that the relevant segment of the above company is into data centre management,
+end user computing, managed security services, networking services and tools
+and process consulting services etc. Referring to page 28 of the TPO's order,
+he submitted that the TPO himself has rejected companies having financial year
+ending other than 31st March, 2008. Since the financial year of HCL ends on
+30th June, 2008, therefore, it fails the TPO's own filter of different
+financial year. Relying on various decisions, he submitted that the above
+company has been excluded from the list of comparables on account of its
+functional difference as it is engaged in the business of providing
+telecommunication and remote infrastructure management services.  14
+
+ITA No.6408/Del/2012
+
+18\. So far as Acropetal Technologies Limited (Engineering Design Service
+Segment) is concerned, he submitted that this company is engaged in
+development of software products whereas the assessee is doing ITES services
+which cannot be compared with the software development companies. He further
+submitted that as per information obtained u/s 133(6) by the Assessing
+Officer, it has been replied by the said company that they provided
+Engineering Design Services. Referring to Annual Report Compendium of
+Acropetal Technologies Limited, copy of which is placed at page 104, 106, 107
+of the Paper Book, he submitted that the ITES activity of the assessee are not
+comparable to engineering services. Referring to the decision of the Hyderabad
+Bench of the Tribunal in the case of HSBC Electronic Data Processing India
+(P.) Ltd. (supra), he submitted that this company was excluded from the list
+of comparable on account of differentiation of high end services being
+provided by this company whereas the assessee is into low end service. He
+accordingly submitted that the above company be excluded from the list of
+comparables finally retained by the Assessing Officer.
+
+19\. Ld. counsel for the assessee further drew the attention of the Bench to
+certain factual/computation error while computing the arm's length margin. He
+submitted that while computing the operating margin of Datamatics Financial
+Services Ltd. (BPO division) the ld. TPO did not follow the directions issued
+by  15 ITA No.6408/Del/2012 the DRP correctly and included foreign exchange
+gain. Referring to the direction of the DRP at para 3.21 at page 26 of the
+appeal set (page 13 of the DRP order), he drew the attention of the Bench to
+the findings of the DRP and submitted that the TPO included foreign exchange
+gain amounting to Rs.13,28,776/- and determined the profit margin of the
+company at 34.87% as against correct profit margin at 29.11%. He submitted
+that since there is an error on the part of the TPO in not following the
+direction of the DRP, he may be directed to make correct computation of OP/TC
+at 29.11% as against 34.87% determined by him.
+
+20\. Ld. DR on the other hand strongly relied on the order of the TPO/DRP. He
+submitted that since it is not possible to find out identical comparables,
+therefore, the TPO has selected comparables which are more or less matching
+with or very near to the activities carried out by the assessee company. He
+submitted that the DRP after considering the various submissions made by the
+assessee had retained these comparables and, therefore, no interference is
+called for of the comparables retained by the DRP. He accordingly submitted
+that the order of the DRP/Assessing Officer/TPO be upheld and the grounds
+raised by the assessee should be dismissed.
+
+21\. So far as the submissions of the ld. counsel for the assessee that the
+TPO has not followed the direction of the DRP as per para 3.21 of the order of
+the  16 ITA No.6408/Del/2012 DRP is concerned, he submitted that the DRP had
+directed the TPO to keep the forex component out of the calculation of PLI in
+both the case of the taxpayer and comparables. Therefore, he has no objection
+if this issue is restored to the file of the TPO for making suitable
+calculation.
+
+22\. We have considered the rival arguments made by both the sides, perused
+the orders of the Assessing Officer/TPO/DRP and the Paper Book filed on behalf
+of the assessee. We have also considered the various decisions cited before
+us. As mentioned earlier since the ld. counsel for the assessee confined his
+arguments to certain comparables only apart from the computation error of
+operating margin of Datamatics, therefore, we are straightway dealing with the
+same only without going into the other grounds raised by the assessee in the
+grounds of appeal which according to us are mere academic in nature.
+
+23\. So far as exclusion/inclusion of Accentia Technologies Limited is
+concerned, we find from the Annual Report Compendium that the company in its
+annual report at page 29 has mentioned about the acquisition of Thunga
+Software Pvt. Ltd., acquired GSR Physician's Billing Service, acquired GSR
+systems, a software company specializing in HRCM based in Florida, USA,
+acquired Denmed Inc., a medical transcription company based in salem, Oregon,
+USA. Further, this company is engaged in providing diversified  17 ITA
+No.6408/Del/2012 services. This company is engaged in transcription services
+which is considered as a high end service (KPO).
+
+24\. We find the Hyderabad Bench of the Tribunal in the case of BA Continuum
+India (P.) Ltd. (supra) has excluded Accentia Technologies Limited on account
+of extraordinary events that took place in this company. The Pune Bench of the
+Tribunal in the case of IT Cube Solutions (P.) Ltd. (supra) has also excluded
+Accentia Technologies Limited from the list of comparables on account of
+extraordinary events that have taken place. Similar view has been taken by the
+various Bench of the Tribunal. Since it is an admitted fact that extraordinary
+events have taken place during the year in case of Accentia Technologies
+Limited, therefore, we are of the considered opinion that this company cannot
+be held as a comparable with that of the assessee company on account of
+different functions as well as extraordinary events such as acquisitions that
+have taken place. We, therefore, direct the TPO/Assessing Officer to exclude
+this company from the list of comparables.
+
+25\. So far as Coral Hub Limited is concerned, we find from the Annual Report
+Compendium of the above company, copy of which is placed at page 354 to 374 of
+the Paper Book that this company is into data digitization, conversion and
+publishing whereas the activities of the assessee company is with regard to
+the provision of routine outsourced business processes like  18 ITA
+No.6408/Del/2012 finance and accounting, collection, insurance, customer
+fulfillment, data modeling and analytics support, etc., which is low-end in
+nature. Further, we observe from page 84 of the Annual Report (page 336 of the
+Annual Report Compendium) that this company has made significant payment
+towards vendors. Thus, intermediary functions of this company can only be
+compared to that of a distributor which takes title to service/ products for
+resale to the customers. However, the assessee company is a provider of back
+office services on its own. We, therefore, find merit in the argument of the
+ld. counsel for the assessee that this company should be excluded from the
+list of comparables.
+
+26\. We find the Hyderabad Bench of the Tribunal in the case of BA Continuum
+India (P.) Ltd. (supra) has excluded this company from the list of comparables
+by observing as under :-
+
+> "11.3. We have considered the rival contentions and perused the orders
+> relied on. As far as this comparable is concerned, the same has been decided
+> by the Co-ordinate Bench of Delhi in the case of United Health Group
+> Information Services Pvt. Ltd. Vs. ACIT [ITA No.6312/Del/2012-AY 2008-09]
+> dt. 28-08-2014, wherein the Co-ordinate Bench held as under:
+
+> "Vishal Informatics 12.1. The TPO included this company in the list of
+> comparables by noticing that it was engaged in providing BPO services. The
+> assessee failed to convince him and the DRP that it was incomparable.
+
+> 12.2. Having heard the rival submissions and perused the relevant material
+> on record, we find from the Annual report of this company that it is mainly
+> engaged in e-publishing business. It has more than 10,000 classic books to
+> its credit which are also converted into large font titles for visually
+> challenged. Apart from e-publishing, this company is also engaged in
+> Documents scanning & Indexing. It can be seen from the financial results of
+> this company that both the segments viz., e- publishing and Documents
+> scanning etc. have been  19 ITA No.6408/Del/2012 combined and there are no
+> separate financial results in respect of Documents scanning work, which may
+> be comparable with the assessee to some extent. As the assessee is not
+> engaged in any e-publishing business and the financials given by this
+> company are on consolidated basis, we direct to exclude this company from
+> the list of comparables. The assessee succeeds".
+
+> 11.4. Respectfully following the decision of the Co-ordinate Bench, we
+> direct the AO/TPO to exclude Coral Hub Limited (Formerly known as Vishal
+> Information Technologies Limited) from the list of comparables."
+
+27\. We find the Pune Bench of the Tribunal in the case of IT Cube Solutions
+(P.) Ltd. (supra) has excluded Coral Hub Limited from the list of comparables
+on the ground that the Coral's work is substantially outsourced and thus
+business module has acquired a different character on the touchstone of FAR
+analysis. The various other decisions relied on by the ld. counsel for the
+assessee also support its case. In view of above and considering the fact that
+this company is functionally different from that of the assessee company and
+it has significant outsourcing of work, we direct exclusion of Coral Hub
+Limited from the list of comparables.
+
+28\. So far as Datamatics Financial Services Limited is concerned, we find
+this company is acting as Registrar and share transfer agent as well as ITES.
+There is no segmental information available in the audited accounts.
+Therefore, the revenues from both the streams are not separable. It has been
+held in various decisions that when segmental details are not available, the
+company cannot be accepted as a comparable. Since admittedly in the instant
+case no  20 ITA No.6408/Del/2012 segmental details are available, therefore,
+we direct the Assessing Officer/TPO to exclude Datamatics Financial Services
+Limited from the list of comparables.
+
+29\. So far as E Clerx Services Limited is concerned, we find this company is
+engaged in providing data analytics and data process solutions to the
+customers which in our opinion are functionally different from the functions
+performed by the assessee under outsourced business processes like technical
+support services, account management, etc.. We find the Delhi Bench of the
+Tribunal in the case of Avaya India (P.) Ltd. (supra) following the decision
+of the Hon'ble Delhi High Court in the case of Rampgreen Solutions Pvt. Ltd.
+vs. CIT in ITA No.102/2015 order dated 10.08.2015 has held that E Clerx
+Services Limited and Coral Hub Limited (Vishal Information Technologies
+Limited) being high-end service providers cannot be compared with low-end
+service provider. Similar view has also been taken by the Hyderabad Bench of
+the Tribunal in the case of BA Continuum India (P.) Ltd. (supra) on the ground
+that this company is classified as high-end KPO and was having supernormal
+profit. The Bangalore Bench of the Tribunal in the case of Goldman Sachs
+Services (P.) Ltd. (supra) has also excluded this company from the list of
+comparables on account of the said company being mainly engaged in providing
+high-end KPO services involving specialized expertise in the field and the
+same cannot be compared with company mainly engaged in providing low-end
+services to its group  21 ITA No.6408/Del/2012 concerns. Since the assessee in
+the instant case is a low-end service provider, therefore, following the
+decision of the Delhi Bench of the Tribunal in the case of Avaya India (P.)
+Ltd. (supra) and the various decisions citied (supra), we hold that the E
+Clerx Services Limited cannot be held as comparable with that of the assessee
+company. The various other decisions relied on by the ld. counsel for the
+assessee in the synopsis also support its case. We, therefore, direct the
+exclusion of E Clerx Services Limited from the list of comparables.
+
+30\. So far as Genesys International Corporation Limited is concerned, we find
+this company also is functionally different from that of the functions of the
+assessee company. From the annual report of the company, we find it is engaged
+in the business of providing Geographical Information Services comprising
+Photogrammetry, Remote Sensing, Cartography, Data Conversion services etc..
+Further, as per the decision of the Hyderabad Bench of the Tribunal in the
+case of BA Continuum India (P.) Ltd. (supra), we find there was abnormal
+growth of around 605.43% for its Geospatial services for the financial year
+2007-08. We find after considering the arguments advanced by the assessee, the
+Hyderabad Bench of the Tribunal excluded the Genesys International Corporation
+Limited from the list of comparables by observing as under :-
+
+22
+
+> ITA No.6408/Del/2012 "14.2. We have considered the rival contentions and
+> perused the orders relied on. As far as this comparable is concerned, the
+> same has been decided by the Co-ordinate Bench in the case of Hyundai Motors
+> India Engineering P. Ltd., Vs. ITO in ITA No. 1850/Hyd/2012 (AY. 2008-09)
+> dt. 21-02-2014, wherein the Co- ordinate Bench held as under:
+
+> "V. GENESYS INTERNATIONAL CORPORATION LTD.
+
+> This company is listed at Sl. No.11 in the list of comparable companies
+> chosen by the TPO. As far as this company is concerned, the stand of the
+> assessee has been that this company is functionally not comparable and that
+> it has a different employee skill set and that this company performs R&D
+> services and also owns intangibles. This company is a geospatial services
+> content provider specialising in land based technologies. From the notes to
+> accounts of this company, it is seen that this company is engaged in
+> providing geographical information services comprising of photogrammetry,
+> remote sensing cartography, data conversion related computed based services
+> and other related services. Further the business of this company requires
+> skilled manpower and scientists, civil engineers, etc. Besides the above,
+> this company also carries out R&D services and own intangibles. The
+> aforesaid facts, in our view, will take this company out of the list of
+> comparables. Similar view was also taken in the case of Symphony Marketing
+> Solutions India(p) Ltd (supra) by the Bangalore Bench. In view of the above,
+> we are of the view that this company cannot be regarded as a comparable and
+> deserves to be excluded from the list of comparables".
+
+> 14.3. Respectfully following the decision of the Co-ordinate Bench, we
+> direct the AO/TPO to exclude Genesys International Corporation Ltd., from
+> the list of comparables."
+
+31\. Similar view has been taken by the various other decisions relied on by
+the ld. counsel for the assessee in the synopsis. We, therefore, direct the
+TPO/Assessing Officer to exclude Genesys International Corporation Limited
+from the list of comparable on account of functionally different.
+
+32\. So far as HCL Comnet Systems and Services Limited is concerned, we find
+this company is into data centre management, end user computing,  23 ITA
+No.6408/Del/2012 managed security services, networking services and tools and
+process consulting services which in our opinion is functionally different
+from that of the assessee company. We find the Hyderabad Bench of the Tribunal
+in the case of HSBC Electronic Data Processing India (P.) Ltd. (supra) has
+restored the issue to the file of the TPO with the following direction :-
+
+> "14.6.2. We have heard rival submissions of the parties and perused the
+> material on record. It is not disputed that these companies are having huge
+> turnovers like that of assessee during the year. Therefore turnover filter
+> as considered in other cases does not apply here. However as submitted the
+> functional profile of companies as such is different. But, if the BPO
+> division is similar to assessee the same can be considered after proper FAR
+> analysis. Therefore we are of the opinion that TPO/AO can reconsider the
+> comparables after giving due opportunity to assess and fairly analyzing its
+> objections. In case the data (segmental or unit) is incomplete or functional
+> profile etc are different AO/TPO should exclude the same. With these
+> observations the issue of selection of these companies as comparables is
+> restored to TPO/AO to do the needful."
+
+33\. We, therefore, restore this issue to the file of the TPO with the
+direction to re-adjudicate the issue in the light of the direction of the
+Tribunal cited (supra). Needless to say, the TPO shall given due opportunity
+of being heard to the assessee as per fact and law.
+
+34\. So far as Acropetal Technologies Limited is concerned, we find this
+company is engaged in development of software products, whereas assessee is
+doing ITES services which in our opinion cannot be compared with software
+development company. From the notes of account, copy of which is placed at  24
+ITA No.6408/Del/2012 page 104 of the Paper Book, we find this company is
+engaged in development of computer software. We find the Hyderabad Bench of
+the Tribunal in the case of HSBC Electronic Data Processing India (P.) Ltd.
+(supra) has excluded this company from the list of comparables by observing as
+under :-
+
+> "14.2.1 This company is listed at Sl.No.2 of the comparables chosen by the
+> TPO. As far as this company is concerned, the objection of the assessee is
+> that this company is not functionally comparable. The assessee is a BPO
+> company that provides CAD/ CAE services. As far as Acropetal Technologies
+> Ltd. is concerned, this company does the business of export of software
+> services. It is also seen from the segmental revenue of this company (Note
+> 15 to the notes on accounts to Annual Report for 07-08) that it derives
+> income from engineering design services and software development services.
+> It is also pertinent to point out that before the TPO, the assessee raised
+> an objection that this company performs different functions and mainly
+> engaged in the area of software development services and engineering design
+> services. The TPO in his order has observed that the services rendered by
+> this company fall in the definition of ITES.
+
+> 14.2.2 We have considered the submissions of the learned counsel for the
+> Assessee. Ld Counsel submission was that this company was excluded in the
+> case of Symphony Marketing Solutions India(p) Ltd (supra) by the Bangalore
+> Bench, so the same require exclusion. In the above case it was considered
+> like this:
+
+> 13\. We have considered the submissions of the learned counsel for the
+> Assessee. On a perusal of the Note No.15 of notes to accounts which gives
+> segmental revenue of this company, it is clear that the major source of
+> income for this company is from providing Engineering Design Service and
+> Information Technology Services. The functions performed by the Engineering
+> Design Services segment of the company cannot be considered as comparable to
+> the ITES/BPO functions performed by the Assessee. The performance of
+> Engineering Design Services is regarded as providing high end services among
+> the BPO which requires high skill whereas the services performed by the
+> Assessee are routine low end ITES functions. We therefore hold that this
+> company could not have been selected as a comparable, especially when it
+> performs engineering design services which only a Knowledge Process
+> Outsourcing [KPO] would do and not a Business Process Outsourcing [BPO].
+
+> As can be seen above, said company was excluded on the differentiation of
+> high end services being provided by this company. Assessee does not provide
+> high end services as submitted. Therefore we are of the opinion that
+> functions of assessee are not similar to the above Company. We direct the
+> TPO/AO to exclude this company."
+
+25
+
+> ITA No.6408/Del/2012
+
+> 35\. In view of the decision of Hyderabad Bench of the Tribunal which, in
+> turn, has followed the Bangalore Bench of the Tribunal and in absence of any
+> contrary material brought to our notice, we hold that Acropetal Technologies
+> Limited should be excluded from the list of comparables.
+
+36\. So far as factual/computation error while computing the arm's length
+margin in the case of Datamatics Financial Services Ltd. is concerned, we find
+the DRP at para 3.21 of the order has directed the TPO to keep the forex
+component out of the calculation of PLI in both the cases of the taxpayer and
+comparables. Ld. counsel for the assessee at the time of hearing has filed the
+following chart for the proposition that the correct computation of OP/TC is
+29.11% as against 34.87% computed by the TPO :-
+
+    
+    
+                      Particulars              Amount [As per revised       Correct
+                                                 order of TPO dated      Computation (Rs.)
+                                               October 19, 2012] (Rs.)
+           Segmental Sales                    60,596,243                 60,596,243
+           Add: Foreign Exchange gain         1,328,776
+           Operating Income                   61,925,019                 60,596,243
+           Total Expenditure                  129,539,089                129,539,089
+           Total Cost ('TC') allocated to BPO 45,915,837                 46,935,045
+           division
+           Operating Profit (OP)              16,009,182                 13,661,198
+           OP/TC                              34.87%                     29.11%
+    
+    
+    
+    
+
+37\. We, therefore, restore this issue to the file of the TPO/Assessing
+Officer with direction to verify the above and adopt the correct OP/TC in case
+of  26 ITA No.6408/Del/2012 Datamatics Financial Services (BPO Division). The
+grounds raised by the assessee are accordingly allowed in the terms indicated
+above.
+
+38\. Since, we have confined our decision to only grounds of appeal no.3.6 to
+3.9, therefore, the other grounds which were not argued by the ld. counsel for
+the assessee are dismissed as being not pressed.
+
+39\. In the result, the appeal filed by the assessee is partly allowed for
+statistical purposes.
+
+Order pronounced in the open Court on this 02nd February, 2018.
+
+    
+    
+                   Sd/-                                         Sd/-
+           (SUCHITRA KAMBLE)                               (R. K. PANDA)
+             JUDICIAL MEMBER                           ACCOUNTANT MEMBER
+    Dated: 02-02-2018.
+    Sujeet
+    Copy of order to: -
+           1)       The   Appellant
+           2)       The   Respondent
+           3)       The   DRP
+           4)       The   DR, I.T.A.T., New Delhi
+                                                                 By Order
+    //True Copy//
+                                                            Assistant Registrar
+                                                            ITAT, New Delhi
+     
+

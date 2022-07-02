@@ -1,0 +1,1542 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Bharat Sanchar Nigam Ltd., New ... vs Addl. Cit, New Delhi on 25 October, 2017
+
+    
+    
+                      In the Income-Tax Appellate Tribunal,
+                            Delhi Bench 'A', New Delhi
+    
+                Before : Shri Amit Shukla, Judicial Member And
+                         Shri L.P. Sahu, Accountant Member
+    
+                               ITA No. 920/Del./2017
+                              Assessment Year: 2009-10
+    
+         Bharat Sanchar Nigam Ltd.,                vs. Addl. CIT, Range -4,
+         Taxation Sector, 1st floor, Bharat            New Delhi.
+         Sanchar Bhawan, Janpath,
+          New Delhi. (PAN- AABCB5576G)
+         (Appellant)                                    (Respondent)
+    
+                Appellant by         Sh. Tarandeep Singh, C.A.
+                Respondent by        Smt. Aparna Karan, CIT/DR
+    
+                      Date of Hearing                    16.08.2017
+                      Date of Pronouncement              25.10.2017
+    
+    
+                                           ORDER
+    
+
+Per L.P. Sahu, A.M.:
+
+This is an appeal filed by the assessee against the order of ld. CIT(A)-35,
+New Delhi dated 08.11.2016 for the assessment year 2009-10 on the following
+grounds :-
+
+> "1. That on the facts and circumstances of the case and in law, the impugned
+> order passed by the learned Commissioner of Income Tax (Appeals) - 35, New
+> Delhi ['learned CIT(A)'] under section 250 of the Income tax Act, 1961
+> ('Act') is a vitiated order having been passed in violation of principals of
+> natural justice and is otherwise arbitrary and is thus bad in law and void
+> ab-initio.
+
+> Validity of re-opening of the assessment proceedings :-
+
+> 2\. That on the facts and circumstances of the case and in law, the learned
+> CIT(A) has erred in confirming the validity of the re-
+
+ITA No. 920/Del./2017 2
+
+> assessment proceedings under section 147 of the Act initiated by the learned
+> Additional Commissioner of Income-tax, Range-4, New Delhi ('learned AO')
+> without appreciating the facts of the case of the Appellant.
+
+3\. That on the facts and circumstances of the case and in law, the learned
+CIT(A) has, without appreciating the facts of the case erred in alleging that
+there is omission and failure on part of the Appellant to disclose fully and
+truly all the material facts leading to escapement of income chargeable to
+tax.
+
+Addition on account of discount extended to prepaid distributors
+
+4\. That on the facts and circumstances of the case and in law, the learned
+CIT(A) has erred in confirming the disallowance of Rs.631,71,72,727/- made by
+the learned AO under the provisions of Section 40(a)(ia) of the Act by
+alleging that the relationship between the Appellant and its distributors /
+franchises is that of principal - agent and accordingly, the discounts
+extended by the Appellant to its distributors / franchises are in the nature
+of 'commission', liable for deduction of taxes under Section 194H of the Act.
+
+5\. Without prejudice to the Ground 4 above, on the facts and circumstances of
+the case and in law, the learned CIT(A) has erred in not appreciating the fact
+that certain portion of the prepaid sales of the Appellant are effected
+through its own 'Customer Service Centres' and therefore, the discount offered
+on the portion of such sales cannot be treated as 'commission' liable for
+deduction of tax at source under the provisions of Section 194H of the Act.
+
+6\. Without prejudice to the Grounds 4 to 5 above, the learned CIT(A) has
+erred in confirming the disallowance, without appreciating the fact that all
+distributors / franchisees are Indian residents and accordingly, no
+disallowance under Section 40(a)(ia) of the Act can be made, where conditions
+prescribed under second proviso to Section 40(a)(ia) of the Act inserted vide
+Finance Act, 2012 (curative in nature are fulfilled.
+
+Addition on account of IUC charges paid to foreign / non-resident telecom
+operators
+
+7\. That on the facts and circumstances of the case and in law, the learned
+CIT(A) has erred in confirming the disallowance of Rs.57,78,92,080/-
+
+ITA No. 920/Del./2017 3
+
+> made by the learned AO under the provisions of Section 40(a)(ia) of the Act
+> on account of alleged non-deduction of TDS on IUC / international roaming
+> charges payable to the Non-resident Telecom Operators ('NTOs') by treating
+> the same to be in the nature of 'royalty under the provisions of Section
+> 9(i)(vi) of the Act and the applicable Double Taxation Avoidance Agreements
+> ('DTAA').
+
+> 8\. That on the facts and circumstances of the case and in law, the learned
+> CIT(A) has erred in confirming the aforesaid disallowance by alternatively
+> alleging the same to be in the nature of 'fees for technical services' under
+> the provisions of Section 9(i)(vii) of the Act and the applicable DTAAs.
+
+> 9\. That on the facts and circumstances of the case and in law, the learned
+> CIT(A) has erred in confirming the aforesaid disallowance without
+> appreciating that the provisions of Section 40(a)(ia) are applicable only in
+> case of payments made to residents.
+
+> Penalty proceedings under section 271(1)(c) of the Act
+
+> 10\. That on the facts and circumstances of the case and in law, the learned
+> CIT(A) has erred in not directing the learned AO to drop the penalty
+> proceedings under Section 271(1)(c) of the Act."
+
+2\. Ground No.1 is general in nature since specific grounds have been raised
+for challenging additions / disallowances made. As such, Ground No.1 of the
+Appeal does not call for any specific adjudication. Ground No.1 is accordingly
+dismissed. In Ground No.10 Appellant challenges the action of AO having
+initiated penalty proceedings u/s 271(1)(c) of the Act. This ground, in our
+considered opinion is premature and as such Ground No.10 of the Appeal is also
+dismissed. A composite glance of the remaining grounds of appeal reveals that
+following three issues require our adjudication :
+
+(i) Validity of assumption of jurisdiction to reassess u/s 147 of the Act
+
+(ii) Disallowance u/s 40(a)(ia) of Rs.631,71,72,727/- for non deduction of tax
+on discounts given by the appellant to its distributors / franchisees for
+distribution of prepaid SIM Cards / Talktime.
+
+ITA No. 920/Del./2017 4
+
+(iii) Disallowance u/s 40(a)(i) of Rs.57,78,92,080/- on payment of IUC Charges
+to International Telecom Operators.
+
+3\. We would first take up for consideration the issue pertaining to validity
+of assumption of jurisdiction to reassess u/s 147 of the Act. Brief facts of
+the case are that appellant is a Government of India Undertaking engaged in
+the business of providing telecommunication services. For the year under
+consideration the return of income was filed by the appellant on 29th
+September, 2009 declaring total income of Rs.4448,71,00,000/-. Assessment u/s
+143(3) of the Act was completed on 2nd November, 2011 assessing total income
+of the appellant at Rs.5948,96,78,618/- under normal provisions of the Act and
+book profit of Rs.4959,37,00,000/- u/s 115JB of the Act. Thereafter, during
+course of assessment proceedings for AY 2011-12 the AO observed that appellant
+has offered certain discounts on its prepaid products to its distributors /
+franchisees which as per AO was payment of "commission" liable for tax
+deduction u/s 194H of the Act. Since the appellant had failed to deduct tax
+thereon in assessment proceedings for AY 2011-12 the expense was disallowed
+u/s 40(a)(ia) of the Act. In support of this conclusion AO relied upon the
+decision of Hon'ble Delhi High Court in the case of Idea Cellular Ltd., 325
+ITR 148 (Del). Based on conclusions drawn by the AO in assessment proceedings
+for AY 2011-12 notice u/s 148 dated 31st March, 2014 was issued for the year
+under consideration i.e., AY 2009-10. Reasons recorded u/s 148(2) read as
+under :-
+
+> "Reasons to believe for reopening of the Assessment in the case of M/s
+> Bharat Sanchar Nigam Limited (PANAABCB5576G) for A.Y.2009-10 u/s 147/148 of
+> the Act Return of income for the assessment Year 2009-10 was filed
+> electronically vide Ack. No.94156100290909 on 29.09.2009 declaring total
+> income of Rs.4448,71,00,000/- after claiming of deduction under Chapter VI-A
+> ITA No. 920/Del./2017 5 amounting to Rs.260,14,00,000/-. The return of
+> income field was processed u/s 143(1) of the Act on 29.04.2010. Subsequently
+> order u/s 143(3) of the Act was passed on 02.11.2011 at total income of
+> Rs.5948,96,78,618/- as per normal provisions of IT Act. Tax was determined
+> on Income under the normal provisions of the IT Act as the same was more
+> than 10% of the book profits as determined under the provisions of section
+> 115JB of the IT Act.
+
+From the perusal of assessment records and the Annual Report submitted, it was
+observed that the assessee company has reported in Segmental Information
+represented in a chart from titled "Segment Reporting" being part of its
+Annual Report at point 16 on page 51, service revenue on prepaid products on
+the "INCOME FROM SERVICES" at Rs.111,83,55,00,000/-.
+
+During the course of assessment proceedings for the A.Y. 2011-12, it was
+observed from the Annual Report of the Assessee that it has reported in
+Segment Reporting which is part of its 'Annual Report at point 16 on page 77,
+service revenue on prepaid products on the 'INCOME FROM SERVICES' at
+Rs.10695,60,00,000/- on which the assessee company is incurring expending on
+account of discount to prepaid distributors and franchisee. The assessee
+company has shown this figure after netting off the discounted amount. The
+company was asked to provide the details of discount given to distributors /
+franchisee but the same was not provided. Further, it was assumed that the
+assessee company M/s BSNL is providing discount @ 5%. According the discount
+amount was calculated @ 5% which was found to be in the nature of commission
+expenses on which TDS was liable to be made u/s 194H of the Act. However, on
+verification, it was observed that no TDS deduction has been made by the
+assessee and the assessee company was an assessee in default as per the
+provisions of chapter XVII of the Act. Taking note of the same, the assessee
+was asked to show cause as to why this amount should not be disallowed u/s
+40(a)(ia) of the Act. The assessee was further asked to explain as under :-
+
+"Kindly confirm that the revenues on account of sale of prepaid products such
+as SIMS, Recharge Coupons etc. 9see para 2(e) schedule T of accounting
+policies) is being recognized in the accounts at the customer sale price or on
+distributor sale price such that the distributor margin is earned by the
+distributor on transfer of such recharge product to the subscriber. In such a
+scenario in terms of the case of Hon'ble Delhi High Court in the matter of
+Idea Cellular, TDS u/s 194H will be applicable on such margin to the
+distributor. You are requested to confirm the company's position and in case
+the tax has not been withheld during the year, why not  ITA No. 920/Del./2017
+6 such expense be disallowed u/s 40(a)(ia) of the IT Act. Kindly produce
+relevant books of accounts in original for supporting the replies /
+arguments."
+
+The assessee vide written submission 26.03.2014 submitted that tax is being
+duly deducted u/s 194J and section 194H respectively on the above items as and
+where applicable. Further, the assessee submitted as under :- "It has been
+explained before that the company follows a decentralized Accounting system
+and procedure spread across more than 700 PAU's. All primary records and books
+of account are therefore maintained there and further at the Circle / SSA or
+PAU level only. These unit accounts are subject to Statutory, Internal and Tax
+Audits by independent Auditors. Disallowances u/s 40(a)(ia) are reported by
+them in their Tax Audit reports and complied at H.O. level. During the year,
+we have voluntarily disallowed Rs.103.50 crores u/s 40(a)(ia) at line item C 2
+in the computation of income, based on the Tax Audit Reports."
+
+In view of the above reply, it is ascertained that the discounts given by the
+assessee to its distributors and franchisee was in the nature of commission
+and was liable to TDS u/s 194H for the allowability of the same as revenue
+expenditure. Since the assessee company failed to discharge the onus cast on
+it u/s 194H r.w.s. 40(a)(ia) an amount of Rs.534,78,00,000/- representing the
+dealers / distributors and franchisee margin the form of free airline was
+disallowed u/s 40(a)(ia) of the Act and was added to the income of the
+assessee company.
+
+The assessee company has shown during A.Y. 2009-10 service revenue on prepaid
+products on the 'INCOME FROM SERVICES" At Rs.11,83,55,00,000/- on which the
+assessee company is incurring expenditure on account of discount to prepaid
+distributors and franchisee. The said amount is after netting off the
+discounted amount. Assuming that discount is provided @ 5%.
+
+Hence calculating the amount of discount at Rs.111,83,55,00,000/- @ 5% comes
+to Rs.559,17,75,000/- representing the dealers / distributors and franchisee
+margin in the form of free airtime on which no TDS deduction was made by the
+assessee and the assessee company is an assessee in default as per the
+provisions of chapter XVII of the Act and the same deserves to be disallowed
+u/s 40(a)(ia) of the Act.
+
+Reference is also invited to the judgement of Hon'ble Delhi high Court in the
+case of Idea Cellullar Limited (2010) 325 ITR 148 wherein the issue is settled
+in favor of the Revenue. The Hon'ble Delhi High Court held that  ITA No.
+920/Del./2017 7 "the relationship between the case, and the distributors was
+held to be one of principal to agent. It was further held that the discounts
+offered to distributors were in the nature of commission and thereby liable to
+TDS u/s 194H of the act.
+
+In view of above, I have reason to believes that Rs. 559,17,75,000/-
+representing the dealers/distributors and franchisee margin in the form of
+free airtime on which no TDS deduction was made by the assessee and the
+assessee company is an assessee in default as per the provisions of chapter
+XVII of the Act, so allowed, resulted into income escaping assessment within
+the meaning of section 147 of the I.T. Act and it is a fit case for initiating
+proceedings u/s 147 of the I.T. Act and for issue of notice u/s 148 of the
+I.T. Act."
+
+3.1 Vide written objections dated 20th February, 2015 appellant raised
+objections against assumption of jurisdiction to reassess. Ld. AO did not find
+any merit in the objections so raised and vide order dated 9th March, 2015 he
+disposed off the objections in accordance with law laid down by Hon'ble Apex
+Court in case of GKN Driveshafts India Ltd., 259 ITR 19 (SC). Thereafter the
+AO proceeded to pass the reassessment order.
+
+4\. During the course of hearing before us Ld. AR strongly objected to the
+action of assumption of jurisdiction by issuance of notice u/s 148 dated 31st
+March, 2014. In this regard, it was submitted by the Ld. AR that there was no
+omission on the part of the appellant to disclose fully and truly all material
+facts necessary for its assessment during the course of original assessment
+proceedings since all material facts like audited financial statements, tax
+audit report were specifically called upon and furnished before the AO during
+the course of proceedings u/s 143(3) of the Act. It was further submitted by
+the ld. AR that since the order u/s 143(3) was passed after an in depth
+examination of the facts of the case the present reassessment proceedings are
+bad in law as it tantamount to a case of change of opinion.
+
+ITA No. 920/Del./2017 8
+
+5\. Ld. CIT(DR) on the other hand supported the action of lower authorities in
+assuming jurisdiction to reassess in the instant case. It was submitted by Ld.
+CIT(DR) that the first appellate authority has for appropriate reasons upheld
+validity of jurisdiction to reassess.
+
+6\. Having considered the rival submissions in the light of entire material
+available on record, we find that it is no doubt true that the factum of
+Appellant having offered discount to its distributors / franchisee for
+distribution of its prepaid products is clearly discernible from the audited
+annual accounts for financial year ending 31st March, 2009. However, a perusal
+of the original assessment order u/s 143(3) shows that there is no examination
+by the AO regarding the issue as to whether said discount was in nature of
+"commission" liable to tax deduction u/s 194H of the Act. It would be relevant
+to note that the decision in the case of Idea Cellular (supra) was rendered by
+Hon'ble Delhi High Court on 19th February, 2010 whereas order u/s 143(3) for
+AY 2009-10 in the instant case was passed by the AO on 2nd November, 2011, it
+was therefore all the more necessary for the AO to specifically examine this
+issue during the course of original assessment proceedings. The assessment
+order nowhere speaks that the AO had taken a conscious decision or formed any
+opinion on this issue nor was there any application of mind by the AO
+thereupon. In presence of these facts borne out on record, we do not find any
+justification to discard the decision reached by the ld. CIT(A) for sustaining
+the initiation of proceedings u/s 147 in the instant case. For this view, we
+stand fortified by the decision of Hon'ble Jurisdictional High Court in the
+case of Consolidated Photo and Finvest Ltd. vs. ACIT 281 ITR 394 (Del) and of
+Hon'ble Gujrat High Court in the case of Praful Chunilal Patel vs. ACIT 236
+ITR 832 (Guj). The decisions relied on by the appellant are not found
+applicable, being based on different footing and  ITA No. 920/Del./2017 9
+distinguishable on the facts of the present case. Hon'ble jurisdictional High
+Court in the case of Consolidated Photo (supra) has observed as under :
+
+> "The principal that a mere change of opinion cannot be a basis for reopening
+> completed assessments would be applicable only to situation where the
+> Assessing Officer has applied his mind and taken a conscious decision on a
+> particular matter in issue. It will have no application where the order of
+> assessment does not address itself to the aspect which is the basis for
+> reopening of the assessment, as is the position in the present case. It is
+> in that view inconsequential whether or not the material necessary for
+> taking a decision was available to the Assessing Officer either generally or
+> in the form of a reply to the questionnaire served upon the assessee. What
+> is important is whether the Assessing Officer had based on the material
+> available to him taken a view. If he had not done so, the proposed reopening
+> cannot be assailed on the ground that the same is based only on a change of
+> opinion."
+
+6.1 This decision is squarely applicable in the instant case, as the Assessing
+Officer has not addressed the relevant issue in the original assessment order
+nor formed any opinion nor took any express decision thereupon. Moreover, we
+observe that the reassessment proceedings in the instant case got triggered on
+the basis of findings recorded by the Ld. AO in the assessment proceedings for
+the subsequent year i.e., AY 2011-12, vis a vis issue in dispute. This in our
+opinion would constitute to a material relevant for assumption of jurisdiction
+u/s 147. Support in this regard can safely be drawn from the decision of
+Hon'ble Bombay High Court in the case of Multiscreen Media Pvt. Ltd. vs. UOI
+reported in 324 ITR 54 (Bom) wherein it is held that reassessment proceedings
+on the basis of subsequent assessment is valid. It was also submitted before
+us that there is no failure or omission on part of the appellant to disclose
+material relevant during the course of original assessment proceedings. We
+find that this is totally irrelevant. Proviso to section 147 is not applicable
+in the instant case since action u/s 147 has been  ITA No. 920/Del./2017 10
+initiated by issuance of notice u/s 148 dated 31st March, 2014 i.e., before
+expiry of 4 years from the end of the relevant assessment year. Therefore,
+respectfully following the decisions stated above, we sustain the conclusion
+reached by the ld. CIT(A) on this count. Accordingly, Ground Nos. 2 and 3 of
+the Appeal are dismissed.
+
+7\. Now coming to the merits of the case. In ground Nos.4 to 6 the appellant
+is aggrieved by the action of AO in making a disallowance u/s 40(a)(ia) of
+Rs.631,71,72,727/-. In this regard, it is noted by the Ld. AO that for the
+year under consideration in the profits and loss account appellant has shown
+income from prepaid services at a net figure after reducing a discount given
+by it to the distributors / franchisees of its prepaid Sim Card and Recharge
+Vouchers. During course of reassessment Ld. AO directed the appellant to
+submit as to why said discount should not be treated as a commission paid to
+distributors / franchisees on which tax was deductible as per provisions of
+section 194H of the Act. In reply it was submitted by the appellant that the
+distributor margin is in nature of "discount" and not "commission" which would
+triger applicability of section 194H. It was further submitted that the
+relationship between BSNL and Distributors / Franchisees was on principal to
+principal basis and hence TDS was not deductible. In support of its claim the
+appellant relied upon the decision of Karnataka High Court in the case of
+Bharti Airtel Ltd. reported in 372 ITR 33 (Kar). The Ld. AO, however, was not
+convinced by the submissions made by the appellant and in his order of
+assessment he rejected the claim of the assessee by observing as under :-
+
+> "The submissions of the assessee have been considered and are discussed here
+> under :-
+
+(i) The assessee's contention that the distributor margin is in the nature of
+'discount' and not commission which would attract section 194H is not
+acceptable since in subsequent years, the assessee itself had issued  ITA No.
+920/Del./2017 11 circular (H.O. Instructions No.772/4.3.11 & 774/14.3.11)
+directing deduction of tax in terms of section 194H on the discount given to
+distributors / franchisees. In the submission filed on 17/3/2015 during the
+course of assessment proceedings for A.Y.2012-13 the assessee contended that
+instructions had been issued to the field formations regarding strict
+adherence to TDS u/s 194H on payment under discount scheme to adherence to TDS
+u/s 194H on payment under discount scheme to Franchisees / Distributors. The
+assessee had further submitted that any cases of non-compliance are duly
+reported by the Branch Tax Auditors u/s 44AB and taken into account for
+voluntary disallowance u/s 40(a)(ia) while framing the computation of income
+at the central level. Thus the assessee itself accepted the factum and
+voluntarily deducted the TDS u/s 194H on the discount in the subsequent year.
+Thus, taking the cognizance of this fact and consistency, it is clear that for
+A.Y.2007-08, the assessee is under default for not deducting the TDS u/s 194H
+of the income tax act, 1961 on the discount offered to the franchisees /
+distributors.
+
+(ii) The decision of the Karnataka High Court cited above has not been
+accepted by the Department and SLP has been filed.
+
+(iii) The above position is also vindicated by the decision of Hon'ble ITAT
+Delhi Bench in the assessee's own case in BSNL vs. ITO (TDS & Survey) in ITA
+No.258, 259 & 260/Del/2011. In that case, the AO (TDS) had raised demand u/s
+201/201(1A) r.w.s. 194H of the I.T. Act on the assessee. The ITAT referred to
+the following observation made by the Co-ordinate Bench in the case of ICICI
+Bank Limited vs. DCIT, 156 TTJ 569; "...The onus is on the revenue to
+demonstrate that the taxes have not been recovered from the person who had the
+primarily liability to pay tax, and it is only when the primary liability is
+not discharged that vicarious recovery liability can invoked. Once all the
+details of the persons to whom payments have been made are on record, it is
+for the Assessing Officer, who has all the powers to requisition the
+information from such payers and from the income tax authorities to ascertain
+whether or not taxes have been paid by the persons in receipt of the amounts
+from which taxes have not been withheld.
+
+........................
+
+The provisions regarding interest in delay in depositing the taxes are set out
+in Section 201(1). These provisions provide that for any delay in recovery of
+such taxes is to be compensated by the levy of interest. As far as recovery
+provisions are concerned, these provisions are set out in Section 201(1) which
+seeks to make good any loss to revenue on account of lapse by  ITA No.
+920/Del./2017 12 the assessee tax deductor. However, the question of making
+the loss of revenue arise only when there is indeed a loss of revenue can be
+there only when recipient of income has not paid tax."
+
+The ITAT observed that there is no finding by the AO to the effect that the
+recipient of the money i.e., franchisees have not paid the taxes on income
+embedded in the amounts in question. It held that for raising demand u/s
+201/201(1A) r.w.s. 194H, the AO had to prove that the principal liability (of
+payment of tax by the distributor / franchisees) remained undischarged and
+therefore sent the matter back to the file to the AO for reconsideration.
+Perusal of the above shows that, in fact, the wrong ITAT's order reaffirms
+that the assessee was under an obligation to deduct tax at source u/s 194H in
+respect of the discount so allowed to the franchisees.
+
+(iv) No evidence regarding sale effected through BSNL'S own Customers Services
+Centers (CSCs) has been furnished.
+
+(v) As per the sales and Distribution Policy, 2006 of the assessee company,
+discount of 6.5% is prescribed for prepaid recharge coupons. 8.4 Further, the
+issue has been settled in favour of the Revenue by the jurisdictional High
+Court of Delhi in the case of Idea Cellular Limited (2010) 325 ITR 0148
+wherein it was held that the relationship between the assessee, who was also a
+telecom service provider like the assessee in the present case, and the
+distributors was one of Principal-to-Agent. It was further held that the
+discounts offered to distributors were in the nature of commission and thereby
+liable to TDS u/s 194H of the Act. 8.5 In view of the above, it is held that
+as the assessee has failed to deduct tax at source, in terms of provisions of
+section 194H of the I.T. Act, 1961 from the discount given to the distributors
+/ franchisees, the same is disallowable u/s 40(a)(ia). During the course of
+assessment proceedings for A.Y.12-13, the assessee furnished copy of its Sales
+and Distribution Policy, 2006\. As per this policy, discount of 6.5% is
+prescribed for prepaid recharge coupons."
+
+8\. Being aggrieved, appellant preferred an appeal before the ld. CIT(A). The
+first appellate authority examined the nature of relationship between the
+appellant and its franchisee by scrutinizing the franchisee agreement between
+the appellant and M/s Happy Ezone Ltd. Ld. CIT(A) thereafter concluded in the
+impugned order as under :-
+
+ITA No. 920/Del./2017 13
+
+> "4.4.22.The contention of the appellant that the Delhi High Court judgment
+> in the case of Idea Cellular Ltd., 325 ITR 145 (Del) is not applicable to
+> the present case, is also not acceptable as in view of analysis and
+> discussions in the preceding paras by me. I hold that the facts of the
+> present case are very much similar to that of the case of Idea Cellular.
+
+> 4.4.23. After considering the arguments put forth by the appellant during
+> appellate proceedings and after perusing the provision of the agreement, it
+> leaves no doubt whatsoever that the relationship between BSNL and
+> Franchisees is that of a principal and agent. I have also considered the
+> judgment of Delhi, Kolkata & Kerala High Court in the case of Idea Cellular
+> Ltd. 325 ITR 148 (Del), Bharti Cellular Ltd. vs. ACIT 244 CTR 185 (Cal) and
+> Vodafone Esaar Cellular Ltd. vs. ACIT (2009) 317 ITR (AT) 234 (Cochin), I
+> hold that the discounts allowed and incentives given by the appellant to its
+> Franchisees on sale of its products is in nature of commission and the same
+> attracts the provision of section 194H of the Act. During appellate
+> proceedings the ld. AR has quoted the judgment of Karnataka High Court which
+> is in favour of appellant. It would be pertinent to state that the said
+> judgment has not been accepted by Revenue and the judicial pronouncement has
+> been contended before the Supreme Court. The SLP proposed by Revenue has
+> been admitted by the Apex Court which proves that the issue is alive and
+> debatable. Considering all these facts, Ground No.3 is dismissed."
+
+9\. Aggrieved, the appellant is now in appeal before us. At the outset, it was
+submitted by the Ld. AR that the decision of Hon'ble Delhi High Court in Idea
+Cellular (supra) is distinguishable both on facts and in law. In this regard,
+it was submitted by Ld. AR that a true and correct appreciation of
+relationship between appellant and its distributors in the instant case
+demonstrates that the said relationship is principal to principal and not
+principal to agency. It was submitted by Ld. AR that the facts of present case
+are more akin to the decision of Hon'ble Karnataka High Court in the case of
+Bharti Airtel (supra).
+
+ITA No. 920/Del./2017 14
+
+In support of the above contentions ld. AR filed a written note summarizing
+the contents of franchisee agreement as under:
+
+    
+    
+      S.     Submission                    Agreement Clause                      Page
+     No.                                                                          No.
+    
+    1.     Explicit           The BSNL has the right to terminate the Pg 171
+           understanding      agreement forthwith in case it comes to cl 19.1
+    
+
+that there is no conclusion that the Franchisee has violated any of Agency the
+clauses of the agreement which has resulted in or could result in loss to the
+BSNL or may cause damage to the BSNL services being provided by the BSNL. The
+decision of the BSNL will be final in this regard.
+
+The Franchisee, its employees, agents and Pg 173 representatives shall provide
+services as an cl 24.1 independent "entity" on a exclusive basis and nothing
+contained herein shall be deemed to create any partnership, joint venture,
+employment or relationship of principal and agent between the parties hereto
+or between BSNL and the Franchisee representatives and employees or to provide
+service with any right, power or Authority, or to provide the Franchisee with
+any right, power or authority, whether express or implied to create any such
+duty or obligation.
+
+The Franchisee's / Franchisees' personnel Pg 173 employees, agents or
+representatives have no cl 24.2 authority and / or right to bind BSNL in any
+manner. It is clarified that the personnel employed by the Franchisee shall be
+the sole employees of the Franchisee and BSNL shall have no financial or
+statutory responsibility towards them.
+
+ITA No. 920/Del./2017 15
+
+The Franchisee represents and warrants that no Pg 173 officer, director,
+employees of BSNL or immediate cl 25 family member thereof ("collectively,
+BSNL, personnel") has received or will receive anything of value of any kind
+from the Franchisee or its officers, directors, employees or agents in
+connection with this Agreement and that no BSNL personnel have a business
+relationship of any kind with the Franchisee or its officers.
+
+The Franchisee, its agents and employees will not Pg 175 be the legal
+representatives, employees or agents cl 27.2 of the BSNL for any purpose and
+have no right or authority to incur any expenses on behalf of the BSNL or to
+create, in writing or otherwise, obligations of any kind, express or implied,
+in the name of or on behalf of BSNL excluding the rights and duties under this
+Agreement. The Franchisee shall make no representations inconsistent with the
+foregoing, but so long as this Agreement remains in force, the Franchisee
+shall be entitled to describe itself as the "Authorised Franchisee"
+
+of BSNL for the services in the territory.
+
+    
+    
+                       As long as this agreement remains in force but         Page
+                       not thereafter, subject to clause 15.2 above, the      170
+                       Franchisee may identify itself as an Authorized        Para
+                       Franchisee of the BSNL, but shall not use the          15.3
+                       brand names, logos or trademarks of the BSNL as
+                       part of its corporate or partnership name or
+                       otherwise indicate to the public that it is an
+                       affiliate or agent of the BSNL.
+    
+    2.   Sale       of The merchandise sold to the franchisee as Pg 169
+    
+
+products by provided in the agreement shall be stored and cl 11.4 BSNL to
+wherever necessary displayed in its outlet by the Franchisee Franchisee.
+
+BSNL will not be a party between Franchisee to Pg 169 Franchisee, Franchisee
+to Sub- Franchisee or to cl 13.3 retailers or Franchisee's dispute of any
+nature  ITA No. 920/Del./2017 16 whatsoever it may be.
+
+The merchandise for storage and sale will be Pg 169 collected by the
+Franchisee from the BSNL's cl 13.4 designated place against payment by cheque
+/ pay order / cash. In special circumstances, the goods may be delivered by
+the BSNL also. All expenses incurred in the storage, cartage, transport and
+outlet expenses shall be borne by the Franchisee.
+
+3\. Franchisee to The BSNL may from time to time require the Pg 167 bear Risk
+and Franchisee to carry out customer satisfaction cl 9.2 Rewards vis-à- survey
+as decided by the BSNL, the cost Thereof, if vis unsold any, be borne by the
+Franchisee.
+
+stock The Franchisee shall, if so desired by BSNL, make Pg 168 alterations,
+modifications and install such cl 9.6 furniture, fixtures and air-conditioning
+equipments, introduce customer care hardware including computer with UPS,
+Modem, etc. as required and mutually agreed upon, the cost of such
+alterations, renovation shall be borne by the Franchisee.
+
+The merchandise will be sold at the premises by Pg 168 the Franchisee and it
+is clarified : (a) That the Cl 9.7 Franchisee shall not have any authority to
+store, sell or transfer or in any way dispose of the merchandise except as
+provided in this Agreement. (b) That the BSNL shall not be liable for the
+quality and genuineness of the goods sold by the Franchisee, (c) That the BSNL
+shall not be liable for any loss, pilferage or damage to the goods stored and
+sold at the premises and the merchandise shall be the entire responsibility of
+the Franchisee unless the same is occasioned by willful neglect or default of
+the BSNL, (d) That it shall be the responsibility of the Franchisee to effect
+the sales through proper invoices detailing the material particulars of the
+BSNL phones  ITA No. 920/Del./2017 17 including the IMEI number. The
+Franchisee shall keep the BSNL indemnified against claims regarding
+unauthorized handsets sold or alleged to have been sold from the Franchisee /
+Franchisee's outlet (s), being raised against the BSNL by any third party.
+
+The Franchisee and any person(s) assigned by the Pg 170 Franchisee to provide
+services as hereunder shall cl 14.1 in consultations with local authorities
+may get any state and local taxes including sales tax, etc. from the customer.
+The BSNL shall have no liability or obligation for any state or local income
+tax liability of the Franchisee or any person assigned by the Franchisee.
+However, nothing contained herein shall prevent the BSNL from deducting tax at
+source as required by law and regulation from payment to the Franchisee.
+
+The liability to insure the stocks in the outlet(s) Pg 173 and in the
+possession of the Franchisee will be of cl 22 the Franchisee and the liability
+for any loss or damage due to any fire, burglary, theft etc. will be that of
+the Franchisee.
+
+The Franchisee may publish advertisement in Pg 174 newspapers at his own cost
+with the prior cl 26.3 approval from the BSNL for text matter and design.
+
+4\. Effect of The Franchisee shall at its own expense return to Pg 172
+Termination the BSNL promptly all information, cl 20.5 documentation and
+materials to the BSNL which relate to the services and / or software and
+future marketing plans of future models of the BSNL together with any copies
+thereof or any other documents entrusted to the Franchisee by the BSNL.
+
+On termination of this Agreement howsoever Pg 172 occasioned, the Franchisee
+shall deliver to the cl 20.6 BSNL, all papers including the unused  ITA No.
+920/Del./2017 18 registration forms, partially used and unused books,
+marketing / publicity and display material given free of cost and documents
+etc. which may have come to the possession or custody.
+
+On the termination of the agreement for any Pg 172 cause whatsoever, all
+rights and privileges cl 20.7 granted to the Franchisee shall immediately
+terminate. The Franchisee and all persons claiming under it shall immediately
+cease and desist from the use of the trade name BSNL and any other sign,
+slogan, symbol or other distinguishing characteristic owned by or associated
+with BSNL's services. The Franchisee shall immediately cease carrying on any
+business permitted under the agreement.
+
+Ld AR also submitted a note highlighting the factual inaccuracies committed by
+the ld. CIT(A) as under :-
+
+> "3. It is submitted that CIT(A) at page 12 to 15 of its order has drawn
+> erroneous inferences from the above Franchisee Agreement and has wrongly
+> recorded a conclusion that there existed a Principal - Agency relationship
+> in the instant case. It is submitted that relevant clause of the agreement
+> do not support the conclusions so drawn by CIT(A). Broadly it is submitted
+> that :
+
+> (i) At page 12, para 4.4.11(iii) CIT(A) has erred in concluding that as per
+> clause 15.1 of the agreement "full legal rights and interest in all the
+> products and services shall remain with BSNL" - it is submitted that clause
+> 15.1 does not state this. Clause 15.1 merely clarifies that for all purposes
+> Brand Name, logo and Trademark shall remain exclusive property of BSNL.
+
+> (ii) At page 12, para 4.4.11(v) CIT(A) has erred in concluding that as per
+> clauses 18, 19 & 20 "BSNL reserves exclusive right to bring changes in terms
+> and condition of the agreement with franchisee". - It is submitted that
+> clause 18 deals with Software and recognizes BSNL's IPR rights therein.
+> Clause 19 deals with Termination and clause 20 deals with consequences of
+> Termination.
+
+ITA No. 920/Del./2017 19
+
+(iii) At page 13, para 4.4.11(x) CIT(A) has concluded that "BSNL shall have
+the exclusive right to terminate the business arrangement by written notices
+to Franchisees and then the Franchisees shall return to BSNL all information
+of customers/subscribers and other material pertaining to products and
+services" - It is submitted that as per clause 19.3 either party has a right
+to terminate the arrangement. As per the agreement upon termination there is
+no obligation upon BSNL to receive back the unsold goods lying with the
+Franchisee. Obligations of franchisee are clearly stated in clauses 20.6 and
+20.7.
+
+(iv) At page 13, para 4.4.13 the CIT(A) has erred in concluding that "the
+ownership / legal and equitable title and interest in sim cards / recharge
+vouchers remains with the appellant. The distributers are supposed the store
+the sim cards / recharge coupons in such a way as to clearly indicate at all
+times that these are owned by BSNL and is not allowed to remove, obscure,
+delete any mark placed on the simcard.". Further at page 14, para 4.4.18 it is
+wrongly stated by CIT(A) that "it is also evident from a reading of various
+clauses of the agreement, that the cell phone connection or recharge coupons
+and other product at all times, remain the property of BSNL" and at page 15,
+para 4.4.20 the CIT(A) has erred in holding that "Perusal of clauses 8, 9, 11,
+15, 16, 17, 18 & 19 clearly indicate that the Franchisees has no right over
+the product" - In this regard kind reference of Hon'ble Bench is invited to
+Appendix A, point no
+
+3\.
+
+(v) At page 13, para 4.4.14 the CIT(A) has erred in holding that "Also the
+owner of the Sim Cards / Recharge coupons is the appellant as it is operating
+under the right of a license agreement entered into with DOT. The sim cards is
+in the nature of a key to the consumer to have access to the telephone network
+established and operated by the appellant. Since the sim card is only a devise
+to have access to the mobile phone network there is no question of passing of
+any ownership or title of the goods from the appellant to the distributor or
+from the distributor to the ultimate consumer" - it is submitted that while
+alleging as such the CIT(A) has not appreciated the findings recorded by
+Hon'ble Karnataka High Court in case of Bharti Airtel Ltd reported in 372 ITR
+33(Kar) copy enclosed at pages 240 to 260 of PB wherein it is held at para 59
+that "Service can only be rendered and cannot be sold. However, right to
+service can be sold. What is sold by the service provider to the distributor
+is the right to service. Once the distributor pays for the service, and the
+service provider, delivers the Sim Card or Recharge Coupons, the distributor
+acquires a right to demand service. Once such a right is acquired the
+distributor may  ITA No. 920/Del./2017 20 use it by himself. He may also sell
+the right to sub-distributors who in turn may sell it to retailers."
+
+(vi) At page 14, para 4.4.18 the CIT(A) has held that "channel partner makes
+BSNL liable to a legal action by cell phone users i.e third party..." . - As
+submitted above franchisee in the instant case acquires and then resells or
+distributes a right to demand service. While doing so the terms of the
+agreement clearly prescribe in clause 9.7 that "BSNL shall not be liable for
+the quality and genuineness of the gods sold by the franchisee"
+
+9.1 Ld. AR further submitted that the decision of Hon'ble Delhi High Court in
+the case of Idea Cellular is also distinguishable in law in as much as Hon'ble
+Delhi High Court has proceeded on the basis that services cannot be sold. It
+has to be rendered. It was submitted that Hon'ble Delhi High Court did not
+examine the question whether right to services can be sold. It was submitted
+by Ld. AR that this legal aspect has specifically been considered by Hon'ble
+Karnataka High Court in the case of Bharti Airtel (supra) and inviting our
+attention to para 56 to 58 of the decision Ld. AR submitted that on this legal
+aspect Hon'ble Karnataka High court has differed with the view expressed by
+the Hon'ble Delhi High Court. Relying upon extracts from Salmond on
+jurisprudence Twelfth Edition (pg.153-154) it was submitted by Ld. AR that the
+decision of Hon'ble Delhi High Court being passed without taking the above
+legal aspect into consideration is not a binding precedent.
+
+9.2 Without prejudice to the above contentions, Ld. AR also invited our
+attention towards provisions of section 194H wherein the 3rd Proviso
+specifically provides an exemption to the appellant from deducting TDS on
+commission / brokerages payable to the public call office franchisees as under
+:-
+
+> "Provided also that no deduction shall be made under this section on any
+> commission or brokerage payable by Bharat Sanchar Nigam Limited or  ITA No.
+> 920/Del./2017 21 Mahanagar Telephone Nigam Limited to their public call
+> office franchisees"
+
+It was submitted by the ld. AR that even otherwise the above proviso
+exonerates the appellant from liability to deduct TDS on commissions /
+brokerages payable to the franchisees. In support of this proposition Ld. AR
+relied upon the judgment in case of appellant itself for the year under
+consideration by Hyderabad Bench of ITAT vide order dated 5th June, 2015
+reported in 42 ITR (Trib.) 669 (Hyd). Ld AR also submitted that the
+presumption drawn by Ld. AO in the reassessment order that Delhi ITAT in the
+case of appellant vide order dated 18th November, 2014 in ITA Nos.258 to
+260/Del/2011 for A.Ys.2008-09 to 2010-11 has decided this issue in favor of
+the tax department is factually incorrect. In this regard, inviting our
+attention to this decision it was submitted by the Ld AR that Delhi ITAT in
+that case has while examining the case from the view point of section 201 has
+remanded the matter back to the AO to investigate into the fact as to whether
+the recipient of the money i.e., the franchisees have paid tax on discounts
+received by them i.e income embedded in the amounts in question. Ld. AR
+specifically invited our attention to para 6 of the decision wherein Delhi
+ITAT has held that "in any event, the issue also seems to be covered on
+merits, in favour of the assessee by decision of Hon'ble Punjab & Haryana High
+Court in the case of CIT vs. Bharat Sanchar Nigam Ltd.....". Ld. AR submitted
+that decision of Punjab Haryana High Court in the case of appellant is
+reported in 265 CTR 212 (P&H) and in that decision Hon'ble Punjab & Haryana
+High Court has held that 3rd proviso to section 194H which was inserted by
+Finance Act 2007 w.e.f., 1st June, 2007 is applicable retrospectively.
+Accordingly, it was submitted that the findings recorded by Delhi ITAT in this
+judgment supports the case of the appellant. Without prejudice, to the above
+contentions Ld. AR also submitted  ITA No. 920/Del./2017 22 that since as per
+decision of Hyderabad ITAT there is no default u/s 201 hence disallowance u/s
+40(a)(i) for the year under consideration cannot be made in support of this
+claim our attention was invited to the decision of Bharti Hexacom Ltd.
+reported in 179 TTJ 25 (Del). Ld. AR clarified that subsequent deduction of
+tax by BSNL in ensuing year was due to a change in business model. Lastly it
+was submitted by the Ld. AR that since provision of section 40(a)(ia) lead to
+penal consequences benefit of bona fide belief be granted to the appellant
+specially when the issue is highly debatable. It was submitted that as claimed
+by tax department decision of Hon'ble Delhi High Court in case of Idea
+Cellular (supra) is against the appellant and as accepted by tax department
+the decision of Hon'ble Karnataka High Court in case of Bharti Airtel (supra)
+is in favour of the appellant. In support Ld. AR relied upon the decision of
+JDS Apparels Pvt. Ltd. reported in 370 ITR 454 (Del). Before concluding, Ld.
+AR also invited our attention towards pleadings made before lower authorities
+wherein it was specifically submitted by the appellant that the quantum of
+disallowance has been wrongly computed, however, the lower authorities
+thereafter have not addressed this grievance.
+
+10\. Repudiating the above contentions, the Ld. CIT(DR) relied upon the
+findings recorded by CIT(A). It was submitted by her that CIT(A) has after an
+in depth examination of the franchisee agreement rightly concluded that the
+nature of relationship between appellant and its franchisee is that of
+principal to agent and hence provision of section 194H are applicable. Ld.
+CIT(DR) relied upon the decision of Hon'ble Jurisdictional High Court in the
+case of Idea Cellular (supra) and submitted that the claim made by the
+appellant merits to be dismissed as it is directly covered against it by the
+decision of Jurisdictional High Court. Ld. CIT(DR) also relied upon following
+decisions :-
+
+· Vodafone South Limited reported in 155 ITD 109 (Chd)  ITA No. 920/Del./2017
+23 · Idea Cellular Ltd reported in 66 SOT 184 (Hyd)
+
+11\. We have carefully considered the submissions made by the rival parties
+and the material available on record. It is claimed by Ld CIT(DR) that the
+decision of Hon'ble Delhi High Court in case of Idea Cellular (supra) supports
+the contentions raised by the lower authorities. On the other hand, Ld AR
+claims that decision of Hon'ble Karnataka High Court in case of Bharti Airtel
+(supra) supports the claim made by the appellant. We have been addressed at
+length by both the sides. First moot issue to be decided is whether there is
+any variance in views expressed by both these High Court decisions. Hon'ble
+Jurisdictional High Court in case of Idea Cellular (supra) concluded that the
+relationship between parties in that case was principal to agent premised upon
+following reasoning:
+
+> "23. We, thus, come back to the central question, which is to be addressed
+> viz., the nature of relationship. Reverting back to this aspect, in the
+> present case, we are of the opinion that the legal relationship is
+> established between the assessee and the ultimate consumer/subscriber, who
+> is sold the SIM card by the agents further appointed by the PMAs with the
+> consent of the assessee. It is created by :
+
+> (a) Activation of the said SIM card by the assessee in the name of the
+> consumer/subscriber.
+
+> (b) Service provided by the assessee to the subscriber. Further, dealings
+> between the subscribers and the assessee in relation to the said SIM card
+> including any complaint, etc. for improper service/defect in service.
+
+> (c) Entering into the ultimate agreement between the subscriber and the
+> assessee (Clause 15 of the Agreement).
+
+> It is to be borne in mind that the nature of service provided by the
+> assessee to the ultimate consumers/subscribers, whether it is pre-paid or
+> post-paid SIM card - remains the same. In the instant case, the SIM cards
+> are pre- paid, which are sold by the assessee to the consumers through the
+> medium of PMAs. In the case of post-paid SIM card transaction is entered
+> into directly between the assessee and the subscriber and the subscriber is
+> sent bill periodically depending upon the user of the SIM card for the
+> period in  ITA No. 920/Del./2017 24 question. In both the cases, legal
+> relationship is created between the subscriber and the assessee that too by
+> entering into specific agreement between these two parties.
+
+> 24\. In contrast, the legal position when the goods are sold by principal to
+> its distributors creating 'principal and principal' relationship would be
+> entirely different. On the sale of goods, the ownership passes between the
+> manufacturer and the distributors. It is the responsibility of the
+> distributor thereafter to sell those goods further to the consumers - the
+> ultimate users. The principal/manufacturer does not come in picture at all.
+> Of course, he may be liable for some action by the consumer because of
+> defective goods, etc., which is the result of other enactments conferring
+> certain rights on the consumer or common law rights in his favour as against
+> the manufacturer. We may also point out that in its classic judgment in the
+> case of Bharat Sanchar Nigam Ltd. v. Union of India AIR 2006 SC 1383, the
+> Supreme Court held that electromagnetic waves or radio of frequencies are
+> not goods and with the sale thereof Sales Tax Act is not attracted, though
+> the decision was rendered in the context of liability of sales tax."
+
+The vital fact which Hon'ble Jurisdictional High Court has found relevant is
+that a legal relationship is established between the telephone service
+provider and the consumer i.e the subscriber to its products. Hon'ble
+Jurisdictional High Court has also followed the dictum of Hon'ble Apex Court
+in appellants' case i.e BSNL vs UOI reported in AIR 2006 SC 1383 to hold that
+this is not a case for sale of goods but a case of providing telephone
+services and hence there can be no sale of goods from the service provider to
+its distributor so as to create a principal to principal relationship.
+
+11.1 Contrary to above view is the decision of Hon'ble Karnataka High Court
+(supra) which holds that a right to service can be sold. The relevant
+observations of the Hon'ble Karnataka High Court read as under:
+
+> "56. In the Idea Cellular Ltd. case (supra), the Delhi High Court proceeded
+> on the footing that the assessee is providing the mobile phone service. It
+> is the ultimate owner of the service system. The service is meant  ITA No.
+> 920/Del./2017 25 for public at large. They had appointed distributors to
+> make available the pre-paid products to the public and look after the
+> documentation and other statutory requirements regarding the mobile phone
+> connection and, therefore, the essence of service rendered by the
+> distributor is not the sale of any product or goods and, therefore, it was
+> held that all the distributors are always acting for and on behalf of the
+> assessee company.
+
+57\. Similar is the view expressed by the Kerala High Court in the Vodafone
+Essar Cellular Ltd.'s case (Supra), where it was held that, the distributor is
+only rendering services to the assessee and the distributor commits the
+assessee to the subscribers to whom assessee is accountable under the service
+contract which is the subscriber connection arranged by the distributor for
+the assessee. In that context it was held that, discount is nothing but a
+margin given by the assessee to the distributor at the time of delivery of SIM
+Cards or Recharge Coupons against advance payment made by the distributor.
+
+58\. In both the aforesaid cases, the Court proceeded on the basis that
+service cannot be sold. It has to be rendered. But, they did not go into the
+question whether right to service can be sold.
+
+59\. The telephone service is nothing but service. SIM cards, have no
+intrinsic sale value. It is supplied to the customers for providing mobile
+services to them. The SIM card is in the nature of a key to the consumer to
+have access to the telephone network established and operated by the assessee-
+company on its own behalf. Since the SIM Card is only a device to have access
+to the mobile phone network, there is no question of passing of any ownership
+or title of the goods from the assessee-company to the distributor or from the
+distributor to the ultimate consumer. Therefore, the SIM card, on its own but
+without service would hardly have any value. A customer, who wants to have its
+service initially, has to purchase a sim- card. When he pays for the sim-card,
+he gets the mobile service activated. Service can only be rendered and cannot
+be sold. However, right to service can be sold. What is sold by the service
+provider to the distributor is the right to service. Once the distributor pays
+for the service, and the service provider, delivers the Sim Card or Recharge
+Coupons, the distributor acquires a right to demand service. Once such a right
+is acquired the distributor may use it by himself. He may also sell the right
+to sub- distributors who in turn may sell it to retailers. It is a well-
+settled proposition that if the property in the goods is transferred and gets
+vested in the distributor at the time of the delivery then he is thereafter
+liable for the same and would be dealing with them in his own right as a
+principal  ITA No. 920/Del./2017 26 and not as an agent. The seller may have
+fixed the MRP and the price at which they sell the products to the
+distributors but the products are sold and ownership vests and is transferred
+to the distributors. However, who ever ultimately sells the said right to
+customers is not entitled to charge more than the MRP. The income of these
+middlemen would be the difference in the sale price and the MRP, which they
+have to share as per the agreement between them. The said income accrues to
+them only when they sell this right to service and not when they purchase this
+right to service. The assessee is not concerned with quantum and time of
+accrual of income to the distributors by reselling the prepaid cards to the
+sub- distributors/retailers. As at the time of sale of prepaid card by the
+assessee to the distributor, income has not accrued or arisen to the
+distributor, there is no primary liability to tax on the Distributor. In the
+absence of primary liability on the distributor at such point of time, there
+is no liability on the assessee to deduct tax at source. The difference
+between the sale price to retailer and the price which the distributor pays to
+the assessee is his income from business. It cannot be categorized as
+commission. The sale is subject to conditions, and stipulations. This by
+itself does not show and establish principal and agent relationship."
+
+Apparently, therefore, legalistically both the Hon'ble High Courts have
+expressed a divergent opinion in the matter. Since the appellant before us is
+from Delhi, we are obligated to follow the decision of Hon'ble Jurisdictional
+High Court. Parties before us have also elaborated upon the fact that there is
+a distinction in terms and conditions of distribution agreement in the instant
+case and the facts as existing before both the Hon'ble High Courts above,
+however we find no reason to deliberate upon this aspect since on the legal
+aspect itself the decision of Hon'ble Delhi High Court which is the
+jurisdictional High Court is against the appellant. We are therefore compelled
+to hold that the discount on prepaid products offered by the appellant is in
+nature of "commission" which does attract rigors of section 194H.
+
+12\. The above finding given by us would however not automatically act as an
+accomplished fact vis a vis the issue of disallowance u/s 40(a)(ia). There is
+ITA No. 920/Del./2017 27 however another aspect of the matter before us. Ld AR
+argued that benefit of bonafide cause be granted to the appellant since
+provisions of section 40(a)(ia) are penal in consequences. We find substantial
+merit in this alternative claim made by the appellant. We find that appellant
+deserves benefit of bonafide belief premised on the following facts:
+
+(i) As is apparent this is an issue on which divergent views have been
+expressed by two different High Courts in our country. We have been apprised
+that the issue is also currently pending disposal before Hon'ble Apex Court.
+
+(ii) In case of appellant itself for AY 2009-10 i.e the assessment year under
+consideration, Hyderabad Bench of ITAT (supra) has held as under:
+
+"8. The Learned Departmental Representative relied upon the decision of the
+ITAT Kolkata Bench in the case of Asstt. CIT v. Bharti Cellular Ltd. [2007]
+105 ITD 129 and Delhi High Court in the case of CIT v. Idea Cellulor Ltd.
+[2010] 325 ITR 148/189 Taxman 118. Whereas this decision was already
+considered by the learned CIT(A) and having regard to the factual matrix of
+the case, it was held that the assessee has followed a systematic method of
+accounting as given in AS-9, and therefore, it has to be treated as a trade
+discount only.
+
+9\. It is not in dispute that the assessee has not deducted tax at source. As
+per third proviso to S.194H which is inserted by the Finance Act, 2007, no
+deduction need to be made on any commission or brokerage paid by BSNL to its
+Public Call Office franchisee, and this proviso was held to be clarificatory
+in nature by the Hon'ble Punjab and Haryana High Court in the case of CIT v.
+Bharat Sanchar Nigam Ltd. [2013] 35 taxmann.com 260/216 Taxman 277. Having
+regard to the circumstances of the case, I notice that the assessee being
+public sector undertaking stands on a different footing and the view taken in
+the case of Idea Cellular Ltd. (supra) cannot be applied, since the
+relationship between the BSNL and the franchisee stands on a different footing
+and the same was recognised by the CBDT. In fact, the decision of Hon'ble
+Delhi High Court and other High courts, on this point were considered by
+Hon'ble Karnataka High Court in the case Bharti Airtel Ltd. v. Dy. CIT [2015]
+372  ITA No. 920/Del./2017 28 ITR 33/228 Taxman 219 (Mag.)/[2014] 52
+taxmann.com 31 while holding that Section 194H is not applicable . Since no
+jurisdictional High Court decision is available as on date, the latest
+decision of Karnataka High Court, which considered and distinguished earlier
+rulings of other High Courts, deserves to be followed.
+
+10\. In fact, the first appellate authority has taken into consideration the
+circular issued by the corporate office of the BSNL dated 13.12.2007 and
+another circular dated 15.4.2008 while coming to the conclusion that the
+nature of the payment made by the assessee to its franchisee is trade discount
+only. Since the view taken by the learned CIT(A) is mainly based on the
+factual matrix of the case, I am of the firm view that the order passed by the
+learned CIT(A) does not call for any interference."
+
+(iii) Appellant also merits benefit of bonafide belief considering third
+proviso to section 194H which states as under:
+
+"Commission or brokerage 194H. Any person, not being an individual or a Hindu
+undivided family, who is responsible for paying, on or after the 1st day of
+June, 2001, to a resident, any income by way of commission (not being
+insurance commission referred to in section 194D) or brokerage, shall, at the
+time of credit of such income to the account of the payee or at the time of
+payment of such income in cash or by the issue of a cheque or draft or by any
+other mode, whichever is earlier, deduct income-tax thereon at the rate of
+five per cent :
+
+..... .....
+
+Provided also that no deduction shall be made under this section on any
+commission or brokerage payable by Bharat Sanchar Nigam Limited or Mahanagar
+Telephone Nigam Limited to their public call office franchisees."
+
+We find merit in the submissions made by Ld AR that third proviso to section
+194H will get attracted only when the nature of payment is "commission or
+brokerage". Parties before us agree that majorly the distribution of products
+by BSNL and MTNL takes place through Public Call Office franchisees since this
+was an infrastructure existing with them even before mobile telephone  ITA No.
+920/Del./2017 29 services became popular. Moreover, as upheld by Hon'ble
+Punjab & Haryana High Court in case of appellant itself (supra) that
+".......the above extracts from the Board circular would show that the
+amendment in the Section 194 H was brought about because, as admitted by the
+CBDT itself, very few of the recipients had a tax liability." Even co-ordinate
+bench of Delhi ITAT in case of appellant vide order 18th November 2014 (supra)
+has held that "in any event, the issue also seems to be covered on merits, in
+favour of the assessee by decision of Hon'ble Punjab & Haryana High Court in
+the case of CIT vs. Bharat Sanchar Nigam Ltd....."
+
+12.1 Therefore facts of the case clearly show that appellant merits grant of
+bonafide belief for not deducting TDS. It was however argued by Ld CIT(DR)
+that even if there existed any bonafide cause provisions of section 40(a)(ia)
+calls for a strict compliance. In our considered view this plea of Ld CIT(DR)
+has to be rejected. In the case of JDS Apparels Hon'ble Jurisdictional High
+Court has held as under:
+
+> "17. Another reason why we feel Section 40(a)(ia) of the Act should not have
+> been invoked in the present case is the principle of doubtful penalization
+> which requires strict construction of penal provisions. The said principle
+> applies not only to criminal statutes but also to provisions which create a
+> deterrence and results in punitive penalty. Section 40(a)(ia) is a deterrent
+> and a penal provision. It has the effect of penalising the assessee, who has
+> failed to deduct tax at source and acts to the detriment of the assessee's
+> property and other economic interests. It operates and inflicts hardship and
+> deprivation, by disallowing expenditure actually incurred and treating it as
+> disallowed. The Explanation, therefore, requires a strict construction and
+> the principle against doubtful penalization would come into play. The
+> detriment in the present case, as is noticeable, would include initiation of
+> proceedings for imposition of penalty for concealment, as was directed by
+> the Assessing Officer in the present case. The aforesaid principle requires
+> that a person should not be subjected to any sort of detriment unless the
+> obligation is clearly imposed. When the words are equally capable of more
+> than one construction, the  ITA No. 920/Del./2017 30 one not inflicting the
+> penalty or deterrent may be preferred. In Maxwell's The Interpretation of
+> Statutes, 12th edition (1969) it has been observed:--
+
+> "The strict construction of penal statutes seems to manifest itself in four
+> ways: in the requirement of express language for the creation of an offence;
+> in interpreting strictly words setting out the elements of an offence; in
+> requiring the fulfilment to the letter of statutory conditions precedent to
+> the infliction of punishment; and in insisting on the strict observance of
+> technical provisions concerning criminal procedure and jurisdiction."
+
+> To the similar effect is the decision of Hon'ble Bombay High Court in case
+> of CIT vs Kotak Securities Limited reported in 340 ITR 333(Bom) wherein the
+> Hon'ble High Court has held as under :
+
+> "31. The object of introducing section 40(a)(ia), as explained in the
+> Central Board of Direct Taxes Circular No. 5, dated July 15, 2005--See
+> [2005] 276 ITR (St.) 151), is to augment compliance with the TDS provisions
+> in the case of residents and curb bogus payments. Moreover, though section
+> 194J was inserted with effect from July 1, 1995, till the assessment year in
+> question that is the assessment year 2005-06 both the Revenue and the
+> assessee proceeded on the footing that section 194J was not applicable to
+> the payment of transaction charges and accordingly, during the period from
+> 1995 to 2005 neither the assessee has deducted tax at source while crediting
+> the transaction charges to the account of the stock exchange nor the Revenue
+> has raised any objection or initiated any proceedings for not deducting the
+> tax at source. In these circumstances, if both the parties for nearly a
+> decade proceeded on the footing that section 194J is not attracted, then in
+> the assessment year in question, no fault can be found with the assessee in
+> not deducting the tax at source under section 194J of the Act and
+> consequently, no action could be taken under section 40(a)(ia) of the Act.
+> It is relevant to note that from the assessment year 2006-07 the assessee
+> has been deducting tax at source while crediting the transaction charges to
+> the account of the stock exchange though not as fees for technical services
+> but as royalty. It is further relevant to note that it is not the case of
+> the Revenue that on account of the failure on the part of the assessee to
+> deduct tax at source, the Revenue has suffered presumably because, the stock
+> exchange has discharged its tax liability for  ITA No. 920/Del./2017 31 the
+> assessment year in question. In any event, in the facts of the present case,
+> in view of the undisputed decade old practice, the assessee had bona fide
+> reason to believe that the tax was not deductible at source under section
+> 194J of the Act and, therefore, the Assessing Officer was not justified in
+> invoking section 40(a)(ia) of the Act and disallowing the business
+> expenditure by way of transaction charges incurred by the assessee."
+
+> We therefore hold that appellant had a reasonable / bonafide cause for not
+> deducting TDS on payment of discounts to the distributors / franchises of
+> its repaid products. This is accordingly not a fit case for making
+> disallowance of an expense by invoking penal provisions of section
+> 40(a)(ia).
+
+12.2 The issue can also be considered from different prospective. As stated by
+us above, Hyderabad Bench of ITAT in case of appellant for the year under
+consideration has already held that there is no default on part of the
+appellant for not having deducted tax on discounts given for its prepaid
+products. This in our considered opinion operates res judicata for examining
+whether there is any default committed u/s 40(a)(ia). We find that co-ordinate
+bench of Delhi ITAT in case of Bharti Hexacom (supra) has held that in such a
+scenario disallowance cannot be sustained by invoking provisions of section
+40(a)(ia), observing as under:
+
+> "35. We have considered the rival submissions and have perused the record of
+> the case. Admittedly, as regards discount allowed to distributors in respect
+> of prepaid cards, the Gauhati Bench of the ITAT as well as Jaipur Bench of
+> ITAT in assessee's own case for AY 2008-09 have clearly held that the said
+> provisions of section 194H are not applicable. However, on this issue,
+> admittedly Hon'ble Jurisdictional High Court in the case of Idea Cellular
+> Ltd.(supra) has held that the said provision is applicable.
+
+> 36\. As far as the issue regarding applicability of provisions of section
+> 194J to roaming charges and interconnect charges, are concerned, Jaipur
+> Bench of the ITAT in AY 2008-09 has held that the said provisions are not
+> applicable.
+
+ITA No. 920/Del./2017 32
+
+37\. Now we are pitted against the situation where Hon'ble Jurisdictional High
+Court is against the assessee on the issue regarding applicability of the
+provisions of section 194H, but in assessee's own case for AY 2008-09 the
+Jaipur Bench of the ITAT as well as Gauhati Bench of the ITAT has held that
+the assessee is not in default on account of non-deduction of TDS u/s 194H in
+regard to discount allowed to distributors on prepaid cards.
+
+38\. The assessee's contention is that these directions operate as res
+judicata and, therefore, no contrary view can be taken. In support of its
+contention, ld. counsel's reliance is on the decision of Hon'ble Supreme Court
+in the case of B.C. Srinivasa Setty (supra) and the decision of Eli Lilly &
+Co. (India) (P.) Ltd.'s case (supra), wherein it has been held that the
+charging and computation provisions cannot operate de hors the machinery
+provisions. Therefore, we have to first examine whether the assessee's case
+falls within the law laid down by Hon'ble Supreme Court or not.
+
+39\. It is well settled law that the liability to tax arises by virtue of the
+charging section alone and it arises no later than the close of the previous
+year, though quantification of the amount payable is postponed. ..... ......
+
+42\. Therefore, the provisions contained in Chapter XVIIB have to be given
+effect to while quantifying the liability of an assessee. The computation of
+income cannot be effected without having recourse to section 40(a)(ia) and
+consequently to provisions of chapter XVII-B. Section 40(a)(ia) comes into
+play when any interest, commissions or brokerage etc. payable to a resident,
+on which tax was deductible at source under Chapter XVIIB and such tax has not
+been deducted or, after deduction has not been paid on or before the due date
+specified in sub-section (1) of section 139 then such payments will not be
+allowed as deduction.
+
+43\. Therefore, it follows that there should be sum paid by assessee on which
+tax was deductible at source under Chapter XVIIB before 40(a)(ia) could come
+into play. Admittedly in the case of assessee, it has been held that the
+provisions of section 194H as well as provisions of section 194J are not
+attracted and therefore, there was no amount on which tax was deductible.
+Therefore, section 40(a)(ia) cannot come into play. The machinery provisions
+cannot operate independently and before the computation provisions contained
+in section 40(a)(ia) can come into the play, the effect of applicability of
+machinery provision has to be considered.
+
+ITA No. 920/Del./2017 33
+
+44\. Now, if we accept the submissions advanced by ld. CIT(DR) that the
+provisions of section 40(a)(ia) and provisions of section 201 operate in two
+independent fields then it would lead to contradictory findings by Tribunal
+for the same assessment year in respect of the same subject matter and issue.
+Had there been no decision of Tribunal in assessee's own case for the same
+assessment year, then in view of the decision of Hon'ble Jurisdictional High
+Court in the case of Idea Cellular Ltd. (supra) deduction could not be allowed
+to assessee. However, in view of the decision of Hon'ble Supreme Court,
+keeping in view the integrated scheme of the Act, we are of the opinion that
+Non-deduction of tax under Chapter XVIIB leads to consequences contemplated
+u/s 201 and, therefore, Section 40(a)(ia) and provisions contained in chapter
+XVII-B constitute an integrated code and, accordingly, effect has to be given
+to the decisions of Tribunal's Guahati and Jaipur Benches, which will operate
+as res-judicata. In any view of the matter, the view beneficial to the
+assessee is to be taken. We, accordingly, allow the assessee's appeal in
+respect of ground nos. 1 and 1.1."
+
+Respectfully following the above decision rendered by a co-ordinate bench of
+this court we find that disallowance made u/s 40(a)(ia) is not sustainable in
+the instant case. Grounds 4, 5 & 6 of the appeal are accordingly disposed of
+in favour of the assessee.
+
+13\. The next issue in dispute pertains to disallowance u/s 40(a)(i) of the
+Act of Rs.57,78,92,080/-. In this regard in the order of assessment it is
+observed by the AO that during the year under consideration appellant made
+payments for IUC Charges as under:
+
+(i) Payment to foreign operators Rs.57,78,92,080/-
+
+(ii) Payment to domestic operators Rs.3459,22,63,093/-
+
+It is undisputed that qua payments made to domestic operators TDS has been
+deducted by the appellant. The dispute solely centers round the payments made
+to foreign operators. IUC charges are charges paid to other telecom service
+providers for providing connectivity to and fro from locations where  ITA No.
+920/Del./2017 34 BSNL has no reach. The AO notes a sample sequence of carriage
+of international call from India to a location outside India as under:-
+
+> · "A mobile subscriber in Chennai makes a call to a person in US. The call
+> originates on the network of the local telecom services provider in Chennai,
+> which shall carry the call upto the limits of the Chennai telecom services
+> area and at the point, shall hand over the call to the national long
+> distance ('NLD') service provider.
+
+> · The NLD services provider carries the call upto ILD gateway of BSNL and
+> hands over the call to BSNL · The call is then carried by BSNL on its ILD
+> network upto its ILD gatesway outside India (say US), where the call is
+> handed over to a Non-resident Telecom Operator (NTO) for carriage of the
+> call beyond the ILD gateway of BSNL outside India and termination of the
+> same at the destination location outside India (last leg of the
+> communication channel). In many cases, local services provider and NLD
+> provider could be BSNL only."
+
+13.1 In the order of assessment, Ld. AO holds that payment of IUC charges to
+non-resident telecom service provider was liable to tax deduction u/s 195 of
+the Act. In support of his conclusions Ld. AO after making reference to
+material available as per Wikipedia on roaming technology has held that
+payment of IUC charges is "Fee for Technical Services" both under the
+provisions of Act u/s 9(1)(vii) and as per provisions of Article 12 of the
+DTAA. Without prejudice in his order of assessment the AO has further held
+that payment for IUC charges also constitutes income in nature of "Royalty" as
+defined u/s 9(1)(vi) of the Act and Article 12 of the DTAA. In view of
+discussions made and findings recorded by the Ld. AO he concluded that the
+amount of Rs.57,78,92,080/- paid by Appellant to foreign telecom service
+providers was income chargeable to tax in India in hands of foreign service
+providers and since no application u/s 195(2) of the Act was filed by the
+appellant relying upon decision of Hon'ble Supreme Court in the case of  ITA
+No. 920/Del./2017 35 Transmission Corporation of India reported in 239 ITR 587
+(SC) it was held by the Ld. AO that the appellant had defaulted in not
+deducting tax u/s 195. As such, a consequential disallowance u/s 40(a)(i) of
+Rs.57,78,92,080/- was made.
+
+14\. Being aggrieved, the appellant approached Ld. CIT(A), however, the first
+appellate authority also did not find any merit in the claim so made. In this
+regard, it has been held by Ld. CIT(A) as under :-
+
+> "4.5.3 I have considered the contention of the appellant that the aforesaid
+> payment made by BSNL to NTO's (non-resident telecom operators) outside India
+> cannot be taxed as royalty u/s 9(1)(vi) read together Explanation 2 & 5 to
+> the section. Section 40(a)(i) of the Act provides for deduction of tax at
+> source where any tax payer in India makes a payment to a non-resident being
+> a payment in the nature of royalty, fee for technical services, interest or
+> any other payment chargeable to tax in the hands of the non-resident.
+> Royalty for this purpose shall have the same meaning as in Explanation-2 to
+> clause (vi) of sub-section (1) of section 9.
+
+> 4.5.4 Explanation 5 to section 9(1)(vi) is only clarification in nature and
+> defines the inclusions that will constitute royalty in respect of any right,
+> property or information. The appellant contends that the provisions of
+> deduction of tax at source u/s 195 of the Act (forming part of chapter XVII-
+> B) are not applicable since the payments made to non-residents are not
+> chargeable to tax under the provisions of the Act.
+
+> 4.5.5. In this regard, a plain reading of Explanation-2(i), 2(iii), 2 (iva)
+> to section 9(1)(vi) of the Act makes it clear that for a particular payment
+> to fall within in the provision of these clauses it is imperative that there
+> should be a "transfer of all or any rights" in respect of a process by the
+> payee in favour of the payer or "use of" of a process belonging to the payee
+> by the payer. It is amply clear that even if a "process or scientific
+> equipment" is used by the user, the resultant payment will take character of
+> "royalty".
+
+4.5.6. The payments are made on account of interconnection charges on calls
+which are carried to the International Gateway and then handed over to the
+International Operators for carriage on their network and handling over the
+call to the home operator of the subscriber located in a foreign land. These
+services terminate out of India but the origin of providing these services is
+in India. These calls are carried over the International Network  ITA No.
+920/Del./2017 36 which means that the consideration paid by BSNL is in respect
+of the right to use a property and a process belonging to the Non-Resident. In
+order that a subscriber is able to register on to a visited network, a roaming
+agreement needs to be in place between the visited network and the home
+network. This agreement is established after a series of testing processes.
+These payments would thus fall under the scope of Section-9 and will be deemed
+to have accrued or arisen in India and therefore, are taxable under the Act.
+In view of the above, IUC charges paid to International Operators be
+classified as a royalty since the same involves "use or right to use of
+equipment and / or process," belonging to the non-resident. 4.5.7 On perusal
+of the appellant's submission and further elaborations as discussed above, it
+can easily be inferred that while availing roaming connectivity, the service
+providers and users have to undergo a complex process of roaming technology.
+Therefore, using roaming services is in fact using "process" embedded in the
+said technology. The payment made for the use of such process takes the
+character of royalty within the meaning of section 9. As such it may be
+concluded that the appellant company has entered into agreement for use of
+roaming technology, which contains 'process', provided by the Foreign Service
+providers. 4.5.8. Under both the I.T. Act, 1961 as well as under the Indo-USA
+treaty, taken on sample basis, 'royalty' includes payments for the use of
+process or any industrial, commercial or scientific equipment (commonly known
+as 'equipment royalty'). In this case, it is evident that the payments have
+been made for using the equipment owned by the NTOs and accordingly the same
+will be covered under the definition of "equipment royalty". The Hon'ble
+Supreme Court of India, in a case relating to the levy of sales tax in the
+state of Uttar Pradesh v. Union of India (2003) 3 SCC 29, had occasion to deal
+with what constitutes the right to use. The court has held that physical
+possession by the customer is not the sine qua non of completing the transfer
+of the right to get the right to sue any gods. The decision in this case has
+been quoted to show that, for a customer to get the right to use equipment, it
+is not necessary for him to have physical control over it. Multiple users can
+have the right to use the equipment at the same time, without any of them
+having physical control over it. 4.5.9. For the payment for a process to be
+treated as 'Royalty', the only requirement is that the process must be used.
+In the present case the traffic sent by the BSNL comes into contact with the
+process of the NTO in the telecom network. Transmission of the data is not
+possible unless the same come in contact with the process. The business of the
+appellant is such that  ITA No. 920/Del./2017 37 the process of transmission
+of traffic be made by taking its possession physically. The only way the
+customers can use the service is by taking advantage of the facility.
+Therefore using such properties shall naturally refer to taking advantage out
+of facility. It is noted that the appellant derived advantage by utilizing the
+process in the telecom facility / network facilitating relay of their traffic
+to and from the foreign countries. As such the process, in the telecom
+facility / network, is 'used' by the appellant for carrying on their business
+in India. In view of the discussion above, the payments made by the appellant
+squarely fall within the definition of Royalty as defined in Explanation 2 to
+section 9(1)(vi) of the Act as well as the respective DTAA's of countries with
+which BSNL has entered into such transactions.
+
+4.5.10 Section 195 read with Section 40(a)(i) of the Act stipulates that if
+there is any amount paid to a non-resident on which tax is required to be
+deducted and if such tax has not been deducted then the same will not allowed
+as expenditure for the relevant assessment year. Thus, the amount paid to the
+non-residents on Interconnection charges are income chargeable under the Act
+and therefore, will be subject to deduction of tax at source u/s 195. The
+appellant had cited M/s Asia Satellite Telecommunications Co. ltd. vs.
+Director of Income Tax [2011] 197 Taxman 263 Delhi (at pages 597-626), wherein
+the Hon'ble Delhi High Court has accepted the submissions that the process
+involved in transmission of data by way of satellites is used by the satellite
+operator for provision of transponder capacity to its customers cannot be
+construed as royalty for use of process.
+
+4.5.11 In this case, the tele companies / customers were situated outside
+India and so was the assessee. Even the agreements were executed abroad under
+which the services were provided by the assessee to its customers. It was the
+payment made by the tele operators situated abroad to the assessee, also a
+non-resident that was sought to be brought within the tax net. In the case of
+BSNL, the appellant is situated in India and the services are being provided
+to customer in India "by the use of equipment, process or by the right to use
+of equipment or process' belonging to a non-resident. This, the income
+accruing to NTO's from these services are deemed to accrue or arise in India
+and hence is subject to tax under the Act. 4.5.12. In the case of M/s GE India
+Technology Centre Pvt. Ltd. (327 ITR
+
+456) (2010), the Hon'ble Apex court held that payment made to a non- resident
+will be subject to tax withholding u/s 195(1) of the Act only if the sum
+payable is "chargeable to tax" in India in the hands of the non-resident.
+
+ITA No. 920/Del./2017 38
+
+The payments made by BSNL for interconnection charges to foreign operators are
+"chargeable to tax" in India in the hands of the non-resident since the same
+fall under the definition of royalty u/s 9(1)(vi) of the Act, read together
+can also be categorized as "fees for technical services". Clause
+
+(vii) to sub-section (1) of section 9 defines "fees for technical services" as
+rendering of any managerial, technical or consultancy services. The appellant
+has not disputed that payment is made for service rendered. It has submitted
+that consideration is paid by BSNL to the NTOs, for provision of service (of
+carriage / transmission of calls), pursuant to ILD (International Long
+Distance) Roaming Agreement. The arrangement between BSNL and the NTOs is a
+service contract. The nature of 'Roaming Services' is highly technical and
+cellular based. Therefore, there is no ambiguity with regard to the
+characterization of these services as "technical services".
+
+4.5.13. As per Article 12 of the Double Taxation Avoidance Agreements
+('DTAA'), taken on sample basis between India and USA, income by way of 'fees
+for included services' can be taxed in India at a reduced rate on gross basis,
+if the said 'fees for included services' are sourced in India. Article 12(4)
+of the India-USA tax treaty defines "fees for included services" as under :-
+
+"4. For purposes of this Article "Fees for included services" means payments
+of any kind to any person in consideration for the rendering of any technical
+or consultancy services (including through the provisions of services of
+technical or other personnel) if such services:
+
+(a) Are ancillary and subsidiary to the application or enjoyment of the right,
+property or information for which a payment described in paragraph 3 is
+received; or
+
+(b) Make available technical knowledge, experience, skill, know-how or
+processes or consist of the development and transfer of a technical plan or
+technical design."
+
+4.5.14 Perusal of the above shows that the payments would not only be covered
+as "fees for technical services" as per IT Act, 1961 but also as "fees for
+included services" under various treaties of countries with which BSNL has
+entered into such transactions. It may be noted that the expression "make
+available" would mean that the person providing the services merely enables
+the acquirer to use the knowledge and the provider may not participate in the
+act of doing the job himself, which is certainly the case here. The fact that
+the services were rendered outside India is immaterial. As per section
+9(1)(vii), income by way of fees for technical services payable  ITA No.
+920/Del./2017 39 by a person who is a resident, except where the fees are
+payable in respect of services utilized in a business or profession carried on
+by such person outside India or for the purposes of making or earning any
+income from any source outside India, shall be income deemed to accrue or
+arise in India. The exceptions provided in the section are not applicable in
+the appellant's case. Therefore, section 9(1)(vii) is also squarely applicable
+in the case. It is clear that any payment made by a resident against
+utilization of services in India is chargeable to tax as fees for technical
+services. The section provides for services utilized and not the place of
+rendering of services. Therefore, if the information is used or services are
+utilized in India, there will be chargeability to tax irrespective of the fact
+that information or services are rendered outside India or some preparatory
+work has been done outside India or patent etc. have been delivered outside
+India.
+
+4.5.15 For taxing any amount as FTS, its chargeability in India has to be
+ascertained first. Considering the discussions made above, it is clear that
+the sum paid / payable to the Foreign Service providers are in the nature of
+fees for Technical Services which have been utilised in India. Therefore, its
+chargeability in India is established. To clarify it further, for
+chargeability of the above said sum as FTS, there is no requirement of having
+a 'permanent establishment' in India by the Foreign Service provider, as per
+I.T. Act as well as the DTAAs. As per section 9 of the I.T. Act, the income of
+a non-resident shall be deemed to accrue or arise in India and shall be
+included in the total income of the non-resident, whether or not (i) the non-
+resident has a residence or lace of business or business connection in India
+or (ii) the non-resident has rendered services in India. Since the said sum
+was chargeable to tax in India, the appellant was required to deduct tax at
+source in accordance with the provisions of section 195(1) of the I.T. Act on
+the entire sum paid / payable.
+
+4.5.16 The appellant had paid an amount of Rs.57,78,92,080/- to International
+Operators / foreign service providers during the current year. BSNL was
+required to deduct tax on the said sum u/s 195 of the Act. Hence, the decision
+of AO to disallow the payments u/s 40(a)(ia) of the Act is justified. In view
+of my above observations, ground Nos.4, 5 & 6 of the appeal is dismissed and
+action of the AO is therefore, confirmed."
+
+15\. During course of hearing before us, it was submitted by the ld. AR that
+payment of IUC charges do not constitute income either in nature of "Fee for
+ITA No. 920/Del./2017 40 Technical Services" or "Royalty" as defined under the
+Act or under the relevant provisions of DTAA. Ld. AR referred to a sample
+agreement for payment of IUC charges between BSNL and Cable & Wireless UK copy
+of which is placed in the paper book before us. It was further submitted by
+the ld. AR that the issue in dispute now stands decided in favor of the
+appellant by following decisions :-
+
+> (i). Bharti Airtel Ltd. reported in 47 ITR (trib) 418 (Del)
+
+> (ii). Vodafone South Ltd. reported in 241 Taxman 497 (Kar)
+
+> (iii). Bharti Hexacom Ltd. reported in 42 ITR (Trib.) 686 (Jaipur)
+
+> (iv). Bharti Hexacom Ltd. reported in 179 TTJ 25 (Del)
+
+16\. Ld. CIT(DR) on the other hand supported the orders of lower authorities.
+It was submitted by her that the Ld AO has correctly concluded that the
+payment of IUC charges constituted income chargeable to tax in India in the
+hands of non resident telecom service provider as income from fee for
+technical services and / or as income from royalty.
+
+17\. We have carefully considered the facts of the case and the material
+available on record and we find that the issue in dispute is directly covered
+by the decision of ITAT in case of Bharti Airtel Limited (supra). In that case
+co- ordinate bench of this court after deep examination of the issue i.e after
+considering and going through the process of providing roaming services;
+examination of technical experts and its cross examination and also opinion of
+Hon'ble the then Chief Justice of India Mr. S.H. Kapadia dated 03rd September
+2013, has held that payment of IUC Charges is not "Fee for Technical Services"
+or "Royalty" within the meaning of its definition as per section 9(1)(vi) and
+9(1)(vii) of the Act. While reaching the above conclusion the co-ordinate
+bench also took into consideration retrospective amendments made to section
+ITA No. 920/Del./2017 41 9 by Finance Act 2012\. Relevant head-notes of this
+decision as reported in (2016) 67 taxmann.com 223(Del) are reproduced below:
+
+> "Section 9 , read with sections 194J and 195, of the Income-tax Act, 1961,
+> read with article 12 of Model OECD Convention - Income - Deemed to accrue or
+> arise in India (Royalties and Fees for technical services) - Assessment
+> years 2008-09 to 2011- 2012 - Assessee, as part of its International Long
+> Distance (ILD) Telecom Services business, was responsible for providing
+> services to its subscribers in respect of calls originated/terminated
+> outside India - For provisions of ILD services, assessee was required to
+> obtain services of Foreign Telecom Operators (FTOs) - ILD Operators were in
+> turn billed by FTOs in form of Inter- connected Usage Charges(IUC) - There
+> was no manual or human intervention during process of transportation of
+> calls between two networks - This was done automatically, with human
+> intervention being required only for installation of network which could not
+> be said to be for inter-connection of a call - Assessee merely delivered
+> calls that originated on its network to inter connection locations of FTO
+> and FTO carried and terminated calls on its network - Whether thus payment
+> of IUC by assessee to FTO in connection with its ILD telecom service
+> business was neither FTS under section 9(1)(vii), nor royalty/process
+> royalty under section 9(1)(vi)
+
+> \- Held, yes - Whether ever retrospective amendment in domestic legislation
+> does not affect royalty definition under DTAA, hence retrospective insertion
+> of Explanations 5 & 6 to section 9(1)(vi) also could not have altered this
+> position - Held, yes [Paras 33, 44, 55, 56& 72][In favour of assessee]
+> Section 9 of the Income-tax Act, 1961, read with section 5 and article 7 of
+> Model OECD Convention - Income - Deemed to accrue or arise in India
+> (Business Profits) - Assessment years 2008-09 to 2011- 2012 -Assessee made
+> payment of Inter-connected Usage Charges(IUC) to Foreign Telecom Operators
+> (FTOs) in connection with its ILD telecom service business - Payment in
+> question did not accrue or arise to 'FTOs' in India - Entire business
+> operations were carried out outside India by FTOs - FTOs also did not have
+> any Permanent Establishment in India - Whether thus no income could be
+> deemed to accrue or arise to FTO's in India and hence under article 7 also
+> income could not be brought to tax in India - Held, yes - Whether further in
+> absence of permanent establishment of FTOs in India, payment of 'IUC' to
+> FTOs could not be deemed to accrue or arise in India  ITA No. 920/Del./2017
+> 42 under any of clause of section 9(1) read with section 5(2) \- Held, yes
+> [Paras 74 & 78][In favour of assessee]"
+
+To the similar effect are other decisions cited by Ld AR. The Ld CIT(DR) has
+not been able to controvert the fact that the issue in dispute is no more res
+integra considering the above binding precedents. Moreover, a perusal of
+sample agreement for payment of IUC charges between BSNL and Cable & Wireless
+UK in the instant case also clearly shows that a standard facility for
+availing interconnectivity services while roaming was availed by the appellant
+in the instant case. This does not require any human intervention.
+Respectfully following the above judicial precedents, we hold that payment for
+IUC Charges is not chargeable to tax in India in the hands of the non-resident
+recipients and hence TDS was not deductible as per provisions of section 195
+of the Act. Therefore, we reverse the order of the Ld CIT(A) on this issue and
+decide the same in favour of the assessee. Accordingly, respective grounds
+Nos. 7, 8 & 9 are allowed.
+
+18\. In the result, the appeal of the assessee is partly allowed.
+
+Order pronounced in the open court on 25.10.2017.
+
+    
+    
+                 Sd/-                                               Sd/-
+            (Amit Shukla)                                    (L.P. Sahu)
+           Judicial member                              Accountant Member
+    
+    Dated: 25.10.2017
+    *aks*
+    Copy of order forwarded to:
+    (1)     The appellant                 (2)    The respondent
+    (3)     Commissioner                  (4)    CIT(A)
+    (5)     Departmental Representative   (6)    Guard File
+                                                                                          By order
+    
+                                                                             Assistant Registrar
+                                                                  Income Tax Appellate Tribunal
+                                                                       Delhi Benches, New Delhi
+     
+

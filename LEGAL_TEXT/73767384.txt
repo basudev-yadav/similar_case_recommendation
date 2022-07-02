@@ -1,0 +1,987 @@
+
+
+Delhi High Court
+
+Rampgreen Solutions Pvt Ltd vs Commissioner Of Income Tax on 10 August, 2015
+
+Author: Vibhu Bakhru
+
+    
+    
+    $~
+    *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+    10.
+    +                        ITA 102/2015
+           RAMPGREEN SOLUTIONS PVT LTD            ..... Appellant
+                       Through: Mr Ajay Vohra, Sr. Advocate with
+                       Mr Aditya Vohra, Advocate.
+    
+                             versus
+    
+           COMMISSIONER OF INCOME TAX                ..... Respondent
+                       Through: Ms Suruchi Aggarwal, Sr. Standing
+                       Counsel with Ms Lakshmi, Jr. Standing Counsel.
+    
+           CORAM:
+           HON'BLE DR. JUSTICE S.MURALIDHAR
+           HON'BLE MR. JUSTICE VIBHU BAKHRU
+                         ORDER
+    
+    
+    
+           %             10.08.2015
+    
+    VIBHU BAKHRU, J.
+    
+    
+
+1\. The Assessee has filed the present appeal under Section 260A of the Income
+Tax Act, 1961 (hereafter 'the Act') impugning the order dated 22 nd March,
+2013 passed by the Income Tax Appellate Tribunal (hereafter 'Tribunal') in ITA
+No. 6286/Del/2012. The Assessee had preferred the aforesaid appeal before the
+Tribunal, impugning the assessment order passed by the Assessing Officer
+(hereafter 'AO') making the Transfer Pricing Adjustments (hereafter 'TP
+Adjustments') in respect of the Assessment Year (hereafter 'AY') 2008-09 as
+finalised by the Transfer Pricing Officer ITA 102/2015 Page 1 of 42 (hereafter
+'TPO') pursuant to the directions issued by the Dispute Resolution Panel
+(hereafter 'DRP').
+
+2\. The Assessee is, essentially, aggrieved by the TP Adjustments made in
+respect of the consideration for the services rendered by the Assessee to its
+overseas holding company. The TP Adjustments have been made on the basis of
+the average operating profit margin (operating profit as a percentage of
+operating costs) declared by other companies - eight in number - selected as
+comparables for the purposes of ascertaining the Arm's Length Price (hereafter
+'ALP'). According to the Assessee, two of the companies chosen as comparable
+by the concerned authority, namely, Vishal Information Technology Ltd.
+(hereafter 'Vishal') and eClerx Services Ltd. (hereafter 'eClerx') could not
+be considered as comparables as the functions performed and the services
+rendered by the said companies were materially different from those performed
+by the Assessee.
+
+3\. This Court, by an order dated 27th February, 2015, admitted the present
+appeal and framed the following questions of law:-
+
+> "1. Did the ITAT fall into error in the given circumstances of the case in
+> confirming the transfer pricing adjustment to the extent of Rs.5,92,07,428/-
+> upholding the inclusion of ITA 102/2015 Page 2 of 42 two comparable, i.e.,
+> e-Clerx Services Limited and Vishal Information Technologies Limited, now
+> called as Coral Hub Ltd.?
+
+> 2\. Did the ITAT fall into error in not appreciating the terms of Rule l0B
+> (2) of the Rules in respect of the analysis of functionally comparable
+> companies?
+
+4\. The factual context in which the aforesaid questions of law arise are
+briefly stated as under:-
+
+4.1 The Assessee is a wholly owned subsidiary of vCustomer, USA, (an
+Associated Enterprise - hereafter 'AE'). The Assessee is engaged in providing
+voice-based customer care to the AE's clients. The Assessee renders Call
+Center services, which fall within the broad description of Information
+Technology Enables Services (hereafter 'ITeS'). The Assessee has two units
+registered under the Software Technology Park Scheme of the Government of
+India, which are located at New Delhi and Pune. The Assessee is remunerated
+for the voice call services on cost plus basis. The Assessee explained that
+the AE undertakes all activities such as marketing and enters into contracts
+with its customers seeking voice call services. The AE bears all the business
+risks and the Assessee only acts as an offshore service provider to the
+customers of the AE. In consideration for the ITA 102/2015 Page 3 of 42
+services, the AE remunerates the Assessee by payment of all costs incurred by
+the Assessee plus a mark up of fifteen percent of the costs. 4.2 During the
+previous year, relevant to the AY 2008-09, the Assessee received an amount of
+Rs. 91,73,94,525/- for voice-based call center services. The Assessee sought
+to justify the consideration received for the international transactions
+entered into with the AE to be at ALP. The Assessee submitted a Transfer
+Pricing Report adopting operating profit margin as the Profit Level Indicator
+(hereafter 'PLI') for the transfer pricing studies. The Assessee applied the
+Transactional Net Margin Method (hereafter 'TNMM'), which was considered to be
+the most appropriate method for the purposes of benchmarking the international
+transaction. The Assessee's operating profit margin (i.e. operating
+profit/total cost) was computed at 14.83% and the Assessee claimed that the
+same was comparable with other companies rendering voice call services. For
+the purposes of the transfer pricing study, the Assessee chose eight
+comparable entities and the arithmetic average of the operating profit margins
+of the said comparables was computed 15.74%. According to the Assessee, its
+PLI was within the acceptable range as indicated under the second proviso to
+Section ITA 102/2015 Page 4 of 42 92C. The Assessee further claimed that the
+PLI was liable to be adjusted on account of (i) working capital provided to
+the Assessee by the AE and (ii) the risks of the business borne by the AE.
+
+5\. The AO referred the matter to the TPO. The TPO, by an order dated 19th
+October, 2011, passed under section 92CA(3) of the Act, computed the TP
+Adjustment at Rs. 11,00,35,400/- (Rupees Eleven Crore Thirty Five Thousand and
+Four Hundred). The TPO accepted the method adopted by the Assessee (i.e.
+TNMM), but rejected the benchmarking report. The TPO also rejected the
+Assessee's claim for any adjustment on account of working capital provided to
+the Assessee and/or risks borne by the AE. The TPO proceeded to identify a
+different set of comparable companies for the purposes of determining the ALP.
+The companies selected by the TPO which were considered to be comparables
+included eClerx and Vishal (subsequently known as Coral Hub Ltd.). The TPO
+computed the average operating profit margin of the comparable companies at
+28.96% on the basis of the average operating profit margin of eleven companies
+selected by the TPO as comparables for the purposes of benchmarking the
+international transactions. On the aforesaid basis, the TPO computed the TP
+Adjustment ITA 102/2015 Page 5 of 42 at Rs. 11,00,35,400/-. The AO
+incorporated the aforesaid adjustment in the draft assessment order passed
+under Section 144C(1) of the Act on 20th December, 2011. The Assessee objected
+to the draft assessment order dated 20th December, 2011 before the DRP. The
+Assessee impugned the draft assessment order on several grounds including
+selection of certain companies as comparables and exclusion of other companies
+considered as appropriate comparables by the Assessee.
+
+6\. The DRP accepted the Assessee's contention with respect to certain
+companies, which were considered as comparables by the TPO and directed that
+the said companies be excluded for the purposes of determining the (i.e.
+average operating profit margin). However, the Assessee's contentions with
+regard to the exclusion of Vishal and eClerx were rejected by the DRP. The DRP
+held that these companies were also providing Information Technology Enabled
+Services (ITeS) and, thus, could be used as comparables. Insofar as eClerx is
+concerned, the DRP held that although there were functional dissimilarities,
+the same were not significant enough to warrant a rejection of the said
+company as a comparable. With respect to Vishal, the DRP held that the
+difference in business model of Vishal would not materially affect ITA
+102/2015 Page 6 of 42 the profit margin and thus, there was no infirmity with
+the TPO's decision to include the said company as a comparable in its report.
+
+7\. The TPO recomputed the TP Adjustment in terms of the directions issued by
+the DRP and computed the TP Adjustment at Rs. 5,92,07,428/-. The AO also made
+certain additions on account of excess deduction claimed under Section 10A of
+the Act and disallowance under Section 14A of the Act.
+
+8\. The Assessee appealed against the final assessment order dated 9 th
+October, 2012, inter alia, on the ground that eClerx and Vishal could not be
+considered as comparable entities for the purpose of calculating the benchmark
+operating profit margin. The Assessee claimed that the said companies were
+engaged in the business of Knowledge Process Outsourcing (hereafter 'KPO')
+and, thus, could not be included as comparables for the purposes of
+benchmarking studies. According to the Assessee, although KPO services were
+ITeS but the nature of the said services was materially different from the
+services rendered by the Assessee. It was asserted that eClerx is engaged in
+financial services in the nature of account ITA 102/2015 Page 7 of 42
+reconciliation, trade order management services and has been rated as a
+leading KPO by Nelso Hall. It was contended that similarly Vishal was engaged
+in the services of data analytics and providing data processing solutions to
+some of the largest brands in the world. Vishal too had been rated as a
+leading KPO by Nelso Hall. In addition, it was pointed out that whilst the
+employee costs incurred by Vishal was relatively low and constituted only
+4.39% of its total cost during the relevant year, the hire charges, vendor
+payments constituted almost 87% of the total costs. According to the Assessee,
+this evidenced that Vishal's business model was different and Vishal had
+outsourced significant part of its operations.
+
+9\. The Tribunal rejected the Assessee's contention and held that both eClerx
+and Vishal were engaged in providing ITeS and once a service fell within that
+category then no sub-classification of the segment was permissible. The
+Tribunal held that KPO is a term given to the branch of BPO Services where
+apart from processing of data, knowledge is also applied. The Assessee's
+objection that the said two companies had abnormally high profits and thus
+ought to be excluded as comparables was also rejected.
+
+ITA 102/2015 Page 8 of 42
+
+10\. The learned counsel for the Assessee submitted that eClerx and Vishal
+were KPO service providers and could not be considered as comparables for the
+purposes of benchmarking the Assessee's international transactions with the
+AE. The learned counsel referred to the decision of the Special Bench of the
+Tribunal in Maersk Global Centers (India) Pvt. Ltd. v. ACIT, ITA
+7466/Mum/2012, dated 7th March, 2014 and submitted that the issue of whether
+Vishal and eClerx could be used as comparables was decided in favour of the
+Assessee.
+
+11\. We have heard the counsel for the parties.
+
+12\. At the outset, it is necessary to bear in mind that the object and
+purpose of introducing provisions relating to transfer pricing adjustment in
+the Act. By virtue of Finance Act, 2001, Section 92 of the Act was substituted
+by Sections 92 to 92F of the Act with effect from 1 st April, 2002. Section 92
+of the Act, as was in force prior to 1 st April, 2002, enabled the AO to bring
+the correct profits to tax in relation to certain cross-border transactions.
+However, with a large number of multi-national companies establishing
+operations in India, either through their subsidiaries or through other
+related ventures, a need was felt to provide a statutory framework to ITA
+102/2015 Page 9 of 42 ensure that there is no avoidance of tax by transfer of
+income from India to other tax jurisdictions. Circular no. 14 of 2001 issued
+by the CBDT indicates that the provisions of Section 92 to 92F of the Act were
+introduced "With a view to provide a detailed statutory framework which can
+lead to computation of reasonable, fair and equitable profits and tax in
+India".
+
+13\. The heading of Chapter X also clearly indicates that it contains "special
+provisions relating to avoidance of tax". The object of Chapter X of the Act
+is not to tax any notional income but to ensure that the real income is
+brought to tax under the Act. This has also been explained by a Division Bench
+of this Court in Sony Ericsson Mobile Communications India Pvt. Ltd. and Ors.
+v. Commissioner of Income Tax-III and Ors. 374 ITR 118 in the following
+words:-
+
+> "77. As a concept and principle Chapter X does not artificially broaden,
+> expand or deviate from the concept of "real income". "Real income", as held
+> by the Supreme Court in Poona Electricity Supply Company Limited versus CIT,
+> : [1965] 57 ITR 521 (SC), means profits arrived at on commercial principles,
+> subject to the provisions of the Act. Profits and gains should be true and
+> correct profits and gains, neither under nor over stated. Arm's length price
+> seeks to correct distortion and shifting of profits to tax the actual income
+> earned by a resident/domestic AE. The profit which would have accrued had
+> arm's length conditions prevailed is brought to tax. Misreporting, if any,
+> on account of non-arm's ITA 102/2015 Page 10 of 42 length conditions
+> resulting in lower profits, is corrected."
+
+14\. The substratal rationale of the transfer pricing regulations is to ensure
+that the true income of an Assessee is brought to tax under the Act and there
+is no avoidance of tax by transfer of income from India to any other tax
+jurisdiction by virtue of the influence exercised by the associated
+enterprises. The aim of the provisions of Chapter X of the Act is to compute
+the income in relation to a controlled transaction between an Assessee and its
+associated enterprise having regard to ALP, in order to nullify the effect of
+transfer of income to a jurisdiction outside India, if any, in respect of the
+controlled transactions.
+
+15\. The exercise of determining the ALP in respect of international
+transactions between the related enterprises is aimed to determine the price,
+which would have been charged for products and services, as nearly as
+possible, in case such international transactions were not controlled by
+virtue of them being executed between related parties. The object of the
+exercise is, thus, to remove the effect of any influence on the prices or
+costs that may have been exerted on account of the international transactions
+being entered into between related parties. It is, at once, clear that for the
+exercise of ITA 102/2015 Page 11 of 42 determining ALP to be reliable, it is
+necessary that the controlled transactions be compared with uncontrolled
+transactions which are similar in all material aspects.
+
+16\. We may now refer to the relevant provisions of Chapter X of the Act
+keeping in view the aforesaid purpose and object of introducing the said
+provisions in the Act.
+
+17\. Section 92 of the Act provides that the income arising from an
+international transaction would be computed having regard to the ALP. The said
+section further provides for cost and expenses to be allocated and apportioned
+between two or more associated enterprises with regard to ALP.
+
+18\. Section 92C of the Act provides for provisions relating to computation of
+ALP. Sub-section (1) of Section 92C of the Act provides for the methods of
+computing the ALP and sub-section (2) of Section 92C of the Act mandates that
+the most appropriate method that has been referred to in Section 92C(1) be
+applied for determination of ALP. Sub-section (1) and (2) of Section 92(C) of
+the Act reads as under:-
+
+ITA 102/2015 Page 12 of 42
+
+> "92C. (1) The arm's length price in relation to an international transaction
+> or specified domestic transaction shall be determined by any of the
+> following methods, being the most appropriate method, having regard to the
+> nature of transaction or class of transaction or class of associated persons
+> or functions performed by such persons or such other relevant factors as the
+> Board may prescribe, namely :--
+
+> (a) comparable uncontrolled price method;
+
+> (b) resale price method;
+
+> (c) cost plus method;
+
+> (d) profit split method;
+
+> (e) transactional net margin method;
+
+> (f) such other method as may be prescribed by the Board.
+
+> (2) The most appropriate method referred to in sub-section (1) shall be
+> applied, for determination of arm's length price, in the manner as may be
+> prescribed:
+
+> Provided that where more than one price is determined by the most
+> appropriate method, the arm's length price shall be taken to be the
+> arithmetical mean of such prices: Provided further that if the variation
+> between the arm's length price so determined and price at which the
+> international transaction or specified domestic transaction has actually
+> been undertaken does not exceed such percentage not exceeding three per cent
+> of the latter, as may be notified by the Central Government in the Official
+> Gazette in this behalf, the price at which the international transaction or
+> specified domestic transaction has actually been undertaken shall be deemed
+> to be the arm's length price :
+
+> Provided also that where more than one price is determined by the most
+> appropriate method, the arm's length price in relation to an international
+> transaction or specified domestic ITA 102/2015 Page 13 of 42 transaction
+> undertaken on or after the 1st day of April, 2014, shall be computed in such
+> manner as may be prescribed and accordingly the first and second proviso
+> shall not apply.
+
+> Explanation.--For the removal of doubts, it is hereby clarified that the
+> provisions of the second proviso shall also be applicable to all assessment
+> or reassessment proceedings pending before an Assessing Officer as on the
+> 1st day of October, 2009."
+
+19\. It is also necessary to refer to Rule 10B of the Income Tax Rules, 1962
+which provides for determination of ALP under Section 92C of the Act. Sub-
+rule(1) of Rule 10B contains provisions in relation to various methods of
+calculation of ALP as provided under Section 92C of the Act and reads as
+under:-
+
+> "10B. (1) For the purposes of sub-section (2) of section 92C, the arm's
+> length price in relation to an international transaction or a specified
+> domestic transaction shall be determined by any of the following methods,
+> being the most appropriate method, in the following manner, namely :--
+
+> (a) comparable uncontrolled price method, by which,--
+
+> (i) the price charged or paid for property transferred or services provided
+> in a comparable uncontrolled transaction, or a number of such transactions,
+> is identified;
+
+> (ii) such price is adjusted to account for differences, if any, between the
+> international transaction or the specified domestic transaction and the
+> comparable uncontrolled transactions or between the enterprises ITA 102/2015
+> Page 14 of 42 entering into such transactions, which could materially affect
+> the price in the open market;
+
+> (iii) the adjusted price arrived at under sub-clause (ii) is taken to be an
+> arm's length price in respect of the property transferred or services
+> provided in the international transaction or the specified domestic
+> transaction;
+
+> (b) resale price method, by which,--
+
+> (i) the price at which property purchased or services obtained by the
+> enterprise from an associated enterprise is resold or are provided to an
+> unrelated enterprise, is identified;
+
+> (ii) such resale price is reduced by the amount of a normal gross profit
+> margin accruing to the enterprise or to an unrelated enterprise from the
+> purchase and resale of the same or similar property or from obtaining and
+> providing the same or similar services, in a comparable uncontrolled
+> transaction, or a number of such transactions;
+
+> (iii) the price so arrived at is further reduced by the expenses incurred by
+> the enterprise in connection with the purchase of property or obtaining of
+> services;
+
+> (iv) the price so arrived at is adjusted to take into account the functional
+> and other differences, including differences in accounting practices, if
+> any, between the international transaction or the specified domestic
+> transaction and the comparable uncontrolled transactions, or between the
+> enterprises entering into such transactions, which could materially affect
+> the amount of gross profit margin in the open market;
+
+ITA 102/2015 Page 15 of 42
+
+> (v) the adjusted price arrived at under sub-clause (iv) is taken to be an
+> arm's length price in respect of the purchase of the property or obtaining
+> of the services by the enterprise from the associated enterprise;
+
+> (c) cost plus method, by which,--
+
+> (i) the direct and indirect costs of production incurred by the enterprise
+> in respect of property transferred or services provided to an associated
+> enterprise, are determined;
+
+> (ii) the amount of a normal gross profit mark-up to such costs (computed
+> according to the same accounting norms) arising from the transfer or
+> provision of the same or similar property or services by the enterprise, or
+> by an unrelated enterprise, in a comparable uncontrolled transaction, or a
+> number of such transactions, is determined;
+
+> (iii) the normal gross profit mark-up referred to in sub-
+
+> clause (ii) is adjusted to take into account the functional and other
+> differences, if any, between the international transaction or the specified
+> domestic transaction and the comparable uncontrolled transactions, or
+> between the enterprises entering into such transactions, which could
+> materially affect such profit mark-up in the open market;
+
+> (iv) the costs referred to in sub-clause (i) are increased by the adjusted
+> profit mark-up arrived at under sub- clause (iii);
+
+> (v) the sum so arrived at is taken to be an arm's length price in relation
+> to the supply of the property or provision of services by the enterprise;
+
+> (d) profit split method, which may be applicable mainly in ITA 102/2015 Page
+> 16 of 42 international transactions or specified domestic transactions
+> involving transfer of unique intangibles or in multiple international
+> transactions or specified domestic transactions which are so interrelated
+> that they cannot be evaluated separately for the purpose of determining the
+> arm's length price of any one transaction, by which--
+
+> (i) the combined net profit of the associated enterprises arising from the
+> international transaction or the specified domestic transaction in which
+> they are engaged, is determined;
+
+> (ii) the relative contribution made by each of the associated enterprises to
+> the earning of such combined net profit, is then evaluated on the basis of
+> the functions performed, assets employed or to be employed and risks assumed
+> by each enterprise and on the basis of reliable external market data which
+> indicates how such contribution would be evaluated by unrelated enterprises
+> performing comparable functions in similar circumstances;
+
+> (iii) the combined net profit is then split amongst the enterprises in
+> proportion to their relative contributions, as evaluated under sub-clause
+> (ii);
+
+> (iv) the profit thus apportioned to the assessee is taken into account to
+> arrive at an arm's length price in relation to the international transaction
+> or the specified domestic transaction:
+
+> Provided that the combined net profit referred to in sub-clause
+
+> (i) may, in the first instance, be partially allocated to each enterprise so
+> as to provide it with a basic return appropriate for the type of
+> international transaction or specified domestic transaction in which it is
+> engaged, with reference to market returns achieved for similar types of
+> transactions by independent enterprises, and thereafter, the residual net
+> profit remaining after such allocation may be split amongst the ITA 102/2015
+> Page 17 of 42 enterprises in proportion to their relative contribution in
+> the manner specified under sub-clauses (ii) and (iii), and in such a case
+> the aggregate of the net profit allocated to the enterprise in the first
+> instance together with the residual net profit apportioned to that
+> enterprise on the basis of its relative contribution shall be taken to be
+> the net profit arising to that enterprise from the international transaction
+> or the specified domestic transaction ;
+
+> (e) transactional net margin method, by which,--
+
+> (i) the net profit margin realised by the enterprise from an international
+> transaction or a specified domestic transaction entered into with an
+> associated enterprise is computed in relation to costs incurred or sales
+> effected or assets employed or to be employed by the enterprise or having
+> regard to any other relevant base;
+
+> (ii) the net profit margin realised by the enterprise or by an unrelated
+> enterprise from a comparable uncontrolled transaction or a number of such
+> transactions is computed having regard to the same base;
+
+> (iii) the net profit margin referred to in sub-clause (ii) arising in
+> comparable uncontrolled transactions is adjusted to take into account the
+> differences, if any, between the international transaction or the specified
+> domestic transaction and the comparable uncontrolled transactions, or
+> between the enterprises entering into such transactions, which could
+> materially affect the amount of net profit margin in the open market;
+
+> (iv) the net profit margin realised by the enterprise and referred to in
+> sub-clause (i) is established to be the ITA 102/2015 Page 18 of 42 same as
+> the net profit margin referred to in sub- clause (iii);
+
+> (v) the net profit margin thus established is then taken into account to
+> arrive at an arm's length price in relation to the international transaction
+> or the specified domestic transaction;
+
+> (f) any other method as provided in rule 10AB."
+
+For the purposes of the present case, clause (e) of sub-rule (1) of Rule 10B
+is relevant as it pertains to determination of ALP by TNMM.
+
+20\. In order for the benchmarking studies to be reliable for the purposes of
+determining the ALP, it would be essential that the entities selected as
+comparables are functionally similar and are subject to the similar business
+environment and risks as the tested party. In order to impute an ALP to a
+controlled transaction, it would be essential to ensure that the instances of
+uncontrolled entities/transactions selected as comparables are similar in all
+material aspects that have any bearing on the value or the profitability, as
+the case may be, of the transaction. Any factor, which has an influence on the
+PLI, would be material and it would be necessary to ensure that the
+comparables are also equally subjected to the influence of such factors as the
+tested party. This would, obviously, include business environment; the ITA
+102/2015 Page 19 of 42 nature and functions performed by the tested party and
+the comparable entities; the value addition in respect of products and
+services provided by parties; the business model; and the assets and resources
+employed. It cannot be disputed that the functions performed by an entity
+would have a material bearing on the value and profitability of the entity. It
+is, therefore, obvious that the comparables selected and the tested party must
+be functionally similar for ascertaining a reliable ALP by TNMM. Rule 10B(2)
+of the Income Tax Rules, 1962 also clearly indicates that the comparability of
+controlled transactions would be judged with reference to the factors as
+indicated therein. Clause (a) and (b) of Rule 10B(2) expressly indicate that
+the specific characteristics of the services provided and the functions
+performed would be factors for considering the comparability of uncontrolled
+transactions with controlled transactions.
+
+21\. Rule 10B(2) reads as under:-
+
+> "(2) For the purposes of sub-rule (1), the comparability of an international
+> transaction or a specified domestic transaction with an uncontrolled
+> transaction shall be judged with reference to the following, namely:--
+
+> (a) the specific characteristics of the property transferred or services
+> provided in either transaction;
+
+> (b) the functions performed, taking into account assets ITA 102/2015 Page 20
+> of 42 employed or to be employed and the risks assumed, by the respective
+> parties to the transactions;
+
+> (c) the contractual terms (whether or not such terms are formal or in
+> writing) of the transactions which lay down explicitly or implicitly how the
+> responsibilities, risks and benefits are to be divided between the
+> respective parties to the transactions;
+
+> (d) conditions prevailing in the markets in which the respective parties to
+> the transactions operate, including the geographical location and size of
+> the markets, the laws and Government orders in force, costs of labour and
+> capital in the markets, overall economic development and level of
+> competition and whether the markets are wholesale or retail."
+
+> 22\. In the facts of the present case, it is not disputed that Vishal and
+> eClerx are entities engaged in Knowledge Process Outsourcing Services (KPO
+> Services). Thus, the principal question to be addressed is whether a KPO
+> Service provider could be considered as a comparable for benchmarking
+> international transactions entered into by an entity rendering voice call
+> services - such as the Assessee -with its associated enterprise by using
+> TNMM and taking operating profit margin as the PLI .
+
+23\. In this case, the Tribunal noted that eClerx was engaged in data
+processing and analytics services and held that the activities of the Assessee
+ITA 102/2015 Page 21 of 42 were functionally similar to those of eClerx. The
+Tribunal concluded that voice call services and KPO services were essentially
+ITeS and, therefore, entities rendering the aforesaid services could be
+considered as comparables for the purpose of benchmarking international
+transactions by using TNMM. The Tribunal held that further sub-division of
+ITeS was not permissible. The Tribunal followed its earlier decision in Willis
+Processing Services (I) (P.) Ltd. v. Dy. CIT 30 ITR (Trib)129 (Mumbai) 2014.
+
+24\. It is not disputed that voice call services are considered to be the
+lower-end of ITeS. KPO on the other hand are ITeS where the service providers
+have to employ advanced level of skills and knowledge. Notification No.
+SO2810(E) dated 18th September 2013 issued by the CBDT notifying Safe Harbour
+Rules also indicates the above. Rule 10TA(g) of the said Rules defines KPO
+Services as under:-
+
+> " (g) "knowledge process outsourcing services" means the following business
+> process outsourcing services provided mainly with the assistance or use of
+> information technology requiring application of knowledge and advanced
+> analytical and technical skills, namely:‐
+
+> (i) geographic information system;
+
+> (ii) human resources services;
+
+ITA 102/2015 Page 22 of 42
+
+> (iii) engineering and design services;
+    
+    
+           (iv) animation       or    content   development    and
+           management;
+           (v) business analytics;
+           (vi) financial analytics; or
+           (vii) market research,
+    
+
+> but does not include any research and development services whether or not in
+> the nature of contract research and development services;"
+
+25\. Whilst Voice Call Center represents the lower-end of ITeS, KPO represents
+services involving a higher level of skills and knowledge. India has vast
+human resources and a large number of highly-skilled technical professionals.
+The expression "KPO" indicates the involvement of domain knowledge in
+providing ITeS. Typically, KPO includes involvement of advance skills; the
+services provided may include analytical services, market research, legal
+research, engineering and design services, intellectual management etc. On the
+other hand, Voice Call Centers are normally involved in customer support and
+processing of routine data. In the case of Maersk Global Centers (India) Pvt.
+Ltd. v. ACIT (supra) a Special Bench of the Tribunal had referred to a report
+prepared by National Skill Development Corporation (NSDC) on Human Resource
+and Skill Requirements in IT and ITES Sector (2022) and noted that the KPO
+sector ITA 102/2015 Page 23 of 42 has been described as "a value play". The
+said report also indicates that KPO services are likely to span activities
+such as "patent advisory, high-end research and analytics, online market
+research and legal advisory".
+
+26\. A Knowledge Process is understood as a high value added process chain
+wherein the processes are dependent on advanced skills, domain knowledge and
+the experience of the persons carrying on such processes.
+
+27\. The Government of Rajasthan (Department of Information Technology &
+Communication) has also floated a scheme on 12 th December, 2011 known as "The
+Rajasthan Incentive Scheme for BPO Centers and KPO Centers, 2011". The said
+scheme is for providing incentives to promote ITeS and to generate further
+employment opportunities. In terms of the said scheme, "Business Process
+Outsourcing (BPO)" is defined to mean "the transfer of an organization's
+entire non-core but critical business process/function to an external centre
+which uses an IT-based service delivery" and "Knowledge Processing Outsourcing
+(KPO)" has been defined to mean "allocation of relatively high-level tasks to
+an outside organization or a different group (possibly in a different
+location) within the ITA 102/2015 Page 24 of 42 same organization. KPO is,
+essentially, high-end Business Process Outsourcing (BPO)".
+
+28\. In our view, the definition of KPO provided under the afore- mentioned
+scheme also indicates that KPO services are understood as the higher-end of
+ITeS in terms of value addition.
+
+29\. It is apparent from the above that while entities rendering Voice Call
+Center services for customer support and a KPO service provider may be
+employing IT-based delivery systems, the characteristics of services, the
+functional aspects, business environment, risks and the quality of human
+resource employed would be materially different. It plainly follows that
+benchmarking international transactions on the basis of comparing the PLI of
+high-end KPO service providers with the PLI of Voice Call Centers would be
+unreliable and possibly flawed.
+
+30\. As indicated above, in order to determine the ALP in relation to a
+controlled transaction, the analysis must include comparables which are
+similar in all aspects that have a material bearing on their profitability.
+ITA 102/2015 Page 25 of 42 Paragraph 1.36 of the "OECD Transfer Pricing
+Guidelines for Multinational Enterprises and Tax Administrations" published in
+2010 (hereafter 'OECD Guidelines') indicates the "comparability factors" which
+are important while considering the comparability of uncontrolled
+transactions/entities with the controlled transactions/entities. Sub-rule (2)
+of rule 10B of the Income Tax Rules, 1962 also mandates that the comparability
+of international transactions with uncontrolled transactions would be judged
+with reference to the factors indicated under clauses (a) to (d) of that sub-
+rule, which are similar to the comparability factors as indicated under the
+OECD Guidelines. These include characteristics of property or services
+transferred and functions performed. The relevant extract from the OECD
+Guidelines are quoted below:
+
+> "1.36 As noted above, in making these comparisons, material differences
+> between the compared transactions or enterprises should be taken into
+> account. In order to establish the degree of actual comparability and then
+> to make appropriate adjustments to establish arm's length conditions (or a
+> range thereof), it is necessary to compare attributes of the transactions or
+> enterprises that would affect conditions in arm's length transactions.
+> Attributes or "comparability factors" that may be important when determining
+> comparability include the characteristics of the property or services
+> transferred, the functions performed by the parties (taking into account
+> assets used and risks assumed), the contractual terms, the economic
+> circumstances of the parties, and the business strategies ITA 102/2015 Page
+> 26 of 42 pursued by the parties. These comparability factors are discussed
+> in more detail at Section D.1.2 below.
+
+> xxxx xxxx xxxx xxxx 1.39 Differences in the specific characteristics of
+> property or services often account, at least in part, for differences in
+> their value in the open market. Therefore, comparisons of these features may
+> be useful in determining the comparability of controlled and uncontrolled
+> transactions. Characteristics that may be important to consider include the
+> following: in the case of transfers of tangible property, the physical
+> features of the property, its quality and reliability, and the availability
+> and volume of supply; in the case of the provision of services, the nature
+> and extent of the services; and in the case of intangible property, the form
+> of transaction (e.g. licensing or sale), the type of property (e.g. patent,
+> trademark, or know- how), the duration and degree of protection, and the
+> anticipated benefits from the use of the property. 1.40 Depending on the
+> transfer pricing method, this factor must be given more or less weight.
+> Among the methods described at Chapter II of these Guidelines, the
+> requirement for comparability of property or services is the strictest for
+> the comparable uncontrolled price method. Under the comparable uncontrolled
+> price method, any material difference in the characteristics of property or
+> services can have an effect on the price and would require an appropriate
+> adjustment to be considered (see in particular paragraph 2.15). Under the
+> resale price method and cost plus method, some differences in the
+> characteristics of property or services are less likely to have a material
+> effect on the gross profit margin or mark- up on costs (see in particular
+> paragraphs 2.23 and 2.41). Differences in the characteristics of property or
+> services are also less sensitive in the case of the transactional profit
+> methods than in the case of traditional transaction methods (see in
+> particular paragraph 2.69). This however ITA 102/2015 Page 27 of 42 does not
+> mean that the question of comparability in characteristics of property or
+> services can be ignored when applying these methods, because it may be that
+> product differences entail or reflect different functions performed, assets
+> used and/or risks assumed by the tested party. See paragraphs 3.18-3.19 for
+> a discussion of the notion of tested party.
+
+> 1.41 In practice, it has been observed that comparability analyses for
+> methods based on gross or net profit indicators often put more emphasis on
+> functional similarities than on product similarities. Depending on the facts
+> and circumstances of the case, it may be acceptable to broaden the scope of
+> the comparability analysis to include uncontrolled transactions involving
+> products that are different, but where similar functions are undertaken.
+> However, the acceptance of such an approach depends on the effects that the
+> product differences have on the reliability of the comparison and on whether
+> or not more reliable data are available. Before broadening the search to
+> include a larger number of potentially comparable uncontrolled transactions
+> based on similar functions being undertaken, thought should be given to
+> whether such transactions are likely to offer reliable comparables for the
+> controlled transaction.
+
+> D.1.2.2 Functional analysis 1.42 In transactions between two independent
+> enterprises, compensation usually will reflect the functions that each
+> enterprise performs (taking into account assets used and risks assumed).
+> Therefore, in determining whether controlled and uncontrolled transactions
+> or entities are comparable, a functional analysis is necessary. This
+> functional analysis seeks to identify and compare the economically
+> significant activities and responsibilities undertaken, assets used and
+> risks assumed by the parties to the transactions. For this purpose, it may
+> be helpful to understand the structure and organisation of the group and how
+> they influence the context in which the taxpayer ITA 102/2015 Page 28 of 42
+> operates. It will also be relevant to determine the legal rights and
+> obligations of the taxpayer in performing its functions.
+
+> 1.43 The functions that taxpayers and tax administrations might need to
+> identify and compare include, e.g. design, manufacturing, assembling,
+> research and development, servicing, purchasing, distribution, marketing,
+> advertising, transportation, financing and management. The principal
+> functions performed by the party under examination should be identified.
+> Adjustments should be made for any material differences from the functions
+> undertaken by any independent enterprises with which that party is being
+> compared. While one party may provide a large number of functions relative
+> to that of the other party to the transaction, it is the economic
+> significance of those functions in terms of their frequency, nature, and
+> value to the respective parties to the transactions that is important.
+
+> 1.44 The functional analysis should consider the type of assets used, such
+> as plant and equipment, the use of valuable intangibles, financial assets,
+> etc., and the nature of the assets used, such as the age, market value,
+> location, property right protections available, etc. 1.45 Controlled and
+> uncontrolled transactions and entities are not comparable if there are
+> significant differences in the risks assumed for which appropriate
+> adjustments cannot be made. Functional analysis is incomplete unless the
+> material risks assumed by each party have been considered since the
+> assumption or allocation of risks would influence the conditions of
+> transactions between the associated enterprises. Usually, in the open
+> market, the assumption of increased risk would also be compensated by an
+> increase in the expected return, although the actual return may or may not
+> increase depending on the degree to which the risks are actually realised.
+
+ITA 102/2015 Page 29 of 42
+
+> 1.46 The types of risks to consider include market risks, such as input cost
+> and output price fluctuations; risks of loss associated with the investment
+> in and use of property, plant, and equipment; risks of the success or
+> failure of investment in research and development; financial risks such as
+> those caused by currency exchange rate and interest rate variability; credit
+> risks; and so forth.
+
+> xxxx xxxx xxxx xxxx 1.51 In some cases, it has been argued that the relative
+> lack of accuracy of the functional analysis of possible external comparables
+> (as defined in paragraph 3.24) might be counterbalanced by the size of the
+> sample of third party data; however quantity does not make up for poor
+> quality of data in producing a sufficiently reliable analysis. See
+> paragraphs 3.2, 3.38 and 3.46. "
+
+31\. In the present case, the Tribunal noted that Vishal and eClerx were both
+engaged in rendering ITeS. The Tribunal held that, "once a service falls under
+the category of ITeS, then there is no sub-classification of segment". Thus,
+according to the Tribunal, no differentiation could be made between the
+entities rendering ITeS. We find it difficult to accept this view as it is
+contrary to the fundamental rationale of determining ALP by comparing
+controlled transactions/entities with similar uncontrolled
+transactions/entities. ITeS encompasses a wide spectrum of services that use
+Information Technology based delivery. Such services could include rendering
+highly technical services by qualified technical personnel, ITA 102/2015 Page
+30 of 42 involving advanced skills and knowledge, such as engineering, design
+and support. While, on the other end of the spectrum ITeS would also include
+voice-based call centers that render routine customer support for their
+clients. Clearly, characteristics of the service rendered would be dissimilar.
+Further, both service providers cannot be considered to be functionally
+similar. Their business environment would be entirely different, the demand
+and supply for the services would be different, the assets and capital
+employed would differ, the competence required to operate the two services
+would be different. Each of the aforesaid factors would have a material
+bearing on the profitability of the two entities. Treating the said entities
+to be comparables only for the reason that they use Information Technology for
+the delivery of their services, would, in our opinion, be erroneous.
+
+32\. It has been pointed out that whilst the Tribunal in Willis Processing
+Services (India) Pvt. Ltd. v. DCIT (supra) held that no distinction could be
+made between KPO and BPO service providers, however, a contrary view had been
+taken by several benches of the Tribunal in other cases. In Capital IQ
+Information System India (P.) Ltd. v. Dy. CIT, (IT) [2013] 32 taxmann.com 21
+and Lloyds TSB Global Services Pvt. Ltd. v. DCIT, (ITA ITA 102/2015 Page 31 of
+42 No. 5928/Mum/2012 dated 21th November 2012), the Hyderabad and Mumbai Bench
+of the Tribunal respectively accepted the view that a BPO service provider
+could not be compared with a KPO service provider.
+
+33\. The Special Bench of the Tribunal in Maersk Global Centers (India) Pvt.
+Ltd. (supra) struck a different cord. The Special Bench of the Tribunal held
+that even though there appears to be a difference between BPO and KPO
+Services, the line of difference is very thin. The Tribunal was of the view
+that there could be a significant overlap in their activities and it may be
+difficult to classify services strictly as falling under the category of
+either a BPO or a KPO. The Tribunal also observed that one of the key success
+factors of the BPO Industry is its ability to move up the value chain through
+KPO service offering. For the aforesaid reasons, the Special Bench of the
+Tribunal held that ITeS Services could not be bifurcated as BPO and KPO
+Services for the purpose of comparability analysis in the first instance. The
+Tribunal proceeded to hold that a relatively equal degree of comparability can
+be achieved by selecting potential comparables on a broad functional analysis
+at ITeS level and that the comparables so selected could be put to further
+test by comparing specific functions performed in the international ITA
+102/2015 Page 32 of 42 transactions with uncontrolled transactions to attain
+relatively equal degree of comparability.
+
+34\. We have reservations as to the Tribunal's aforesaid view in Maersk Global
+Centers (India) Pvt. Ltd. (supra). As indicated above, the expression 'BPO'
+and 'KPO' are, plainly, understood in the sense that whereas, BPO does not
+necessarily involve advanced skills and knowledge; KPO, on the other hand,
+would involve employment of advanced skills and knowledge for providing
+services. Thus, the expression 'KPO' in common parlance is used to indicate an
+ITeS provider providing a completely different nature of service than any
+other BPO service provider. A KPO service provider would also be functionally
+different from other BPO service providers, inasmuch as the responsibilities
+undertaken, the activities performed, the quality of resources employed would
+be materially different. In the circumstances, we are unable to agree that
+broadly ITeS sector can be used for selecting comparables without making a
+conscious selection as to the quality and nature of the content of services.
+Rule 10B(2)(a) of the Income Tax Rules, 1962 mandates that the comparability
+of controlled and uncontrolled transactions be judged with reference to
+service/product characteristics. This ITA 102/2015 Page 33 of 42 factor cannot
+be undermined by using a broad classification of ITeS which takes within its
+fold various types of services with completely different content and value.
+Thus, where the tested party is not a KPO service provider, an entity
+rendering KPO services cannot be considered as a comparable for the purposes
+of Transfer Pricing analysis. The perception that a BPO service provider may
+have the ability to move up the value chain by offering KPO services cannot be
+a ground for assessing the transactions relating to services rendered by the
+BPO service provider by benchmarking it with the transactions of KPO services
+providers. The object is to ascertain the ALP of the service rendered and not
+of a service (higher in value chain) that may possibly be rendered
+subsequently.
+
+35\. As pointed out by the Special Bench of the Tribunal in Maersk Global
+Centers (India) Pvt. Ltd. (supra), there may be cases where an entity may be
+rendering a mix of services some of which may be functionally comparable to a
+KPO while other services may not. In such cases a classification of BPO and
+KPO may not be feasible. Clearly, no straitjacket formula can be applied. In
+cases where the categorization of services rendered cannot be defined with
+certainty, it would be apposite to employ ITA 102/2015 Page 34 of 42 the broad
+functionality test and then exclude uncontrolled entities, which are found to
+be materially dissimilar in aspects and features that have a bearing on the
+profitability of those entities. However, where the controlled transactions
+are clearly in the nature of lower-end ITeS such as Call Centers etc. for
+rendering data processing not involving domain knowledge, inclusion of any KPO
+service provider as a comparable would not be warranted and the transfer
+pricing study must take that into account at the threshold.
+
+36\. As pointed out earlier, the transfer pricing analysis must serve the
+broad object of benchmarking an international transaction for determining an
+ALP. The methodology necessitates that the comparables must be similar in
+material aspects. The comparability must be judged on factors such as
+product/service characteristics, functions undertaken, assets used, risks
+assumed. This is essential to ensure the efficacy of the exercise. There is
+sufficient flexibility available within the statutory framework to ensure a
+fair ALP.
+
+37\. Applying the aforesaid principles to the facts of the present case, it is
+ITA 102/2015 Page 35 of 42 once again clear that both Vishal and eClerx could
+not be taken as comparables for determining the ALP. Vishal and eClerx, both
+are into KPO Services. In Maersk Global Centers (India) Pvt. Ltd. (supra), the
+Special Bench of the Tribunal had noted that eClerx is engaged in data
+analytics, data processing services, pricing analytics, bundling optimization,
+content operation, sales and marketing support, product data management,
+revenue management. In addition, eClerx also offered financial services such
+as real-time capital markets, middle and back-office support, portfolio risk
+management services and various critical data management services. Clearly,
+the aforesaid services are not comparable with the services rendered by the
+Assessee. Further, the functions undertaken (i.e. the activities performed)
+are also not comparable with the Assessee. In our view, the Tribunal erred in
+holding that the functions performed by the Assessee were broadly similar to
+that of eClerx or Vishal. The operating margin of eClerx, thus, could not be
+included to arrive at an ALP of controlled transactions, which were materially
+different in its content and value. In Maersk Global Centers (India) Pvt. Ltd.
+(supra), the Special Bench of the Tribunal had noted the same and had, thus,
+excluded eClerx as a comparable. It is further observed that the comparability
+of eClerx had also been examined by the ITA 102/2015 Page 36 of 42 Hyderabad
+Bench of the Tribunal in M/s Capital Iq Information Systems (India) (P.) Ltd.
+v. Additional Commissioner of Income-tax (supra), wherein, the Tribunal
+directed the exclusion of eClerx as a comparable for the reason that it was
+engaged in providing KPO Services and further that it had also returned
+supernormal profits.
+
+38\. In our view, even Vishal could not be considered as a comparable, as
+admittedly, its business model was completely different. Admittedly, Vishal's
+expenditure on employment cost during the relevant period was a small fraction
+of the proportionate cost incurred by the Assessee, apparently, for the reason
+that most of its work was outsourced to other vendors/service providers. The
+DRP and the Tribunal erred in brushing aside this vital difference by
+observing that outsourcing was common in ITeS industry and the same would not
+have a bearing on profitability. Plainly, a business model where services are
+rendered by employing own employees and using one's own infrastructure would
+have a different cost structure as compared to a business model where services
+are outsourced. There was no material for the Tribunal to conclude that the
+outsourcing of services by Vishal would have no bearing on the profitability
+of the said entity. ITA 102/2015 Page 37 of 42
+
+39\. It is also relevant to note that in the case of Maersk Global Centers
+(India) Pvt. Ltd. (supra), the DRP itself had accepted the objection of the
+Assessee and had excluded Vishal as a comparable for the reason as quoted
+below:-
+
+> "... that it had a very low employment cost and very high cost on account of
+> venture payment, which suggested that its business model was that of an
+> outsourcing company and in view of this functional difference, Vishal Ltd.
+> could not be considered as a comparable."
+
+40\. The Assessee had also sought the exclusion of eClerx and Vishal on the
+ground that both the companies had returned supernormal profits. Whereas the
+operating margins (operating margin over total cost) in case of Vishal and
+eClerx were 50.68% and 65.88% respectively, the PLIs of all other comparables
+were in the range of 2.2% to 24%. In our view, it would not be apposite to
+exclude comparables only for the reason that their profits are high, as the
+same is not provided for in the statutory framework. The OECD Guidelines
+suggest that a quartile method be adopted which excludes entities that fall in
+the extreme quartiles for comparability. However, neither Chapter X of the Act
+nor the Rules made by CBDT provide for exclusion for such statistical reason.
+
+ITA 102/2015 Page 38 of 42
+
+41\. Having stated the same, it may be necessary to bear in mind that
+supernormal profits may in certain cases indicate a functional dissimilarity
+or dissimilarity with respect to a feature that has a material bearing on the
+profitability. In such circumstances, it would be necessary to undertake
+further analysis to eliminate the possibility of the high profits resulting on
+account of any material dissimilarity between the tested party and the chosen
+comparable. A wide deviation in the PLI amongst selected comparables could be
+indicative that the comparables selected are either materially dissimilar or
+the data used is not reliable. The Tribunal proceeded on the basis that an
+adjustment could be made only in cases where supernormal profits resulted from
+the factors indicated in Rule 10B of the Income Tax Rules, 1962. In our view,
+the factors mentioned in Rule 10B are not exhaustive. The principal object of
+benchmarking international transactions against uncontrolled transactions is
+to impute an ALP to those transactions. This exercise would fail if a factor,
+which has a material bearing on the value or the profitability, as the case
+may be, depending on the method used, is ignored.
+
+42\. Before concluding, there is yet another aspect of the matter that needs
+ITA 102/2015 Page 39 of 42 consideration. The Tribunal proceeded on the basis
+that while applying TNMM method, broad functionality is sufficient and it is
+not necessary that further effort be taken to find a comparable entity
+rendering services of similar characteristics as the tested entity. The DRP
+held that TNMM allows flexibility and tolerance in selection of comparables,
+as functional dissimilarities are subsumed at net margin levels, as compared
+to Resale Price Method or Comparable Uncontrolled Price Method and, therefore,
+the functional dissimilarities pointed out by the Assessee did not warrant
+rejection of eClerx and Vishal as comparables.
+
+43\. In our view, the aforesaid approach would not be apposite. Insofar as
+identifying comparable transactions/entities is concerned, the same would not
+differ irrespective of the transfer pricing method adopted. In other words,
+the comparable transactions/entities must be selected on the basis of
+similarity with the controlled transaction/entity. Comparability of controlled
+and uncontrolled transactions has to be judged, inter alia, with reference to
+comparability factors as indicated under rule 10B(2) of the Income Tax Rules,
+1962. Comparability analysis by TNMM method may be less sensitive to certain
+dissimilarities between the tested party and the ITA 102/2015 Page 40 of 42
+comparables. However, that cannot be the consideration for diluting the
+standards of selecting comparable transactions/entities. A higher product and
+functional similarity would strengthen the efficacy of the method in
+ascertaining a reliable ALP. Therefore, as far as possible, the comparables
+must be selected keeping in view the comparability factors as specified. Wide
+deviations in PLI must trigger further investigations/analysis.
+
+44\. Consideration for a transaction would reflect the functions performed,
+the significant activities undertaken, the assets or resources used/consumed,
+the risks assumed. Thus, comparison of activities undertaken/functions
+performed is important for determining the comparability between controlled
+and uncontrolled transactions/entity. It would not be apposite to ignore
+functional dissimilarity only for the reason that its impact may be reduced on
+account of using arithmetical mean of the PLI. The DRP had noted that eClerx
+was functionally dissimilar, but ignored the same relying on an assumption
+that the functional dissimilarity would be subsumed in the profit margin. As
+noted, the content of services provided by the Assessee and the entities in
+question were not similar. In addition, there were also functional
+dissimilarities between the Assessee and the two entities in question. In our
+view, these comparability factors could not be ignored by ITA 102/2015 Page 41
+of 42 the Tribunal. While using TNMM, the search for comparables may be
+broadened by including comparables offering services/products which are not
+entirely similar to the controlled transaction/entity. However, this can be
+done only if (a) the functions performed by the tested party and the selected
+comparable entity are similar including the assets used and the risks assumed;
+and (b) the difference in services/products offered has no material bearing on
+the profitability.
+
+45\. In view of the aforesaid, the questions of law framed by an order dated
+27th February, 2015 are answered in the affirmative and against the Revenue.
+The impugned order dated 22nd March, 2013 of the Tribunal and the final
+assessment order dated 9th October, 2012 are hereby set aside. The appeal is
+allowed.
+
+VIBHU BAKHRU, J S. MURALIDHAR, J AUGUST 10, 2015 RK ITA 102/2015 Page 42 of 42
+

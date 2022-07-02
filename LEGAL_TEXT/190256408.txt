@@ -1,0 +1,3062 @@
+
+
+Delhi High Court
+
+Astrazeneca Ab & Anr. vs Alkem Laboratories Limited on 2 November, 2020
+
+    
+    
+               $~J-1 & 2
+               *     IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                                Judgement reserved on 22.10.2020
+                                                             Judgement pronounced on 02.11.2020
+    
+                         I.A. No. 8826/2020
+                         in
+               +         CS (COMM) No. 410/2020
+    
+                         ASTRAZENECA AB & ANR                             .....Plaintiffs
+                                     Through : Mr. Kapil Sibal, Mr. Harish Salve and
+                                               Mr. Sudhir Chandra, Senior Advocates
+                                               with Mr. Pravin Anand, Ms. Vaishali
+                                               Mittal, Mr. Rohin Koolwal, Mr. Siddhant
+                                               Chamola, Ms. Devyani Nath and Mr.
+                                               Souradeep Mukhopadhyay, Advocates.
+                                     versus
+    
+                         INTAS PHARMACEUTICALS LIMITED                   .....Defendant
+                                     Through : Mr. C.S. Vaidyanathan, Senior Advocate
+                                               with Ms. Bitika Sharma, Ms. Namrita
+                                               Kocchar, Ms. Nitya Sharma and Ms.
+                                               Vrinda Pathak, Advocates.
+    
+                         I.A. No. 8859/2020
+                         in
+               +         CS (COMM) No. 411/2020
+                         ASTRAZENECA AB & ANR                             .....Plaintiffs
+                                     Through : Mr. Kapil Sibal, Mr. Harish Salve and
+                                               Mr. Sudhir Chandra, Senior Advocates
+                                               with Mr. Pravin Anand, Ms. Vaishali
+                                               Mittal, Mr. Rohin Koolwal, Mr. Siddhant
+                                               Chamola, Ms. Devyani Nath and Mr.
+                                               Souradeep Mukhopadhyay, Advocates.
+    
+                                             versus
+                         ALKEM LABORATORIES LIMITED                      .....Defendant
+                                     Through : Mr. Adarsh Ramanujam, Advocate with
+                                               Ms. Bitika Sharma, Ms. Namrita
+                                               Kocchar, Ms. Nitya Sharma and Ms.
+                                               Vrinda Pathak, Advocates.
+    Signature Not
+               I.A.Verified
+                     No. 8826/2020   in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+    Digitally Signed
+                 411/2020                                                             Page 1 of 84
+    By:VIPIN KUMAR RAI
+    Signing Date:02.11.2020
+    15:05:16
+                CORAM:
+               HON'BLE MR. JUSTICE RAJIV SHAKDHER
+    
+               RAJIV SHAKDHER, J.:
+    
+                                                            Table of Contents
+               Preface: - ............................................................................................................... 3
+               Background
+
+: -
+........................................................................................................
+3 Submissions of the parties: -
+.................................................................................
+6 On behalf of the plaintiffs: -
+..............................................................................
+6 On behalf of the defendants: -
+......................................................................... 23
+Rejoinder arguments on behalf of the plaintiffs: -
+.......................................... 41 Analysis and reasons: -
+.......................................................................................
+44 ARE THE SUIT PATENTS VULNERABLE?
+.............................................. 52 PUBLIC INTEREST:
+-....................................................................................
+80 Conclusion: -
+.......................................................................................................
+84 Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A.
+No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 2 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 Preface: -
+
+1\. The captioned actions concern, principally, two patents. These being:
+
+a) Indian Patent No. 205147 [hereinafter referred to as: IN 147]
+
+b) Indian Patent No. 235625 [hereinafter referred to as: IN 625]
+
+2\. IN 147, as per the averments made in the plaint, is the genus patent while
+IN 625 is claimed to be the species patent. The moot point, which arises for
+consideration in the instant actions, is: whether the compound-in-issue i.e.
+Dapagliflozin [in short "DAPA"] which, according to the plaintiffs, is covered
+in IN 147 stands disclosed both, in law as well as on facts? 2.1 I must also
+state, at the very outset, that there are various shades and limbs to this
+broad frame which is the essence of the dispute obtaining between the parties.
+
+2.2 Furthermore, for the sake of convenience, I would be referring to
+plaintiff no. 1 i.e. AstraZeneca AB as "Astra Sweden" and plaintiff no. 2 i.e.
+AstraZeneca Pharma India Limited as "Astra India". The defendant in CS (COMM)
+410/2020 i.e. Intas Pharmaceuticals Limited will be referred to as "Intas";
+while the defendant in CS (COMM) 411/2020 i.e. Alkem Laboratories Limited will
+be referred to as "Alkem".
+
+2.3 Besides this, wherever the context requires, Astra Sweden and Astra India
+will collectively be referred to as the plaintiffs, and likewise, Intas and
+Alkem will be collectively referred to as the defendants. Background: -
+
+3\. Before I proceed further, the following broad contours of the case are
+required to be noticed.
+
+3.1 The first registered patent holder i.e. the grantee of these two patents
+is an entity going by the name Bristol Myers Squibb Company [in short
+"Bristol"]. Bristol, it appears, via an assignment deed dated 01.02.2014,
+assigned the rights in the aforementioned patents in favour of Astra Sweden.
+It is claimed that this Signature Not I.A.Verified No. 8826/2020 in CS (COMM)
+No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020
+Page 3 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 assignment
+deed was placed on record of the patent's office by Astra Sweden via its
+application dated 02.06.2014 and that as a result of this step having been
+taken, it was registered as the patent holder qua the aforementioned patents.
+3.2 Insofar as Astra India is concerned, it is averred in the plaint that it
+is the only company in the country which has obtained the necessary statutory
+approvals for importing and marketing DAPA in India. 3.3 The plaintiffs claim
+that DAPA is used worldwide to treat people suffering from type-II diabetes
+mellitus. According to the plaintiffs, this is achieved by DAPA acting as an
+inhibitor of sodium-dependant glucose transporter i.e. SGLT2 in the kidneys.
+
+3.4 It is, thus, claimed that DAPA aids in normalisation of plasma glucose
+levels, and perhaps, body weight by enhancing glucose excretion. It is
+averred, hyperglycaemia is a hallmark of type-II diabetes and the challenge,
+therefore, is to control plasma glucose levels so as to prevent complications
+which arise when the disease reaches an advance stage.
+
+3.5 It is stated that plasma glucose is normally filtered in the kidneys in
+the glomerulus which is then actively reabsorbed in the proximal tubule.
+SGLT2, according to the plaintiffs, is a major transporter which is
+responsible for the reuptake of glucose in the glomerulus. The SGLT2
+inhibitors such as phlorizin and other closely related analogues inhibit the
+re-uptake process. The selective inhibition of SGLT2 normalises plasma glucose
+by enhancing excretion of glucose in the urine, thereby, improving insulin
+sensitivity and, thus, delaying the development of diabetic complications such
+as neuropathy, nephropathy, and retinopathy, wound healing and other related
+diseases. 3.6 It is also averred by the plaintiffs that the main claim in IN
+147 is a Markush structure, in other words, a patent covering a group of
+compounds which disclosed the possibility of individual permutations and
+combinations that can run into several million [if not more] structurally
+diverse compounds. In this context, it is also averred by the plaintiffs that,
+although, IN 147 [which is the Signature Not I.A.Verified No. 8826/2020 in CS
+(COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+411/2020 Page 4 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16
+genus patent and bears a Markush structure] covered DAPA, it did not disclose
+the same. The case set up by the plaintiffs is that it was only when further
+research and development was carried out to discover the most suitable, stable
+and viable SGLT2 inhibitor, was DAPA invented.
+
+4\. Given this backdrop, it would be relevant, at this stage, to note the
+bibliography of IN 147 [the genus patent] and IN 625 [the species patent].
+
+    
+    
+                                          IN 147 - THE GENUS PATENT
+               Title                            A C-ARYL GLUCOSIDE SGLT2 INHIBITORS AND
+                                                METHOD
+               Application number               IN/PCT/2002/00433/MUM
+               Applicant name                   BRISTOL-MYERS SQUIBB CO.
+               PCT International filing date    02.10.2000
+               International publication date   19.04.2001
+               Priority date                    12.10.1999
+               Section 11A publication date     18.03.2005
+               Date of grant                    15.03.2007
+               Date of expiry                   02.02.2020
+    
+                                          IN 625- THE SPECIES PATENT
+               Title                              A COMPOUND (2S, 3R, 4R, 5S, 6R)-2(4-CHLOTO-
+                                                  3(4-ETHOXYBENZYL                    PHENYL)-6-
+                                                  (HYDROXYMETHLY) TETRAHYDRO-2H-PYRAN-
+                                                  3,4,5-TRIOL AND COMPOSITION COMPRISING
+               Application number                 3573/DELNP/2004
+               Applicant name                     BRISTOL-MYERS SQUIBB CO.
+               PCT International filing date      15.05.2003
+               International publication date     04.12.2003
+               Priority date                      20.05.2002
+               Section 11A publication date       01.04.2005
+               Date of grant                      09.07.2009
+               Date of expiry                     15.05.2023
+    
+    
+    Signature Not
+               I.A.Verified
+    
+
+No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 5 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 Submissions of the parties: -
+
+5\. It is in this background that the submissions were advanced on behalf of
+the plaintiffs by Mr. Kapil Sibal, Mr. Harish Salve and Mr. Sudhir Chandra,
+learned senior counsels and Mr. Pravin Anand instructed by Ms. Vaishali
+Mittal.
+
+5.1 Likewise, submissions on behalf of Intas were advanced by Mr. C.S.
+Vaidyanathan, senior advocate instructed by Ms. Bitika Sharma while
+submissions on behalf of Alkem were advanced by Mr. Adarsh Ramanujam also
+instructed by Ms. Bitika Sharma. There was, in fact, another action listed
+before me i.e. CS (COMM) 407/2020 in which arguments were made by Mr. J Sai
+Deepak instructed by Mr. Guruswamy Nataraj. This action, at the interlocutory
+stage, was de-tagged from the captioned actions as Mr. Natraj, on
+instructions, made the following statement before me [which is recorded in the
+order dated 22.10.2020] albeit at the nth hour when the judgement in matter
+was about to be reserved:
+
+> "I.A. No. 8791/2020
+
+> 1\. Mr. Guru Nataraj, who appears for the defendant, in the captioned
+> matter, says that he has received fresh instructions [even while arguments
+> were being heard in the captioned application] that the defendant will not
+> be manufacturing and/or launching its product as it has lost commercial
+> interest in Dapagliflozin. 1.1 The statement of Mr. Nataraj is taken on
+> record. The defendant will be bound by the statement made before me.
+
+> 2\. Mr. Pravin Anand, who appears on behalf of the plaintiffs, in the
+> captioned matter, says that in view of the statement made by Mr. Nataraj
+> today, he would have no objection if the captioned application is disposed
+> of. 3. The captioned application is, accordingly, closed in terms of the
+> statement made on behalf of the defendant."
+
+6\. The broad framework of the submissions made by each of the counsel are,
+set forth hereafter.
+
+On behalf of the plaintiffs: -
+
+i. DAPA is a new, novel and man-made molecule which was first synthesized in
+2001. It is a SGLT2 inhibitor which is useful in treatment Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 6 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 of type-II diabetes. It normalizes plasma
+glucose by enhancing excretion of glucose in urine and, thus, improves insulin
+sensitivity. ii. This drug, which is sold under the name Forxiga/Farxiga, has
+been approved in 2020 for treatment of hypertensive heart failure [HHF] as
+well. The plaintiffs' two distributors i.e. Sun Pharma Laboratories Limited
+and Abbott Healthcare Private Limited [hereafter referred to as "Sun" and
+"Abbott" respectively] market and sell the very same drug under various brand
+names such as OXRA, OXRAMET, OXRAMET IR, OXRAMET XR, GLEDEPA, GLEDEPA MET,
+GLEDEPA MET IR, AND GLEDEPA MET XR.
+
+iii. IN 147, which is, the genus patent claims a Markush structure which has
+22 variables and, hence, can lead to millions and perhaps billions of possible
+permutations and combinations. While the Markush structure claimed by the
+plaintiffs qua its genus patent i.e. IN 147 covers DAPA, it does not disclose
+the same.
+
+iv. While the genus patent i.e. IN 147 discloses 80 exemplified compounds [as
+is evident from the complete specification of the said patent], DAPA is not
+one of the disclosed compounds.
+
+v. DAPA has been specifically disclosed in the species patent i.e. IN 625.
+
+This patent has only two claims which specifically relate to DAPA. Claim 1
+specifically lays the claim to compound DAPA as well as its pharmaceutical
+acceptable salts stereoisomers or produgesters. Claim 2 lays, likewise,
+specific claims to pharmaceutical compositions prepared using DAPA.
+
+vi. IN 625 is a valid and a subsisting patent in India. It was granted on
+07.07.2009, with 20.05.2002 as its priority date, and, accordingly, expires on
+15.05.2023. It was published, in India, on 01.04.2005. The plaintiffs have
+been granted patents qua DAPA in approximately 70 countries. In Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 7 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 India, DAPA has not been subjected to any
+pre-grant or post-grant opposition or even revocation proceedings prior to
+2020. vii. It is only in 2020, some entities have embarked on infringing the
+aforementioned patents which led to institution of suits including the
+captioned suits for patent infringement. It is only in 2020 that some of these
+entities have initiated post-grant opposition, revocation proceedings or
+counter-claims against IN 625.
+
+viii. Insofar as the genus patent i.e. IN 147 is concerned, in India, it was
+granted on 15.03.2007, with a priority date of 12.10.1999 and, thus, expired
+on 02.02.2020. The patent was first published, in India, on 18.03.2005.
+
+ix. Since DAPA was first synthesized in 2001, that is, after the priority date
+of genus patent [IN 147] i.e. 12.10.1999, there can be no question of DAPA
+being disclosed in the genus patent.
+
+x. The Patents Act, 1970 [in short "the Act] requires the patentee to
+disclose, with specificity, two aspects.
+
+a) First, what is the invention?
+
+b) Second, what is the best method of performing the invention as known to the
+inventor? Reliance, in this behalf, was placed on provisions of Section
+10(4)(b), 11(3), 11(3)(a) and 11(4) of the Act.
+
+xi. The defendants have placed considerable reliance on formula of Claim 1B
+within IN 147 i.e. the genus patent to emphasize their point that it discloses
+DAPA. This contention is flawed for the reason that formula 1B itself would
+have more than 1 billion permutations and combinations. xii. The attempt of
+the defendants to reach DAPA, either through Claim 1 of IN 147 or from the
+genus formula 1B, is nothing but an application of hindsight wisdom which is a
+technique which Courts have not accepted under the patent law.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 8 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 xiii. Disclosure is a question of
+fact which can be ascertained only by reading the patent document i.e.
+document pertaining to IN 147. Disclosure of information can only occur upon
+it being disclosed to the public at large. General or fleeting disclosure is
+not countenanced under patent law. Disclosure in the context of novelty can be
+established only if it is referred to in the earlier patent by way of chemical
+name; chemical formula; chemical structure etcetera. [See: Eli Lily, Apotex,
+2010 FCA 214] xiv. Markush formulae are well recognised under the Indian
+patent law. Thus, while assessing novelty of the latter patent, which is, said
+to be covered with a Markush structure of an earlier patent, is determined by
+looking for clear, unambiguous and individual disclosures. In this behalf,
+reliance was placed on Patent Office Guidelines, 2013; Patents Office Manual,
+2011; Patents Office Manual, 2008; Terrel on the law of patents, 18 th
+edition, Sweet & Maxwell; and Modern law of patents, 2nd Edition, Consultant
+Editor - His Honor Judge Fysh, QC, SC. xv. The crux of these references is
+briefly as follows. The mere possibility of an embodiment falling within the
+scope or periphery of a particular claim does not mean that the particular
+embodiment or compound has been disclosed with specificity. In other words, if
+prior art discloses a family of compounds with a general formula, which
+includes a particular compound which is not disclosed with specificity, then,
+that particular compound will still constitute an invention which is novel.
+xvi. The contention of the defendants that reference to the aforementioned two
+patents in the working statements i.e. Form 27 filed with the Controller's
+office and submissions made in the United States of America [US] for patent
+term extension [PTE] as also to US Food and Drug Administration [FDA] Orange
+Book constitute admission is erroneous. In none of these documents, it is
+stated that DAPA was disclosed in IN 147 i.e. genus Signature Not I.A.Verified
+No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 9 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 patent. The PTE only states that Forxiga/Farxiga
+[which is the brand name for DAPA, as indicated above] is claimed by the
+aforementioned patents. There is no admission whatsoever that the genus
+patents i.e. IN 147 disclosed DAPA.
+
+xvii. Assuming without admitting that these are admissions, admissions made
+after the priority date of the patent cannot alter the scope of the claims
+either by enlargement or reduction. [See: Glaverbel vs. British Coal, 1995 RPC
+255; and F. Hoffmann La Roche Ltd. and Anr. vs. Cipla Ltd., MIPR 2016 (1)
+0001] xviii. Likewise, the working statements i.e. Form 27 and US FDA orange
+book only advert to the fact that the drug Forxiga/Farxiga work with both
+genus and species patent. This is so as the genus patent, which covers DAPA,
+is necessarily worked through commercialisation of the drug which was
+disclosed in the species patent and, therefore, would not amount to an
+admission, as alleged or at all. [See: Judgement dated 15.01.2020, passed in
+CS (COMM) 561/2019, titled AstraZeneca AB & Anr. vs. Emcure Pharmaceuticals
+Limited] xix. A single product may cover thousands of patents. By way of
+illustration, reference was made to a mobile phone which is covered by
+multiple patents. In this behalf, reliance was placed on Section 141, Section
+19 and Section 91(1) of the Act. If this rationale is followed through, the
+defendants are not free to make use of DAPA for manufacture and/or sale of
+their product(s) until all patents containing the said compound expire. xx.
+The contention that because the plaintiffs filed a "terminal disclaimer" in
+the USA concerning the corresponding genus patent i.e. US 126 and species
+patent i.e. US 117, the instant case was of double-patenting and ever-greening
+and, therefore, the Indian species patent i.e. IN 625 stands invalidated, is
+flawed. The plaintiffs had filed the species patent in the US i.e. US 117, in
+2002 as a continuation-in-part of the genus patent i.e. US Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 10 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 126 to overcome the non-final double
+patenting objection flagged by the US Patent Office [USPTO]. In the US, the
+mere filing of a terminal disclaimer is not construed as an admission of
+double patenting. It is an instance of expedient obviation rather than
+obviousness. It is an often use methodology to overcome such objections raised
+by USPTO. [See: Quad Environment vs. Union Sanitary, 946 F2d 870] xxi. The
+defendants' contention that because the plaintiffs filed the US species patent
+[US 117] as continuation-in-part of the corresponding genus patent [US 126]
+and, hence, should be construed as an admission of the fact that it disclosed
+no new subject matter is completely erroneous. Under the US law MPEP 201.08, a
+continuation-in-part application is an application filed during the lifetime
+of an earlier nonprovisional application, repeating some substantial portion
+or all of the earlier nonprovisional application and adding matter not
+disclosed in the said earlier nonprovisional application [See: In re Klein,
+1930 C.D 2., 393, O.G. 519 (Comm'r Pat., 1930)]. The continuation-in-part
+application may only be filed under 37 CFR 1.53 (b).
+
+xxii. Furthermore, the attempt on the part of the defendants to draw a
+parallel between a continuation-in-part application and an application filed
+in India qua a patent for any improvement in or modification of an invention
+for grant of a patent of addition is flawed. The reason being that patents of
+addition as envisaged under Section 54 of the Act envisage minor improvements
+over an earlier patent. In India, patents of addition are never granted where
+the application claims new subject matter which was not disclosed in the prior
+application. It is this conceptual difference between the application for
+continuation-in-part filed in the USA and an application for grant of patents
+of addition which has been missed by the defendants. It is for this reason
+that the Controller of Patents in India does not scrutinize an application for
+grant of patents of addition from the Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 11 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16 point of view of lack of inventive step or obviousness when compared
+with the main patent application. This aspect emerges upon a careful perusal
+of Section 56 of the Act.
+
+xxiii. The reliance by the defendants on the judgement of the Supreme Court
+rendered in Novartis vs. Union of India, (2013) 6 SCC 1 [hereafter referred to
+as Novartis case] is erroneous on account of the following distinguishing
+features.
+
+a) Novartis was a case where the claimed invention i.e. imatinib mesylate had
+been disclosed in an earlier patent i.e. the Zimmerman patent and a finding to
+that effect had been recorded by the US board of appeals.
+
+b) It was, thus, a case where the Supreme Court found that Novartis had not
+only claimed but also disclosed imatinib mesylate. The contention advanced by
+Novartis that the disclosure of imatinib in the Zimmerman patent did not
+involve disclosure of its invention i.e. beta crystalline form of imatinib
+mesylate was rejected by the Supreme Court as there was a clear disclosure of
+methane- sulphonic acid of imatinib in its patent application - a claim which
+included imatinib in its pharmaceutically acceptable salts.
+
+c) In the Novartis case, the inventor himself had written articles wherein a
+reference had been made to the fact that imatinib mesylate had been disclosed
+in the Zimmerman patent.
+
+d) On the other hand, there is no disclosure of DAPA in IN 147. Unlike the
+Novartis case, there is no finding of any Court or tribunal to this effect.
+
+e) The contention of Novartis that beta crystalline form of imatinib mesylate
+was a two-step invention i.e. from imatinib to imatinib mesylate and from
+imatinib mesylate to its beta crystalline form was rejected as it was hit was
+Section 3 (d) of the Act. The beta Signature Not I.A.Verified No. 8826/2020 in
+CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+411/2020 Page 12 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16
+crystalline form was considered only as a polymorph which did not reveal any
+enhanced therapeutic efficacy. DAPA, on the other hand, is a new compound. It
+is not a salt, ester, ether, polymorph, metabolite etcetera of a known
+substance and, hence, does not fall within the purview of Section 3 (d) of the
+Act. Importantly, in the instant case, Dr. William N. Washburn's affidavit
+[who led the group which invented the compound-in-issue] has demonstrated
+DAPA's enhanced efficacy over example 12 of IN 147. In this behalf, the
+following assertions have been made by Dr. Washburn. A. Enhanced ability: for
+blood sugar 25%; for plasma sugar 58% and 1.7 times selective for SGLT2 over
+SGLT1. B. Example 12 never morphed into a drug and had no known efficacy as it
+was never tested on human beings. C. DAPA was synthesized only in 2001.
+
+f) The aspect concerning whether a compound is covered or disclosed should be
+construed as an obiter as it came up because of arguments advanced on behalf
+of Novartis that there was no disclosure of imatinib mesylate in the Zimmerman
+patent, although, it was covered by its broad claims.
+
+g) The reliance placed by the defendants on paragraph 134 of the Novartis case
+needs to be examined in the background of the following factors.
+
+A. It displays a desire for the law to develop in a certain way in future.
+
+B. There is no finding in the judgement that Markush claims are bad in law.
+The Supreme Court was not concerned with this issue. There is, in fact, a
+recognition by the Supreme Court in the very same paragraph that there could
+be some gap between what is covered as against that which is disclosed.
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 13 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 Therefore, what the defendants
+submit requires not a judicial decision but a legislative interdiction. In
+this behalf, it requires to be borne in mind that the Court did not rule one
+way or the other on the issue: if the gap between what was disclosed and
+covered was too wide, would that invalidate the patent? In other words, would
+the patent become unenforceable qua compounds which are not disclosed? In any
+event, in the instant case there is no gap between the genus patent and
+species patent i.e. IN 147 and IN 625. In the Novartis case, public interest
+was an issue as the drug manufactured by Novartis cost INR 1, 20,000 whereas
+that manufactured by the defendant in that case cost INR 8, 000. The price
+difference was vast. In the present case, the price difference is only INR 37
+per capsule. In this context, one cannot lose sight of the fact that DAPA,
+which is, used to treat diabetes is not a life-threatening disease. [See:
+Merck Sharp and Dohme Corporation and Ors. vs. Glenmark Pharmaceuticals,
+MANU/DE/0852/2015] xxiv. Section 13 (1) (b) of the Act, which concerns the
+defence of anticipation by prior claiming has no application in the instant
+case as the earlier claim i.e. IN 147 and the patent claim i.e. IN 625 are not
+identical. [See: Daikin Kogyo Co. Ltd. (Shingu and Another's) Application,
+(1974) R.P.C. 18; and Manual of Patent Office Practice and Procedure Version
+01.11 as modified on March 22, 2011] xxv. The invention of IN 147, as claimed,
+is different from the invention claimed in IN 625. IN 147 claims a class of
+compounds of the Markush structure.
+
+xxvi. IN 147 teaches a pharmacophore comprising elements: Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 14 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 A. A sugar that is a glucoside;
+
+B. A C-aryl link;
+
+C. A phenyl proximal moiety attached to a linker and a distal phenyl moiety;
+
+D. There could be many substitutions on the 9 carbon atoms on the 2 phenyl
+moieties;
+
+E. The substitutions can be in hundreds or thousands - H, Halogen (Cl, Br, F),
+OCF3, OCH3, OC2H5, OBe, SCH3, CH3, C2H5, C3H7, OH, COCH3 etc. [spread over 22
+variables].
+
+xxvii. Extensive research is required to understand which linker required
+research. Extensive research was also required to understand which
+substitutions are required, as indicated above. Furthermore, which of the 9
+carbon positions had to be substituted, also requires extensive research.
+xxviii. On the other hand, IN 625 has only one specific molecule, i.e.,
+Dapagliflozin. Therefore, it is clear that prior claiming has no application
+to the present case.
+
+xxix. The defence of anticipation by prior publication does not apply in this
+case for the following reasons.
+
+a) IN 147 is not prior art as it was published only on 18.03.2005, that is,
+after the priority date of IN 625 which is 20.05.2002.
+
+b) There can be no disclosure in law if a forest or a library of compounds is
+encompassed by a Markush structure wherein few species are disclosed only by
+way of examples. [See: Dr Reddy's Laboratories (UK) Ltd vs. Eli Lilly and Co
+Ltd. (2009) EWCA 1362; In re: Petering, 301 F.2d 676; and Apotex Pty Ltd
+(formerly GenRx Pty Ltd) vs Sanofi-Aventis [2008] FCA 1194] xxx. The
+defendants are wrong in contending that where a genus patent is granted,
+subsequent species patent cannot be granted. Unique features of breakthrough
+inventions are critical and, hence, need to be protected by a Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 15 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 grant of patents. [See: F. Hoffmann La Roche
+Ltd. and Anr. vs. Cipla Ltd., MIPR 2016 (1) 0001; and Eisai Co. Ltd. and Ors.
+vs. Satish Reddy and Ors., MANU/DE/1621/2019] xxxi. For the defence of
+obviousness to apply, it must be demonstrated that a person with average skill
+and average knowledge, who has no creative or inventive faculties, can reach
+claimed inventions on reading the prior art. Thus, simply put, obviousness is
+something which is claimed and easily understood by persons skilled in art. To
+reach a conclusion of obviousness, the teaching contained in the document must
+be read as a whole. The document must not teach away from a certain concept.
+Pertinently, hindsight reconstruction is not permissible. [See: Judgement
+dated 30.01.2020, passed in CS (COMM) 27/2020, titled Bristol-Myers Squibb
+Holdings Ireland Unlimited Company & Ors. vs. BDR Pharmaceuticals
+International Pvt. Ltd. & Anr.; and The General Tire & Rubber Company vs. The
+Firestone Tyre and Rubber Company Limited and Others, (1972) RPC 17] xxxii.
+DAPA, on the other hand, is not obvious contrary to what is contended by the
+defendants. The reliance of the defendants, in this behalf, on example 12 of
+IN 147 is flawed. The reasons for the same are as follows:
+
+> A. First, why should one look at example 12 when genus formula 1B has large
+> number of compounds?
+
+> B. Second, why should one look at example 12 when 80 examples are given of
+> which examples 1 and 2 are synthesised on a large scale? C. Third, if
+> example 12 is relevant, why is the need to change methoxy?
+
+> D. Fourth, in any case, properties of example 12 i.e. efficacy or other data
+> or SAR are not known.
+
+> E. Fifth, the teaching of IN 147 is to add hydrogen on central phenyl ring
+> [in 60 % of examples].
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 16 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 F. Sixth, there is no ethoxy on the
+distal phenyl in any of the 80 examples.
+
+G. Lastly, DAPA is far more effective than example 12. xxxiii. For defence of
+obviousness to be sustained, it would have to be established that the earlier
+patent was published as on the date when the latter patent was granted. In the
+instant case, the admitted facts reveal that the species patent i.e. IN 625
+has a priority date of 20.05.2002 whereas the genus patent was published under
+Section 11A of the Act only on 18.03.2005. This being the position, there can
+be no question of a person of ordinary skill in the art, having read example
+12 or any other teaching in the genus patent i.e. IN 147, to arrive at DAPA.
+This submission is further strengthened by the fact that the corresponding
+species patent US 117 bears a priority date of 20.05.2002 while the
+corresponding genus patent i.e. US 126 was published in the US only in
+September 2002. xxxiv. Since there was no publication of the genus patent in
+USA prior to the filing of the species patent there is no question of the
+person of ordinary skill in the art of reaching DAPA by absorbing the teaching
+given in example 12 or any other teaching given in the genus patent i.e. IN
+147. xxxv. DAPA is not obvious because formula 1B of IN 147 has a million
+possibilities. Any attempt to reach DAPA from the Markush structure of Claim 1
+of IN 147 or genus formula 1B is nothing but an attempt to take recourse to
+hindsight which is discouraged under patent law. xxxvi. Of the 25 examples in
+IN 147 that fall within the genus of compounds of Structure IB, 13 (over 50%)
+have hydrogen as R1. Of the remaining 12 examples that have non-hydrogen R1
+groups, over 65% (8/12) have lower alkyls ‒ not a chloro group as in
+dapagliflozin. xxxvii. Similarly, over 50% (13/25) of the examples in IN 147
+that fall within the genus of compounds of Structure IB have alkyl or
+thioalkyl at R4 and of the remaining Examples that fall within the genus of
+compounds of Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No.
+410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page
+17 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 Structure 1B that
+have an alkoxy at R4, none is ethoxy as in dapagliflozin.
+
+xxxviii. Thus, given the complete absence of structure-activity data in IN
+147, the large number of potential modifications of any exemplified compound
+therein, the clear preference demonstrated for compounds having hydrogens on
+the central phenyl ring, and the absence of any examples with an ethoxy
+substituent on the distal ring, one of ordinary skill in the art would not
+have had a reason or motivation to make dapagliflozin with a reasonable
+expectation of success.
+
+xxxix. It is, thus, the case of the plaintiffs that a person of ordinary skill
+in the art would have to take recourse to various permutations and
+combinations before it could reach DAPA. This is so as the prior art i.e. IN
+147 gives no indication as to which parameters are critical or even which
+direction if taken out of the many choices available would lead to success.
+xl. The Court is required to take secondary factors also in account while
+appreciating the defence of obviousness. In DAPA's case, the following
+secondary factors need to be noticed.
+
+A. DAPA is a drug which has attained great commercial success. B. It is the
+first SGLT2 inhibitor.
+
+C. It has been approved for treatment of hypertensive heart failure. D.
+Various entities are attempting to copy the drug either by infringing or
+attempting to infringe the species patent E. Had DAPA been so obvious then why
+is it that no other entity has been able to develop the same. [See: Graham vs.
+John Deere Co., 383 U.S. 1 (1966)] xli. There is a presumption that the patent
+is valid having regard to its age.
+
+[See: Bristol-Myers Squibb Company and Ors. vs. J.D. Joshi and Ors.,
+MANU/DE/1889/2015] Likewise, it is also settled law that if there is no
+presumption of validity, there is also no presumption of invalidity of
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 18 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 patent. [See: Order dated
+15.03.2018, passed in CS (COMM) 737/2018, titled Pfizer Inc. and Ors. vs.
+Nagesh Palepu and Ors.; and Judgement dated 09.07.2015, passed in CS(OS)
+442/2013, titled Telefonaktiebolaget LM Ericsson (PUBL) vs. Mercury
+Electronics & Anr.] xlii. The assertion of the defendants that the plaintiffs
+have kept back information from the Controller of Patents in India concerning
+corresponding foreign applications filed with USPTO is incorrect. The
+plaintiffs have disclosed all material information with the Indian Patent
+Office. There has been substantial compliance with the provisions of Section 8
+of the Act. This is demonstrated by having regard to the following.
+
+A. Form 3 was filed by Bristol i.e. the erstwhile owner of the patent which
+was assigned to the plaintiffs only in 2014. Since then Astra Sweden has made
+filings under Form 3 as required under Section 8(1) of the Act on 16.11.2004,
+10.01.2005, 01.09.2009 and 17.12.2009. In these forms there is a specific
+reference to the corresponding species patent granted in USA i.e. US 117.
+Insofar as the Indian Patent Office was concerned an objection under Section
+8(2) of the Act was raised via the first examination report dated 12.10.2007.
+The patent office, thus, required the plaintiffs to provide details regarding
+corresponding patents in major patent offices. Resultantly, the plaintiffs
+provided documents pertaining to European Patent [EP] and the consequent grant
+of patent. Furthermore, the plaintiffs on their own vide letter dated
+10.01.2005 and Form 3 filings furnished documents concerning the corresponding
+US patent as well. In particular, with the letter of 10.01.2005, the
+plaintiffs enclosed the application for US species patent i.e. US 117 along
+with its granted claims. This application revealed that it is a continuation-
+in-part of the genus patent i.e. US Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 19 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16
+
+126\. As would be evident, all relevant information and material particulars
+concerning the corresponding US species patent i.e. US 117 were provided to
+the Indian Patent Office nearly two years before objection was raised on
+12.10.2007. Thus, the assertion of the defendants that there was a concealment
+is not borne out from the facts on record.
+
+B. In any case, at the highest, errors, if any, in filing can only be
+considered as inadvertent which perhaps occurred as an oversight. These errors
+cannot be construed as material suppression given the conduct of the
+plaintiffs. There has been no failure on part of the plaintiffs to comply with
+the mandatory requirement. The allegation of the defendants that there has
+been a failure to comply with the provisions of Section 8 of the Act is
+ultimately a matter of trial. [See: Judgement dated 07.11.2014, passed in FAO
+(OS) No. 16/2014, titled Maj. (Retd.) Sukesh Behl & Anr. vs. Koninklijke
+Phillips Electronics; and F. Hoffmann La Roche Ltd. and Anr. vs. Cipla Ltd.,
+MIPR 2016 (1) 0001] xliii. According to the plaintiffs, the defendants should
+be denied the relief of injunction for the following reasons.
+
+A. The defendants are either manufacturing or intending to manufacture DAPA
+and, therefore, infringement is admitted. B. DAPA is a man-made drug which is
+used for treating not only type-2 diabetes but is also approved for treating
+hypertensive heart failure in 2020.
+
+C. The species patent is an old and established patent and, therefore, carried
+with it the presumption of validity. This patent is in its 18 th year of life
+cycle.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 20 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 D. The species patent was subjected
+to examination by the Indian Patent Office for seven years i.e. between 2002
+[the year of priority] and 2009 [the year of grant].
+
+E. Both genus and species patent have not been subjected to any pre- grant or
+post grant opposition or even subjected to revocation proceedings up until
+2020. Proceedings filed in 2020 are mala fide, counter-blast or peremptory
+strikes against patent infringement suit actions filed by the plaintiffs.
+
+F. The defendants have not conducted any research and development and,
+therefore, want to piggyback the inventions of the plaintiffs concerning DAPA.
+
+G. The plaintiffs have been selling the products under various brand names
+since 2015, both, directly and/or through their distributors i.e. Sun and
+Abbott at reasonable prices.
+
+H. Insofar as the defendant in CS (COMM) 410/2020 is concerned, the plaintiffs
+have acquired knowledge from their investigator that it was planning to launch
+its product using the DAPA compound. Although, the defendants before this
+Court, on 01.10.2020, stated that they have not commenced manufacture of their
+drug, that may not be quite correct. The defendants being aware of the fact
+that the plaintiffs have been granted a patent for DAPA should have the way
+cleared for proceeding further with their manufacturing and/or selling
+activities by adopting any one of the following routes. ▪ Seek a voluntary
+license.
+
+▪ Seek a compulsory license.
+
+▪ Filing revocations.
+
+▪ Filing a pre-grant or a post-grant opposition. ▪ File a declaratory action
+for non-infringement.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 21 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 I. Likewise, the defendants at the
+appropriate stage could have also filed pre or post-grant opposition; a step
+that they did not take. [See: Eisai Co. Ltd. and Ors. vs. Satish Reddy and
+Ors., MANU/DE/1621/2019; and Merck Sharp and Dohme Corporation and Ors. vs.
+Glenmark Pharmaceuticals, MANU/DE/0852/2015.] J. For the aforesaid routes to
+be taken, the defendants had 15 years at their disposal since both patents
+were published under Section 11A of the Act in 2005. Likewise, if the date of
+grant is taken the defendants had available to them 13 and 11 years since the
+registration of the genus patent i.e. IN 147 and the species patent i.e. IN
+625 respectively.
+
+K. The plaintiffs have filed several suit actions in which interim injunctions
+have been granted by this court.
+
+L. Thus, according to the plaintiffs, given what is stated above, the
+defendants have failed to make out a prima facie case and the balance of
+convenience is also titled against them. M. Plaintiffs will suffer an
+irreparable loss if injunction, as prayed, is not granted as it will destroy
+the market for them whereas, insofar as the defendants are concerned, the
+launch of their product will only be postponed. Furthermore, since 3 companies
+i.e. Eris Life Sciences, USV and Zydus have already launched their infringing
+products, despite suits filed against them, which are pending adjudication,
+the market has already been flooded with the infringing products.
+
+N. Besides this, medical practitioners have expressed concerns as to what
+would be the ultimate quality of the drug if the defendants are permitted to
+launch their products. Damages caused by the Signature Not I.A.Verified No.
+8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 22 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 infringing activity are difficult to compute in
+monetary terms and that in any event they are not adequate.
+
+O. The plaintiffs have an interest in enforcing the provisions of the Act.
+Their victory has to be real and not pyrrhic. [See: Merck Sharp and Dohme
+Corporation and Ors. vs. Glenmark Pharmaceuticals, MANU/DE/0852/2015] xliv. In
+a nutshell, the defendants should be restrained from infringing plaintiffs'
+species patent i.e. IN 625 during the pendency of the suit action.
+
+On behalf of the defendants: -
+
+7\. There were joint-arguments addressed on behalf of the defendants [to avoid
+overlap] not only qua the captioned applications, filed in the two suits
+referred to hereinabove, but also in I.A. No. 8791/2020, filed in CS (COMM)
+407/2020, as indicated right at the outset.
+
+7.1 The burden of the arguments, though, for the sake of convenience, on
+behalf of the defendants, was shared up until then by the following three
+counsels who appeared on behalf of the defendants i.e. Mr. C.S. Vaidyanathan,
+Senior Advocate, Mr. Adarsh Ramanujam and Mr. J Sai Deepak. The written
+submissions were also circulated by these counsels having regard to the same.
+Pertinently, Mr. J Sai Deepak had advanced arguments on behalf of Emcure
+Pharmaceuticals Limited [in short "Emcure"] in CS (COMM) No. 407/2020. Given
+the development, concerning CS (COMM) No. 407/2020, Mr. Vaidyanathan and Mr.
+Ramanujam stated that they would adopt the legal submissions made by Mr. Sai
+Deepak apart from what had been argued by them to avoid repetition.
+
+8\. With this preface, let me indicate the broad contours of the submissions
+advanced on behalf of the defendants.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 23 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 i. The plaintiffs cannot be
+permitted to take mutually destructive pleas. The plaintiffs, having alleged
+that manufacture and/or sale etcetera of DAPA infringes IN 147 i.e. the genus
+patent, it stands to reason that the said compound stands fully and
+particularly described in IN 147 i.e. the genus patent; this being a mandatory
+requirement of Section 10(4)(a) read with Section 10(4)(c) of the Act.
+
+ii. Strangely, when defendants cite IN 147 [i.e. the genus patent] as prior
+art or prior published document to invalidate the species patent [i.e. IN
+625], the plaintiffs aver that DAPA, though covered/claimed, is not disclosed
+in IN 147 i.e. the genus patent. If this assertion of the plaintiffs is
+accepted, then, it is quite clear that they would fall foul of the provisions
+of Section 10(5) of the Act.
+
+iii. Insofar as the defendants are concerned, since they have not manufactured
+DAPA [a statement which was made on the first date of hearing i.e.
+01.10.2020]; there cannot be any infringement by them of IN 147 i.e. the genus
+patent.
+
+iv. The plaintiffs have averred that there is a reasonable apprehension of the
+defendants manufacturing DAPA without producing any tenable material on
+record. What is, however, admitted by the plaintiffs is that the defendants
+have not launched their product containing DAPA. Since IN 147 i.e. the genus
+patent, admittedly, expired on 02.10.2020, there is no case of grant of
+injunction qua IN 147 i.e. the genus patent in the future.
+
+v. There is no case for grant of injunction qua IN 625 as the defendants have
+raised a credible challenge as to its validity. The Statute i.e. Section 13(4)
+of the Act makes that amply clear. [See: Bishwanath Prasad Radhey Shyam vs.
+Hindustan Metal Industries, (1979) 2 SCC 511] Signature Not I.A.Verified No.
+8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 24 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 vi. This Court should, therefore, evaluate as to
+whether or not defendants have established a credible challenge to the
+validity of IN 625. In this behalf, the defendants are only required to
+demonstrate that IN 625 is vulnerable to challenge and/or there is an issue
+which requires trial. [See: Hoffman La Roche vs. Cipla, 2009 (110) DRJ 452
+(DB)] vii. IN 625 i.e. the species patent is vulnerable to challenge under the
+provisions of Section 64(1)(a), (e) and (f) of the Act. The test, however, to
+be applied vis-à-vis the provisions of Section 64(1)(a) and the other two
+sections i.e. 64(1)(e) and (f) are different. While the provisions of Section
+64(1)(a) requires comparison of claims, insofar as Section 64(1)(e) and (f)
+are concerned, a broader assessment is to be made as to what is "publicly
+known or used in India" and/or what was "published in India or elsewhere".
+
+viii. Clause (a) of subsection (1) of Section 64 of the Act was adopted from a
+pari materia provision contained in Section 32 (1) (a) of the UK Patents Act,
+1949 which reads thus:
+
+"32. Revocation of patent by court (1) Subject to the provisions of this Act,
+a patent may, on the petition of any person interested, be revoked by the
+court on any of the following grounds, that is to say, --
+
+(a)that the invention, so far as claimed in any claim of the complete
+specification, was claimed in a valid claim of earlier priority date contained
+in the complete specification of another patent granted in the United Kingdom;
+....."
+
+ix. Interestingly, while India has retained subclause (a) of subsection (1) of
+Section 64, in UK, in the 1977 enactment, Section 32(1) has not been retained.
+However, interpretation accorded by the English courts to Section 32(1)(a) is
+that the Court is required to assess whether the subsequent patent seeks to
+re-monopolise something which already stands protected. [See: Merck & Co
+(Macek's) Patent, [1966] F.S.R. 381]. Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 25 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16 x. In this context, it is necessary to bear in mind the admissions
+made by the plaintiffs that DAPA is already claimed in IN 147 [See: plaint
+paragraphs 36 and 86 of the plaint in CS (COMM) No. 410/2020]; and statements
+made in the US litigation and the contents of Form 27 filed in IN 147]. Form
+27 constitutes working statement which has to be read in the context of
+Section 146 (2) and Section 10(4)(c) of the Act.
+
+xi. The fact that DAPA is prior claimed in IN 147 is apparent by the conduct
+of the plaintiffs while pursuing their patent applications before USPTO. The
+record would show that the plaintiffs' US patent application i.e. US 117 which
+is equivalent to IN 625, when objected to on the ground of prior claiming i.e.
+"obviousness-type double patenting", it was resolved by the plaintiffs filing
+a terminal disclaimer. Such a step taken by the plaintiffs would be a clue
+that the patentee did not consider IN 625 to be distinct from IN 147. In any
+case, it raises a credible challenge to the validity of IN 625 under Section
+64(1)(a) of the Act.
+
+xii. IN 625 is vulnerable to challenge also because it is anticipated by what
+is published or publicly known from IN 147. In this behalf, the following
+dates and events need to be borne in mind.
+
+A. IN 147 was first published on 19.04.2001, whereas, the priority date of IN
+625 is 20.05.2002.
+
+B. Since the plaintiffs, while filing their specification qua IN 147, have
+claimed as also fully and particularly described the same in IN 147, DAPA
+would be publicly known in India. The expression "publicly known" will
+necessary mean that patented invention is known to persons who are engaged in
+the pursuit of knowledge concerning the patented product. Such persons would
+inter alia be men of science. [See: Monsanto Company v. Coromandel Indag
+Products, (1986) 1 SCC 642] Signature Not I.A.Verified No. 8826/2020 in CS
+(COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+411/2020 Page 26 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16
+xiii. The Supreme Court in Novartis case dealt with the expression "known"
+
+> in the context of Section 3(d) of the Act. In that case, the Supreme Court
+> rejected the argument that there was a dichotomy between coverage and
+> disclosure. In that case, the Supreme Court was called upon to rule whether
+> the salt imatinib mesylate was known in the earlier Zimmerman patent which
+> concerned free base (Imatinib). The Supreme Court concluded that both, the
+> free base and the salt were known from the Zimmerman patent which was a
+> genus patent much like IN 147. The Supreme Court, therefore, upon reading
+> the Zimmerman patent which was prior published came to determine as to what
+> was known. The Court ruled that all molecules covered by the genus patent
+> i.e. Zimmerman patent are or were known. Therefore, since the plaintiffs
+> have admitted that DAPA is covered by prior patent i.e. IN 147 and assert
+> that defendants infringe this prior patent, it undoubtedly presents a
+> circumstance that DAPA is also known from IN 147.
+
+xiv. Without prejudice to the contentions made hereinabove, IN 625 is also
+vulnerable to challenge as it lacks inventive step based on what was published
+or publicly known from IN 147. [In this behalf, See: Section 64(1)(f) and
+Section 2 (1) (ja) of the Act].
+
+xv. Inventive step requires an assessment of two aspects as per the provisions
+of Section 2(1)(ja) and both aspects/conditions are conjunctive in nature.
+First, the invention should involve "technical advance" as compared to
+existing knowledge or have economic significance. Second, the invention should
+not be obvious to the person skilled in art. A new product, which does not
+involve inventive step as per the condition stipulated in Section 2 (1) (ja)
+and is not capable of industrial application, falls foul of Section 64 (1)
+(f).
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 27 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 xvi. The term technical advance was
+borrowed from German law which requires IN 625 to demonstrate technical
+superiority over IN 147. IN 625 does not state that DAPA is superior to the
+compound adverted to in IN 147 with reference to any property. [See: Toshiko
+Takenaka (ed.), Patent Law and Theory: A Handbook of Contemporary Research
+(Edward Elgar, 2008)] Importantly, for the person skilled in the art, IN 625
+simply denotes that DAPA will have the same function as compounds of IN 147
+i.e. SGLT2 inhibition activity.
+
+xvii. Furthermore, IN 625 does not set out the economic significance over
+compounds of IN 147. Consequently, IN 625 fails the inventive step requirement
+as there is failure to demonstrate technical advance or economic significance
+which was not previously known from IN 147.
+
+xviii. Besides this [and without prejudice to what is stated hereinabove, that
+is, IN 625 fails the test of inventive step], DAPA is obvious to a person
+skilled in art from IN 147 if the five-step analysis as laid down in F.
+Hoffman-La Roche vs. Cipla Ltd., 2015 (225) DLT 391 is followed.
+
+A. Step 1 requires the identification of the person skilled in the art. Such a
+person would be [in the context of the present case] a person who is a PhD in
+medical or organic chemistry with a few years' experience in drug development.
+He would also be a person of ordinary creativity, although, not an automaton
+but at the same time would not be inventive. He would have the ability to make
+workshop improvement modification furthering the stage of knowledge. He will
+also be someone who would read all relevant literature carefully and with
+sufficient interest to be in a position to apply his mind to practical
+application. Plaintiffs have failed to identify such a person.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 28 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 B. Step 2, in this case, doesn't
+require further enquiry as the only inventive concept is the compound DAPA.
+
+C. Step 3 requires an input of a person skilled in the art having common
+general knowledge. The independent expert, in this case, Dr. Stephen F. Martin
+has stated that methyl and ethyl being homologues possessing similar
+properties can routinely involve substitution of methyl group with ethyl group
+in organic chemistry; being common general knowledge.
+
+D. Step 4 involves identification of differences between inventive concepts
+and prior knowledge. The defendants contend that there is no difference
+between the two in the instant case as DAPA has been disclosed as one of the
+most preferred structure in IN 147 patent. This is so, in view of structure I
+(B) and preferred definitions of alkyl and halogen in IN 147. Alternatively,
+according to the defendants, the best scenario for the plaintiffs is that IN
+625 differs from IN 147 on account of methyl vs. ethyl substitution or methoxy
+vs. ethoxy substitution when example 12 of IN 147 is compared with DAPA.
+However, as per the expert i.e. Dr. Martin; this is a matter of common general
+knowledge for the person skilled in the art and, therefore, this distinction
+cannot be used to justify that IN 625 involves an inventive step.
+
+E. Step 5: To decide whether those differences viewed in the knowledge of the
+alleged invention constituted steps which would have been obvious to the
+person skilled in the art without taking recourse to hindsight wisdom.
+
+xix. Without prejudice to the aforesaid, the plaintiffs' contention that the
+defendants must demonstrate as to why one must select DAPA from Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 29 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 infinite compounds of IN 147 or isolate
+example 12 as the starting point or what would motivate substitution of methyl
+group with ethyl group especially when there are unexpected benefits as
+suggested by the affidavit of Dr. Washburn, is flawed, due to the following
+reasons.
+
+A. Such an argument that an inventive step arises due to a selection from
+purported infinite compound was rejected both in the European Union (EU) and
+the United Kingdom (UK) [See: AgrEvo UK Limited, Case Number T 0938/92 -3.3.1
+which was approved by The United Kingdom Supreme Court in Actavis Group PTC
+EHF and others vs. ICOS Corporation and another, [2019] UKSC 15] The
+observation therein was that even if prior art comprises of an infinite number
+of starting point every such prior art is deemed to be suggestive to the
+person skilled in the art. It went on to state that a mere arbitrary selection
+of one or more compounds from a laundry list in the prior art cannot itself
+confer inventive step. The only exception to this is where the patentee is
+able to fulfil two conditions.
+
+▪ The identification/selection is based on an "unknown technical effect".
+
+▪ This unknown technical effect must be justified by difference in structure
+between the identified/selected compound and the rest of the molecules from
+the prior art.
+
+B. IN 625 fails on both counts. It neither discloses unknown technical effect
+not does it justify such unknown technical effect by reference to substitution
+with methyl group at one location. It simply states that DAPA has the same
+activity/utility as the compounds of IN 147 which is a known technical effect.
+The Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A.
+No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 30 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 attempt of the plaintiffs
+to overcome this fatal error by relying on Dr. Washburn's affidavit will not
+shore up their case for the following reasons.
+
+a) This affidavit was sworn in April 2020 and was placed before the Court for
+the first time on 12.10.2020. Dr. Washburn's affidavit did not form part of IN
+625 from its inception and most certainly did not exist on its priority date
+i.e. 20.05.2002. This submission, though, is made dehors the stand of the
+defendants concerning credibility and the veracity of the data relied upon in
+Dr. Washburn's affidavit.
+
+b) The plaintiffs could have relied upon such data post the priority date only
+if the specification itself "plausibly demonstrated" such unknown technical
+effect. This is so because the validity of the patent is to be assessed on its
+priority date. IN 625 does not state, let alone plausibly demonstrate, such
+unknown technical effect, on its priority date. [See: Generics (UK) Limited
+vs. Yeda Research and Development Co. Limited, (2014) R.P.C. 4] xx. Without
+prejudice to the above, it requires to be noticed that DAPA would be obvious
+to the person skilled in the art on account of the manner in which he would
+appreciate the contents of IN 147. Reliance by the plaintiffs on the judgement
+rendered in In re Petering, 301 F.2d 676, in fact, supports the submissions of
+the defendants. This judgement holds that even a prior art disclosure of an
+infinite number of molecules would be construed by a person skilled in the art
+in a logical manner to filter down to a smaller class of compound if the
+document itself lays out series of specific preferences which allows him to
+envisage a smaller class of Signature Not I.A.Verified No. 8826/2020 in CS
+(COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+411/2020 Page 31 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16
+compounds. The submissions advanced by the plaintiffs seem to suggest that a
+person skilled in the art does not have ordinary intelligence but is a
+dullard. The instant case presents, precisely, this situation which is
+captured in In re Petering.
+
+xxi. Without prejudice to the above, it is submitted that IN 625 is vulnerable
+to challenge because of the plaintiffs having breached the provisions of
+Section 8 of the Act and, hence, had opened IN 625 to revocation under Section
+64(1)(m). The requirements of Section 8 are mandatory. The provisions of this
+section oblige the applicant to keep the Indian Patent Office informed about
+the status of all corresponding foreign patent applications, which are filed
+in respect of the same or substantially the same invention qua which patent is
+sought.
+
+xxii. Under the provisions of Section 8, the applicant is required to disclose
+details with regard to grant, refusal or abandonment of any foreign
+application. Subsection (1) of Section 8 requires an applicant to file, on its
+own, all material particulars including office actions and examination reports
+issued by foreign patent offices. This obligation becomes inescapable under
+subsection (2) of Section 8 where the patent examiner calls for information
+concerning examination report and office action issued by foreign patent
+offices.
+
+xxiii. In the instant case, the plaintiffs supressed the office
+actions/examination reports dated 30.07.2002 issued by the USPTO concerning US
+117 which corresponds to IN 625. In the said examination report, the USPTO had
+expressly found, in relation to US 117, that the subject matter claimed
+therein was fully disclosed in US 126 which corresponds to IN 147. In this
+context, it is important to note that the plaintiffs, via their response dated
+19.08.2002, voluntarily offered to limit the term of US 117 Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 32 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 [equivalent to IN 625] to that of US 126
+[equivalent to IN 147] which expired on 04.10.2020. The methodology adopted,
+which, in USA, is known as a "terminal disclaimer", prevented the rejection of
+application preferred for grant of US 117 on the ground of obviousness and
+double patenting.
+
+xxiv. US 117 was granted on 20.09.2002 by the USPTO only upon acceptance of
+the terminal disclaimer offered by the plaintiffs. The plaintiffs ought to
+have disclosed, on their own, the said information in consonance with Section
+8(1) of the Act. The plaintiffs did not do so. The plaintiffs failed to
+furnish this information even when the Indian Patent Office, vide its first
+examination report [FER] dated 12.10.2007, issued in relation to IN 625,
+sought the information. [See: Serial no. 13 of FER dated 12.10.2007] The
+plaintiffs, instead, furnished copies of the European patent. [See: Plaintiffs
+response dated 08.10.2008] The plaintiffs' response that since the patent in
+the USA had already been granted, there was no statutory obligation cast on
+them under Section 8 of the Act to submit office actions issued by USPTO, is
+contrary to the intent of Section 8 [See: Chemtura Corporation vs. Union of
+India (UOI) and Ors., 2009 (41) PTC260(Del)] xxv. The assertion of the
+plaintiffs that they had furnished the information concerning the
+corresponding US patent along with their letter of 10.01.2005 is incorrect
+since the said letter did not enclose either the non- final rejection letter
+issued by USPTO dated 30.07.2002 or the terminal disclaimer dated 19.07.2002.
+This omission was deliberate. The omission was material as it would have
+alerted the Indian Patent Office to raise a prior claiming objection which
+would have constrained the patentee to amend IN 625 to a patent of addition
+under Section 54 of the Act. In other Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 33 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16 words, IN 625 would, then, have a validity period which would
+terminate with the tenure of IN 147 i.e. 02.10.2020.
+
+xxvi. The submission advanced on behalf of the plaintiffs that termination
+disclaimer is only an obviation and not an admission of obviousness/double
+patenting based on the judgement rendered in Quad Environment vs. Union
+Sanitary, 946 F2d 870 does not appear to be in line with the current thinking
+in USA. [See: Festo Corp. vs. Shoketsu Kinzoku, 535 U.S 722 (2002); and
+SimpleAir, Inc. vs. Google LLC, Appeal Number: 16-2738, United States Court of
+Appeals for the Federal Circuit].
+
+xxvii. The admissions made in the plaint, in at least 18 paragraphs, i.e.
+paragraph numbers 2, 3, 16, 22, 26, 28, 53, 54, 56, 70, 71, 73, 76, 77, 79,
+83, 84, 87, 88 and the prayer clause [i.e. 101] that DAPA is covered by both
+suit patents would propel the Court to dismiss the interlocutory application
+in view of the express language of Section 53(4) and Section 13(1)(b) and
+Section 64(1) of the Act. In support of this plea, that is, DAPA is covered by
+the claims made in the genus patent i.e. IN 147 reference is also made to Form
+27 filed by the plaintiffs between 2015- 2019 with the Indian Patent Office in
+relation to IN 147. Form 27 supports the plea of the defendants that even
+according to the plaintiffs DAPA is covered by IN 147.
+
+xxviii. Besides this, a perusal of PTE applications dated 06.03.2014 filed for
+the corresponding patents i.e. US 117 and US 126 would show that the
+plaintiffs have identified the "approved product" for which the PTE was being
+sought as Farxiga [the generic name being DAPA]. It is emphasised that while
+PTE of US 117 was filed by the plaintiffs, the similar application i.e. PTE
+dated 06.03.2014 qua US 126 was kept back. Signature Not I.A.Verified No.
+8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 34 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 xxix. In this context, it was submitted that the PTE
+filed in respect of US 126 inter alia states at internal page 12 that claims
+1-8 and 14-28 "read on" the product DAPA. This clearly demonstrates that even
+according to the plaintiffs DAPA is covered by US 126 and, therefore, is also
+covered by Indian genus patent i.e. IN 147. It is in the backdrop of these PTE
+applications that USPTO required the plaintiffs to elect, between one of the
+two patents for grant of PTE vide its final notice of election dated
+15.06.2020. The record would show that on 10.07.2020 plaintiffs elected US 117
+and, therefore, US 117 was granted PTE. It is also relevant to note that
+before US FDA, qua US 126 along with other US patents, the plaintiffs have
+stated that it covers DAPA which, by logical corollary, would also stand
+covered by IN 147.
+
+xxx. In this context, it is important to note the plaintiffs stand vis-à-vis
+an entity going by the name Zydus Pharmaceuticals USA, in an action filed by
+them against the said entity in the District Court of Delaware, wherein, one
+of the patents asserted was US 126 [equivalent to IN 147]. In paragraphs 28,
+29, and 31 to 33 of the complaint which was the subject matter of the
+aforementioned action, it is averred that Zydus Pharmaceutical USA's
+application to the US FDA to market DAPA tablets would infringe at least
+claims 1 and 26 of US 126 if approval is granted before the expiry of the said
+patent. It is important to bear in mind that Claim 1 of US 126 is identical to
+Claim 1 of IN 147 and claim 26 of IN 147 claims the same structure as Claim 27
+of US 126.
+
+xxxi. Given these admissions, not only should the interlocutory application be
+dismissed but also the suit as no trial would be required. These admissions
+trigger the bar contained in Section 53 (4) of the Act which inter alia states
+that on expiry of the term of the patent, the subject matter covered by the
+said patent shall not be entitled to any protection. The Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 35 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 admissions in the plaint and other documents
+show that DAPA is covered by IN 147 which expired on 02.10.2020 and,
+therefore, no further protection can be given to DAPA through the route of the
+species patent i.e. IN 625.
+
+xxxii. Section 53(4) which was introduced in the Act pursuant to the 2002
+amendment sought to protect abuse by the patentee of its monopoly rights by
+resorting to double patenting. It is in this context that extension of
+protection of subject matter which is covered by an expired patent is not
+countenanced by the Statute.
+
+xxxiii. Section 53(4) along with Section 107A of the Act was introduced to
+balance the interest of public in lieu of extension of patent term to 20 years
+for patents across the board for all inventions. Section 107A, in this spirit,
+facilitates timely entry of generic drugs by exempting certain activities such
+as research and development and obtaining regulatory approvals from the pale
+of infringement actions. The purpose being that manufacturers of generic drugs
+should be in a position to commence their activities immediately upon the
+expiry of the patent in the interest of the public at large. These statutory
+safeguards were put in place to balance its international commitment under the
+Agreement on Trade-Related Aspects of Intellectual Property Rights [in short
+"TRIPS agreement"] as against India's obligation to protect the health of its
+citizens. [See: Doha declaration on the TRIPS agreement and Public Health
+dated 14.11.2001].
+
+xxxiv. In this context, it was emphasized that when Section 13(1)(b) is read
+with Section 64(1)(a) of the Act, it would show that it allows the examiner to
+invoke anticipatory prior art even where the claim made in another complete
+specification filed in India is dated before or has a priority date Signature
+Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020
+in CS (COMM) No. Digitally Signed  411/2020 Page 36 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 earlier than the patent application placed
+before him for examination to ascertain whether the invention of the subject
+matter is the same.
+
+A. In other words, unlike other grounds of anticipation which require prior
+publication of documents sought to be used as anticipatory prior art Section
+13(1)(b) makes an exception. There is, in fact, no statutory exception or
+defence provided to anticipation by prior claiming. Therefore, once it is
+established [and, in this case, admitted by the plaintiffs] that DAPA is
+covered by the claims of genus patent IN 147, the plaintiffs cannot be heard
+to say that anticipation by prior claiming is not established under Section
+64(1)(a) of the Act since DAPA, while being covered by the claims of IN 147
+only because it is not disclosed by the said patent.
+
+B. It is important to note that for a defendant to establish prior claiming,
+it is not important to show that the prior art contained in the prior patent
+is identical to the impugned claim in the impugned patent. All that the
+defendant has to establish is that the subject matter claimed that the
+impugned patent falls within the scope or is covered by the prior claim of the
+prior patent. In the facts of the instant case since the prior claim of IN 147
+such as 1, 14 to 26 being broader, encompass within their scope, the entire
+principal claim of the impugned patent i.e. IN 625, it renders the entire
+principal claim of IN 625 vulnerable to revocation.
+
+C. Significantly, Section 64(1)(a) read with Section 13(1)(b) of the Act only
+requires coverage of the subject matter by a prior claim, there being no
+requirement of disclosure whatsoever. This, though, is without prejudice to
+the submission of the defendants that DAPA is, in fact, disclosed in IN 147.
+If this position is held to be true, Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 37 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16 then, the stand taken by the plaintiff that DAPA is covered but not
+disclosed will not help its cause. In this regard, it has to be borne in mind
+that Section 11 of the Act requires that every claim of a patent is based on a
+matter which is fairly disclosed.
+
+xxxv. In the instant case, preferred embodiments leading to DAPA form
+structure claimed in claims 1, 14, 15 and 26 are expressly set out in internal
+pages 29 and 33 of the complete specification of IN 147 wherein ethyl for the
+alkyl group and chlorine for halogen are specifically captured as most
+preferred embodiments. Therefore, not only is DAPA covered by claims of IN
+147, as is admitted by the plaintiffs, the said claims are, as indicated
+above, supported by the disclosure of the specification.
+
+xxxvi. IN 625 is also vulnerable on the ground of prior publication. This is
+evident if one were to read section 64(1)(e) along with Section 13(2) of the
+Act. In the instant case, IN 625 is liable to be revoked on the ground of lack
+of novelty due to prior publication of WO2001/27128 [in short "WO'128"] which
+is the PCT equivalent of the genus patent IN 147. WO'128 was published on
+19.04.2001 whereas the priority date of IN 625 admittedly is 20.05.2002.
+
+xxxvii. A careful perusal of WO'128 with IN 625 would show that the written
+description qua the background of respective purported inventions is
+identical. A perusal of the detailed description of two documents would also
+show that in large swathes they are identical and is, therefore, a classic
+case of cut, copy, paste. Besides this, the description of preferred
+embodiments substituents possible combinations with other pharmaceutical
+ingredients and suggestive doses are all identical. What is ironical and also
+similar is: that there is a complete absence of any Signature Not I.A.Verified
+No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 38 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 example concerning actual pharmaceutical formulation
+containing purportedly novel compounds in either document. There is, in both
+documents, a complete absence of any data relating to efficacy let alone
+significant enhancement of efficacy or indeed any activity whatsoever.
+
+xxxviii. The balance of convenience is in favour of the defendants since they
+would be manufacturing their drug in India which would generate employment and
+align with the policies of Government of India i.e. Make in India. The
+plaintiffs, on the other hand, would be importing their product for marketing
+in India.
+
+xxxix. The plaintiffs are guilty of misrepresentation and concealment. The
+plaintiffs have concealed relevant facts from the Indian Patent Office at the
+time of filing patent application for IN 625 including the following.
+
+▪ The plaintiffs already hold a valid patent which discloses the sale compound
+i.e. DAPA;
+
+▪ As per the plaintiffs' own admission, IN 625 is part of a catalogue of
+patents including IN 147, therefore, it was incumbent on the plaintiffs to
+disclose the same to the examiner ▪ The Plaintiffs have failed to disclose
+material particulars of their corresponding US patents which is violative of
+Section 8(2) of the Act.
+
+▪ The plaintiffs failed to disclose the non-final rejection letter issued by
+USPTO dated 30.07.2002 and the terminal disclaimer dated 19.07.2002 field in
+response thereto to the said objection.
+
+xl. The plaintiffs have failed to demonstrate irreparable injury. Irreparable
+injury is understood to be an injury which is not monetarily compensable.
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 39 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 There is no presumption qua
+irreparable injury where the validity of a patent has not been tested in
+litigation. [See: Nutrition 21 vs. The United States of America, US 930 F.2d
+867] This principal is important for cases in India as there is no presumption
+of validity in India as provided in Section 13(4) of the Act.
+
+xli. There are at least two entities i.e. Sun and Abbott which have obtained a
+license qua IN 625. The packaging of the two products which are used by Sun
+and Abbott establish this fact. Therefore, the plaintiffs, clearly, have not
+sought market exclusivity but have shown willingness to monetise the patent
+via licensing. The logical sequitur of this would be that the royalty payable
+by the aforementioned licensees could provide a reasonable basis to assess the
+damages if the plaintiffs were to finally succeed in the instant actions.
+[See: Polymer Technologies, Inc. vs. Bridwell, 103 F.3d 970, 974
+(Fed.Cir.1996); T.J. Smith and Nephew Ltd. vs. Consolidated Medical Equip.
+Inc., 821 F.2d 646; and Dynamic Mfg. Inc. vs. Craze, No. 97-1165, 1998 WL
+241201] xlii. The defendants being large enterprises who possess financial
+wherewithal and are not fly by night operators would be able to pay damages if
+proved under the law.
+
+xliii. Furthermore, without prejudice to the contentions made hereinabove,
+interim injunction ought to be denied to the plaintiffs given the
+considerations of the public interest.
+
+xliv. The plaintiffs and their aforementioned licensees [i.e. Sun and Abbott]
+are marketing DAPA under various brand names such as FORXIGA, XIGDUO, OXRA,
+GLADEPA and various fixed dose combinations at Rs. 54.4 for a 5-milligram dose
+and Rs. 57.29 for a 10-milligram dose. Thus, a strip of 14 tablets would cost,
+qua the aforesaid dosages, between Signature Not I.A.Verified No. 8826/2020 in
+CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+411/2020 Page 40 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 Rs.
+761.60 and Rs. 802.90 respectively. The cost per patient vis-à-vis plaintiffs'
+drug in the market would range approximately between Rs. 1523.20 and Rs.
+1605.80. As against this, the defendants propose to sell their drugs for Rs.
+13.90 for 5-milligram and Rs. 17.50 for a 10-milligram dose. Thus, a strip
+comprising of 14 tablets would have a price range of Rs. 194.60 and Rs. 245
+respectively. Thus, the drugs manufactured by the defendants would lay a
+financial burden on a patient that would range between Rs. 490 and 554.50 per
+month. The difference in percentage would be approximately 250%.
+
+xlv. More importantly, in the present times when the Coronavirus pandemic is
+prevalent, the probability of a diabetic person being afflicted with the virus
+is exponentially high.
+
+Rejoinder arguments on behalf of the plaintiffs: -
+
+9\. In the rejoinder, the plaintiffs were led by Mr. Harish Salve, learned
+senior counsel, who addressed arguments, in some detail, with regard to two
+aspects:
+
+a. First, the true and correct ratio of the Novartis judgement. b. Second, the
+applicability of Section 53(4) of the Act to the instant case.
+
+10\. In respect of the first aspect, Mr. Salve drew my attention to various
+paragraphs of the Novartis judgement to demonstrate that the said judgement
+concerned, essentially, the applicability and interpretation of Section 3(d)
+of the Act [along with the explanation appended thereto] in the context of
+facts obtaining in that case. It was sought to be pointed out by Mr. Salve
+that Novartis before the Supreme Court had inter alia contended that beta
+crystalline imatinib mesylate was a new invention qua which there were no
+teachings in the earlier patent i.e. the Zimmerman patent.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 41 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 10.1 It was pointed out that
+Novartis had argued that while imatinib-in-free- base was claimed in the
+Zimmerman patent, there were no teachings in the Zimmerman patent on how to
+prepare imatinib mesylate from the former and that there was no mention of
+polymorphism or crystalline structure in the said patent.
+
+10.2 Mr. Salve endeavoured to demonstrate that it was, in this context, that
+one of the arguments, which was advanced on behalf of Novartis was that while
+imatinib mesylate was covered by the Zimmerman patent, it was not disclosed
+therein and that coverage or claim in a patent was distinct from the
+disclosure made in a patent.
+
+10.3 In other words, the boundary laid out by the claim for coverage is
+permitted to be wider than disclosure or enablement or teaching in a patent.
+It was sought to be pointed out that in Novartis case, on facts, the Supreme
+Court found that the US Board of Patent Appeals had noticed that the Zimmerman
+patent taught the person skilled in the art how to use imatinib - a compound
+of formulae 1 or a pharmaceutically acceptable salt thereof in a
+pharmaceutical composition for treating tumours or a method of treating warm-
+blooded animals suffering from a tumoral disease.
+
+10.4 Apart from this, as pointed out by Mr. Salve, the Supreme Court had also
+noticed the fact that in an article published in a journal going by the name
+Cancer Research and Nature Medicine [which was co-authored by several persons
+including Jurg Zimmerman], there was a detailed discussion about anti- tumoral
+properties of imatinib and its methanesulfonate salt i.e. imatinib mesylate.
+My attention was drawn also to the fact that the Court noticed yet another
+article published in the aforementioned journal in which there was a
+discussion about imatinib designed to inhibit Abl Protein-Tyrosine Kinase in
+Vitro and in Vivo by a 2-phenulaminopyrimidine derivative. Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 42 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 10.5 Mr. Salve, thus, submitted that it was
+in this background that the Supreme Court concluded that imatinib mesylate was
+not a new product and that it was a known substance seen in the Zimmerman
+patent. Furthermore, Mr. Salve pointed out that the Supreme Court said that
+for imatinib mesylate to be construed as a new product i.e. an invention it
+should have features which involved technical advance over existence knowledge
+and would make invention not obvious to the person skilled in the art.
+
+10.6 In short, Mr. Salve submitted that the observations made in paragraphs
+118 and 119 of the Novartis case concerning coverage and disclosure have to be
+understood in this context. According to Mr. Salve, what was emphasized was
+that Novartis was not able to prove inter alia therapeutic efficacy of its
+claimed invention. It was emphasized that what the Court disapproved was,
+perhaps, clever drafting of descriptions and specifications which, then, are
+used as a ploy to extend the validity period of the patent.
+
+10.7 According to Mr. Salve, the Court did not do away with the Markush
+structure which is what the plaintiffs are relying upon in the instant case
+and that this aspect is evident if one were to carefully peruse the
+observations made in paragraph 134 of the Novartis case.
+
+10.8 As regards, Section 53(4) of the Act, Mr. Salve contended that it had no
+application to the facts obtaining in the instant case.
+
+11\. Mr. Sudhir Chandra, learned senior counsel, in rejoinder, concentrated on
+the aspects concerning balance of convenience apart from what was stated in
+the opening by him which was recorded in my order dated 01.10.2020.
+
+12\. Mr. Anand also made submissions in rejoinder and submitted an additional
+note of written submissions to counter the arguments raised by the defendants
+and also distinguish the judgements cited by the defendants in Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 43 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 support of their case.
+
+Analysis and reasons: -
+
+13\. I have heard the matter, at some length, on 9 dates running into several
+hours. Counsels on both sides have relied upon a plethora of documents,
+pleadings, written submissions and judgements in support of their respective
+stand. I have attempted to capture the significant parts of the submissions
+advanced on both sides.
+
+13.1 To my mind, what is important, at this juncture, is to bear in mind the
+stage of the proceedings and, therefore, contextualise the submissions and
+pleadings bearing this aspect in mind.
+
+14\. Given this backdrop, let me begin by noticing certain facts over which
+there is no dispute.
+
+i. First, the actions concern two patents i.e. the genus patent i.e. IN 147
+and the species patent i.e. IN 625.
+
+ii. Second, the aforementioned patents have corresponding patents in the USA
+i.e. US 126 [which is the genus patent] and US 117 [which is the species
+patent] iii. Third, the Indian genus patent i.e. IN 147 expired on 02.10.2020.
+
+iv. The Indian species patent i.e. IN 625 expires on 15.05.2023.
+
+v. The prayers made in the suit actions including the captioned interlocutory
+applications seek injunction against purported infringement of not only IN 147
+but also of IN 625. The suit actions were filed on 30.09.2020 i.e. two days
+prior to expiry of validity period of IN 147 which, as indicated above, ended
+on 02.10.2020.
+
+vi. Before the USPTO, the plaintiffs filed a terminal disclaimer which, in
+sum, meant that the validity period of the corresponding US patent i.e.
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 44 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 US 126 [US genus patent] and US 117
+[US species patent] would end on the same date. The terminal disclaimer was
+filed by the plaintiffs as an objection had been raised by the USPTO qua non-
+obviousness/double patenting. The plaintiffs, of course, claim that such
+applications are filed in the normal course in the USA to obviate objections
+raised by the USPTO and that this step cannot be construed as an admission of
+the objection qua obviousness and double patenting raised by USPTO.
+
+vii. Apart from the plaintiffs, DAPA is being marketed with the permission of
+the plaintiffs by two entities namely Sun and Abbott. The brand names, under
+which DAPA is being marketed, are FORXIGA, XIGDUO, OXRA, GLADEPA. The
+defendants claim that Sun and Abbott are plaintiffs' licensees whereas the
+plaintiffs assert that these entities are only their distributors. This fact
+is noted only in the context of the argument advanced that damages if any
+caused, are compensable. This aspect of the matter will be discussed by me in
+the latter part of the judgement.
+
+15\. Thus, given the aforesaid broad points of reference, it would be
+important to deal, in the very first instance, with the issue as to whether or
+not, at this stage, I am required to ascertain the validity of IN 625 by
+conducting a mini- trial. In other words, would it suffice from the
+defendants' point of view, given the fact that the actions are at the stage
+where the plaintiffs are seeking a preliminary injunction, to demonstrate that
+they have raised a credible challenge to IN 625?
+
+15.1 In this context, on behalf of the defendants, it was argued that a patent
+is valid only till such time it is challenged and, therefore, there is no
+presumption as to its validity. It was emphasized that a challenge could be
+raised both, at the pre and post-grant of a patent, and also by way of
+revocation or counter-claim. 15.2 The plaintiffs, on the other hand, have
+sought to bring to fore the fact that Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 45 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16 because there has been no challenge to the suit patents either by way
+of pre or post-grant challenge or even by way of revocation or counter-claim,
+up-until 2020, is the very reason why this Court should not countenance
+arguments which seek to raise doubts qua the validity of the suit patents.
+
+15.3 The plaintiffs argue that although given the scheme of the Act, there are
+various stages at which validity of a patent can be challenged, it does not
+follow that there is a presumption as to the invalidity of the patent. Mr.
+Chandra, in this context, had cited the following judgements.
+
+a) Order dated 15.03.2018, passed in CS (COMM) 737/2018, titled Pfizer Inc.
+and Ors. vs. Nagesh Palepu and Ors.; and
+
+b) Judgement dated 09.07.2015, passed in CS(OS) 442/2013, titled
+Telefonaktiebolaget LM Ericsson (PUBL) vs. Mercury Electronics & Anr.
+
+16\. Given the arguments and counter-arguments, it would be helpful if one
+were to look to the scheme of the Act.
+
+16.1 Section 25(1) accords leeway to oppose grant of a patent once an
+application for the said purpose has been published. The grounds on which
+opposition can be filed are set out in subclause (a) to (k) of Subsection (1)
+of Section 25 of the Act.
+
+16.2 Subsection (2) of Section 25 of the Act allows a person who is interested
+in opposing the patent granted by the Controller by giving notice to him in
+the prescribed manner on one or more grounds referred to in clause (a) to (k)
+of the said subsection. However, the notice of opposition has to be given at
+any time after the grant of the patent but before the expiry of the period of
+one year from the grant of the patent. Pertinently, both under subsection (1)
+and (2), the grounds of opposition are restricted to those referred to in the
+respective sub- clauses.
+
+16.3 Section 48 sets out the rights of the patentee subject to other
+provisions Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020
+& I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 46 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 contained in the Act and
+conditions specified in Section 47. The section, broadly, gives a right of
+exclusivity to the patentee whereby he can exclude third parties from acts of
+making ["act of using" in a process patent], using, offering for sale, selling
+or importing for the purposes indicated herein before, that product ["that
+process" in the case of process patent] in India as long as they do not have
+the consent of the patentee.
+
+16.4 Section 64 of the Act confers a right revocation of a patent. Thus, any
+person interested [or the Central Government] can seek revocation of a patent
+by either moving the appellate board constituted under the Act or by filing a
+counter-claim in an infringement suit filed before the High Court. This apart,
+Section 105 confers an independent right to file a declaratory suit for non-
+infringement.
+
+16.5 Pertinently, the grounds of revocation are set out in subclause (a) to
+(q) of subsection (1) of Section 64 of the Act. Besides this, there are
+special provisions for seeking revocation of patent or amendment of complete
+specification conferred on the Central Government in matters relating to
+atomic energy. 16.6 Likewise, Central Government can also seek revocation of a
+patent in the public interest if it believes that the patent or the mode in
+which it is exercised is mischievous to the State or generally prejudicial to
+the public, albeit, after giving the patentee an opportunity of being heard in
+the matter.
+
+17\. Therefore, what is clear [and something which is conceded by both sides
+as noticed above], a challenge can be laid either at the stage when an
+application is moved for grant of a patent, albeit, after its publication or
+after its grant, although, within the timeframe provided in the relevant
+provision or even by seeking revocation by moving the appellate board or by
+way of a counterclaim in the infringement suit.
+
+18\. All this, points in the direction that the interested third parties can
+lay challenge to an invention which is the subject matter of either the patent
+application or the patent at various stages. The clearest indication of the
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 47 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 legislative intent is embedded in
+subsection (4) of Section 13. Section 13 is a provision which empowers the
+examiner before whom an application for grant of patent is placed to make
+investigations to ascertain if a patent is anticipated by previous publication
+and/or by a prior claim. 18.1 In this context, subsection (4) makes it clear
+that examination and investigations required under Section 12 or Section 13
+shall not be deemed, in any way, to warrant inter alia the validity of the
+patent. In other words, even when the patent crosses the threshold of
+examination by the patent office, it does not, as per the Statute, warrant its
+validity. Therefore, quite clearly, irrespective of when the challenge is
+laid, the challenger [i.e. the person interested] can put the patent in
+jeopardy. [See: Bishwanath Prasad Radhey Shyam vs. Hindustan Metal
+Industries1, (1979) 2 SCC 511] 18.2 Thus, till the time the patent is
+invalidated i.e. revoked, the patentee has the right to exclude third parties.
+Therefore, the observations made in Pfizer Inc. and Ors. case and
+Telefonaktiebolaget LM Ericsson (PUBL) case cannot, in my view, be read in a
+manner whereby they roil against express provisions of the statute.
+
+18.3 Furthermore, the argument advanced on behalf of the plaintiffs that since
+the suit patents are old and thus, should be presumed to be valid cannot be
+accepted for two reasons.
+
+i. First, there is a period of overlap between the genus patent i.e. IN 147
+and the species patent i.e. IN 625. The defendants, in this case, chose  1
+This extract is taken from Bishwanath Prasad Radhey Shyam vs. Hindustan Metal
+Industries, (1979) 2 SCC 511 at page 521.
+
+"32. It is noteworthy that the grant and sealing of the patent, or the
+decision rendered by the Controller in the case of opposition, does not
+guarantee the validity of the patent, which can be challenged before the High
+Court on various grounds in revocation or infringement proceedings. It is
+pertinent to note that this position viz. the validity of a patent is not
+guaranteed by the grant, is now expressly provided in Section 13(4) of the
+Patents Act. 1970. In the light of this principle, Mr Mehta's argument that
+there is a presumption in favour of the validity of the patent, cannot be
+accepted."
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 48 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 to wait [in line with arguments
+advanced in their defence of the suit actions] till such time the validity
+period of the genus patent i.e. IN 147 expired.
+
+ii. Second, as indicated above, the scheme of the Act does not foreclose the
+right of the defendants in defence to an infringement action to question the
+validity of the patent. Section 107 of the Act, expressly confers a right on
+the defendants to raise, in defence, in an infringement suit, all those
+grounds on which the patent can be revoked under Section 64 of the very same
+Act. Therefore, the judgement in Bristol-Myers Squibb Company and Ors vs. J.D.
+Joshi and Ors., MANU/DE/1889/2015, if read in context, would demonstrate that
+it has not emasculated the right of the defendant, as conferred under the Act,
+to challenge the validity of the patent. The presumption of validity exists
+only till such time the patent is challenged - a challenge which is credible
+and no further. In my opinion, if the plaintiffs' argument was to be accepted,
+then, it would have to be held that the older the patent, the stronger the
+firewall. Such an interpretation, in my view, would be contrary to the plain
+words of the Statute.
+
+19\. The next question which arises for consideration is: at the stage of
+preliminary injunction, what is the threshold that the challenger has to meet?
+In other words, is the challenger required to demonstrate that the patent is
+invalid or is the challenger required to establish that the patent is
+vulnerable and that the validity is not vexatious.
+
+19.1 This issue came up for consideration before a Division Bench of this
+Court in F. Hoffmann-LA Roche Ltd. & Anr. vs. Cipla Ltd., 2009 (110) DRJ 452
+(DB), wherein, the Court clearly set out the judicial standard which ought to
+operate at the preliminary injunction stage. The Court, in no uncertain terms,
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 49 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 stated that validity of a patent is
+required to be looked at the stage of trial. 19.2 However, at the stage of
+preliminary injunction all that the defendant is required to demonstrate is
+that she/he has made a credible challenge or that the patent is vulnerable and
+that validity is not vexatious. The relevant observations made by the Division
+Bench in this behalf are extracted hereafter.
+
+> "53. The plea of the plaintiff that since there is a multi-layered, multi-
+> level examination of the opposition to the grant of patent it should
+> accorded the highest weightage, is not entirely correct. The contention that
+> there is a heavy burden on the defendant to discharge since it has to
+> establish that it has a stronger prima facie case of the plaintiff is contra
+> indicated of the decisions in the context of Section 13(4). Reference may be
+> made to the decisions in Biswanath Prasad Radhey Shyam v. Hindustan Metal
+> Industries, AIR 1982 SC 1444 : PTC (Suppl)(1) 731 (SC), Standipack Pvt. Ltd.
+> v. Oswal Trading Co. Ltd., AIR 2000 Del 23 : 1999 PTC (19) 479 (Del),
+> Bilcare Ltd. v. Amartara Pvt. Ltd., 2007 (34) PTC 419 (Del), Surendra Lal
+> Mahendra v. Jain Glazers, (1979) 11 SCC 511. In Beecham Group Ltd. v.
+> Bristol Laboratories Pty Ltd., (1967-1968) 118 CLR 618 and Australian
+> Broadcasting Corporation v. O'Neill, (2006) 229 ALR 457 it was held that the
+> defendant alleging invalidity bears the onus of establishing that there is
+> "a serious question" to be tried on that issue. In Hexal Australai Pty Ltd.
+> v. Roche Therapeutics Inc., 66 IPR 325 it was held that where the validity
+> of a patent is raised in interlocutory proceedings, "the onus lies on the
+> party asserting invalidity to show that want of validity is a triable
+> question." In Abbot Laboratories v. Andrx Pharmaceuticals Inc. (decision
+> dated 22nd June 2006 of the U.S. Court of Appeals for the Federal Circuit
+> 05-1433) the Court of Appeals followed its earlier ruling in Helifix Ltd. v.
+> Blok-Lok Ltd. 208 F.3d 1339 where it was held (at 1359): "In resisting a
+> preliminary injunction, however, one need not make out a case of actual
+> invalidity. Vulnerability is the issue at the preliminary injunction stage,
+> while validity is the issue at trial. The showing of a substantial question
+> as to invalidity thus requires less proof than the clear and convincing
+> showing necessary to establish invalidity itself." (emphasis supplied) In
+> Erico Int'll Corprn v. Vutec Corprn (U.S. Court of Appeals for the Federal
+> Circuit, 2007-1168) it was held that the "defendant must put forth a
+> substantial question of invalidity to show that the claims at issue are
+> vulnerable."
+
+> 54\. In the present case, the grant of a patent to the plaintiffs for
+> Erlotinib Hydrochloride as a mixture of Polymorphs A and B will not ipso
+> facto entitle them to an interim injunction if the defendant is able to
+> satisfy the court that there is a serious question to be tried as to the
+> validity of the patent. The use by the learned Single Judge of the
+> expressions "strong credible challenge", "arguable case" or that the
+> defendants claim being not unfounded, cannot be termed as vague and
+> inconsistent since they convey the same meaning in the context of the
+> strength of the defendant's challenge.
+
+55\. The question before this Court is when can it be said that the defendant
+has raised a credible challenge to the validity of a patent held by the
+plaintiff in an infringement action? During the course of the argument it was
+suggested by counsel that the challenge had to be both strong and credible.
+Also, the defendant resisting the grant of injunction by challenging the
+validity of the patent is at this stage required to show that the patent is
+"vulnerable" and that the challenge raises a "serious substantial question"
+and a triable issue. Without indulging in an exercise in semantics, the Court
+when faced with a prayer Signature Not I.A.Verified No. 8826/2020 in CS (COMM)
+No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020
+Page 50 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 for grant of
+injunction and a corresponding plea of the defendant challenging the validity
+of the patent itself, must enquire whether the defendant has raised a credible
+challenge. In other words, that would in the context of pharmaceutical
+products, invite scrutiny of the order granting patent in the light of Section
+3(d) and the grounds set out in Section 64 of the Patents Act 1970. At this
+stage of course the Court is not expected to examine the challenge in any
+great detail and arrive at a definite finding on the question of validity.
+That will have to await the trial. At the present stage of considering the
+grant of an interim injunction, the defendant has to show that the patent that
+has been granted is vulnerable to challenge. Consequently, this Court rejects
+the contentions of the plaintiffs on this issue and affirms the impugned
+judgment of the learned Single Judge."
+
+[Emphasis is mine] 19.3 This view has been reiterated in Natco Pharma vs. Bear
+Healthcare LLC, 2019 80 PTC 131 [See: paragraphs 17 to 21]; and Natco Pharma
+vs. Bristol Myers Squibb Holding, 263 (2019) DLT 622 [See: paragraphs 34 and
+35].
+
+19.4 The reliance by the plaintiffs on Telefonaktiebolaget LM Ericsson (PUBL)
+case is, in my view, misplaced as that case concerned decision on the issue as
+to which of the contesting parties should be burdened with proving a
+particular issue. Interestingly, the Court, while distinguishing the judgement
+rendered in TEN XC Wireless Inc. & Anr. vs. Mobi Antenna Technologies
+(Shenzhen) Co. Ltd., 2011 SCC OnLine Del 4648 : (2012) 187 DLT 632 made the
+following observations.
+
+10\. Reliance on Bishwanath (supra) and Ten XC Wireless (supra) by the learned
+counsel for the defendants is also misplaced. In fact, Bishwanath was premised
+on Section 13(4) of the Patents Act, according to which there is no
+presumption of validity of a patent only to the extent that no liability shall
+be incurred by the Central Government or any other officer thereof in
+connection with the grant of patent. In Ten XC Wireless, no presumption was
+drawn in favour of the patent only for the purposes of an interim injunction
+and not for onus of proof.
+
+[Emphasis is mine] 19.5 Likewise, a perusal of the order in Pfizer Inc. and
+Ors. case shows that the defendants in that case did not make any submission
+as to how the challenge raised by them qua the patent-in-issue was credible.
+It is in this context, that the Court granted the injunction. Pertinently,
+this order was passed when the suit Signature Not I.A.Verified No. 8826/2020
+in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally
+Signed  411/2020 Page 51 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020
+15:05:16 was listed for issuance of summons and notice in the interlocutory
+application. The defendants, obviously, at that stage had no chance of showing
+to the Court that there was a credible challenge to the patent-in-issue. The
+Court left that window open by observing as follows.
+
+"... Of course, this would not debar the defendants to raise a substantial,
+tenable and credible challenge in its pleading."
+
+19.6 This judgement is distinguishable as in the instant suit actions the
+defendants have raised a credible challenge as discussed hereafter.
+
+19.7 Similarly, J.D. Joshi case is distinguishable as the Court came to a
+prima facie conclusion that the plaintiffs had a valid patent and the defences
+raised did not enable it, at that juncture, to doubt the validity of the
+patent. [See: paragraph 88 in J.D. Joshi] Such is not the position in the
+present case.
+
+ARE THE SUIT PATENTS VULNERABLE?
+
+20\. The challenge to the species patent i.e. IN 625 is, broadly, laid on the
+following five grounds.
+
+i. First, since IN 147 expired on 02.10.2020 and according to the admissions
+made by the plaintiffs in various paragraphs of the plaint that DAPA is
+covered in the suit patents, in particular, in the genus patent i.e. IN 147,
+it cannot be protected in terms of Section 53(4) of the Act.
+
+ii. Second, IN 625 is vulnerable to revocation under Section 64(1)(a) read
+with Section 13(1)(b) of the Act on the ground of lack of novelty in view of
+prior claiming by the genus patent i.e. IN 147.
+
+iii. Third, IN 625 is vulnerable to revocation under Section 64(1)(e) of the
+Act on the ground of lack of novelty due to prior publication of WO'128 which
+is the PCT equivalent of the genus patent i.e. IN 147.
+
+iv. Fourth, IN 625 is vulnerable to revocation under Section 64(1)(f) of the
+Act as it lacks inventive step as provided in Section 2 (1) (ja) i.e. lacks
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 52 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 technical advance or economic
+significance and is obvious to a person skilled in the art.
+
+v. Lastly, IN 625 is vulnerable to revocation under Section 64(1) of the Act
+in view of the failure of the plaintiffs to make full and fair disclosure as
+required under Section 8 of the Act.
+
+21\. Insofar as the first aspect is concerned, let me quote the relevant
+extracts from some of the paragraphs in the plaint.
+
+CS (COMM) 410/2020 "16. The Plaintiffs' suit patents IN 205147 [genus patent]
+and IN 23 5 625 [ species patent] cover the Plaintiffs' drugs comprising inter
+alia its invention DAPAGLIFLOZIN, which are made available by the Plaintiff
+under the brands FORXIGA, XIGDUO, XIGDUO XR, XIGDUO IR, QTERN.
+
+xxx xxx xxx V. THE PLAINTIFFS' SUIT PATENTS
+
+22\. DAPAGLIFLOZIN falls within the scope of the Plaintiffs Indian Patent
+Numbers IN 205147; IN 235625. ...
+
+36\. DAPAGLIFLOZIN is covered by the Markush claim in patent IN '147. However,
+it is specifically disclosed only in patent IN 235625 (IN '625) and falls
+within the scope of claim 1 thereof which specifically claims said compound as
+well as pha11naceutically acceptable salts, stereoisomers, or prodrug esters
+thereof. Further, claim 2 of the suit paten t IN '625 claims pharmaceutical 32
+compositions prepared using DAP AGLIFLOZIN. The Plaintiffs have filed a copy
+of the complete specification and granted claims of IN '625 in the present
+proceedings and are not extracting the above claims for the sake of brevity."
+
+[Emphasis is mine] 21.1 There are several other paragraphs, for instance,
+paragraphs nos. 56 and 86 of the plaint filed in CS (COMM) 410/2020, wherein,
+a similar averment has been made by the plaintiffs.
+
+21.2 The fact that IN 147 has been worked commercially in India cannot be
+disputed if one were to peruse Form 27 filed by the plaintiffs in consonance
+with the provisions of Section 146(2) read with Rule 131 of The Patent Rules,
+2003 [in short "Rules"].
+
+21.3 The fact that PTE applications were moved for the extension of the term
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 53 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 of US 117 is not in dispute. It is
+not in dispute that both applications concerned the drug Farxiga which is the
+brand name for the compound DAPA. The documents on record show that the USPTO
+informed the plaintiffs via AstraZeneca Medimmune through "notice of final
+determination and requirement for election" that they needed to elect one of
+the two PTE's. The relevant extract from the aforementioned communication is
+set forth below.
+
+> "ASTRAZENECA MEDIMMUNE One Med.Immune Way Gaithersburg MD 20878 In Re:
+> Patent Term Extension Application for U.S. Patent No. 6,515,117 June 15,
+> 2020 A determination has been made that U.S. Patent No. 6,515,117, claims of
+> which cover the human drug product and methods of using the human drug
+> product known by the tradename FARXIGA~ (dapagliflozin), is eligible for
+> patent term extension under 35 U.S.C. § 156. The period of extension has
+> been determined to be 5 years.
+
+> xxx xxx xxx Applicant also has applied for patent term extension of U.S.
+> Patent No. 6,414,126 based on the regulatory review period for the human
+> drug product, FARXIGA® (dapagliflozin), of NDA 202293.
+
+> When patent term extension applications are filed for extension of the terms
+> of different patents based upon the same regulatory review period for a
+> product, the certificate of extension is issued to the patent having the
+> earliest date of issuance unless applicant elects a different patent. In the
+> absence of an election by applicant within one month of the date of this
+> notice, and in accordance with 37 CFR L785(b), the application for patent
+> term extension in the above-identified patent will be denied. Accordingly,
+> the application for patent term extension of the patent having the earlier
+> date of issuance will be granted. A certificate of extension will be issued
+> to U.S. Patent No. 6,414,126, for 5 years. In the absence of such request
+> for reconsideration and if U.S. Patent No. 6,515.117 is elected, the
+> Director will issue to the applicant a certificate of extension, under seal,
+> for a period of 5 years in U.S. Patent No. 6,515,  117. xxx xxx xxx Upon
+> issuance of the certificate of extension, the following information will be
+> published in the Official Gazette:
+
+U.S. Patent No.: 6,515,117 Granted: February 4, 2003 Original Expiration
+Date2: October 4, 2020 Applicant: Ellsworth et al. Owner of Record:
+AstraZeneca AB Title: C-Aryl Glucoside SGL T2 Inhibitors and Method Product
+Trade Name: FARXIGA® (dapagliflozin) Term Extended: 5 years Signature Not
+I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in
+CS (COMM) No. Digitally Signed  411/2020 Page 54 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 Expiration Date of Extension: October 4,
+2025"
+
+[Emphasis is mine] 21.4 It is in response to the aforesaid notice that
+election was made seeking an extension of US patent 117 from the date of its
+expiration which was 04.10.2020 for 5 years i.e. till 04.10.2025. The response
+gave up the request made in the PTE application filed qua US patent 126. This
+is evident from the following extract taken from the communication issued in
+that behalf.
+
+> "RESPONSE TO NOTICE OF FINAL DETERMINATION AND REOUIREMENT FOR ELECTION In
+> response to the Notice of Final Determination and Requirement for Election
+> dated June 15, 2020, pursuant to 35 U.S.C. § 156(c)(4), Applicant hereby
+> elects the Certificate of Extension to be issued to U.S. Patent No.
+> 6,515,117 for a period of 5 years from the date of expiration and not for
+> U.S Patent No. 6,414,126 in connection with the patent term extension filed
+> for the approved pharmaceutical product FARXIGA® (dapagliflozin)."
+
+> [Emphasis is mine] 21.5 Likewise, in an infringement action filed against
+> Zydus Pharmaceuticals (USA) Inc., in the US district court for the District
+> of Delaware, inter alia assertions have been made by Astra Sweden that grant
+> of approval by the US FDA for its 5mg and 10 mg DAPA tablets which are
+> generic versions of the drug sold under the brand name Farxiga would
+> infringe at least claim no. 1 and claim no. 26 of US patent 126. Claim no. 1
+> and 26 of US patent 126 is identical to/or similar in structure to claim no.
+> 1 and 27 of corresponding claims made in IN 147.
+
+21.6 Therefore, the fact that both in the pleadings and in the aforementioned
+documents, there is a definitive assertion that DAPA is covered in both the
+genus patents granted in USA and India i.e. US 126 and IN 147 cannot be
+disputed. The plaintiffs, however, submit [and an averment to that effect has
+been made in paragraph 28 of the plaint], that while DAPA is covered in IN
+147, it is not disclosed. The plaintiffs rely upon the Markush structure in
+support of their plea.
+
+21.7 Markush structure or Markush claim/group is a methodology employed
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 55 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 by a patent drafter to select a
+particular element of the invention wherein all elements share a common
+characteristic. Thus, a patent drafter who does not use a Markush claim/group
+would be required to write a series of alternate dependent claims claiming use
+of each of the elements selected from the group. In a nutshell, Markush claim
+allows a patent drafter to condense a multitude of alternate dependent claims
+into one single claim2. 21.8 The argument advanced on behalf of the plaintiffs
+that coverage does not necessarily include disclosure is founded on the
+Markush claim/group. It is also contended by the plaintiffs that the judgement
+of the Supreme Court did not close this gap between what is covered and that
+which is disclosed. The emphasis, in this behalf, was laid on paragraph 134 of
+the Novartis case. This argument though was apart from the other features of
+the Novartis case which were sought to be highlighted to establish that case
+was distinguishable on facts from those obtaining in the instant suit actions.
+21.9 Mr. Vaidyanathan, on the other hand, relied upon portions of the Novartis
+case to demonstrate that in the very least what is claimed is certainly
+disclosed; although according to him, the observations in paragraph 118 and
+119 of the Novartis case obliterate the distinction between coverage and
+disclosure. In support of this plea, Mr. Vaidyanathan pointed out the
+submissions advanced by the counsel for Novartis before the Supreme Court to
+the effect that imatinib mesylate which was covered in the Zimmerman patent
+was not disclosed - a submission which was ultimately rejected by the Supreme
+Court.
+
+22\. In my view, the fact that the plaintiffs have taken out an infringement
+action both for IN 147 and IN 625 is a sufficient clue, at least at this
+juncture, that DAPA is claimed in both suit patents. It seems incongruous to
+me that a patent holder can take out an infringement action for a patent and
+yet aver it is  2 See: Eric, Markush Claims, what are they, when should I use
+one, and how do I use one? Jafari Intellectual Property Law (June 2014),
+Available at: https://www.jafarilawgroup.com/markush-claims-use-one-use-one/,
+last accessed on 26.10.2020 at 16:00 hours.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 56 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 not disclosed.
+
+22.1 This is especially so as under our Act the "complete specification"
+provision encapsulated in various subclauses of subsection (4) of Section 10
+require setting out by an applicant who seeks grant of patent to fully and
+particularly describe the invention and its operation or use and the method by
+which it is performed, disclose the method of performing the invention which
+is known to her/him and for which she/he is entitled to claim protection and
+end with a claim or claims defining the scope of the invention. [See: Section
+10(4)(a) to (c)] The applicant is also required to provide an abstract of
+technical information qua the subject invention. The claim or claims forming
+part of complete specification inter alia are required to be "fairly based on
+the matter disclosed in the specification" [See: Section 10(5) of the Act].
+22.2 Therefore, in my view, the defendants' submission that IN 625 should be
+revoked on account of prior claiming under the provisions of Section 64(1)(a)
+of the Act has substance, at least at this stage.
+
+22.3 What lends credence to this plea are the provisions of Section 13 (1) (b)
+of the Act which require the examiner to ascertain as to whether the
+application referred to him for investigation under Section 12 adverts to an
+invention which is anticipated by a prior claim. Section 13 (1) (b), simply
+put, allows an examiner to make use of an Indian patent application or an
+Indian patent which, though published, after the impugned patent bears a
+priority date which is earlier than the impugned patent. The fact that the
+said patent was published after the impugned patent does not come in the way
+of the investigation carried out by the examiner.
+
+22.4 In the present case, the Indian genus patent i.e. IN 147 bears the
+priority dates 12.10.1999 and 05.04.2000 whereas the Indian species patent
+i.e. IN 625 bears 20.05.2002 as its priority date. For the purposes of Section
+64(1)(a) this ingredient is sufficient. Therefore, as long as the defendant
+can establish that the inventions so far claimed in any claim of the complete
+specification [in this case Signature Not I.A.Verified No. 8826/2020 in CS
+(COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+411/2020 Page 57 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 IN
+625] was claimed in a valid claim of an earlier priority date contained in the
+complete specification of another patent [i.e. IN 147] - a ground for
+revocation is made out.
+
+22.5 I must indicate that the plaintiffs, in support of their submission, have
+cited the judgement rendered by the English Court of Appeal in Daikin Kogyo
+Co. Ltd. (Shingu and Another's) Application, (1974) R.P.C. 18. This was a case
+where grant of process patent was opposed on the grounds of prior claim and
+insufficiency of description. The specification related to a process for
+making tetrafluoroethylene [TFE] by pyrolysis of chlorodifluoromethane [CDM]
+with water vapour. Furthermore, it was specifically asserted that the
+invention insofar as claimed in Claim 2 of the application in suit is claimed
+in Claim 21 of the opponent's patent.
+
+22.6 The Court ultimately concluded that the process claimed differed in terms
+of steps and features. One specific feature that the Court noticed was that
+surface to volume ratio had to be less than 130 reciprocal metres, a feature
+which was not contained in example 2 of the cited patent. The Court noted that
+the reaction zone was such that the surface to volume ratio was over 130.
+Importantly, the Court based its decision on an earlier judgement rendered in
+Kromshroder's Patent [1960] R.P.C. 75. The Court of Appeal also noted the
+judgement rendered in Merck & Co. (Macek's) Patent, [1967] R.P.C. 157 which
+was a case of revocation based on prior claiming. Pertinently, the Court of
+Appeal did not, in any manner, dilute the ratio of the Merck & Co. (Macek's)
+case. The facts in Merck & Co. (Macek's) case reveal that 4 claims of the
+letters patent in the suit read as follows.
+
+> "The four claims of the letters patent in suit read as follows :
+
+> 1\. A composition having enhanced bactericidal activity comprising
+> novobiocin in combination with at least one other antibiotic selected from
+> the following, namely, penicillin, tetracycline, oxytetracydine,
+> chlortetracycline, streptomycin, chloramphenicol, bacitracin, neomycin,
+> spiramycin, streptothricin and grisein.
+
+> 2\. A composition as claimed in claim 1 in which the antibiotics are
+> incorporated in a solid carrier.
+
+3\. A composition as claimed in claim 1 in which the antibiotics are
+incorpora- ted in a Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No.
+410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page
+58 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 parenteral
+liquid.
+
+4\. A composition as claimed in claim 1 in which the antibiotics are
+incorpora- ted in an ointment vehicle."
+
+22.7 Noticing the aforementioned claims, the Court observed that Claim 1 is
+comprehensive which permits alternative additions to novobiocin which
+alternative additions consist of one or more of the named antibiotics.
+According to the Court, it was a convenient submission of what, in effect,
+were number of separate claims to different compositions of which some would
+relate to compositions having two ingredients and some to three or more
+ingredients. 22.8 The Court went on to re-write the claim to make plain this
+differentiation. The patentees contended [an aspect which was noticed by the
+Court] that such notional dismemberment of their claim necessarily involved
+destruction of the generality of the inventive step and, thus, deprived them
+of the real differentiation between what they sought to protect and that which
+was cited as prior document. The Court, in this background, made the following
+pertinent observations.
+
+> "They point to the phraseology of section 14 of the Patents Act, 1949.
+> wherein the ground of objection is set out, and urge that the phrase "the
+> invention so far as claimed in any claim" should be construed to mean the
+> inventive step taken by the patentee to the full extent to which the claim
+> covers it and not to the area of the monopoly which the claim confers. They
+> seek to support their contention by pointing to the emphasis laid upon the
+> phrase by the judgment of the Court of Appeal in the Kromschroder ease; and
+> referer.ee to the report shows that, without actually defining its precise
+> significance, the court took it to require that the invention claimed in the
+> later patent should be the subject of a distinct claim to protection in the
+> earlier patent, and to justify rejection of the plea of prior claiming where
+> "the invention in question is only covered or comprehended by the claim as
+> being a part or integer (however important) of some wider combination or
+> arrangement which and which alone is the subject matter of the claim." (See
+> page 82, lines 27 to 30.) sThe 1949 Act introduced this phrase 44 the
+> invention so far as claimed in any claim" not only in section 14 (l)(c) but
+> elsewhere in the Act and in particular in section 14(1)(b) (prior
+> publication), section 14(l)(d) (prior user) and section 14(l)(e)
+> (obviousness). The acceptance of the principle of multiple priorities
+> required some such introduction, so that it cannot be assumed that
+> Parliament in phrasing the alteration as it did was intending 5 to do more
+> than to adjust the Act to accord with this principle. It would be a matter
+> of surprise if, in purporting to do this, the legislature had made a
+> fundamental alteration in the principles by which the validity of claimed
+> monopolies has hitherto been determined.
+    
+    
+                             xxx                                    xxx                                    xxx
+    Signature Not
+               I.A.Verified
+                     No. 8826/2020    in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+    Digitally Signed
+                 411/2020                                                              Page 59 of 84
+    By:VIPIN KUMAR RAI
+    Signing Date:02.11.2020
+    15:05:16
+    
+
+> There would appear to be no ground for construing the phrase "the invention
+> so far as claimed in any claim" in different senses in the sub-divisions of
+> section 14(1), so that, if the cited prior claim on its fair construction
+> can be seen to grant as a manner of manufacture that which the later claim
+> on its fair construction would re- monopolise, the objection of prior
+> claiming is established, and this despite the inclusion in the later claim
+> of variants of the manner of manufacture to which no objection can properly
+> be raised. The later circumstance will of course be of concern in the
+> determination of the relief to be accorded if and when the plea is
+> established, but it cannot shield a vulnerable embodiment of the invention
+> claimed from attack on the ground of preclaiming any more effectively than
+> it can from the other objections available at the opposition stage."
+
+> [Emphasis is mine] 22.9 In my view, the facts in the instant suit action are
+> closer to those which obtain in Merck & Co. (Macek's) case. As noticed
+> above, in the Daikin Kogyo case, the Court found that the features were
+> different.
+
+23\. The plaintiffs also cited the decision of U.S. Court of Customs and
+Patent Appeals [CCPA] rendered in Application of Virgil W. Vogel and Paul W.
+Vogel, 422 F.2d 438 (C.C.P.A. 1970) in support of their stand. 23.1 This
+appeal arose from a decision of the Patent Office Board of Appeals whereby
+rejection of claims 7, 10 and 11 in the appellant's patent application for
+"Process of Preparing Packaged Meat Products for Prolonged Storage" was
+affirmed. In this case, the sole ground of rejection of claims 7, 10 and 11
+was that they were unpatentable over appellant's co-pending patented claims in
+Vogel et al in view of Ellies.
+
+23.2 It was typically a double patenting type of rejection. The CCPA viewed
+the matter from two angels. First, was it the same invention i.e. identical
+subject matter? Second, whether the claim in the application, defined merely
+an obvious variation of an invention disclosed and claimed in the patent.
+Insofar as the first aspect was concerned, the CCPA observed as follows.
+
+> "The first question is: Is the same invention being claimed twice? The
+> answer is no. The patent claims are limited to pork. Appealed claims 7 and
+> 10 are limited to meat, which is not the same thing. Claims 7 and 10 could
+> be infringed by many processes which would not infringe any of the patent
+> claims. Claim 11 is limited to beef. Beef is not the same thing as pork."
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 60 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 23.3 As regards the other aspect
+which is whether the appeal claim defined merely an obvious variation of the
+invention disclosed, the CCPA noted that the appeal Claim 11 recited beef
+which did not read on the pork process disclosed and claimed in the patent.
+The CCPA, thus, concluded that Claim 11 did not define merely an obvious
+variation of the pork process. It found that the specific time and temperature
+consideration concerning pork might not apply to beef. Accordingly, it held
+that Claim 11 did not present any kind of double patenting situation. However,
+in the case of Claim 10, it made the following pertinent observations.
+
+> "Appealed claim 10, supra, will now be considered. It recites a process to
+> be performed with "meat." "Meat" reads literally on pork. The only
+> limitation appearing in claim 10 which is not disclosed in the available
+> portion of the patent disclosure is the permeability range of the packaging
+> material; but this is merely an obvious variation as shown by Ellies. The
+> answer to the second analysis question, therefore, is yes, and the claim is
+> not allowable in the absence of a terminal disclaimer. The correctness of
+> this conclusion is demonstrated by observing that claim 10, by reciting
+> "meat," includes pork. Its allowance for a full term would therefore extend
+> the time of monopoly as to the pork process. It is further noted that
+> viewing the inventions in reverse order, i. e. as though the broader claims
+> issued first, does not reveal that the narrower (pork) process is in any way
+> unobvious over the broader (meat) invention disclosed and claimed in the
+> instant application. The same considerations and result apply to claim 7.
+
+> The decision of the board is affirmed as to claims 7 and 10 and reversed as
+> to claim
+
+> 11."
+
+24\. Furthermore, qua the arguments advanced on behalf of the plaintiffs that
+DAPA, though, covered in IN 147, was not disclosed therein, is answered, to my
+mind, by the judgement of the United Kingdom Supreme Court [UK SC] in
+Regeneron Pharmaceuticals Inc (Respondent). vs. Kymab Ltd. (Appellant), (2020)
+UKSC 27 [Majority view 4:1].
+
+24.1 This was a case where a dispute related to two patents obtained by
+Regeneron Pharmaceuticals Inc. [RPI] with a priority date of 16.02.2001 and
+each with substantially the same disclosure to justify different claims. The
+two patents were briefly referred to as "287 patent" and "163 patent". The 163
+patent was divisional of 287 patent.
+
+24.2 The challenge to the validity arose because RPI alleged infringement by
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 61 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 Kymab Ltd. of Claim 1 in 163 patent
+and Claim 5 and 6 of 283 patent by offering to the pharmaceutical industry its
+own transgenic mouse i.e. "Kymouse" with reverse chimeric locus some of which
+included the whole of the human variable segments in both the heavy and the
+light chain loci. The UK SC was faced with a challenge to the aforementioned
+patents which sought to confer monopoly over the creation of a range of
+transgenic mouse. 24.3 The Court observed that "in order to patent an
+inventive product the patentee must be able to demonstrate (if challenged)
+that a skilled person can make the product by the use of teachings disclosed
+in the patent coupled with common general knowledge which is already available
+at the time of priority date without having to undertake undue experimental
+burden or apply any inventiveness on their own". This requirement, according
+to the UK SC, is labelled as sufficiency. Applying this test, the Court culled
+out certain principles which are set out in paragraph 56 of the judgement. A
+couple of principles that the Court adverted to reads as follows.
+
+> "iii) Patentees are free to choose how widely to frame the range of products
+> for which they claim protection. But they need to ensure that they make no
+> broader claim than is enabled by their disclosure.
+
+> iv) The disclosure required of the patentee is such as will, coupled with
+> the common general knowledge existing as at the priority date, be sufficient
+> to enable the skilled person to make substantially all the types or
+> embodiments of products within the scope of the claim. That is what, in the
+> context of a product claim, enablement means.
+
+> v) A claim which seeks to protect products which cannot be made by the
+> skilled person using the disclosure in the patent will, subject to de
+> minimis or wholly irrelevant exceptions, be bound to exceed the contribution
+> to the art made by the patent, measured as it must be at the priority date.
+
+> vi) This does not mean that the patentee has to demonstrate in the
+> disclosure that every embodiment within the scope of the claim has been
+> tried, tested and proved to have been enabled to be made. Patentees may
+> rely, if they can, upon a principle of general application if it would
+> appear reasonably likely to enable the whole range of products within the
+> scope of the claim to be made. But they take the risk, if challenged, that
+> the supposed general principle will be proved at trial not in fact to enable
+> a significant, relevant, part of the claimed range to be made, as at the
+> priority date."
+
+25\. Applying these principles, it would have to be said that the arguments of
+the plaintiffs that DAPA was not claimed in IN 147 seem to be untenable at
+this Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A.
+No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 62 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 stage. The Regeneron
+Pharmaceuticals decision, in my opinion, has a greater persuasive value than
+the decisions rendered in Eli Lily, Apotex, 2010 FCA 214 and Dr. Reddy's
+Laboratories (UK) Ltd vs. Eli Lilly and Co Ltd. (2009) EWCA 1362 cited on
+behalf of the plaintiffs, which are, distinguishable on facts. 25.1 It must be
+stated that it was portrayed on behalf of the plaintiffs that the genus patent
+i.e. IN 147 ringfenced certain compounds which were disclosed only when the
+species patent i.e. IN 625 was granted, which would, essentially, mean that
+the written description/complete specification of IN 147 covered DAPA but did
+not disclose it. To my mind, such written descriptions/specifications would be
+flawed as it would prevent third parties from carrying out research in future.
+The Federal Court, in an en banc decision in Ariad Pharmaceuticals, Inc. vs.
+Eli Lilly and Company, 598 F.3d 1336, made some pertinent observations in this
+behalf.
+
+> "The written description requirement also ensures that when a patent claims
+> a genus by its function or result, the specification recites sufficient
+> materials to accomplish that function--a problem that is *1353 particularly
+> acute in the biological arts.5 See Guidelines for Examination of Patent
+> Applications Under the 35 U.S.C. 112, 1, "Written Description" Requirement,
+> 66 Fed.Reg. 1099, 1105-1106 (Jan. 5, 2001). This situation arose not only in
+> Eli Lilly but again in University of Rochester v. G.D. Searle & Co., Inc.,
+> 358 F.3d 916 (Fed.Cir.2004). In Rochester, we held invalid claims directed
+> to a method of selectively inhibiting the COX-2 enzyme by administering a
+> non-steroidal compound that selectively inhibits the COX-2 enzyme. Id. at
+> 918. We reasoned that because the specification did not describe any
+> specific compound capable of performing the claimed method and the skilled
+> artisan would not be able to identify any such compound based on the
+> specification's function description, the specification did not provide an
+> adequate written description of the claimed invention. Id. at 927-28. Such
+> claims merely recite a description of the problem to be solved while
+> claiming all solutions to it and, as in Eli Lilly and Ariad's claims, cover
+> any compound later actually invented and determined to fall within the
+> claim's functional boundaries--leaving it to the pharmaceutical industry to
+> complete an unfinished invention.
+
+Ariad complains that the doctrine disadvantages universities to the extent
+that basic research cannot be patented. But the patent law has always been
+directed to the "useful Arts," U.S. Const. art. I, § 8, cl. 8, meaning
+inventions with a practical use, see Brenner v. Manson, 383 U.S. 519, 532-36,
+86 S.Ct. 1033, 16 L.Ed.2d 69 (1966). Much university research relates to basic
+research, including research into scientific principles and mechanisms of
+action, see, e.g., Rochester, 358 F.3d 916, and universities may not have the
+resources or inclination to work out the practical implications of all such
+research, i.e., finding and identifying compounds able to affect the mechanism
+discovered. That is no failure of the law's interpretation, but its Signature
+Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020
+in CS (COMM) No. Digitally Signed  411/2020 Page 63 of 84 By:VIPIN KUMAR RAI
+Signing Date:02.11.2020 15:05:16 intention. Patents are not awarded for
+academic theories, no matter how groundbreaking or necessary to the later
+patentable inventions of others. "[A] patent is not a hunting license. It is
+not a reward for the search, but compensation for its successful conclusion."
+Id. at 930 n. 10 (quoting Brenner, 383 U.S. at 536, 86 S.Ct. 1033). Requiring
+a written description of the invention limits patent protection to those who
+actually perform the difficult work of "invention"--that is, conceive of the
+complete and final invention with all its claimed limitations--and disclose
+the fruits of that effort to the public.
+
+That research hypotheses do not qualify for patent protection possibly results
+in some loss of incentive, although Ariad presents no evidence of any
+discernable impact on the pace of innovation or the number of patents obtained
+by universities. But claims to research plans also impose costs on downstream
+research, discouraging later invention. The goal is to get the right balance,
+and the written description doctrine does so by giving the incentive to actual
+invention and not "attempt[s] to preempt the future before it has arrived."
+Fiers, 984 F.2d at 1171. As this court has repeatedly stated, the purpose of
+the written description requirement is to "ensure that the scope of the right
+to exclude, as set forth in the claims, does not overreach the scope of the
+inventor's *1354 contribution to the field of art as described in the patent
+specification." Rochester, 358 F.3d at 920 (quoting Reiffin v. Microsoft
+Corp., 214 F.3d 1342, 1345 (Fed.Cir.2000)). It is part of the quid pro quo of
+the patent grant and ensures that the public receives a meaningful disclosure
+in exchange for being excluded from practicing an invention for a period of
+time. Enzo, 323 F.3d at 970."
+
+26\. In my opinion, given the aforesaid discussion, a credible defence to the
+infringement action is set up by the defendants.
+
+27\. This takes me to the other aspect i.e. challenge laid to IN 625 on the
+ground that it was anticipated by what was published or publicly known from IN
+147. Concededly, the PCT publication date of IN 147 is 19.04.2001 which is
+well before, as noted above, the priority date of IN 625, that is, 20.05.2002.
+It is contended on behalf of the defendants that since DAPA is both claimed
+and "fully and particularly described" as required under Section 10(4)(a) of
+the Act as a part of its complete specification, there is a credible case that
+DAPA was known and, therefore, vulnerable under Section 64(1)(e). 27.1 In this
+behalf, reference was made to the judgement of the Supreme Court in Monsanto
+Company vs. Coromandel Indag Products, (1986) 1 SCC 642. It was contended on
+behalf of the defendants that the expression publicly known is to be
+understood from the point of view of a person engaged in the pursuit of
+knowledge of the patented product which in this case would be a man of science
+dealing with organic/medicinal chemistry.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 64 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 27.2 Thus, based on the comparison
+of written descriptions of WO'128 and IN 625, it was contended that to the man
+of science of ordinary skill but otherwise interested in the field of
+organic/medicinal chemistry having reasonable experience, DAPA was not new and
+was known prior to the priority date of IN
+
+625\. 27.3 In support of this contention, the counsel of the defendants laid
+stress on the fact that the person skilled in the art, ultimately, would
+filter down to a small class of compounds since the prior publication set out
+a series of preferred claims. Thus, according to the defendants, even if the
+prior art referred to infinite number of molecules, a person skilled in the
+art would be able to narrow it down to 8 molecules. In support of this
+submission, the defendants have, to a large extent, relied upon the affidavit
+of their expert witness i.e. one, Dr. Stephen F. Martin.
+
+27.4 The plaintiffs, on the other hand, have relied upon an affidavit of one,
+Dr. Easwaran dated 18.10.2020 to contend that WO'128 which is the PCT
+equivalent of the suit patent IN 147 would have structures which would cover
+millions of compounds and, therefore, going by the Markush formula they would
+have to be taken down and made one by one. This would take a lifetime. It was
+also contended that substitutions indicated by Dr. Martin, such as, A, CH- 2,
+R1 had no obvious logic and, therefore, could only be carried out by hindsight
+wisdom.
+
+28\. Having heard arguments of both sides on this aspect of the matter, in my
+view, while counsel for the defendants, based on the affidavit of Mr. Martin,
+did try to convey that a person skilled in the art could iterate the claims
+and arrive at 8 molecules based on prior publication and not hindsight, this
+is an aspect which would be required to be tested in a trial. Therefore, on
+this score, the defendants' defence, at this stage, in my opinion, does not
+inject vulnerability.
+
+29\. This brings me to the ground for revocation taken under Section 64(1)(f)
+i.e. that IN 625 is vulnerable as it does not involve any "inventive step". It
+is Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A.
+No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 65 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 required to be noticed
+that the expression "inventive step" has been defined under Section 2(1)(ja)
+as follows.
+
+> "(ja) "inventive step" means a feature of an invention that involves
+> technical advance as compared to the existing knowledge or having economic
+> significance or both and that makes the invention not obvious to a person
+> skilled in the art;"
+
+29.1 A plain reading of the definition would show that it has two parts to it
+and both are inextricably linked with the other. In other words, if a patentee
+is unable to measure up to the ingredients of either of the two parts, the
+invention claimed is not construed under the Act as an inventive step. 29.2
+First part involves patentee to show that the invention claimed in any claim
+involves "technical advance" as compared to the existing knowledge or has
+"economic significance" or both. The second part of the definition alludes to
+the fact that the invention should not be obvious to the person skilled in the
+art. 29.3 A comparison of the complete specifications/descriptions of Indian
+genus patent i.e. IN 147 and Indian species patent i.e. IN 625 shows that
+there is no technical advance of the latter over the former. This is clearly
+evident if one were to peruse the following extracts from Indian genus patent
+i.e. IN 147 and Indian species patent i.e. IN 625.
+
+Extracts from Indian Patent 147 [internal page Extracts from Indian Patent 625
+[internal page number 11 of the complete specification] number 7 of the
+complete specification] ... The compound of formula I possesses activity as
+... The compound of formula I possesses activity inhibitors of the sodium
+dependent glucose as inhibitors of the sodium dependent glucose transporters
+found in the intestine and kidney of transporters found in the intestine and
+kidney of mammals and is useful in the treatment of diabetes mammals and is
+useful in the treatment of diabetes and the micro- and macrovascular
+complications of and the micro- and macrovascular complications diabetes such
+as retinopathy, neuropathy, of diabetes such as retinopathy, neuropathy,
+nephropathy, and wound healing. ... nephropathy, and wound healing. ...
+
+29.4 The plaintiffs sought to get over this by seeking to rely upon Dr.
+Washburn's affidavit of April 2020 which was filed on 12.10.2020 to show
+technical advance. The data pertaining to technical advance is set out in Dr.
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 66 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 Washburn's affidavit under the
+following broad headings.
+
+> "A. Enhanced selectivity for SGLT2 versus SGLT1 B. Enhanced ability to
+> reduce blood glucose at 5 hours after oral administration to diabetic STZ
+> rats (short-term animal model) C. Enhanced ability to reduce plasma glucose
+> over a 15-day period after oral administration to ZDF rats (longer-term
+> animal model)"
+
+29.5 Based on the data set out in the affidavit, Dr. Washburn made the
+following conclusions.
+
+> "29. In my opinion, the increased selectivity and the reduction of glucose
+> levels obtained with dapagliflozin compared to Example 12 of WO '128 in the
+> STZ and ZDF rat models were surprising and unexpected.
+
+> 30\. In my opinion, the glucose reductions in STZ and ZDF rats are
+> particularly surprising considering that, in the in vitro experiments, the
+> SGLT2 inhibitory potential (EC50) of dapagliflozin was seemingly similar to
+> the SGLT2 inhibitory potential of Example 12 of WO '128."
+
+30\. In my opinion, if this information was not available at the time the
+application for grant of patent was filed, then, this cannot be taken into
+account, at this juncture, by the plaintiffs in support of their plea that IN
+625 involved an inventive step. There is no clue in IN 625 of an unknown
+technical effect on its priority date. Dr. Washburn's affidavit, who professes
+to be the co-inventor of DAPA, could have come to the rescue of the plaintiffs
+to demonstrate technical advance if, at least a seed of that nature had been
+planted in IN 625, on its priority date.
+
+30.1 The plaintiffs' argument that post filing data relating to the invention
+is admissible is based on two grounds.
+
+i. First and foremost, the applicant may not be fully aware of the advances
+and properties of the subject invention, in this case, the compound DAPA, on
+the priority date. In this behalf, it is stated that DAPA's properties for
+treatment of heart failure came to be known only subsequently.
+
+ii. Second, there is no requirement in law that all properties, advantages,
+and characteristics should be stated on the filing date of the patent
+application.
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 67 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 In support of their plea, the
+plaintiffs relied upon Genetics institute, LLC, vs. Novartis vaccines, 655
+F.3d 1291 (2011); and Knoll Pharm. Co. vs. Teva Pharms. USA, Inc., 367 F.3d
+1381, 1385. It was argued that the plaintiffs had complied with the best code
+rule as engrafted in Section 10(4) of the Act which is qualified by the
+expression "known to the applicant". It was also contended that they had
+satisfied the examiner on the aspect of inventive step and factually the
+examiner had raised no such objection in his examination report of October
+2007. The plaintiffs also sought to contend that they met the plausible
+unknown technical effect test as formulated in Generics (UK) Limited vs. Yeda
+Research and Development Company Limited, (2017) EWHC 2629 (Pat).
+
+30.2 In this context, I may refer to the judgement in Generics (UK) Limited
+vs. Yeda Research and Development Company Limited, (2017) EWHC 2629 (Pat)
+cited on behalf of the defendants. In this case, Generics, which was the
+claimant, sought revocation of a European patent [entitled low-frequency
+glatiramer acetate therapy] of which the defendant i.e. Yeda was the
+registered proprietor and a third party [i.e. Teva] was the exclusive
+licensee. One of the issues which arose for consideration before the Court
+concerned the lack of inventive step for want of technical contribution and
+insufficiency. 30.3 On behalf of Generics, it was contended that the claimed
+inventions made no technical contribution to the art and, therefore, did not
+involve inventive steps as summarized in another judgement i.e. Generics (UK)
+Ltd vs Yeda Research and Development Co Ltd, [2013] EWCA Civ 925
+Alternatively, it was argued that the technical contribution was insufficient
+as per principles summarised by Kitchin LJ in Idenix Pharmaceuticals Inc vs.
+Gilead Sciences Inc, [2016] EWCA Civ 1089. The Court after discussing the
+issue made the following crucial observations.
+
+197\. In case this case goes further, I must briefly address the Defendants'
+reliance upon evidence which post-dates the priority date of the Patent. It is
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 68 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 common ground that such evidence
+can only be relied upon to confirm the existence of a technical effect which
+is plausible in the light of the specification and the skilled person's common
+general knowledge, and not to establish the existence of a technical effect
+for the first time.
+
+[Emphasis is mine] 30.4 Therefore, what emerges is this: that post priority
+date evidence which has been furnished in Dr. Washburn's affidavit to show
+technical advance can only be taken into account to confirm the existence of
+technical effect which is found embedded in the specification of IN 625 and is
+capable of being understood by a skilled person having common general
+knowledge and not to rely upon the same to establish its effect for the first
+time. 30.5 The plaintiffs have not been able to demonstrate, at least at this
+stage, the existence of such technical effect in the specifications. The
+plaintiffs' argument that the examiner should have been conscious of the
+inventive step objection or that evidence of technical advance could be placed
+before the Court even at this juncture fails to take into account the plain
+language of Section 64(1)(f) read with Section 2 (1)(ja) of the Act. The
+defendants are entitled, as noted above, to submit, in support of their
+challenge, that there is no demonstrable technical advance as on the date of
+priority of IN 625.
+
+30.6 Whether or not the examiner raised this issue, the defendants are
+certainly entitled to raise the same in defence to an infringement action. The
+plaintiffs' submissions, to my mind, would only buttress the stand of the
+defendants that there is a credible challenge to IN 625. The reference by the
+plaintiffs to some of the attributes which, according to them, are referred to
+in IN 625 does not demonstrate, at least at this stage, technical advance.
+
+31\. On the last aspect, which is, as to whether the plaintiffs failed to make
+a complete disclosure in terms of Section 8 of the Act, the following facts
+need to be noticed.
+
+i. The plaintiffs had, vide a letter dated 10.01.2005, filed the corresponding
+US patent with the Indian Patent Office. The Indian Signature Not I.A.Verified
+No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 69 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 Patent Office, while issuing its first examination
+report on 12.10.2007, against serial no. 13 concededly sought the following
+information.
+
+ii. In response thereto, the plaintiffs on 08.10.2007, stated the following.
+
+"Regarding paragraph 13 of the official letter, we have the honour to submit
+herewith copies of the EPO decision to grant and the EP granted patent, which
+in turn meets with the requirement of Section 8(2)"
+
+iii. Clearly the plaintiffs did not provide to the Indian Patent Office, the
+office action/examination report dated 30.07.2002 issued by the USPTO in
+connection with US 117 which corresponds to IN 625. In the examination report
+of 30.07.2002, the USPTO inter alia stated the following.
+
+"1. Claims 1-17 are rejected under the judicially created doctrine of double
+patenting over claims 14-30 of U. S. Patent No. 6,414,126 since the claims, if
+allowed, would improperly extend the "right to exclude" already granted in the
+patent. The subject matter claimed in the instant application is fully
+disclosed in the patent and is covered by the patent since the patent and the
+application are claiming common subject matter, as follows:
+
+Although the conflicting claims are not identical, they are not patentably
+distinct from each other because the present claims are directed towards
+glucoside structures characterized by specific stereochemistry and further
+these compounds are characterized by biaryl substitution (SGLT2 inhibitor
+compounds), their pharmaceutical acceptable salts and a method of treatment of
+diabetes employing an SGLT2 Inhibition (i.e. C-Aryl glucoside compounds) which
+encompass the invention cited in claims in 14-30 of '126 which are directed
+toward the (SGLT2 inhibitor compounds), their pharmaceutical composition and a
+method of treatment of diabetes with an SGLT2 inhibitor.
+
+The issued patent '126 differ from the present application in that it does not
+include the acetyl derivatives of glucoside structures characterized by
+specific stereochemistry in a C-Aryl glucoside compounds (22 claim 17).
+Furthermore, there is no apparent reason why applicant was prevented from
+presenting claims corresponding to those of the instant application during
+prosecution of the application which matured into a patent. See In re
+Schneller, 397 F.2d 350, 158 USPQ 210 (CC)A 1968). See also MPEP 804."
+
+iv. It is in response to the same that the plaintiffs, on 19.08.2002
+voluntarily sought to limit the term of US 117 [equivalent to IN 625] to the
+date when the US genus patent 126 was to expire. It was only after terminal
+disclaimer was filed by the plaintiffs, which was accepted by USPTO, that US
+117 was granted on 20.09.2002, albeit, Signature Not I.A.Verified No.
+8826/2020 in CS (COMM) No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No.
+Digitally Signed  411/2020 Page 70 of 84 By:VIPIN KUMAR RAI Signing
+Date:02.11.2020 15:05:16 with the caveat that it would expire on the same date
+as the US genus patent i.e. US 126. This information was not furnished to the
+Indian Patent Office.
+
+31.1 In this behalf, the plaintiffs contend that the Indian Patent Office was
+aware of the fact that the continuation- in- part application had been moved
+before the USPTO which, according to the plaintiffs, would have indicated to
+the Indian Patent Office that the corresponding US patent was to terminate on
+the same date.
+
+31.2 Second, the fact that USPTO had already granted patents, it was not
+incumbent upon the plaintiffs to file the examination reports generated by the
+USPTO. It was also contended that the error, if any, was bona fide and,
+therefore, could not lead to revocation under Section 64(1)(m) of the Act. In
+support of their plea, the plaintiffs placed reliance on judgement dated
+07.11.2014, passed in FAO (OS) No. 16/2014, titled Maj. (Retd.) Sukesh Behl &
+Anr. vs. Koninklijke Phillips Electronics.
+
+32\. In my view, the judgement in Chemtura Corporation vs. Union of India
+(UOI) and Ors., 2009 (41) PTC 260 (Del) sets the tone as to what all needs to
+be provided to the patent office when a prospective patentee seeks grant of
+patent.
+
+32.1 In the instant actions, specific details were sought by the Indian Patent
+Office concerning search and examination report. What was submitted by the
+plaintiffs to the Indian Patent Office via the letter dated 10.01.2005 were
+the corresponding US patents and not the examination reports. It is not denied
+by the plaintiffs that the examination report dated 30.07.2002 issued by the
+USPTO qua US species patent 117 was not furnished.
+
+32.2 It is also not denied by the plaintiffs that their response of
+19.08.2002, whereby, the validity period of US 117 was voluntarily aligned
+with the US genus patent i.e. US 126 was not placed before the Indian Patent
+Office. These Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No.
+410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page
+71 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 were vital
+documents which ought to have been furnished to the Indian Patent Office.
+
+32.3 The submission advanced on behalf of the plaintiffs that the terminal
+disclaimer is an obviation and not an admission of obviousness is not an
+answer to the provisions of Section 8(2) of the Act which is mandatory.
+Assuming, under the USA patent law, it is construed as an obviation, even
+then, in my view, it was incumbent upon the plaintiffs to furnish the
+examination report of the USPTO. As to what would have followed from there,
+would obviously be within the ken of the examiner at the Indian Patent Office.
+The scope of Section 8 of the Act has been captured in Chemtura Corporation
+case. The relevant observations are replicated hereafter for the sake of
+convenience.
+
+> "Non-compliance with Section 8
+
+> 36\. Section 8 of the Act is titled 'Information and undertaking regarding
+> foreign applications'. Section 8 (1) (a) requires an applicant for a patent
+> to file along with his application a statement setting out the detailed
+> particulars of the application filed by such applicant "in any country
+> outside India in respect of the same or substantially the same invention".
+> Section 8 (1) (b) requires such applicant to also furnish an undertaking
+> that up to the date of the grant of patent in India he will keep the
+> Controller of Patents informed in writing "from time to time" of detailed
+> particulars as required under clause (a) in respect of such application made
+> in a country outside India. The corresponding rule is Rule 12 (1) of the
+> Rules which states that the statement and undertaking to be filed in terms
+> of Section 8 (1) of the Act will be in Form 3. Prior to the making of the
+> present Rules in 2003, the earlier relevant Rule was Rule 13 which was to
+> the same effect with slight changes in Form 3.
+
+> xxx xxx xxx
+
+> 40\. As far as Section 8(2) is concerned, the Controller on his own may also
+> require the applicant to furnish details "relating to the processing of the
+> application in a country outside India, and in that event the applicant
+> shall furnish to the Controller information available to him within such
+> period as may be prescribed." That requirement is mandatory as has been
+> further emphasised by the wording of Section 64(1) (j) ["that the applicant
+> has failed to disclose to the Controller the information required by Section
+> 8 or has furnished information which in any manner was false to his
+> knowledge"] which indicates the non-compliance with such directive of the
+> Controller as a ground for the revocation of the patent. The obtaining of a
+> patent, "on a false suggestion or representation" is a further ground of
+> revocation under Section 64 (1) (m).
+
+> xxx xxx xxx
+
+> 43\. It is not possible to agree with the submission of Mr. Shanti Bhushan
+> that the search and the examination report is required to be furnished only
+> if it has resulted in Signature Not I.A.Verified No. 8826/2020 in CS (COMM)
+> No. 410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed
+> 411/2020 Page 72 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16
+> the allowing of the Plaintiff's claim by the Patent Office in a foreign
+> country. The word "including" only means that the Plaintiff has to
+> additionally furnish the search and the examination report where
+> applications have been allowed. It was incumbent on the Plaintiff therefore
+> to furnish to the Controller of Patents any search or/and examination report
+> that may have been issued by the Patent Office either in US or Europe as on
+> the date of their reply i.e. 17th October 2005. What is significant is that
+> initially by the letter dated 17th October 2005 to the Patent Controller,
+> the Plaintiff did not adhere to the requirements of paras 7 and 8 at all.
+> Later after the telephonic conversation it submitted that a letter dated
+> 19th October 2005 where it simply stated that "there has been no further
+> development subsequent to Form 3 which was filed at the time of filing the
+> application in India." This statement, as will be seen hereafter, was not
+> true.
+
+> xxx xxx xxx
+
+> 45\. It is not possible to accept the submission, made by referring to the
+> Halsbury's Laws of England, that since the omission to furnish particulars
+> is not serious enough to affect the grant of the patent, it did not impinge
+> on its validity. Section 64 (1) (j) and (m) indicate to the contrary.
+> Further under Section 43 (1) (b) a patent can be granted only when the
+> application has been found not to be contrary to any provision of the Act.
+> It cannot be said that the omission to comply with the requirement of
+> Section 8 (2) was not serious enough to affect the decision of the
+> Controller to grant the patent to the Plaintiff. The information, if
+> provided, would have enlightened the Controller of the objections raised by
+> the US patent office and the extent to which the Plaintiff had to limit its
+> claims to the torus shape of the compression spring, which was a key feature
+> of the subject device. Had the Controller been informed of the Plaintiff's
+> own patent No.3932005 dated 13th January 1976, he would have been called
+> upon to examine if that patent taught the use of a toroidal shape of a
+> compression member and whether therefore the subject device was an inventive
+> step within the meaning of the Act.
+
+> xxx xxx xxx
+
+> 48\. Under the amended Section 48 (1) of the Act, the patent granted shall,
+> where the subject matter of the patent is a product, give the patentee the
+> exclusive right to prevent third parties, who do not have his consent, from
+> the act of making, using, offering for sale, selling or importing for those
+> purposes that product in India. Likewise, where the subject matter of the
+> patent is a process, the patentee would have the exclusive right to prevent
+> third parties, who do not have his consent, from the act of using that
+> process, as well as from the act of using, offering for sale, selling or
+> importing any product obtained directly by that process in India. The change
+> is therefore, that under the amended Section 48 a right is given to the
+> patent holder Plaintiff, to prevent third parties from making, selling or
+> offering for sale, the product for which such patent has been granted
+> without the prior consent of the patent holder. The amended Section 48,
+> however, does not in any manner change the position as regards the validity
+> of the patent itself. It would still be vulnerable to challenge in terms of
+> Section 13 (4) read with Sections 64 and 107 of the Act. A similar
+> conclusion has been arrived at in Bajaj Auto Ltd. v. TVS Motor Company Ltd.
+> (supra).
+
+49\. This Court holds that for the aforementioned reasons, in view of the
+prima facie non-compliance by the Plaintiff with the requirement of Sections 8
+(1)(b) and 8(2) of the Act, the ground for revocation as contained in Section
+64 (1) (m) is prima Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No.
+410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page
+73 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 facie attracted.
+..."
+
+[Emphasis is mine] 32.4 The reliance placed on behalf of the plaintiffs on a
+judgement of the Division Bench i.e. in Maj. (Retd.) Sukesh Behl case, in my
+view, misses a vital distinction between this case and the judgement rendered
+in Chemtura Corporation case. In this context, it is required to be noticed
+that the judgement in Maj. (Retd.) Sukesh Behl case was rendered in the
+context of Order XII Rule 6 of the Code of Civil Procedure, 1908 [in short
+"CPC"] whereas the judgement in Chemtura Corporation case was foregrounded in
+the provisions of Order XXXIX Rule 1 and 2 of the CPC [See paragraph 39 in
+Maj. (Retd.) Sukesh Behl case].
+
+32.5 Furthermore, in Maj. (Retd.) Sukesh Behl case, the Court ruled that
+because the power to revoke patent was discretionary [on account of the
+expression 'may' inserted in subsection (1) of section 64 of the Act], a
+decision in the matter could be reached only after a trial in view of absence
+of an unequivocal and/or unambiguous admission by the plaintiff in that case.
+32.6 A careful perusal of the facts found in Maj. (Retd.) Sukesh Behl case
+would show that the plaintiffs' attorney while furnishing information
+concerning foreign applications had missed out some part of the information.
+However, the plaintiffs' attorney on their own, albeit after a lapse of time,
+had filed a letter with the Indian Patent Office whereby the information which
+was missed out was furnished. In the letter, it was indicated that the
+documents received by the attorney had some part of the information
+incorporated on the reverse side of the said documents. It was stated that the
+paralegal who was assisting the attorney had inadvertently left out the said
+information. 32.7 Construing these facts, the Court ruled that it was not a
+case of a clear and unambiguous admission, thus, triggering the provisions of
+Order XII Rule 6 of the CPC. Pertinently, the Court agreed with the judgement
+rendered in Chemtura Corporation case that the provisions of Section 8 were
+mandatory. Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020
+& I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 74 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 32.8 As indicated above,
+the plaintiffs in support of their submission that filing of terminal
+disclaimer was only an obviation and not admission of obviousness and double
+patenting had relied upon the judgement of the US Federal Court in Quad
+Environment vs. Union Sanitary, 946 F2d 870. The defendants, on the other
+hand, relied upon the judgement of the US Supreme Court in Festo Corp. vs.
+Shoketsu Kinzoku3, 535 U.S 722 (2002); and another judgement of the US Court
+of Appeals for the Federal Circuit SimpleAir, Inc. vs. Google LLC, Appeal
+Number: 16-2738, United States Court of Appeals for the Federal Circuit.
+
+32.9 A perusal of these judgements would show that while terminal disclaimers
+are not treated as admissions, they are taken into account to ascertain the
+prosecution history of the patent i.e. the reason as to why the patentee chose
+to narrow down its claim. Thus, while terminal disclaimer filed by a patentee
+is not treated as a complete bar against the defence of non- obviousness,
+depending on facts, it can operate as estopped by conduct.
+
+33\. The point to be stressed here is that under our Act, was the examiner
+under the Indian Patent Office not entitled to know as to what was the
+prosecution history of the plaintiffs qua the corresponding patents in US. In
+my opinion, the answer to this has to be in the affirmative. Chemtura
+Corporation case, while interpreting the provisions of Section 8 of our Act,
+in a sense, in its own language, brings to fore this seminal point. 33.1
+Therefore, to my mind, as to whether or not the Court would, ultimately,
+revoke the suit patents for failure to furnish information, as sought for by
+the  3 "... When the patentee is unable to explain the reason for amendment,
+estoppel not only applies but also "bar[s] the application of the doctrine of
+equivalents as to that element." Ibid. These words do not mandate a complete
+bar; they are limited to the circumstance where "no explanation is
+established." They do provide, however, that when the court is unable to
+determine the purpose underlying a narrowing amendment--and hence a rationale
+for limiting the estoppel to the surrender of particular equivalents--the
+court should presume that the patentee surrendered all subject matter between
+the broader and the narrower language."
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 75 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 Indian Patent Office, would be
+ruled upon after the trial. It, nevertheless, is an important factor to be
+taken into account at a preliminary injunction stage; at which point, the
+Court exercises equitable jurisdiction.
+
+34\. This brings me to the arguments raised concerning the balance of
+convenience, and irreparable harm. In my view, if, as held by me above, the
+defendants have been able to set up a credible challenge and/or establish, at
+least at the preliminary injunction stage, the vulnerability of the suit
+patents, even if the balance of convenience is in favour of the plaintiffs,
+the injunction cannot be granted.
+
+34.1 On the other hand, if the plaintiffs had established a strong prima facie
+case for grant of a preliminary injunction, they would still have to satisfy
+the Court as to whether or not balance of convenience was in their favour and
+that denial of interim relief would cause irreparable damage. In this
+background, let me examine the rival contentions made on behalf of the parties
+before me. 34.2 The plaintiffs claim that the Indian genus patent i.e. IN 147
+survived its full validity period and the Indian species patent i.e. IN 625 is
+in 18 th year of its lifecycle. The plaintiffs' product is being sold in India
+since 2015 at reasonable prices. The defendants, according to the plaintiffs,
+should be asked to "clear the way" as contemplated in Merck Sharp and Dohme
+Corporation and Ors. vs. Glenmark Pharmaceuticals, MANU/DE/0852/2015 by
+following any of the following rules i.e. i. Seeking voluntary license;
+
+    
+    
+                 ii.     Seeking compulsory license;
+    
+                iii.     Filing revocations;
+    
+                iv.      Filing pre-grant opposition and post-grant opposition; and
+    
+                 v.      Filing a declaratory action for non-infringement.
+    
+    
+
+34.3 The suit patents i.e. IN 147 and IN 625 were published in 2005 and were
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 76 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 granted nearly 13 and 11 years ago
+respectively. Besides this, the plaintiffs have obtained injunctions in
+several pending suit actions which have been instituted in this Court.
+Furthermore, if the injunction is not granted, it would destroy the
+plaintiffs' market qua their product. Besides this, doctors have expressed
+concerns about the quality of the products that the defendants may launch. It
+is also contended that the damages are difficult to compute. Monetary
+compensation, according to the plaintiffs, will not be adequate. It is
+emphasized that the plaintiffs are interested in a real and not a pyrrhic
+victory by having their rights enforced under the Act.
+
+34.4 The defendants, on the other hand, say that the plaintiffs' suit actions
+are abusive which are intended to re-monopolise their rights that admittedly
+came to an end on 02.10.2020. It is emphasized by the defendants that grant of
+an injunction would not only impact the defendants' rights to enter the market
+but would deprive the public at large to obtain their drug at relatively cheap
+prices. It is contended that since the plaintiffs are interested in licensing
+their product to third parties, the damage if any caused is compensable in
+monetary terms in accordance with the mandate of the law.
+
+34.5 As against this, if an injunction is granted, the opportunity lost by the
+defendants to market their products cannot be quantified in monetary terms.
+Therefore, even from the point of restitution, the balance tilts in favour of
+the defendants.
+
+35\. Having considered the case from the point of view of facets involving
+balance of convenience and irreparable harm, it has to be stated that the fact
+that a challenge has been laid at the stage when the plaintiffs seek to
+enforce their rights under the patents would not propel the Court [as
+indicated above] to grant an injunction if the challenge is credible.
+
+35.1 The provisions of the Act do not provide any shield of inviolability.
+This principle is true not only in India but jurisdictions across the world.
+In no country, a mere grant of a patent by the patent offices' guarantees
+their validity. Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No.
+410/2020 & I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page
+77 of 84 By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 It is important
+to remember that grant of monopoly to the inventor, which is necessary for
+her/him to recoup investments and/or derive profits from her/his inventions,
+comes with a quid pro quo as noticed in paragraph 38 of Report on the Revision
+of the Patents Law by Shri Justice N. Rajagopala Ayyangar (September, 1959).
+Paragraph 38 reads thus:
+
+> "38. I have already set out the considerations which are said to constitute
+> the quid pro quo for the grant of the patent monopoly, namely; (1) the
+> working of the invention within the country so as to result in the
+> establishment in the country of a new industry or an improvement of an
+> existing industry which would profitably employ the labour and capital of
+> the country and thus increase the national wealth, and (2) disclosure to the
+> public of the invention and the manner of its working so that on the expiry
+> of the life of the patent the public are enabled to work the invention
+> themselves and in competition with each other. Where the patentee has no
+> intention of working the invention in this country either because he
+> considers that this is not profitable or because he prefers to expand the
+> production in his home country so as to achieve there greater efficiency and
+> more production or is otherwise not interested in working the invention in
+> India, the grant of the Indian patent might tend to improve the economy of
+> the patentee's home country but offers little advantage to us. Unless
+> therefore the law provides for measures to be taken to compel the patentees
+> to work the invention within the country, and these measures are effective
+> to achieve their purpose, the social cost involved in the grant of the
+> patent is not offset by any benefit to the community. As regards the
+> possible advantage which might result by disclosure it should be noted that
+> most of the inventions patented by foreigners in this country are also
+> patented abroad and the theory therefore that but for patent protection the
+> invention would have been worked in secret and that the public would have
+> been deprived of the knowledge of the invention has no relevance in the case
+> of the large majority of patents granted in India. As neither of the above
+> considerations seems to be present in the case of patents granted to foreign
+> nationals which are not worked in this country the cost to the community by
+> the grant of the patents is unrelieved by any positive advantage by way of
+> an increase of technical skill or of national wealth."
+
+> [Emphasis is mine] 35.2 The recommendations made therein were a precursor to
+> the enactment of the Patents Act, 1970. The judgement of the Supreme Court
+> in detail captures the reasons for the passing of the more recent amendment
+> Acts i.e. 2002 Amendment Act and the 2005 Amendment Act. Broadly, India
+> sought to make amendments via the said amendments Acts to meet its
+> obligation under TRIPS which formed part of the agreement which established
+> the World Trade Organisation [WTO].
+
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 78 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 35.3 India, it appears, brought in
+certain amendments to balance the interests of the inventors as also those of
+her citizens. The insertions inter alia of Sections 2(1)(j), 2(1)(ja), and
+2(1)(l); Section 3(d); Section 8; Section 10(5); Section 53; and Section
+107(A) were a step in that direction. The trade-off, it appears, was between
+uniformly increasing the validity of patents including those which were
+granted for drugs for 20 years as against the right of the local industries to
+be able to work the patent to provide the fruits of the invention to its
+citizenry at reasonable prices and to embed skills locally. 35.4 This is
+acutely true when seen in the context of enforcement of patents concerning
+drugs. The Court has to be vigilant towards attempts of the patentee that aims
+at evergreening an invention which does not inter alia involve an inventive
+step i.e. technical advance or economic significance. Therefore, depriving the
+defendants, at this stage, from manufacturing and selling their drugs, when,
+during the validity period of the genus patent i.e. IN 147 they largely held
+themselves in check would, in my opinion, not be appropriate, especially, when
+they have set up a credible challenge to the suit patents. 35.5 What persuades
+me to decline injunction, in addition to what I have stated above, is also the
+fact that in this case damages if proved at trial, appear to be compensable.
+The defendants have averred that the plaintiffs have, possibly, licensed their
+rights under the suit patents to two entities i.e. Sun and Abbott. The
+packaging of the products of the drug sold through these entities is
+indicative of this aspect. The plaintiffs, however, for reasons best known to
+them have not placed on record the agreements arrived at with these entities
+in support of their plea. Therefore, it has to be inferred that the said
+entities are licensees.
+
+35.6 Besides this, the plaintiffs also aver that they are importing their drug
+into the country. Therefore, the plaintiffs seek to monetize their invention.
+Thus, at the end of the trial, if they were to succeed, they could be granted
+damages, if proved, under the law. Thus, as long as a mechanism can be put in
+place for Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 &
+I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 79 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 securing the recovery of
+damages by the plaintiffs, it would, at this stage, balance the interest of
+the parties. [See: Dynamic Manufacturing, Inc. vs. David A. Craze, and Miller
+Industries, Inc., 1998 WL 241201] PUBLIC INTEREST: -
+
+36\. The parties have also advanced submissions on the aspect concerning
+public interest. The plaintiffs have submitted that the quality of the drug
+could be an issue. The plaintiffs have also contended that the drug sold by
+them is priced reasonably.
+
+36.1 To my mind, this aspect can be quantitatively verified, to a large
+extent, if one were to compare the price of the drugs sold by the plaintiffs
+both, directly and/or indirectly, and the prices at which the defendants seek
+to offer their drugs.
+
+Price of the Rs. 54.4/- Price of the Rs. 9.90/- Price of the Rs. plaintiffs'
+product - INTAS product ALKEM product 13.90/-
+
+    
+    
+               5 mg tablet                           - 5 mg tablet                     - 5 mg tablet
+               Price          of   the Rs. 57.29/-   Price     of    the Rs. 11.90/-   Price     of    the Rs.
+               plaintiffs' product -                 INTAS product                     ALKEM product 17.50/-
+               10 mg tablet                          - 10 mg tablet                    - 10 mg tablet
+               Cost per patient per Rs.              Cost per patient Rs.              Cost per patient Rs.490/-
+               month          of   the 1523.20/-     per month of the 277.20/-         per month of the
+               plaintiffs' product -                 INTAS product                     ALKEM product
+               5 mg                                  - 5 mg                            - 5 mg
+               Cost per patient per Rs.              Cost per patient Rs.              Cost per patient Rs.554.4/-
+               month          of   the 1605.80/-     per month of the 333.20/-         per month of the
+               plaintiffs' product -                 INTAS product                     ALKEM product
+               10 mg                                 - 10 mg                           - 10 mg
+    
+    
+    
+    
+    
+
+36.2 Clearly the difference in prices of drugs ranges between 250% to 350%.
+Therefore, as is apparent, if defendants were allowed to manufacture and
+market Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 &
+I.A. No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 80 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 their drugs, it would be
+far cheaper. Concerns as to quality, at this juncture, appear to be a self-
+serving argument. The concerned statutory authority can, in my view,
+adequately deal with this issue if and when such a situation arises.
+
+37\. I may also indicate herein that an argument was raised that diabetes is a
+lifestyle disease and, therefore, the concerns generally expressed by Courts
+qua drugs which are used to treat life-threatening diseases such as Cancer,
+HIV/AIDS etcetera should not impact this matter.
+
+37.1 The defendants on the other hand have emphasised that diabetes is no
+longer construed as a lifestyle disease. According to them, given the spread
+of Coronavirus, diabetes can cause comorbidity in a patient leading to a
+potentially life-threatening situation.
+
+38\. On this aspect, judicial notice needs to be taken of the following
+figures published by the Government of India and World Health Organisation on
+diabetes.
+
+▪ The National Centre for Disease Control, Directorate General of Health
+Service, Government of India, in its "Diabetes Special Edition on Occasion of
+World Health Day 2016" [April 2016]4 has noted thus:
+
+> "India has 6.51 crore diabetes cases which is second highest number of
+> diabetics in the world and is projected to have 10.9 crore affected persons
+> by 2035\.
+
+> xxx xxx xxx Diabetes mellitus is a group of metabolic diseases characterized
+> by hyperglycemia resulting from defects in insulin secretion, insulin
+> action, or both. The chronic hyperglycemia of diabetes is associated with
+> long-term damage, dysfunction, and failure of various organs, especially the
+> eyes, kidneys, nerves, heart, and blood vessels.
+
+> xxx xxx xxx Type 2 diabetes (non-insulin dependent) is characterised by
+> insulin resistance  4 [See:
+> https://ncdc.gov.in/WriteReadData/linkimages/cdalert0616262925183.pdf]
+> Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A.
+> No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 81 of 84
+> By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 and/ or abnormal insulin
+> secretion. Type 2 diabetes accounts for over 90% and Type 1 accounts for up
+> to 10% of all diabetes."
+
+▪ The World Health Organisation, in its 'Diabetes Country Profiles, 2016'
+concerning India, has noted the following.
+
+38.1 Therefore, if one were to bear in mind the aspect concerning price as
+also the nature of the disease which is sought to be treated by the drug-in-
+issue, the scales of balance, in my opinion, at this stage, would weigh in
+favour of the defendants.
+
+39\. Before I conclude [and dehors what has been observed by me hereinabove],
+there is literature and scholarly articles available of well- established
+academicians which point in the direction that the doctrine of double
+patenting needs to be strengthened.
+
+39.1 Some of the academicians in the US, familiar with patent law, decry the
+weakening of double patenting doctrine by the Federal Courts in the country by
+disregarding the earlier view of the US Supreme Court which held that
+"invention of the genus patent is not determined only by the claims but also
+by Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A.
+No. 8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 82 of 84
+By:VIPIN KUMAR RAI Signing Date:02.11.2020 15:05:16 the embodiments disclosed
+in the specifications".
+
+39.2 Some of the academicians appear to be of the view [based on the
+precedents of the US Supreme Court and also some Federal Circuit Court
+judgements] that it must be presumed that the party with genus patent has
+invented the full scope of the genus. It is argued that when the same inventor
+holds a genus patent for a pharmaceutical product, such an inventor should be
+estopped from obtaining a species patent which is within the scope of genus,
+whether or not the genus patent constitutes prior art. [See: O'Reilly vs.
+Morse, 56 U.S. 62, 114 (1853); Singer Mfg. Co. vs. Juune Mfg Co., 163 U.S. 169
+(1896); and Schriber-Schroth Co. vs. Cleveland Trust Co., 305 U.S. 47 (1938)]
+39.3 In this behalf, see the abstract of the article published in Northwestern
+Journal of Technology and Intellectual Property, Volume 14, Issue 3 (Winter
+2017) titled Double Patenting: Follow-on Pharmaceutical Patents that Suppress
+Competition, authored by Douglas L. Rogers, which is extracted hereafter.
+
+> "ABSTRACT Prices for pharmaceutical products over the last 10 years have
+> skyrocketed, increasing far more rapidly than the general cost of living.
+> This article argues there should be greater competition for the production
+> of follow-on drugs through the strengthening of the double patenting
+> prohibition:
+
+preventing extending exclusive rights beyond the original patent term by
+dressing up part of that invention as a new one. This prohibition against the
+same party holding two patents covering the same composition announced by the
+Supreme Court in the 1800's has been weakened by lower federal courts to (1)
+only considering the claims and not the rest of the specification in
+determining if the same invention is being claimed by the inventor in two
+patents and (2) only applying the prohibition when the earlier patent did not
+satisfy the technical meaning of "prior art" within §102 of the Patent Act.
+The rulings weakening the double patenting doctrine have disregarded that the
+"invention" of a genus patent is not determined only by the claims, but also
+by the embodiments disclosed in the specification, and under Supreme Court and
+Federal Circuit precedent it must be presumed that the party with a genus
+patent has invented the full scope of the genus. These weakening rulings have
+also disregarded that the double patenting doctrine arises from §101 of the
+patent statutes, rather than §§102 and 103, which the Federal Circuit models
+it double patenting test on, often incorrectly concluding there is no double
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 83 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16 patenting. §§102 and 103 serve
+different purposes than §101. This article argues that when the same inventor
+holds a genus patent for a pharmaceutical product, it should be estopped from
+obtaining a patent on a species within the scope of the genus, whether or not
+the genus patent constitutes prior art. Applying this strengthened double
+patenting doctrine would increase competition for the development of follow-on
+pharmaceutical products."
+
+Conclusion: -
+
+40\. Thus, for the foregoing reasons I am not inclined to grant an injunction
+in favour of the plaintiffs and against the defendants. Consequently, the
+captioned applications are dismissed.
+
+41\. The defendants will, however, via their respective affidavits, place on
+record the details, quantum, and value of drug manufactured and sold as also
+indirect and direct taxes paid in that behalf. This information will be placed
+on the Court's record every quarter.
+
+41.1 The defendants will also provide details of their assets [encumbered and
+unencumbered] which would include their location and current market value. The
+information given in the affidavits will be backed by a certificate of a
+statutory auditor. The defendants via their affidavits will also undertake to
+pay damages as and when called upon to do so by the Court. These affidavits
+will be filed within a period of 3 weeks.
+
+CS (COMM) No. 410/2020 & CS (COMM) No. 411/2020
+
+42\. List the captioned matters on 15.01.2021.
+
+RAJIV SHAKDHER, J NOVEMBER 02, 2020 Click here to check corrigendum, if any
+Signature Not I.A.Verified No. 8826/2020 in CS (COMM) No. 410/2020 & I.A. No.
+8859/2020 in CS (COMM) No. Digitally Signed  411/2020 Page 84 of 84 By:VIPIN
+KUMAR RAI Signing Date:02.11.2020 15:05:16
+

@@ -1,0 +1,418 @@
+tid,label,token
+919121,city,Bombay
+919121,city,BOMBAY
+919121,city,Ajmer
+919121,city,Delhi
+919121,city,Kolhapur
+919121,city,Sholapur
+919121,city,Madras
+919121,city,Gujrat
+919121,city,Ahmedabad
+919121,city,New York
+919121,location,Bombay
+919121,location,BOMBAY
+919121,location,Ajmer
+919121,location,Delhi
+919121,location,Kolhapur
+919121,location,Sholapur
+919121,location,Madras
+919121,location,Gujrat
+919121,location,Ahmedabad
+919121,location,New York
+919121,location,SINHA
+919121,location,Bombay City
+919121,location,West Bengal
+919121,location,Rajasthan
+919121,location,Dande
+919121,location,Khoti
+919121,location,Bhagdari
+919121,location,Jagir
+919121,location,Ryatwari
+919121,location,Narwadars
+919121,location,Orissa
+919121,location,British India
+919121,location,Bihar
+919121,location,Karda
+919121,location,Kania
+919121,location,Vide Gulf
+919121,location,India
+919121,location,the States
+919121,location,England
+919121,location,Colorado
+919121,location,bhagwati
+919121,location,subbarao
+919121,location,wanchoo
+919121,location,k.n
+919121,location,natwarlal h.
+919121,location,cj
+919121,location,sinha
+919121,location,bhuvneshwar p. subbarao
+919121,location,k. wanchoo
+919121,location,india
+919121,location,united provinces
+919121,location,bombay city
+919121,location,the state of bombay
+919121,location,ajmer
+919121,location,a.i.r.
+919121,location,the state of delhi
+919121,location,the province of bombay
+919121,location,kolhapur
+919121,location,sholapur
+919121,location,the united provinces
+919121,location,navinchandra
+919121,location,mafatlal
+919121,location,madras
+919121,location,dande
+919121,location,gujrat government
+919121,location,gujrat
+919121,location,the city of bombay
+919121,location,bombay
+919121,location,jagir
+919121,location,ryatwari
+919121,location,hariprasad
+919121,location,england
+919121,location,british india
+919121,location,the state of bihar
+919121,location,maharajadhiraja
+919121,location,darbhanga
+919121,location,parashram damodhar
+919121,location,the state of west bengal
+919121,location,pannalal binjraj
+919121,location,new york
+919121,location,vide gulf
+919121,location,colorado
+919121,organization,NATWARLAL H
+919121,organization,LSB
+919121,organization,Legislature
+919121,organization,British Coal Corporation
+919121,organization,United Provinces
+919121,organization,Navinchandra Mafatlal
+919121,organization,Thakur Raghubir Singh
+919121,organization,Court of Wards
+919121,organization,State Government
+919121,organization,State
+919121,organization,State Parshram Damodhar
+919121,organization,State of West Bengal
+919121,organization,Pannalal Binjraj
+919121,organization,Union of India
+919121,organization,State Legislature
+919121,organization,Bombay Government
+919121,organization,Federal Court
+919121,organization,Court in Navinchandra Mafatlal
+919121,organization,Land-Revenue Administration
+919121,organization,Mughals
+919121,organization,Treasury
+919121,organization,Jagirs
+919121,organization,Ahmedabad Taluqdar
+919121,organization,LXXI
+919121,organization,Court of Appeal
+919121,organization,Rex
+919121,organization,City of London Court
+919121,organization,London Court
+919121,organization,Parliament
+919121,organization,Land Revenue Administration
+919121,organization,Corporation
+919121,organization,Tribunal
+919121,organization,Maharajadhiraja
+919121,organization,State of Bihar
+919121,organization,Parashram Damodhar
+919121,organization,High Court
+919121,organization,Provincial Government
+919121,organization,Court in Pannalal Binjraj
+919121,organization,Central Board of Revenue
+919121,organization,Commission
+919121,organization,Income-tax Investigation Commission
+919121,organization,Musaliar
+919121,organization,W H Ellis
+919121,organization,Bombay High Court
+919121,organization,Court
+919121,organization,supreme court of india
+919121,organization,the state of bombay
+919121,organization,bhagwati
+919121,organization,natwarlal h. das
+919121,organization,sudhi ranjan
+919121,organization,act
+919121,organization,the state legislature
+919121,organization,state
+919121,organization,british coal corporation
+919121,organization,the king
+919121,organization,court of wards
+919121,organization,legislature
+919121,organization,the state government
+919121,organization,state of bombay
+919121,organization,in petitions nos. 13
+919121,organization,the bombay government 494 gazette
+919121,organization,the bombay high court
+919121,organization,the judicial committee
+919121,organization,the privy council
+919121,organization,the federal court
+919121,organization,court
+919121,organization,state of rajasthan
+919121,organization,the state of any estate
+919121,organization,the legislature of a state
+919121,organization,the states of madras
+919121,organization,travancorecochin
+919121,organization,royal
+919121,organization,revenue
+919121,organization,treasury
+919121,organization,state revenue-
+919121,organization,government
+919121,organization,baden-powell
+919121,organization,mirasi
+919121,organization,revenue officers
+919121,organization,jagirs
+919121,organization,saranjams
+919121,organization,inams
+919121,organization,village
+919121,organization,khotes
+919121,organization,reliance
+919121,organization,parliament
+919121,organization,land revenue
+919121,organization,the land revenue administration
+919121,organization,the presidency of bombay
+919121,organization,grant
+919121,organization,land systems
+919121,organization,arts
+919121,organization,the 515 state or a corporation
+919121,organization,courts
+919121,organization,tribunal
+919121,organization,collector
+919121,organization,the court of wards
+919121,organization,power of government
+919121,organization,the official gazette
+919121,organization,that high court
+919121,organization,the state of delhi
+919121,organization,the provincial government
+919121,organization,kania
+919121,organization,union of india
+919121,organization,the central board of revenue
+919121,organization,the income-tax investigation commission
+919121,organization,commission
+919121,country,India
+919121,country,US
+919121,country,UK
+919121,person,sri ram ram narain medhi
+919121,person,n h bhagwati
+919121,person,das
+919121,person,sudhi ranjan
+919121,person,natwarlal h.
+919121,person,sinha
+919121,person,bhuvneshwar p.
+919121,person,atiqa begum
+919121,person,navinchandra mafatlal
+919121,person,thakur raghubir singh
+919121,person,parshram damodhar
+919121,person,n. b. khare
+919121,person,anwar ali saykar
+919121,person,v. m. limaye
+919121,person,s. s. shukla
+919121,person,purshottam tricumdas
+919121,person,j. b. dadachanji
+919121,person,h. n. sanyal
+919121,person,h. j. umrigar
+919121,person,k. l. hathi
+919121,person,r. h. dhebar
+919121,person,bhagwati
+919121,person,v. atiqa begum
+919121,person,thakur amar singhji
+919121,person,baden-powell
+919121,person,khas
+919121,person,raiyatwari
+919121,person,zamindari
+919121,person,taluqdari
+919121,person,zamindaris
+919121,person,wanta
+919121,person,khas kamath
+919121,person,ghar khedu
+919121,person,dhara
+919121,person,suti
+919121,person,muli
+919121,person,bighoti
+919121,person,raiyat
+919121,person,jagirs
+919121,person,saranjams
+919121,person,bernard boaler
+919121,person,kennedy
+919121,person,c. j.
+919121,person,esher
+919121,person,scrutton
+919121,person,boaler
+919121,person,baden
+919121,person,powell
+919121,person,vide abdul rahiman jamaluddin hurjuk
+919121,person,vithal arjun undare
+919121,person,mahajan
+919121,person,kameshwar singh
+919121,person,kania
+919121,person,karda
+919121,person,patanjali sastri
+919121,person,anwar ali sarkar
+919121,person,h. s. bhari
+919121,person,john e. van de carr
+919121,person,musaliar v. m. venkitachalam potti
+919121,person,w. h. ellis
+919121,person,vide dinabandhu
+919121,person,jadumony mangaraj
+919121,norp,k.
+919121,norp,oriental
+919121,norp,mughals
+919121,norp,british
+919121,norp,raiyats
+919121,norp,khoti
+919121,norp,konkan
+919121,norp,bhagdari
+919121,norp,narvadari
+919121,norp,watans
+919121,norp,taluqdari
+919121,norp,bhagdars
+919121,norp,narwadars
+919121,norp,watandars
+919121,norp,saranjamdars
+919121,norp,inamdars
+919121,norp,taluqdars
+919121,norp,western
+919121,norp,j.
+919121,law,--validity of enactment--bombay tenancy and agricultural lands amendment act
+919121,law,the bombay tenancy and agricultural lands amendment act
+919121,law,1 1955 2 s.c.r. 303. 62 490 bom. xiii of 1956
+919121,law,the bombay tenancy and agricultural lands act
+919121,law,bom. lxvii of
+919121,law,directive principles of state policy
+919121,law,arts. 38 and 39 of the constitution
+919121,law,act
+919121,law,s. 29 of the act
+919121,law,art. 31a
+919121,law,the constitution
+919121,law,arts. 14 19 and 31 of the constitution
+919121,law,and 3
+919121,law,entry 18 in list 11 of the seventh schedule to the constitution
+919121,law,art. 31a of the constitution
+919121,law,the bombay land revenue code
+919121,law,constitution
+919121,law,s. 25 of the code
+919121,law,act. 491 case
+919121,law,9 of the act
+919121,law,5 of the code
+919121,law,art. 31a1
+919121,law,sections 32 to 32r
+919121,law,arts.14 19 and 31 of the constitution
+919121,law,act by s. 7
+919121,law,article 32 of the constitution of india for the enforcement of fundamental rights
+919121,law,the judgment of the court
+919121,law,art. 32 of the constitution
+919121,law,the vires of the bombay tenancy and agricultural lands amendment act
+919121,law,bom. xiii
+919121,law,the impugned act
+919121,law,the 1948 act
+919121,law,petition no. 58
+919121,law,section 28 of the said act
+919121,law,s. 221 of the said act
+919121,law,the transfer of property act
+919121,law,articles 38 and 39 of the constitution
+919121,law,art. 226 of the constitution
+919121,law,the constitutionality of the impugned act
+919121,law,section 88d of the act
+919121,law,petition no. 13
+919121,law,c.m.p. no. 359
+919121,law,petition no. 55
+919121,law,the state list
+919121,law,art. 31-a of the constitution
+919121,law,the fundamental rights enshrined in arts. 14 19 and 31
+919121,law,the provisions of the said act
+919121,law,the fundamental rights of the petitioners conferred upon them by arts. 14. 119 and 31 of the constitution
+919121,law,the said act
+919121,law,entry no. 18 in list 11 of the seventh schedule to the constitution
+919121,law,arts. 14
+919121,law,entry 18 in list ii of the seventh schedule to the constitution
+919121,law,the act ultra vires the constitution
+919121,law,art. 191g of the constitution
+919121,law,arts. 1419 and 31 of the con- stitution
+919121,law,art. 31-a
+919121,law,art. 13
+919121,law,article 14
+919121,law,the 8 act
+919121,law,art. 31 a of the constitution
+919121,law,chapter iv
+919121,law,the bombay survey and settlement act
+919121,law,bom. 1 of 1865
+919121,law,bhagdari and narvadari tenures act
+919121,law,khoti settlement act
+919121,law,bom. 1 of 1880
+919121,law,the state legislature 502
+919121,law,bom. v of 1879
+919121,law,titles to rent- free estates act
+919121,law,bom. xi of 1852; ahmedabad taluqdars act
+919121,law,bom. vi of 1862
+919121,law,bombay hereditary offices act
+919121,law,bom. iii of 1874
+919121,law,broach and kaira encumbered estates act
+919121,law,bom. xiv of 1877
+919121,law,bom. xxi of 1881
+919121,law,matadars act bom. vi of 1887
+919121,law,gujrat taluqdars act
+919121,law,acts
+919121,law,the bombay bhagdari and narvadari tenures abolition act
+919121,law,bom. xxxii
+919121,law,the bombay khoti abolition act
+919121,law,the bombay merged territories janjira and bhor khoti tenure abolition act
+919121,law,the industrial disputes act
+919121,law,act xliii
+919121,law,the court of appeal
+919121,law,re the vexatious actions act
+919121,law,rex v. city of london court
+919121,law,20 of the code
+919121,law,code
+919121,law,vexatious actions act
+919121,law,16 of the code
+919121,law,chapter vi
+919121,law,section 73
+919121,law,section 56
+919121,law,bombay land revenue amendment acts
+919121,law,bom. vi of 1901
+919121,law,bom. iv of
+919121,law,s. 73a
+919121,law,the revenue code
+919121,law,the constitution fourth amendment act
+919121,law,section 2 of the act
+919121,law,chapter iii
+919121,law,section 34
+919121,law,s. 31 of the impugned act
+919121,law,s. 7 of the impugned act
+919121,law,the directive principles of state policy
+919121,law,inter alia in arts. 38 and 39 of the constitution
+919121,law,the touch-stone of the fundamental rights enshrined in part iii
+919121,law,the constitution first amendment act
+919121,law,the ninth schedule
+919121,law,part iii of the constitution
+919121,law,art. 31b
+919121,law,art. 132 of the constitution
+919121,law,the acts and the regulations
+919121,law,art. 31a2
+919121,law,the state of any estate or of any rights therein and 2
+919121,law,art. 312a
+919121,law,the
+919121,law,art. 31a1 thereof
+919121,law,the state of any estate or of any rights
+919121,law,section 32
+919121,law,section 32c
+919121,law,the bombay prevention of fragmentation and consolidation of holdings act
+919121,law,bom. lxii of
+919121,law,section 32j
+919121,law,section 32k
+919121,law,section 32n
+919121,law,section 32p
+919121,law,s. 112 of the ajmer tenancy and land records act
+919121,law,xlii
+919121,law,section 112 of the act xlii
+919121,law,arts. 311 and 312 of the constitution
+919121,law,art. 311 on the fundamental right enshrined in art. 191f of the constitution
+919121,law,art. 32
+919121,law,list ii
+919121,law,entry 18 of the said list
+919121,law,entry 18
+919121,law,section 7
+919121,law,the act. sections 5 6 and 7 of the act
+919121,law,the act
+919121,law,the terms of s. 7 of the act
+919121,law,s. 7. of the act
+919121,law,that s. 7 of the act

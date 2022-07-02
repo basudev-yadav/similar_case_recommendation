@@ -1,0 +1,939 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Evalueserve.Com P.Ltd, New Delhi vs Acit, Circle-8(2), New Delhi on 28
+January, 2020
+
+    
+    
+                                      1
+    
+    
+       IN THE INCOME TAX APPELLATE TRIBUNAL, DELHI 'I-1' BENCH,
+                             NEW DELHI
+    
+          BEFORE SHRI N.K. BILLAIYA, ACCOUNTANT MEMBER, AND
+               SHRI N.K. CHOUDHARY, JUDICIAL MEMBER
+    
+                            SA No. 531/DEL/19
+                                    &
+                          ITA No. 5148/DEL/2017
+                        [Assessment Year: 2011-12]
+    
+    Evalueserve.com Pvt Ltd          Vs.                The A.C.I.T
+    A-47, Lower Ground Floor                            Circle - 8(2)
+    Hauz Khas, New Delhi                                New Delhi
+    
+    PAN: AAACE 8014 E
+    
+     [Appellant]                                          [Respondent]
+    
+                    Date of Hearing             :   22.01.2020
+                    Date of Pronouncement      :    28.01.2020
+    
+    
+                    Assessee by :    Shri Salil Kapoor, Adv
+                                     Ms. Ananya Kapoor, Adv
+    
+                    Revenue by    : Shri Dinesh Antil. Sr. DR
+    
+    
+                                    ORDER
+    
+
+PER N.K. BILLAIYA, ACCOUNTANT MEMBER, This appeal by the assessee is preferred
+against the order of the Commissioner of Income Tax [Appeals] - 19, New Delhi
+dated 15.05.2017 pertaining to assessment year 2011-12.
+
+2
+
+2\. Ground Nos. 1 and 2 are general in nature and need no adjudication.
+
+3\. Ground Nos. 3 to 15 relate to TP adjustment. The assessee prays for
+exclusion of certain comparables.
+
+4\. Ground No. 16 relates to calculation of assessee's PLI.
+
+5\. At the very outset, the ld. counsel for the assessee stated that the
+assessee contends for the exclusion of four comparables from the final set of
+comparables. It is the say of the ld. counsel for the assessee that all the
+comparables were considered by the Tribunal in assessee's own case in earlier
+year. Copy of the order of the Tribunal was supplied.
+
+6\. Per contra, the ld. DR strongly supported the findings of the TPO.
+
+It is the say of the ld. DR that functional profile cannot be the same in two
+cases and, therefore, the comparables used by the TPO are good comparables.
+
+3
+
+7\. We have given thoughtful consideration to the orders of the authorities
+below. We have also perused the orders of the co-ordinate bench in assessee's
+own case in ITA No. 1814/DEL/2017 dated 01.11.2019 for A.Y 2012-13 and ITA No.
+6310/DEL/2012 and ITA No. 1466/DEL/2015 for A.Ys 2008-09 and 2010-11.
+
+8\. The facts on record show that the appellant company carries out IT enabled
+services in the form of research activities according to the terms of its
+agreement with its AE. The research carried out by the assessee is driven by
+business information, market research and intellectual property research.
+Normally, the client executives operating from overseas formed an interface
+between the client and the assessee and the deliverable was typically in the
+form of research report that is forwarded directly to the client under the
+supervision and post a quality assurance by the AEs. Reports and research
+studies prepared by the assessee are owned by the clients only. Operations of
+the assessee primarily comprised of the following segments:
+
+    
+    
+         a)    Business information
+    
+         b)    Investment research and financial analytics
+    
+         c)    Market research
+    
+         d)    Intellectual Property
+                                            4
+    
+    
+    
+
+9\. The international transactions entered into during the year are:
+
+    
+    
+    (a)      Provision of services - Back Office
+             Operations [research services]              Rs. 1,29,00,46,963/-
+    
+    (b)      Cost reimbursement received/
+             Receivable                               Rs.      2,44,47,940/-
+    
+    
+    
+    
+
+10\. TNMM was taken as the most appropriate method and assessee's profit level
+indicator was taken at 17.65% and arithmetic mean of comparables was 14.38%.
+The TPO was not satisfied with the comparables used by the assessee and after
+considering the objections regarding comparables and their margin
+calculations, the following set of comparables were taken by the TPO for
+determination of ALP:
+
+    
+    
+    Sl. No Name of the Company                               OP/OC
+    
+         1    Accentia Technologies Ltd                      29.18%
+    
+         2    Acropetal Technologies Limited (Segment)       14.36%
+    
+         3    e4e Healthcare Business Services Pvt Ltd        9.77%
+    
+         4    Eclerx Services Ltd                            56.82%
+    
+         5    ICRA Techno Analytics Limited (Segment)        25.24%
+    
+         6    Infosys BPO Ltd                                17.86%
+         7    Jindal intellicom Ltd.                         13.70%
+    
+         8    TCS E-serve Limited                            69.31%
+                           AVERAGE                           29.53%
+                                            5
+    
+    
+    
+
+11\. Accordingly, ALP and adjustment was computed as under:
+
+Operational cost 1,164,795,745 Arm's Length Price at a Margin of29.53%
+1,508,759,928 Price Received 1,340,917,228 105% of the Price Received
+1,407,963,089 Proposed Adjustment ii/s 92CA 167,842,700
+
+12\. The assessee agitated the matter before the ld. CIT(A) but without any
+success.
+
+13\. Before us, the ld. counsel for the assessee stated that she wants the
+following four comparables to be excluded:
+
+    
+    
+            (i)     Accentia Technologies Ltd
+    
+            (ii)    Infosys BPO Ltd
+    
+            (iii)   TCS E-serve Limited
+    
+            (iv)    Eclerx Services Ltd
+                                           6
+    
+    
+    
+
+14\. It is the say of the ld. counsel for the assessee that all these
+companies were excluded by the co-ordinate bench in assessee's own case in A.Y
+2012-13.
+
+15\. We find force in the contention of the ld. counsel for the assessee. The
+relevant findings of the co-ordinate read as under:
+
+"i) Accentia Technologies Ltd.
+
+8\. This comparable chosen by the TPO was objected by the assessee before the
+TPO on the ground that, firstly, it is functionally not similar; secondly,
+presence of IPRs, thirdly, extraordinary event of acquisition of a software
+development company during the financial year 2011-12; and lastly, there are
+no segmental details. This company is into medical transcription, medical
+billing, medical coding, claims processing and software development
+implementation services. Ld. TPO held that since the comparables chosen by him
+are providing ITeS services similar to the assessee and under TNMM brought
+comparability has to be seen, therefore it is a fit comparable. He observed
+that, this company is into health care receivable cycle management, which is
+pre-dominantly under ITES. The entire functions of medical transcription,
+coding billing and collection is one complete segment and all these various
+specific segments are closely related to each other. As far as developing of
+proprietary software products, TPO observe that there is no  7 reference of
+any revenue from the software products in the annual report. Thus, he held
+that same is a good comparable.
+
+8.1 Before us the Ld. Counsel for the assessee submitted that from the perusal
+of the P & L Account it can be seen that revenue's from operations are from
+different sources i.e. medical transcription, billing and coding and EMR and
+SAAS. However, the annual report states that it has only one segment. Thus,
+there is no segmental detail for various streams of revenue. She further
+submitted that this company is into medical transcription, coding and medical
+billing services and also software development services and also has developed
+its own products such as, IMTAS, IRTS, IAMS, IPMS. Apart from that, she
+submitted that there were extraordinary events in A.Y. 2012-13 in the form of
+amalgamation and acquisition, therefore, due to such extraordinary event this
+comparable cannot be included in this year. She further pointed out that in
+the assessment year 2008-09, the Tribunal in assessee's own case following the
+principle laid down by the Hon'ble Delhi High Court in the case of CIT vs.
+Ameriprise India (P) Ltd. in ITA No. 461/2016 has upheld the exclusion of the
+said comparable. Apart from that, the Tribunal in case of sister concern,
+i.e., Evalueserve.com SEZ which has a similar function profile has directed to
+exclude the said comparable; and this judgment of the Tribunal has been upheld
+by the Hon'ble Delhi High Court also.
+
+8
+
+8.2 On the other hand, Ld. CIT-DR strongly relied upon the order of
+authorities below and submitted that the activities carried out by Accentia
+Technologies Ltd. is nothing but ITeS services and all the three functions are
+inter related and therefore, no separate segment is required to be seen. Under
+the TNMM, if a comparable company is carrying out similar functions which are
+in the category of ITeS, then same cannot be excluded on such minute
+functional difference. He submitted that assessee is also rendering KPO
+services through professionals and therefore, Accentia technologies Ltd. which
+is into health care and KPO therefore, it is a good comparable.
+
+9\. We have heard the rival submissions and also perused the relevant finding
+given the impugned orders as well as the material referred before us. Accentia
+Technologies Ltd. is a company which is providing medical transcription
+services which encompasses process of prescribing or converting voice recorded
+reports as detected by physicians or other health care professionals who vet
+the actual transcription. Apart from that it is providing medical coding,
+billing and collection services. Medical coding is related to procedures of
+financial assessment which help insurance companies and Government companies.
+Medical billing is described as medical practice management which involves
+bill on insurance companies by hospitals for on behalf of the personnel for
+medical care expenses, which are majorly from US markets. No doubt Eclerx is
+providing kind of ITeS services which requires special skills,  9 but what is
+relevant to analyse is the nature of business and the functions carried out
+for earning the revenue and profitability. Highly specialized and skilled
+services definitely have higher profitability. Further assets deployed in the
+form of human resources and other tangible and intangible and risks undertaken
+also impacts the margins. Apart from that, from the perusal of the annual
+accounts of the said company it is seen that it has shown revenues from
+various operations separately, like from billing, coding, medical discrete
+reportable transcription and medical transcription. However, for various
+streams of income there are no segmental details or segmental account. In fact
+it has been reported that there is only one segment called as health care
+receivable management. As pointed out by the Ld. Counsel this company is also
+into software development services and also own proprietary products like
+IMTAS, IRTS, IAMS, IPMS, which is used for various functions. Due to these
+factors and comparison of functional profiles, the Tribunal in assessee's own
+case for A.Y. 2008-09 has directed to exclude this company. Further, in this
+year there was acquisition of software development company namely, Medex
+Healthcare Global which is into development of software related to EMR and
+SAAS.
+
+9.1 Other important fact is that the Tribunal in the case of sister concern,
+i.e. Evalue SEZ which is having identical functional profile has directed to
+exclude the said comparable after observing as under :-
+
+10
+
+"11. We have carefully considered the rival contentions as well as perused the
+annual accounts of the comparables. At page No. 1172, we have perused schedule
+10 of the notes on account wherein it has mentioned that w.e.f. 01.04.2008 a
+company which was engaged in the business of medical transcription and coding
+has been amalgamated with the comparable. It is further stated figures for
+this year are related to amalgamating company also. The profit and loss
+account of the comparable shows that sales and services of the company are
+according to Schedule No. 8. There is no change in the income segment of the
+assessee after amalgamation as amalgamating company was also having the same
+business, hence, there is no impact of amalgamation on the company with
+respect to functions performed. Therefore, merely there is an amalgamation
+during the year it cannot be excluded as comparable as it does not change the
+functional profile of the comparable company. However, at page No. 27 the Ld
+TPO has confirmed that this company is engaged in the business of healthcare
+cycle management which comprises of medical transcription, coding and billing
+and collection. The medical transcription business requires special skill and
+also employs medical professional who finally vet the actual transcription.
+Further medical coding is related to procedure of financial assessment.
+Medical billing is maintenance of financial accounts on insurance company etc
+for the purposes of recovery of sums by Doctors. Therefore, medical
+transcription is a service which requires employment of medical professional
+also. However, the  11 medical coding the billing may not require higher
+technical skill. In annual report the company has mentioned that it has only
+one segment and therefore it does not have segmental results pertaining to
+medical transcription vis-a-vis coding and billing activity. According to us
+the medical transcription itself cannot be said to be comparable with the
+functions performed by the assessee. However, the medical coding and billing
+activities are similar to the functions performed by the assessee. But, in
+absence of the segmental accounts with respect to medical coding and billing
+activites this comparable cannot be included. Hence, TPO is directed to
+exclude it."
+
+9.2 This decision of the Tribunal has also been upheld by the Hon'ble High
+Court. Since functional profile and other comparability factors of the
+assessee as well as comparable company Accentia Technologies Ltd. remains the
+same, therefore, we do not find any reason deviate from earlier year orders of
+the Tribunal as well as the judgment of Hon'ble Delhi High Court. Accordingly,
+Accentia Technologies Ltd. is directed to be excluded.
+
+Infosys BPO Ltd.
+
+14\. Regarding this comparable, TPO has rejected all the contention of the
+assessee that this company has high brand value and intangibles and it is a
+giant company in terms risk profile and nature of services and held that,
+since it is also into providing ITeS same should be included.
+
+12
+
+15\. After hearing both the parties, we find on perusal of the material placed
+on record that Infosys is not only high turnover company, but also has a high
+brand value and intangibles as compared to the assessee which has very
+insignificant intangibles. Apart from that, Infosys in terms of risk profile,
+skill, nature of services, revenue, and ownership of brand proprietary
+products clearly outweighs the FAR analysis comparison with the assessee.
+Because of these factors, Hon'ble Delhi High Court in several decisions has
+held that giant companies like Infosys and Wipro cannot be compared with low
+risk or capital service provider. The lists of said judgment are as under:-
+
+1) Delhi High Court-PCIT vs. Oracle (OFSS) BPO Services P. Ltd. ITA No.
+124/2018)
+
+2) Delhi High Court-PCIT vs. New River Software Services P. Ltd. (ITA No.
+924/2016) order dated 22.08.2017-
+
+3) Delhi High Court-CIT vs. Agnity India Technologies P. Ltd. (2013) 219
+taxman 26 (Del)
+
+4) Delhi High Court-CIT vs. Agnity Indian Technologies P. Ltd. (ITA No.
+447/2018)
+
+5) Delhi High Courtin PCIT vs. Evalueserve SEZ (Gurgaon) P. Ltd. ITA No.
+241/2018 order dated 26.02.2018
+
+6) Delhi High Courtn in PCIT vs. Evalueserve SEZ (Gurgaon) P. Ltd. ITA No.
+948/2018 order dated 29.08.2018.
+
+13
+
+15.1 From the perusal of the annual report of the said company it is seen that
+it is amongst the top ten BPO of the country and has around 18,383 employees
+with huge advertisement expenditure and marketing of Rs. 8.73 crores as
+compared to the assessee which has 1163 employees and undertakes no such
+expense; and the turnover of Infosys is more than Rs.1312 crores as compared
+to assessee's turnover which is at Rs. 144 crores. Further, in assessee's own
+case as well as in the case of sister concern, this Tribunal has excluded
+Infosys BPO based on these comparability factors. Looking to the scale of
+operations and presence of high valuable assets both tangible and intangible,
+this company has consistently been held to be incomparable with captive
+service provider companies. Accordingly, we direct the exclusion of this
+comparable.
+
+vi) TCS E-Serve Ltd.
+
+16\. The TPO has included this comparable holding that it carries out the
+function of ITES and high turnover and brand value is not relevant factor and
+brand expenses is only Rs. 3.67 crores.
+
+17\. After hearing both the parties and perusal of material placed on record,
+we find that TCS E-serve Ltd. like Infosys BPO is a giant company which has
+high brand value and intangibles and in terms of risk profile, skill, nature
+of service, revenue etc. this comparable has been rejected in various  14
+judicial rulings. The turnover of TCS is more than Rs. 1578 crore and this
+company is having huge assets and is under taking high risk which have direct
+impact on turnover and in profitability. If a company is having huge asset
+base, brand value, goodwill and presence in global market with significant R &
+D, then it cannot be compared with a company which is purely captive service
+provider in ITeS/BPO, having low risk and insignificant assets. Even the
+deployment of human resources shows that TCS has 14,785 employees whereas the
+assessee has 1163 employees. This factor itself shows that in the terms of
+human resources, there is huge difference in the assets deployed. Now there is
+latest judgment of Hon'ble Delhi High Court dated 24th July, 2019 in the case
+of M/s. Avaya India Pvt. Ltd. vs. ACIT in ITA no. 532/2019 which had
+considered the comparability of TCS E-serve Ltd. and TCS serve International
+Ltd. with the company providing ITeS services. The relevant substantial
+question of law admitted by the Hon'ble High Court reads as under :-
+
+"Whether the ITAT was justified in upholding the order of the TPO and the DRP
+in not excluding M/s. TCS E-Serve Limited; M/s. TCS E-Serve International
+Limited from the list of comparables for the purposes of determining the arms-
+length price of the international transactions involving the Assessee?
+
+17.1 Hon'ble High Court has dealt this issue in detail after observing as
+under:-
+
+15
+
+"Analysis and reasons
+
+15\. The above submissions have been considered. In a large number of
+decisions this Court has emphasized, that for there to be reliable benchmark
+studies for determining ALP not only the comparables have to be functionally
+similar but should have similar business environment and risks as the tested
+party. A detailed exposition of the legal position with specific reference to
+Rule 10 B (2) of the Income Tax Rules, 1962 is found in this Court‟s decision
+in Chryscapital Investment Advisors (India) Pvt. Ltd. v. DCIT 376 ITR 183
+(Del) as under:
+
+"30. The reasoning adopted in various judgments noticed above, shows that
+functional analysis seeks to identify and compare the economically significant
+activities and responsibilities undertaken, assets used and risks assumed by
+the parties to the transaction. Quantitative and qualitative filters/criteria
+have been used in different cases to include or exclude comparables. The
+intuitive logic for excluding big companies from the list of comparables while
+undertaking the FAR analysis of a smaller company is attractive, given that
+such big companies provide services to diverse clientele, perform multifarious
+functions, often assume risks and employ intangible assets which are specially
+designed, unlike in the case of smaller companies. The bigger companies have
+an established reputation in the segment, are well known and employ economies
+of scale to a telling end. On the other hand, these obvious - and apparent
+features should not blind the TPO from the obligation  16 to carry out the
+transfer pricing exercise within the strict mandate of Section 92 C and Rules
+10-A to 10-E.
+
+31\. Arm's length price determination, in respect of an international
+transaction has necessarily to confirm to the mandate of Rule 10B. In this
+case, the method followed for determining the arm's length price of the
+international transaction adopted by the assessee and the revenue is the TNMM.
+The comparability of an international transaction with an uncontrolled
+transaction has, in such cases, to be seen with reference to the functions
+performed, taking into account the assets employed or to be employed and the
+risks assumed by the respective parties to the transaction as per rule
+10B(2)(b). The specific characteristics of the property transferred or
+services provided (contemplated by Rule 10B(2)(a)) in either transactions may
+be secondary, for judging comparability of an international transaction in the
+TNMM, because the price charged or paid for property transferred or services
+provided and the direct and indirect cost of production incurred by the
+enterprise in respect of property transferred or services provided go into
+reckoning comparability analysis in the transaction methods, i.e. the
+comparable uncontrolled price, resale price and cost plus whereas the profit
+based method such as transactional net margin method takes into account, the
+net margin realised. In TNMM, comparability of an international transaction
+with an uncontrolled transaction is to be seen with reference to functions
+performed as provided in sub-rule (2)(b)  17 of rule 10B read with sub-rule
+(1)(e) of that rule after taking into account assets employed or to be
+employed and the risks assumed by the respective parties to the transaction.
+As noticed earlier, Rule 10B(3) mandates that a given or select uncontrolled
+transaction selected in terms of Rule 10B(2) "shall be comparable to an
+international transaction" if none of the differences, if any, between the
+compared transactions, or between enterprises entering into such transactions
+"are likely to materially affect the price or cost charged or paid or the
+profit arising from such transaction in the open market or reasonably accurate
+adjustment can be made to eliminate the effects of such difference."
+
+32\. Now, the sequitur of Rule 10B (2) and (3) is that if the comparable
+entity or entity‟s transactions broadly conform to the assessee‟s functioning,
+it has to enter into the matrix and be appropriately considered. The crucial
+expression giving insight into what was intended by the provision can be seen
+by the use of the expression: "none of the differences, if any, between the
+transactions being compared, or between the enterprises entering into such
+transactions are likely to materially affect the price or cost charged or paid
+in, .. such transactions in the open market." The other exercise which the TPO
+has to necessarily perform is that if there are some differences, an attempt
+to "adjust" them to "eliminate the material effects" should be made:
+
+18
+
+"(ii) reasonably accurate adjustments can be made to eliminate the material
+effects of such differences."
+
+33\. Such being the case, it is clear that exclusion of some companies whose
+functions are broadly similar and whose profile - in respect of the activity
+in question can be viewed independently from other activities- cannot be
+subject to a per se standard of loss making company or an "abnormal" profit
+making concern or huge or "mega" turnover company. As explained earlier, Rule
+10B (2) guides the six methods outlined in clauses (a) to (f) of Rule 10B(1),
+while judging comparability. Rule 10B (3) on the other hand, indicates the
+approach to be adopted where differences and dissimilarities are apparent.
+Therefore, the mere circumstance of a company
+
+\- otherwise conforming to the stipulations in Rule 10B (2) in all details,
+presenting a peculiar feature - such as a huge profit or a huge turnover, ipso
+facto does not lead to its exclusion. The TPO, first, has to be satisfied that
+such differences do not "materially affect the price...or cost"; secondly, an
+attempt to make reasonable adjustment to eliminate the material effect of such
+differences has to be made.
+
+34\. The Court is also aware of the factors mentioned in Rule 10B (2), i.e.
+characteristics of the service provided, functions performed taking into
+account assets employed or to be employed and the risks assumed, by the
+respective parties to the transactions; contractual terms of the transactions
+indicating how the responsibilities, risks and benefits are to be  19 divided
+between the respective parties to the transactions; conditions prevailing in
+the markets in which the respective parties to the transactions operate,
+including the geographical location and size of the markets, the laws and the
+Government orders in force; costs of labour and capital in the markets,
+overall economic development and level of competition and whether the markets
+are wholesale or retail. These elements comprehend the similarities and
+dissimilarities; clause (f) of Rule 10C(2) specifically provides that "the
+extent to which reliable and accurate adjustments can be made to account for
+differences, if any, between the international transaction or the specified
+domestic transaction and the comparable uncontrolled transaction or between
+the enterprises entering into such transactions and the nature, extent and
+reliability of assumptions required to be made in application of a method"
+have to be taken into consideration by the TPO.
+
+36\. This Court holds that in the facts of the present case, the assessee was
+incorrect, both in its reliance placed upon previous years‟ data as well as
+the manner of such reliance. First, the assessee‟s justification for relying
+on such data is the volatility in the comparables‟ profit margins and the
+consequent inability to transact at a consistent ALP. However, this is not
+warranted herein. Whilst there may be a wide fluctuation in the profit margins
+of comparables from year-to- year, this by itself does not justify the need to
+take into account previous years‟ profit margins. The transfer pricing  20
+mechanism provided in the Act and the Rules prescribes that while determining
+the ALP, the arithmetic mean of all comparables is to be adopted. This is to
+offset the consequence of any extreme margins that comparables may have and
+arrive at a balanced price. Similarly, the wide fluctuations in profit margins
+of the same entity on a year-to-year basis would be offset by taking the
+arithmetic mean of all comparables for the assessment year in question. In any
+case, in the event that the volatility is on account of a materially different
+aspect incapable of being accounted for, the analysis under would Rule 10B (3)
+would exclude such an entity from being considered as a comparable. Secondly,
+as regards the manner of using previous years‟ data, the assessee has taken
+the arithmetic mean of the comparables‟ profit margins for the assessment year
+in question and two previous years. This Court disagrees. The proviso to Rule
+10B(4), read with the sub-rule, itself indicates that the purpose for which
+previous years data may be considered is - analysing the comparability of an
+uncontrolled transaction with an international transaction. It does not
+prescribe that once an uncontrolled transaction has been held to be a
+„comparable‟, in order to obviate an apparent volatility in the data, the
+arithmetic mean of three years (the assessment year in question and two
+previous years) may be taken. That would amount to assigning equal weight to
+the data for each of the three years, which is against the mandate of Rule
+10B(4). The use of the word "shall" in Rule 10B(4) and, noticeably, "may" in
+the proviso, implies that the relevant  21 assessment year‟s data is of
+primary consideration, as opposed to previous years‟ data.
+
+39\. This Court proceeds on the basis that there is sufficient guidance and
+clarity in Rule 10B on the principles applicable for determination of ALP.
+These include the various factors to be taken into consideration, approach to
+be adopted (functions performed, taking into account risks borne and assets
+employed, size of the market, the nature of competition, terms of labour,
+employment and cost of capital, geographical location etc). The extent of
+accurate adjustments possible, too, is a factor to be considered. Rule 10B (3)
+then underlines what the ALP determining exercise entails, if there are
+dissimilarities which materially affect the price charged etc: the first
+attempt has to be to eliminate the components which so materially affect the
+price or cost. In other words, given the data available, if the distorting
+factor can be severed and the other data used, that course has to be
+necessarily adopted." (all emphasis in original)
+
+16\. In Rampgreen Solutions Pvt. Ltd. v. CIT (2015) 377 ITR 533 this Court
+further discussed Rule 10-B (2) of the IT Rules. This Court pointed out how
+although both the Knowledge Process Outsourcing (KPO) services and the
+Business Process Outsourcing (BPO) services fall within the broad definition
+of ITES, companies engaged in KPO services cannot be used as comparables for
+the TP study of a company engaged in  22 providing BPO services. In that
+process, it was observed by this Court as under:
+
+"20. In order for the benchmarking studies to be reliable for the purposes of
+determining the ALP, it would be essential that the entities selected as
+comparables are functionally similar and are subject to the similar business
+environment and risks as the tested party. In order to impute an ALP to a
+controlled transaction, it would be essential to ensure that the instances of
+uncontrolled entities/transactions selected as comparables are similar in all
+material aspects that have any bearing on the value or the profitability, as
+the case may be of the transaction. Any factor, which has an influence on the
+PLI, would be material and it would be necessary to ensure that the
+comparables are also equally subjected to the influence of such factors as the
+tested party. This would, obviously, include business environment; the nature
+and functions performed by the tested party and the comparable entities; the
+value addition in respect of products and services provided by parties; the
+business model; and the assets and resources employed. It cannot be disputed
+that the functions performed by an entity would have a material bearing on the
+value and profitability of the entity. It is, therefore, obvious that the
+comparables selected and the tested party must be functionally similar for
+ascertaining a reliable ALP by TNMM. Rule 10B (2) of the Income Tax Rules,
+1962 also clearly indicates that the comparability of controlled transactions
+would be judged with  23 reference to the factors as indicated therein. Clause
+(a) and
+
+(b) of Rule 10B (2) expressly indicate that the specific characteristics of
+the services provided and the functions performed would be factors for
+considering the comparability of uncontrolled transactions with controlled
+transactions. ......
+
+30\. As indicated above, in order to determine the ALP in relation to a
+controlled transaction, the analysis must include comparables which are
+similar in all aspects that have a material bearing on their profitability.
+Paragraph 1.36 of the "OECD Transfer Pricing Guidelines for Multinational
+Enterprises and Tax Administrations" published in 2010 (hereafter 'OECD
+Guidelines') indicates the "comparability factors" which are important while
+considering the comparability of uncontrolled transactions/entities with the
+controlled transactions/entities. Sub-rule (2) of rule JOB of the Income Tax
+Rules, 1962 also mandates that the comparability of international transactions
+with uncontrolled transactions would be judged with reference to the factors
+indicated under clauses (a) to (d) of that sub-rule, which are similar to the
+comparability factors as indicated under the OECD Guidelines. .....
+
+36\. As pointed out earlier, the transfer pricing analysis must serve the
+broad object of benchmarking an international transaction for determining an
+ALP. The methodology necessitates that the comparables must be similar in
+material aspects. The comparability must be judged on factors such as  24
+product/service characteristics, functions undertaken, assets used, risks
+assumed. This is essential to ensure the efficacy of the exercise. There is
+sufficient flexibility available within the statutory framework to ensure a
+fair ALP"."
+
+17\. The above dictum was followed and reiterated in Avenue Asia Advisors Pvt.
+Ltd. v. Dy CIT (2017) 398 ITR 320 (Del) where this Court, inter alia, observed
+that "though in the TNMM method there is sufficient tolerance, mere broad
+functionality is by itself insufficient."
+
+18\. On the aspect of exclusion of comparables that have a high economic
+upscale viz., Infosys, TCS and Wipro, particular reference may be made to the
+decision of this Court in PCIT v. BC Management Services Pvt. Ltd. (supra)
+where a particular reference was made to TCS E-serve as under:
+
+"13. ...The third comparable that the AO/TPO excluded is TCS E-serve. The ITAT
+observed that though there is a close functional similarity between that
+entity and the assessee, however, there is a close connection between TCS
+E-serve and TATA Consultancy Service Ltd. which was high brand value: that
+distinguished it and marked it out for exclusion. The ITAT recorded that the
+brand value associated with TCS Consultancy reflected impacted TCS E-serve
+profitability in a very positive manner. This inference too in the opinion of
+Court, cannot be termed as unreasonable. The rationale for exclusion is
+therefore upheld."
+
+25
+
+19\. The same decision also noted that one reason for exclusion was the
+"unavailability of the segmental data" for the above comparable.
+
+20\. In M/s. Oracle (OFSS) BPO Services Pvt. Ltd. (decision dated 5th February
+2018 in ITA 124 of 2018) while upholding the exclusion of M/s.Wipro Ltd. from
+the list of comparables it was noted that the ITAT took into account the
+Related Party Transactions („RPT‟).The filter adopted was to exclude
+comparables with unrelated party transactions equal to or in excess of 75% of
+their business. The ITAT did that on the basis that Wipro Ltd. had a
+significant brand presence in the market and could, therefore, not be deemed
+to be a comparable entity. This Court explained the RPT filter as under:
+
+"The RPT filter, is relevant and fits in with the overall scheme of a transfer
+pricing study which is premised primarily on comparing light entities having
+similar if not identical functions. Therefore, if a particular entity
+predominantly has transactions with its associate enterprise - in excess of a
+certain threshold percentage, its profit making capacity may resulted in a
+distorted picture, either way."
+
+21\. A reference may next be made to the decision in The Principal
+Commissioner of Income Tax-3 v. Evalueserve Sez (Gurgaon) Pvt. Ltd. (supra)
+where a reference is made to the earlier decision to the BC Management
+Services Pvt. Ltd. (supra). This decision dealt with the exclusion of three
+specific  26 comparables, which have also involved in the present case namely
+M/s.TCS E-Serve Ltd., M/s.TCS E-Serve International Ltd. and M/s. Infosys BPO
+Ltd. This Court upheld the exclusion of all three comparables and in
+particular since the entities had "a high brand value and therefore were able
+to command greater profits; besides they operated on economic upscale."
+
+22\. The Revenue‟s appeal against the same Assessee for AY 2011-2012 against
+another order of the ITAT excluding TCS E- Serve International Limited,
+Infosys BPO Limited from comparables met the same fate. In its decision dated
+29th August, 2018 the Court referred to the earlier decision dated 26th
+February, 2018 which again pertained to AY 2010-2011. Reference was again made
+to the decision in BC Management Services Limited.
+
+23\. It appears therefore that this Court has consistently upheld decisions of
+the ITAT excluding both these very comparables. The ITAT itself appears to
+have taken a consistent view in a large number of cases excluding these two
+comparables and its decisions have been upheld by this Court. Illustratively
+reference may be made to the decision of the Tribunal in Vertex Customer
+Services India Private Limited v. DCIT (2017) 88 Taxmann.Com 286 (Del- Tri),
+Stryker Global Technology Centre Private Limited v. DCIT (2017) 87 Taxmann.com
+43 (Del-Tri), Samsung Heavy Industries Private Limited v. DCIT (2017) 84
+Taxmann.com 154 (Del-Tri) and  27 Equant Solutions India Private Limited v.
+DCIT (2016) 66 Taxmann.com 192 (Delhi-Tribunal).
+
+24\. All of these decisions pertained to AY 2010-2011. What weighed invariably
+is the fact that both companies had huge turnovers when compared to the tested
+entity. Both entities had close connection of the Tata Group of Companies and
+TCS E-Serve International had given a huge amount to TCS towards brand equity.
+Further there was no segmental bifurcation between the transaction processing
+and technical services. The assets employed by TCS E-Serve along with huge
+intangibles in the form of brand value were found to have a definite
+considerable effect on its PLI. These factors vitiated its comparability under
+the FAR analysis with the tested company, which could be a capital service
+provider without much intangible and risks.
+
+25\. In this context it requires to be noted that the ITAT also referred to
+the decision of this Court CIT v. Agnity India Technologies Private Limited
+(2013) 36 Taxmann.com 289.
+
+26\. The Court may also note that the Karnataka High Court has in PCIT v.
+Softbrands (2018) 406 ITR 513 (Kar) noted as under:
+
+"48. The Tribunal of course is expected to act fairly, reasonably and
+rationally and should scrupulously avoid perversity in their Orders. It should
+reflect due application of mind when they assign reasons for returning the
+particular findings.
+
+28
+
+49\. For instance, while dealing with comparables of filters, if unequals like
+software giant Infosys or Wipro are compared to a newly established small size
+Company engaged in Software service, it would obviously be wrong and perverse.
+The very word "comparable" means that the Group of Entities should be in a
+homogeneous Group. They should not be wildly dissimilar or unlike or poles
+apart. Such wild comparisons may result in the best judgment assessment going
+haywire and directionless wild, which may land up the findings of the Tribunal
+in the realm of perversity attracting interference under section 260-A of the
+Act."
+
+27\. There is merit in the contention of the Assessee that the scale of
+operations of the comparables with the tested entity is a factor that requires
+to be kept in view. TCS E-Serve has a turnover of Rs.1359 crores and has no
+segmental revenue whereas the Assessee's entire segmental revenue is a mere 24
+crores. As observed by this Court in its decision dated 5th August 2016 in ITA
+417/2016(PCIT v. Actis Global Services Private Limited) "Size and Scale of
+TCS‟s operation makes it an inapposite comparable vis-a- vis the Petitioner."
+As already pointed out earlier there is a closer comparison of TCS E-Serve
+Limited with Infosys BPO Limited with each of them employing 13,342 and 17,934
+employees respectively and making Rs.37 crores and Rs.19 crores as
+contribution towards brand equity. When Rule 10(B) (2) is applied i.e. the FAR
+analysis, namely, functions performed, assets owned and risks assumed is  29
+deployed then brand and high economic upscale would fall within the domain of
+"assets" and this also would make both these companies as unsuitable
+comparables.
+
+28\. The Director's report of TCS E-Serve Limited bears out the contention of
+the Assessee that both entities have been leveraging TCSs scale and large
+client base to increase their business in a significant way. The submission
+that the two comparables offer an illustration of "an identical transaction
+being conducted in an uncontrolled manner" overlooks the effect of the Tata
+brand on the performance of the impugned comparables. The question was not
+merely whether the margins earned by the Tata group in providing captive
+service to the Citi entities were at arm‟s length. The question was whether
+they offered a reliable basis to re-calibrate the PLI of the Assessee whose
+scale of operations was of a much lower order than the two impugned
+comparables. The mere fact that the transactions were identical was not, in
+terms of the law explained in the above decisions, either a sole or a reliable
+yardstick to determine the apposite choice of comparables.
+
+29\. For all of the aforementioned reasons, the Court finds merit in the
+contention of the Assessee that both the impugned comparables viz., TCS E-
+Serve Limited and TCS E- Serve International Limited ought to be excluded from
+the list of comparables for the purposes of determining the ALP of the
+international transactions involving the Assessee and its AEs."
+
+30
+
+> 18\. Respectfully following the aforesaid principle of Hon'ble
+> Jurisdictional High Court which applies in the present case also we direct
+> the TPO to exclude the said comparable.
+
+> 6\. Revenue."
+
+> 7\. 7.5 When on similar facts and circumstances, Eclerx has been found to be
+> incomparable with the assessee, which finding has been affirmed by Hon'ble
+> Delhi High Court and there is no change in the material facts and
+> circumstances in this year, then we do not find any reason to deviate from
+> such finding. Accordingly, respectfully following the same, we direct the
+> TPO/ AO to exclude Eclerx from comparability list. "
+
+16\. As there is no change in the functional profile of the assessee, facts
+being same, we do not find any reason to differ from the findings of the co-
+ordinate [supra]. Accordingly, we direct the TPO to exclude the aforementioned
+comparables from the final set of comparables.
+
+Ground Nos. 3 to 15 and all other grounds relating to TP adjustment are
+allowed.
+
+17\. Next grievance relates to recalculation of PLI of the assessee by the
+TPO.
+
+31
+
+18\. We find that a similar adjustment was considered by the co-
+
+ordinate bench in assessee's own case in ITA No. 6310/DEL/2012 and
+1466/DEL/2015 for A.Y 2008-09 and 2010-11. Relevant findings of the co-
+ordinate bench read as under:
+
+> "28. As relates to Ground No. 6, the Ld. AR submitted that TPO has erred in
+> re-calculating Assessee's PLI from 20.17% to 16.17%. The same is not
+> acceptable to the assesse as per the Ld. AR. The Ld. AR submitted that
+> assesse in its TP Study at page 499, 485 of PB Vol. 2 has stated that Rs.
+> 3,06,71,861/- was incurred on NOIDA unit where no operation was done but
+> fixed cost had to be incurred. Hence, this is a non-operating expense.
+> However, TPO stated that this is an operating expense because according to
+> him the AE should have reimbursed this expense. The Ld. AR submitted that
+> this is a non-operating expense as these expenses related to Noida unit
+> which is not operational during the year. Further, the Ld. AR pointed out
+> that EVS India had two STPI units in Gurgaon and Noida respectively.
+> However, there were no operations in the Noida unit. The said unit was in
+> the process of shutting down due to certain business reasons. EVS India did
+> not undertake any operations in the Noida unit while it continued to incur
+> the fixed costs pertaining to this unit. These costs relate to rent and hire
+> charges, depreciation, insurance, security charges, repair and maintenance,
+> etc. The Ld.
+
+AR further submitted that the Assessee did not carry out  32 operations in the
+Noida unit and the fixed costs incurred were unproductive costs and were not
+billed to the parent company.
+
+Thus, as the expenses incurred for the Noida unit were non-
+
+recurring and extraordinary in nature, these expenses have been excluded from
+the operating profit computation. This was mentioned in TP Study at page 499,
+485. Also detailed submissions in this regard have been filed before TPO and
+DRP.
+
+The Ld. AR submitted that the comparables did not incur such extraordinary /
+non recurring expenses and hence for a like to like comparison, it is
+necessary to adjust such abnormal expenses from the computation of operating
+profit. The Ld. AR submitted that the very basis of Transfer Pricing
+Regulations is to undertake an exercise of comparability to eliminate
+differences, if any, by a suitable adjustment. The Ld. AR relied upon Rule
+10B(3) and Rule 10B(1)(e)(ii) of the Income Tax Rules, 1962 as well as relied
+upon Safe Harour Rules notified by CBDT, which is now incorporated as Rule
+10TA of the Income Tax Rules, 1962. The said Rules state that "operating
+expense"
+
+means the cost incurred in relation to international transaction.
+
+This fixed cost of NOIDA unit is not in relation to international transaction
+as this year business and operations of the Assessee were carried out only in
+the GURGAON unit and there were no operations in the NOIDA Unit and thus all
+costs that were incurred in relation to the international transaction, were
+incurred in the GURGAON unit. These fixed cost of NOIDA unit has no relation
+to providing of services to the AE. The Ld. AR submitted that it specifically
+refers to expenses incurred in  33 course of normal operations and excludes
+extra- ordinary expenses and other expenses not relating to normal operations
+of the assesse. Thus, a bare reading of Safe Harbour Rules states that the
+intent is to exclude such extra-ordinary expenses which have no corelation
+with day-to-day operations.
+
+Further, the Ld. AR pointed out that TPO at page 29 states that these Safe
+Harbour Rules are applicable and applies them when determining the PLI of the
+comparables. Hence, the Ld. AR submitted that TPO must apply these Safe
+Harbour Rules when determining the PLI of the Assessee also. The Ld. AR relied
+upon the following judgments-
+
+•Marubeni India (P.) Ltd. v. DIT 120131 354 ITR 638/215 Taxman 122 (Maq.)/33
+taxmann.com 100 (Delhi)- Delhi High Court • CIT vs. Transwitch India (P.) Ltd
+ITA No. 678/2012-
+
+Delhi High Court • HOV Services Ltd. vs. JCIT [2016] 73 taxmann.com 311 (Pune
+- Trib.) • HCL Technologies BPO Services Ltd. v. Asstt. CIT 120151 60
+taxmann.com 186/69 SOT 571 (Delhi-Trib) • Dy. CIT v. Exxon Mobil Gas (India)
+(P.) Ltd. [20151 152 ITD 220/120141 51 taxmann.com 256 (Delhi-Trib) •
+Transwitch India (P.) Ltd. v. Dy. CIT [20121 21 taxmann.com 257/53 SOT 151
+(Delhi-Trib)
+
+29\. The Ld. AR submitted that Marubeni India (P.) Ltd. v.
+
+DIT (2013) 354 ITR 638- Delhi High Court is directly on this issue wherein the
+Hon'ble Delhi High Court held that expenditure for closure of its India units
+would represent  34 abnormal cost and the same has to be excluded while
+computing the operating margin of the assesse. In the case of Marubeni India
+(supra), also the Revenue argued that since the assessee is a captive unit of
+its associated enterprise, it was actually the latter that undertook the
+entire risk. Even in assessee's case, the TPO states that assesse is a captive
+unit and risk is with the AE and hence AE should bear this expense and
+compensate.
+
+However, this was rejected by the Hon'ble Delhi High Court.
+
+The Ld. AR further submitted that the TPO cannot sit in the chair of the
+businessman and decide how the business is to be conducted. The incurring of
+expense are not doubted. TPO has not doubted that there is a material
+difference on this account.
+
+He has denied only on the ground that Assessee should have been compensated by
+the AE without realizing that the assesse is not charging on cost plus basis.
+The expense have been allowed u/s 37 of the Act and the limited reason for
+denying a higher PLI by the TPO is that the expenses should have been
+compensated by the AE, which is not correct. The DRP at para 11 has stated
+that evidence was not made available. This is factually incorrect. All
+evidences/bills/details/correspondence was made available to them and is also
+being filed in Court today.
+
+This argument of the Revenue that AE should have shared this cost, is again
+rejected by Hon'ble Delhi High Court in the case of CIT vs. Transwitch India
+P. Ltd. ITA No. 678/2012.
+
+30\. The Ld. DR relied upon the orders of the TPO/AO and directions of the
+DRP.
+
+35
+
+31\. We have heard both the parties and perused all the relevant records. It
+is pertinent to note that the DRP observed that the evidence was not produced.
+But according to the Ld. AR, all evidences/bills/details/correspondence were
+produced. Since the evidences have not been verified by the revenue
+authorities, therefore, it will be appropriate to remand back this issue to
+the file of the TPO/AO for adjudicating the issue in the right of all the
+evidences produced by the assessee and after taking the same into
+consideration, decide the issue as per fact and law. Needless to the say, the
+assessee be given the opportunity of hearing by following principles of
+natural justice. Ground No. 6 is partly allowed for statistical purpose."
+
+19\. Respectfully following the findings of the co-ordinate bench, we direct
+accordingly. Ground No. 16 is treated as allowed for statistical purposes.
+
+Since the appeal has been decided, the stay petition becomes infructuous.
+
+20\. In the result, the appeal of the assessee in ITA No. 5148/DEL/2017 is
+partly allowed for statistical purposes.
+
+The order is pronounced in the open court on 28.01.2020.
+
+    
+    
+               Sd/-                                               Sd/-
+               S/-                                              Sd/-
+         [N.K. CHOUDHARY]                                   [N.K. BILLAIYA]
+         JUDICIAL MEMBER                                  ACCOUNTANT MEMBER
+    Dated: 28th January, 2020.
+                                            36
+    
+    
+    VL/
+    
+    Copy forwarded to:
+    
+    1.    Appellant
+    2.    Respondent
+    3.    CIT                                                    Asst. Registrar
+    4.    CIT(A)                                                 ITAT, New Delhi
+    5.    DR
+    
+    
+    Date of dictation
+    
+
+Date on which the typed draft is placed before the dictating Member Date on
+which the typed draft is placed before the Other Member Date on which the
+approved draft comes to the Sr.PS/PS Date on which the fair order is placed
+before the Dictating Member for pronouncement Date on which the fair order
+comes back to the Sr.PS/PS Date on which the final order is uploaded on the
+website of ITAT Date on which the file goes to the Bench Clerk Date on which
+the file goes to the Head Clerk The date on which the file goes to the
+Assistant Registrar for signature on the order Date of dispatch of the Order
+

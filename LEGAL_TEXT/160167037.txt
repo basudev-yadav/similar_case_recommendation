@@ -1,0 +1,1484 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Bechtel India Pvt. Ltd., New Delhi vs Dcit, New Delhi on 20 August, 2018
+
+    
+    
+        IN THE INCOME TAX APPELLATE TRIBUNAL, DELHI 'I-2' BENCH,
+                              NEW DELHI
+    
+          BEFORE SHRI N.K. BILLAIYA, ACCOUNTANT MEMBER, AND
+                SHRI SUCHITRA KAMBLE, JUDICIAL MEMBER
+    
+    
+                                ITA No. 6779/DEL/2015
+                                     [A.Y 2011-12]
+    
+    Bechtel India Pvt. Ltd                  Vs.          The Dy. C.I.T
+    418, Narang House,                                   Circle 4(2)
+    21, K.G. Marg, New Delhi                             New Delhi
+    
+    
+    PAN : AAACB 0298 A
+      [Appellant]                                         [Respondent]
+    
+    
+                      Date of Hearing              :    01.08.2018
+                       Date of Pronouncement       :    20.08.2018
+    
+         Assessee by        :      Shri Himanshu Sinha, Adv
+                                   Shri Bhwan Dhoopar, Adv
+    
+    
+         Revenue by         :      Shri H.K. Choudhary, CIT- DR
+    
+                                      ORDER
+    
+
+PER N.K. BILLAIYA, ACCOUNTANT MEMBER:-
+
+This appeal by the assessee is preferred against the order of the DRP -1, New
+Delhi dated 24.09.2015 framed u/s 144C(5) of the Income- tax Act, 1961
+[hereinafter referred to as 'the Act' for short] pertaining to A.Y 2011-12.
+
+2
+
+2\. This is the second round of litigation. In the first round, the matter
+travelled upto the Hon'ble High Court of Delhi. Following substantial question
+of law was admitted by the Hon'ble High Court:
+
+> "Whether the ITAT erred in ordering a de novo determination of the Arms
+> Length Price by the Transfer Pricing Officer upon a fresh benchmarking?
+
+3\. The relevant findings of the Hon'ble High Court read as under:
+
+> "17. Consequently, the question framed by this Court is answered in the
+> affirmative by holding that the ITAT ought not have remanded the matter to
+> the TPO for the de novo determination of the ALP of the international
+> transactions in the various segments. This exercise should be performed by
+> the ITAT itself. This is on the basis of the submission of the Assessee that
+> all the details relevant for such determination are already available on
+> record.
+
+> 18\. The impugned order of the ITAT is accordingly set aside. The assessee's
+> appeal ITA No. 6779/DEL/2015 for the concerned A.Y 2011-12 is restored to
+> the file of the ITAT. The said appeal will be listed before it for
+> directions on 21st August 2017".
+
+3
+
+4\. Pursuant to the order of the Hon'ble High Court, representatives of both
+the sides were heard at length. Having heard the rival contentions, we have
+carefully perused the orders of the authorities below and with the assistance
+of the representatives we have considered the documentary evidences and
+judicial decisions brought on record in the light of Rule 18(6) of the ITAT
+Rules, 1962.
+
+5\. Facts on record show that the assessee - Bechtel India Private Limited
+[BIPL] was set up as a subsidiary company in India by Bechtel, USA in April
+1994 to render engineering support service in respect of engineering designs
+and drawings. BIPL executes engineering designs and drawings for various
+overseas Associated Enterprises [AEs] to support the overseas offices turnkey
+project execution. The assessee is also a captive service provider, providing:
+
+(a) engineering design and related services [EDS] ;
+
+(b) financial and accounting support [FAS]; &
+
+(c) I.T. Infrastructure support services [IT Infra] to its AEs to support the
+overseas office's turnkey project execution.
+
+6\. International transactions undertaken by the assessee company with its AEs
+are summarised in the table below:  4
+
+    
+    
+        No. Nature of transaction                              Method
+                                                                         Value       of
+                                                                         transaction
+            1   Provision of engineering design and related    TNMM      1,31,40,40,147
+    
+            2   services
+                Provision of financial and accounting support TNMM       5,05,29,404
+    
+            3   Provision
+                services of IT infrastructure support          TNMM      14,98,35,385
+    
+            4   services /
+                Reimbursement of Expenses(paid)                TNMM      5,07,26,046
+            2   Reimbursement of Expenses(received)            CUP       10,78,45,266
+    
+    
+    
+    
+
+7\. Summary of economic analysis in the TP study can be understood from the
+table below:
+
+    
+    
+                                       Most                           Arm's length results
+                      Amount
+                                 Appropriate
+                       (In INR
+                                  Method and                        Margin of
+                       crores)                   Appellant's                        Updated
+      Nature of                   Profit Level                    comparables
+                       (Refer                         PLI                            margins
+    International                   Indicator                     in TP study1
+                      page no.                   (Refer page                     (Refer page no.
+     Transaction                      ('PLI')                     (Refer page
+                       372 of                     no. 321 of                          13 of
+                                  (Refer page                      no. 321 of
+                        paper                    paperbook)                        paperbook)
+                                   no. 321 of                     paperbook)
+                        book)
+                                  paperbook)
+                                 Method:
+    Provision    of
+                      131.40     TNMM            10.84%        13.41%2           12.57%
+    EDS
+                                 PLI: OP/TC
+                                 Method:
+    Provision of
+                 5.05            TNMM            10.52%        14.61%3           8.54%
+    FAS services
+                                 PLI: OP/TC
+    Provision of                 Method:
+    IT       Infra 14.98         TNMM            14.32%        13.05%            7.38%
+    services                     PLI: OP/TC
+    Reimburseme
+                                 Method:
+    nt          of
+                   5.07          TNMM            Not applicable
+    expenses
+           4                     PLI: OP/TC
+    (paid)
+    
+    
+    
+    
+        1
+    
+        2
+    
+        3
+    
+        4
+                                            5
+    
+    
+
+8\. During the course of TP assessment proceedings, the TPO did not agree with
+the comparables used by the assessee and rejected 7 comparables out of 11
+comparables selected by the assessee on account of failing of filters or
+functional dissimilarities.
+
+9\. In the EDS, the following comparables were adopted by the TPO:
+
+    
+    
+     No    Company Name                                          OP/OC %
+     1     Acropetal Ltd (Eng. Design segment)                   14.26
+     .2    Ashok Leyland Project Services Ltd.                   24.7
+      O    Bengal S R E 1 Infrastructure Devp. Ltd.              42.14
+      4    Cades Digitech Pvt. Ltd                               5.78
+      J
+      5    Certification Engineers International Ltd.            78.45
+      6    Global Procurement Consultants Ltd.                   30.86
+      7    Gujarat Industrial & Technical Consultancy Org Ltd.   7.89
+      8    1BI Chematur (Engineering & Consultancy) Ltd.         25.96
+      9    Indus Technical & Financial Consultants Ltd.          14.78
+      10   Kitco Limited                                         27.48
+      11   Mahindra Consulting Engineers Ltd.                    30.92
+      12   Mitcon Consultancy &Engg. Services Ltd.               40.19
+      13   NTPC Electric Supply Company Ltd.                     18.01
+      14   Pailavan Transport Consultancy Services Ltd.          25.59
+      15   R E C Power Distribution Co. Ltd.                     39.44
+      16   Rites Ltd.                                            58.27
+      17   T C E Consulting Engineers Ltd.                       29.29
+      18   Usha Hydro Dynamics Ltd.                              29.45
+           Average                                               30.19
+    
+    
+    
+    
+
+10\. In the FAS, the following comparables were adopted by the TPO:  6
+
+    
+    
+    Not    Company Name                                 OP/TC %
+    1      Accentia Technologies Ltd.                   29.18%
+    j.
+    2      Acropetal technologies Limited(Seg)          14.36%
+    3      e4e Healthcare Business Services Pvt. Ltd    9.77%
+    4      Eclerx Sendees Ltd.                          56.82%
+    5      Infosys BPO Ltd.                             17.86%
+    6      Jindal Intellicom Ltd.                       13.70%
+    7      TCS E-Serve Ltd.                             69.31%
+    8      Microgenetics Systems Ltd                    -3.20%
+           Average                                      25.98%
+    
+    
+    
+    
+
+11\. In the IT Infra, the following comparables were adopted by the TPO:
+
+    
+    
+      S.      Company Name                                          OP/ TC
+        1     Acropetal Technologies Ltd. (Information Technology   22.06%
+      No.
+        2     Akshay Software Technologies Ltd.                       (%)*
+                                                                     0.86%
+        3     services segment)
+              Celstream  Technologies Private Ltd.                  13.20%
+        4     e-Infochips India Private Ltd.                        56.44%
+        5     Evoke Technologies Private Ltd.                        8.11%
+        6     E-zest Solutions Ltd.                                 39.98%
+        7     Igate Global Solutions Ltd.                           23.71%
+        8     Infosys Ltd.                                          43.39%
+        9     Larsen & Toubro Infotech Ltd.                         18.40%
+       10     LGS Global Ltd.                                       14.11%
+       11     Mindtree Ltd.                                         10.29%
+       12     Persistent Systems & Solutions Ltd.                   21.51%
+       13     Persistent Systems Ltd.                               23.08%
+       14     R S Software (India) Ltd.                             16.20%
+       15     Sankhya Infotech Ltd. (software development           26.20%
+       16     Sasken Communications Technologies Ltd.               24.33%
+       17     service
+              Tata    segment)
+                   Elxsi Ltd.                                       12.94%
+       18     Thirdware Solution Ltd.                               18.30%
+       19     Wipro Technology Services Ltd.                        54.42%
+                                      Mean                          23.55%
+                                           7
+    
+    
+
+12\. Apart from the fresh search, the TPO redrew the appellant- company's
+segmental by :
+
+> (i) treating the reimbursement of expenses received as part of profit and
+> loss account ;
+
+> (ii) reallocation of certain expenses which were not actuals based on the
+> revenue of each segment; &
+
+> (iii) treating the provision/liabilities written back as non operative in
+> nature.
+
+13\. Results of fresh segmental analysis resulted in the margins as under:
+
+    
+    
+                 EDS        -     8.98%
+    
+                 FAS        -     21.57%
+    
+                 IT Infra   -     18.06%
+    
+    
+    
+    
+    
+
+14\. Further, the TPO did not allow the benefit of economic adjustments, i.e.,
+working capital and risk, while computing the arms' length margins of the
+respective segments of the company. The TPO also made an adjustment on account
+of period of delay in receipt of payments from AEs. The TPO imputed an Indian
+based interest at the  8 rate of 10.84% p.a. for the period of delay in
+receipt of payments from AEs beyond 60 days.
+
+15\. Final adjustment made by the TPO can be understood from the following
+chart:
+
+    
+    
+                               Tested Party's     Arm's
+           Nature           of margin as per      length
+    S.                                                       Adjustment
+           international       segmental          margin
+    No.                                                      u/s 92CA
+           transaction         redrawn     by     determined
+                               the Ld. TPO        by Ld. TPO
+    1      Provision of EDS    8.98%              30.19%     27,39,32,965
+    
+           Provision of FAS
+    2                               10.52%        25.98%      70,84,259
+           services
+    
+           Provision     of   IT
+    3                               14.32%        23.55%      1,21,12,787
+           Infra services
+    
+    4      Receivables              N.A.          N.A.        33,16,088
+    
+           Total                                              29,64,46,099
+    
+    
+    
+    
+    
+
+16\. The appellant-company vehemently assailed the draft assessment order
+before the DRP. The DRP, after considering the facts and detailed submissions
+of the assessee, directed the TPO to exclude the  9 following comparables from
+the final comparable set on account of functional dissimilarities:
+
+> (i) Ashok Leyland Project Services Ltd.
+
+> (ii) Bengal SREI Infrastructure Development Ltd.
+
+> (iii) NTPC Electric Supply Company Ltd.
+
+> (iv) Pallavan Transport Consultancy Services Ltd.
+
+17\. In the FAS and IT infra support services, the DRP accepted the approach
+and the comparable set considered by the TPO, though the working capital
+adjustment was allowed by the DRP, but the risk adjustment for computing the
+arm's length margin was denied. In so far as charging of interest is
+concerned, the DRP directed to use six month LIBOR plus 300 bonus points as
+the interest rate while computing the interest on inter-company receivables.
+
+18\. Pursuant to the directions of the DRP, the following comparables set have
+been adopted:
+
+    
+    
+                                        10
+    
+    EDS segment
+    
+    
+            S.                                                 WC adjusted
+                 Company Name
+         No.                                                      OP/TC
+    
+
+Acropetal Technologies Ltd (Engineering 1 14.26% Design Services) 2 Kitco Ltd
+28.79% 3 T C E Consulting Engineers Ltd 28.97% 4 Cades Digitech Pvt Ltd. 2.83%
+5 Certification Engineers International Ltd 71.97% 6 Global Procurement
+Consultants Limited 29.32% Gujarat Industrial & Technical Consultancy 7 8.67%
+Org Ltd IBI Chematur (Engineering & Consultancy) 8 26.87% Ltd 9 Indus
+Technical & Financial Consultants Ltd 10.63% 10 Mahindra Consultants Engineers
+Ltd 30.32% 11 Mitcon Consultancy & Engineer Services Ltd 43.58% 12 R E C Power
+Distribution Co. Ltd. 31.00% 13 Rites Ltd. 58.27% 14 Usha Hydro Dynamics Ltd
+25.40% 15 Arvind Accel Ltd. 2.47% Mean 27.56%  11 FAS Service Segment Sl.
+Company Name WC adjusted 1 Accentia Technologies Ltd 27.27%  2 No. Acropetal
+Technologies Ltd (Engineering 14.36% OP/TC 3 e4e Healthcare Business Services
+Pvt Ltd 10.96% 4 Eclerx design Services Ltd service seg) 56.64% 5 Infosys B P
+O Ltd 17.37% 6 Jindal Intellicom Pvt. Ltd 14.96% 7 TCE E-serve Ltd 70.03% 8
+Microgenetics Systems Ltd -2.85% Mean 26.09% I.T. Infra Services Segment Sl.
+COMPANY NAME WC adjusted No. OP/TC Acropetal Technologies Limited (Information
+1 22.06% Technology services segment) 2 Akshay Software Technologies Limited
+2.68% 3 Celstream Technologies Private Limited 14.35% 4 e-Infochips India
+Private Ltd 55.60% 5 Evoke Technologies Private Ltd 9.36% 6 E-zest Solutions
+Ltd. 37.03% 7 Igate Global Solutions Ltd 23.93% 8 Infosys Ltd 43.41% 9 Larsen
+& Toubro Infotech Ltd 19.50% 10 LGS Global Ltd 12.42% 11 Mindtree Ltd 10.29%
+12 Persistent Systems & Solutions Ltd 22.24% 13 Persistent Systems Ltd 22.82%
+12 14 R S Software (India) Ltd 17.16% Sankhya Infotech Limited (software
+development 15 26.20% service segment) 16 Sasken Communications Technologies
+Ltd 23.77% 17 Tata Elxsi Ltd 12.94% 18 Thirdware Solution Ltd 18.30% 19 Wipro
+Technology Services Ltd 54.36% Mean 23.60%
+
+19\. We will first take up EDS Segment.
+
+SEGMENT I EDS SEGMENT
+
+20\. The ld. counsel for the assessee strongly submitted that the following
+comparables deserve to be excluded from the final comparables set:
+
+(i) Kitco Ltd
+
+(ii) TCE Consulting Engineering Ltd
+
+(iii) Certification Engineering International Ltd
+
+(iv) Global Procurement Consultants Limited
+
+(v) IBI Chematur [Engineering & Consultancy Ltd]
+
+(vi) Mitcon Consultancy & Engineering Services
+
+(vii) REC Power Distribution Co. Ltd  13
+
+(viii) RITES Limited
+
+(ix) Usha Hydro Dynamics Ltd.
+
+21\. We will take up each comparable one by one.
+
+(i) KITCO LIMITED
+
+22\. The profile of this company shows that it is a 100% Government owned
+undertaking rendering services primarily to Central/State Government
+undertaking and PSUs. Most of the clients or projects undertaken by this
+company are either for state government or government run institutions.
+Therefore, the majority revenue of this company comes from government /state
+or centre run projects and the company derives benefit out of its parental
+relation with the Government in getting contract and because of this, the
+profit margins of this company cannot be said to be indicative of a free
+market economy where the appellant company and others operate. For these
+reasons, this company was excluded by the Tribunal in assessee's own case in
+assessment year 2010-11 in ITA No. 1478/DEL/2015 wherein the Tribunal relied
+upon the findings of the coordinate bench in the case of ThyssenKrupp
+Industries India Private Limited ITA No. 6460/MUM/2012.  14
+
+23\. The relevant findings given in the case of ThyssenKrupp Industries India
+Private Limited and of the coordinate bench in assessee's own case read as
+under:
+
+> "We find it as undisputed that Engineers India Limited is a Government
+> company. It has several segments which also include 'Turnkey project' page
+> 700 of the paper book is a copy of annual report of Engineers India Limited
+> on turnkey project. It can be seen that the revenue has arisen from
+> completing paraxylene plant of IOCL and further that company is engaged in
+> execution of other unit of IOCL's Panipat Naphtha cracker project. In our
+> considered opinion' this case should not have been included in the list of
+> final comparables for two reasons. First reason is that profit motive is not
+> a relevant consideration in case of Government undertakings. Many Government
+> Undertakings even operate on losses in furtherance of the social obligations
+> of the government. The second reason is that Engineers India Limited earned
+> income from turnkey project by successfully completing the project of IOCL
+> and other Public Sector Undertakings. In that sense of the matter, the
+> related party transactions are much more than the filter of 25%. We,
+> therefore, order for the exclusion of this case from the list of
+> comparables."
+
+12.5 In the above ruling, the comparable M/s. Engineers India Limited was
+rejected primarily on the ground that it was working for  15 government/public
+sector undertakings and since the company also being a government owned
+enterprise; the transactions tantamount to related party transactions. The
+same is true for the said comparable as Kitco Ltd., transactions are primarily
+with government owned enterprises. Applying the preposition laid down in the
+case of M/s ThyssenKrupp Industries India Private Limited (supra), we hold
+that Kitco Ltd., cannot be accepted as a comparable company. Hence the same is
+directed to be eliminated."
+
+24\. Respectfully following the findings of the coordinate bench [supra], we
+direct to exclude KITCO from the final set of comparables.
+
+(ii). TCE CONSULTING ENGINEERS LTD
+
+25\. Profile of this company shows that it is involved in activities beyond
+engineering design extending from concept to commissioning whereas the
+assessee provides services as a captive unit to its overseas AEs. This company
+was excluded from the set of comparables in assessee's own case in assessment
+year 2010-11 in ITA No. 1478/DEL/2015.
+
+16
+
+26\. The relevant findings of the coordinate bench in assessee's own case
+[supra] read as under:
+
+> "The comparable company is involved in activities beyond engineering design.
+> It is engaged in activities that extend from concept to commissioning.
+> Whereas the assessee provides services as a captive unit to its overseas
+> AEs. The diversified functions of this comparable company include pre-
+> project activities, procurement assistance, project management,
+> commissioning and coordination, inspection, construction and supervision.
+> Further, there is no segmental accounting in the annual report of the
+> Company which provides profitability, for the engineering design segment.
+> Hence the same cannot be accepted as a comparable."
+
+27\. Respectfully following the findings of the coordinate bench [supra], we
+direct to exclude TCE Consulting Engineers Ltd from the final set of
+comparables.
+
+(iii). CERTIFICATION ENGINEERING INTERNATIONAL LTD
+
+28\. This company was also excluded by the Tribunal from the set of
+comparables in assessee's own case in assessment year 2009-10 in ITA No.
+882/DEL/2014.
+
+17
+
+29\. The relevant findings of the coordinate bench in assessee's own case
+[supra] read as under:
+
+> "32. On the basis of foregoing discussion, we have no hesitation to hold
+> that the functions of assessee Bechtel India are quite dissimilar with CIEL
+> which was wrongly taken by the TPO as a suitable comparable for benchmarking
+> of impugned international transaction undertaken by the assessee during the
+> relevant financial period. The functional dissimilarity as well as
+> distinction in the geographical market in the light of foreign exchange
+> fluctuation risk of the assessee company coupled with below 25% RPT
+> undertaken by the CIEL, we, therefore, decline to agree with the conclusion
+> of the AO/DRP/TPO that the CIEL is a suitable comparable for the purpose of
+> proposed TP adjustment made by the authorities below. Functional
+> dissimilarity and other aspects cannot be ignored and these factors clearly
+> demonstrate that CIEL should not have been included in the final set of
+> comparables for making transfer pricing adjustment pertaining to the
+> impugned international transactions of the assessee company and we order to
+> exclude the same from the final set of comparables. It is ordered
+> accordingly."
+
+30\. Respectfully following the findings of the coordinate bench [supra], we
+direct to exclude Certification Engineering International Ltd from the final
+set of comparables.
+
+18
+
+(iv) GLOBAL PROCUREMENT CONSULTANTS LTD. [GPCL]
+
+31\. The profile of this company shows that GPCL has been promoted by the
+Export-Import Bank of India as a private sector company in partnership with
+leading corporate groups like RPG Industries, MECON, Tata Consulting
+Engineers, Consulting Engineering R. L. Dalai & Co., Agricultural Finance
+Corporation, RITES, WAPCOS, Kirloskar Consultants and Ion Exchange. GPCL acts
+as the client's representative in taking on the total responsibility of
+procurement related advisory services and inter-allied activities for projects
+in India and abroad. With thorough knowledge of the guidelines and practices
+stipulated by international funding agencies like the World Bank, African
+Development Bank and the Asian Development Bank, GPCL is capable of providing
+to the project authorities, apt and appropriate advice and service in
+procurement, strictly following the procedures and policies of multilateral
+funding agencies and authorities. The company is registered with the World
+Bank, African Development Bank and other financial institutions. The
+procurement phase is the "key activity" in project cycle. GPCL monitors all
+procurement activities including project management from concept to
+commissioning, so as to ensure timely supply and delivery, quality control,
+thorough inspection, effective cost control and adherence to re schedules. Our
+expertise  19 will benefit the clients in getting an unbiased cost effective
+and exclusive professional service, which is also environment friendly
+financial institutions and project authorities who are particular on judicious
+utilization of funds prefer independent procurement consultants like GPCL.
+GPCL's consultancy services encompass: • Preparing and reviewing technical
+specifications.
+
+    
+    
+    •    Estimation of costs.
+    
+    •    Selection of vendors.
+    
+    •    Inspection and expediting.
+    
+    •    Quality control and time management.
+    
+    
+    
+    
+    
+
+All contractual aspects involved in procurement will also be handled by the
+company, to ensure that the client's interests are protected. In addition to
+core expertise, with technical back-up drawn from the shareholding partners,
+who have specialization in different fields, GPCL will provide, services that
+are time bound, cost effective ap optimal for the clients leveraging upon
+knowledge of suppliers and vendors through a vast database, drawing upon its
+familiarity with international trade and its access to infotech.  20
+
+32\. A perusal of the aforementioned profile of the GPCL shows that the
+company undertook valuation, consultancy and financial advisory assignments
+which are not all linked with the services provided by the appellant company
+to its AEs. The profile of a procurement company cannot be compared with the
+profile of engineering designed and related company [appellant company].
+Considering the financial profile of this company, in our considered view, it
+is functionally dissimilar and, therefore, it cannot be accepted as a good
+comparable. We, accordingly, direct the TPO/Assessing Officer to exclude GPCL
+from the final set of comparables.
+
+(v). IBI CHEMATURU [ENGINEERING AND CONSULTANCY] LTD.
+
+33\. This company was excluded by the Tribunal from the set of comparables in
+assessee's own case in assessment year 201011 in ITA No. 1478/DEL/2014.
+
+29\. The relevant findings of the coordinate bench in assessee's own case
+[supra] read as under:
+
+21
+
+> "12.7 The comparable Company is involved in activities beyond engineering
+> design which assessee provides. Apart from detailed engineering, the
+> comparable company, also provides project planning, management services,
+> procurement assistance, project management, commissioning and coordination,
+> inspection, construction and supervision etc. Further, there is no segmental
+> accounting available in the annual report of the Company which provides
+> profitability for the engineering design segment. The comparable company
+> undertakes substantial R&D activities (R&D expense 5.41% of turnover) which
+> is not a function performed by the assessee. Hence this company cannot be
+> accepted as a comparable."
+
+30 Respectfully following the findings of the coordinate bench [supra], we
+direct to exclude IBI Chematur [Engineering and Consultancy] Ltd. from the
+final set of comparables.
+
+(vi) MITCON CONSULTANCY AND ENGINEERING SERVICES
+
+31\. The profile of this company suggests that it provides technical
+consultancy in various areas such as power division, energy and carbon service
+division, banking and finance division. This company also renders vocational
+trainings, IT trainings and laboratory services from  22 which it earns 40%
+(approx.) of its revenue. From a screen shot of its profile, which is also at
+page 113 of appeal set, shows that the Ministry of Environment and Forest,
+Government of India extended its accreditation to the laboratory of this
+company. It is further seen that this company has also exclusively completed
+QCI-NABET accreditation process mandatory for EIA consultants. The company has
+also executed environment monitoring assignments for TACO group, Volkswagon,
+Kirloskar Brothers. This company is also engaged in the banking and finance,
+entrepreneurship and vocational training. In our considered opinion, the
+functional profile of this company is not at all comparable with the function
+performed by the appellant company. Therefore, this company cannot be a good
+comparable. We, accordingly, direct for exclusion of Mitcon Consultancy and
+Engineering Services from the final set of comparables.
+
+(vi). REC POWER DISTRIBUTION COMPANY LIMITED.
+
+32\. This company is a wholly owned subsidiary of REC Ltd which is a Navratna
+PSU and is engaged in the rural electrification projects. Being a Government
+company, it cannot be considered a good comparable in the case of the
+appellant company in the light of the  23 findings given by the co-ordinate
+bench in the case of Thyssenkrupp Industries [supra]. We, accordingly, direct
+the TPO/Assessing Officer for exclusion of REC Power Distribution Co, Ltd form
+the final set of comparables.
+
+(viii). RITES LIMITED
+
+33\. This company was excluded by the Tribunal from the final set of
+comparables in assessee's own case in assessment year 2004-05 and 2005-06 in
+ITA No. 1476 & 1477/DEL/2015.
+
+34\. The relevant findings of the coordinate bench in assessee's own case
+[supra] read as under:
+
+> "19. RITES Ltd., taken as comparable by DRP/TPO: The taxpayer filed detailed
+> objections to the different orders against inclusion of aforesaid company as
+> comparable. The crux of the same is lying at pages 73-75 of the appeal set.
+> Major objection raised by the taxpayer is that the comparable company is
+> engaged in providing services in the areas of engineering consultancy,
+> traffic studies, exports of locomotives and maintenance of the locomotives,
+> construction and project management for railway  24 track, electrification
+> together with traffic and software consultancy assignments. More so, its
+> income from non consultancy services is less than 75% and this filter is
+> applied by the TPO himself. 20. On other hand, the appellant company is
+> engaged in engineering design and drawing for various overseas AEs to
+> support overseas offices on turnkey project execution basis. Similarly, the
+> cost of export sales and supply services constitutes merely 35.86% of the
+> total cost. So keeping in view the fact that comparable company i.e. RITES
+> Ltd. taken by TPO is functionally distinctive having been engaged in the
+> area of engineering consultancy, traffic studies, export of locomotives and
+> maintenance of the locomotives, construction and project management for
+> railway track, electrification together with traffic and software
+> consultancy assignments as against, the appellant company which is engaged
+> in engineering design and drawing for various overseas AEs to support
+> overseas offices on turnkey project execution basis. 21. The appellant also
+> sought exclusion of Engineers India Ltd., a Government company form the list
+> of comparables on the ground that profit motive is not relevant
+> consideration in case of Government undertakings by relying on the
+> judgements cited as M/s. Thyssen Krup Industries India Pvt. 10 ITA
+> No.1476/Del/2015 Ltd. in I.T.A. No. 6460/Mum/2012 New Delhi M/s. Avaya India
+> Private Ltd. in I.T.A. No. 5150/Del/2010 (supra) and contended that the
+> Government companies cannot be taken as comparables for TP by following the
+> law laid down by Hon'ble Jurisdictional High Court in M/s. Avaya India Pvt.
+> Ltd. and M/s. Thyssen Krupp Industries India Pvt. Ltd. (supra). The
+> Government undertakings  25 can even operate on losses in furtherance of
+> social objectives of the Government. By relying on the judgement supra as
+> well as on functional disparity between aforesaid comparable company and the
+> appellant company, this company is ordered to be excluded from the list of
+> comparables."
+
+35\. Respectfully following the findings of the coordinate bench [supra], we
+direct the TPO/Assessing Officer for exclusion of RITES Ltd. from the final
+set of comparables.
+
+(ix). USHA HYDRO DYNAMICS LTD
+
+36\. Profile of this company reveals that it is engaged in the business of
+cleaning of various machines and equipment for various industries and is also
+doing trading business whereas the business of the appellant company is
+engineering design and related services. Two services are highly different and
+cannot be said to be comparable to each other. More than 90% of its income is
+from cleaning process. Being a functionally different company, it deserves to
+be excluded from the final set of comparables. We order accordingly.  26
+
+37\. Having excluded the aforesaid companies from the final set of
+comparables, we find that the assessee has pleaded for inclusion of the
+following companies in the final set of comparables which have been rejected
+by the DRP-I.
+
+(i) UB Engineering Ltd
+
+(ii) Accuspeed Engineering Services India Ltd We will take up one by one.
+
+(i) UB ENGINEERING LTD
+
+38\. The profile of this company suggests that it is engaged in the operations
+comprising of infrastructure and industrial projects which are directly
+related to sectors like power generation and distribution, oil and gas,
+petroleum, steel, cement fertilisers, etc. The company is also engaged in the
+business of providing integrated design engineering, procurement, construction
+and project management services for infrastructure and energy sector in terms
+of construction contract. The company operates in two primary business
+segments i.e. mechanical erection/engineering procurement and construction
+[EPC] and EPC Electrical. From the profile of this company, it can be seen
+that the functions performed during the year are totally different from the
+functional profile of the appellant company. The DRP may have  27 included
+this company as comparable in earlier assessment years, but the profile
+suggests that it cannot be included as a good comparable. Therefore, we do not
+find any error or infirmity in exclusion of this company and it will remain
+excluded from the final set of comparables.
+
+(ii) ACCUSPEED ENGINEERING SERVICES INDIA LTD
+
+39\. We find that in assessment year 2010-11 also, this company was excluded
+by the TPO but the Tribunal in ITA No. 1478/DEL/2015 included this company in
+the final set of comparables. The finding of the Tribunal reads as under:
+
+> "12.8 The ld. TPO in his order, has rejected the said comparable based on
+> its functional profile, holding that the comparable company is involved in
+> software services. The Ld.AR submitted that this comparable company is not
+> into software services, instead, is engaged in providing consultancy
+> activities in Engineering solutions and services covering design, detailed
+> engineering, project construction & management. The ld.AR submitted that
+> this comparable company provides engineering design solutions, and other
+> related services, which is functionally similar to that of the assessee. We
+> observe that the DRP has not given any reasons for rejecting this
+> comparable. On examination of the papers on record, we are in agreement with
+> 28 the submissions of the ld. AR. Hence we direct the A.O to include this
+> company as a comparable."
+
+40\. Respectfully following the findings of the coordinate bench [supra], we
+direct the TPO/Assessing Officer for inclusion of Accuspeed Engineering
+Services India Limited in the final set of comparables.
+
+SEGMENT II FINANCIAL ACCOUNTING SUPPORT SERVICES SEGMENT
+
+41\. The assessee as a captive service provider is engaged in the provision of
+services related to accounts payable management, payroll processing, invoice
+processing and handling of related queries to its AEs.
+
+42\. The functions performed by the assessee are broadly outlined as under:
+
+> "Invoice processing: Under this process, scanned invoices raised on Bechtel
+> Group Companies are provided to BIPL. The financial and accounting support
+> services team at BIPL is responsible for uploading the information presented
+> in the scanned invoices on the in-house database of the Bechtel Group. This
+> team also  29 provides support in processing employee payroll processing and
+> reimbursements for the BIPL employees.
+
+Help desk support: Under this function, BIPL provides query management and
+troubleshooting support to the Group Companies with respect to their supplier
+management functions. Account Closing and Management Reporting: The function
+supports general ledger accounts management, analysis and closure, reporting,
+bank reconciliations, inter-office reconciliations and billing and collection
+processes. Tax advisory services: This function involves providing advice to
+the Group entities with respect to effective and efficient tax management.
+
+Management of funds: Under this function, BIPL advises Bechtel group entities
+on potential investment opportunities. It also monitors the performance of
+investments with a view to protect the assets of BIPL as well as the group
+entities. The ultimate decision making authority with respect to investments
+lies with the group entities. It is also responsible for managing the finance,
+insurance and treasury functions for some of the Bechtel group entities."
+
+30
+
+43\. An understanding of the assets employed and owned by BIPL will provides
+and insight to the resources it deploys and their contribution to the
+company's business processes/economic activities. BIPL utilises its office
+premises, computers, communication facilities, other office equipment, etc for
+the purpose of its business. BIPL does not own any significant intangibles.
+The services provided by BIPL to its group entities have not given rise to any
+significant intangibles. The risk assumed can be understood from the following
+chart:
+
+    
+    
+                                       Exposure to BIPL                Exposure to AEs
+    Risk Category and Description
+                                      BIPL does not have any direct    All market risks with respect to
+                                      exposure to this risk because    the services including customer
+                                      it is a back office support      acceptance are borne by overseas
+    Market Risk: Market risk arises service provider for overseas      group companies.
+    
+
+for a business due to increased group companies.
+
+    
+    
+    competition and relative pricing
+    pressures, change in demand
+    patterns      and     needs    of
+    customers, inability to develop /
+    penetrate in a market, etc.
+    Service liability risk: Risks BIPL renders services to the         Overseas group companies enter
+    associated with service failures Group Companies. Thus, BIPL       into     contracts with      end
+    including non-performance to is not responsible to the end         customers and hence bear all the
+    generally accepted or regulatory customers of the Group, and       risk associated with service
+    standards. This could result in thereby does not have any          quality.
+    
+
+service recalls and possible exposure to this risk. injuries to end- users.
+
+Research & Development BIPL does not undertake any The Group is engaged in R&D
+for ('R&D') risk: Represents risk R&D activities in relation to developing new
+processes/ that R&D activities performed by the services provided to its
+methodologies, tools, etc for its an enterprise may not be AEs. Hence, it does
+not bear operations. Accordingly, it is successful. any risk in this respect.
+exposed to this risk.  31 Credit Risk: This is the risk arising The AEs bear
+this risk in relation from non-payment of dues by to the possibility of non-
+payment BIPL does not bear this risk as from the end client. customers.
+
+it provides services to its AE only. Its remuneration does not depend on
+recovery carried out by the AEs.
+
+Foreign Exchange Risk:
+
+This risk relates to the potential impact on profits that may arise BIPL
+receives its remuneration because of changes in foreign in foreign currency.
+exchange rates. Accordingly, it bears the risk The Group has business dealings
+of foreign exchange with a number of customers and fluctuations depending on
+the subsidiary companies in their local movement of the foreign currencies and
+hence, to that currency vis-a-vis the Indian extent, it also bears foreign
+rupee. exchange risk.
+
+Manpower Risk: Any enterprise which is largely dependent, for its success,
+upon quality personnel with The AEs do not bear any superior technical
+knowledge is manpower risks for the Indian faced with this risk. Competitive
+operations. They however bear market forces expose such an The manpower risk
+for the manpower risk in relation to enterprise to the risk of losing India
+operations is completely manpower employed and its trained personnel. borne by
+BIPL. maintained by them. Legal and Statutory Risk: BIPL bears risk on this
+account This risk primarily arises on non- since it is responsible for
+compliance with any ensuring compliance with legal/contractual/statutory local
+legal and statutory The AEs do not bear this risk for provisions requirements.
+the Indian operations. Capacity Utilisation risk:
+
+This risk arises on account of under-utilisation of In respect of the India
+manufacturing/service BIPL has limited exposure to operations, the Group is
+exposed facility/personnel this risk. to this risk. Price Risk: This risk
+arises as a result of price pressures in the BIPL has exposure towards market
+resulting in price this risk, since the price undercutting, and thereby
+pressures in the industry The AEs operate in the open adversely impacting
+would affect the market and hence are exposed to profitability. compensation
+for its services. this risk.
+
+44\. However, when the matter was agitated before the DRP, the DRP observed
+that "considering the facts and description of services given, it is clear
+that the assessee is a high- end KPO in this segment". In our considered
+opinion, considering the services provided by the assessee  32 in this
+segment, it would be erroneous to conclude that the assessee is a high-end KPO
+in this segment. Moreover, the FAR analysis given by the appellant was
+accepted by the TPO in his order.
+
+45\. Comparables finally selected by the TPO and confirmed by the DRP are as
+under:
+
+    
+    
+    No.   Company Name                                OP/TC %
+    1     Accentia Technologies Ltd.                  29.18%
+    2     Acropetal technologies Limited(Seg)         14.36%
+    3     e4e Healthcare Business Services Pvt. Ltd   9.77%
+    4     Eclerx Services Ltd.                        56.82%
+    5     Infosys B P 0 Ltd.                          17.86%
+    6     Jindal Intellieom Ltd.                      13.70%
+    7     T C S E-Serve Ltd.                          69.31%
+    8     Microgenetics Systems Ltd .                 -3.20%
+          Average                                     25.98%
+    
+    
+    
+    
+
+46\. The counsel has strongly objected to the inclusion of the following
+comparables as they are functionally dissimilar comparables:
+
+    
+    
+    a)    Accentia Technologies Ltd
+    b)   Eclerx
+    Accentia    Services Limited
+             Technologies  Limited
+    c)   T C S E-serve Limited
+    
+    
+    
+
+47\. We will consider the objections raised by the ld. AR one by one.  33 I.
+Accentia Technologies Limited [ATL]
+
+48\. The business profile of this company shows that the promoters of Accentia
+had initially ventured into ITES business through GeosoftTechnologies
+(Trivandrum) Ltd. In the year 2006, the promoters took over a Mumbai listed
+company named Company named HiTech Entertainment Limited and in the same year,
+HiTech Entertainment Limited took over Geosoft and Iridium and the name HiTech
+Entertainment was changed to AccentiaTechnologies Ltd. It would not be out of
+place to mention that Geosoft Technologies started Product Division under the
+name of Iridium. Products like Iridium Medical Transcription Automation
+Software (iMTAS), Iridium Certified Home Based Medical Transcription (iCHMT),
+Iridium Certified Medical Transcription (iCMT), Falcon-2000, FI HBPO
+automation Software, iridium Real Time School (iRTS), iridium Accounts
+Management System (iAMS), iridium Inventory Management System (ilMS), iridium
+Payroll Management System (iPMS), iridium BusinessTranscription System (iBT),
+iridium Hospital Management System (iHMS) are few of the products.
+
+34
+
+49\. Thus, it can be seen that this company has significant amount of brand,
+IPR and goodwill. The appellant company on the other hand, is a simply captive
+service provider, which provides services related to accounts payable
+management, payrole, processing invoice processing and handling of related
+queries to its AEs. ATL is not a good comparable. As can be seen from the
+above, it is functionally dissimilar. Moreover, this company was rejected as a
+comparable in assessee's own case in assessment year 2010-11 in ITA No.
+1478/DEL/2015.
+
+50\. The relevant findings of the co-ordinate bench read as under:
+
+> "This company has been included by the ld.TPO as a comparable. Functionally,
+> Accentia Technologies Ltd., is into development of software products for
+> healthcare. It is submitted by the ld.AR that 17 ITA No. 1478/Del/2015
+> Accentia Technologies Ltd is also engaged into diversified activities such
+> as Knowledge Process outsourcing(KPO), Legal process outsourcing(LPO), Data
+> process Outsourcing(DTO), high end software services. It is also submitted
+> by the ld.AR that segmental information in respect of this company is not
+> available. It has been further brought to our notice that this company has
+> been rejected by the Ld.TPO in the earlier year. The company has also had
+> business restructuring during the year under consideration thereby giving
+> rise to extraordinary circumstances. For all these reasons we direct the
+> Assessing Officer to exclude this company as a comparable."
+
+35
+
+51\. As the co-ordinate bench in the earlier year has rejected ATL as a good
+comparable, we do not find any reason why the same should be considered this
+year. We accordingly direct for exclusion of ATL from the final set of
+comparables.
+
+(ii) Eclerx Services Limited [ESL]
+
+52\. Eclerx is a KPO engaged in providing data analytics, data solutions
+services etc. The Hon'ble high court of Delhi in the case of Rampgreen
+Solutions TS-387-HC-2015(DEL)-TP has held that it would be flawed to benchmark
+IT enabled service provider using knowledge process outsourcing companies. We
+find that the Tribunal Special Bench in the case of Maersk Global Centres
+(India) Private Limited ITA No. 7466/Mum/2012 has held that this company is
+rendering high- end services involving specialized knowledge and domain
+expertise and was incomparable to the assessee company engaged in providing
+low- end services to group customers.
+
+53\. As mentioned elsewhere, the DRP has erroneously considered the assessee
+as a KPO whereas the assessee, as pointed out hereinabove, is providing
+service to its AEs as captive service provider engaged in the  36 provisions
+of services related to accounts payable management, payroll, processing
+invoice processing and handling of related queries to its AEs. In our
+considered opinion, ESL is not a good comparable as it is functionally
+dissimilar from the assessee company. We, accordingly, direct for exclusion of
+ESL from the final set of comparables.
+
+(III) TCS E-SERVE LIMITED [TCS]
+
+54\. The business profile of this company shows that it undertakes, customer
+service, transaction processes, collections, risk management, and analytics,
+and has created a lot of applications which are in the nature of intellectual
+property in terms of reconciliation software, fund transfers, etc. The company
+also undertakes software testing and validation activities. Needless to
+mention that this company is associated with TCS and TATA brand name. We find
+that in A.Y 2010- 11, this company was rejected as a good comparable by the
+Tribunal in assessee's own case in assessment year 2010-11 in ITA No.
+1478/DEL/2015.
+
+37
+
+55\. The relevant findings of the co-ordinate bench read as under:
+
+> "This company has been selected by the ld.TPO as a comparable. This company
+> undertakes, customer service, transaction processes, collections, risk
+> management, and analytics, and has created a lot of applications which are
+> in the nature of intellectual property in terms of reconciliation software,
+> fund transfers, etc. The company also undertakes software testing and
+> validation activities. Possession of intellectual property rights has to be
+> factored if such a company is to be taken as comparable. This cannot be done
+> unless there is appropriate data. Further, from the TP study we observe
+> that, this company is a wholly owned subsidiary of TCS E serve International
+> Ltd. During the year under consideration, this company has made payments
+> towards use of Tata brand. Consequentially use of the TCS brand has
+> substantially increased the operating profits post acquisition. Hence we are
+> of the opinion that this company cannot be taken as a comparable. We
+> therefore direct to exclude this comparable."
+
+56\. Considering the functional dissimilarities in the light of the findings
+of the coordinate bench [supra], this company is not a good comparable. We,
+therefore, direct for exclusion of TCS from the final set of comparables.
+
+38
+
+SEGMENT III IT INFRASTRUCTURE SUPPORT SERVICES SEGMENT
+
+57\. The functions performed by BIPL under this segment are as under:
+
+> "Functions performed by BIPL BIPL has set up an offshore centre at Gurgaon.
+> Presently, BIPL has a team of 600 people approximately who are engaged in
+> providing-IT infrastructure support services. The centre is used to monitor
+> and manage various IT infrastructure components such as servers, networks,
+> storage equipment, messaging etc. The centre is integrated with the Group
+> Companies centre to ensure seamless delivery operations between the two
+> locations. The IT Infrastructure support services typically involve
+> performing the following services:
+
+• Data centre and systems management, • Infrastructure management, • Web
+hosting and internet access, • Desktop solutions, • Messaging services, •
+Program management, • Hardware and software maintenance and monitoring, •
+Network management, including VPN services, • Service desk capabilities, •
+Physical security,  39 • Network security, • Risk management, and • Regular
+administration.
+
+For this function, the Group Companies specify the basic requirements and BIPL
+is responsible for undertaking the routine activities in line with the same.
+
+The details of the services performed by BIPL with respect to IT
+infrastructure support services are given below: • Monitoring Services: Remote
+monitoring and management of the Windows based servers and machines: • Network
+Services: Remote monitoring and management of the various network components
+like routers, switches, firewalls;
+
+• Messaging Services: Managing the mailboxes and user accounts including the
+messaging servers like. Lotus Notes, etc;
+
+• Data Base Administration: Maintaining the various databases and carrying out
+administration activities; • Network Services: BIPL provides a variety of
+network services to help Group Companies share information more effectively.
+It enables the Group Companies to enjoy greater mobility and real-time data
+access, extend and leverage existing infrastructure and  40 enhance service
+delivery with the help of wireless services. It also provides technology
+expertise pertaining to new infrastructure implementation, an upgradation or
+expansion, or continuing support. • Service desk: Taking incoming voice calls
+from the Group Companies. The Group Companies can call up and log in their
+complaints for any problems at the help desk/service desk.
+
+In addition to the above, it-is also involved in software development!
+enhancement of software. This involves routine development of the software for
+use-within the Bechtel Group. Software development involves steps like
+requirement analysis, testing, modification to the existing software and
+maintenance and enhancement of the software.'
+
+58\. The DRP has observed that the description of services given above makes
+it clear that the assessee is a KPO and is also engaged in software
+development. While deciding the issue under the segment financial accounting
+and support services, we have categorically held that the appellant company is
+not a high-end KPO service provider.
+
+59\. Final set of comparables under this segment are as under:  41
+
+    
+    
+    Sl.   COMPANY NAME                                     WC      adjusted
+    No.                                                    OP/TC
+    
+    1     Acropetal Technologies Limited       (Information 22.06%
+          Technology services segment)
+    2     Akshay Software Technologies Limited             2.68%
+    
+    3     Celstream Technologies Private Limited           14.35%
+    
+    4     e-Infochips India Private Ltd                    55.60%
+    
+    5     Evoke Technologies Private Ltd                   9.36%
+    
+    6     E-zest Solutions Ltd.                            37.03%
+    
+    7     Igate Global Solutions Ltd                       23.93%
+    
+    8     Infosys Ltd                                      43.41%
+    
+    9     Larsen & Toubro Infotech Ltd                     19.50%
+    
+    10    LGS Global Ltd                                   12.42%
+    
+    11    Mindtree Ltd                                     10.29%
+    
+    12    Persistent Systems & Solutions Ltd               22.24%
+    
+    13    Persistent Systems Ltd                           22.82%
+    
+    14    R S Software (India) Ltd                         17.16%
+    
+    15    Sankhya Infotech Limited (software development 26.20%
+          service segment)
+    16    Sasken Communications Technologies Ltd           23.77%
+    
+    17    Tata Elxsi Ltd                                   12.94%
+                                         42
+    
+    18       Thirdware Solution Ltd                             18.30%
+    
+    19       Wipro Technology Services Ltd                      54.36%
+    
+             Mean                                               23.60%
+    
+    
+    
+    
+
+60\. Before us, the ld. AR vehemently argued for exclusion of the following
+comparables from the final set of comparables claiming that these comparables
+are functionally dissimilar:
+
+(i) Infosys Limited
+
+(ii) Wipro Technology Services Limited
+
+(iii) Acropetal Technologies Limited
+
+(iv) Sankya Infotech Limited
+
+(v) Sasken Communication Technologies Limited
+
+(vi) E-Infochips India Private Limited
+
+(vii) E-Zest Solutions Limited
+
+61\. We will now consider these comparables one by one.
+
+(i) INFOSYS LIMITED
+
+62\. At the very outset, INFOSYS cannot be considered as a good comparable in
+the case of the appellant company because its turnover  43 is over 1600 times
+more than that of the appellant's. Brand profits and owns significant
+intangibles. Moreover, it has significant expenditure on research &
+development for developing new products and innovative technology. It also
+incurs Significant advertisement and marketing expenditures resulting in non-
+routine marketing intangibles. It owns branded / proprietary products like
+Finacle, Infosys Actice Desk, Infosys iProwe, Infosys mConnect, thereby making
+it diversified product portfolio product company. This company has been
+rejected as a comparable in a series of judgments of the coordinate benches.
+In our considered opinion, INFOSYS Ltd does not make a good comparable and
+deserves to be excluded from the final set of comparables. We order
+accordingly.
+
+(II) WIPRO TECHNOLOGY SERVICES LTD [WTSL]
+
+63\. Wipro Technology Services Limited ('the Company') was incorporated on 15
+September 2004 as a subsidiary of Citicorp Banking Corporation. Pursuant to
+the share purchase agreement dated 21 January 2009, all the shares of the
+Company was purchased by Wipro Limited, which is the holding company of WTSL.
+The activities comprise software related support services, primarily
+information technology software solutions/maintenance and technology  44
+infrastructure support services. The company is currently engaged in providing
+software related support services, primarily information technology, software
+solutions/maintenance and technology infrastructure support services to
+Citigroup entities globally which is considered as one segment. Hence there
+are no separate reportable segments as required by Accounting Standard 17 on
+'Segment Reporting'. The transaction between WTS and Citi Group companies
+falls within the ambit of section 92B of the Act. Therefore, its earning is
+with a deemed AE and has related party transactions of 100% of sales. On the
+given facts of this case, it does not pass the RPT/sales filter of 25% applied
+by the TPO. This company was rejected as a comparable by the co-ordinate bench
+in the case of Saxo India Pvt. Ltd ITA No. 6148/DEL/2015.
+
+64\. The relevant findings of the co-ordinate bench read as under:
+
+> "Adverting to the facts of the instant case, we find that Wipro Technology
+> Services Ltd. earned a revenue from Master services agreement with Citigroup
+> Inc. for the delivery of technology infrastructure services. This agreement
+> was, in fact, executed between the assessee's AE, Wipro Ltd., and Citigroup
+> Inc., a third person. This unfolds that the transaction of earning revenue
+> from software development support and maintenance services by Wipro
+> Technology Services Ltd., is an international transaction because of the
+> application of section 92B(2) i.e.,  45 there exists a prior agreement in
+> relation to such transaction between Citigroup Inc. (third person) and Wipro
+> Ltd. (associated enterprise). In the light of this structure of transaction,
+> it ceases to be uncontrolled transaction and, hence, Wipro Technology
+> Services Ltd., disqualifies to become a comparable uncontrolled transaction
+> for the purposes of inclusion in the final list of comparables under Rule
+> 10B(1)(e)(ii). We, therefore, direct removal of this company from the list
+> of comparables."
+
+65\. Considering the functional profile of WTS in the light of observations
+made by the co-ordinate bench [supra], we direct for removal of this company
+from the final set of comparables.
+
+(iii) Acropetal Technologies Limited [ATL]
+
+66\. The TPO has applied an Employee Cost Filter, whereby the companies having
+employee cost less than 25% of their total cost have been excluded. The
+employee cost incurred by Acropetal Technologies Limited can be understood
+from the following chart:
+
+    
+    
+                     Particulars                 Amount
+                                                 (in 1NR)
+    
+    Selling and Marketing expenses
+    - Salaries                                  9,040,989
+    - Contribution to PF                         564,552
+    - Staff welfare expenses                     29,147
+                                        46
+    
+    
+    General administration expenses
+    - Salaries                                11,996,581
+    - Contribution to PF                       877,799
+    - Staff welfare expenses                   128,000
+    Software Development expenses
+    - Salaries                                135,160,463
+    - Contribution to PF                       3,851,751
+    - Staff welfare expenses                   1,395,789
+    Total Employee Cost                       163,045,071
+    Total Operating Cost                      1,065,696,7
+    Employee Cost ratio                           29
+                                                15.30%
+    
+    
+    
+    
+
+67\. We find that the DRP has simply confirmed the findings of the TPO by
+making an observation that the assessee has not been able to controvert
+detailed findings of the TPO in support of his decision on the comparables
+selected. In the light of the above factual chart, we do not find any merit in
+the observation of the DRP considering the fact that Acropetal Technologies
+Limited fails the filter test and deserves to be deleted. We order
+accordingly.
+
+(iv) Sankya Infotech Ltd
+
+68\. Profile of this company shows that it is engaged in the e learning
+activities and training solutions and is engaged in the development of
+simulation and virtual training products which are totally different  47 from
+the functions performed by the appellant company under the IT Infra Support
+Services Segment. On finding this dissimilarity in the functions, we do not
+find this company to be a good comparable. We direct for exclusion of Sankya
+Infotech Ltd from the final set of comparables.
+
+(v) Sasken Communication Technologies Limited
+
+69\. Profile of this company shows that it is engaged in rendering testing,
+satellite communication and other different services and is also engaged
+production of software products. This company has spent around 4.20% of its
+sales on marketing and advertisement expenses. This company is significantly
+engaged in Research and Development as is evident from Exhibit 1256 & 1259 of
+the PB. Sasken was not considered as a good comparable IT Infra Support
+Services Segment by the coordinate benches in the following cases:
+
+(i) Saxo India Private Limitged vs ACIT (ITA No. 6148/Del/2015)
+
+(ii) ION Trading India Pvt. Ltd. v/s ITO (ITA No. 1035/Del/2015)
+
+(iii) Tibco Software (India) P. Ltd. v/s DCIT (ITA No. 94/PN/2014)
+
+(iv) Motorola Solutions India Pvt. Ltd. v/s ACIT (48 Taxmann.com 248  48
+
+70\. Considering the dissimilarities in the light of findings of the
+coordinate benches, we direct for exclusion of Sasken Communication
+Technologies Limited from the final set of comparables.
+
+(vi) EINFOCHIPS INDIA PVT. LTD
+
+71\. Profile of this company shows that it is providing diversified services
+like application software; e-commerce; mobility; BI and visualisation;
+firmware and system software; board design; ASIC / SOC / FPGA Services;
+mechanical and industrial design. Segmental data is not available. Income
+statement of this company shows that the Revenue from soft ware development is
+around 74% of the total revenue and, therefore, fails to pass the service
+revenue filter. On this ground itself, this company deserves to be excluded
+from the final set of comparables.
+
+(vii). E-ZEST SOLUTIONS LTD
+
+72\. Annual report of E-Zest Solutions Pvt which is exhibited at pages 1364 to
+1442 of the paper books shows that it is engaged into diversified services
+like product engineering services / outsourced  49 product development
+services - Includes product designing and development product feature
+enhancement, product platform migration, software product testing, license
+management, Enterprise application development which includes customer
+relationship management, enterprise resource planning, business intelligence,
+knowledge management etc. IT service includes global onsite/ offshore software
+development, custom software development, software testing and Technology
+expertise - Includes technology competency centers in relation to Microsoft
+competency centre, Sun Java competency centre, Open Source competency centre,
+cloud computing practice, mobility practice and BI practice. Because of these
+highly diversified services, this company was not considered as a good
+comparable for IT Infra Support Services by various coordinate benches to name
+a few:
+
+(i) 3DPLM Software Solutions Limited [IT (TP) A No. 1303/Bang/2012]
+
+(ii) NXP Semi-conductors Pvt. Ltd. Vs. ACIT [IT(TP)A 1174/Bang/2011]
+
+(iii) Hewlett- Packard (India) Software Operation P. Ltd vs. ACIT [TS-
+
+446-ITAT-2015(Bang)TP]
+
+(iv) Financial Objects Software (India) Pvt Ltd Vs ITO [TS-292-ITAT-
+
+2015 (Bang)-TP]  50
+
+(v) Mindteck (India) Ltd Vs ITO [TS-251-ITAT-2015 (Bang)-TP]
+
+(vi) Symphony Services Pune (P) Ltd. v/s ITO ward 1(4), Pune [ITA No.
+257(PN)/2013]
+
+(vii) Mentor graphics India Pvt Ltd v DCIT [ITA no. 410/Del/2013)
+
+73\. Since this company is functionally dissimilar and has been rejected by
+the coordinate benches [supra] we direct for exclusion of this company from
+the final set of comparables.
+
+74\. In the light of specific directions in respect of the three segments as
+discussed hereinabove, we direct the AO /TPO to recomputed the PLI.
+
+75\. The next issue relates to economic adjustments on account of risk.
+
+76\. We find that the lower authorities have not provided economic adjustments
+on account of difference in risk profile of the appellant vis a vis comparable
+companies. We find that the assessee is a captive service provider which gets
+remunerated on cost plus model and hence insulated from key business risk,
+while the comparable companies  51 operate as entrepreneur and are subject to
+all the risks associated with conducting a business. We find that this claim
+was also accepted by the Tribunal in assessee's own case in A.Y 2004-05 and
+2005-06 in ITA Nos. 1476 & 1477/DEL/2015.
+
+77\. Relevant findings of the coordinate bench in ITA No. 1476/DEL/2015 reads
+as under:
+
+> "23. Regarding ground No.2 read with ground No.1.6, Ld. A.R. has contended
+> that TPO/DRP has erred in denying the adjustment of complete utilization as
+> well as risk adjustment while working on average matching of comparables.
+> Rule 10B(3) read with Rule 10B(1)(e) clarifies that appropriate adjustment
+> should be made to eliminate material effect of difference between the
+> international transaction and the comparable transaction to establish
+> comparability. DRP in para 8.2.6 of the impugned order written its findings
+> for denying the capital utilization adjustment as well as risk adjustment,
+> which are as under:
+
+> "8.2.6 With regard to the issue of adjustment sought on account of risk and
+> idle capacity utilization, having gone through the taxpayer's submission and
+> considering the facts and evidences on records and case laws relied upon
+> both by the TPO and taxpayer in this regard, this DRP agrees that for the
+> purpose of meaningful comparison, Transfer Pricing  52 provisions do
+> prescribe that the "reasonable and accurate adjustments" be made only for
+> the enhance comparability.
+
+> But at the same time such data must be reliable and robust and there should
+> be no scope for mechanical adjustments.
+
+The Panel has carefully considered the facts of the case and the submissions
+of the taxpayer. As per Rule 10B(2) and 10B(3) of Income Tax Rules, 1962,
+Indian transfer pricing provisions prescribe only for "reasonable accurate
+adjustment" and further adjustment to the margins of comparables can be made
+only if they enhance comparability. But at the same time the data for the same
+must be relevant reliable and. robust. Risk adjustment as a general rule
+cannot be allowed unless it is clearly shown that the comparables had actually
+undertaken such risk and how the same materially affected their margins. The
+revised OECD guidelines of.2010 has also stated. in para 3.54 as under:-
+
+"Ensuring the needed level of transparency of comparability adjustments may
+depend upon the availability of an explanation of any adjustments performed
+the reasons for the adjustments being considered appropriate how they were
+calculated how they changed the results for each comparable and how the
+adjustment improves 12 ITA No.1476/Del/2015 comparability. Issues regarding
+documentation of comparability adjustments are discussed in Chapter V."  53
+Even the various judicial decisions on the issue of adjustments and even OECD
+guidelines, impresses upon time and again that the adjustment should be
+"reasonable accurate adjustment".
+
+From the above guidelines, it can be seen that unless it is shown that how the
+risk adjustment would change the result of each comparable and how the same
+would improve the comparability and unless adequate reasons are given for such
+adjustments, no adjustment can be allowed to the taxpayer. In the present
+case, except pointing out various risks, the taxpayer has not shown with
+evidence as to whether each of the risk was actually undertaken or not by the
+comparables and if so how these risks affected each of them and whether such
+adjustment would improve the comparability. Further in respect of comparables
+no data is 'made available to show at what capacity they are operating at and
+what is the average strength of the employees on account of which capacity
+adjustment should be carried out to improve the comparability analysis.
+Mechanical adjustment cannot be made to the margins of the comparables without
+knowing which risks were taken by the entity concerned and how its
+profitability was affected. Probability of risk and certainty of risk are two
+different aspects and cannot be equated for the purpose of adjustments. The
+significant of risk depends on its economic significance, likelihood of its
+realization and "predictability. All" these requires robust and reliable  54
+data, both for the taxpayer" and the comparables in the absence of which risk
+and capacity adjustments cannot be considered for enhancing comparability.
+
+24\. Bare perusal of the findings returned by TPO/DRP reproduced above denying
+the benefit of capital utilization adjustment and risk adjustment goes to
+prove that the objection raised by the tax payer having been mechanically
+disposed off without returning the specific findings as to how and under what
+circumstances, the data brought on record is not reliable or robust. TPO/DRP
+has neither declared the data brought on record by the taxpayer as 13 ITA
+No.1476/Del/2015 unreliable nor they have injected fresh data to assess the
+capital utilization adjustment and risk adjustment as claimed by the taxpayer.
+A perusal of the discussion made by DRP regarding disallowance of utilization
+adjustment and risk adjustment in para 8.2.6 further goes to prove that merely
+academic reasons have been given to disallow the same. Case law relied upon by
+the DRP is not applicable to the facts and circumstances of the case when
+examined in the light of data brought on record by the taxpayer to decide the
+issue in controversy. So, findings of DRP/TPO on this issue are liable to be
+reversed. Consequently, Ground No.2 read with Ground No.1.6 are determined in
+favour of the appellant for statistical purposes and the file is ordered to be
+restored to the TPO to decide the matter afresh by passing speaking order
+after providing opportunity of being heard to the parties."
+
+55
+
+78\. Respectfully following the findings of the coordinate bench, we direct
+accordingly.
+
+79\. Last issue relates to adjustment on account of receivables.
+
+80\. This issue was decided in favour of the assessee and against the Revenue
+by the coordinate bench in the assessee's own case for A.Y 2010-11 in ITA No.
+1478/DEL/2015 and order of the Tribunal was upheld by the Hon'ble High Court
+and Hon'ble Supreme Court in CA No. 4956 of 2017. In A.Y 2010-11, the
+coordinate bench ash given specific findings that the assessee is debt free
+company and it is not justifiable to presume that the borrowed funds have been
+utilised to pass on the facility to its AEs. Respectfully following the
+findings of the coordinate bench, we direct for deletion of adjustment on
+account of receivables.
+
+81\. In the result, the appeal filed by the assessee is allowed.
+
+Order pronounced in the open court on 20th August, 2018.
+
+    
+    
+               Sd/-                                            Sd/-
+    
+    
+      [SUCHITRA KAMBLE]                                [N.K. BILLAIYA]
+       JUDICIAL MEMBER                               ACCOUNTANT MEMBER
+    
+    Dated: 20th August, 2018
+                                     56
+    
+    VL/
+    
+    
+    Copy forwarded to:
+    
+    
+    
+    1.    Appellant
+    2.    Respondent
+    3.    CIT
+    4.    CIT(A)
+    5.    DR
+                                               Asst. Registrar,
+                                               ITAT, New Delhi
+    
+    
+    
+    
+    Date of dictation
+    
+
+Date on which the typed draft is placed before the dictating Member Date on
+which the typed draft is placed before the Other Member Date on which the
+approved draft comes to the Sr.PS/PS Date on which the fair order is placed
+before the Dictating Member for pronouncement Date on which the fair order
+comes back to the Sr.PS/PS Date on which the final order is uploaded on the
+website of ITAT Date on which the file goes to the Bench Clerk Date on which
+the file goes to the Head Clerk The date on which the file goes to the
+Assistant Registrar for signature on the order Date of dispatch of the Order
+

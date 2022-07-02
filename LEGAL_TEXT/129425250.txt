@@ -1,0 +1,339 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Rallison Electricals P. Ltd., New ... vs Dcit, Circle-21(1), New Delhi on 18
+June, 2018
+
+    
+    
+             IN THE INCOME TAX APPELLATE TRIBUNAL
+                  DELHI BENCH: 'I-1' NEW DELHI
+    
+           BEFORE SHRI R.S. SYAL, ACCOUNTANT MEMBER
+                                   &
+          SHRI K.NARASIMHA CHARY, JUDICIAL MEMBER
+    
+    
+                          ITA Nos.-2538/Del/2017
+                        (Assessment Year: 2012-13)
+    
+    H & S Software                     vs    DCIT, Circle 11(1),
+    Development and                          New Delhi.
+    Knowledge Management
+    Centre Pvt. Ltd. MVLi
+    Park Unit No 201 & 502,
+    5th Floor, Near Red Cross
+    Society, Sector 15, Part-
+    II, Gurgaon 122001
+    AABCH2697E
+    
+     Assessee by               Sh. Manoneet Dalal, Advocate,
+                               &
+                               Sh. Arvinder Singh, CA
+     Revenue by                Sh. Sanjay I. Bara, DR
+    
+                    Date of Hearing                 18.06.2018
+                 Date of Pronouncement                .06.2018
+    
+                                            ORDER
+    
+
+PER K. NARASIMHA CHARY, J.M.
+
+Challenging the order dated 13/11/2016, passed by the learned dispute
+resolution panel-1, New Delhi in objection No. 210, dated 21-04- 2016,
+assessee preferred this appeal.
+
+2
+
+ITA No. 2538/Del/2017
+
+2\. Brief facts of the case as could be culled out from the record are that
+the assessee, namely, M/s. H & S Software Development and Knowledge Management
+Private Limited had established its business in the year 2003 and out of the
+total issued, subscribed and paid-up share capital as on 31/03/2010, all the
+shares except one was held by H&S Inc (HSI) and one share was held by H&S
+international Inc. The company has been engaged in the business of back-office
+functions relating to software development and maintenance database support
+and information research services. It performs the back-office functions
+related to creation and maintenance of database of prospective employers and
+candidates who have sent their resumes to Heidrick & Struggles group. This
+database is @Search Palace@, Heidrick & Struggles group's proprietary software
+tool, used to perform all of Heidrick & Struggles group's services. HSI is the
+owner of the intangibles associated with the "Search Palace". It is also
+responsible for maintaining and developing this software and other related
+tools. Thus, the activities of assessee are limited to HIS's intangible
+creation and maintenance activities, especially as it applies to the software
+tools.
+
+3\. For the assessment year 2012-13 the assessee filed their return of income
+on 19/11/2012 declaring a total income of Rs. 2, 55, 91, 570/-. In view of the
+International transactions undertaken by the assessee with its Associated
+Enterprises (AEs), Ld. AO referred the determination of Arms Length Price in
+respect of international transaction, to the Ld. TPO. Ld. TPO found the major
+international transactions of the assessee is in respect of provision of back-
+office support to its AEs, thereby classified the assessee as one providing IT
+Enabled Services to its CIA's sense the main task of assessee is to provide
+back-office support to a "Search Palace"
+
+3
+
+ITA No. 2538/Del/2017 database that contains the details of the resumes of
+prospective employers and candidates and AE uses this databasse for its main
+business of providing placement services.
+
+4\. Assessee benchmarked international transaction relating to this ITES using
+TNMM as the Most Appropriate Method with the ROTC as PLI. In the TP study, the
+tested party margin was computed at 14.15% and the assessee had taken the
+average ROTC margin which is 11.92% of Seven comparable companies using
+multiple year data. Ld. TPO accepted three of the comparables chosen by the
+assessee, namely, JINDAL Intelli Ltd, Calibre Point Business Solutions and R
+Systems International Ltd and rejected the other four comparables. Ld. TPO
+also conducted afresh search and finally prepared the set of comparables with
+fourteen companies which includes the comparable companies, namely, Eclerx
+Services Ltd., Infosys BPO Ltd and a TCS E serve Ltd. Finally Ld. TPO made an
+adjustment of Rs. 1, 55, 13, 273/-, basing on which Ld. AO made similar
+addition.
+
+5\. Assessee filed objections before the Ld. DRP, challenging the inclusion of
+several companies by Ld. TPO but the major thrust of the assessee's challenge
+is against the inclusion of three companies, namely Eclerx Services Ltd., TCS
+E serve Ltd and Infosys BPO Ltd on the ground of functionality similarity and
+non-comparability.
+
+6\. Assessee also contended that Eclerx Services Ltd. is functionally not
+comparable because of the software development and engineering design services
+undertaken by Eclerx Services Ltd., extraordinary events resulting in abnormal
+margins, unreliable data and that this company was rejected in  4 ITA No.
+2538/Del/2017 several judicial rulings and also by the Ld. DRP in assessee's
+own case in the assessment year 2010-11.
+
+7\. Assessee further contended that Eclerx Services Ltd. not a good comparable
+because of its size and presence of brand value. In respect of Infosys BPO Ltd
+assessee contended that this company had high advertising and marketing
+expense, high turnover and is possessing huse brand value. Further in respect
+of Eclerx Services Ltd. and Infosys BPO Ltd there are extraordinary events
+rendering these two companies non comparable with the assessee.
+
+8\. In respect of Eclerx Services Ltd. DRP found that the taxpayer had not
+discharging the onus to demonstrate or produce evidence to show how the R&D
+and the IP/intangibles ownership impacted the profit margins and how it can
+arithmetically become the basis for adjustments. Ld. DRP, therefore, held that
+the analysis IPR owned by the taxpayers may not impact the profit margins,
+because brand building comes at a cost hence the significant marketing and
+selling expenses, but it does not derive revenues or impact PLI.
+
+9\. Ld. DRP, therefore, held that a brand may generate sales but may not
+impact profitability since expenses incurred to build the brand may impact
+margins, and there is no definite correlation between brand and margins and
+much depends on facts of each case. Ld. DRP further recorded that if a PLI
+like OP/capital employed had been used for compatibility then DS that
+intensity of the taxpayer vis-a viz comparables would be relevant.
+
+10\. In respect of TCS EE server, Ld. DRP observed that as per the annual
+report the 10% decline that was there in profit after tax, is explained on  5
+ITA No. 2538/Del/2017 account of expiry of tax holiday under section 10 A of
+the Act. Further one of the key issues when analysing transfer prices is to
+the final comparability analysis after matching the functional profile
+carefully and however the marginal differences in assets (intangibles) owned
+or risk borne and their impact on margins earned as a result when functions
+performed are the same are similar, and it has not been effectively
+demonstrated by the taxpayer. Further the taxpayer has expenditure on brand
+building of 3.67 crores which is only 0.21% of total revenue.
+
+11\. In respect of Infosys BPO Ltd, Ld. DRP observed that in the case of Tata
+Elixi carrying the same Tata brand name as a TCS E Serve Ltd. the comparable,
+but, Tata Elixi has much lower margins. Similarly Infosys BPO with a profit
+margin of 17.86% which is less than the average of comparables shows no
+correlation of profit margin with the brand the assets owned by the comparable
+have no bearing on its PLI which is OP/TC under TNMM.
+
+12\. By observing so Ld. DRP refused to delete these three companies from the
+list of comparables. Hence challenging the same the assessee preferred this
+appeal.
+
+13\. At the outset, it is the submission of the Ld. AR that in assesse's own
+case per the earlier years these three companies were considered and held to
+be non-comparables. The profile of the assessee and the comparables being
+similar for all these years, it is but just and proper to follow the same and
+to remove such companies from the finalist of comparables. He brought to our
+notice the orders of the tribunal in assessee's own case for the assessment
+years 2007-08 to 2011-12 in ITA  6 ITA No. 2538/Del/2017 numbers
+6455/del/2012, 436/del/2013, 2200/del/2014 and 204/del/2016 respectively
+wherein these three companies were dealt with. Now we shall proceed further to
+deal with the aspect of comparability and the desirability of retaining or
+deleting these 3 companies from the finalist of comparables.
+
+14\. It is the submission of the Ld. AR that Eclerx Services Ltd. is a leading
+Knowledge Process Outsourcing (KPO) company providing data analytics and data
+processing solutions to some of the largest brands in the world. Further under
+sales and marketing services, Eclerx Services Ltd. provides web content
+management and merchandising execution, Web analytics, social media moderation
+and analytics, search engine analytics and support, CRM platform support, lead
+generation, customer data management, supply chain and channel analytics,
+price and catalogue competitive intelligence and broader data collections,
+cleansing, enriching and reporting. It's very evident that these services are
+a mix of research, advise and operation management.
+
+15\. It is further submitted that during the year Eclerx Services Ltd. has
+acquired the entire shareholding of Agilyst Inc, a closely held US-based
+company, providing operations and data analysis support to some of the largest
+cable and telecommunication companies in the world, through its overseas
+subsidiary Eclerx investment Ltd. The acquisition adds delivery capability of
+Eclerx Services Ltd. and also adds additional 1000 people.
+
+16\. This company is dealt in assessee's own case for all assessment years
+between 2007-08 and 2011-12. We are carefully gone through the order dated
+18/01/2017 in ITA No. 6455/del/2012 in assessee's own case wherein vide
+paragraph numbers 23 to 27 a Coordinate Bench of this tribunal,  7 ITA No.
+2538/Del/2017 having gone through the profile of this company and also the
+assessee, considered the issue in the light of the decision of a coordinate
+bench in Copal Research India Private Limited (ITA No. 1713/del/2014), and
+reached a conclusion that there are functional dissimilarities between the
+Eclerx Services Ltd. and the assessee.
+
+17\. Eclerx Services Ltd. is held to be a knowledge process outsourcing
+company engaged in providing consulting services, process outsourcing, process
+re-engineering and automation services which renders this company not
+comparability assessee. Similarly this company was compared considered in
+assessee's own case for a subsequent years also and the consistent finding of
+the tribunal is that Eclerx Services Ltd. is not a good comparable with the
+assessee.
+
+18\. Insofar as TCS E Serve Ltd. is concerned, it is submitted that the
+operations of this company are broadly comprising of delivering core business
+process services, analytics and insights (KPO) and support services for both
+data and voice processes. The risk profile, nature of services revenues,
+ownership of branded or proprietary products and the expenditure on brand
+building are all dissimilar to that of the assessee and this company is not a
+good comparable.
+
+19\. Ld. AR submitted that TCS is a part of eminent Tata group and receives
+support from it in terms of its large-scale operations and clientele. During
+the year TCS E Serve Ltd. has paid Rs. 4.53 crores to Tata sons Ltd as Tata
+brand equity contribution. This fact is evident from the contents of page
+numbers 346, 359 and 388 of the Peperbook. Further, Ld. AR demonstrated before
+us that there is a change in the profitability of this  8 ITA No.
+2538/Del/2017 company between the years 2007-8 and 2010-11 which was 31.76%,
+10.05%, 67.58% and 76.82% respectively. The sales turnover of TCS E Serve
+Ltd.'s 85.13 times more than the assessee.
+
+20\. Ld. AR submitted that this company was considered by a coordinate bench
+of this tribunal in assessee's own case for the assessment years 2010- 11 and
+2011-12 in ITA numbers 5 and 6/del/2015 and ITA No. 204/del/2016 respectively.
+Copies of the orders are produced before us.
+
+21\. We have gone through the orders of the Coordinate Bench of this Tribunal
+relied upon by the Ld. AR. Vide paragraph numbers 17 to 21 in ITA No.
+516/del/2015 a Coordinate Bench of this tribunal dealt with the question of
+comparability of this company with the assessee, in the light of the decision
+of this tribunal in Ameri India Private Limited in ITA No. 70 14/del/2014 for
+the assessment year 2010-11 and reached a conclusion that the TCS E Serve Ltd.
+is not a valid comparable qua the assessee, which is into providing back-
+office services relating to maintenance and data base working on a minimal
+risk having meagre turnover of Rs. 14.15 crores. Similar was the finding
+further other AY also.
+
+22\. Now turning to Infosys BPO Ltd, it is the submission of the Ld. AR that
+the revenue of Infosys BPO is abnormally higher than the industry average, the
+turnover of Infosys BPO is Rs. 1, 312 crores as compared to the assessee's
+turnover of Rs. 18.53 crores. Because of diverse and larger nature of
+operations Infosys BPO can leverage its resources and has better economies of
+scale as compared to the assessee which does not have the similar advantages
+as Infosys. Adverting to the risk profile, nature of services, revenue,
+presence of brand and advertisement expenses of Infosys  9 ITA No.
+2538/Del/2017 BPO vis-a viz the assessee, Ld. AR submitted that the Infosys
+BPO possesses brand value which tends to influence the pricing policy and
+thereby directly impacting the margins allied by the Infosys BPO, during the
+year under consideration, Infosys BPO acquired an Australian-based company
+that is M/s. Portland Group Pty Ltd and the Ld. TPO had completely ignored the
+establish an industry report and economic rationale in using an upper limit.
+It is the further submission of the Ld. AR that the assessee cannot be
+compared to the Infosys BPO either in terms of economics of scale or in terms
+of the revenues generated.
+
+23\. Ld. AR further submitted that the compatibility of this company with the
+assessee was considered by a coordinate bench of this tribunal in assessee's
+own cases for the assessment years 2007-08 and 2008-09 in ITA numbers
+6455/del/2012 and 436/del/2013 respectively.
+
+24\. We have gone through the findings of the coordinate bench of this
+tribunal in the above cases. Vide paragraph No. 33 to 34, the Coordinate Bench
+of this tribunal considered the compatibility of this company with the
+assessee and having considered the decisions in Calibrated Healthcare Systems
+India Private Limited in ITA 5271/del/2012 and the judgement of the Hon'ble
+jurisdictional High Court in CIT versus Agnity India Technologies Private
+Limited 219 Taxman 26 (Delhi), the Tribunal reached a conclusion that the
+assessee does not have any substantial intangible assets and the assessee is
+not undertaking any Research Development activity whereas Infosys BPO has
+large and substantial research government Centre. It was further found that
+the assessee is a minimal risk taking company whereas Infosys BPO is a full-
+fledged risk-taking company  10 ITA No. 2538/Del/2017 having diversified
+businesses. Further Infosys BPO is a giant company and cannot be a valid
+comparable with the assessee company. By recording these reasons, the Tribunal
+deleted the Infosys BPO Ltd from the list of comparables.
+
+25\. Argument of the Ld. DR in respect of all the three companies is a similar
+one. According to him the subtle difference between BPO and KPO is
+insignificant insofar as the companies are involved in the back office
+services or operations. According to him since the assessee is also engaged in
+the back office operations and services, Eclerx Services Ltd. TCS E Serve Ltd.
+and Infosys BPO Ltd which are performing similar back-office functions are
+good comparables.
+
+26\. On a perusal of the profile of the assessee as well as the three
+comparables, namely, Eclerx Services Ltd., TCS E Serve Ltd. and the Infosys
+BPO Ltd as could be seen from the order of the Ld. TPO and the annual report
+of the comparable companies, incorporated in the Paper book, we are of the
+considered opinion that the FAR profile of these companies fairly remained the
+same all over the years. Further there is no denial of the fact that the
+Eclerx Services Ltd. and Infosys BPO Ltd had many acquisitions in the year
+under consideration which impacted the margins. For these reasons, the
+findings of the coordinate bench of this tribunal in assessee's own case in
+respect of the assessee as well as the comparable companies are fairly
+applicable to the facts of this year also. Facts being similar, while
+respectfully following the findings of the Tribunal in assessee's own case for
+the earlier assessment years, we find that these three companies, namely,
+Eclerx Services Ltd., TCS E Serve Ltd., and  11 ITA No. 2538/Del/2017 Infosys
+BPO Ltd are not valid and good comparables with the assessee. We, therefore,
+direct the Ld. TPO to delete these three companies from the final list of
+comparables for benchmarking the international transaction of IT Enabled
+Services of the assessee.
+
+27\. The appeal of the assessee is accordingly allowed.
+
+    
+    
+    Order pronounced in the open court on                  June, 2018
+    
+    
+    
+         (R.S. SYAL)                               (K. NARSIMHA CHARY)
+    ACCOUNTANT MEMBER                                 JUDICIAL MEMBER
+    Dated:   .06.2018
+    
+    
+    Copy forwarded to:
+    1.  Appellant
+    2.  Respondent
+    3.  CIT
+    4.  CIT(Appeals)
+    5.  DR: ITAT
+                               TRUE COPY
+    
+                                                       ASSISTANT REGISTRAR
+                                                             ITAT NEW DELHI
+    
+    Draft dictated on
+    Draft placed before author
+    Draft proposed & placed before the second member
+    Draft discussed/approved by Second Member.
+    Approved Draft comes to the Sr.PS/PS
+    Kept for pronouncement on
+    File sent to the Bench Clerk
+    Date on which file goes to the AR
+    Date on which file goes to the Head Clerk.
+    Date of dispatch of Order.
+     
+

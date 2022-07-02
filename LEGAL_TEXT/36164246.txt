@@ -1,0 +1,1067 @@
+
+
+Competition Commission of India
+
+Hpcl-Mittal Pipelines Limited ... vs Gujarat Energy Transmission ... on 31
+January, 2018
+
+    
+    
+                                 COMPETITION COMMISSION OF INDIA
+                                         Case No. 39 of 2017
+    
+                In Re:
+    
+                HPCL-Mittal Pipelines Limited ('HMPL')                       Informant
+    
+                And
+    
+                Gujarat Energy Transmission Corporation Limited   Opposite Party No. 1
+    
+                State Load Dispatch Centre, GETCO, Gujarat        Opposite Party No. 2
+    
+                Paschim Gujarat Vij Company Limited ('PGVCL')     Opposite Party No. 3
+    
+                CORAM
+    
+                Mr. Devender Kumar Sikri
+                Chairperson
+    
+                Mr. S.L. Bunker
+                Member
+    
+                Mr. Sudhir Mital
+                Member
+    
+                Mr. Augustine Peter
+                Member
+    
+                Mr. U.C. Nahta
+                Member
+    
+                Appearance:
+    
+                For Informant:                 Shri Ramji Srinivasan, Sr. Advocate
+                                               Shri Kartik Nayar, Advocate
+                                               Ms. Kanika Chaudhary Nayar, Advocate
+                                               Shri Rishab Kumar, Advocate
+                                               Shri Sarthak Malhotra, Advocate
+                                               Shri Rudresh Pratap Singh, Advocate
+                                               Ms. Modhulika Bose, Advocate
+    
+    
+    
+    Case No. 39 of 2017                                                   Page 1 of 33
+                                                       Shri Tushar Bhardwaj, Advocate
+                                                      Shri Rajiv Khanna, AGM Legal, HMPL
+                                                      Shri Ramesh Kumar Rojasara, Manager
+                                                      (Tech), HMPL
+    
+                For OP-1                              Ms. Ranjitha Ramachandran, Advocate
+    
+                For OP-2                              Ms. Ranjitha Ramachandran, Advocate
+                                                      Shri N.N. Sheikh, Executive Engineer,
+                                                      SLDC
+    
+                For OP-3                              Ms. Swapna Seshadri, Advocate
+    
+    
+                            Order under Section 26(1) of the Competition Act, 2002
+    
+    
+                1.
+
+HPCL-Mittal Pipelines Limited ('HMPL') (hereinafter, the 'Informant'/'IP')
+filed the present information, under Section 19(1)(a) of the Competition Act,
+2002 (hereinafter, the 'Act') against Gujarat Energy Transmission Corporation
+Limited (hereinafter, the 'GETCO'/ 'OP-1'), State Load Dispatch Centre, GETCO
+Gujarat (hereinafter, the 'GETCO-SLDC'/ 'OP- 2'), and Paschim Gujarat Vij
+Company Limited (hereinafter, the 'PGVCL' / 'OP-3') alleging, inter alia,
+contravention of the provisions of Section 4 of the Act.
+
+2\. The Informant is stated to be a wholly owned subsidiary of Hindustan
+Mittal Energy Limited (hereinafter as 'HMEL'). HMEL is a joint venture between
+Hindustan Petroleum Corporation Limited (HPCL) and Mittal Energy Limited. HMPL
+operates the business related to crude oil receipt, its storage and cross-
+country transportation and is primarily responsible for the Mundra Bathinda
+Pipeline that transports crude oil from Mundra, Gujarat to HMEL's Guru Gobind
+Singh Refinery at Bathinda, Punjab. It is submitted that HMPL is an industrial
+consumer of electricity with a contract demand of 6.7 MW and is currently
+being supplied with the same by OP-3, i.e. PGVCL.
+
+Case No. 39 of 2017 Page 2 of 33
+
+3\. OP-1 is an electrical power transmission company in the State of Gujarat,
+India, setup in May, 1999 and incorporated under the Companies Act, 1956. As
+per the Gujarat Electricity Grid Code, 2013, OP-1 is recognized as the State
+Transmission Utility (STU). OP-2, GETCO-SLDC, a wholly owned subsidiary of
+OP-1, is a statutory body constituted under Section 31(1) read with Section
+31(2) of Electricity Act, 2003 and is involved in generation scheduling,
+monitoring real-time power system network, managing line and unit outages and
+assets of OP-1.
+
+4\. OP-3, incorporated on 15.09.2003, is one of the 4 electricity
+'Distribution Licensees' as defined under Section 2(17), Electricity Act, 2003
+in the State of Gujarat, which came into existence subsequent to the
+unbundling of electricity segment into three segments, viz. generation,
+transmission and distribution, which were earlier performed by the erstwhile
+Gujarat Electricity Board ('GEB'). OP-3 is involved in electricity
+distribution and retail supply in the western part of the State of Gujarat.
+
+5\. The Informant states that electricity is a subject that falls under the
+Concurrent List of the Indian Constitution, which enables the Central as well
+as the State Government to enjoy co-extensive regulatory domain over it. The
+Informant has highlighted various historic developments in the electricity
+sector, including the provisions of the Electricity Act, 2003 (hereinafter
+'EA03') to contend that EA03 was designed to infuse competition in the sector.
+Various attempts have been made in the past at the central as well as the
+state level to bring competition in various segments of the electricity value
+chain-- comprising of Generation, Transmission, Distribution and Retail
+Supply.
+
+6\. Under the new electricity regime of EA03, the sub-segments of electricity
+value chain were unbundled. Thermal power generation was kept license free to
+promote competition and private sector participation. Power trading was
+introduced as a licensed activity leading to the creation of power bourses
+Case No. 39 of 2017 Page 3 of 33 namely Indian Energy Exchange (IEX) and Power
+Exchange India Limited (PXIL). Further, open access was introduced in the
+transmission and distribution segment with the aim of creating an environment
+in which generators could sell the power generated to the highest bidder and
+consumers could buy power from the most economical source. The STUs were
+obliged to consider the open access requests of such generators and consumers
+to allow this framework to evolve.
+
+7\. The Informant has relied upon Section 2(47) of EA03, which defines Open
+Access as 'non-discriminatory provision for the use of transmission lines or
+distribution system or associated facilities with such lines or system by any
+licensee or consumer or a person engaged in generation in accordance with the
+regulations specified by the Appropriate Commission', to contend that the
+consumers should be able to choose among a large number of competing power
+companies (Generator/Distributor) instead of being forced to buy electricity
+from their existing distribution licensee. In particular, large consumers such
+as industrial units, who can avail regular supply should be given an option of
+choosing their electricity supplier at competitive rates. Thus, open access
+was designed to operationalise in phases in consideration that the
+distribution licensee in a particular area also needed assurance of adequate
+consumer demand. As per EA03, large users of power having connected demand
+load of 1 megawatt (MW) and above are eligible to apply for open access so
+that they are able to purchase cheaper power from a source other than the
+distribution licensee licensed to supply power to a particular geographic
+region, i.e. from the open market. The EA03 also empowers the CERC and State
+Electricity Regulatory Commissions to formulate their own open access
+regulations to regulate inter-state and intra-state open access, respectively.
+The Informant has cited Section 39(2) and Section 40 of the EA03, namely, to
+emphasize that the EA03 specifically identifies provisioning of open access as
+one of the functions as well as duty of the STU/transmission licensee.
+
+Case No. 39 of 2017 Page 4 of 33
+
+8\. It is submitted that in case of sourcing electricity through open access
+route, in addition to power purchase cost which is to be paid to the
+generator/ supplying entity, there are several other charges to be paid by
+open access consumers which include connectivity charges, Point of Connection
+(PoC) charges, Transmission Charges, Transmission Losses, Wheeling Charges and
+Losses, Cross Subsidy Surcharge, SLDC Charges, RLDC Charges etc. In case, the
+open access is sought by a large consumer from a source located within a
+particular state (intra-state), it is only possible after obtaining a
+permission/approval from the SLDC or an STU. In the State of Gujarat, intra-
+state open access is governed by the Gujarat Electricity Regulatory Commission
+(Terms and Conditions of Intra-state Open Access) Regulations, 2011
+(hereinafter, 'GERC Regulations'), under which the open access is categorised
+in the following three categories:
+
+a. Short Term Open Access ('STOA')- Open Access for a period upto one month at
+a time, but not exceeding a period of six months in a calendar year b. Medium
+Term Open Access ('MTOA')- Open Access allowed for a period of 3 months to 3
+years c. Long Term Open Access ('LTOA')- Open Access allowed for a period of
+12 years to 25 years.
+
+9\. Para 4 sub-para (1) of the GERC Regulations states that only consumers
+with a load demand of 4 MW and above may apply for open access. The Informant
+is an industrial consumer of electricity with a contract demand of 6.7 MW, and
+thus an eligible open access consumer, which is currently supplied by OP- 3,
+the distribution licensee in the area where the Informant is located. The
+Informant, being desirous of taking electricity through an alternative
+supplier (open access), sought permission of OP-2, on 12 different occasions
+between September, 2014 to September, 2016, but the same was incessantly
+denied the Case No. 39 of 2017 Page 5 of 33 same on the ground of 'upstream
+network/system constraint' on 10 occasions and for 'non-submission of
+undertaking' on 2 occasions.
+
+10\. The Informant has highlighted all the applications made to OP-2 and the
+response received from OP-2 on each occasion, which have been annexed with the
+information. Prior to applying for the open access permission, the Informant
+also sought approval for installation of necessary equipment for facilitating
+the same from OP-1, vide letter dated 26.03.2014, since the scheme of EA03 is
+such that the sub-station and route through which open access is to be allowed
+is identified by the STU. Thereafter, the decision to supply the power
+requirement as per HMPL's open access application through 220 KV Nanikhakar
+sub-station was taken by OP-1. In response to the Informant's request for
+installing necessary equipment at 220kv Nanikhakar sub-station, OP-1, vide
+letter dated 29.05.2014, conveyed that the Informant's request will not amount
+to seeking permission for open access, and for availing the same separate
+application would have to be made. Accordingly, the Informant submitted a
+fresh application (dated 17.06.2014) accompanied with requisite documents
+seeking NOC for availing open access (STOA). Vide letter dated 23.06.2014,
+OP-2 informed the Informant of the technical requirements and documentary
+formalities for establishing Radio link between Informant's plant premises and
+OP-1's nearest Remote Terminal Unit (RTU). This, as per the Informant was
+completed and OP-2 was informed of the same vide letter dated 03.07.2014. The
+Informant claims to have spent Rs. 11,76,152.40 in fulfilling the technical
+requirements. However, despite repeated applications for availing open access
+(STOA), the Informant had not received a favourable response.
+
+11\. It is submitted that since the initial application of the Informant
+seeking open access, OP-1 has been citing 'upstream network constraints' in
+the transmission line routed through the 220 KV Nanikhakar sub-station. It has
+been stated that similar denials for open access were also allegedly faced by
+Case No. 39 of 2017 Page 6 of 33 other industrial consumers, namely Adani
+Wilmar and HPCL. The Informant has alleged that the rejection of application
+on the ground of 'upstream network constraints' is misplaced when the
+Informant is currently using the same transmission lines to procure the
+contractually committed demand of 6.03 MW of power that has been approved from
+OP-3. That the application for NOC for STOA is being made for only 5 MW in the
+recent months which is lower than approved contractual demand of 6.7 MW with
+OP-3. The Informant submits that grant of STOA shall not in any manner put any
+pressure/ constraint on the said lines as the present accounted demand for the
+Informant is 6.7 MW. Thus, routing the same through open access will only
+change the source of power from OP-3 to IEX while the same transmission lines/
+network would be used for distribution of power. The Informant further submits
+that in case of open access power there would not be any change in loading of
+lines since the power supplied by OP-3 flows through the same transmission
+lines. Thus, such summary rejections by OP-2 could only be termed as unfair
+and suggest non-application of mind. It is further submitted that the said
+discrimination by OP-2 between regular power being procured from OP-3 and
+power that is sought to be availed through STOA, is contrary to the concept of
+open access introduced for promotion and maintenance of healthy competition in
+the market.
+
+12\. Further, the Informant claims that because of the anti-competitive
+conduct of the OPs, it has suffered a loss of INR 31.91 crore (for 101350.92
+MW of electricity consumed during the reference period) incurred towards
+purchasing of expensive power from OP-3 at an average cost of INR 8427.63/MW
+as opposed to the cost of purchasing open access electricity in Gujarat at INR
+5278.77/MW; apart from incurring installation cost for facilitating open
+access.
+
+Case No. 39 of 2017 Page 7 of 33
+
+13\. In the light of the aforesaid facts, the Informant has alleged
+contravention of the various provisions of Section 4 of the Act. It is alleged
+that arbitrary and consistent denial of open access by OP-2 has led to the
+contravention of Section 4(2)(a)(i) as the same amounts to imposition of
+unfair/arbitrary condition in the provision of services. It is further alleged
+that by denying open access permission to Informant and other similarly placed
+consumers/power generators, OP-2 (also OP-1) has limited and restricted
+production of electricity and the provision of supply of Open Access
+Electricity, in contravention of Section 4(2)(b)(i). The Informant has also
+alleged contravention of Section 4(2)(c) stating that consistent denials by
+OP- 2 has led to denial of market access to the Informant as well as other
+power generators who can supply to the Informant through open access. Lastly,
+it has been alleged that OP-1 has manipulated the downstream distribution
+market in favor of its sister-concern distribution facility (i.e. OP-3) by
+virtue of being a parent entity for OP-2 and thereby contravened the
+provisions of Section 4(2)(e) of the Act.
+
+14\. Based on these facts and allegations, the Informant has, inter alia,
+prayed for initiation of an investigation against the OPs under Section 26 (1)
+of the Act, appropriate directions such that STOA applications filed by the
+Informant are not rejected arbitrarily by OP-1 and OP-2 and imposition of
+penalty under the provisions of the Act.
+
+15\. The Commission considered the information in its ordinary meeting held on
+14.09.2017 and decided to call the parties for a preliminary conference on
+07.11.2017. On 31.10.2017, OP-2 filed its response to the information filed by
+the Informant. On 06.11.2017, the Informant filed an application seeking a
+short adjournment of the preliminary conference scheduled on 07.11.2017, which
+was allowed by the Commission and the preliminary conference was accordingly
+postponed to 22.11.2017. On the said date, the Informant as well Case No. 39
+of 2017 Page 8 of 33 as the Opposite Parties presented their oral submissions
+before the Commission, through their respective learned counsel.
+
+16\. During the preliminary conference, the learned senior counsel
+representing the Informant, Shri Ramji Srinivasan, reiterated the facts and
+allegations elucidated in the information. After providing the brief
+background facts of the case, Shri Srinivasan highlighted the conduct of the
+OPs that has led to anti-competitive effects in the market. It was stated that
+open access is an economic activity which allows competition to prosper in the
+electricity markets. As a consumer of electricity, eligible to apply for open
+access as per the law and regulations, the Informant should not be deprived of
+procuring electricity from an available cheaper source. However, the
+procedural roadblocks created by OP-2 has led to denial of open access.
+Responding to the claim made by OP-2, that open access has been allowed to
+many consumers, Shri Srinivasan contended that in such a case the
+investigation is even more required to ensure that the Informant has not been
+discriminated against others when its open access applications were denied by
+OP-2. Shri Srinivasan also argued that the open access requests of the
+Informant have been incessantly denied, despite there being available capacity
+during certain period e.g. February 2015, as per the submissions made by OP-2.
+
+17\. Further, it was submitted that OP-3 has already taken an undertaking from
+the Informant that if open access source does not work out during the period
+for which open access has been allowed, the Informant cannot approach OP-3 for
+electricity. Thus, the claims regarding universal obligation are without any
+basis. With regard to jurisdiction, it was submitted that the Commission has
+jurisdiction over all such matters/issues which have competition issues
+involved. It was argued that OP-2 has admitted, in its submissions, that it is
+a monopoly. Thus, considering the conflicting commercial interest and
+commonality of interest within OP-1, OP-2 and OP-3, the jurisdiction of the
+Commission is triggered. Shri Srinivasan also argued that the Informant does
+Case No. 39 of 2017 Page 9 of 33 not have a remedy under the EA03 as Section
+60 of the same is limited to issuance of directions by the Appropriate
+Commission to a licensee or a generating company if such licensee or
+generating company enters into any agreement or abuses its dominant position
+or enters into a combination which is likely to cause or causes an adverse
+effect on competition in the electricity industry. Since OP-2 is neither a
+licensee nor a generating company, Section 60 will not be applicable. Shri
+Srinivasan also relied upon Commission's previous orders in the electricity
+sector to reiterate Commission's jurisdiction in the matter.
+
+Reply/ Objections filed by OP-1 and OP-2
+
+18\. The learned counsel appearing for OP-1 and OP-2, Ms. Ranjitha
+Ramachandran, on the other hand, denied the allegations regarding anti-
+competitive conduct against OP-1 and OP-2. At the outset, it was submitted
+that OP-1 was notified as an STU vide notification dated 29.05.2004 and
+accordingly entrusted with the functions of an SLDC. Such exercise of
+functions by Government companies is consistent with the EA03 and there is no
+per se conflict in the discharge of functions of STU and SLDC by the same
+entity. The mere fact that OP-2 is a Government Company and can be called as a
+group company of OP-3, does not mean that OP-2 has acted in the commercial
+interests of OP-3, i.e. contrary to its statutory functions. OP-2 submits that
+the STOA application is processed by OP-2 and the role of OP-1 and OP-3 is
+limited in such process. The alleged monopoly by OP-1 in the transmission
+business of electricity in the State of Gujarat does not affect the decision
+on the grant of open access.
+
+19\. It was stated that the grant of open access is dependent upon the
+available transmission capacity which is determined in accordance with the
+GERC Regulations. Further, OP-1 has a virtual monopoly in the discharge of
+SLDC functions due to the scheme of EA03, but such dominant position of OP-1
+in Case No. 39 of 2017 Page 10 of 33 the transmission business cannot ipso
+facto be treated as an abuse of such position as the transmission charges and
+transmission losses are determined by the State Regulatory Commission.
+
+20\. Ms. Ramachandran raised a preliminary objection with respect to the
+jurisdiction of the Commission citing various provisions of the EA03. It was
+submitted that Section 33(5) of EA03 provides that any issue with regard to
+the grant and denial of open access, particularly with regard to constraints
+in the transmission system lays within the domain of the sector regulator,
+namely, the Gujarat Electricity Regulatory Commission (GERC) in the present
+case. In this regard, reliance was also placed upon the Judgment dated
+16.02.2017 passed by the Hon'ble Competition Appellate Tribunal in Appeal No.
+33 of 2016 of Anand Prakash Agarwal v. Dakshin Haryana Bijli Vitran Nigam
+Limited, wherein it was held that the Commission does not have jurisdiction on
+the matters pertaining to electricity tariff. It was further argued that
+although the said case pertained to electricity tariff, the issue of open
+access also falls within the jurisdiction of the Appropriate Commission, as
+stated under Section 60 of the EA03.
+
+21\. With regard to the allegation pertaining to denial of open access, it was
+submitted that open access is granted or denied on the basis of available
+transmission capacity which is calculated in terms of the GERC Regulations
+framed by the State Regulator. Regulation 43(1) of the said Regulations
+requires the STU to make the calculations with respect to the available
+transmission capacity on a quarterly basis and publish it on their website.
+OP- 1, in its role as an STU, has been regularly and consistently calculating
+the available capacity and publishing the same on its website. Further, OP-2
+has been determining the load flow on the system based on system study as per
+the Orders of the Gujarat Electricity Regulatory Commission (GERC) and the
+report is being uploaded on the website of OP-2 from March 2015 onwards.
+
+Case No. 39 of 2017 Page 11 of 33
+
+22\. Attention of the Commission was drawn to the table provided in the
+written submissions filed by OP-2 containing month-wise details of STOA
+granted to various consumers for the period September, 2014 to September,
+2017. Relying on the said table, it was argued that OP-2 has been allowing
+open access applications in a non-discriminatory manner in all cases where the
+conditions/requirements under the GERC Regulations allow for the same. It was
+submitted that rejection of Informant's open access application by OP-2 was
+based on transmission constraints in the upstream network. It was contended
+that the Informant's challenge to the said rejection is based only on the
+principle that there cannot be any transmission constraint since Informant is
+seeking to substitute consumption of power from the distribution licensee,
+i.e. OP-3, with the open access source. Countering the said contention, OP-2
+submitted that substitution of contract demand with STOA, as claimed by
+Informant, is not possible as the two possess distinct and separate
+characteristics and implications.
+
+23\. The supply by the distribution licensee under a contract demand is under
+the universal supply obligation and duty casted under Section 42 and 43 of the
+EA03. The distribution licensee has a 'priority status' over the power system,
+including transmission/distribution lines, to discharge such obligations and
+is placed at the highest pedestal by the State Commission as per the Statutory
+Regulations detailed therein. The distribution licensee contributes to the
+cost of establishment, upgradation etc. of the transmission and distribution
+system as against the short term or medium term open access customers who do
+not contribute to the capital cost of the transmission and distribution
+system. The distribution licensee has the facility to meet the contract demand
+of a consumer from any source and through any line, whereas the conveyance of
+the open access power is through a contract/designated path for which the
+access is granted. Moreover, OP-2 is bound by the GERC Regulations to compute
+availability of transmission capacity for allowing/disallowing open Case No.
+39 of 2017 Page 12 of 33 access applications and as such, the said Regulations
+do not permit for substitution or non-consideration of Contract Demand in the
+formula.
+
+24\. It was submitted that there is no reason to deny STOA to applicants if
+there is available capacity. At the same time, when there is a transmission
+constraint, OP-1 and OP-2 are not obligated to allow STOA. It is always open
+to the consumers to apply for LTOA and require OP-1 to upgrade the system as
+per the provision of Regulation 10 of the GERC Regulations. However, as the
+Informant has chosen not to apply for LTOA and, therefore, its request for
+open access is to be considered as per the existing capacity. While the
+distribution licensee and LTOA users contribute to the capital cost of the
+transmission line as well as for its upgradation, the short term open access
+users do not contribute towards its capital cost. Thus, owing to these
+peculiarities, the short term users will be given open access only for the
+margin available after meeting the requirements of distribution licensee and
+thereafter the long term users and subject to the priority of even the medium
+term users.
+
+25\. Out of the various rejections referred to by the Informant, some
+applications were rejected due to absence of consent from OP-3. Regulation 16
+of the GERC Regulations clearly provides that if an applicant seeking open
+access is connected with a distribution licensee, then the consent of that
+Distribution Licensee is required. As the Informant is connected to OP-3, the
+consent from OP-3 is required. The Informant has not challenged the non-grant
+of consent in those cases. The open access applications of Informant were
+rejected due to the transmission constraints and not due to any collusion with
+distribution companies such as OP-3 or any other entity.
+
+26\. The decision of OP-2 is taken in accordance with Regulation 43 dealing
+with the computation of capacity availability for open access. The constraints
+in the line are notified on website of OP-1. Further, the data pertaining to
+maximum Case No. 39 of 2017 Page 13 of 33 loading for the previous month, the
+month for which NOC was applied for has been furnished by OP-2 in its
+response.
+
+27\. It was highlighted that as per the allotment of priority under Regulation
+19 of the GERC Regulations, in case a person surrenders the contract demand or
+reduces the quantum of contract demand, the capacity so surrendered or reduced
+becomes surplus and is used for the requirements of other consumers of the
+Distribution Licensee. Under the GERC Regulations, the distribution licensee
+for retail supply of power has the highest priority. Even if it is assumed
+that there are no other consumers of the distribution licensee, the priority
+over the transmission capacity would be given to the LTOA first, then to MTOA
+consumers and lastly to STOA applicants.
+
+28\. Relying on these submissions, it was submitted that there has been no
+abuse of dominant position by OP-2 in denying the open access applications of
+the Informant, as the denial was purely based on transmission constraint. It
+was further submitted that even if the Commission reaches a conclusion that
+the transmission constraint cited by OP-2, while denying open access to the
+Informant, is found to be incorrect, the same cannot be held as abuse of
+dominant position but only an erroneous interpretation by it with regard to
+the available capacity.
+
+29\. Lastly, it was argued that the alleged harm claimed by the Informant is
+incorrect, as OP-2 had specifically informed the Informant that application
+seeking permission for installation of relevant equipment does not amount to
+seeking permission for open access. The Informant chose to install the
+necessary equipment before grant of open access. Further, the claim of average
+cost of electricity made by the Informant is also incorrect.
+
+Case No. 39 of 2017 Page 14 of 33
+
+Reply/ Objections filed by OP-3
+
+30\. The learned counsel appearing for OP-3, Ms. Swapna Seshadri, refuted all
+the allegations against OP-3 and vehemently argued that any electricity
+consumer on its network can opt for open access if the said consumer is
+eligible for open access as per the GERC Regulations. It was clarified that
+there is no system constraint in the distribution lines and OP-3 has never
+blocked/refused open- access to any applicant. The constraint, cited by OP-2,
+is with regard to the upstream network which is not within the realm or
+control of OP-3.
+
+31\. The Commission has examined the information available on record,
+including the submissions filed by the parties, and heard the oral submissions
+made by their respective learned counsels on 22.11.2017. The Informant is
+primarily aggrieved with the denial of open access and, consequently, the
+right to choose its electricity supplier which, according to the Informant, is
+guaranteed under EA03. This denial has been alleged to be an abusive exercise
+of the dominant position held by OP-2 in the relevant market, wherein open
+access applications made by the Informant have been persistently denied by
+OP-2. Contravention of various provisions of Section 4(2) of the Act have been
+cited by the Informant which will be dealt with in the ensuing paragraphs.
+
+32\. Before analysing the said allegations within the realm of the Act, it is
+pertinent to deal with the preliminary objection raised by OP-1 regarding
+maintainability of the present case on account of lack of Commission's
+jurisdiction to entertain the present matter, which, as per OP-1/OP-2, falls
+under the sole domain of the electricity regulator.
+
+33\. OP-2 has relied upon the judgment dated 16.02.2017 passed by the hon'ble
+erstwhile COMPAT in Appeal No. 33 of 2016 (Anand Prakash Agarwal v Dakshin
+Haryana Bijli Vitran Nigam Limited) to argue that the EA03 has its own system
+of addressing the issues of abuse of dominance and other Case No. 39 of 2017
+Page 15 of 33 consumer grievances. It is submitted that Section 60 of EA03
+authorises the Appropriate Commission to issue such directions as it considers
+appropriate to a licensee or a generating company, if it abuses its dominant
+position or enters into a combination which is likely to cause or causes an
+adverse effect on competition in the electricity industry. Further, vide the
+same order, the erstwhile COMPAT held that Sections 173 and 174 of EA03
+provide that the provisions of the EA03 'have an overriding effect except that
+such provisions or any rule or regulation made thereunder shall not have any
+effect insofar as these are inconsistent with the provisions of the Consumer
+Protection Act, 1986 or Atomic Energy Act, 1962 or the Railways Act, 1989. The
+legislature has not put the Competition Act amongst the Acts whose provisions
+were to prevail over the provision of the Electricity Act. Thus, in the case
+of a conflict between the provisions of the Electricity Act and the
+Competition Act, the former will override because Section 174 of the
+Electricity Act would get attracted and Section 175 of the Electricity Act
+will have to yield'. It is further argued that based on these observations the
+erstwhile COMPAT has concluded that there is an implied immunity from the
+Competition law in matters of electricity tariff approved by the Appropriate
+Commission in terms of EA03.
+
+34\. Relying on this judgment of the Hon'ble erstwhile COMPAT, OP-1/OP-2 has
+claimed that the Commission does not have jurisdiction to deal with the
+present matter and though the above decision was related to electricity
+tariff, the issue of open access also falls within the purview of the
+Appropriate Commission.
+
+35\. The Commission has perused the decision of the Hon'ble erstwhile COMPAT
+and heard the arguments advanced by the learned counsel for OP-1 and OP-2. To
+appreciate the objection raised by OP-1/OP-2, it is necessary to understand
+the background facts that led to the Hon'ble COMPAT's order in Anand Prakash
+Agarwal v Dakshin Haryana Bijli Vitran Nigam Limited case. Shri Case No. 39 of
+2017 Page 16 of 33 Anand Prakash Agarwal, the Informant in the said case, a
+consumer of electricity was taking electricity from Dakshin Haryana Bijli
+Vitran Nigam (DHBVN), who was one of the licensed supplier of electricity in
+the State of Haryana supplying power to the area in which Anand Prakash
+Agarwal was residing. It was alleged that DHBVN, being the sole supplier of
+electricity to the area where his residence was located, it was imposing
+unfair and discriminatory price upon consumers by charging Fuel and Power
+Purchase Cost Surcharge Adjustment ("FSA"), which was in the nature of
+uncontrollable cost incurred in the supply chain on account of variations in
+the input cost prices of fuel, as one of the components added to the price of
+electricity supplied. Further, it was alleged that DHBVN was charging higher
+FSA from the consumers whose consumption of electricity was higher and thereby
+allegedly directly imposing an unfair and discriminatory price upon consumers
+and cross subsidizing the FSA cost. Though the Commission agreed with the
+Informant with regard to the dominance of DHBVN in the relevant market, the
+Commission did not agree that differential pricing in that case constituted
+abuse of dominance in terms of Section 4 of the Act. The Commission prima
+facie found the classification to have economic justification based on market
+segmentation and the same was not held to be discriminatory. Further, the
+Commission categorically stated that the said case was one related to the
+functions discharged by the Electricity Distribution Company and the State
+Electricity Regulatory Commission (HERC) in respect of fixation of FSA and no
+competition issue was discernible from the facts presented. The relevant
+excerpts of the Commission's order in this regard are reproduced below:
+
+> "15. The issue highlighted by the Informant in the present case essentially
+> relates to the functions discharged by the Electricity Distribution Company
+> and the State Electricity Regulatory Commission in respect of fixation of
+> FSA; and no competition issue is discernible from the facts presented in the
+> information.[......]."
+
+Case No. 39 of 2017 Page 17 of 33
+
+36\. Thus, vide order dated 10.02.2016, the Commission closed the case under
+Section 26(2) of the Act. Shri Anand Prakash Agarwal, the Informant, preferred
+an appeal to the hon'ble erstwhile COMPAT against the order of the Commission.
+One of the issue framed by the erstwhile COMPAT for consideration was whether
+the Commission had the jurisdiction in the matter of alleged abuse of
+dominance arising from computation and levy of FSA which was approved by the
+HERC. While dealing with the said issue, the COMPAT held that the Commission
+did not have jurisdiction in the matter of alleged abuse of dominance arising
+from computation and levy of FSA which was approved by the HERC.
+
+37\. This has been relied upon by OP-1 and OP-2 in the present case to argue
+that the Commission does not have jurisdiction in the matter concerning
+electricity sector. The Commission is of the view that the interpretation
+suggested by the learned counsel of OP-1/OP-2 is not only flawed but also
+opposed to the basic tenets of statutory interpretation.
+
+38\. By relying on the non-obstante provisions in Section 174 and 175 of the
+EA03, the OPs have suggested that the operation of competition law is
+overridden by the said provisions.
+
+39\. At the outset, the Commission notes that the ruling of COMPAT, which has
+been relied upon by OP-1/OP-2, is not inconsistent with what was held by the
+Commission in its order dated 10.02.2016. The Commission did not assume its
+jurisdiction to decide the case pertaining to 'determination of tariffs' and
+'other essential functions discharged by the State Electricity Regulatory
+Commission' in respect of fixation of FSA. Rather, the Commission
+categorically acknowledged the domain of State Electricity Regulatory
+Commission to deal with such technical matters. The relevant excerpt
+reproduced below is relevant in this respect:
+
+Case No. 39 of 2017 Page 18 of 33
+
+> "15. [.......] Further, as noted earlier, OP-1 computes and levies FSA as
+> per the Regulations framed by OP-2. Any issue regarding non-compliance of
+> the Regulations would be thus, dealt with by OP-2. Any person aggrieved by
+> the decision of a State Electricity Regulatory Commission could also appeal
+> such decision before the Appellate Authority under the Electricity Act,
+> 2003."
+
+40\. Thus, there does not seem to be real or ostensible discrepancy in the
+view taken by the Commission and opinion expressed by the hon'ble erstwhile
+COMPAT in Anand Prakash Agarwal v Dakshin Haryana Bijli Vitran Nigam Limited
+case. Rather, the Commission unequivocally expressed its hesitation, in the
+said order dated 10.02.2016, in adjudicating on an issue that falls within the
+sole domain of the electricity regulator. The hon'ble erstwhile COMPAT
+reiterated the stand taken by the Commission while giving its conclusion on
+the issue of jurisdiction as is clear from the ratio of the said order,
+reproduced below:
+
+> 18.11 We are of the view that, there is an implied immunity from the
+> Competition law in matters of electricity tariff approved by the Appropriate
+> Commission in terms of the Electricity Act, 2003 and therefore, the
+> Appellant cannot seek any relief under the Competition Act.
+
+41\. The aforesaid ratio of the hon'ble erstwhile COMPAT clearly indicates
+that the said judgment was only with respect to matters pertaining to
+electricity tariff approved by the Appropriate Commission under the EA03.
+
+42\. Certainly, EA03 is a special legislation governing, inter-alia, matters
+pertaining to generation, transmission and supply of electricity. However, to
+argue that in all matters in the electricity industry EA03 would prevail over
+the provisions of the Act, because of the presence of a sectoral regulator,
+would go against the spirit of the said statute as well as against the purpose
+for which the Act was enforced. The Commission notes that various provisions
+of Case No. 39 of 2017 Page 19 of 33 EA03 and the policies made thereunder
+unequivocally expresses the intention of the legislature to promote
+competition. It is unconceivable that by inserting Section 174 and 175, the
+legislature had intended to oust the jurisdiction of the Commission. The OPs
+have specifically highlighted the provisions of Section 173 of EA03 which
+states that '[n]othing contained in this Act or any rule or regulation made
+thereunder or any instrument having effect by virtue of this Act, rule or
+regulation shall have effect in so far as it is inconsistent with any other
+provisions of the Consumer Protection Act, 1986 or the Atomic Energy Act, 1962
+or the Railways Act, 1989'. It has been argued that the fact that the
+legislature has not included the Act, i.e. Competition Act, 2002, along with
+Consumer Protection Act, 1986 or the Atomic Energy Act, 1962 or the Railways
+Act, 1989, shows that the intention was to give supremacy to EA03 over the
+provisions of the Act. To further substantiate this argument, OP- 1/OP-2 has
+argued that both EA03 and Competition Act, 2002 are special statutes and since
+EA03 was enforced on a later date, it will have an overriding effect.
+
+43\. The Commission finds these arguments opposed to the basic rules of
+statutory interpretation. The latin maxim of generalia specialibus non
+derogant suggests that where a general statute and a special statute relating
+to the same subject matter cannot be reconciled, the special statute
+ordinarily will prevail. And in case where a subject matter is covered by two
+statutes, both of which are special, the one enforced on a later date
+ordinarily prevails. However, these rules of statutory construction are not
+absolute in nature but merely indicate the statutory meaning that can be
+overcome by textual indications that point in the other direction. The first
+attempt, while resolving such conflicting provisions, should be aimed at
+giving effect to both the provisions so as to not render any of those
+redundant. This position has been reiterated by the Hon'ble Supreme Court in
+plethora of cases.
+
+Case No. 39 of 2017 Page 20 of 33
+
+44\. Where there is a conflict between any two special statutes, the
+constitutional bench of Hon'ble Supreme Court vide its judgment in Ashoka
+Marketing Limited v. Punjab National Bank [(1990) 4 SCC 406] has provided
+guidance. Relevant portions are extracted here:
+
+> "In other words, both the enactments, namely, the Rent Control Act and the
+> Public Premises Act, are special statutes in relation to the matters dealt
+> with therein. Since, the Public premises Act is a special statute and not a
+> general enactment the exception contained in the principle that a subsequent
+> general law cannot derogate from an earlier special law cannot be invoked
+> and in accordance with the principle that the later laws abrogate earlier
+> contrary laws, the Public Premises Act must prevail over the Rent Control
+> Act. We arrive at the same conclusion by applying the principle which is
+> followed for resolving a conflict between the provisions of two special
+> enactments made by the same legislature. We may in this context refer to
+> some of the cases which have come before this Court where the provisions of
+> two enactments made by the same legislature were found to be inconsistent
+> and each enactment was claimed to be a special enactment and had a non
+> obstante clause giving overriding effect to its provisions."
+
+45\. Relying on various other judgements, the Hon'ble Supreme Court held as
+under:
+
+> "The principle which emerges from these decisions is that in the case of
+> inconsistency between the provisions of two enactments, both of which can be
+> regarded as Special in nature, the conflict has to be resolved by reference
+> to the purpose and policy underlying the two enactments and the clear
+> intendment conveyed by the language of the relevant provisions therein. We
+> propose to consider this matter in the light of this principle."
+
+46\. Both, the EA03 and the Act, are special statutes. However, both have
+their designated spheres of operation. The former aims at regulating
+activities in the electricity industry and the latter aims at promoting
+competition in every sphere and sector of the economy. The jurisdiction of the
+Act extends to all Case No. 39 of 2017 Page 21 of 33 sectors of the economy
+and sectors regulated by sector specific laws such as telecommunication,
+electricity, petroleum, insurance etc. are also included within the ambit of
+the Act for the competition related matters/issues. To this extent there is no
+conflict as both these statutes have their respective and mutually exclusive
+regulatory regimes. This observation is in sync with the Commission's holding
+in many previous cases in the electricity sector and other regulated sectors.
+As observed by the Commission in Case No. 91 of 2014 (Open Access Users
+Association vs. Tata Power Delhi Distribution Limited & Ors.), the mandate of
+the Commission is to eliminate practices having adverse effect on competition,
+promote and sustain competition, protect the interests of consumers and ensure
+freedom of trade carried on by other participants, in markets in India.
+Sectoral regulators have necessary technical expertise to determine access,
+maintain standard, ensure safety and determine tariff. The issues relating to
+entry conditions, technical details, tariff, safety standards have direct
+control on prices, quantity and quality primarily seems to be within the
+exclusive ambit of sectoral regulators. Thus, sectoral regulators focus on the
+dynamics of specific sectors, whereas the Commission focuses on functioning of
+the markets by way of increasing efficiency through competition. In fact, the
+role played by the Commission and the sectoral regulators are complementary
+and supplementary to each other as they share the common objective of
+obtaining maximum benefit for the consumers.
+
+47\. Thus, the Commission is of the view that there is no issue of conflict in
+the present case between the provisions of EA03 and the provisions of the Act
+which cannot be reconciled adopting the harmonious construction. Though EA03
+is a special statute for the purposes of dealing with electricity matters, the
+Competition Act, 2002 is a special statute for regulating competition in the
+market. Just because there is a provision in EA03 suggesting that the
+Appropriate Commission may issue directions to a licensee or a generating
+company if such licensee or generating company enters into any agreement or
+Case No. 39 of 2017 Page 22 of 33 abuses its dominant position, does not mean
+that this provision in EA03 is a special provision. For any competition
+related matter, the Act is a special statute, being the market regulator
+mandated to promote and regulate competition in the market.
+
+48\. Further, it will not be out of context to highlight a recent case where
+the issue of jurisdiction of Competition Act vis-à-vis a sectoral regulator
+has recently been dealt with. In the matter of Telefonaktiebolaget LM Ericsson
+(Publ) vs. CCI [WP (C) NO. 464/ 2014 AND WP (C) NO. 1006/2014], the question
+of jurisdiction of CCI in matter related to abuse by an IPR holder was
+considered. The hon'ble Delhi High Court held that there is no irreconcilable
+repugnancy or conflict between the Competition Act and the Patents Act. In the
+absence of any irreconcilable conflict between the two legislations, the
+jurisdiction of CCI to entertain complaints for abuse of dominance in respect
+of Patent rights cannot be ousted.
+
+49\. Based on the aforesaid discussion, the Commission is of the considered
+view that, keeping in view the object and purpose underlying both the
+enactments viz., the EA03 and the Act (i.e. Competition Act, 2002), it does
+not appear that the provisions of the Act are in any way superseded by the
+EA03, in the context of the facts and allegations under consideration. The
+mandate of the Act is vast and its jurisdiction cannot be perceived to be
+ousted by EA03. The COMPAT's judgment relied upon by OP-1/OP-2 is only with
+respect to electricity tariff, which the Commission had also held that issues
+pertaining to electricity tariff fall within the ambit of the State
+Electricity Regulatory Commissions. Thus, the Commission holds that it has
+jurisdiction to proceed with the present matter.
+
+50\. Moving further with the main issues, the Commission observes that the
+assessment of Informant's allegations requires determination of the following:
+
+Case No. 39 of 2017 Page 23 of 33
+
+Issue 1: Whether OP-1/OP-2 hold a dominant position in the relevant market?
+
+Issue 2: Whether the Informant has been denied Open Access and whether such
+denial amounts to a contravention of the provisions of Section 4 of the Act?
+
+51\. For holistic determination of the aforementioned issues, the Commission
+finds that it is imperative to understand the background and context which led
+to the enforcement of EA03. Historically, the electricity sector in India
+featured vertically integrated monopolies that was operated and managed by
+State Electricity Boards ("SEBs"), which were subject to strict regulation.
+The SEBs were autonomous bodies responsible for the development and operation
+of generation, transmission and distribution of electricity within each State.
+The performance of such SEBs, however, was plagued with various issues that
+led to inefficiencies and low productivity. The EA03 was envisaged to bring
+structural changes in the electricity regulatory regime by unbundling the
+functions performed by SEBs into three so as to induce competition in every
+sub-segment. License-free generation, non-discriminatory open access in the
+transmission system and gradual implementation of open access in the
+distribution system were some of the salient features which were designed to
+pave way for creation of power market in India. Competition in distribution
+was mainly envisaged by ensuring non-discriminatory open-access in
+transmission and distribution so as to allow an efficient match-making between
+the consumers and alternative source of power suppliers. Further, competition
+in retail supply was envisaged through electricity exchanges where power
+generators and consumers could interact to sell and purchase electricity.
+
+52\. However, it has been argued by the Informant that despite express
+legislative intent, competition in the electricity sector has been compromised
+by the incumbent state utilities which have ensured that unbundling remains
+only on Case No. 39 of 2017 Page 24 of 33 papers. Ownership structure of the
+different sub-segments in the electricity value chain has been illustrated to
+argue that mere functional autonomy has been introduced by various State
+Governments, as opposed to the ownership separation prescribed, while
+transitioning to EA03 regime.
+
+53\. Against the aforesaid backdrop, the Commission has analysed the
+issues/allegations raised in the information. It is the Informant's case that
+dominance as well as anti-competitive intent is attributable to the inter-
+linkages between OP-1, OP-2 and OP-3. The following figure explains the
+transition from erstwhile Gujarat Electricity Board into the newly formed
+entities in the unbundled regime under the Gujarat Electricity Industry Re-
+organization & Comprehensive Transfer Scheme, 2003:
+
+> GEB (Gujarat Electricity Board) Post EA03 GUVNL (Gujarat Urja Vikas Nigam
+> Ltd.) GSECL GETCO/OP-1 MGVCL (Madhya UGVCL PGVCL/OP-3 DGVCL (Gujarat State
+> (Gujarat Energy Gujarat Vij (Gujarat Vij (Paschim (Dakshin Electricity Corp
+> Transmission Company Ltd.) Company Ltd.) Gujarat Vij Gujarat Vij Ltd.)
+> Corporation Ltd.) Company Ltd.) Company Ltd.) Wholly Owned Subsidiary GETCO-
+> SLDC/OP-2
+
+54\. For the purpose of assessing dominance, delineation of relevant market,
+with reference to the relevant product market as well as relevant geographic
+market, as per Section 2(r) of the Act is required. The relevant product
+market  Case No. 39 of 2017 Page 25 of 33 as defined under Section 2 (t) of
+the Act means "a market comprising of all those products or services which are
+regarded as interchangeable or substitutable by the consumer, by reason of
+characteristics of the products or services, their prices and intended use."
+
+55\. The determining factor for defining relevant product market is demand
+side interchangeability/ substitutability of the product, from the point of
+view of factors such as basic characteristics, intended end-use, price etc. In
+the present case, the Informant is aggrieved by the alleged abusive conduct of
+OP-2 in disallowing open access permission to it for use of transmission
+infrastructure of OP-1 for sourcing electricity from a source other than the
+distribution licensee i.e. OP-3. The Informant is, accordingly, a consumer of
+services relating to usage of transmission services/facilities for availing
+open access transmission of electricity. Thus, the Commission is of the view
+that the relevant product market appears to be "market for services relating
+to use of transmission facility for availing open access electricity".
+
+56\. The relevant geographic market as defined under Section 2(s) of the Act
+means the "market comprising the area in which the conditions of competition
+for supply of goods or provision of services or demand of goods or services
+are distinctly homogenous and can be distinguished from the conditions
+prevailing in the neighbouring areas." As highlighted supra, electricity is a
+subject that falls under the concurrent list of the Indian Constitution. With
+regard to regulations governing open access framework, the intra-state open
+access is regulated by each individual state. The instant case pertains to
+State of Gujarat where the services and infrastructure for drawing open access
+power is governed by the GERC Regulations. Each State is governed by separate
+intra-State open access regulations and as the present dispute pertains to
+intra-State open access is Gujarat, the conditions for open access electricity
+would be consistent/ homogeneous in the State of Gujarat; and would be
+distinct from those prevailing in neighbouring States. Considering these Case
+No. 39 of 2017 Page 26 of 33 aspects, the Commission opines that the relevant
+geographic market would be the state of 'Gujarat'. On the basis of above, the
+relevant market would be the "market for services relating to use of
+transmission facility for availing open access electricity in the State of
+Gujarat."
+
+57\. Having delineated the relevant market, the next issue is to determine
+whether OP-2 holds a position of dominance, as alleged, in the said relevant
+market. The Act defines 'dominant position' under explanation (a) to Section 4
+as, "a position of strength enjoyed by an enterprise, in the relevant market,
+in India, which enables it to (a) operate independently of competitive forces
+prevailing in the relevant market; or (b) affect its competitors or consumers
+or the relevant market in its favor".
+
+58\. Besides statutory position held by OP-2, the Informant has also relied
+upon factors enshrined under Section 19(4) of the Act such as highest market
+share, comparative size and resources, economic power of OPs being an
+undertaking of the Government, vertical integration amongst OP-1, OP-2 & OP-3,
+dependence of consumers on OP-2 to seek open access permission, and OP- 1/OP-2
+enjoying statutory monopoly position etc.
+
+59\. The Commission notes that the underlying principle for assessing
+dominance of an enterprise is linked to the market power enjoyed by the
+enterprise. An enterprise is regarded as dominant if it enjoys/possesses a
+position of strength in the relevant market, which enables it to operate
+independently of competitive forces prevailing in the relevant market; or
+affect its competitors or consumers or the relevant market in its favour.
+
+60\. In the present case, the Informant, a subscriber of power from OP-3, has
+been an applicant of STOA in the state of Gujarat. While inter-state open
+access is governed by CERC (Open Access in inter-state Transmission)
+Regulations, 2008 ('Central Regulations'), the intra-state open access is
+governed by the State level regulations. In Gujarat, the same is governed by
+GERC Case No. 39 of 2017 Page 27 of 33 Regulations. It is submitted by the
+Informant that OP-2 is a statutory body constituted under Section 31(1) read
+with Section 31(2) of EA03, which specifically lays down 'regulation of
+transmission facilities to avail open access electricity' as a primary
+function of SLDC, i.e. OP-2.
+
+61\. As per Regulation 8 of the GERC Regulations, the nodal agency for
+permitting short term open access within the State of Gujarat shall be the
+SLDC i.e. OP-2. Every consumer desirous of availing open access for supply of
+electricity in Gujarat has to obtain the approval of OP-2, which is the
+condition precedent. Being the nodal agency, it has the sole prerogative to
+allow or disallow open access permission, though subject to the GERC
+Regulations. Thus, considering this statutory compulsion of approaching OP-2
+for every open access request, it is apparent that OP-2 holds a dominant
+position in the relevant market. The other factors i.e. OP-2 holding 100%
+market share, dependence of consumers on OP-2 for availing open access are
+direct fall-outs of this statutory arrangement. Thus, although the Informant
+has relied upon the comparative size and resources of OP-1 (since OP-1 is the
+parent company of OP-2) with similar entities in other States, the same will
+not have much bearing on the assessment of dominance. Irrespective of the
+comparative strength held by any of the transmission utility/SLDC, if the
+statute bestows an entity with the absolute power to decide on the open access
+applications, the said entity will have a strong position vis-à-vis the
+applicants.
+
+62\. For the aforesaid reasons, OP-2 seems to hold a dominant position in the
+relevant market owing to the statutory provisions and powers accorded to it
+under the EA03 read with GERC Regulations.
+
+63\. The Informant has alleged that though OP-2 ought to decide requests for
+open access permission with regard to facility owned and operated by OP-1
+independently, the inter-linkages between OP-1, OP-2 and OP-3 affects its
+independence. It has been argued that the anti-competitive intent can be read
+Case No. 39 of 2017 Page 28 of 33 into the denials by OP-2, when read in the
+light of inter-linkages between OP- 1, OP-2 and OP-3, since denial to the
+Informant would safeguard the contracted demand of electricity for OP-3.
+
+64\. The Informant has alleged that by denying open access permission to the
+Informant, OP-2 has contravened the provisions of Section 4(2)(a)(i) of the
+Act as there has been an imposition of unfair terms and conditions. The
+Commission is of the view that contravention of Section 4(2)(a)(i) can be made
+out only when there is a sale of goods/services and certain terms and/or
+conditions are imposed which are unfair or discriminatory. Since in the
+present case the main allegation is that of outright denial of permission, and
+not of imposition of unfair/discriminatory terms/conditions in the sale of
+goods or services, prima facie a contravention of Section 4(2)(a)(i) of the
+Act is not established.
+
+65\. The Informant has further alleged that denial of open access permission
+to Informant and other similarly placed consumers/power generators, OP-2 (also
+OP-1) has limited and restricted production of electricity and the provision
+of supply of open access electricity. The Commission observes that the
+provisions of the EA03 are very indicative of the intention of the legislature
+to facilitate competition and trading of electricity in a smooth and non-
+discriminatory manner. Open Access is considered as one of the most
+progressive provision for meeting that objective. The National Electricity
+Policy, 2005, under Clause 5.3.3, states that 'Open Access in transmission has
+been introduced to promote competition amongst the generating companies who
+can now sell to different distribution licensees across the country. This
+should lead to availability of cheaper power. The Act mandates non-
+discriminatory open access in transmission from the very beginning. When open
+access to distribution networks is introduced by the respective State
+Commissions for enabling bulk consumers to buy directly from competing
+generators, competition in the market would increase the availability of Case
+No. 39 of 2017 Page 29 of 33 cheaper and reliable power supply. However,
+despite such enabling provisions, open access seems to have not been adopted
+with the right spirit. The present case highlights the instances of continuous
+denials by OP-2 to the Informant, which ultimately limits/restricts the
+production of goods (i.e. electricity) by the power generators) as markets
+will not evolve unless the demand of products/services is boosted. By denying
+open access permission, to the Informant and possibly to other consumers, OP-2
+appears to have curtailed or discouraged the demand for open access
+electricity. Thus, it seems that prima facie OP-2 has limited and restricted
+production of electricity and the provision of supply of open access
+electricity in contravention of the provisions of Section 4(2)(b)(i) of the
+Act.
+
+66\. The next allegations are with regard to the contravention of Section
+4(2)(c) and Section 4(2)(e) of the Act. It has been alleged that consistent
+denials of Informant's STOA applications by OP-2 has led to denial of market
+access to the Informant as well as other power generators, in terms of section
+4(2)(c) of the Act, who can supply to the Informant through open access.
+Further, OP-1 has allegedly manipulated the downstream distribution market in
+favour of its sister-concern distribution facility (i.e. OP-3) by virtue of
+being a parent entity for OP-2 and has therefore, contravened provisions of
+Section 4(2)(e) of the Act.
+
+67\. The Commission notes that the Informant, in the present case, has applied
+for STOA to OP-2 on 12 different occasions. However, most of those requests
+were denied by OP-2 citing upstream network constraints. The Informant argues
+that denials were arbitrary and discriminatory, though OP-2 alleges that they
+were based on the GERC Regulations. During the preliminary conference, the
+Informant stated that OP-2 has admitted that the designed capacity for the
+transmission lines is 35MW and in its written submissions, OP-2 has submitted
+data regarding the maximum loading for previous months Case No. 39 of 2017
+Page 30 of 33 as against this designed capacity for all those months when the
+Informant applied for STOA. The said data is reproduced below:
+
+    
+    
+    
+    
+                    Month       applied Previous month Design Capacity           Maximum Load
+                    for                 to be considered
+                    Sept 2014           Aug 2014             35                  40.8
+                    Oct 2014            Sept 2014            35                  39.5
+                    Nov 2014            Oct 2014             35                  43.3
+                    Jan 2015            Dec 2014             35                  39.8
+                    Feb 2015            Jan 2015             35                  33.3
+                    July 2015           June 2015            35                  51.5
+                    Aug 2015            July 2015            35                  54.2
+                    Nov 2015            Oct 2015             35                  44.3
+                    April 2016          March 2016           35                  36.5
+                    Sept 2016           Aug 2016             35                  42.4
+    
+    
+                                                                               (emphasis supplied)
+    
+    
+
+68\. Relying on the aforesaid data, the Informant submitted that there is no
+basis to justify as to how OP-2 allowed maximum load for the transmission line
+to be 51.5 MW for one period and not allow its STOA application when the
+maximum load for a previous month was as less as 33.3 MW. It was alleged that
+even if OP-2's submissions are accepted that contract demand cannot be
+substituted for open access demand, the Informant's application for the period
+February 2015 was wrongly denied as the maximum load during that period was
+lesser than the design capacity.
+
+69\. The main issue that needs to be ascertained is whether the denial by
+OP-2, citing systems constraint, was valid ground for denial or a mere charade
+to discourage consumers from opting out of the distribution network of OP-3.
+
+Case No. 39 of 2017 Page 31 of 33
+
+70\. The Commission observes that as per the Hon'ble COMPAT's view in M/s
+Kansan News Private Ltd. Case, denial of market access is a competition law
+issue only when such denial is occasioned to a competitor. In this regard, it
+is relevant to note that although Informant is only a consumer in the present
+case and as such not competing with OP-1 or OP-2, the denial of market access
+is exclusionary to the 'source/electricity supplier' through which the
+Informant was planning to access its power requirement. Further, such
+'source/electricity supplier', was competing with OP-2's group entity, OP-3,
+which was a group entity of OP-1 (the holding company of OP-2) and was the
+licensee distributor for the Informant during the relevant time when open
+access permission was denied. Prima facie, it appears that the denial of open
+access permission to the Informant has resulted in a violation of Section
+4(2)(c) of the Act.
+
+71\. Further, this denial of market access under Section 4(2)(c) also seems to
+be a consequent violation of Section 4(2)(e), in the present case. It appears
+that OP-2 has leveraged its dominant position in the relevant market to
+adversely affect the competition in the downstream market, where it is present
+through its group entity OP-3. The structural linkages between the OPs as
+depicted in the diagram illustrated earlier also points toward the conflict of
+interest that exists in the present case. Thus, given the conflict of interest
+situation that exists in the present case, anti-competitive motive behind such
+denial by OP-2 cannot be ruled out and may need to be tested in detailed
+investigation.
+
+72\. Based on the foregoing analysis, the Commission is of the considered view
+that prima facie, the contravention with regard to Section 4(2)(b)(i), Section
+4(2)(c) and Section 4(2)(e) of the Act is made out against OP-2, which
+warrants detailed investigation into the matter. The DG is, thus, directed to
+carry out a detailed investigation into the matter, in terms of Section 26(1)
+of the Act, and submit a report to the Commission, within 60 days.
+
+Case No. 39 of 2017 Page 32 of 33
+
+73\. During the course of investigation, if involvement of any other
+party/entity is found, the DG shall investigate the conduct of such other
+party/entity(s) who may have indulged in the said contravention. It is,
+however, made clear that nothing stated herein shall tantamount to an
+expression of final opinion on the merits of the case and the DG shall conduct
+the investigation without being influenced by any observations made herein.
+
+74\. The Secretary is directed to send a copy of this order, along with the
+information and the documents filed therewith, to the DG.
+
+Sd/-
+
+(Devender Kumar Sikri) Chairperson Sd/-
+
+(S.L. Bunker) Member Sd/-
+
+(Sudhir Mital) Member Sd/-
+
+(Augustine Peter) Member Sd/-
+
+(U.C. Nahta) Member New Delhi Dated: 31/01/2018 Case No. 39 of 2017 Page 33 of
+33
+

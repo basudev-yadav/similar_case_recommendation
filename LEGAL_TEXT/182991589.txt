@@ -1,0 +1,2955 @@
+
+
+Income Tax Appellate Tribunal - Delhi
+
+Giesecke & Devrient India Pvt. ... vs Dcit, New Delhi on 23 August, 2018
+
+    
+    
+                IN THE INCOME TAX APPELLATE TRIBUNAL
+                     DELHI BENCH: 'I-2' NEW DELHI
+    
+          BEFORE SHRI PRAMOD KUMAR, ACCOUNTANT MEMBER
+                               &
+             SHRI SUDHANSHU SRIVASTAVA, JUDICIAL MEMBER
+    
+                           ITA No.-5924/Del/2012
+                         (Assessment Year: 2008-09)
+    
+    Giesecke & Devrient India vs DCIT
+    Pvt. Ltd.                     Circle-12(1),
+    Corporate Office, Plot #57,   Central Revenue Building
+    Sector-44                     New Delhi
+    Gurgaon
+    PAN : AABCG4223D
+            Assessee by         Sh. Harpreet Ajmani, Adv., Sh.
+                                Rohan Khare, Adv.
+            Revenue by          Ms. Vatsala Jha, CIT, DR
+    
+                      Date of Hearing            24.05.2018
+                   Date of Pronouncement         23.08.2018
+    
+    
+                                     ORDER
+    
+
+PER SUDHANSHU SRIVASTAVA, J.M.
+
+This present appeal by the assessee is preferred against the Final Assessment
+Order dated 18.09.2012 passed under section 144C read with section 143(3) of
+the Income Tax Act, 1961 (hereinafter called "the Act").
+
+2.0 Brief facts of the case are that the assessee is a wholly owned subsidiary
+of Giesecke & Devrient GmBH("G&D GmBH") and is engaged in the business of
+trading of Currency Verification and Processing Systems ("CVPS") and
+assembling and distribution of SIM cards to the telecommunication service 2
+ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) providers.
+Further, the company is also engaged in providing software services to G&D
+GmBH.
+
+2.1 The return of income for year was filed declaring an income of
+Rs.1,89,362/-. Subsequently, the return was revised declaring an income of RS.
+3,34,31,113/-. Since the Assessee had entered into international transactions,
+reference was made to the Transfer Pricing Officer ("TPO") to determine the
+Arm's Length Price (ALP) of the international transactions. Details of the
+transactions undertaken by the Assessee are as under:-
+
+    
+    
+           S. NO.   NATURE OF TRANSACTION                        AMOUNT            (In
+                                                                 INR)
+             1.     Import   of    CVPS       Machines     and 32,65,84,552
+                    spare         parts        ("Distribution
+                    Function")
+    
+
+2\. Import of Raw Material for SIM 11,97,70,998 Card ("Assembly Function")
+
+3\. Software Development 8,93,34,164
+
+4\. Sale of SIM Cards 4,94,72,539
+
+5\. Import of Capital Equipment 2,22,07,884
+
+6\. Provision of Installation Services 93,23,193
+
+7\. Service Expenses 1,11,21,465
+
+8\. Commission Expenses 48,84,400
+
+9\. Interest on External Commercial 73,87,140 Borrowing
+
+10\. Repairs and Maintenance 59,09,162
+
+11\. Other Expenses 34,97,831
+
+12\. Reimbursement of Expenses 51,43,772
+
+13\. Sale of others 1,13,248 3 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) 2.2 From the international transactions declared by the
+Assessee, the TPO picked up the transactions regarding the Software
+Development Segment and the SIM Card Assembly Segment. With regard to the
+Software Development Segment, the Assessee had selected OP/OC as the Profit
+Level Indicator ("PLI") whilst applying TNMM as the Most Appropriate Method
+("MAM") and declared its margin at 11.04%. The assessee, further, in its
+Transfer Pricing Study (TP Study) had selected a total of 18 comparables with
+an average OP/OC of 14.05% and hence claimed the said transaction to be at
+arm's length. The TPO while accepting the MAM as selected by the assessee,
+accepted only 7 out of the 18 comparables and further introduced 12 additional
+comparables with an average OP/OC of 24.95% thereby determining an adjustment
+of Rs. 1,10,57,340/- for the Software Development Segment.
+
+2.3 In the SIM Card Assembly Segment, the assessee had declared a PLI of
+(15.22%) and justified the same to be owing to various circumstances such as
+initial years of operation, high competition in the market etc. The assessee,
+in its TP study, had selected 5 comparables with an average OP/OC of 6.39%.
+During the transfer pricing proceedings, the TPO issued a show cause notice to
+the assessee and vide the assessee's reply dated 05.10.2011, the assessee
+submitted a detailed reasoning as to why it had incurred 4 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) losses and additionally
+also objected to one of the comparables selected by the assessee itself which
+was acceded to by the TPO. Thereafter, the final OP/OC of the comparables was
+worked out at 4.78% as opposed the margin of (15.22%) of the Assessee and an
+adjustment of Rs. 12,04,39,125/- was determined by the TPO. 2.4 Aggrieved, the
+assessee preferred to file objections before the Ld. Dispute Resolution Panel
+("DRP"), which were disposed off vide directions dated 08.08.2012. The Ld. DRP
+upheld the action of the TPO vis-à-vis the software development segment.
+Regarding the SIM Card Assembly Segment, the Ld. DRP rejected the plea of the
+assessee regarding provision for capacity under-utilization adjustment and
+working capital adjustment, but granted partial relief whilst directing
+exclusion of one comparable namely M/s Solectron EMS Limited.
+
+2.5 The said directions culminated into the final assessment order dated
+18.09.2012 against which the assessee has approached the ITAT and has raised
+the following grounds of appeal:- "Transfer Pricing- Software Development
+Segment [Rs. 1,10,57,340]
+
+1\. On the facts and in law, the Learned Transfer Pricing Officer
+
+\- I(2), New Delhi ("Ld. TPO") and Deputy Commissioner of Income Tax, the
+Learned Assessing Officer ("Ld. AO") erred 5 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) in determining and the Hon'ble Dispute Resolution
+Panel ("Hon'ble DRP") erred in confirming the addition of Rs.1,10,57,340 in
+relation to international transactions pertaining to software development
+segment.
+
+1.1 On facts and in law, the Ld. TPO, Ld. AO and the Hon'ble DRP erred in
+rejecting the Transfer Pricing ("TP") Documentation maintained by the
+Appellant u/s 92D of the Income Tax Act, 1961 ("the Act"), read with Rule 10D
+of the Income Tax Rules, 1962 ("the Rules") and in carrying out a fresh search
+for comparable companies using inappropriate filters.
+
+1.2 On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred
+in using data obtained pursuant to issuance of notice under Section 133(6) of
+the Act which was not available to the Appellant at the time of maintenance of
+Transfer Pricing Documentation, thereby contravening the provisions of Rule
+10B(4) of the Rules and further, erred in not providing the complete
+information which was called pursuant to issuance of notice under Section
+133(6) of the Act.
+
+1.3 On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred
+in selecting certain companies as comparable, with a prejudiced intention of
+making an addition to the returned income of the Appellant, without
+appreciating that in cognizance of Rule 10B(2)(b), the 6 ITA NO. 5924/Del/2012
+(Giesecke & Devrient India Pvt. Ltd.) functional, asset and risk profile of
+these alleged comparable companies are dissimilar with that of the Appellant.
+1.4 On the fact and in the circumstances of the case and in law, the Ld. TPO,
+the Ld. AO and the Hon'ble DRP erred in changing the profit margin computation
+of alleged comparable companies by incorrectly considering certain income /
+expense as operating / non-operating. 1.5 On the facts and in law, the Ld.
+TPO, the Ld. AO and the Hon'ble DRP erred in not allowing risk adjustment to
+the Appellant, thereby contravening the Rule 10B(1)(e)(iii). Transfer Pricing
+- SIM Card Assembly Segment [Rs.118,461,592]
+
+2\. On the facts and in law, the Ld. TPO and the Ld. AO erred in determining
+and the Hon'ble DRP erred in confirming the addition of Rs.11,84,61,592 in
+relation to international transactions pertaining to SIM card assembly
+segment. 2.1 On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble
+DRP erred in directly applying the Operating Margin ("OP Margin") of
+comparable companies in the SIM card assembly segment to that of the Appellant
+without taking into account commercial reasons and factual data to support the
+losses incurred in the SIM card assembly segment. 2.2 On the facts and in law,
+the Ld. TPO, the Ld. AO and the Hon'ble DRP erred in making a conjecture that
+the Appellant 7 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+imported chips from its associated enterprise at a considerably higher price
+without negotiating for reduction in price or subsidy.
+
+2.3 On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred
+in disregarding the internal comparability analysis with respect to in-house
+assembly of SIM Cards vis- à-vis outsourcing the assembly of SIM Cards to a
+third party. 2.4 On the facts and in law, the Ld. TPO, the Ld. AO and the
+Hon'ble DRP erred in considering the erroneous margins of comparable companies
+accordingly erred in computing the amount of adjustment on account of transfer
+price. 2.5 On facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP
+violated the provisions of Rule 10B(1)(e)(iii) and Rule 10B(3) of the Rules by
+denying the benefit of working capital adjustment based on erroneous reasons.
+
+2.6 On facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP violated
+the provisions of Rule 10B(1)(e)(iii) and Rule 10B(3) of the Rules by denying
+the benefit of idle capacity adjustment to eliminate differences on account of
+capacity utilization of the Appellant vis-à-vis the comparable companies.
+
+2.7 On facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred in
+relying on erroneous calculation for computing 'cash losses' (before
+depreciation) for the purposes of 8 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) eliminating differences arising on account of capacity
+utilization vis-à-vis comparables and further, failed to produce correct
+computation in this regard.
+
+2.8 On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred
+in computing the amount of adjustment by considering total cost and sales,
+instead of apportioning the same to relevant transactions of the Appellant
+with associated enterprises and non-associated enterprises.
+
+3\. On the facts and in law, the Ld. TPO, the Ld. A.O. and the Hon'ble DRP
+erred in disregarding prior years' data used by the Appellant to benchmark the
+international transactions in its TP documentation for the year and holding
+that current year (i.e. Financial Year 2007-08) data for comparable companies
+should be used despite the fact that the same was not necessarily available to
+the Appellant at the time of preparing its TP documentation, and grossly
+misinterpreting the requirement of "contemporaneous" data in the Rule 10B(4)
+of the Rules to necessarily imply current year data, thereby breaching the
+principles in natural justice and "impossibility of performance".
+
+4\. On the facts and in law, the Ld. TPO, the Ld. AO and the Hon'ble DRP erred
+in not granting the benefit of the 5% variation as per the proviso to section
+92C(2) of the Act to the Appellant, as the law stood at the time of
+preparation of TP documentation.
+
+9 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+5\. On the facts and in the circumstances of the case, the Ld. AO erred in
+initiating penalty proceedings under section 271(1)(c) of the Act.
+
+6\. On the facts and in the circumstances of the case, the Ld. AO erred in
+levying interest under section 234B of the Act.
+
+7\. On the facts and in the circumstances of the case, the Ld. AO has erred in
+not granting full credit of advance tax of Rs.20,698,500 paid by the appellant
+and also short credit of tax deducted at source of Rs.15,01,872 on the income
+of the appellant."
+
+2.6 The assessee, vide application dated 24.09.2014, has also raised the
+following additional grounds:-
+
+> 2.9 Without prejudice to our other grounds of appeal, the Ld.
+
+> TPO ought to have considered that in view of the peculiar facts of the
+> matter Giesecke & Devrient GmBH should have been taken as 'Tested Party' for
+> the purpose of benchmarking international transaction in respect to SIM Card
+> assembly segment.
+
+> 2.10 Without prejudice to our other grounds of appeal, the Ld.
+
+> TPO ought to have considered that pursuant to Rule 10B of the Income Ta
+> Rules, 1962 and the OECD Guidelines the 'Tested Party' is one with less
+> complex functional analysis 10 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+> India Pvt. Ltd.) where profitability can be reliably ascertained with least
+> adjustments."
+
+3.0 At the outset, the Ld. Counsel for the assessee submitted that Ground Nos.
+3 to 5 are not being pressed. We dismiss these two grounds as not pressed.
+
+3.1 We now take up the assessee's grounds (Ground Nos. 1 to 1.5) regarding the
+software development segment. Both the parties have agreed that lower
+authorities have not disputed the functional profile of the assessee under the
+Software Development Segment, wherein the assessee was acting as a captive
+service provider and all the risks were borne by the Associated Enterprise
+(AE). The assessee did not own any intellectual property. The assessee, vide a
+detailed chart, has agitated the exclusion of the following 16 comparables and
+the inclusion of 2 comparables finally selected by the TPO: (A) COMPARABLES
+BEING SOUGHT TO BE EXCLUDED:
+
+> i. Avani Cincom Technologies ii. Bodhtree Consulting Limited iii. Celestial
+> Labs iv. E-Zest Solutions Limited v. Igate Global Solutions Ltd.
+    
+    
+          vi.    Infosys Technologies Ltd.
+          vii.   Kals Systems Limited (Segmental)
+                                       11          ITA NO. 5924/Del/2012
+                                           (Giesecke & Devrient India Pvt. Ltd.)
+    
+        viii.     LGS Global Ltd.
+            ix.   Mindtree Limited (Segmental)
+            x.    Persistent Systems Pvt. Ltd.
+            xi.   Quintegra Solutions Limited
+        xii.      R System International Limited
+        xiii.     Softsol India Limited
+        xiv.      Tata Elxi Limited
+         xv.      Thirdware Solution Limited
+        xvi.      Wipro Limited (Segmental)
+    
+    
+    
+
+> (B) COMPARABLES BEING SOUGHT TO BE INCLUDED:
+
+> i. SIP Technologies and Exports Limited ii. PSI Data System Ltd.
+
+> 3.2.0 Now, we will deal with all these comparables individually.
+
+We will first take up the comparables which the assessee is agitating for
+exclusion from the final set of comparables selected by the TPO and as
+affirmed by the Ld. DRP.
+
+(i) Avani Cincom Technologies ("Avani Cincom"): 3.2.1 This comparable was
+rejected by the assessee in the TP study for the reason of there being
+insufficient data in the public domain but was introduced by the TPO. The
+assessee objected to the inclusion of Avani Cincom but the objections were
+rejected by the TPO/ Ld. DRP. Before us, the Ld. Counsel for the assessee,
+vide a detailed chart and a hand out from of the website, argued that Avani 12
+ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) Cincom was not
+functionally comparable to the assessee since the assessee was a captive
+software service provider and on the contrary Avani Cincom was engaged in
+provision of both software development services and also development of
+software products. Additionally, it was argued that the segmental details of
+the company were not available and that the Annual Report available in the
+public domain was also incomplete. The Ld. Counsel placed heavy reliance on
+the order of the co-ordinate Bench of ITAT Bangalore in the case of Sun Gard
+Solutions India Pvt. Vs. ACIT reported in [2015] 63 taxmann.com 323 (Bangalore
+- Trib.) and other decisions of coordinate Benches referred in his chart,
+which are for the same Assessment Year i.e. 2008-09, where the co-ordinate
+benches had take a view that Avani Cincom was not functionally comparable to a
+captive software service provider.
+
+3.2.2 The Learned Departmental Representative (CIT DR), on the other hand,
+supported the orders of the authorities below. It was vehemently argued before
+us that since this company passes all the filters, thus, it is a fit
+comparable.
+
+3.2.3 We have heard the rival submissions and carefully considered the
+material on record. This company was selected by the TPO as a comparable, in
+spite of the objections of the assessee that this company is not functionally
+comparable to the assessee as it is 13 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) into software products whereas the assessee offers
+software development services to its Associated Enterprise ('AE'). The TPO
+rejected the assessee's objections on the ground that thiscompany had
+categorised itself as a pure software developer, just like the assessee. In
+selecting this company as a comparable, the TPO had relied on information
+submitted by this company collected under Section 133(6) of the Act. We notice
+that the co-ordinate Bench of Tribunal in the case of Sun Gard Solutions India
+Pvt. vs. ACIT reported in [2015] 63 taxmann.com 323 (Bangalore - Trib.), while
+considering this comparable for the same financial year, has observed as
+follows :
+
+> "6.4.1 We have heard the rival contentions and have perused and carefully
+> considered the material on record; including the judicial decisions cited
+> and placed reliance upon. We find that the co- ordinate bench in the case of
+> 3DPLM Software Solutions Ltd. (supra) for Assessment Year 2008-09 has held
+> that this company is functionally dis-similar and different from the
+> assessee who is a provider of software development services to its AEs and
+> directed that this company be omitted from the list of comparables. At paras
+> 7.6.1 and 7.6.2 of its order, the co-ordinate bench held as under:--
+
+> "7.6.1 We have heard both parties and perused and carefully considered the
+> material on record. It is seen from the record that the TPO has included
+> this company in the final set of comparables only on the basis of
+> information obtained under section 133(6) of the Act. In these 14 ITA NO.
+> 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) circumstances, it was
+> the duty of the TPO to have necessarily furnished the information so
+> gathered to the assessee and taken its submissions thereon into
+> consideration before deciding to include this company in its final list of
+> comparables. Non-furnishing the information obtained under section 133(6) of
+> the Act to the assessee has vitiated the selection of this company as a
+> comparable.
+
+> 7.6.2 We also find substantial merit in the contention of the learned
+> Authorised Representative that this company has been selected by the TPO as
+> an additional comparable only on the ground that this company was selected
+> in the earlier year. Even in the earlier year, it is seen that this company
+> was not selected on the basis on any search process carried out by the TPO
+> but only on the basis of information collected under section 133(6) of the
+> Act. Apart from placing reliance on the judicial decision cited above,
+> including the assessee's own case for Assessment Year 2007-08, the assessee
+> has brought on record evidence that this company is functionally dis-similar
+> and different from the assessee and hence is not comparable. Therefore the
+> finding excluding it from the list of comparables rendered in the
+> immediately preceding year is applicable in this year also. Since the
+> functional profile and other parameters by this company have not undergone
+> any change during the year under consideration which fact has been
+> demonstrated by the assessee, following the decisions of the co-ordinate
+> benches of this Tribunal in the assessee's own case for Assessment Year
+> 2007-08 in ITA No.845/Bang/2011 dt.22.2.2013, and in the case of Triology
+> E-Business Software India Pvt. Ltd. (ITA No.1054/Bang/2011), we direct the
+> A.O./TPO to omit this company from the list of comparables."
+
+6.4.2 Following the aforesaid decision of the co-ordinate bench of this
+Tribunal in the case of 3DPLM Software Solutions Ltd. (supra), we direct the
+Assessing Officer/TPO to exclude this company from the list of comparables."
+
+    
+    
+                                      15          ITA NO. 5924/Del/2012
+                                          (Giesecke & Devrient India Pvt. Ltd.)
+    
+    
+    
+    3.2.4     We are of the view that the factual matrix is similar with
+    
+    
+
+the decision of co-ordinate bench in Sun Gard Solutions India Pvt. vs. ACIT,
+[2015] 63 taxmann.com 323 (Bangalore - Trib.). Respectfully following the view
+taken by co-ordinate Benches of the Tribunal, we direct the AO / TPO to
+exclude this company from the list of comparables. We also note that since
+complete details of this comparable is not available in public domain and
+there is contradiction in the information collected under section 133(6) of
+the Act and the annual report then such a company cannot be selected as a fit
+comparable.
+
+(ii) Bodhtree Consulting Limited ("Bodhtree"): 3.2.5 The next comparable being
+agitated by the Assessee is Bodhtree Consulting Limited. The said comparable
+was rejected by the Assessee in its Transfer Pricing study for not being
+functionally comparable and being engaged in niche IT services. Before us, the
+Ld. Counsel for the Assessee strongly argued for exclusion of the said
+comparable on the ground that Bodhtree is an end to end web solutions provider
+and was earning income from sale of its software products. Additionally, it
+was pointed out whilst referring to the 16 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) Annual report that there was insufficient segmental
+data vis-à-vis the incomes from services and products. The Ld. Counsel placed
+strong reliance on the co-ordinate bench decision in the case of Sun Gard
+Solutions India Pvt. vs. ACIT reported in [2015] 63 taxmann.com 323 (Bangalore
+- Trib.) and order of the Delhi Bench of Tribunal in the case of Nokia Siemens
+Networks India Pvt. Ltd v ACIT in ITA No. 333/Del/2013, wherein the said
+comparable was excluded primarily for being a software product company.
+Reliance was also placed on the decision of Delhi Bench of the Tribunal in
+Saxo India Private Limited vs. ACIT (ITA No. 6148/Del/2015) [subsequently
+affirmed by Hon'ble Delhi High Court in ITA 682/2016] wherein the comparable
+was excluded as being engaged in the business of Software Development and
+Software Product and no segmental details being available. It was fairly
+pointed out that though there is no finding of the Ld. DRP on this comparable
+but it was submitted that since all the material facts are available on record
+and there is no dispute on application of filters, the issue may be
+adjudicated. 3.2.6 The Learned Departmental Representative, on the other hand,
+supported the orders of the authorities below. It was fairly conceded before
+us that there is no difficulty in adjudication of this comparable basis the
+facts on record. It was vehemently argued 17 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) before us that since this company passes all
+filters, thus, it is a fit comparable.
+
+3.2.7 We have heard the rival submissions and perused the material on record
+along with the various decisions of the co-ordinate benches. We are of the
+opinion that in view of all relevant facts being available on record, there is
+no impediment in adjudicating the issue. Our view is fortified by the judgment
+of the Hon'ble Delhi High Court in the case of Pr. CIT vs. Pitney Bowes
+Software India Pvt. Ltd in ITA 681/2015, vide order dated 28.09.2015, wherein
+the High Court had categorically held that the Tribunal was justified in
+adjudicating a comparable which was not agitated by the assessee either before
+the TPO or the Ld. DRP.
+
+3.2.8 We note that the coordinate Bench of the ITAT in Nokia Siemens Networks
+India Pvt. Ltd vs. ACIT in ITA No. 333/Del/2013 has excluded this comparable
+by observing as follows:
+
+> "43. From Page No 12 of the Paper book containing Annexure II to the
+> Directors' report, a part of the annual report of the company, we find that
+> this company is engaged in only one segment which comprises of income from
+> software development, open and end to end web solutions, software
+> consultancy designs and software products; whereas the Assessee is engaged
+> in rendering software development services. Under Note 5 "Segmental
+> Information", it is stated that the company has only one identifiable
+> reporting segment that is software development service, showing that no 18
+> ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) separate
+> segmental finances relating to the software development open and end-to-end
+> web solutions, software consultancy designs and software products are
+> available.
+
+44\. It is argued on behalf of the assessee that this company is following a
+different pricing model, as is evident from the annual report to be found at
+paper book page No. 24 that the revenues from software development is
+recognized based on software developed and billed to the client whereas the
+assessee is a captive software developer for its AE's.
+
+45\. Ld. AR placed reliance on a decision of this Tribunal in ITA No.
+6402/DEL/2012 (AY 2008-09) in the case of Aircom International (India) Pvt Ltd
+v DCIT, (2017) 50 CCH 0280 (hereinafter "Aircom") in support of his plea that
+Bodhtree is engaged in providing open and end-to-end web solutions, software
+consultancy, design and development of solutions, using the latest
+technologies and not comparable with the company which is into the business of
+softwaredevelopment and providing related services to its AE. The coordinate
+Bench in the judgment of Aircom (supra) has excluded this comparable company
+by making following observations:
+
+> "15.2. We find from the Annual report of this company that it: "has only one
+> segment, namely, software development. Being a software solutions company,
+> which is engaged in providing open and end-to-end web solutions, software
+> consultancy, design and development of solutions, using the latest
+> technologies." Thus, it can be seen that this company is providing end-to-
+> end solutions and also consultancy which is not the case with the assesse
+> company. Another relevant factor to be noticed is Page 1254 of the paper
+> book, which divulges the significant accounting policies of this company.
+> Under the head 'Revenue recognition', it has been mentioned that: "revenue
+> from software development is recognized based on software developed and
+> billed to clients." As 19 ITA NO. 5924/Del/2012 (Giesecke & Devrient India
+> Pvt. Ltd.) against this, the Schedule forming part of the accounts of the
+> assessee company provides for revenue recognition in the terms: "revenue
+> from software developed is recognized over the contracted period of
+> development on cost plus basis." It can be seen that there is a lot of
+> difference in the revenue recognition models of the assessee as well as
+> Bodhtree Consulting Ltd. This factor, in addition to the functional
+> dissimilarity as discussed above, makes this company non comparable with the
+> assesse company. We, therefore, order to exclude it from the list of
+> comparables."
+
+> 46\. There is no dispute that the Aircom is also into the business of
+> software development and providing related services to its AE. We are,
+> therefore, of the considered opinion that being a software solutions company
+> which is engaged in providing open and end- to-end web solutions, software
+> consultancy, design and development of solutions, using the latest
+> technologies, Bodhtree company cannot be compared to the assessee which is a
+> captive software developer for its AE's."
+
+3.2.9 We are of the view that the factual matrix in the present matter is
+similar with the decision of coordinate bench in Nokia Siemens Networks India
+Pvt. Ltd vs. ACIT in ITA No. 333/Del/2013 and respectfully following the view
+taken by co-ordinate Bench of Tribunal, we direct the AO / TPO to exclude this
+company from the list of comparables. Our view is further fortified by the
+judgment of the Hon'ble Delhi High Court in the case of Saxo India (supra)
+wherein their Lordships have clarified that a company engaged in providing
+Software Development Service cannot be regarded as a fit 20 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) comparable to a company
+engaged in providing both Software Development and Software Product services
+and sufficient segmental details are not available.
+
+(iii) Celestial Labs ("Celestial"):
+
+3.2.10 The next comparable being challenged by the assessee is Celestial Labs.
+The said comparable was introduced by the TPO as being functionally comparable
+to the assessee and also on the ground that the said comparable was considered
+as a comparable in the preceding assessment year. Before us, the Ld. Counsel
+for the Assessee firstly contended that merely because the comparable was
+taken as a comparable in the preceding assessment year would not by itself be
+a ground for its acceptance in the subsequent assessment year. The Ld. Counsel
+placed reliance on the judgments of the Hon'ble Delhi High Court in Rampgreen
+Solutions Pvt. Ltd. vs. CIT reported in [2015] 377 ITR 533 (Delhi),
+Chryscapital Investment Advisors Pvt. Ltd. vs. DCIT reported in [2015] 376 ITR
+183 (Delhi) and Avenue Asia Advisors Private Limited vs. DCIT (ITA No.
+350/2016) and submitted that the functionality of an entity is the key
+determinative factor for its inclusion or exclusion in the list of comparables
+and there is no such thing as estoppel on the ground that the assessee had
+accepted the entity as being functionally comparable in a previous assessment
+21 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) year. It was
+fairly accepted that though there is no finding of the Ld. DRP on this
+comparable but since all material facts are available on record and there is
+no dispute on application of filters, adjudication on this comparable could be
+made.
+
+3.2.11 On merits, the Ld. Counsel submitted that Celestial could not be held
+as a comparable since its functionality was very different from that of the
+Assessee. It was further submitted that Celestial was into bio-informatics
+software products and owing to insufficiency of segmental data in the Annual
+Report, the same could not be accepted as a comparable. The Ld. Counsel took
+us through the annual report to show that during the impugned year Celestial
+had issued an IPO and also owned intangibles.
+
+3.2.12 On the contrary, the Ld. CIT DR appearing on behalf of the Department
+contended that the said comparable had already been accepted by the assessee
+as being functionally comparable in the preceding year and hence the assessee
+was barred from taking a contrary stand in the impugned year. On merits she
+placed strong reliance on the orders of the TPO/ Ld. DRP and contended that
+the findings of the TPO were well substantiated.
+
+3.2.13 Having heard the parties, we are in agreement with the contentions of
+the Ld. Counsel for assessee that unless the Function, Assets and Risk profile
+of a comparable is demonstrated to be 22 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) similar/dissimilar from record, a comparable cannot
+per se be excluded / included only on account of its selection in the previous
+assessment year. Rule 10B(1)(e) read with Rule 10B(2)/(3) of the Income Tax
+Rules, 1962 lays down broad parameters regarding comparability of a controlled
+transaction with an uncontrolled transaction. It is well settled that there
+can be no estoppel against law. Selection of comparable being a factual
+exercise needs to be undertaken by looking at the functions, assets and risk
+profile of a comparable for that relevant assessment period. Our view is
+further fortified by the judgments of the Hon'ble Delhi High Court in
+Rampgreen Solutions Pvt. Ltd. vs. CIT, [2015] 377 ITR 533 (Delhi),
+Chryscapital Investment Advisors Pvt. Ltd. vs. DCIT [2015] 376 ITR 183 (Delhi)
+and Avenue Asia Advisors Private Limited vs. DCIT (ITA No. 350/2016).
+
+3.2.14 On merits, we are of the view that the factual position in the present
+matter is similar with the decision of the Bangalore Bench of the Tribunal in
+Sun Gard Solutions India Pvt. vs. ACIT reported in [2015] 63 taxmann.com 323
+(Bangalore - Trib.), wherein this comparable was excluded by the coordinate
+bench whilst observing as follows :
+
+> "7.4.1 We have heard the rival submissions and perused and carefully
+> considered the material on record, including the judicial 23 ITA NO.
+> 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) decisions cited. We find
+> that the co-ordinate bench of this Tribunal in the case of 3DPLM Software
+> Solutions Ltd. (supra) for Assessment Year 2008-09 had held that this
+> company, being into bio-informatics and software products and services, is
+> to be omitted from the list of comparables as it was functionally dis-
+
+similar and different from a captive software service provider. At paras 9.4.1
+and 9.4.2 of the above order, the co-ordinate bench held as under:--
+
+> "9.4.1 We have heard both the parties and perused and carefully considered
+> the material on record. While it is true that the decisions cited and relied
+> on by the assessee were with respect to the immediately previous assessment
+> year, and there cannot be an assumption that it would continue to be
+> applicable for this year as well, the same parity of reasoning is applicable
+> to the TPO as well who seems to have selected this company as a comparable
+> based on the reasoning given in the TPO's order for the earlier year. It is
+> evidently clear from this that the TPO has not carried out any independent
+> FAR analysis for this company for this year viz. Assessment Year 2008-09. To
+> that extent, in our considered view, the selection process adopted by the
+> TPO for inclusion of this company in the list of comparables is defective
+> and suffers from serious infirmity. 9.4.2 Apart from relying on the afore
+> cited judicial decisions in the matter (supra), the assessee has brought on
+> record substantial factual evidence to establish that this company is
+> functionally dis-similar and different from the assessee in the case on hand
+> and is therefore not comparable and also that the findings rendered in the
+> cited decisions for the earlier years i.e. Assessment Year 2007-08 is
+> applicable for this year also. We agree with the submissions of the assessee
+> that this company is functionally different from the assessee. It has also
+> been so held by co-ordinate benches of this Tribunal in the assessee's own
+> case for Assessment 24 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+> Ltd.) Year 2007-08 (supra) as well as in the case of Triology E- Business
+> Software India Pvt. Ltd. (supra). In view of the fact that the functional
+> profile of and other parameters of this company have not changed in this
+> year under consideration, which fact has also been demonstrated by the
+> assessee, following the decision of the co-ordinate benches of the Tribunal
+> in the assessee's own case for Assessment Year 2007-08 in ITA
+> No.845/Bang/2011 and Triology E-Business Software India Pvt. Ltd. in ITA No.
+> 1054/Bang/2011, we hold that this company ought to be omitted from the list
+> of comparables. The A.O. /TPO are accordingly directed." 7.4.2 Following the
+> aforesaid decision of the co-ordinate bench of this Tribunal in the case of
+> 3DPLM Software Solutions Ltd. (supra) for Assessment Year 2008-09, we direct
+> the Assessing Officer/TPO to omit this company from the list of
+> comparables."
+
+3.2.15 Respectfully following the decision of coordinate bench in Sun Gard
+Solutions India Pvt. vs. ACIT reported in [2015] 63 taxmann.com 323 (Bangalore
+- Trib.), we direct the Assessing Officer/TPO to exclude this company from the
+final list of comparables.
+
+(iv) E-Zest Solutions Limited("E-Zest"):
+
+3.2.16 The Ld. Counsel for the assessee has argued for exclusion of E-Zest
+from the final list of comparables on the ground that the said company is
+functionally dissimilar to assessee, as it is engaged in providing e-Business
+Consulting services including product 25 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) development services and technical services which
+they themselves characterise as Knowledge Process Outsourcing ('KPO')
+services. He submitted that even as per the information gathered by the TPO
+under section 133(6) of the Act, this comparable is also engaged in software
+products. Whilst placing heavy reliance on the company's website handout along
+with the Annual Report, he submitted that the assessee being a captive
+software development company cannot be compared with a KPO. Additionally, he
+took us through the annual report to evidence that no segmental data vis-à-vis
+the services and products was available.
+
+3.2.17 Per contra, the Ld. CIT DR supported the orders of the TPO in including
+this company as a comparable.
+
+3.2.18 We have considered the arguments of both the parties and also the
+material available on record. We are of the view that the factual position in
+the present matter is similar with decision of coordinate bench in Sun Gard
+Solutions India Pvt. Ltd. vs. ACIT in ITA No. 1487/Bang/2012, wherein it is
+held as follows:
+
+> "8.4.1 We have heard the rival contentions and perused and carefully
+> considered the material on record; including the judicial decision cited. We
+> find that the co-ordinate bench of this Tribunal in the case of 3DPLM
+> Software Solutions Ltd. (supra) for Assessment Year 2008-09 has omitted this
+> company from the list of comparables on the ground that the KPO services
+> rendered by it 26 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+> Ltd.) are not comparable to those rendered by a captive provider of software
+> development services. At para 14.4 of its order, the co-
+
+ordinate bench has held as under:--
+
+> "14.4 We have heard the rival submissions and perused and carefully
+> considered the material on record. It is seen from the record that the TPO
+> has included this company in the list of comparables only on the basis of
+> the statement made by the company in its reply to the notice under section
+> 133(6) of the Act. It appears that the TPO has not examined the services
+> rendered by the company to give a finding whether the services performed by
+> this company are similar to the software development services performed by
+> the assessee. From the details on record, we find that while the assessee is
+> into software development services, this company i.e. e- Zest Solutions
+> Ltd., is rendering product development services and high end technical
+> services which come under the category of KPO services. It has been held by
+> the co- ordinate bench of this Tribunal in the case of Capital I-Q
+> Information Systems (India) (P.) Ltd. (supra) that KPO services are not
+> comparable to software development services and are therefore not
+> comparable. Following the aforesaid decision of the co-ordinate bench of the
+> Hyderabad Tribunal in the aforesaid case, we hold that this company, i.e.
+> e-Zest Solutions Ltd. be omitted from the set of comparables for the period
+> under consideration in the case on hand. The A.O./ TPO is accordingly
+> directed."
+
+8.4.2 Following the above decision of the co-ordinate bench of this Tribunal
+in the case of 3DPLM Software Solutions Ltd. (supra) for Assessment Year
+2008-09, we direct the Assessing Officer to exclude this company i.e. e-Zest
+Solutions Ltd., from the list of comparables."
+
+    
+    
+                                      27          ITA NO. 5924/Del/2012
+                                          (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.2.19     Respectfully following the decision of coordinate bench in
+    
+    
+
+Sun Gard Solutions India Pvt. vs. ACIT reported in [2015] 63 taxmann.com 323
+(Bangalore - Trib.), we direct the Assessing Officer/TPO to exclude this
+company from the final list of comparables.
+
+(v) Igate Global Solutions Ltd. ("Igate"):
+
+3.2.20 The next comparable being contested for exclusion is Igate Global
+Solutions Limited. The assessee rejected Igate in its TP Study holding the
+same to be functionally different. The TPO, however, included the same in the
+final list of comparables. Before us, the Ld. Counsel of the assessee
+submitted that Igate deserved to be excluded from the final list of
+comparables since Igate was engaged in rendering both software development as
+well as ITES Services. While referring to the notes to accounts of the annual
+report, he argued that that no proper segmental data were maintained by the
+said company. He also drew our attention to the fact that there was a merger
+during the relevant year. Hence, it was submitted that the said comparable
+deserves to be excluded. It was fairly accepted that though there is no
+finding of the Ld. DRP on this comparable but since all the material facts
+were available on record and as there was no dispute on application of
+filters,the issue could be adjudicated. He relied on the 28 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) co-ordinate bench's
+decision in the case of Nokia Siemens Networks India Pvt. Ltd vs. ACIT in ITA
+No. 333/Del/2013 in which the co- ordinate bench, whilst appreciating the fact
+that Igate was providing various services and owing to the fact that there was
+no segmental data, directed its exclusion.
+
+3.2.21 The Ld. CIT DR, on the other hand, whilst taking support from the
+orders of the lower authorities vehemently supported Igate's inclusion. She
+fairly conceded that since the assessee is not arguing regarding application
+of filters and reliance is placed only on the financials to demonstrate
+difference in functionality, she has no objection if the issue of exclusion of
+this comparable is adjudicated by the Bench.
+
+3.2.22 We have heard the rival submissions and perused the material on record.
+In view of the necessary facts being available on record, we do not see any
+impediment in adjudicating this comparable. On merits, we do not agree with
+the submissions of Ld. Counsel for the assessee that this Company ought to be
+removed from the list of comparables only on account of disclosure of
+'Amalgamation' in the Annual Report being undertaken during this relevant
+period. The Ld. Counsel has not shown the effect of this exceptional event
+(Amalgamation) on the financials for the relevant period. However, we agree
+with the submissions of the Ld. Counsel for 29 ITA NO. 5924/Del/2012 (Giesecke
+& Devrient India Pvt. Ltd.) Assessee that this company is engaged in providing
+array of services under the head Software Development and ITES and there are
+insufficient segmental details vis-a-vis services rendered under these heads.
+We note that for similar reasons this company was excluded by coordinate Bench
+in the case of Nokia Siemens Networks India Pvt. Ltd. vs. ACIT in ITA No.
+333/Del/2013. Respectfully following the view taken by the coordinate Bench,
+we direct the AO/TPO to exclude this company from the list of comparables.
+
+(vi) Infosys Technologies Ltd. ("Infosys"):
+
+3.2.23 The next comparable which is being agitated for exclusion by the
+assessee is Infosys Technologies Ltd. The said comparable was included by the
+TPO whilst holding that Infosys passes all filters and was, hence, comparable
+to the Assessee. Before us, the Ld. Counsel of the Assessee submitted that not
+only is Infosys an industry giant but it also spends heavily on its Research &
+Development (R&D) activities and owns significant intangibles. He took us
+through the Annual Report of Infosys to substantiate that there is significant
+difference in the scale of operations. Additionally, from the various pages of
+the Annual report, he showcased as to how Infosys was providing a wide array
+of services including software products, but insufficient segmental details
+were mentioned in the financials.
+
+    
+    
+                                    30          ITA NO. 5924/Del/2012
+                                        (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.2.24    Per contra the Ld. CIT Departmental Representative placed
+    
+    
+
+heavy reliance on the order passed by the lower authorities. 3.2.25 We have
+heard the rival submissions and perused the relevant material on record. We
+notice that on similar set of facts coordinate Bench of Tribunal in the case
+of Nokia Siemens Networks India Pvt. Ltd. vs. ACIT in ITA No. 333/Del/2013,
+has excluded this comparable by observing as follows:
+
+> "78. This company is undoubtedly a corporate giant with its large scale of
+> operations vis-à-vis the Assessee company; that it had a brand impact to
+> determine the premium pricing; that it has a different model of revenue
+> recognition. It is submitted on behalf of the assessee that this comparable
+> has been rejected in Assessee's own case in immediately preceding year, i.e.
+> AY 2007- 08 by the Tribunal on account of different risk profile, scale,
+> nature of services, revenue ownership of branded/ proprietary products,
+> onsite and offshore services etc. This fact is not contradicted by the
+> revenue.
+
+> 79\. Further, the Assessee has placed reliance on Aircom (supra), in order
+> to exclude this comparable company on the basis of its magnitude. The
+> coordinate bench has rejected this comparable by making following
+> observations:-
+
+> "17.2. We have considered the rival submissions and perused the relevant
+> material on record. It can be seen that the TPO has included this company in
+> the list of comparables by rejecting the assessee's contentions. The
+> assessee is providing and assigning software services to its AE alone
+> without acquiring any intellectual property rights in the work done by it in
+> the development of software. The Hon'ble Delhi 31 ITA NO. 5924/Del/2012
+> (Giesecke & Devrient India Pvt. Ltd.) High Court in CIT vs. Agnity India
+> Technologies (P) Ltd. (2013) 219 Taxmann 26 (Del) considered the giantness
+> of Infosys Ltd., in terms of risk profile, nature of services, number of
+> employees, ownership of branded products and brand related profits, etc. in
+> comparison with such factors prevailing in the case of Agnity India
+> Technologies Pvt. Ltd., being, a captive unit providing software development
+> services without having any IP rights in the work done by it. After making
+> comparison of various factors as enumerated above, the Hon'ble Delhi High
+> Court held Infosys Ltd. to be non-comparable with Agnity India
+> TechnologiesPvt. Ltd. The facts of the instant case are similar to the
+> extent that the extant assessee is also not owning any branded products and
+> having no expenditure on R&D etc. When we consider all the above factors in
+> a holistic manner, there remains absolutely no doubt that Infosys
+> Technologies Ltd. is not comparable with the assesse company. Respectfully
+> following the judgment of the Hon'ble jurisdictional High Court in Agnity
+> India (supra), we hold that Infosys Technologies Ltd., cannot be treated as
+> comparable with the assessee company. This company is, therefore, directed
+> to be excluded from the list of comparables."
+
+> 80\. The diversified activities of business, its deployment of capital,
+> resources and the brand name make this company not comparable with the
+> assessee and, therefore, this company has to be excluded from the final set
+> of comparable companies for benchmarking international transaction related
+> to software segment."
+
+3.2.26 Respectfully following the view taken by the coordinate Bench, whilst,
+following the judgment of the Hon'ble Delhi High Court, as afore mentioned, we
+direct the AO/ TPO to exclude Infosys from the final list of comparables.
+
+32 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+(vii) Kals Systems Limited (Segmental) ["Kals"]: 3.2.27 The next comparable
+being agitated before us is Kals Systems Limited. In its TP study, the
+assessee has rejected the said comparable as not being functionally
+comparable. The TPO, however, introduced Kals as a comparable that it passes
+all filters. Before us, the Ld. Counsel of the assessee strongly opposed the
+inclusion of Kals and referring to the Annual Report of Kals submitted that
+this comparable dealt in software products as well as services. By relying on
+the screenshot of website of Kals, he argued that this company is engaged in
+providing varied array of activities including software products. He argued
+that even though the TPO had taken segmental details of Kals namely "Software
+Development & Training" segment for comparison with assessee, but, as per the
+financials, there is lack of segmental data/bifurcation vis-à-vis the income
+and expenses in relation to the products developed and sold by Kals. 3.2.28
+The Ld. CIT Departmental Representative relied on the orders of the lower
+authorities and strongly argued for its inclusion. 3.2.29 We have heard the
+rival contentions of the parties and also perused the relevant material on
+record. We note that on similar set of facts, the coordinate Bench of the
+Tribunal in the case of Nokia 33 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) Siemens Networks India Pvt. Ltd. vs. ACIT in ITA No.
+333/Del/2013 has excluded this comparable by observing as follows:
+
+> "81. At the outset it is brought to our notice that this company was
+> considered by a coordinate bench of this tribunal in the immediately
+> preceding year that is assessment year 2007-08 in assessee's own case and
+> this Tribunal rejected this company to be included as a comparable to the
+> assessee.
+
+> 82\. On a perusal of the order dated 18.5.2016 in ITA No. 5837/Delhi/2011 in
+> assessee's own case, we find that this company was considered by this
+> Tribunal vide paragraph numbers 37 to 39 and found that the software segment
+> of this company also includes revenues from software and training, whereas
+> the assessee company is not engaged in imparting any training or selling its
+> software products to attract revenue. On this premise, this Tribunal held
+> that the finances of this company are not comparable with the assessee
+> company and on that ground this company is not a valid comparable.
+
+> 83\. Further, the Assessee has placed reliance on Aircom (supra), in order
+> to exclude this comparable company on the ground that this company
+> consisting of STP unit is engaged in software products and development of
+> software and is also undertaking training activity of software professionals
+> on online projects and not a good comparable. The coordinate bench has
+> rejected this comparable by making following observations:-
+
+> "18.3. After considering the rival submissions and perusing the relevant
+> material on record, we find that the entire premise of the TPO's inclusion
+> of this company in the list of comparables is that the software products and
+> training constitute only 4.24% of its revenue. This inference has been 34
+> ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) drawn on the
+> basis of the information supplied by this company stating: "the use of
+> readymade object laboratories is only to the tune of about (3.4 to 6.96) %
+> in the year 2007-
+
+> 08 to 2008-09 . We fail to comprehend as to how the above line conveys that
+> the software products' revenue stands at 4.24%. What has been written is
+> that the company's use of the readymade object laboratories is only to the
+> tune of maximum 4.24%. By no imagination this can be construed as revenues
+> from software products. When we peruse the Annual report of this company,
+> which is available in the paper book, it can be seen that there is no such
+> mention of software products revenue limited to 4.24%. On the contrary, it
+> has been mentioned in the Notes to the financial statement that: "the
+> company is engaged in development of software and software products since
+> its inception." The company consisting of STPI unit is engaged in software
+> products and development of software and is also undertaking training
+> activity of software professionals on online projects. Not only the revenues
+> of the segment considered by the TPO also include the revenue from software
+> products, but also from training imparted on commercial basis. It is clear
+> that the assessee is not providing any training under this segment, which
+> has been rather included by the assessee in the second category of the
+> assessee's business, namely, 'Software Deployment, Training, Consultancy and
+> Equipment Rental.' Since the assessee's activity under this segment does not
+> include any revenue from training, but the revenue of Kals Information
+> Systems Ltd., for the purpose of comparison includes income from training,
+> this company ceases to be comparable with the assessee's segment of
+> `Software development services'. Similar view has been taken by the Tribunal
+> in the assessee's own case for the immediately preceding assessment years
+> 2006-07 and 2007-08. Respectfully following the precedents, we hold that
+> Kals Information Systems Ltd. (Seg.) should be expunged from the set of
+> comparables."
+
+> 35 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+> 84\. No change of circumstances is brought to our notice either by the
+> assesse or the revenue, as such we do not find any reason to take a
+> different view from the view taken by this Tribunal for the earlier year.
+> We, therefore, consequently hold that this company is not a valid comparable
+> to that of the assessee and has to be excluded from the final set of
+> comparable companies for benchmarking international transaction related to
+> software segment."
+
+3.2.30 Respectfully following the view taken by the coordinate Bench, we
+direct the AO/TPO to exclude Kals from the list of comparables.
+
+(viii) LGS Global Ltd. ("LGS"):
+
+3.2.31 The next comparable being contested before us is LGS Global Ltd. At the
+outset, it was fairly accepted by the Ld. Counsel of the assessee that the
+said comparable was submitted by the assessee itself in its Transfer Pricing
+Study. He, however, submitted that this is not a fit comparable and there is
+difference in the FAR profile of this company vis-a-vis that of the assessee
+and, thus, is not a suitable comparable in terms of Rule 10B (1)(e) read with
+Rule 10B(2)/(3) of the Income Tax Rules, 1962. By relying on the decision of
+the Special Bench in the case of DCIT v Quark Systems Pvt. Ltd. reported in
+[2010] 38 SOT 307 (CHD)(SB) [which now stands confirmed by the 36 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) Hon'ble High Court of
+Punjab and Haryana in [2011] 244 CTR 542] he argued that there is no estoppel
+against law and the assessee can agitate its own comparables. He submitted
+that recently the Hon'ble High Court of Bombay in the case of CIT vs. Tata
+Power Solar Systems Ltd. reported in [2017] 298 CTR 197 (Bombay) has taken
+similar view. He submitted that although the said comparable was submitted by
+the assessee itself in the Transfer Pricing study, but it was objected to
+during the TP proceedings itself as is evident from Pg. 68 of the TPO's order.
+
+3.2.32 On merits, the Ld. Counsel submitted that LGS could not be considered
+as a comparable owing to functional differences in the profile of LGS in
+comparison to that of the assessee. He took us through various pages of the
+Annual Report to demonstrate that LGS was an end-to-end service provider and
+was providing product evaluation, design and development of products.
+Additionally, it was also pointed out that this comparable was providing BPO
+Services in the field of Human Resources, life sciences, legal services,
+supply chain management, sales, customer support etc. He drew our attention to
+the notes to accounts to substantiate that segmental data for the variety of
+services was not available. It was further submitted that the said comparable
+failed the TPO's own foreign exchange earning filter.
+
+    
+    
+                                       37            ITA NO. 5924/Del/2012
+                                             (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.2.33       The Ld. CIT Departmental Representative, on the other
+    
+    
+
+hand, strongly opposed the assessee agitating the said comparable since the
+same was submitted and accepted by the assessee in its Transfer Pricing study.
+Additionally, the Ld. CIT DR relied on the orders of the TPO and the Ld. DRP.
+
+3.2.34 We have heard the parties at length and also perused the material on
+record. We agree with the arguments advanced by the Ld. Counsel for the
+assessee that there can be no estoppel against law in terms of selection of a
+comparable and the comparability has to be adjudicated in terms of parameters
+laid down under Rule 10B of the Rules. Our view is further fortified by the
+judgment of the Hon'ble Bombay High Court in CIT vs. Tata Power Solar Systems
+Ltd. reported in [2017] 298 CTR 197 (Bombay), wherein it has been observed as
+follows :
+
+> "We find that the impugned order of the Tribunal holding that a party is not
+> barred in law from withdrawing from its list of comparables, a company, if
+> the same is found to have been included on account of mistake as on facts,
+> it is not comparable. The Transfer Pricing Mechanism requires comparability
+> analysis to be done between like companies and controlled and un-controlled
+> transactions. This comparison has to be done between like companies and
+> requires carrying out of FAR analysis to find the same. Moreover, the
+> Assessee's submission in arriving 38 ITA NO. 5924/Del/2012 (Giesecke &
+> Devrient India Pvt. Ltd.) at the ALP is not final. It is for the TPO to
+> examine and find out the companies listed as comparables which are, in fact
+> comparable."
+
+3.2.35 On merits, we note that on similar set of facts, the coordinate Bench
+of Tribunal in the case of Nokia Siemens Networks India Pvt. Ltd. vs. ACIT in
+ITA No. 333/Del/2013, has excluded this comparable by observing as follows:
+
+> "85. Initially the assessee offered this company as a comparable, but the
+> assessee claims to have found that this company is not a comparable and
+> wrongly included in the final list of comparable companies. Inasmuch as the
+> key determinative factor as far as the inclusion/exclusion of any company
+> from the list of comparables is the functionality of an entity, we are of
+> the considered opinion that this company has to be considered on the
+> parameters of functionality and assessee cannot be prevented from
+> challenging the same.
+
+> 86\. Page No. 26 of the 9th annual report 2007-08 of this company can be
+> found at page No. 935 of the paper book clearly establishes that this
+> company is engaged in a multifarious activities including an end to end
+> service provider and offers variety of services. It is involved in product
+> evaluation, design & development etc. of the products. Further, it also
+> renders BPO services in the field of Human Resources, Life Sciences, Legal
+> Services, Supply Chain Management, Sales, and Customer Support etc. Further,
+> the financial statements lacks in providing the segmental results as well.
+
+> 39 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+> 87\. Further reading of the notes forming part of the accounts vide schedule
+> 14 incorporated at page No. 971 of the paper book coupled with entries in
+> scheduled 5 at page No. 966 thereof show that there is an exceptional
+> circumstances during the year, i.e. the company has written off Goodwill,
+> which arose on account of merger of Lanco Global Systems Inc.
+
+> 88\. In view of the vast functional diversity of this company as is evident
+> from the "offerings of the LGS service and solution" to be found at page No.
+> 935 of its annual report coupled with the fact of the exceptional
+> circumstance occurred during the year, we are of the considered opinion that
+> this company is not a good comparable with the assessee and on that score it
+> has to be excluded from the final set of comparable companies for the
+> present year under consideration."
+
+3.2.36 Respectfully following the view taken by the coordinate Bench, we
+direct the AO/TPO to exclude this company from the list of comparables.
+
+(ix) Mindtree Limited (Segmental) ["Mindtree"]: 3.2.37 The assessee's next
+contention is regarding the exclusion of Mindtree as a comparable. As in the
+case of LGS, the Ld. Counsel of the Assessee fairly accepted that the said
+comparable was proposed as a comparable by the assessee itself in its TP Study
+and placed 40 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+reliance on his arguments advanced for the earlier comparable i.e. LGS Global
+Ltd.
+
+3.2.38 On merits, the Ld. Counsel submitted that Mindtree is structured into
+two business units that focus on software development Research and Development
+Services and IT Services. It was further submitted that in addition to these
+services, Mindtree also offers IT strategic consulting services, application
+development, data warehousing and business intelligence, application
+maintenance, package implementation, product architecture, design and
+engineering embedded software, technical support, testing and infrastructure
+management service. Additionally, it was submitted that even though the
+software development segment has been taken by the TPO, the services provided
+under the umbrella of software development are in a wide array and can by no
+stretch of imagination be compared to a software developer like the assessee.
+He further invited our attention to various pages of the Annual report and
+submitted that the income declared during the year includes revenue of WOS
+[TES PV and Projects Solutions Pvt. Ltd.] which was acquired on 17.12.2007.
+Additionally, it was also submitted that the said company earned substantially
+from onsite projects and hence, had a different business model altogether. It
+was also fairly accepted that though there is no finding of the Ld. DRP on
+this comparable but 41 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+Ltd.) since all material facts are available on record and as there is no
+dispute on application of filters, the issue can be adjudicated. 3.2.39 Per
+contra, the Ld. CIT DR strongly opposed the submissions of the assessee and
+vehemently argued towards Mindtree's inclusion. Like earlier comparables, she
+fairly conceded that since the assessee is not arguing regarding application
+of filters, she has no objection if the issue of exclusion of this comparable
+is adjudicated by the Bench.
+
+3.2.40 We have heard the rival submissions and considered the relevant
+material on record. In view of all material facts being available on record,
+we proceed to adjudicate this issue. On merits, we are of the view that the
+factual position in the present case is similar to the decision of coordinate
+Bench of Tribunal in the case of Nokia Siemens Networks India Pvt. Ltd. vs.
+ACIT in ITA No. 333/Del/2013, wherein this comparable was excluded by
+observing as follows:
+
+> "91. Assessee sought the exclusion of this company on the ground of
+> functional dissimilarity. However Ld. TPO included it on the ground that
+> this company is deriving revenue from both software as well as ITES and
+> sufficient segmental information is not available in the financial
+> statements. Under the head "the business performance", at page No. 1010 of
+> the paper book it is revealed that this company is structured into two
+> business units 42 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+> Ltd.) that focus on software development R&D services, and IT services. It
+> also offers IT Strategic Consulting, Application Development, Data
+> Warehousing and Business Intelligence, Application Maintenance, Package
+> Implementation, Product Architecture, Design and Engineering, Embedded
+> Software, Technical Support, Testing and Infrastructure Management Service.
+
+> 92\. Further at page No. 27 of the annual report incorporated at page No.
+> 1027 of the paper book it is mentioned that on 17/12/2007 the company
+> acquired hundred percent of the outstanding equity shares of TES PV and
+> Projects Solutions Private Limited which was subsequently renamed as
+> Mindtree Technologies Private Limited at a total consideration of Rs. 259.7
+> million equivalent to USD 6.55 million. It is further stated that as a
+> consequence of this, the revenues of this company as on 31st March 2008 of
+> Rs. 64.80 millions has been included in the above revenues for that year.
+
+> 93\. Needless to say the vast functional dissimilarity coupled with the
+> extraordinary event of acquisition of equity shares stated above suggests
+> that this company is not a good comparable with the assessee and
+> consequently is liable to be excluded from the list of comparables."
+
+3.2.41 Respectfully following the view taken by the coordinate Bench, we
+direct the AO/TPO to exclude this company from the list of comparables.
+
+43 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+(x) Persistent Systems Pvt. Ltd. ("Persistent"): 3.2.42 The next comparable
+being agitated by the assessee before us is Persistent Systems Pvt. Limited.
+The Ld. Counsel fairly accepted that Persistent was the Assessee's own
+comparable and placed reliance on his arguments advanced in respect of LGS and
+Mindtree. 3.2.43 On merits, the Ld. Counsel submitted that Persistent could
+not be considered as a comparable since they primarily dealt in product
+development and analytical services. To establish the difference in
+functionality, he referred to the handouts of the screenshot of website of
+Persistent and various pages of the Annual Report. He further submitted that
+proper segmental details of this comparable are not available in public domain
+and, thus, this company cannot be considered to be a comparable to the
+assessee. He further took us through the Annual Report and argued that the
+company had undertaken acquisitions during the year, which had bearing on the
+financials. It was also submitted that though there is no finding of the DRP
+on this comparable but since all material facts are available on record and as
+there is no dispute on application of filters, the issue could be adjudicated.
+
+3.2.44 Per contra, the Ld. CIT Departmental Representative placed heavy
+reliance on the orders of the lower authorities and prayed that since this
+company passes all filters, it is a suitable comparable. In 44 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) terms of the submission
+made by the Ld. Counsel for assessee that he is not disputing the application
+of filters, the Ld. CIT Departmental Representative conceded to the
+adjudication of this comparable by this Bench.
+
+3.2.45 We have heard the rival submissions and perused the relevant material
+on record. We are of the opinion that since all the relevant facts are
+available on record and since the assessee is not disputing the application of
+filters, there is no reason to remit the matter back to the lower authorities.
+We note that on similar set of facts, the coordinate Bench of Tribunal in the
+case of Trianz Holdings Pvt. Ltd. vs. DCIT in ITA No. 1568/Bang/2012, has
+excluded this comparable by observing as follows:
+
+"17.1.1 This company was selected by the TPO as a comparable.
+
+The assessee objected to the inclusion of this company as a comparable for the
+reasons that this company being engaged in software product designing and
+analytic services, it is functionally different and further that segmental
+results are not available. The TPO rejected the assessee's objections on the
+ground that as per the Annual Report for the company for Financial Year
+2007-08, it is mainly a software development company and as per the details
+furnished in reply to the notice under section 133(6) of the Act, software
+development constitutes 96% of its revenues. In this view of the matter, the
+Assessing Officer included this company i.e. 45 ITA NO. 5924/Del/2012
+(Giesecke & Devrient India Pvt. Ltd.) Persistent Systems Ltd., in the list of
+comparables as it qualified the functionality criterion.
+
+17.1.2 Before us, the assessee objected to the inclusion of this company as a
+comparable submitting that this company is functionally different and also
+that there are several other factors on which this company cannot be taken as
+a comparable. In this regard, the learned Authorised Representative submitted
+that:
+
+> (i) This company is engaged in software designing services and analytic
+> services and therefore it is not purely a software development service
+> provider as is the assessee in the case on hand.
+
+> (ii) Page 60 of the Annual Report of the company for F.Y. 2007-08 indicates
+> that this company, is predominantly engaged in 'Outsourced Software Product
+> Development Services' for independent software vendors and enterprises.
+
+> (iii) Website extracts indicate that this company is in the business of
+> product design services.
+
+> (iv) The ITAT, Mumbai Bench in the case of Telecordia Technologies India
+> Pvt. Ltd. (supra) while discussing the comparability of another company,
+> namely Lucid Software Ltd. had rendered a finding that in the absence of
+> segmental information, a company be taken into account for comparability
+> analysis. This principle is squarely applicable to the company presently
+> under consideration, which is into product development and product design
+> services and for which the segmental data is not available.
+
+> The learned Authorised Representative prays that in view of the above, this
+> company i.e. Persistent Systems Ltd. be omitted from the list of
+> comparables.
+
+17.2 Per contra, the learned Departmental Representative support the action of
+the TPO in including this company in the list of comparables.
+
+17.3 We have heard the rival submissions and perused and carefully considered
+the material on record. It is seen from the 46 ITA NO. 5924/Del/2012 (Giesecke
+& Devrient India Pvt. Ltd.) details on record that this company i.e.
+Persistent Systems Ltd., is engaged in product development and product design
+services while the assessee is a software development services provider. We
+find that, as submitted by the assessee, the segmental details are not given
+separately. Therefore, following the principle enunciated in the decision of
+the Mumbai Tribunal in the case of Telecordia Technologies India Pvt. Ltd.
+(supra) that in the absence of segmental details/information a company cannot
+be taken into account for comparability analysis, we hold that this company
+i.e. Persistent Systems Ltd. ought to be omitted from the set of comparables
+for the year under consideration. It is ordered accordingly."
+
+3.2.46 Respectfully following the view taken by the coordinate Bench, we
+direct the AO/TPO to exclude this company from the list of comparables.
+
+(xi) Quintegra Solutions Limited ("Quintegra"): 3.2.47 Quintegra was rejected
+by the assessee in its TP Study as not being functionally comparable to the
+assessee. The TPO however included the same holding it to be comparable to the
+assessee. The Ld. Counsel for the assessee submitted before us that Quintegra
+could not be taken as a comparable since the same was functionally different
+from the assessee. It was submitted that Quintegra was 47 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) mainly a KPO and was
+engaged in product engineering services, having proprietary software products
+and was hence not a pure software developer like the assessee. Additionally,
+it was submitted that owing to the lack of segmental data between the products
+and services, the same could not be held to be comparable to the assessee. He
+also took us through the Annual Report to demonstrate that Quintegra was
+making substantial investments in its Research & Development activities and,
+as a result, was owning substantial intangibles. He further argued that there
+was an acquisition during the year and, hence, Quintegra on this count as well
+could not be accepted as a comparable. It was also fairly accepted that though
+there is no finding of the Ld. DRP on this comparable but since all the
+material facts are available on record and as there is no dispute on
+application of filters, the issue could be adjudicated. 3.2.48 In response,
+the Ld. CIT Departmental Representative vehemently opposed the submissions of
+the assessee's counsel and prayed that since this company passes all filters,
+it is a suitable comparable. In terms of the submission made by the Ld.
+Counsel for assessee that he is not disputing the application of filters, the
+Ld. CIT Departmental Representative, in all fairness, accepted that the Bench
+could take a view on the comparability.
+
+    
+    
+                                   48          ITA NO. 5924/Del/2012
+                                       (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.2.49    We have considered the arguments of both the parties and
+    
+    
+
+also the material available on record. We are of the opinion that since all
+the necessary facts for adjudication of this comparable are available on
+record, there is no reason to remit this issue back to the file of the lower
+authorities. We are of the view that the factual position in the present
+matter is similar with decision of the coordinate bench in Sun Gard Solutions
+India Pvt. Ltd. vs. ACIT in ITA No. 1487/Bang/2012, wherein it is held as
+follows:
+
+> "12.1 This company was selected as a comparable by the TPO inspite of the
+> assessee's objections that this company is functionally different and also
+> since there were peculiar economic circumstances in the form of acquisitions
+> made during the year. The TPO rejected the assessee's objections, holding
+> that this company qualifies all the filters applied. On the issue of
+> acquisitions, the TPO rejected the assessee's objections observing that the
+> assessee had not adduced any evidence to show that this event had any
+> influence on the pricing or the margin earned.
+
+12.2 Before us, the assessee objected to the inclusion of this company in the
+list of comparables on the ground that it was functionally different and also
+that there were other factors for which this company cannot be considered as a
+comparable to the assessee in the case on hand who was a captive software
+service provider to its AEs. It is submitted that this company i.e. Quintegra
+Solutions Ltd. is engaged in product engineering services and its Annual
+Report states that it is engaged in proprietary software products and in
+research and development 49 ITA NO. 5924/Del/2012 (Giesecke & Devrient India
+Pvt. Ltd.) activities which has resulted in creation of its own IPRs. In
+support of its plea for exclusion of this company from the list of
+comparables, the learned Authorised Representative placed reliance on the
+decision of the co-ordinate bench of this Tribunal in the case of 3DPLM
+Software Solutions Ltd. (supra) for Assessment Year 2008-09 where this company
+was excluded from the list of comparables on the ground of functional
+differences from a captive software service provider.
+
+12.3 Per contra, the learned Departmental Representative supported the order
+of the TPO in including this company as a comparable to the assessee.
+
+12.4.1 We have heard the rival contentions and perused and carefully
+considered the material on record; including the judicial decision cited and
+placed reliance on by the assessee. We find that the co-ordinate bench of this
+Tribunal in the case of 3DPLM Software Solutions Ltd. (supra) for Assessment
+Year 2008-09 has omitted this company i.e. Quintegra Solutions Ltd. from the
+list of comparables since it is into product engineering services; is engaged
+in proprietary software products, has substantial R&D activity which has
+resulted in creation of IPRs and its own intangible assets thereby making it
+functionally different from the assessee in the case on hand is a captive
+software service provider; as is the assessee in the case on hand. At
+paras18.3.1 to 18.3.3 of its order, the co-ordinate bench has held as under:--
+
+> "18.3.1 We have heard the rival submissions and perused and carefully
+> considered the material on record. It is seen from the details brought on
+> record that this company i.e. Quintegra Solutions Ltd. is engaged in product
+> engineering services and is not purely a software development service 50 ITA
+> NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) provider as is the
+> assessee in the case on hand. It is also seen that this company is also
+> engaged in proprietary software products and has substantial R&D activity
+> which has resulted in creation of its IPRs. Having applied for trade mark
+> registration of its products, it evidences the fact that this company owns
+> intangible assets. The co-ordinate bench of this Tribunal in the case of
+> 24/7 Customer.Com Pvt. Ltd. (ITA No.227/Bang/2010 dt.9.11.2012) has held
+> that if a company possesses or owns intangibles or IPRs, then it cannot be
+> considered as a comparable company to one that does not own intangibles and
+> requires to be omitted from the list of comparables, as in the case on hand.
+
+> 18.3.2 We also find from the Annual Report of Quintegra Solutions Ltd. that
+> there have been acquisitions made by it in the period under consideration.
+> It is settled principle that where extraordinary events have taken place,
+> which has an effect on the performance of the company, then that company
+> shall be removed from the list of comparables. 18.3.3 Respectfully following
+> the decision of the co-ordinate bench of the Tribunal in the case of 24/7
+> Customer.Com Pvt. Ltd. (supra), we direct that this company i.e. Quintegra
+> Solutions Ltd. be excluded from the list of comparables in the case on hand
+> since it is engaged in proprietary software products and owns its own
+> intangibles unlike the assessee in the case on hand who is a software
+> service provider." 12.4.2 Following the above decision of the co-ordinate
+> bench of this Tribunal (supra), we direct the Assessing Officer/TPO to omit
+> this company from the list of comparables."
+
+3.2.50 Respectfully following the view taken by the coordinate Bench, we
+direct the AO / TPO to exclude this comparable from the list of comparables.
+
+51 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+(xii) R System International Limited ("R System"): 3.2.51 R System
+International Limited was a comparable chosen by the assessee itself in its TP
+Study. The Ld. Counsel for the Assessee relied on the case of laws as referred
+in the case of LGS and other comparables, to contend its exclusion even though
+this comparable was chosen by the assessee itself in the Transfer Pricing
+documentation.
+
+3.2.52 On merits, the Ld. Counsel for the Assessee, whilst taking us through
+the various pages of the Annual Report, submitted that R System was mainly
+into the business of outsourced product development and customer support
+services and from the Notes to Accounts it was argued that sufficient
+segmental details are not available. Additionally, it was also submitted that
+R Systems was providing BPO services to its customers, which is not akin to
+software development and hence could not be functionally comparable to the
+profile of the assessee. Further, he took us through pages 18, 23, 32 and 104
+of the Annual Report to show how the company had issued an IPO and also made
+strategic acquisitions during the impugned year. From the financials he
+submitted how R Systems was spending extensively on their R&D activities and
+resultantly owned intangibles 52 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) as well. It was also fairly accepted that though there is no
+finding of the Ld. DRP on this comparable, the same could be adjudicated.
+3.2.53 The Ld. CIT Departmental Representative relied on the orders of the
+lower authorities and prayed that since this company passes all filters, it is
+a suitable comparable. In terms of the submission made by the Ld. Counsel for
+Assessee that he is not disputing the application of filters, the Ld. CIT
+Departmental Representative had no objection to the adjudication of this
+comparable by this Bench.
+
+3.2.54 We have heard the rival submissions and perused the material available
+on record. We note that all the relevant facts necessary for adjudication of
+this comparable are available on record and, therefore, we do not see any
+reason to remit the matter back to the file of the lower authorities. We are
+of the view that the factual position in the present case is similar to the
+decision of coordinate Bench of Tribunal in the case of Nokia Siemens Networks
+India Pvt. Ltd. vs. ACIT in ITA No. 333/Del/2013, wherein this comparable was
+excluded by observing as follows:
+
+> "103. Assessee objected the inclusion of this company in the set of
+> comparables on the ground that this company was functionally different from
+> the assessee. However, this company was selected as a comparable by the TPO
+> and the assessee has argued for its exclusion on the ground that it
+> functionally dissimilar to that of 53 ITA NO. 5924/Del/2012 (Giesecke &
+> Devrient India Pvt. Ltd.) the Assessee as this company is engaged in the
+> Outsourced Product Development and Customer Support Services. Further, it
+> also offers low end BPO Services. Page No. 9 of the annual report of this
+> company establishes this fact.
+
+> 104\. Having regard to the information furnished in the annual report of
+> this company vide page numbers 1356, 1362, 1366, 1371, 1378 and 1380 of the
+> paper book, we are convinced that that this company is not a pure software
+> service provider but is engaged in development and sale of products and on
+> the ground excludable from the final set of comparable companies for
+> benchmarking international transaction related to software segment."
+
+3.2.55 Respectfully following the view taken by the coordinate Bench, we
+direct the AO/TPO to exclude this company from the list of comparables.
+
+(xiii) Softsol India Limited ("Softsol"):
+
+3.2.56 The next comparable being agitated before us is Softsol India Ltd. The
+said comparable was rejected by the assessee in its Transfer Pricing Study on
+the ground that it failed the RPT filter. The TPO however rejected the filter
+applied by the Assessee and applied the filter of RPT< 25% as opposed to
+RPT<15% as applied by the assessee. Hence, the TPO held Softsol of being a fit
+comparable and added the same to the final list. Before us, the Ld. Counsel
+for the 54 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+assessee submitted that Softsol was not functionally comparable to the FAR
+profile of the assessee since the same is in the business of providing end to
+end services. Referring the screenshot of website (handout) of Softsol, he
+argued that the company was in the business of manufacturing wide range of
+software products, software development and training services. He also took us
+through the Annual Report of the company wherein it was mentioned that they
+deal in software products and from the notes to accounts it was shown that the
+company does not maintain proper segmentals. Thereafter, the Ld. Counsel took
+us though the financials and it was submitted that the company develops
+intangibles and also that their revenue recognition model was different from
+that of the assessee. Additionally, without prejudice to the above arguments,
+the Ld. Counsel submitted that the filter as adopted by the TPO of RPT<25% was
+not a valid filter and for the same the assessee placed reliance on the
+Bengaluru Bench's decision in the case of LSI Technologies India Pvt. Ltd. vs.
+ITO in ITA No. 1380/Bang/2010, order dated 13.05.2016. As in the case of some
+of the earlier comparables being contested, it was fairly pointed out that
+though there is no finding by the Ld. DRP on this comparable, the Bench could
+adjudicate the issue all the same. Further, the Ld. Counsel for the Assessee
+also submitted 55 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+that the arguments regarding application of filters may be treated as not
+pressed and prayed for adjudication of this comparable. 3.2.57 The Ld. CIT
+Departmental Representative vehemently argued for the comparable's inclusion
+and took support from the TPO's order. In terms of the submission made by the
+Ld. Counsel for assessee that he is not disputing the application of filters,
+the Ld. CIT Departmental Representative had no objection to the adjudication
+of this comparable by the Bench.
+
+3.2.58 We have heard the rival submissions and also perused the relevant
+material on record. We are of the opinion that since all the relevant facts
+necessary for adjudication of this comparable are available on record we can
+proceed to adjudicate this comparable. We are of the view that the factual
+position in the present case is similar to the decision of the coordinate
+Bench of Tribunal in the case of Nokia Siemens Networks India Pvt. Ltd. vs.
+ACIT in ITA No. 333/Del/2013, wherein this comparable was retained by
+observing as follows:
+
+> 105\. The Assessee objected this company from the list of comparable while
+> preparing its TP study on the ground of related party transactions and also
+> basing on the statement in the annual report to the effect that this company
+> is a provider of e-commerce, network technology, Internet infrastructure and
+> other special 56 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+> technology areas and has diverse client base ranging from large customers to
+> small high-tech start-up companies.
+
+> 106\. Ld. TPO observed that the company at present is in various areas of
+> software development industry and what is stated above in the annual report
+> is a futuristic statement. Ld. TPO referred to para 2.1 to be found on page
+> No. 1533 of the paper book to the effect that no inventory is held, since
+> the company is engaged in developing software and providing IT solutions.
+> This fact evidences that this company is confined only to software
+> development and not yet into net work or internet infrastructure. Even the
+> Profit and Loss Account to be found at page No. 1536 also shows that other
+> than the other income, the company is deriving income only from software
+> exports. Even the Note 15 of the Notes on Account reads that there are no
+> separate reportable segments. We do not find any material from the record
+> that this company has actually been engaged in the activities like a)
+> business of Software Products b) Software Development c) Training Services;
+> and d) manufacture of vide range of products or that it provides end to end
+> business solutions.
+
+> 107\. We therefore find it difficult that this company is functionally
+> different from the assessee or that it is not a good comparable for want of
+> any segmental information or related party information. We, therefore, find
+> that this company has to be retained as a good comparable in the final list
+> of comparables."
+
+3.2.59 Respectfully following the view taken by the coordinate Bench, we
+reject the arguments of the assessee and direct the AO/TPO to include this
+company in the final list of comparables.
+
+57 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+(xiv) Tata Elxsi Limited ("Tata Elxsi"):
+
+3.2.60 The next comparable being agitated before us is Tata Elxsi Limited. The
+said comparable was chosen by the assessee itself in its TP Study. The Ld.
+Counsel for the assessee relied on the case laws as relied upon while arguing
+for exclusion of LGS and some other comparables, to contend exclusion of Tata
+Elxsi even though the comparable was chosen by the assessee itself in its TP
+Study. 3.2.61 On merits, the Ld. Counsel submitted that the said company could
+not be considered as a comparable since the company, along with providing
+software development, also dealt in product design services, innovation design
+engineering, visual computing and systems integration and support. The Ld.
+Counsel drew our attention to the 'Notes to accounts' of the Annual Report to
+argue that the company, although, dealt with wide array of services, it did
+not maintain proper segmentals, and, hence, the same could not be retained as
+a comparable. Like some of the earlier comparables, it was also fairly
+accepted that though there is no finding of the Ld. DRP on this comparable but
+in view of all the material facts being available on record and as there being
+no dispute on application of filters, adjudication on this comparable be done.
+
+    
+    
+                                    58          ITA NO. 5924/Del/2012
+                                        (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.2.62    The Ld. CIT Departmental Representative placed reliance
+    
+    
+
+on the orders of the Ld. DRP and TPO. The Ld. CIT DR had no objection to the
+adjudication of this comparable by the Bench. 3.2.63 We have heard the rival
+submissions of the parties and also perused the relevant material on record.
+We are of the opinion that since all the necessary facts for adjudication of
+this comparable are available on record, we can adjudicate this issue. We are
+of the view that the factual position in the present matter is similar with
+decision of the coordinate bench in Sun Gard Solutions India Pvt. Ltd. v ACIT
+in ITA No. 1487/Bang/2012, wherein it is held as follows:
+
+> "13.1 This company was selected as a comparable by the TPO overruling the
+> objections of the assessee to the inclusion of this company on several
+> counts like functional dis-similarity, having significant R&D activity,
+> brand value, size, etc. 13.2 Before us, the learned Authorised
+> Representative contended that this company i.e. Tata Elxsi Ltd., is not
+> functionally comparable to the assessee as it performs a variety of
+> functions under software development services segment, namely product
+> design, innovation design engineering, visual computing labs etc. as per the
+> details reflected in its Annual Report; whereas the assessee in the case on
+> hand is a captive software service provider. In support of its plea for
+> excluding this company from the limit of comparables, the learned Authorised
+> Representative placed reliance on the decision of the co-ordinate bench of
+> this Tribunal in the case of 3DPLM Software Solutions Ltd. (supra) for 59
+> ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) Assessment Year
+> 2008-09, wherein this company was omitted from the list of comparables on
+> grounds of being functionally different and dis-similar to a captive
+> software service provider.
+
+13.3 Per contra, the learned Departmental Representative supported the orders
+of the TPO in including this company as a comparable to the assessee.
+
+13.4.1 We have heard the rival contentions and perused and carefully
+considered the material on record; including the judicial decision cited by
+the assessee. We find that the co-ordinate bench of this Tribunal in the case
+of 3DPLM Software Solutions Ltd. (supra) for Assessment Year 2008-09 has held
+that this company is to be omitted from the set of comparables as it is
+functionally different and dis-similar from a captive software service
+provider, as is the assessee in the case on hand. At paras 13.4.1 and 13.4.2
+of its order, the co-ordinate bench has held as under:--
+
+> '13.4.1 We have heard both parties and carefully perused and considered the
+> material on record. From the details on record, we find that this company is
+> predominantly engaged in product designing services and not purely software
+> development services. The details in the Annual Report show that the segment
+> "software development services" relates to design services and are not
+> similar to software development services performed by the assessee.
+
+> 13.4.2 The Hon'ble Mumbai Tribunal in the case of Telecordia Technologies
+> India Pvt. Ltd. v. ACIT (ITA No.7821/Mum/2011) has held that Tata Elxsi Ltd.
+> is not a software development service provider and therefore it is not
+> functionally comparable. In this context the relevant portion of this order
+> is extracted and reproduced below:-
+
+> "... Tata Elxsi is engaged in development of niche product and development
+> services which is entirely 60 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+> India Pvt. Ltd.) different from the assessee company. We agree with the
+> contention of the learned Authorised Representative that the nature of
+> product developed and services provided by this company are different from
+> the assessee as have been narrated in para 6.6 above. Even the segmental
+> details for revenue sales have not been provided by the TPO so as to
+> consider it as a comparable party for comparing the profit ratio from
+> product and services. Thus, on these facts, we are unable to treat this
+> company as fit for comparability analysis for determining the arm's length
+> price for the assessee, hence, should be excluded from the list of
+> comparable portion."
+
+> As can be seen from the extracts of the Annual Report of this company
+> produced before us, the facts pertaining to Tata Elxsi have not changed from
+> Assessment Year 2007-08 to Assessment Year 2008-09. We, therefore, hold that
+> this company is not to be considered for inclusion in the set of comparables
+> in the case on hand. It is ordered accordingly.' 13.4.2 Following the above
+> decision of the co-ordinate bench of this Tribunal (supra), we direct the
+> Assessing Officer/TPO to exclude this company from the list of comparables
+> to the assessee."
+
+3.2.64 Respectfully following the view taken by the coordinate Bench, we
+direct the AO / TPO to exclude this company from the list of comparables.
+
+(xv) Thirdware Solution Limited ("Thirdware"): 3.2.65 The next comparable
+agitated before us is Thirdware Solution Limited. The Ld. Counsel for the
+assessee has objected to the 61 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) inclusion of this company as a comparable on the ground that
+apart from software development services, it is in the business of product
+development; trading in software and giving licenses for the use of software.
+He also pointed out from the Annual Report that this company has not provided
+any separate segmental profit and loss account for software development
+services and product development services. He further argued that the TPO has
+wrongly computed the margin of this comparable and has taken entity level
+sales figure whilst calculating the operating margin and not the sales of the
+software segment. He argued that no details are given in the financials in
+respect of nature of transaction with subsidiaries. It was also fairly
+accepted that though there is no finding of the Ld. DRP on this comparable but
+in view of all the material facts being available on record and there being no
+dispute on application of filters, request was made to adjudicate this
+comparable.
+
+3.2.66 The Learned CIT Departmental Representative, on the other hand,
+supported the orders of the authorities below. She also had no objection to
+the adjudication of this comparable by the Bench. 3.2.67 We have heard the
+rival submissions of the parties and also perused the relevant material on
+record. We are of the opinion that all necessary facts for adjudication of
+this comparable being available on record, we can adjudicate this issue. We
+are of the view that the 62 ITA NO. 5924/Del/2012 (Giesecke & Devrient India
+Pvt. Ltd.) factual position in the present matter is similar with decision of
+coordinate bench in Sun Gard Solutions India Pvt. Ltd. v ACIT inITA No.
+1487/Bang/2012, wherein it is held as follows:
+
+> "14.1 This company was selected as a comparable by the TPO inspite of the
+> assessee's objections to its inclusion on the ground that its turnover was
+> in excess of Rs.500 Crores. Before us, the assessee has objected to the
+> inclusion of this company as a comparable on the ground that apart from
+> software development services, it is in the business of product development;
+> trading in software and giving licenses for the use of software. The learned
+> Authorised Representative also pointed out from the Annual Report that this
+> company has not provided any separate segmental profit and loss account for
+> software development services and product development services. In support
+> of its plea for exclusion of this company from the list of comparables, the
+> learned Authorised Representative placed reliance on the decision of the co-
+> ordinate bench of this Tribunal in the case of 3DPLM Software Solutions Ltd.
+> (supra) for Assessment Year 2008-09, wherein it was held to be not
+> comparable to a purely software development service provider.
+
+> 14.2 Per contra, the learned Departmental Representative supported the order
+> of the TPO in including this company in the list of comparables to the
+> assessee.
+
+> 14.3.1 We have heard both parties and perused and carefully considered the
+> material on record; including the judicial decision relied on by the
+> assessee. We find that the co-ordinate bench of this Tribunal in the case of
+> 3DPLM Software Solutions Ltd. (supra) 63 ITA NO. 5924/Del/2012 (Giesecke &
+> Devrient India Pvt. Ltd.) for Assessment Year 2008-09 has directed exclusion
+> of this company from the list of comparables to a pure software service
+> provider, like the assessee in the case on hand, as it is functionally
+> different; being engaged in product development and earns revenue from sale
+> of licenses and subscription, etc. holding as under at para 15.3 of its
+> order:--
+
+> "15.3 We have heard the rival submissions and perused and carefully
+> considered the material on record. It is seen from the material on record
+> that the company is engaged in product development and earns revenue from
+> sale of licenses and subscription. However, the segmental profit and loss
+> accounts for software development services and product development are not
+> given separately. Further, as pointed out by the learned Authorised
+> Representative, the Pune Bench of the Tribunal in the case of E-Gain
+> Communications Pvt. Ltd. (supra) has directed that since the income of this
+> company includes income from sale of licenses, it ought to be rejected as a
+> comparable for software development services. In the case on hand, the
+> assessee is rendering software development services. In this factual view of
+> the matter and following the afore cited decision of the Pune Tribunal
+> (supra), we direct that this company be omitted from the list of comparables
+> for the period under consideration in the case on hand."
+
+> 14.3.2 Following the above decision of the co-ordinate bench (supra), we
+> direct the Assessing Officer/TPO to exclude this company from the list of
+> comparables."
+
+3.2.68 Respectfully following the view taken by the coordinate Bench, we
+direct the AO / TPO to exclude this company from the list of comparables.
+
+64 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) (xvi) Wipro
+Limited (Segmental) ["Wipro"]:
+
+3.2.69 The last comparable being agitated for exclusion before us is Wipro
+Limited. The said comparable was introduced by the TPO by holding that it
+satisfies all filters. Before us the Ld. Counsel for the Assessee submitted
+that the said company cannot be held to be comparable to the Assesse since the
+same is functionally different. It was submitted that although the TPO has
+taken the software segment, Wipro is engaged in several operations within the
+said segment itself and additionally deals in software products too. The Ld.
+Counsel took us through various pages of the Annual Report to substantiate the
+above argument and whilst referring to the 'Notes to Accounts' of the
+financials it was submitted that the said company did not maintain proper
+segmentals bifurcating the revenues/expenses between the services and products
+within the software segment. Additionally, by referring to the financials, it
+was submitted that the said company owned intangibles and whilst taking us
+through various pages it was also submitted that the said company had
+undertaken various acquisitions during the relevant assessment year.
+
+3.2.70 The Learned CIT Departmental Representative, on the other hand,
+supported the orders of the authorities below.
+
+    
+    
+                                    65          ITA NO. 5924/Del/2012
+                                        (Giesecke & Devrient India Pvt. Ltd.)
+    
+    
+    
+    3.2.71    We have heard the rival submissions of the parties and also
+    
+    
+
+perused the relevant material on record. We are of the view that the factual
+position in the present matter is similar with decision of the coordinate
+bench in Sun Gard Solutions India Pvt. Ltd. vs. ACIT in ITA No.
+1487/Bang/2012, wherein it is held as follows:
+
+> 15.1 This company was selected as a comparable by the TPO inspite of the
+> objections by the assessee to its inclusion in the list of comparables on
+> several grounds like functional dis- similarity, brand value, size, turnover
+> etc. 15.2 Before us, the learned Authorised Representative of the assessee
+> contended that this company namely, Wipro Ltd., is not functionally
+> comparable to the assessee as it owns significant intangibles in the nature
+> of customer related intangibles and technology related intangibles; has huge
+> brand value, is a market leader in size and turnover which render it not
+> functionally comparable to a captive provider of software development
+> services. In support of its plea for exclusion of this company from the list
+> of comparables, the learned Authorised Representative of the assessee placed
+> reliance on the decision of the co-ordinate bench in the case of 3DPLM
+> Software Solutions Ltd. (supra) for Assessment Year 2008-09, wherein this
+> company was held to be functionally different and dis-similar and not
+> comparable to a captive provider of software development services.
+    
+    
+                                   66          ITA NO. 5924/Del/2012
+                                       (Giesecke & Devrient India Pvt. Ltd.)
+    
+    15.3    Per   contra,   the   learned      Departmental         Representative
+    
+
+> supported the order of the TPO in including this company in the list of
+> comparables to the assessee.
+
+15.4.1 We have heard both parties and perused and carefully considered the
+material on record. We find that the co-ordinate bench of this Tribunal in the
+case of 3DPLM Software Solutions Ltd. (supra) for Assessment Year 2008-09 has
+held that this company is to be excluded from the list of comparables as it is
+functionally different and dis-similar from a captive software development
+service provider, as is in the case on hand. At para 12.4.1 and 12.4.2 of its
+order the co-ordinate bench in its order (supra) has held as under:--
+
+> "12.4.1 We have heard both parties and carefully perused and considered the
+> material on record. We find merit in the contentions of the assessee for
+> exclusion of this company from the set of comparables. It is seen that this
+> company is engaged both in software development and product development
+> services. There is no information on the segmental bifurcation of revenue
+> from sale of product and software services. The TPO appears to have adopted
+> this company as a comparable without demonstrating how the company satisfies
+> the software development sales 75% of the total revenue filter adopted by
+> him. Another major flaw in the comparability analysis carried out by the TPO
+> is that he adopted comparison of the consolidated financial statements of
+> Wipro with the stand alone financials of the assessee; which is not an
+> appropriate comparison. 12.4.2 We also find that this company owns
+> intellectual property in the form of registered patents and several pending
+> applications for grant of patents. In this regard, the co-ordinate bench of
+> this Tribunal in the case of 24/7 Customer.Com Pvt. Ltd. (ITA
+> No.227/Bang/2010) has held 67 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+> India Pvt. Ltd.) that a company owning intangibles cannot be compared to a
+> low risk captive service provider who does not own any such intangible and
+> hence does not have an additional advantage in the market. As the assessee
+> in the case on hand does not own any intangibles, following the aforesaid
+> decision of the co-ordinate bench of the Tribunal i.e. 24/7 Customer.Com
+> Pvt. Ltd. (supra), we hold that this company cannot be considered as a
+> comparable to the assessee. We, therefore, direct the Assessing Officer/TPO
+> to omit this company from the set of comparable companies in the case on
+> hand for the year under consideration."
+
+> 15.4.2 Following the above decision of the co-ordinate bench (supra), we
+> direct the Assessing Officer/TPO to omit this company from the list of
+> comparables."
+
+3.2.72 Respectfully following the view taken by the coordinate Bench, we
+direct the AO/TPO to exclude this company from the list of comparables.
+
+3.3.0 Now, we will deal with comparables which the assessee is agitating for
+inclusion in the final set of comparables selected by the TPO / DRP.
+
+SIP Technologies and Exports Limited ("SIP Technologies") 3.3.1 The first
+inclusion being prayed by the Assessee is of SIP Technologies. The said
+comparable was rejected by the TPO whilst holding that the said company has
+declining revenue. Before us, the 68 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) Ld. Counsel for the Assessee submitted that
+diminishing revenue has to be seen for three consecutive years and since this
+company does not have losses for three consecutive years, the said comparable
+ought to be included. It was further submitted that the TPO himself has not
+disputed the fact that SIP Technologies is functionally comparable to the
+Assessee and the TPO has only rejected the said comparable on the ground that
+the said company has diminishing revenue. It was further submitted that
+turnover cannot be a criteria for inclusion or exclusion of a comparable.
+
+3.3.2 On specific query by the Bench, the Ld. CIT Departmental Representative
+fairly accepted that in principle the criteria of checking the financials of
+three year consecutive years has consistently been followed by both the
+Department as well as the assessees over the years. On merits she relied on
+the orders of the lower authorities. 3.3.3 We have heard the rival submissions
+of the parties and also perused the relevant material on record. We are of the
+view that the factual position in the present case is similar to the decision
+of coordinate Bench of Tribunal in the case of Nokia Siemens Networks India
+Pvt. Ltd. vs. ACIT in ITA No. 333/Del/2013, wherein this comparable was
+included by observing as follows:
+
+> "116. This company selected by the assessee was rejected by the TPO on the
+> ground of diminishing revenues. Ld. DRP also held 69 ITA NO. 5924/Del/2012
+> (Giesecke & Devrient India Pvt. Ltd.) that the companies having diminishing
+> revenues/persistent losses for the previous 3 years were exceptions and
+> refused to interfere with the findings of the Ld. TPO.
+
+117\. It is submitted by the Ld. AR that this company was accepted as
+functionally comparable to the assessee by the Department as well as by a
+Coordinate Bench of this Tribunal in assessee's own case for the previous
+assessment year of 2007 -
+
+08\. It is argued by the Ld. AR that the diminishing revenue filter is invalid
+for the simple reason that revenue is not a true indicator of the performance
+of company as during its business life cycle owing to changing economic
+conditions, a company could have variation in its revenue pattern over a
+period of time. For example a company with increasing revenues over a period
+of time does not necessarily reflect that it is performing better as the
+corresponding increase in expenses could be higher than revenues and the
+company might still incur losses. Similarly, a company with diminishing
+revenues over a period of time need not imply that the performance of the
+company is deteriorating as it might still have good profit margin on account
+of cost efficiency i.e. minimizing/ reducing its expenses. Therefore, the net
+operating margin of the company with increasing revenues over a period of time
+is a better indicator of the performance of the company. Thus it is submitted
+that excluding companies having persistent losses is a more appropriate filter
+and on this basis, assessee himself has excluded companies which have shown
+persistent losses. It is further submitted by the Ld. AR that the Ld. DRP as
+well as TPO has taken a stand that such diminishing revenue goes against the
+industry trend, that there can be nothing farther from the truth as variance
+in profitability is the very essence of business and which 70 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) more than demonstrates the
+arm's length character prevalent in a free market economy, and it would defy
+commercial logic and rationale, and economic business cycle if every company
+were to only make profits and increase profits year after year. Low profits in
+some years and losses in some years is a business reality. If one were to go
+with the logic assumed by the learned TPO, every company should have
+increasing revenues and the company which has lower profits or returns losses
+should discontinue business operations because it would not represent an arm's
+length nature of business.
+
+118\. Ld. AR submits that this position has now been accepted by the Delhi
+High Court and various benches of this Tribunal. In a recent order passed by
+the coordinate bench in case of Aithent Technologies (P.) Ltd. vs. DCIT [2016]
+74 taxmann.com 214 (Delhi- Trib.) on the adoption of diminishing revenue
+filter it has been held as under:-
+
+> "14.3 A careful perusal of the pattern of profit/loss earned by the assesse
+> as per its audited accounts divulges that as against the current year's
+> profit of Rs. 62.39 lac, the earlier years' profit was Rs. 92.74 lac. This
+> manifests that the profit for this year has diminished from the earlier
+> year. When we consider the figures of losses for the financial years 2005-06
+> and earlier years, it comes to light that there were losses right from
+> financial year 2002-03 up to 2005-06. On an overview of the above extracted
+> Table, it can be seen that the assessee's profit is not steady, but, has
+> diminished during the instant year from the preceding year. In such a
+> situation, if we exclude the companies having diminishing profits, it would
+> mean that the companies whose profit pattern is also similar to that of the
+> assesse would face the axe. Doing so would mean excluding the comparable
+> companies from the final tally, which is not appropriate.
+
+> 71 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) However, the
+> companies having persistent losses, obviously, cannot be compared with the
+> assessee because it has earned positive income not only in this year, but,
+> in the preceding year as well. We, therefore, hold that the companies having
+> diminishing revenue should not be excluded, but, only the companies having
+> persistent losses should be expelled from the final tally of comparables."
+
+119\. While following the decision of the Hon'ble Delhi High Court in the case
+of Chryscapital Investment Advisors (India) (P.) Ltd. this view has further
+been affirmed by another co-ordinate bench of this ITAT in case of Vestergaard
+Asia (P.) Ltd. vs. DCIT [2017] 88 taxmann.com 313 (Delhi-Trib.) wherein the
+court has observed that:-
+
+> "28. This comparable sought to be included by the assessee was rejected by
+> the TPO on the ground that its revenue is continuously diminishing over the
+> years.
+
+> .....................
+
+> 30\. The Ld. DR on the other hand argued that the revenue of the company has
+> been reducing over a number of years. This fact indicates that the company
+> is undergoing abnormal/exceptional circumstances and therefore its margins
+> cannot be taken as reflecting those of the industry. He vehemently argued
+> that this company should be excluded from the comparability analysis.
+> .............
+
+> 33\. As regards the argument of diminishing revenue, we note that the
+> reduction of revenue from FY 2009-10 (3.99 crore) to FY 2010-11 (3.98 crore)
+> is approximately Rs. 1 lac. In our view, such a minor difference in revenue
+> cannot be taken to mean that the company is undergoing abnormal
+> circumstances and should be rejected. Even otherwise, if the functional
+> similarity of the company with the assessee is accepted, the same should not
+> be rejected simply because of difference in revenue. Our view is supported
+> by the decision of the Hon'ble Delhi High Court in the case of Chryscapital
+> 72 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) Investment
+> Advisors (India) (P.) Ltd. (supra), in which it was observed:
+
+> "'33. Such being the case, it is clear that exclusion of some companies
+> whose functions are broadly similar and whose profile - in respect of the
+> activity in question can be viewed independently from other activities
+> cannot be subject to a per se standard of loss making company or an
+> "abnormal" profit making concern or huge or "mega" turnover company.
+
+> As explained earlier, Rule 1OB (2) guides the six methods outlined in
+> clauses (a) to (f) of Rule 10B (1), - while judging comparability. Rule 10B
+> (3) on the other hand indicates the approach to be adopted where differences
+> and dissimilarities are apparent. Therefore, the mere circumstance of a
+> company - otherwise conforming to the stipulations in Rule 10B (2) in all
+> details, presenting a peculiar feature - such as a huge profit or a huge
+> turnover, ipso facto does not lead to its exclusion. The TPO, first, has to
+> be satisfied that such differences do not "materially affect the price...or
+> cost"; secondly, an attempt to make reasonable adjustment to eliminate the
+> material effect of such differences has to be made."
+
+> In light of the above, we direct the TPO to include this company in the list
+> of comparables."
+
+> 120\. With regards to Revenue's stand that SIP technologies need to be
+> rejected on the ground that it suffered losses, it is submitted on behalf of
+> the assessee that for the filter of persistent losses to come into play it
+> should be shown that the comparable under dispute has incurred losses for
+> three preceding years including the assessment year in question. Reliance in
+> this regard is placed on the Pune ITAT order in case of Bobst India (P.)
+> Ltd. vs. DCIT [2015] 63 taxmann.com (Pune-Trib.) wherein the bench observed
+> that a company can be rejected as persistent loss maker only if it has
+> incurred losses for more than 3 years. In the present case in the immediate
+> preceding year the comparable company has showed operating profit of 13.90%,
+> thus, as the company has not 73 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+> India Pvt. Ltd.) suffered losses and its functionality has not been
+> challenged by the TPO, it becomes clear that there is no valid ground to
+> exclude this company as comparable.
+
+> 121\. On a careful consideration of the factual and legal position, we find
+> that this company is a valid comparable to the assessee and, therefore, has
+> to be included in the final set of comparables."
+
+3.3.4 Respectfully following the view taken by the coordinate Bench, we direct
+the AO / TPO to include this company in the list of comparables.
+
+(ii) PSI Data System Ltd. ("PSI Data"):
+
+3.3.5 The next comparable being agitated for inclusion by the Assessee is PSI
+Data which the Ld. Counsel mentioned was submitted as a comparable in its TP
+Study and been accepted by the TPO as well, as evidenced from page 44 of the
+TPO's order, however the same has not been inadvertently been added in the
+final list of comparables.
+
+3.3.6 The Ld. CIT Departmental Representative fairly accepted that if this
+company passes all filters and has been accepted by the TPO itself, then this
+comparable may be included. 3.3.7 We have heard the rival submissions of the
+parties and also perused the relevant material on record. In view of the
+acceptance 74 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+given by the Ld. CIT Departmental Representative, we direct the AO/ TPO to
+include this company in the list of comparables. 3.4.0 As regards ground Nos.
+1.4 and 1.5, the Ld. Counsel for the assessee submitted that while computing
+the profit margin of the comparables, the TPO has incorrectly considered
+certain income/ expenses as operating/non-operating and prayed that necessary
+directions may be passed to re-compute the margin/s of comparable/s. Further,
+he prayed that risk adjustment may be allowed in terms of Rule 10B (1)(e) read
+with Rule 10B(2)/(3) of the Rules.
+
+3.4.1 On the issue of claim for risk adjustment, the Ld. Counsel submitted
+that the claim had been made both before the TPO as well as the Ld. DRP.
+However, both have denied the assessee's claim. The Ld. Counsel further
+submitted that while estimating the return for uncontrolled company, there is
+a need to give an appropriate adjustment pertaining to market/systematic risk
+faced. Uncontrolled comparable companies operate under uncontrolled conditions
+bearing certain risks during the course of its operations. Therefore, such
+comparable uncontrolled companies earn a risk premium which is not earned by a
+captive software development provider similar to the assessee which is a risk
+averse and, therefore, 75 ITA NO. 5924/Del/2012 (Giesecke & Devrient India
+Pvt. Ltd.) the profits of the captive unit would be less than risk taking
+companies and hence, an adjustment in this regard is required. He placed
+reliance on the decision of the coordinate Bench in Motorola Solutions India
+(P.) Ltd's case, Intellinet Technologies India (P.) Ltd. vs. ITO reported in
+[2012] 22 taxmann.com 28/53 SOT 92 (Bang.) (URO) and Bearing Point Business
+Consulting (P.) Ltd. vs. Dy. CIT reported in [2013] 33 taxmann.com 92/57 SOT
+244 (Bang. - Trib.) in support of assessee's claim for risk adjustment. 3.4.2
+The Learned CIT Departmental Representative, on the other hand, supported the
+orders of the authorities below and vehemently argued that since
+contemporaneous data was not produced by the assessee to substantiate its
+claim of risk adjustment the claim has been correctly rejected.
+
+3.4.3 We have considered the submissions of the parties and also perused the
+relevant material on record. On overall factual matrix of the issues and as
+last and final opportunity and in the interest of justice, it is our
+considered opinion that the issues raised in Ground Nos. 1.4 and 1.5 require
+reconsideration and re-examination and are thus restored to the file of AO/TPO
+for passing appropriate orders in accordance with law after giving proper
+opportunity to the assessee. It is ordered accordingly.
+
+    
+    
+                                      76          ITA NO. 5924/Del/2012
+                                          (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.5.0        Now we will deal with grounds relating to SIM Card
+    
+
+Assembly Segment (Ground Nos. 2 to 2.8 and additional ground/s No. 2.9 and
+2.10).
+
+3.5.1 Before us the Ld. Counsel for the assessee has submitted that his
+pleadings can be summarized on the following legal points:
+
+> a. Transfer Pricing adjustment should be restricted to the value of
+> international transaction (i.e. excluding domestic transaction with
+> unrelated parties) b. Capacity Adjustment may be granted c. Working Capital
+> Adjustment may be granted d. As an alternative argument, it is submitted
+> that since the Assessee has also undertaken domestic transactions in SIM
+> Card Assembly Segment and an internal comparable in that regard is
+> available, necessary directions may be passed to use internal comparable to
+> determine the arm's length price.
+
+> e. Lastly, as an alternative argument, it is submitted that if reliable data
+> is not available to determine arm's length price of an international
+> transaction by taking the Indian entity as the tested party, then the
+> foreign Associated Enterprise ('AE') may be taken as the tested party.
+    
+    
+                                    77          ITA NO. 5924/Del/2012
+                                        (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.5.2      The additional grounds (Ground Nos. 2.9 and 2.10) filed in
+    
+    
+
+> the present appeal deal with taking foreign AE as the tested party.
+
+Further, contemporaneous data and transfer pricing analysis by taking foreign
+AE as the tested party have been produced before us vide a separate
+application to file additional evidence. 3.5.3 It is submitted before us that
+if the legal submissions regarding the first three arguments are accepted then
+there would be no necessity to adjudicate the alternative arguments. 3.5.4 The
+first issue raised by the Ld. Counsel for the assessee is regarding
+restricting the transfer pricing adjustment to the value of the international
+transaction. Our attention was drawn to Pages 32, 46, 57 and 288 of the Paper
+book to show that during the relevant period the total operating expenses of
+Rs. 63,79,13,808/- were incurred on the SIM Card Segment. Out of the total
+operating expenses, a sum of Rs. 41,04,24,653/- related to raw materials,
+stores and spares consumes and out of this a sum of Rs. 7,07,33,702/-
+pertained to indigenous purchase (domestic transaction). It was argued before
+us that the TPO, while determining the arm's length price of this transaction,
+has erroneously taken the total operating expenses at the entity level, which
+is not permissible. Reliance was placed on the judgment of the Hon'ble Bombay
+High Court in the case of CIT vs. Alstom Projects India Ltd. reported in 78
+ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) [2017] 394 ITR 141
+(Bombay) and of the Hon'ble Delhi High Court in the case of CIT v. Keihin
+Panalfa Ltd. (ITA No.11 of 2015), judgment dated 09.09.2015. He further
+pointed out that the Ld. Dispute Resolution Panel has decided this issue in
+favour of Assessee in Assessment Year 2014-15 whilst directing the TPO to
+allow proportionate adjustment and restricting the transfer pricing adjustment
+to related party international transactions. 3.5.5 The Ld. CIT Departmental
+Representative placed heavy reliance on the order of the TPO / DRP.
+
+3.5.6 We have heard the rival submissions of the parties and perused the
+relevant material on record. We notice that the TPO, while benchmarking this
+transaction (SIM Card Assembly Segment), has taken the value of transaction at
+entity level rather than restricting the exercise of benchmarking to the value
+of international transaction between the Associated Enterprises and also
+included the value of indigenous purchases from the local parties. We are of
+the considered opinion that the mandate of Chapter X of the Act is very clear
+and only the international transactions between related parties are to be
+considered for the purposes of benchmarking. Our view is further fortified by
+the decision of Hon'ble Bombay High Court in CIT vs. Alstom Projects India Ltd
+reported in [2017] 394 ITR 141 (Bombay), wherein it is held as follows :
+
+79 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) "2. Mr. P.C.
+Chhotaray, learned Counsel for the Appellant urges the following question of
+law for our consideration:--
+
+> "Whether, on the facts and in the circumstances of the case and in law, the
+> Tribunal was justified in holding that the TPO has applied the transfer
+> pricing adjustment to all transactions, i.e. entity level in the absence of
+> actual segmental accounts being maintained on regular basis by the assessee
+> ?"
+
+3\. The impugned order of the Tribunal upheld the Respondent- assessee's
+contention that the transfer pricing adjustment has to be made only in respect
+of transaction entered into by the Respondent-assessee with its Associated
+Enterprises.
+
+4\. The grievance of the Revenue is that in the absence of segmental accounts
+being maintained by the Respondent- assessee, transfer pricing adjustment had
+to be done at entity level. We specifically asked Mr. Chhotaray, learned
+Counsel for the appellant whether any such submission was advanced by the
+Revenue before the Tribunal. At this, he fairly states that no such submission
+was made on behalf of the Revenue. Thus we fail to understand how the present
+question arises from the impugned order of the Tribunal.
+
+5\. Be that as it may, Mr. Chhotaray, learned Counsel for the Revenue submits
+that identical question as raised herein had been admitted by this Court and
+in particular invited our attention to the following orders passed at the
+stage of admission:--
+
+> (a) CIT vs. Super Diamonds, Income Tax Appeal No. 298 of 2013; (Order dated
+> 16 February 2015); and
+
+> (b) CIT v. Global Jewellery (P.) Ltd. Income Tax Appeal No.1395 of 2013.
+> (Order dated 16 April 2015) 80 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+> India Pvt. Ltd.)
+
+6\. In both the above appeals we find that the question admitted was with
+regard to transfer pricing adjustment being done at the entity level and not
+restricted only to the transactions with Associated Enterprises. However, both
+the appeals were admitted without the Court having had benefit of submissions
+on behalf of the Respondent-assessee.
+
+7\. Thereafter this Court consequent to the above two orders had occasion to
+consider the issue of transfer pricing adjustments being done in respect of
+all transactions (entity level) or only in respect of transaction entered into
+with Associated Enterprises in the following cases:--
+
+> (i) CIT v. Hindustan Unilever Ltd. [2017] 394 ITR 73/[2016] 72 taxmann.com
+> 325 (Bom.);
+
+> (ii) CIT v. Tara Jewels Exports (P.) Ltd. [2016] 381 ITR 404/80 taxmann.com
+> 117 (Bom.);
+
+> (iii) CIT v. Petro Araldite (P.) Ltd. Income Tax Appeal No.1804 of 2013
+> rendered on 24th November 2015;
+
+> (iv) CIT v. Thyssen Krupp Industries (P.) Ltd. [2016] 381 ITR 413/70
+> taxmann.com 329 (Bom.);
+
+> (v) CIT v. Summit Diamond (India) Pvt. Ltd. Income Tax Appeal No.1647 of
+> 2013 rendered on 11th July 2016.
+
+In all above appeals, this Court after hearing both sides upheld the view of
+the Tribunal that the transfer pricing adjustment has to be done only in
+respect of International Transactions with Associated Enterprises and not at
+an entity level. It may be pointed out that during the course of all the above
+appeals, the fact that two appeals had been admitted on the above issue were
+not pointed out.
+
+81 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+8\. Nevertheless, the distinction sought to be made by the Revenue is that the
+issue of non keeping of segmental accounts by the Assessee was not for
+consideration in the above cases which were dismissed, as in this case.
+
+9\. This very issue/question as raised herein was raised by the Revenue in
+Petro Araldite (P.) Ltd. (supra). The question raised therein was as under:--
+
+> "Whether on the facts and law the Tribunal was justified in directing AO/TPO
+> to bench mark as AE transactions without appreciating (a) the Assessee
+> itself in its transfer pricing study & report (TPSR) has chosen entity level
+> PLI to benchmark the AE transactions; (b) the Assessee had itself failed to
+> furnish audited segmental accounts and therefore, the TPO had rightly
+> applied revised PLI at the entity level to determine the ALP?"
+
+At the above hearing, the Revenue accepted that even in the absence of
+segmental accounts, the adjustment has to be done only in respect of the
+international transactions with Associated Enterprises. This is so recorded in
+the order dated 24 November 2015\. Therefore, on the above ground itself, the
+question as proposed does not give rise to any substantial question of law.
+
+10\. We may once more note that the Income Tax Department within the
+jurisdiction of this Court must adopt a consistent view on issues of law. In
+this case, we find that the Revenue urges the absence of segmental accounts
+would warrant entity wise adjustment, when the Revenue had itself in Petro
+Araldite (P.) Ltd. (supra) did not canvas the point, as even according to it
+82 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) the issue stood
+covered by the earlier orders of this Court in favour of the Assessee. The
+Revenue must apply the law equally to all and cannot take inconsistent
+position in law (de hors the facts) to apply different standards to different
+assessee. The administration of the tax laws should not degenerate into an
+arbitrary and inconsistent application of law dependent upon the Assessee
+concerned.
+
+11\. We also note that the Delhi High Court in CIT v. Keihin Panalfa Ltd. (ITA
+No.11 of 2015) decided on 9th September, 2015 has while dealing with transfer
+pricing adjustment in the absence of segmental accounts held that adjustments
+have to be restricted only to transactions with Associated Enterprises. It
+further held that where separate accounts are not available, then
+proportionate adjustments to be made only in respect of the international
+transactions with Associated Enterprises.
+
+12\. We are in respectful agreement with the view of the Delhi High Court in
+Keihin Panalfa Ltd. (supra). One must not lose sight of the fact that the
+transfer pricing adjustment is done under Chapter X of the Act. The mandate
+therein is only to redetermine the consideration received or given to arrive
+at income arising from for International Transactions with Associated
+Enterprises. This is particularly so as in respect of transaction with non
+Associated Enterprises, Chapter X of the Act is not triggered to make
+adjustment to considerations received or paid unless they are Specified
+Domestic Transactions. The transaction with non- Associated Enterprises are
+presumed to be at arms length as there is no relationship which is likely to
+influence the price. If the contention of the Revenue is accepted, it would
+lead to artificial 83 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+Ltd.) increase in the profits of transactions entered into with non Associated
+Enterprises by applying the margin at entity level which is not the object of
+Chapter X of the Act. Absence of segmental accounting is not an insurmountable
+issue, as proportionate basis could be adopted as done by the Delhi High Court
+in Keihin Panalfa Ltd. (supra).
+
+13\. In the above view, no substantial question of law arises. Therefore, we
+do not entertain the present appeal." 3.5.7 After considering the above and
+respectfully following the judgments of the Hon'ble Bombay High Court and the
+Hon'ble Delhi High Court, we hold that the proportionate adjustment is to be
+allowed to the assessee and the exercise of benchmarking is to be restricted
+to the value of international transaction. On the overall factual matrix, we
+restore this issue to the file of AO/TPO to re- compute and benchmark this
+transaction, after giving sufficient opportunity of hearing to the assessee.
+
+3.6.0 The second issue argued by the Ld. Counsel for the assessee is regarding
+allowability of capacity adjustment. During the course of assessment, TPO has
+dealt with the issue of allowability of capacity adjustment whilst observing
+as follows:
+
+> "The assesse has provided some of the capacity utilization figures of the
+> comparables. However out of the 4 comparables, data is not available in
+> respect of Circuit Systems India Ltd. In respect of 84 ITA NO. 5924/Del/2012
+> (Giesecke & Devrient India Pvt. Ltd.) Fine-line Circuit Ltd, the data is not
+> available in respect of High technology multilayer broad segment. Under
+> these circumstances, this data cannot be used to come to a conclusion in
+> this regard.
+
+Nevertheless, an analysis was made as to what is the percentage of total
+expenditure that depreciation accounts for in respect of the assesse vis-à-vis
+the comparables. In respect of the assesse it was found that depreciation was
+4.27% of the total expenditure of this segment. In respect of the comparables
+it was seen as below.
+
+    
+    
+           S.No.   Name                                       Depn./TC (%)
+           1.      BCC Fuba India Ltd.                        10.06
+           2.      Circuit Systems India Ltd.                 3.95
+           3.      Fine-line Circuits India Ltd.              5.32
+           4.      Solectron EMS India Ltd.                   1.80
+           Average                                            5.28
+    
+    
+    
+
+As it can be seen, the difference is not so large as to have a telling effect
+on the profitability of the assesse. Another exercise was undertaken, of
+calculating the OP/Sale margin of the assesse and comparables after excluding
+depreciation. The result in the case of the assesse was (-) 15.22%. In the
+case of the comparables it was as follows:
+
+    
+    
+           S.No.   Name                                       OP/Sales (%)
+           1.      BCC Fuba India Ltd.                        1.18
+           2.      Circuit Systems India Ltd.                 12.76
+           3.      Fine-line Circuits India Ltd.              (-)1.45
+           4.      Solectron EMS India Ltd.                   6.64
+           Average                                            4.78
+    
+    
+    
+
+As can be seen, the difference between the assessee's margin and that of the
+comparables with or without depreciation remains 85 ITA NO. 5924/Del/2012
+(Giesecke & Devrient India Pvt. Ltd.) more or less constant. Hence, there is
+no case for a comparability adjustment on account of unutilized capacity in
+this case. Besides this, admittedly the capacity utilization risk in this
+segment is also borne by the assesse. Hence, as argued earlier, there can be
+no case for comparability adjustment once the risk is borne by the assesse."
+
+3.6.1 While dealing with the objections filed by the assessee regarding
+allowability of capacity adjustment, the Ld. DRP has observed as follows:
+
+> "The issue of capacity adjustment has been considered in detail by the TPO.
+> Since the data of the comparables was not available with the TPO, he tried
+> to make a study using depreciation figure in order to find out if there was
+> any marked differences in asset utilization levels. It was not an implied
+> position of the TPO to ascertain cash loss of the assesse. However, since
+> the capacity utilization figures duly certified by auditors are not
+> available, the capacity utilization was not considered. We do not find any
+> infirmity in this."
+
+3.6.2 Before us, the Ld. Counsel for the assessee has vehemently argued that,
+undisputedly, assessee was bearing the risk of idle capacity and this being
+one of the initial years of operation of its business, capacity adjustment
+ought to have been granted in terms of Rule 10B (1)(e)(iii) read with Rule
+10B(2)/(3) of the Income Tax Rules, 86 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) 1962 ('Rules'). On the issue of allowability and the
+manner of computing the capacity adjustment, he placed heavy reliance on the
+following judicial precedents:
+
+> i. CIT vs Petro Araldite Pvt. Ltd. [2018] 93 taxmann.com 438 (Bombay)/[2018]
+> 256 Taxman 16 (Bombay) ii. M/s. Royal Star Jewellery Pvt. Ltd. vs ACIT &
+> Other, ITA 2463/2013, order dated 30.01.2017 (Bombay High Court) iii.
+> Transwitch India (P.) Ltd. v. Dy. CIT [2012] 21 taxmann.com 257/53 SOT 151
+> (Delhi - Trib.) iv. Dy. CIT v. Class India (P.) Ltd. [2015] 62 taxmann.com
+> 173 (Delhi);
+
+v. Saxo India (P.) Ltd. v Asstt. CIT [2016] 67 taxmann.com 155 (Delhi - Trib.)
+vi. Molex India Tooling (P.) Ltd. vs DCIT [2016] 75 taxmann.com 303 (Bangalore
+- Trib.) vii. HCL Technologies BPO Services Ltd. v. Asstt. CIT [2015] 60
+taxmann.com 186/69 SOT 571 (Delhi) viii. Global Turbine Services Inc. v. ADIT
+(International Taxation) [2013] 38 taxmann.com 220 (Delhi) ix. Dy. CIT v.
+Innodata Isogen India (P.) Ltd. [IT Appeal No. 5390 (Delhi) of 2010] x. Google
+India (P.) Ltd. [IT Appeal No. 1170 (Bang.) of 2011] xi. Calsonic Kansel
+Motherson Products Ltd. vs DCIT [2016] 72 taxmann.com 109 (Delhi - Trib.) xii.
+Fiat India (P.) Ltd. [IT Appeal No. 1848 (Mum.) of 2009] xiii. Global Vantedge
+(P.) Ltd. v. Dy. CIT [2010] 37 SOT 1 (Delhi).
+
+87 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) xiv. Tasty Bite
+Eatables Ltd. vs ACIT [2015] 59 taxmann.com 437 (Pune - Trib.) 3.6.3 Further,
+the Ld. Counsel fairly accepted out that the issue of allowability of capacity
+adjustment was decided against the assessee in earlier assessment year by the
+co-ordinate Bench of this Tribunal vide order dated 15.03.2013. He submitted
+that though an appeal was filed challenging the said order dated 15.03.2013
+passed by the Tribunal, the Hon'ble Delhi High Court, vide order dated
+27.08.2014, dismissed the appeal of the Assessee as being barred by
+limitation, but with a liberty to agitate this issue before the Tribunal in
+subsequent years and to suitably represent the relevant facts and legal
+position before the Tribunal in accordance with law. He further tried to
+distinguish the earlier decision of the coordinate Bench whilst arguing that
+the Tribunal in its earlier decision had per se not considered the issue of
+allowability of capacity adjustment and had refused to interfere with the
+findings of lower authorities on this issue as the relevant data was not
+available on record. He submitted that the relevant data is now available on
+record. To buttress his arguments, he placed heavy reliance on a recent
+decision of the Hon'ble Supreme Court in Canara Bank vs. N.G. Subbaraya Setty
+& Anr. Reported in 2018 SCC OnLine SC 427, wherein exceptions to the 88 ITA
+NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) principle of res
+judicata have been explained. He argued that since now issue of allowability
+and computation of capacity adjustment has been settled by a higher forum,
+i.e., the Bombay High, whilst interpreting the provisions of Rule 10B (1)(e)
+read with Rule 10B(2)/(3) of the Rules, a legally sustainable claim of
+Assessee cannot be rejected.
+
+3.6.4 The Learned CIT Departmental Representative, on the other hand,
+supported the orders of the authorities below and argued that the decision of
+this Tribunal rejecting the claim of capacity adjustment be followed.
+
+3.6.5 We have heard the rival submissions of the parties and also perused the
+relevant material on record. We find force in the submissions of the Ld.
+Counsel for the assessee that in terms of the liberty granted by the Hon'ble
+High Court in assessee's own case and in view of the recent decision of
+Hon'ble Bombay High Court in CIT vs. Petro Araldite Pvt. Ltd. reported in
+[2018] 93 taxmann.com 438 (Bombay)/[2018] 256 Taxman 16 (Bombay), wherein it
+is held that capacity adjustment is allowable in terms of Rule 10B (1)(e)(iii)
+read with Rule 10B(2)/(3) of the Rules, the earlier decision of coordinate
+Bench in Assessee's own case would no act as a impediment to allow capacity
+adjustment for the relevant period. We notice that Ld. Counsel for the
+assessee has placed on record revised working with 89 ITA NO. 5924/Del/2012
+(Giesecke & Devrient India Pvt. Ltd.) respect to computation of capacity
+adjustment in terms of the recent decision of coordinate Benches of the
+Tribunal and the Hon'ble High Court and, therefore, the earlier decision of
+Tribunal is distinguishable on this count itself. We are of the opinion that
+if correct and reliable data is available, then capacity adjustment deserves
+to be allowed in terms of Rule 10B of the Rules. Our view is further fortified
+by the decision of Hon'ble Supreme Court in Canara Bank vs. N.G. Subbaraya
+Setty & Anr. Reported in 2018 SCC OnLine SC 427, wherein exceptions to the
+principle of res judicata have been explained, by observing as follows:
+
+> "34. Given the conspectus of authorities that have been referred to by us
+> hereinabove, the law on the subject may be stated as follows:
+
+> (1) The general rule is that all issues that arise directly and
+> substantially in a former suit or proceeding between the same parties are
+> res judicata in a subsequent suit or proceeding between the same parties.
+> These would include issues of fact, mixed questions of fact and law, and
+> issues of law.
+
+> (2) To this general proposition of law, there are certain exceptions when it
+> comes to issues of law:
+
+(i) Where an issue of law decided between the same parties in a former suit or
+proceeding relates to the jurisdiction of the Court, an erroneous decision in
+the former suit or proceeding 90 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) is not res judicata in a subsequent suit or proceeding
+between the same parties, even where the issue raised in the second suit or
+proceeding is directly and substantially the same as that raised in the former
+suit or proceeding. This follows from a reading of Section 11 of the Code of
+Civil Procedure itself, for the Court which decides the suit has to be a Court
+competent to try such suit. When read with Explanation (I) to Section 11, it
+is obvious that both the former as well as the subsequent suit need to be
+decided in Courts competent to try such suits, for the "former suit" can be a
+suit instituted after the first suit, but which has been decided prior to the
+suit which was instituted earlier. An erroneous decision as to the
+jurisdiction of a Court cannot clothe that Court with jurisdiction where it
+has none. Obviously, a Civil Court cannot send a person to jail for an offence
+committed under the Indian Penal Code. If it does so, such a judgment would
+not bind a Magistrate and/or Sessions Court in a subsequent proceeding between
+the same parties, where the Magistrate sentences the same person for the same
+offence under the Penal Code. Equally, a Civil Court cannot decide a suit
+between a landlord and a tenant arising out of the rights claimed under a Rent
+Act, where the Rent Act clothes a special Court with jurisdiction to decide
+such suits. As an example, under Section 28 of the Bombay Rent Act, 1947, the
+Small Causes Court has exclusive jurisdiction to hear and decide proceedings
+between a landlord and a tenant in respect of rights which arise out of the
+Bombay Rent Act, and no other Court has jurisdiction to embark upon the same.
+In this case, even 91 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+Ltd.) though the Civil Court, in the absence of the statutory bar created by
+the Rent Act, would have jurisdiction to decide such suits, it is the
+statutory bar created by the Rent Act that must be given effect to as a matter
+of public policy. (See, Natraj Studios (P) Ltd. v. Navrang Studios, (1981) 1
+SCC 523 : (1981) 2 SCR 466 at 482). An erroneous decision clothing the Civil
+Court with jurisdiction to embark upon a suit filed by a landlord against a
+tenant, in respect of rights claimed under the Bombay Rent Act, would,
+therefore, not operate as res judicata in a subsequent suit filed before the
+Small Causes Court between the same parties in respect of the same matter
+directly and substantially in issue in the former suit.
+
+(ii) An issue of law which arises between the same parties in a subsequent
+suit or proceeding is not res judicata if, by an erroneous decision given on a
+statutory prohibition in the former suit or proceeding, the statutory
+prohibition is not given effect to. This is despite the fact that the matter
+in issue between the parties may be the same as that directly and
+substantially in issue in the previous suit or proceeding. This is for the
+reason that in such cases, the rights of the parties are not the only matter
+for consideration (as is the case of an erroneous interpretation of a statute
+inter parties), as the public policy contained in the statutory prohibition
+cannot be set at naught. This is for the same reason as that contained in
+matters which pertain to issues of law that raise jurisdictional questions. We
+have seen how, in Natraj Studios (supra), it is the public policy of the
+statutory 92 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+prohibition contained in Section 28 of the Bombay Rent Act that has to be
+given effect to. Likewise, the public policy contained in other statutory
+prohibitions, which need not necessarily go to jurisdiction of a Court, must
+equally be given effect to, as otherwise special principles of law are
+fastened upon parties when special considerations relating to public policy
+mandate that this cannot be done.
+
+(iii) Another exception to this general rule follows from the matter in issue
+being an issue of law different from that in the previous suit or proceeding.
+This can happen when the issue of law in the second suit or proceeding is
+based on different facts from the matter directly and substantially in issue
+in the first suit or proceeding. Equally, where the law is altered by a
+competent authority since the earlier decision, the matter in issue in the
+subsequent suit or proceeding is not the same as in the previous suit or
+proceeding, because the law to be interpreted is different."
+
+3.6.6 On the issue of allowability of capacity adjustment, we are of the
+considered view that higher capacity utilization would lead to higher
+profitability as fixed costs would be spread over in a larger number of units
+manufactured. The difference in capacity utilization would materially affect
+the profit margin. Thus, if there is a difference in the level of capacity
+utilization of the assessee and the level of capacity utilization of the
+comparable, then adjustment would be required to be made to the profit margin
+of the comparable on 93 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt.
+Ltd.) account of difference in capacity utilization in terms of Rule 10B
+(1)(e)(iii) read with Rule 10B(2)/(3) of the Rules. Our view is fortified by
+the recent decision of Hon'ble Bombay High Court in the case of CIT vs. Petro
+Araldite Pvt. Ltd. reported in [2018] 93 taxmann.com 438 (Bombay)/[2018] 256
+Taxman 16 (Bombay). After considering plethora of case laws on the issue of
+allowability of capacity adjustment, the coordinate Bench of the Delhi
+Tribunal in HCL Technologies BPO Services Ltd. vs. ACIT reported in [2015] 172
+TTJ 1 (Delhi - Trib.), observed as follows :
+
+> "29. Reliance in this regard is also placed on the recent decision of
+> Chennai Bench of the Tribunal in the case of Mando India Steering Systems
+> (P.) Ltd. v. Asstt. CIT [2014] 49 ITD 284/45 taxmann.com 160 wherein, the
+> Hon'ble Bench has remitted the issue back to the file of the assessing
+> officer with a direction to consider the claim of the assessee with respect
+> to idle capacity adjustment during the relevant period while determining the
+> ALP cost. The relevant extract of the decision reads as under:
+
+> "We are of the considered view that under-utilization of production capacity
+> in the initial years is a vital factor which has been ignored by the
+> authorities below while determining the ALP cost. The TPO should have made
+> allowance for the higher overhead expenditure during the initial period of
+> production. In view of the above, we deem it appropriate to remit this issue
+> back to the Assessing Officer with a direction to consider the claim of the
+> assessee with respect to idle capacity adjustment during the relevant period
+> while determining the ALP cost. The assessee is also directed to produce
+> relevant documents in comparable units for the 94 ITA NO. 5924/Del/2012
+> (Giesecke & Devrient India Pvt. Ltd.) necessary analysis. The appeal of the
+> assessee is allowed for statistical purposes in the aforesaid terms."
+
+> 30\. Reliance in this regard is placed on the decision of Pune Bench of the
+> Tribunal in the case of Amdocs Business Services (P.) Ltd. v. Dy. CIT [2012]
+> 54 SOT 46 (URO)/26 taxmann.com 120 wherein, the Tribunal allowed economic
+> adjustment on account of under capacity utilization holding that the
+> appellant was in start up phase during the assessment year consideration.
+
+The relevant extract of the decision is reproduced as under:
+
+> "9. The next major point made out by the appellant is that this being the
+> first full year of operation, the assessee had incurred certain expenditure
+> which are start-up costs and cannot be fully recovered in the instant year
+> itself, and such an expenditure has abnormally affected the profit margin.
+> It is also canvassed that due to the start-up year the capacity utilization
+> was not satisfactory, whereas its profitability has been bench marked
+> against comparables which are established entities -and have been set up
+> over the years. The plea set- up by the assessee for economic adjustments on
+> account of under capacity utilization and being in start up phase, is not
+> something which is unreasonable and neither it is otiose to the mechanism of
+> transfer pricing assessments. In fact, in principle, the plea of the
+> assessee is in line with the decisions of the Tribunal in the case of Global
+> Venttedge (P.) Ltd. v. DCIT in ITA Nos. 1763-2764/ Del/09 (Del); Brintons
+> Carpets' Asia (P) Ltd. v. DCIT 139 TTJ -177; and, Skoda, Auto India (P.)
+> Ltd. v. ACIT 122 TT J 699. In our view, the matter requiring factual
+> appreciation, the same is remanded back to the file of the Assessing
+> Officer, who shall consider the propositions put forth by the assessee and
+> allow appropriate economic adjustments on a reasonable basis."
+
+31\. On the same lines, Delhi Bench of the Tribunal in the case of Global
+Turbine Services Inc. v. ADIT (International 95 ITA NO. 5924/Del/2012
+(Giesecke & Devrient India Pvt. Ltd.) Taxation) [2013] 38 taxmann.com 220
+allowed economic adjustment on-account of under capacity utilization
+considering the fact that the year under consideration was the first full year
+of operation of the appellant. Relevant extract of the decision reads as
+under:
+
+> "10. We have heard the rival contentions and perused the material available
+> on record. The suitable adjustment for non-utilisation of capacity is to be
+> taken in to account after considering the ALP while working out TP
+> adjustment, this proposition has been held by co-ordinate Bench in the case
+> of the Amdocs Business Services (P.) Ltd. (supra ) and various other cases
+> as cited here in above.
+
+> 11\. In the given facts and circumstances it was required on the part of the
+> lower authorities to have given due effect to under capacity utilization of
+> the assessee which has not been done TPO for adjustment for ALP
+> determination. In view of the facts and circumstances we are inclined to set
+> aside the matter and restore the issue of under capacity utilization back to
+> the file of the Assessing Officer/TPO to decide the same afresh after giving
+> assessee adequate opportunity of being heard and to file the necessary
+> evidence on this behalf. Needless to say that a proper and speaking order
+> will be passed deciding the issue in accordance with law."
+
+32\. Reliance in this regard is placed on the following observation of the
+Hon'ble Mumbai Bench of the Tribunal in the case of ACIT v. Fiat India (P.)
+Ltd. [IT Appeal no 1848 (Mum) of 2009):
+
+> "As rightly held by the ld. CIT(A), the said submission made by the
+> appellant is sufficient to demonstrate that there was a material difference
+> in the facts of the appellant's case and that of the comparable cases in
+> terms of capacity utilization as well as in other terms. Appropriate
+> adjustments thus were required to be made to eliminate such differences"
+
+> 96 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+
+> 33\. Further, the Hon'ble Pune Bench of the Tribunal in the case of Brintons
+> Carpets Asia (P.) Ltd. v. Dy. CIT [2011] 46 SOT 289 (URO)/12 taxmann.com 148
+> while allowing adjustment for idle capacity caused due to labour
+> unrest/strike and relying upon the above observation of the Mumbai Tribunal
+> held as follows:
+
+> "15. From the above, it is clear the AO has authority vide clause (iii)
+> above to make the adjustments. Such adjustments are necessary only to remove
+> or minimize the differences in the comparable or anomaly in the said
+> comparable.
+
+> \- Such adjustments are authenticated by the OECD guidelines too. In this
+> regard, we have perused the important findings of the Tribunal in the case
+> of the Fiat India (P.) Ltd (supra ) placed at page 191 of the paper book.
+> For the sake completeness, the same is reproduced as under.
+
+> . . . . . as regards the adjustments made by the appellant to work out its
+> operating margin for comparing the same with the profit margin of comparable
+> cases, it was held that there was a material difference in the facts of the
+> appellant's case and that of the comparable cases in terms of capacity
+> utilization as well as in other terms. Appropriate adjustments thus were
+> required to be made to eliminate such differences. Further, the TPO himself
+> has allowed similar adjustments made by the appellant in the immediate
+> preceding years i.e. AY 2002- 03, 2003-04 as well as in the immediate
+> succeeding years i.e. 2005-06 and 2006-07 wherein the facts involved were
+> similar to that of the year under consideration i.e. AY 2004-05;
+
+> accordingly, no infirmity is found in the impugned order of the CIT (A) as
+> the adjustments made by the appellant in TNMM analysis were reasonable and
+> accurate and as reflected in the said analysis, international transactions
+> made by the appellant company with its associated 97 ITA NO. 5924/Del/2012
+> (Giesecke & Devrient India Pvt. Ltd.) concerns during the year under
+> consideration were at arm's length requiring no adjustment/addition on this
+> issue.
+
+> 16\. From the above, it is evident that the appellant is entitled to
+> economic adjustments in the circumstances of under capacity utilization of
+> the company. Of course, such adjustments must be restricted to fixed
+> cost/overheads only. In the instant case, the AO/TPO did not have the
+> occasion to go into the period or the extent of the labour unrest, break-up
+> of the claimed adjustments amounting Rs. 7.32 crores (rounded off), fixed
+> cost versus the variable cost etc. as they summarily rejected the external
+> comparables in view of their preference to the operating profits of the
+> domestic segment of the carpets. Therefore and consequently, this key issue
+> also has to be set aside to the files of the TPO/AO for fresh examination of
+> the issue.
+
+> Prima facie we see the need for such economic adjustments to the total cost
+> of the carpet of the export segment. We refuse to comment on the facts
+> relating to the figures as none of the authorities has gone into the details
+> of such economic adjustments and they summarily rejected the claims. As
+> such, the requisite adjustments are borne out of the relevant
+> rules/provisions and therefore, the claim is bona fide and has support of
+> the law. For this, the appellant prefers to go to the files of the AO for
+> want of a speaking order on this issue. In our opinion, the request of the
+> appellant deserves to be considered favourable."
+
+> 34\. Also, in the case of E.I. Dupont India (P.) Ltd. v. Dy. CIT [2012] 49
+> SOT 123/[2011] 16 taxmann.com 352 (Delhi), the Hon'ble Delhi Bench of the
+> Tribunal, while allowing the adjustment for capacity utilization held that:
+
+> 98 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) '"It is a
+> matter of fact that fixed costs remain the same even when there is under
+> utilization of capacity. Therefore, the case of the appellant and the
+> comparable cases have to be examined in respect of capacity utilization so
+> as to make the controlled and uncontrolled transactions comparable."
+
+Also, the Hon'ble Delhi Bench of the Tribunal in the case of ITO v. CRM
+Services India Pvt. Ltd. upheld the claim of the appellant towards adjustment
+of idle capacity:
+
+> "8.1 This brings us to the alternative argument that the appellant is
+> entitled to get adjustment in respect of capacity under-utilization. No
+> objection has been raised by the ld. CIT, DR in this matter. As a matter of
+> fact, he has fairly accepted the proposition that adjustment in this regard
+> is required to be made.
+
+> At the same time, it is also held that suitable adjustment has to be made to
+> such PLI in respect of idle capacity."'
+
+35\. Further, the Hon'ble Bangalore bench of the Tribunal in the case of
+Genisys Integrating Systems (India) (P.) Ltd. v. Dy. CIT [2012] 53 SOT 159/20
+taxmann.com 715 the Hon'ble Tribunal held as under:
+
+> "The appellant should also be given adjustment for under utilization of its
+> infrastructure. The AO shall consider this fact also while determining the
+> ALP find make the TP adjustments. With these directions, the appeal of the
+> appellant is disposed of. "
+
+36\. Further, the Hon'ble Delhi' Bench of the Tribunal in the case of
+Transwitch India (P.) Ltd. v. Dy. CIT [2012] 53 SOT 151/21 taxmann.com 257
+held as under:
+
+> "4.11 Another TPO's contention is that claim of the appellant that the
+> sealing drive reduced its revenue is 99 ITA NO. 5924/Del/2012 (Giesecke &
+> Devrient India Pvt. Ltd.) unsubstantiated. In this regard, appellant has
+> submitted that the appellant had placed on record its quarterly 'capacity'
+> utilization statement demonstrating the fall in its capacity utilization
+> during the quarter January to March, 2006. The capacity utilization, of the
+> appellant during the quarter January to March, 2006 fell to 72% as' against
+> the normal capacity utilization of 87% to 94% during the financial year
+> ending December, 31, 2005. Further, the fact that the appellant had to shift
+> its office premises at a very short notice, sufficiently substantiates the
+> low capacity utilization of the appellant during the last quarter of
+> financial year 2005-06. We find out ourselves in agreement with the
+> appellant's submission in this regard."
+
+37\. Hon'ble Delhi High Court, in the appeal preferred by the revenue in the
+case of Transwitch India (P.) Ltd. (supra), vide order dated 17.07.2013,
+upheld the adjustment claimed by the assessee on account of capacity
+utilization. Reliance in this regard is also placed on the recent decision of
+Delhi Bench of the Tribunal in the case of Dy. CIT v. Panasonic AVC Networks
+India Co. Ltd. [2014] 63 SOT 121 (URO)/42 taxmann.com 420, wherein the Hon'ble
+Bench has held that capacity underutilization is an important factor affecting
+net profit margin as lower capacity utilization results in higher per unit
+costs which in turn results in lower profits. The relevant finding of the
+decision reads as under:
+
+> "5. Having heard the rival contentions and having perused the material on
+> record, we see no reasons to interfere in very well reasoned findings and
+> directions of the learned CIT (A). Rule 10B (1)(e)(ii) of the Income Tax
+> Rules 1962 does indeed provide that the net profit margin realized in a
+> comparable uncontrolled transaction is adjusted, inter alia, for differences
+> in enterprise entering 100 ITA NO. 5924/Del/2012 (Giesecke & Devrient India
+> Pvt. Ltd.) into such transactions, which could materially affect the net
+> profit margin in open market. Capacity underutilization by enterprises is
+> certainly an important factor affecting net profit margin in the open market
+> because lower capacity utilization results in higher per unit costs, which,
+> in turn, results in lower profits. Of course, the fundamental issue, so far
+> as acceptability of such adjustments is concerted, is reasonable accuracy
+> embedded in the mechanism for such adjustments, 'end as long as such an
+> adjustment mechanism can be found, no objection can be taken to the
+> adjustment. In our considered view, the learned CIT (A)'s approach is
+> reasonable in this regard and the adjustments are on a conceptually sound
+> basis. In any case, as pointed out by the learned counsel, the adjustments
+> so directed by the learned CIT(A) have duly been made by the Assessing
+> Officer, and there have been no issues regarding implementing these
+> adjustments. We approve the conclusions arrived by the CIT (A) on this issue
+> and decline to interfere in the matter."
+
+38\. In view of the aforesaid, it is respectfully submitted that appropriate
+adjustment for idle capacity is required to be made while computing the
+operating margin of the appellant.
+
+39\. We have heard rival submissions and perused the material placed on
+record. We find that there is force in the argument of Ld. Counsel for the
+assessee that while calculating operating cost, the abnormal cost incurred on
+account of start-up should be excluded. Following the same parity of reasoning
+in the cases cited by him and keeping in view that the judgement of ITAT co-
+ordinate Bench in the case of Transwitch India (P.) Ltd. (supra ) affirmed by
+Hon'ble Delhi High Court. Therefore, respectfully following the decision of
+Hon'ble High Court, we direct TPO/A.O. to adjust operating cost by excluding
+abnormal cost incurred on account of 101 ITA NO. 5924/Del/2012 (Giesecke &
+Devrient India Pvt. Ltd.) start-up company like salary, rent and depreciation.
+This matter is restored to the file of TPO/A.O. to re-determine the operating
+cost on the above lines to arrive at operating profit." 3.6.7 Respectfully
+following the judgment of the Hon'ble Bombay High Court and the decision/s of
+the coordinate benches of Tribunal as aforementioned, we are of the considered
+opinion that the Assessee is entitled to the benefit of capacity adjustment
+whilst benchmarking the international transaction of SIM Card Assembly. 3.6.8
+Another linked issue is regarding computation of capacity adjustment. In our
+opinion, the methodology adopted by TPO/DRP in computing 'capacity adjustment'
+whilst only considering the depreciation, is erroneous. Recently, the issue of
+computation of capacity adjustment has been considered by the coordinate Bench
+of the Delhi Tribunal in DCIT vs. Claas India (P) Ltd reported in [2015] 62
+taxmann.com 173 (Delhi - Trib.) by observing as follows:
+
+> "8. We have heard the rival submissions and perused the relevant material on
+> record. Before embarking upon the question of allowability and extent of
+> capacity adjustment under the TNMM, we want to make it clear that the
+> assessee reduced its operating costs by considering its capacity utilization
+> vis-à-vis that of comparables and resultantly claimed that its increased
+> profit as a result of such reduced operating costs be compared with that of
+> the comparables. The TPO has also agreed in principle with the 102 ITA NO.
+> 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) otherwise availability
+> of the capacity adjustment. The issue of allowing capacity adjustment before
+> us can be divided into two sub-issues for consideration, viz., first,
+> whether the adjustment should be allowed in the hands of the assessee as has
+> been done by the authorities below or comparables and second, how to compute
+> capacity utilization adjustment under the TNMM. We will deal with these
+> aspects one by one.
+
+i. Capacity adjustment should be allowed in whose hands? 9.1 It has been
+noticed above that the assessee claimed idle capacity adjustment by reducing
+its own operating costs. It is further observed that the authorities below
+have reduced the amount of adjustment by excluding certain costs from the
+ambit of the costs qualifying for adjustment. However, the adjustment has been
+ultimately allowed from the operating costs incurred by the assessee. In such
+circumstances, the question arises as to whether the action of the authorities
+in allowing the reduction of the operating costs incurred by the assessee, is
+in accordance with law? In order to find answer to this question, we need to
+refer to the manner of computation of the arm's length price under TNMM, which
+has been set out in Rule 10B (1)(e) as under:--
+
+> "(e) transactional net margin method, by which,--
+
+> (i) the net profit margin realised by the enterprise from an international
+> transaction entered into with an associated enterprise is computed in
+> relation to costs incurred or sales effected or assets employed or to be
+> employed by the enterprise or having regard to any other relevant base ;
+
+> (ii) the net profit margin realised by the enterprise or by an unrelated
+> enterprise from a comparable uncontrolled transaction or a number of such
+> transactions is computed having regard to the same base ;
+    
+    
+                               103          ITA NO. 5924/Del/2012
+                                    (Giesecke & Devrient India Pvt. Ltd.)
+    
+    
+         (iii)    the net profit margin referred to in sub-clause (ii)
+    
+
+> arising in comparable uncontrolled transactions is adjusted to take into
+> account the differences, if any, between the international transaction and
+> the comparable uncontrolled transactions, or between the enterprises
+> entering into such transactions, which could materially affect the amount of
+> net profit margin in the open market ;
+
+> (iv) the net profit margin realised by the enterprise and referred to in
+> sub-clause (i) is established to be the same as the net profit margin
+> referred to in sub- clause (iii) ;
+
+> (v) the net profit margin thus established is then taken into account to
+> arrive at an arm's length price in relation to the international
+> transaction."
+
+9.2 Sub-clause (i) in the process of determination of the ALP under the TNMM
+talks of the computation of net operating profit margin realized by the
+assessee from an international transaction. Sub- clause (ii) is the
+computation of net operating profit margin realized by an unrelated enterprise
+from a comparable uncontrolled transaction. This refers to determining the
+operating profit margin of comparables with the same base as that of the
+assessee. Sub-clause (iii) provides that the net profit margin realized by a
+comparable company, determined as per sub-clause
+
+(ii) above, 'is adjusted to take into account the differences, if any, between
+the international transaction and the comparable uncontrolled transactions,
+which could materially affect the amount of net profit margin in the open
+market.' It is this adjusted net profit margin of the unrelated transactions
+or of the comparable companies, as determined under sub-clause (iii), which is
+used for the purposes of making comparison with the net profit margin realized
+by the assessee from its international transaction as per sub-clause (i).
+
+9.3 Sub-rule (2) of Rule 10B provides that the comparability of an
+international transaction with an uncontrolled transaction shall be 104 ITA
+NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) judged with reference
+to certain factors which have been enumerated therein. Rule 10B(3) states that
+an uncontrolled transaction shall be comparable to an international
+transaction, if either there are no differences between the two or a
+'reasonably accurate adjustment can be made to eliminate the material effects
+of such differences.' When we read sub-clauses (ii) & (iii) of Rule 10B(1)(e)
+in juxtaposition to sub-rules (2) & (3) of rule 10B, the position which
+emerges is that the net operating profit margin of comparable companies calls
+for adjustment in such a manner so as to bring both the international
+transaction and comparable cases at the same pedestal. In other words, if
+there are no differences in these two, then the average of the net operating
+profit margin of the comparable companies becomes a benchmark. However, in
+case there are some differences between the comparables and the assessee, then
+the effect of such differences should be ironed out by making suitable
+adjustment to the operating profit margin of comparables. That is the way for
+bringing both the transactions, namely, the international transaction and the
+comparable uncontrolled transactions, on the same platform for making a
+meaningful and effective comparison. The above analysis overtly transpires
+that the law provides for adjusting the profit margin of comparables on
+account of the material differences between the international transaction of
+the assessee and comparable uncontrolled transactions. It is not the other way
+around to adjust the profit margin of the assessee. In other words, the net
+operating profit margin realized by the assessee from its international
+transaction is to be computed as such, without adjusting it on account of
+differences with the comparable uncontrolled transactions. The adjustment, if
+any, is required to be made only in the profit margins of the comparables. 9.4
+Reverting to the facts of the instant case, we find that the authorities below
+have adjusted the operating costs of the assessee in allowing the capacity
+adjustment. As against that, the correct course of action provided under the
+law is to adjust the operating costs of the comparable and their resultant
+operating profit. There is hardly need to accentuate that there can be no
+estoppel against the law. Once the law enjoins for doing a 105 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) particular thing in a
+particular manner alone, it is not open to anyone to adopt a contrary or
+different approach. As the authorities below have adopted a course of action
+in allowing adjustment, which is not in consonance with law, we cannot approve
+the same. The impugned order is set aside and the matter is restored to the
+file of the TPO/AO for giving effect to the amount of idle capacity adjustment
+in the operating profit of the comparables and not the assessee.
+
+ii. How to compute capacity utilization adjustment under TNMM: 10.1 Under the
+TNMM, the ALP of an international transaction is determined by computing and
+comparing the percentage of operating profit margin realized by the assessee
+with that of the comparables. We have noticed above that the difference in the
+capacity utilizations is an important factor, which needs to be adjusted. No
+mechanism has been given under the Act or the rules for computing the amount
+of capacity utilization adjustment. 10.2 On an overall understanding, we feel
+that under the TNMM, the first step in granting capacity utilization
+adjustment is to ascertain the percentage of capacity utilization by the
+assessee and comparables. There can be no difficulty in working out these
+percentages. The second step is to give effect (positive or negative) to the
+difference in the percentage of capacity utilizations of the assessee vis-à-
+vis comparables, one by one, in the operating profit of comparables by
+adjusting their respective operating costs. Operating costs can be either
+fixed or variable or semi-variable. One needs to split semi-variable costs
+into the fixed part and variable part. In so far as the variable costs and the
+variable part of the semi-variable costs are concerned, these remain
+unaffected due to any under or over utilization of capacity. Accordingly, such
+variable operating costs remain unchanged. The adjustment is called for only
+in respect of the fixed operating costs and fixed part of semi-variable costs.
+Such costs are scaled up or down by considering the percentage of capacity
+utilization by the assessee and such comparable. It can be illustrated with
+the help of a simple example. Suppose the fixed costs incurred by a comparable
+(say, A) are Rs. 100 and it has capacity utilization of 50% as 106 ITA NO.
+5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) against the capacity
+utilization of 25% by the assessee. The above percentages show that the
+assessee has incurred full fixed costs with 25% of the utilization of its
+capacity, as against A incurring full fixed costs with 50% of its capacity
+utilization. This divulges that the assessee has incurred relatively more
+fixed costs and A has incurred lower costs. In order to make an effective
+comparison, there arises a need to obliterate the effect of this difference in
+capacity utilizations. It can be done by proportionately scaling up the fixed
+costs incurred by A so as to make it fully comparable with the assessee. This
+we can do by increasing the fixed costs of A to Rs. 200 (Rs. 100 into 50/25)
+as against the actually incurred fixed costs by it at Rs. 100. When we compute
+operating profit of A by substituting the fixed costs at Rs. 200 with the
+actually incurred at Rs. 100, it would mean that the fixed costs incurred by
+the assessee and A are at the same capacity utilization. There can be converse
+situation as well. Suppose the fixed costs incurred by a comparable (say, B)
+are Rs. 100 and it has capacity utilization of 25% as against the capacity
+utilization of 50% by the assessee. The above percentages show that the
+assessee has incurred full fixed costs at 50% of the utilization of its
+capacity, as against B incurring full fixed costs at 25% of the capacity
+utilization. This deciphers that the assessee has incurred relatively lower
+fixed costs and B has incurred higher costs. This difference in
+capacityutilizations can be eliminated by proportionately scaling down the
+fixed costs incurred by B so as to make it fully comparable. This we can do by
+reducing the fixed costs of B to Rs. 50 (Rs.100 into 25/50) as against the
+actually incurred fixed cost by it at Rs.100. When we compute operating profit
+of B by substituting the fixed costs at Rs. 50 with the actually incurred at
+Rs. 100, it would mean that the fixed costs incurred by the assessee and B are
+at the same capacity utilization level.
+
+10.3 Turning to the facts of the instant case, we find that both the TPO as
+well as the ld. CIT(A) have proceeded on a wrong premise not only by allowing
+capacity utilization adjustment in the assessee's profit, which is contrary to
+the legal position as discussed above, but also by considering all the
+comparables as 107 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+one unit with the average percentage of their respective capacity
+utilizations. It is further observed that in the calculation of such capacity
+utilization adjustment, the ld. CIT (A) has considered four companies as
+comparable, which view has been modified by us supra inasmuch as we have held
+that M/s Eicher Motors and M/s. Force Motors are incomparable. Naturally, they
+would also go out of reckoning in the computation of idle capacity utilization
+adjustment. In the absence of the availability of financials of all the
+comparable companies, it is not possible at our end to work out the amount of
+capacity adjustment in the manner discussed above. Ergo, we set aside the
+impugned order and direct the TPO/AO to work out the amount of capacity
+utilization adjustment afresh in terms of our above observations. Needless to
+say, the assessee will be allowed a reasonable opportunity of hearing in such
+fresh proceedings." 3.6.9 Respectfully following the decision of the
+coordinate bench of the Tribunal in DCIT vs. Claas India (P) Ltd. reported in
+[2015] 62 taxmann.com 173 (Delhi - Trib.), we are of the opinion that the
+issue of computation of capacity adjustment requires reconsideration and is
+thus, restored to file of AO/TPO for re-computation in light of our
+observations in the preceding paragraph, after granting sufficient opportunity
+of hearing to the assessee.
+
+3.7.0 The next issue is regarding allowability of working capacity adjustment.
+Before us, the Ld. Counsel for the assessee has vehemently argued that the
+TPO/Ld. DRP has erred in not allowing working capital adjustment in terms of
+Rule 10B (1)(e)(iii) read with 108 ITA NO. 5924/Del/2012 (Giesecke & Devrient
+India Pvt. Ltd.) Rule 10B(2)/ (3) of the Rules. He pointed out that during the
+relevant period, working capital adjustment has been granted for Software
+Development Segment, however, the same has not been granted for the SIM Card
+Assembly Segment. Placing reliance on the recent decision of the coordinate
+Bench of the Delhi Tribunal in Agilent Technologies (International) (P) Ltd.
+vs. ITO reported in [2018] 91 taxmann.com 59 (Delhi - Trib.), he submitted
+that the claim of working capital adjustment is to be allowed for service
+industry also. He argued that such an adjustment is restricted to inventory,
+trade receivables and trade payables. It was submitted that if a company
+carries high trade receivables, it would mean that it is allowing its
+customers relatively longer period to pay their dues, which will result into
+higher interest cost and the resultant low net profit. Similarly, by carrying
+high trade payables, a company benefits from a relatively longer period
+available to it for paying back the dues to its suppliers, which reduces the
+interest cost and increases profits. In order to neutralize the differences on
+account of carrying high or low inventory, trade payables and trade
+receivables, as the case may be, it becomes eminent to allow working capital
+adjustment so as to bring the case of the assessee at par with the other
+functionally comparable entities.
+
+    
+    
+                                      109          ITA NO. 5924/Del/2012
+                                           (Giesecke & Devrient India Pvt. Ltd.)
+    
+    3.7.1       On   the   other     hand,      the      Ld.     CIT      Departmental
+    
+    
+
+Representative placed heavy reliance on the order of lower authorities. 3.7.2
+We have heard the rival submissions of the parties and perused the relevant
+material on record. We are of the opinion that once the TPO/Ld. DRP has
+principally allowed the claim of working capital adjustment with respect to
+Software Development Segment than there is no occasion to disallow similar
+claim for SIM Card Assembly Segment. Now there are various guidelines and
+factors that have been laid down to work out the working capital adjustment
+and accordingly, we direct the assessee to provide the detailed working of the
+working capital adjustment to the TPO and he is directed to verify the
+correctness of the amount and the working capital adjustment as given by the
+assessee and allow the same in accordance with settled principles. Thus, with
+this direction, this issue is treated as allowed for statistical purposes.
+
+3.8.0 Having considered the main arguments of the assessee regarding
+allowability of proportionate adjustment, capacity adjustment and working
+capital adjustment and allowing the same for statistical purpose, while
+restoring them to the file of AO/TPO for computation, we are not inclined to
+adjudicate on the other alternative legal issues regarding admissibility of
+internal comparable and taking foreign AE as the tested party. The assessee
+is, however, 110 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.)
+at liberty to raise such issues before the lower authorities, should the need
+arise.
+
+3.9.0 Ground No. 6 of the appeal dealing with levy of interest under section
+234B of the Act, is disposed off as being mandatory and consequential.
+
+3.10.0 Ground No. 7 of the appeal deals with corporate tax issue regarding not
+granting full credit of advance tax of Rs.20,698,500/- paid by the Assessee
+and also short credit of tax deducted at source of Rs.15,01,872/- on the
+income of the appellant. The Ld. Counsel for the assessee has prayed that this
+issue may be restored to the file of the AO for verification. Per contra, the
+Ld. CIT Departmental Representative has fairly conceded that she has no
+objection with verification of such claim. In terms of the above, we direct
+the AO to verify and allow the claim of the Assessee regarding granting full
+credit of advance tax of Rs.20,698,500/- paid by the Assessee and also short
+credit of tax deducted at source of Rs.15,01,872/-. 4.0 In the final result,
+the appeal of assessee is partly allowed for statistical purposes in terms of
+our above observations.
+
+111 ITA NO. 5924/Del/2012 (Giesecke & Devrient India Pvt. Ltd.) Order
+pronounced in the open court on 23.08.2018 Sd/- Sd/-
+
+    
+    
+        (PRAMOD KUMAR)                   (SUDHANSHU SRIVASTAVA)
+     ACCOUNTANT MEMBER                       JUDICIAL MEMBER
+    Dated: 23rd August, 2018
+    
+    
+    Copy forwarded to:
+    1.  Appellant
+    2.  Respondent
+    3.  CIT
+    4.  CIT(Appeals)
+    5.  DR: ITAT
+                         TRUE COPY
+    
+                                                 ASSISTANT REGISTRAR
+                                                  ITAT NEW DELHI
+     
+

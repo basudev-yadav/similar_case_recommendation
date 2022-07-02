@@ -1,0 +1,995 @@
+
+
+Delhi High Court
+
+Star India Pvt. Ltd. vs Piyush Agarwal & Ors. on 13 March, 2013
+
+Author: M. L. Mehta
+
+    
+    
+    -*     THE HIGH COURT OF DELHI AT NEW DELHI
+    
+                                                        Date of Decision: 13.03.2013
+    
+     +                   CS (OS) No. 2722/2012
+                         CS (OS) No. 3232/2012
+                         CS (OS) No. 2780/2012
+    
+         1. CS (OS) No. 2722/2012 & IA 16485/2012, 19780/2012 &
+           2846/2013.
+    
+         STAR INDIA PVT. LTD.                                     .......Plaintiff
+    
+                                   Through:           Mr. Parag Tripathi, Sr. Adv.
+                                                      with Mr. Saikrishna Rajagopal,
+                                                      Mr. Sidharth Chopra, Ms. Sneha
+                                                      Jain, Advocates.
+    
+                                   Versus
+    
+         PIYUSH AGARWAL & ORS.                                    ......Defendant
+    
+                                   Through:           Mr. Sudhir Chandra, Sr. Adv.
+                                                      with Ms. Gayatri Roy, Mr.
+                                                      Thomas George, Mr. Udit Sood,
+                                                      Advs. For D1 & D2.
+    
+    
+    
+                                                      Mr.Amit    Sibal,    Adv.      with
+                                                      Ms.Radha            Rangaswamy,
+    CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012                         Page 1 of 39
+                                                       Mr.Prateek Chadha, Mr.Raman
+                                                      Kumar,            Advocates          for
+                                                      D3/BCCI.
+    
+       2. CS (OS) No. 3232/2012 & IA 20275-78/2012 & IA 506/2013
+    
+       STAR INDIA PVT. LTD.                                             .......Plaintiff
+    
+                                   Through:           Mr. Abhishek Manu Singhvi, Sr.
+                                                      Adv.       with     Mr.    Saikrishna
+                                                      Rajagopal, Mr. Sidharth Chopra,
+                                                      Ms. Sneha Jain, Advocates.
+    
+                                   Versus
+    
+       IDEA CELLULAR & ANR.                                             ......Respondent
+    
+                                   Through:           Mr.Rajiv Nayyar, Mr. Neeraj
+                                                      Kishan Kaul, Sr. Advs. with
+                                                      Mr.Navin Chawla, Ms.Sonali
+                                                      Jaitley, Ms.Subha Chauhan, Ms.
+                                                      Mehak       Khajuria,      Mr.Rohan
+                                                      Jaitley,     Mr.Bhuvan         Mishra,
+                                                      Mr.S.Qureshi, Advs. for D1.
+    
+    
+    
+                                                      Mr.Amit       Sibal,      Adv.     with
+                                                      Ms.Radha               Rangaswamy,
+    
+    CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012                             Page 2 of 39
+                                                       Mr.Prateek Chadha, Mr.Raman
+                                                      Kumar,       Advocates            for
+                                                      D2/BCCI.
+    
+       3. C.S. (O.S.) No. 2780/2012 & IA 16834/2012
+    
+       STAR INDIA PVT. LTD.                                        .......Petitioner
+    
+                                   Through:           Mr. Maninder Singh, Sr. Adv.
+                                                      with Mr. Saikrishna Rajagopal,
+                                                      Mr. Sidharth Chopra, Ms. Sneha
+                                                      Jain, Advocates.
+    
+                                   Versus
+    
+       ONMOBILE GLOBAL LTD. & ANR.                                 ......Respondent
+    
+                                   Through:           Mr. Sanjay Jain, Sr. Adv. with
+                                                      Mr. Hardeep Singh Anand, Ms.
+                                                      Vandana Sehgal, Mr. Rohan
+                                                      Thawani, Ms. Noor Anand, Ms.
+                                                      Kriti   Singh,   Ms.    Prabsahay
+                                                      Kaur, Advs. For D1.
+    
+    
+    
+                                                      Mr.Amit     Sibal,     Adv.     with
+                                                      Ms.Radha             Rangaswamy,
+                                                      Mr.Prateek Chadha, Mr.Raman
+    
+    CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012                          Page 3 of 39
+                                                       Kumar,     Advocates        for
+                                                      D2/BCCI.
+    
+    CORAM:
+    
+    HON'BLE MR. JUSTICE M.L. MEHTA
+    
+    M.L. MEHTA, J.
+    
+
+1\. The plaintiff, Star India Pvt. Ltd. (STAR), filed three cases against
+Piyush Agarwal (Cricbuzz), Idea Cellular (IDEA) and OnMobile Global Ltd.
+(ONMOBILE). Though the Board of Cricket Control in India (BCCI) has been
+arrayed as the common defendant in all the three cases, it is supporting the
+plaintiff, claiming paramount rights over all information emanating from a
+cricketing event by virtue of organising and promoting the sport of cricket in
+India. The common case of STAR and BCCI is that the latter, by an agreement
+dated 10.08.2012, has assigned a „bouquet of rights‟ exclusively to STAR. Two
+of such rights, are regarding „Mobile Rights‟ and "Mobile Activation Rights‟.
+The plaintiff has sought an interim injunction against the defendants alleging
+that the latter has violated those rights, which as per the agreement with
+BCCI, were exclusively assigned to the plaintiff.
+
+2\. The defendants have disputed these claims of STAR inter alia that that
+there is no such right as claimed by the plaintiff. In the absence of a legal
+right, the same cannot be enforced and no relief as prayed CS (OS) Nos.
+2722/2012, 3232/2012 and 2780/2012 Page 4 of 39 by the plaintiff maybe granted
+making the suit liable to be dismissed under Order VII Rule 11 of the Code of
+Civil Procedure (CPC) for the lack of a cause of action. A brief summary of
+the contentions of both parties is as follows.
+
+3\. STAR and BCCI contend that the dissemination of match information through
+live score cards, match updates and score alerts via Short Messaging Service
+(SMS)/Mobile Value Added Services (MVAS), by the contesting defendants
+constitutes the tort of „unfair competition‟ and „commercial
+misappropriation/unjust commercial enrichment‟. It is their case that the
+plaintiff spent a sum of Rs. 3581 Crores ( Rupees Three Thousand Five Hundred
+and Eighty One Crores only) to successfully bid for the Media Rights Agreement
+dated 10.08.2012; whereas, the defendants have neither participated in the bid
+nor acquired any license from the plaintiff to disseminate any match
+information. It is pertinent to note that the plaintiff is seeking a remedy in
+these suits under common law, de hors the Copyright Act, 1957.
+
+4\. The defendants contend that the plaintiff cannot seek any remedy under
+common law because Section 16 of the Copyright Act, 1967 precludes the
+plaintiff from claiming a copyright or any other similar right, other than
+those which are provided in accordance or under the Act. Alternatively, the
+defendants contend that they only publish the match information after it has
+come into public domain and that the information arising from the match is
+purely factual in CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 5 of 39
+nature and acquires the position of news. The defendants have also submitted
+that their actions do not amount to free-riding on the efforts of the
+plaintiff because they neither copy the actual content of the broadcast nor
+provide access to audio or visual footage of the broadcast. Alternatively, the
+defendants also contend that they are exonerated under Article 19(1)(a) of the
+Constitution whereby they have the freedom to carry on trade by dissemination
+of information to the public and such rights can only be subject to the
+reasonable restrictions under Article 19(2) and not by common law.
+
+5\. The non-contesting defendant, BCCI has contended that as the organiser of
+cricket in India, it has the exclusive rights in relation to the content
+generated during a cricketing event, including the right to commercially
+exploit all content arising from such event. In furtherance of this
+contention, BCCI has submitted that it is a not- for-profit organisation,
+registered under the Tamil Nadu Societies Registration Act, 1975. And that it
+is recognized as the defacto apex body which deals with the promotion and
+organisation of cricketing events in the country by the Government of India,
+but it does not get any funding from the Government. And that it funds
+everything relating to cricket, right from setting up of the stadium to
+starting training academies for umpires, scorers etc., all by itself. The main
+source of funding for the BCCI is claimed to be from monetizing the content
+arising from cricket matches, such as sponsorships and commercial
+advertisements. The revenue received CS (OS) Nos. 2722/2012, 3232/2012 and
+2780/2012 Page 6 of 39 from the sale of match tickets is contended to be
+negligible. Out of the revenue generated, BCCI contends that 85% is ploughed
+back into promoting the game of cricket in India. Whereas, it contends that
+the defendants do not contribute their revenue or a part thereof for the
+purpose of promoting the game of cricket in India. The BCCI and the plaintiff
+claim that defendants are eating away into the mobile and internet rights,
+without sharing the profit gained by them; thereby indulging in unfair
+competition and unjust commercial enrichment.
+
+6\. In furtherance of this contention, the plaintiff and BCCI have primarily
+relied upon the legal principle enunciated in landmark decision of the United
+States Supreme Court in the case of International News Service vs. Associated
+Press, 248 U.S. 215, 39 S.Ct.68 (1918) (INS Case) i.e. „he who has fairly paid
+the price should have the beneficial use of the property‟. In the INS Case,
+both the complainant and defendant were publishers of newspapers and were
+competitors in the gathering and spreading of news. The case was filed to
+restrain the pirating of complainant‟s news by the defendant, inter alia by
+copying news from news bulletin boards and from early editions of
+complainant‟s newspapers and selling it, either bodily or after rewriting it.
+The complainants contended that they had „proprietary right‟ under common law
+over all the news gathered by them, since they were employing their own means
+and resources. The U.S. Supreme Court, observing that the question, CS (OS)
+Nos. 2722/2012, 3232/2012 and 2780/2012 Page 7 of 39 „what is unfair
+competition in business‟ must be subjectively determined in particular
+reference to the character and circumstances of each business, held:
+
+> "The defendant‟s acts of taking material acquired by the skill, organisation
+> and money of the complainant and appropriating it and selling it as its own,
+> is trying to reap where it has not sown and would thus constitute unfair
+> competition. The underlying principle behind the tort of „unfair competition
+> is that „he who has fairly paid the price should have the beneficial use of
+> the property‟." (emphasis supplied).
+
+7\. It is also pertinent to note that this principle enunciated in the INS
+Case with respect to „unfair competition‟ and „unjust commercial enrichment‟
+has been followed in other cases regarding dissemination of updates/alerts
+arising from sporting events. In the case of Pittsburgh Athletic Co. et.al vs.
+KQV Broadcasting Co., 24 F.Supp. 490 (Pittsburgh Case), the District Court of
+Pennsylvania in the year 1938 dealt with a case where the plaintiff prayed for
+a preliminary injunction to restrain the defendants from broadcasting play-by-
+play reports and description of baseball games played by the plaintiff‟s
+baseball team. The defendant admitted to the broadcasting of play-by-play news
+of the plaintiff‟s games and asserted its intention to continue doing so. In a
+similar case, National Exhibition Company vs. Martin Fass, 143 N.Y.S.2d 767,
+(National Exhibition Case) the Supreme Court of New York County was also faced
+with a prayer for injunction against the defendants who were listening to the
+broadcast of play-by-play CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page
+8 of 39 descriptions of baseball games organised by the plaintiff and sending
+out simultaneous teletype reports of the games to radio stations for immediate
+broadcast. The same Court in the year 1937, was faced with a prayer for
+injunction against the defendants from interfering with the exclusive right of
+the plaintiffs to broadcast a description of certain boxing exhibition in the
+case of Twentieth Century Sporting Club Inc. and Ors vs. Transradio Press
+Service Inc. and Anr., 300 N.Y.S. 159 (Twentieth Century Fox Case). In all the
+three cases, the Courts granted the injunction following the ratio of the INS
+Case. The plaintiff and BCCI contend that these precedents have a large
+persuasive value due to the similarity in the factual matrix, specifically
+with respect to play-by-play updates being analogous to the ball-by-ball
+updates provided by the defendants.
+
+8\. The plaintiff also sought to rely on the decision of the Madras High Court
+in the case of Marksman Marketing Services Pvt. Ltd. vs. Bharti Tele-Ventures
+Ltd. & Ors., O.A. No. 78/2006 (Marksman Case), which dealt with nearly
+identical facts as the instant case. In the Marksman Case, the Pakistan
+Cricket Board (PCB) had assigned its exclusive rights over a cricket series
+between India and Pakistan in the form of television rights, audio rights,
+internet rights, SMS rights and other rights to several persons on global
+basis for a valuable consideration. M/s VECTRACOM Pvt. Ltd., a company
+incorporated under the laws of Pakistan had entered into CS (OS) Nos.
+2722/2012, 3232/2012 and 2780/2012 Page 9 of 39 an agreement with the PCB,
+dated 29.12.2005 with respect of SMS rights in India‟s Tour of Pakistan. The
+Plaintiff prayed for an injunction under Sections 55 and 61 of the Copyright
+Act, 1957, restraining the defendants from disseminating information relating
+to scores, alerts and updates through SMS technology on wireless and mobile
+phones by means of transmission to handheld mobile phones in respect of the
+matches.
+
+9\. The Madras High Court, relying on the decision of the New York District
+Court in the case of National Basketball Association and NBA Properties Inc.
+v. Sports Team Analysis and Tracking Systems Inc., 939 F.Supp. 1071 (NBA-1
+Case) held -
+
+> "The right of providing scores, alerts and updates is the result of
+> expenditure of skill, labour and money of the organisers and so the same is
+> saleable only by them. The sending of score updates and match alerts via SMS
+> amounts to interference with the normal operation of the Organisers
+> business. The defendant‟s act of appropriating facts and information from
+> the match telecast and selling the same is nothing but endeavoring to reap
+> where the defendants have not sown."
+
+10.In response, the defendants‟ primary contention is that, the „proprietary
+rights‟ as claimed by the plaintiff/BCCI do not exist as they are not
+recognized under any law or statute enacted by the Parliament because, Section
+16 of the Copyright Act, 1957 precludes the plaintiff and BCCI from claiming
+any other right except as provided under the Act. In furtherance of this
+argument, they have relied on judgments of this Court in the cases, Time CS
+(OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 10 of 39 Warner
+Entertainment Co., L.P. & Ors. v. R.P.G. Netcom & etc., AIR 2007 Del 226; and
+Super Cassettes Industries Ltd. v. Mr. Chintamani Rao & Ors., 2012 (49) PTC 1
+(Del), in which it was held that the appellants/plaintiffs cannot claim
+copyright and sue for infringement of copyrights de hors the Act because
+copyright exists and can be only in accordance with the provisions of the Act
+or under any law which was in force at the time when the Act was enacted.
+Common law rights under copyright law were held to be abrogated by Section 31
+of the erstwhile Copyright Act, 1911.
+
+11.The defendants also contended that since there is a preclusion (or
+preemption) under Section 16 of the Act, the plaintiff and the BCCI are
+„fishing for‟ a right under common law by claiming „quasi- property rights‟.
+And only torts such as defamation and breach of confidentiality are recognized
+by the common law of India and that the tort of „unfair competition‟ is not
+recognized. They have contended that reliance must not be placed on the
+Marksman Case, because the decision of the New York District Court in the
+NBA-1 Case, upon which the Madras High Court relied, had been reversed by the
+United States Court of Appeals, Second Circuit in, National Basketball
+Association and NBA Properties Inc. v. Motorola Inc., 105 F. 3d. 841 (1997)
+(NBA-2 Case). The defendants have also relied upon Barclays Capital Inc.,
+Merrill Lynch, Pierce, Fenner & Smith Inc. & Morgan Stanley & Co. Inc. v.
+
+Theflyonthewall.com Inc., 650 F.3d 876 (Theflyonthewall Case), CS (OS) Nos.
+2722/2012, 3232/2012 and 2780/2012 Page 11 of 39 which has followed the
+decision of the appellate court in the NBA-2 Case and held:
+
+> "INS itself is no longer good law. Purporting to establish a principle of
+> federal common law, the law established by INS, was abolished by Erie
+> Railroad Co. v. Tomkins, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed. 1188 (1938),
+> which largely abandoned federal common law."
+
+12.The defendants contend that the above decision of the U.S. Courts
+represents a digression from the „Hot-News Doctrine‟ laid down in the INS Case
+by citing various other foreign decisions. To start with, the defendants have
+submitted that the Court of Appeals decision in the NBA-2 Case represents the
+preemption of state law claims that enforced rights "equivalent" to exclusive
+copyright protections, when the work to which the state claim fell within the
+area of copyright protection; analogous to the preclusion (or preemption)
+under Section 16 of the Copyright Act, 1957. The other decisions relied by the
+defendants to substantiate the judicial digression from the reasoning in the
+INS Case are Triangle Publications Inc. v. New England News Paper Publishing
+Co., 46 F.Supp. 198 (1942) and Compco Corp v. Day Brite Lightning Inc., 376
+U.S. 234 (1964) by the Courts in the U.S.; and Cadbury- Schweppes Pty. Ltd. &
+Ors. v. Pub Squash Co. Pty. Ltd., [1981] 1 W.L.R. 193 and Moorgate Tobacco Co.
+Ltd. v. Philip Morris Ltd., 156 CLR 414 by the Courts in Australia.
+
+CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 12 of 39
+
+13.Alternatively, the defendants also contend that the plaintiff and BCCI at
+best, can only claim broadcasting rights and copyright over the cinematograph
+film of the cricket match or audio recording of the commentary etc., to the
+extent it is recognized under the Act. And that the defendants‟ action does
+not amount to free-riding because, they neither copy the actual content of the
+broadcast, nor provide access to audio or visual footage of the broadcast. In
+any event, the defendants contend that they are legally entitled to
+disseminate the score updates/match alerts to the public and consequently
+generate income. Firstly, because the information emanating from the cricket
+match such as score updates/match alerts amounts to „facts‟ which cannot be
+owned or afforded copyright protection. Secondly, even if it were afforded
+copyright protection, the score alert/match update has already entered the
+public domain and therefore, can be freely used by the defendants. And
+finally, because the Constitution under Article 19(1)(a) confers them the
+freedom to disseminate information to the public.
+
+14.In support of their first argument, the defendants have relied upon the
+decisions in Victoria Park Racing and Recreation Grounds Co. Ltd vs. Taylor,
+58 CLR 479b (Victoria Park Case) and Feist Publications, Inc. V. Rural
+Telephone Service Co., 499 U.S. 340 (1991) (Feist Publications Case). In the
+Vitoria Park Case, the plaintiff carried on the business of conducting race
+meetings at a racecourse owned by it. The plaintiff did not permit any
+description CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 13 of 39 or
+information concerning the races to be broadcast. The defendant, an owner and
+occupier of a piece of land on the opposite side of the racecourse allowed the
+other defendant, Commonwealth Broadcasting Corporation, to observe and
+broadcast the race. The plaintiff sought an injunction against such
+broadcasting contending that since its efforts and expenditure was spent on
+organising the race, it has quasi-property rights in the race. The Court held
+that the law of copyright did not give any person an exclusive right to
+describe a particular set of facts. Just because a person announces for the
+first time, that a particular horse won the race or any fact, it would not
+prevent others from describing the same event. Similarly, in the Feist
+Publications Case, the plaintiff sought to copyright a compilation of
+telephone numbers, which was denied by the Court on the ground that it was
+merely a different presentation of facts and did not possess „originality or
+creativity‟, which is the sine qua non of copyright.
+
+15.The defendants have also contended that match information was not a result
+of the „originality or creativity‟ of the plaintiff. And that the test of
+„originality or creativity‟ has been followed by Indian Courts to grant
+copyright. In furtherance of this argument, the defendants have cited the case
+of Servewell Products Pvt. Ltd. & Anr. v. Dolphin, 2010 (43) PTC 507 (Del), in
+which this Court had observed, CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012
+Page 14 of 39 "The Supreme Court has recognized the shift in Eastern Book
+Company v. DB Modak, following the approach laid down by the Canadian Supreme
+Court in CCH Canadian Ltd. v. Law Society of Upper Canada, (2004) SCC 13,
+rejected the "sweat of the brow doctrine" (which conferred copyright on works
+merely because time, energy, skill and labour was expended), and held that the
+work must be original "in the sense that by virtue of selection, co-ordination
+or arrangement of pre-existing data contained in the work, the work somewhat
+different in character, is produced by the author." Thus, in India, the test
+for creativity establishes a higher threshold than the "sweat of the brow"
+doctrine, but not as high as „modicum of creativity‟."
+
+16.In support of their „public domain‟ argument, the defendants have cited the
+decision of the Apex Court in case of Eastern Book Company & Ors v. D.B. Modak
+& Anr, (2008) 1 SCC 1 (EBC Case). In this case, the plaintiff claimed
+copyright over the judgments published in its journals and sought a temporary
+injunction against the defendants who were allegedly copying the judgments
+published by the plaintiff and republishing under their own name. Observing
+that plaintiff company could not claim copyright in a judgment under the
+heading „literary work‟ because it had already entered the public domain, the
+Apex Court only granted an injunction limited to the headnotes, footnotes and
+editorial notes authored by the plaintiff and allowed the defendant to sell
+their CD- ROMS with the text of judgments.
+
+17.With respect to the free speech argument, the defendants contend that the
+information arising from a cricket match is public property and that the score
+updates/match alerts were being disseminated in CS (OS) Nos. 2722/2012,
+3232/2012 and 2780/2012 Page 15 of 39 public interest. And since, the
+defendants were employing their own infrastructure, efforts and skill to
+disseminate the information in public interest; they contend that they are
+entitled to the profits. In support of this argument, the defendants have
+placed reliance on the landmark decision of the Apex Court in the case of Tata
+Press Limited vs. Mahanagar Telephone-Nigam Limited & Ors., AIR 1995 SC 2438
+(Tata Press Case). The Apex Court held, "Examined from another angle, the
+public at large has a right to receive the „commercial speech‟. Article
+19(1)(a) not only guarantees freedom of speech and expression, it also
+protects the rights of an individual to listen, read and receive the said
+speech... The protection of Article 19(1)(a) is available to the speaker as
+well as to the recipient of the speech." (emphasis supplied)
+
+18.Further, the defendants have also sought to rely on the decision of the
+Single Bench of this Court in the case of ICC Development (International) Ltd.
+& Anr. v. New Delhi Television Ltd., C.S. (O.S.) No. 2416/2012 where it was
+held, "The score of the match is in public domain and can be broadcasted by
+any channel as a part of its right to report current news and events."
+
+19.In a rejoinder, the Plaintiffs have reiterated that they were seeking a
+remedy de hors the Copyright Act, 1957 and therefore, contended that most of
+the authorities cited by the defendants were irrelevant to the instant case.
+Further, they have contended that they do not intend to prevent the
+information arising from cricket matches from CS (OS) Nos. 2722/2012,
+3232/2012 and 2780/2012 Page 16 of 39 entering the public domain. On the
+contrary, they have argued that it is in the best interest of the game of
+cricket in India that the information arising from a cricket match permeates
+the public domain to its fullest extent. Ld. Senior Counsel appearing for the
+plaintiff submitted that the instant dispute is not between a commercial
+entity and the public, but between two commercial entities and hence there is
+no substantial question of public policy. In essence, he has contended that it
+is not the intention of the plaintiff to prevent the defendants from
+disseminating match information to the public, but to ensure that the
+defendants share their revenue with the plaintiff by obtaining a license for
+such dissemination.
+
+20\. In furtherance of this argument, the plaintiff has relied on the decision
+of the Apex Court in the case of Secretary, Ministry of Information and
+Broadcasting, Govt. of India & Ors. v. Cricket Association of Bengal & Ors.,
+(1995) 2 SCC 161 (MIB Case) in which, the Hon‟ble Supreme Court, finding the
+BCCI to be a non- profit making organization, which controls officially
+organised game of cricket in India, observed that -
+
+> "[B]eing the organisers of the event had a right to sell the telecasting
+> rights of the event to any agency... [I]t has the right to choose the best
+> method to earn the maximum revenue possible. In fact, it can be accused of
+> negligence and maybe attributed improper motives, if it fails to explore the
+> most profitable avenue of telecasting the event, when in any case, in CS
+> (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 17 of 39 achieving the
+> object of promoting and popularizing the sport, it has to endeavor to
+> telecast the cricket matches."
+
+21.In response to the argument regarding match information already being in
+public domain, the plaintiff has emphasized upon the time- sensitive nature of
+the information emanating from cricketing events with specific reference to
+score updates/match alerts. It is their argument that match information does
+not completely enter public domain for a particular span of time. For
+instance, a person who has access to television/radio will be updated about
+the status of a cricket match in real-time. Whereas, persons who do not have
+access to a television/radio, such as persons inside office or even courtrooms
+may not be updated about match status contemporaneously.
+
+22.Before proceeding to arrive at a conclusion in the instant case, I find it
+pertinent to take note of the word of caution from the oft-cited Justice
+Oliver Wendell Holmes, who delivered the dissenting judgment in the INS Case,
+"The unwritten law possesses capacity for growth and has often satisfied new
+demand for justice by invoking analogies or by expanding a rule or principle.
+This process has been in the main wisely applied and should not be
+discontinued. Where the problem is relatively simple, as it is apt to be when
+private interests only are involved, it generally proves adequate. But, with
+the increasing complexity of the society, the public interest tends to be
+omnipresent; and the problems presented by new demands for justice cease to be
+simple. When the creation or recognition by courts, of a new private right,
+may work serious CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 18 of 39
+injury to the general public, unless the boundaries of the right are
+definitely established and wisely guarded. In order to reconcile the new
+private right with the public interest, it may be necessary to prescribe
+limitation and rules for its enjoyment; and also to provide administrative
+machinery for enforcing the rules. It is largely for this reason that, in the
+effort to meet the many new demands for justice, incident to a rapid changing
+civilization, resort to legislation has latterly been had with increasing
+frequency."(emphasis supplied).
+
+23\. At this juncture, it is necessary to identify the stake holders in this
+case. The non-contesting defendant, BCCI, a not-for-profit singular governing
+body which has conceptualized, created, developed and promoted the game of
+cricket in India. The plaintiff, STAR, who is the assignee of the „bouquet of
+rights‟ and has been chosen by the BCCI to maximize the monetization of all
+the information emanating from cricketing events organised by the BCCI. The
+Defendants, who are providers of contemporaneous alerts and match updates to
+the public, proclaiming to be the only player in the SMS/MVAS market
+facilitating such information dissemination. However, it is pertinent to note
+that they do not do it gratuitously. And last but not the least, the cricket
+crazy public, who have created the demand for real-time or contemporaneous
+score updates/match alerts. In fact, the presence of overwhelming public
+interest cannot be ignored. Although the suit is regarding the right to
+monetize information arising from a cricket match, it is imperative for this
+Court to remain conscious of whether the general public will have CS (OS) Nos.
+2722/2012, 3232/2012 and 2780/2012 Page 19 of 39 access to the information
+arising from cricket matches, more so in a cricket crazy nation such as ours.
+
+24.Keeping this in mind, I find that the following issues arise before this
+Court for consideration:
+
+> a. Whether BCCI has the right to monetize the information arising from a
+> cricket match organised by it. b. Whether the defendants are free-riding on
+> the efforts of the plaintiff/BCCI c. Whether the score alert/match updates
+> are already in public domain.
+
+> d. Whether the defendants have a freedom under Article 19(1)(a) to
+> disseminate contemporaneous match information. e. Whether the public
+> interest needs to be kept in mind before considering the rival claims.
+
+> f. Whether the plaintiff is entitled to an interim injunction.
+
+25.With respect to the first two issues, the contention of the defendants that
+the plaintiff and the BCCI are not entitled to copyright or any other similar
+rights under the Act, is misplaced. There is no dispute regarding the fact
+that the plaintiff has approached this court de hors the Copyright Act, 1957.
+It is amply clear that the plaintiff, as the assignee of BCCI is not claiming
+copyright (or any other similar right) over information arising from a cricket
+match. In this regard, I find that the decisions in the Feist Publications
+Case, Victoria Park Case, Theflyonthewall Case and EBC Case, cited by the CS
+(OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 20 of 39 defendants in
+furtherance of this argument to be irrelevant. I also do not consider it
+relevant to examine if match information is a product of the „originality or
+creativity‟ of the plaintiff. Besides, it is a well settled principle of
+Copyright Law, that „facts‟ cannot be copyrighted.
+
+26.Regarding the defendant‟s contention that common law rights are abrogated
+(precluded or preempted) under Section 16 of the Copyright Act, it is
+essential to keep in mind the legislative history of Section 16. As observed
+by the Division Bench of this Court in Time Warner Case, Section 16 in the
+1957 Act is a derivative of Section 31 of the erstwhile Copyright Act, 1911.
+The provision as it stood in the erstwhile enactment is as follows:
+
+> Section 31. Abrogation of common law rights.-No person shall be entitled to
+> copyright or any similar right in any literary, dramatic, musical, or
+> artistic work, whether published or unpublished, otherwise than under and in
+> accordance with the provisions of this Act, or of any other statutory
+> enactment for the time being in force, but nothing in this section shall be
+> construed as abrogating any right or jurisdiction to restrain a breach of
+> trust or confidence.
+
+The Division Bench also noted that the aforesaid provision had the effect of
+abrogating all common law rights as they existed. A person, therefore, was
+entitled to copyright only under the provisions of the said Act and any other
+statutory enactment in force when the Copyright Act, 1911 was enacted. Section
+16 of the CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 21 of 39 Act
+has to be read in the light of Section 31 of the Copyright Act, 1911\.
+
+27.In light of the above observation, it is pertinent to note certain aspects
+which were taken into consideration by the Parliament before enacting the 1957
+Act. In the Statement of Objects and Reasons to the 1957 Act, the Parliament
+observed that during the preceding 4 decades, new and advanced means of
+communications like broadcasting, litho-photography, etc. called for certain
+amendments in the existing law. Therefore, the Parliament rearranged the main
+principles of the existing law and introduced several new features including a
+provision for certain rights akin to copyright such as broadcasting rights and
+performer‟s rights.
+
+28.Moreover, it is amply clear from the provisions of Section 16 that it
+applies to „work‟ alone. The term „work‟ is defined under Section 2(y) of the
+Act to be (i) a literary, dramatic, musical, or artistic work; (ii) a
+cinematograph film; (iii) a sound recording. The definition is exhaustive and
+not inclusive, thereby clearly specifying the parameters of Section 16. In
+other words, Section 16 does not apply to anything which is not a work. The
+scope of Section 16 is further limited by Section 39A of the Act, because this
+provision belongs to the Chapter of the Act which deals with „neighboring‟ or
+„related rights‟. Section 39A of the Act is as follows -
+
+> 39A. Other provisions applying to broadcast reproduction right and
+> performer's right - Sections 18, 19, 30, 53, 55, 58, CS (OS) Nos. 2722/2012,
+> 3232/2012 and 2780/2012 Page 22 of 39 64, 65 and 66 shall, with necessary
+> adaptations and modifications, apply in relation to broadcast reproduction
+> right in any broadcast and the performer‟s right, in any performance, as
+> they apply, in relation to copyright in a work:
+
+> Provided that where copyright or performer‟s right subsists in respect of
+> any work or performance, that has been broadcast, no license to reproduce
+> such broadcast shall take effect without the consent of the owners of rights
+> or performer, as the case maybe, or both of them. (emphasis supplied)
+
+29.This Section enumerates those provisions of the statute that apply to
+copyright would also apply, mutatis mutandis to the neighboring rights (eg.
+Performer‟s rights, Broadcasting reproduction rights). However, it is
+pertinent to note that Section 16 is not enumerated under Section 39A of the
+Act. Moreover, the Copyright Act creates several rights besides copyright.
+These rights include the rights of broadcasting organisations under Section
+37, the rights of performers under Sections 38 and 38A, and the moral rights
+of authors which are recognized under Section 57; which are all distinct from
+copyright. This has also been noted by the Division Bench of this Court in the
+case ESPN Star Sports v. Global Broadcast News Ltd. & Ors., 2008 (38) PTC 477
+(Del.) (DB) (ESPN Case), "Satellite broadcasting rights are treated as
+separate rights and the said rights are recognized throughout the world as
+independent rights as held in Raj Video Vision v. M/s Sun TV, 1994 (2), Madras
+Law Weekly 158 which has also been approved in AA Associates versus Prem Goel
+AIR 2002 Del CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 23 of 39
+
+142\. A similar view has been taken in M/s Video Master v. M/s Nishi
+Productions, 1998 (18) PTC 117."
+
+30.Despite there being an array of rights which have been recognized under the
+Copyright Act, 1957, it is unmistakable, that the preemption under Section 16
+of the Act, only applies to copyright or any similar right only with respect
+to „works‟ and cannot be extended to the other rights in any manner
+whatsoever. In the instant case, it is amply clear that score updates/match
+alerts do not constitute a „work‟ as defined under the Act, and therefore,
+cannot be said to fall within the purview of the preemption under Section
+
+16\. In any event, the BCCI and the plaintiff are not seeking a creation of
+copyright or a similar right from this Court, but have merely approached this
+Court to find a remedy in common law against the tort of „unjust commercial
+enrichment‟.
+
+31.Although the defendants have contended that the tort of „unjust commercial
+enrichment‟ is not recognized in India, the Apex Court in the case of Mahabir
+Kishore & Ors. v. State of Madhya Pradesh, 1989 SCR (3) 596 has observed that
+the Courts in England have formulated the doctrine of unjust enrichment in
+certain situations where it would be „unjust‟ to allow the defendant to retain
+a benefit at the plaintiff‟s expense. The Court has held, "The principle of
+unjust enrichment requires; first, that the defendant has been 'enriched' by
+the receipt of a "benefit"; secondly, that this enrichment is "at the expense
+of the plaintiff" and thirdly, that the retention of the enrichment be unjust.
+This justified restitution. Enrichment may take the form of direct CS (OS)
+Nos. 2722/2012, 3232/2012 and 2780/2012 Page 24 of 39 advantage to the
+recipient wealth such as by the receipt of money or indirect one for instance
+where inevitable expense has been saved." (emphasis supplied)
+
+32.In the instant case, it is unnecessary to determine whether the plaintiff
+has absolute proprietary rights under common law over all the information
+which arises from a cricket match. The plaintiff is only seeking the
+declaration of a right to generate revenue by monetizing the information
+arising from an event, which has been conceptualized, developed, created and
+organised by the sole efforts and expenditure of the BCCI; as its assignee.
+Admittedly, in order to monetize the expense, effort and skill employed in
+organising cricket matches in India, the BCCI conducted an auction in April
+2012 to assign exclusive rights such as television rights, audio rights,
+internet rights and mobile rights, for all BCCI events. Besides, it has also
+been submitted that the „Mobile Rights‟ and „Mobile Activation‟ rights were
+also available on an „a la carte‟ basis at a cost of Rs. 50 lacs per match.
+Applying the test of unjust enrichment as observed in the Mahabir Kishore
+case, it is amply clear that the defendants are enriching themselves at the
+cost of the plaintiff.
+
+33.With respect to the defendant‟s arguments regarding lack of direct
+competition between the parties, I find that the action of the defendants
+directly competes with the plaintiff. This is because both the plaintiff and
+defendant are seeking to generate revenue by way of providing contemporaneous
+score updates/match alerts. The CS (OS) Nos. 2722/2012, 3232/2012 and
+2780/2012 Page 25 of 39 plaintiff in the instant case has successfully bid for
+the entire „bouquet of rights‟ which also included „mobile rights‟ and „mobile
+activation rights‟. The Media Rights Agreement defines -
+
+> "Mobile Activation Rights means the right to make available any form of
+> BCCI-branded schedule; match and score alert and application exploited via
+> SMS, MMS or any other form of Mobile Communications Technology or Mobile
+> Wireless Technology; It is clarified that no other form of exploitation
+> would be permitted such as competition, game, fantasy event, predictor game,
+> application or other activation which are expressly prohibited.
+
+> Mobile Rights means the Mobile Activation Rights and the right to deliver or
+> provide access to the Feed or Footage, the Audio Feed, any Unilateral
+> Commentary and Unilateral Coverage in the Territory during the Rights
+> Period, for reception and viewing in an intelligible form on a Mobile Device
+> where the communication link(s) used in such delivery comprises, at least in
+> part, Mobile Communications Technology and/or Mobile Broadcast Technology
+> but excluding Television Delivery and Internet Delivery."
+
+34.If the plaintiff did not intend on generating revenue by exploiting these
+„mobile rights‟ and „mobile activation rights‟, it could have resorted to
+bidding only for selective rights since they were also available on an „a la
+catre‟ basis. It is amply clear that the plaintiff‟s grievance is not
+infringement of its exclusive rights over the footage of the cricket match,
+but specifically regarding the right to raise revenue by disseminating match
+information contemporaneously via SMS/MVAS by exploiting the „mobile rights‟
+and „mobile activation rights‟ exclusively assigned to it in CS (OS) Nos.
+2722/2012, 3232/2012 and 2780/2012 Page 26 of 39 the „Media Rights Agreement‟
+dated 10.08.2012. Therefore, the element of direct competition clearly exists
+specifically with respect to contemporaneous score updates/match alerts.
+
+35.The defendants have contended that the decision of the Madras High Court in
+the Marksman Case is bad in law, because it has erroneously relied on the
+decision of the District Court in the NBA- 1 Case, which was subsequently
+reversed by the Court of Appeals in the NBA-2 Case. I do not find this
+contention relevant in the instant case because, as observed earlier, the
+plaintiff herein has sought a remedy de hors the Copyright Act, 1957. Whereas,
+in the Marksman Case, the plaintiff/claimant had filed the suit under Sections
+55 and 61 of the Act. However, it is pertinent to take note of the ratio
+decidendi of the Court of Appeals in the NBA-2 Case.
+
+36.The Court of Appeals, in the NBA-2 Case has recognized that certain „hot-
+news‟ INS like claims survives preemption and is limited to cases where, "(i)
+a plaintiff generates or gathers information at a cost; (ii) the information
+is time-sensitive; (iii) a defendant's use of the information constitutes
+free-riding on the plaintiff's efforts; (iv) the defendant is in direct
+competition with a product or service offered by the plaintiffs; and (v) the
+ability of other parties to free-ride on the efforts of the plaintiff or
+others would so reduce the incentive to produce the product or service that
+its existence or quality would be substantially threatened."
+
+37.Though the Court in the NBA-2 Case may have watered down the applicability
+of the „hot news doctrine‟ from the INS Case due to CS (OS) Nos. 2722/2012,
+3232/2012 and 2780/2012 Page 27 of 39 the 1976 amendments to the Federal
+Copyright Law in the U.S., it has retained the primacy of the fundamental
+principles on unjust enrichment as evidenced in prongs (i), (iii) and (iv) of
+the test mentioned above. Besides, the exclusive right of an Organiser to
+monetize his own event need not find its source in any statutory enactment,
+because it is a fundamental principle of equity as observed in the INS Case,
+"The underlying principle is much the same as that which lies at the base of
+the equitable theory of consideration in the law of trusts - that he, who has
+fairly paid the price, should have the beneficial use of the property."
+
+This reasoning has been followed in other cases regarding dissemination of
+updates/alerts arising from sporting events such as the Pittsburgh Case,
+National Exhibition Case and the Twentieth Century Fox Case.
+
+38.Moreover, it is clear, that match information is generated because of the
+cost incurred by the BCCI in organising the cricket as a sport in India. It is
+undisputed, that BCCI plays the cardinal role in all aspects of cricket in
+India. Right from remunerating the players, umpires and other match officials,
+to arranging sponsors for the cricket match itself. It is also undisputed that
+the only source of income for the BCCI is from monetizing the cricketing
+events organised by it. In such a circumstance, the defendants would have had
+a legitimate right to disseminate contemporaneous match information, had they
+obtained a license by either participating in CS (OS) Nos. 2722/2012,
+3232/2012 and 2780/2012 Page 28 of 39 the bid conducted by the BCCI or by
+obtaining a sub-license from the plaintiff. The argument that expenditure is
+being incurred by the defendants to set-up infrastructure and employ personnel
+has no merit, because such expenditure is incurred upon the process of
+dissemination and not towards the organization of the sport or in the process
+of legitimately obtaining the information from the plaintiff or BCCI.
+Therefore, I find that the action of the defendants cashing upon the efforts
+of the plaintiff/BCCI constitutes free-riding.
+
+39.With respect to the third issue, regarding the match information already
+being in public domain, it is pertinent to observe the peculiar nature of the
+information itself. Firstly, I have already stated that this suit is de hors
+the Copyright Act and since the plaintiffs are not seeking a copyright of the
+score updates/match alerts, there is no question of the information entering
+the public domain as envisaged under the Act. However, if we may use the term
+„public domain‟ to connote the information becoming freely available to the
+public (emphasis supplied), it can be said that the information emanating from
+a cricket match, enters the public domain at different moments of time i.e. is
+becomes freely available to the public at different moments of time. To
+elucidate through an example, the outcome of the first ball bowled in a
+cricket match, enters the public domain instantly qua the spectators in the
+stadium. The same information enters the public domain after a delay of a few
+seconds (or micro-seconds) subject to the time-lag in CS (OS) Nos. 2722/2012,
+3232/2012 and 2780/2012 Page 29 of 39 transmission of such information over a
+live telecast through television/radio. As a corollary, the information has
+still not entered the public domain qua the persons who do not have any access
+to a source of contemporaneous information i.e. TV or radio.
+
+40.There is a great demand for knowing ball-by-ball progress of a match as
+opposed to the match-summary at the end of the match. This is evidenced by the
+fact that customers of such SMS/MVAS are willing to pay between two to three
+rupees per alert/update. There is no merit in the argument that the match
+information has entered public domain i.e. available to the public, the very
+instance it is broadcasted by the plaintiff. It is similar to saying that the
+plot of a book or movie has entered the public domain as soon as it is
+released. Therefore, I find that match information has not entered „public
+domain‟ i.e. is not readily available to the class of persons who do not have
+access to TV/radio, who also happen to be the target consumers of the both the
+parties.
+
+41.However, there is considerable merit in the defendant‟s arguments that they
+have a fundamental right to disseminate such information as demanded by the
+public. At this juncture, it is imperative for this Court to balance the right
+of the organiser of an event to monetize his own event as against the right of
+the public to receive information regarding such event and the right of the
+media to provide access to such information demanded.
+
+CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 30 of 39
+
+42.Firstly, it must be noted that all consumers of cricket information cannot
+be treated equally. There are different classes of public who are consumers of
+cricket information in the sense that the persons who have purchased tickets
+to watch the match live at the stadium consists a class in itself, as opposed
+to those who have decided to stay at home and follow the match on their
+TV/radio. Similarly, the class of public who have chosen their work, vocation
+or any other engagement instead of going to the stadium or sitting in front of
+the TV cannot be considered and treated at par with those who have. This
+distinction is essential because defendants are targeting the third class of
+persons and are claiming that these persons have the right to receive match
+information at par (or almost at par) with the first two classes of persons.
+However, this argument needs a closer inspection.
+
+43.The Supreme Court has made it amply clear in cases such as Tata Press that
+the public‟s right to receive information is within the ambit of Article
+19(1)(a) of the Constitution. The Courts have held that the freedom of speech
+and expression was available to the press to disseminate such information but
+a line has to be drawn in cases where the power is misused. For instance, in
+the case of New Delhi Television Ltd v. ICC Development (International) Ltd. &
+Anr., FAO (OS) 460/2012 (NDTV Case), a division bench of this Court examined
+whether using the footage of a match while airing special „expert-analysis‟
+programs by the news channel was considered CS (OS) Nos. 2722/2012, 3232/2012
+and 2780/2012 Page 31 of 39 „reporting‟ and therefore, justified under the
+principle of „fair dealing‟ and also exonerated under Article 19(1)(a) of the
+Constitution. The Court observed that the freedom of speech and expression was
+available to the press to disseminate information, but a line had to be drawn
+in cases where the freedom is misused.
+
+44.Although the matter before the Division Bench of this Court in the NDTV
+Case was pertaining to the infringement of copyright and reproduction rights
+in the broadcast of cricket matches, there are certain relevant observations
+in the context of the instant case. Firstly, the Division Bench has determined
+the parameters of what constitutes „reporting‟ in the case of a sporting
+event. The Court observed, "In other words, pertaining to sports, reporting of
+an event or an affair would be to give a coverage which is result oriented.
+This view was cited with approval in Media Works NZ's case (supra), which
+decision was followed by the Division Bench of this Court in ESPN Star Sports
+Case." (emphasis supplied)
+
+45.Secondly, with specific reference to cricket, the Division Bench observed,
+"How does it translate to an event of sports (cricket)? Each match would be an
+event. Thus, the span of the match as an event being news would span the
+entire duration of the match. But, within this period of match, the fall of a
+wicket; the achievement of a milestone in the career of a player : to wit
+(sic.) 1000 runs scored, 2000 runs scored etc. or 100 wickets taken, 150
+wickets taken or the 50th catch taken would be events, spanning a momentary
+duration, and being news when the event takes place."
+
+CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 32 of 39
+
+46.In cases where the offending activity does not qualify as reporting, the
+Division Bench observed, "If the offending activity fails to qualify
+„reporting‟ as understood aforenoted i.e. is not result oriented but is by way
+of analysis or review that would be the end of the matter. Question of further
+considering whether the use of the footage is fair or unfair does not arise
+because law permits a broadcaster or a performance to be used for reporting a
+current event or an affair and thereafter places restrictions in the use of
+acquiring the same in a fair manner."
+
+47.Finding that raising revenue under the garb of „reporting‟ was not in
+consonance with the spirit of Article 19(1)(a), the Division Bench observed,
+"Thus, the cry in the media or the press, which we may possibly hear tomorrow
+after our opinion is pronounced, that freedom of the media and the press to
+disseminate information has been curtailed by us, if at all, is set at rest by
+us by noting that the freedom of the press and the media to disseminate
+information was recognized by the society keeping in view the press and the
+media which existed in the 19th and the 20th Century i.e. as organs of
+thought, of empowerment, of culture and of refinement. Not as organs of
+entertainment and revenue generation; least of all as an organ offering on its
+back, a piggy ride for commercial entities i.e. business houses to advertise
+their products by commercializing the goodwill of others."(emphasis supplied).
+
+48.In the same breath, the Division bench also observed -
+
+> "Stale news is no news. Law permits current events and affairs to be
+> reported i.e. recognizes that stale news is no news and thus must be
+> reported currently. That is the reason why an archival footage acquires the
+> status of being archaic after 24 hours... Now, is the problematic area! When
+> does an event or an affair become news? Does news has a gestation period to
+> mutate into CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 33 of 39
+> history? If yes, what would be the gestation period? Questions which are
+> easy to pose, but extremely difficult to answer with empirical precision."
+
+49.In the instant case, it is pertinent to note that „news‟ or „noteworthy
+information‟ arising from a cricket match is very different from the ball-by-
+ball or minute-by-minute information. For instance, who won the toss and chose
+to bat/bowl, whether the batsman has scored a century, or a bowler has taken a
+hat-trick, or a new world record being set constitutes news in the realm of a
+cricket match. To substantiate with an example, a news channel „reporting‟ a
+cricket match would not engage in the contemporaneous dissemination of ball-
+by-ball or minute-by-minute match information. A news channel would only
+report selective excerpts from the match which is news worthy. This
+characterization of news is in consonance with the observation of the Division
+Bench in the NDTV Case.
+
+50.Therefore, it is amply clear that the dissemination of the ball-by-ball or
+minute-by-minute updates at a premium cannot be exonerated under the freedom
+of speech and expression as guaranteed under Article 19(1)(a). Meanwhile, all
+noteworthy information arising from a cricket match constitute „news‟, and the
+„reporting‟ of such noteworthy information would be protected under Article
+19(1)(a).
+
+51.With regards to the last two issues, which is the operative part of this
+judgment, it is settled law that before granting an interim injunction under
+Order XXXIX Rules 1 & 2, the Court is required CS (OS) Nos. 2722/2012,
+3232/2012 and 2780/2012 Page 34 of 39 to identify a prima facie case,
+determine the balance of convenience and ascertain if there would be
+irreparable injury to the plaintiff. In addition, Courts are also required to
+keep in mind the public interest before granting an injunction, as observed by
+this Court in Patel Energy Ltd. v. Union of India & Anr., LPA No. 718/2012.
+Following the rule laid down by the Apex Court in Cases such as Ramniklal N.
+Bhutta v. State of Maharashtra, (1997) 1 SCC 134 and Baitarani Gramiya Bank v.
+PallabKumar, (2004) 9 SCC 100, this Court observed, "The courts have now,
+besides the three elements of prima facie case, irreparable injury and balance
+of convenience, also added the element of public interest in the matter of
+grant of interim relief, and interim relief can be denied if the grant thereof
+would be against the public interest."
+
+52.I am convinced that the plaintiff has made out a prima facie case. This
+also necessarily implies that the defendant‟s application under Order VII Rule
+11 for the rejection of the plaint due to lack of cause of action would have
+no merit. I have also found that by free-riding upon the efforts of the
+plaintiff, the defendants are eating into the revenue which the plaintiff
+would have made, thereby causing the plaintiff irreparable injury. With
+respect to the balance of convenience, I find that it lies with the plaintiff
+only to a certain extent. On one hand, while recognizing the right of the
+plaintiff to monetize and earn revenue from the information arising from a
+cricket match, it must be borne in mind that such recognition should not
+amount to a conferral of blanket rights upon the plaintiff, to the CS (OS)
+Nos. 2722/2012, 3232/2012 and 2780/2012 Page 35 of 39 prejudice of the other
+stakeholders observed earlier. On the other hand, the defendants while having
+their fundamental right of trade and free speech, including the dissemination
+of match information to the public, cannot be permitted to have a free ride or
+reap what they have not sown. Concurrently, both the contesting parties
+venturing into commercial activities cannot deprive the public of its valuable
+right to have the information of news and events.
+
+53.Meanwhile, the public also cannot, as a matter of right, claim the access
+to contemporaneous score updates/match alerts, equal to those who are enjoying
+rights at a premium, by buying the tickets at the stadium or watching it live
+on TV. While recognizing the right of the general public to have score
+updates/match alerts at their convenience on mobile phones via SMS/MAS, and in
+view of the conflicting rights of the contesting parties, it would be just and
+reasonable for the defendants to either obtain a license and gain equal rights
+to their subscribers, or make them wait for some time, in order to not
+prejudice the right of the plaintiff to earn revenue from the match
+information.
+
+54.It is gathered that, as it is, about 3-5 minutes are taken for gathering,
+compiling and disseminating the score updates/match alerts by the defendants.
+In such a circumstance, I am of the opinion that those who do not obtain a
+license from the plaintiff, may not disseminate the score update/match alert
+before 15 minutes from the moment such score update/match alert is
+telecasted/broadcasted by the CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012
+Page 36 of 39 plaintiff. A question might arise as to why the lag is only 15
+minutes and not 2/3 minutes or 30 minutes or more?
+
+55.If the time lag was 2/3 minutes, it would be more or less contemporaneous
+with the live telecast/broadcast of the match. If it is 30 minutes or more, as
+observed by the Division Bench in the NDTV Case, the information becomes
+irrelevant, and it would deprive the public of their right to that
+information. By specifying a 15 minute lag, it is ensured that the defendants
+are not providing ball-by-ball or minute-by-minute score updates/match alerts
+contemporaneously with respect to the live telecast/broadcast of match.
+Considering the time-sensitive nature of the information, after a span of 15
+minutes, there is no longer a direct competition between the parties to
+provide contemporaneous match information to the customers who demand it. This
+maintains a balance between the right of the plaintiff to monetize the cricket
+match and the right of the public to receive such information, and also
+prevents the defendants from free-riding on the efforts of the plaintiff.
+
+56\. The contemporaneous dissemination of score updates/match alerts, without
+payment, but en-cashing the labour and expenditure of the plaintiff would
+amount to „unjust commercial enrichment‟, which would not be fair on the part
+of the defendants. To reiterate again, if the defendants are doing so
+gratuitously, then they enjoy the absolute right of transmission,
+contemporaneously with respect to CS (OS) Nos. 2722/2012, 3232/2012 and
+2780/2012 Page 37 of 39 the telecast/broadcast of the plaintiff, because there
+is no instance of free-riding or unjust commercial enrichment in such a
+circumstance.
+
+57.With respect to „reporting‟ news worthy events, I am once again drawn to
+the reasoning of the Division Bench in the NDTV Case wherein the Court
+observed the limited shelf-life of news worthy events arising out of a cricket
+match thus -
+
+> "[T]he span of the match as an event being news would span the entire
+> duration of the match. But, within this period of match, the fall of a
+> wicket; the achievement of a milestone in the career of a player : to wit
+> (sic.) 1000 runs scored, 2000 runs scored etc. or 100 wickets taken, 150
+> wickets taken or the 50th catch taken would be events, spanning a momentary
+> duration, and being news when the event takes place. The latter i.e. a
+> wicket falling, a century being scored (by a player or by the team), would
+> be events which on the principle of stale news is no news and analogy with
+> biology (sic.), would require it to be held that to put an embargo on
+> reporting said event at a cricket match by putting the time restriction 30
+> minutes would amount to not permitting news to be reported but history to be
+> reported, for the reason the news element content of such an event i.e. a
+> wicket falling or the century being scored is momentary."
+
+58.Before concluding and passing an operative order, I must reiterate that
+there is a difference between contemporaneous dissemination of match
+information in the form of ball-by-ball or minute-by- minute score
+updates/match alerts and reporting noteworthy information or news. In light of
+the above mentioned observations, I hereby order the following:
+
+> a. A limited interim injunction restraining the defendants from
+> disseminating contemporaneous match information in the CS (OS) Nos.
+> 2722/2012, 3232/2012 and 2780/2012 Page 38 of 39 form of ball-by-ball or
+> minute-by-minute score updates/match alerts for a premium, without obtaining
+> a license from the plaintiff.
+
+> b. There shall be no restriction upon the defendants to report „noteworthy
+> information‟ or „news‟ from cricket matches (as discussed in paragraph 49),
+> as and when they arise, because „stale news is no news‟.
+
+> c. There shall be no requirement for the license if the defendants do it
+> gratuitously or after a time lag of 15 minutes.
+
+59.In view of the above, the application of the plaintiff under Order XXXIX
+Rule 1 & 2 of CPC is allowed to the extent indicated above, whereas the
+application of the defendant under Order VII Rule 11 stands dismissed.
+
+M.L. MEHTA, J.
+
+MARCH 13, 2013 kk/rmm CS (OS) Nos. 2722/2012, 3232/2012 and 2780/2012 Page 39
+of 39
+
